@@ -1,0 +1,31 @@
+.iw-content{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.index-wrapper .col-md-4 {
+    width: 33.3333%;
+    float: left;
+}
+.index-wrapper .col-md-6 {
+    width: 50%;
+    float: right;
+}
+.index-wrapper .col-md-7 {
+    width: 58.3333%;
+    float: right;
+}
+.footer{
+    width: 100%;
+}
+.footer .container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.footer .container .col-md-8 {
+    width: 50%;
+    float: left;
+}
+.footer .container .col-md-4 {
+    width: 50%;
+    float: right;
+}

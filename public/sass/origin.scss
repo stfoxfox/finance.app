@@ -1,0 +1,10 @@
+/*
+file for import and compile all scss files in one which will be connected to view file
+if you in *.css file, and want to edit styles, please go to origin.scss in sass folder and edit there, don't forget to compile preprocessor.
+to compile you can use gulp.
+install Gulp, then run ~npm update, then ~gulp watch
+*/
+@import "variables"; //color etc variables
+@import "general"; //other main styles for popular(main) classes and tags
+@import "buttons"; //buttons,links styles
+@import "global"; //global addition helper styles

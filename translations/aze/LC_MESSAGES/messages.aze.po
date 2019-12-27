@@ -1,0 +1,3344 @@
+# Azərbaycan (Азербайджанский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Azərbaycan (Азербайджанский) <support@konstruktor.com>\n"
+"Language: Azərbaycan (Азербайджанский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "istifadəçi adı"
+
+msgid "Invalid username or password, try again"
+msgstr "Yanlış istifadəçi adı və parol . Yenidən cəhd edin ."
+
+msgid "Settings"
+msgstr "Parametrlər"
+
+msgid "Home"
+msgstr "ev"
+
+msgid "You must log in to access this page"
+msgstr "Bu səhifəyə daxil olmaq daxil olmalıdır"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Sizin sessiya müddəti başa edilmişdir. Bu hərəkət yerinə yetirmək üçün relogin edin"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Head Office"
+msgstr "Head Office"
+
+msgid "Address"
+msgstr "ünvan"
+
+msgid "Back"
+msgstr "geri"
+
+msgid "Apply"
+msgstr "tətbiq etmək"
+
+msgid "Upload files…"
+msgstr "Faylları bərpa ..."
+
+msgid "Set as main"
+msgstr "Əsas olaraq ayarla"
+
+msgid "Delete"
+msgstr "sil"
+
+msgid "Original image"
+msgstr "Original image"
+
+msgid "Uploaded"
+msgstr "Yüklənib"
+
+msgid "File name"
+msgstr "Faylın adı"
+
+msgid "File size"
+msgstr "Faylın ölçüsü"
+
+msgid "Resolution"
+msgstr "qətnamə"
+
+msgid "Enlarge"
+msgstr "genişləndirmək"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Original size"
+msgstr "Original ölçüsü"
+
+msgid "For editor"
+msgstr "redaktoru"
+
+msgid "Resize"
+msgstr "RSS"
+
+msgid "Width"
+msgstr "en"
+
+msgid "Height"
+msgstr "hündürlük"
+
+msgid "Media URL"
+msgstr "Media URL"
+
+msgid "Add record"
+msgstr "rekord əlavə et"
+
+msgid "Show filter settings"
+msgstr "Show filter parametrləri"
+
+msgid "Edit record"
+msgstr "etmək rekord"
+
+msgid "Delete record"
+msgstr "rekord sil"
+
+msgid "Delete checked records"
+msgstr "Yoxlanılır qeydləri silmək"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Password"
+msgstr "parol"
+
+msgid "Remember me"
+msgstr "məni yadda saxla"
+
+msgid "Login"
+msgstr "Daxil ol"
+
+msgid "Clean image cache"
+msgstr "Təmiz image cache"
+
+msgid "Processing query..."
+msgstr "Qenerasiya sorğu ..."
+
+msgid "CMS Development"
+msgstr "CMS Development"
+
+msgid "Admin Home Page"
+msgstr "Admin Əsas səhifə"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Yeni nişanı Ön sonuna Open Ana səhifə"
+
+msgid "Go to Site"
+msgstr "Site get"
+
+msgid "Log out"
+msgstr "Çıxış"
+
+msgid "Send"
+msgstr "göndərmək"
+
+msgid "General"
+msgstr "ümumi"
+
+msgid "Title"
+msgstr "başlıq"
+
+msgid "Teaser"
+msgstr "sataşqan"
+
+msgid "Published"
+msgstr "nəşr"
+
+msgid "Featured"
+msgstr "Featured"
+
+msgid "Active"
+msgstr "aktiv"
+
+msgid "Field is mandatory"
+msgstr "Field məcburi"
+
+msgid "Sort Order"
+msgstr "Sort Order"
+
+msgid "Upload"
+msgstr "Videonu"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "mart"
+
+msgid "Apr"
+msgstr "Apr"
+
+msgid "May"
+msgstr "may"
+
+msgid "Jun"
+msgstr "iyun"
+
+msgid "Jul"
+msgstr "iyul"
+
+msgid "Aug"
+msgstr "avqust"
+
+msgid "Sep"
+msgstr "sentyabr"
+
+msgid "Oct"
+msgstr "oktyabr"
+
+msgid "Nov"
+msgstr "noyabr"
+
+msgid "Dec"
+msgstr "dekabr"
+
+msgid "Product already exists in the order"
+msgstr "Product artıq üçün mövcuddur"
+
+msgid "Product does not exist"
+msgstr "Məhsul yoxdur"
+
+msgid "Incorrect request"
+msgstr "yanlış tələb"
+
+msgid "Products"
+msgstr "Məhsullar"
+
+msgid "Product types"
+msgstr "Məhsul növləri"
+
+msgid "Contractors"
+msgstr "Contractors"
+
+msgid "Contractor"
+msgstr "podratçı"
+
+msgid "Orders"
+msgstr "Sifarişlər"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "new order"
+
+msgid "My orders"
+msgstr "Mənim sifariş"
+
+msgid "Recharge balance"
+msgstr "Recharge balans"
+
+msgid "Administrator"
+msgstr "inzibatçı"
+
+msgid "Incorrect event ID"
+msgstr "Yanlış hadisə ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "etmək podratçı"
+
+msgid "Create contractor"
+msgstr "podratçı yaratmaq"
+
+msgid "Edit question"
+msgstr "etmək sual"
+
+msgid "Create question"
+msgstr "sual yaratmaq"
+
+msgid "Edit order"
+msgstr "etmək üçün"
+
+msgid "Create order"
+msgstr "sifariş yaratmaq"
+
+msgid "Edit product"
+msgstr "etmək məhsul"
+
+msgid "Create product"
+msgstr "məhsul yaratmaq"
+
+msgid "Edit product type"
+msgstr "Etmək məhsul növü"
+
+msgid "Create product type"
+msgstr "Məhsul Növünü yaratmaq"
+
+msgid "You have received a file"
+msgstr "Bir faylı aldıq"
+
+msgid "You received a file from"
+msgstr "Siz bir fayl qəbul"
+
+msgid "File has been uploaded"
+msgstr "Fayl qəbul edilmişdir"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "minimal sayı"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "maddələr"
+
+msgid "Remove"
+msgstr "çıxarmaq"
+
+msgid "Contact person"
+msgstr "Əlaqələndirici şəxs"
+
+msgid "Email"
+msgstr "E-poçt"
+
+msgid "Contractor phone"
+msgstr "Contractor telefon"
+
+msgid "Contractor name"
+msgstr "Contractor adı"
+
+msgid "Contractor details"
+msgstr "Contractor ətraflı"
+
+msgid "Order ID"
+msgstr "Sifariş ID"
+
+msgid "Sum"
+msgstr "məbləğ"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Balans doldurulması üçün uyğun ödəniş sisteminin seçin"
+
+msgid "Recharge amount"
+msgstr "Recharge məbləği"
+
+msgid "Paid"
+msgstr "pullu"
+
+msgid "Shipped"
+msgstr "sövq"
+
+msgid "- No products in this order -"
+msgstr "- Bu qaydada Məhsul yoxdur -"
+
+msgid "month"
+msgstr "ay"
+
+msgid "No user found"
+msgstr "No istifadəçi tapılmadı"
+
+msgid "Achievement"
+msgstr "nailiyyət"
+
+msgid "Confirmed accomplishments"
+msgstr "təsdiq nailiyyətlər"
+
+msgid "Remove achievement"
+msgstr "nailiyyət Sil"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "telefon"
+
+msgid "Site URL and email"
+msgstr "Site URL və e-poçt"
+
+msgid "Remove address"
+msgstr "Ünvanı Sil"
+
+msgid "Members"
+msgstr "İstifadəçi"
+
+msgid "Requires a payment"
+msgstr "Ödəniş tələb edir"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Ready"
+msgstr "hazır"
+
+msgid "Find user..."
+msgstr "Istifadəçi axtar ..."
+
+msgid "Order it"
+msgstr "sifariş"
+
+msgid "Find group..."
+msgstr "Qrup tap ..."
+
+msgid "Find user or community..."
+msgstr "Istifadəçi və ya icma tap ..."
+
+msgid "No item found"
+msgstr "No maddə tapıldı"
+
+msgid "years"
+msgstr "il"
+
+msgid "Send message"
+msgstr "ismarıc göndər"
+
+msgid "Message"
+msgstr "İsmarıc"
+
+msgid "To send message press Enter"
+msgstr "Mesaj Enter düyməsini basın göndərmək"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Mesaj Ctrl göndərmək + daxil edin"
+
+msgid "Processing file(s)..."
+msgstr "Qenerasiya fayl ( s ) ..."
+
+msgid "Group settings"
+msgstr "Group parametrləri"
+
+msgid "Create group"
+msgstr "qrup yaradın"
+
+msgid "Group has been successfully saved"
+msgstr "Group müvəffəqiyyətlə qeyd edildi"
+
+msgid "Group title"
+msgstr "Group title"
+
+msgid "Group video"
+msgstr "Group video"
+
+msgid "Description"
+msgstr "təsvir"
+
+msgid "Your role in group"
+msgstr "Qrup rol"
+
+msgid "Role"
+msgstr "rol"
+
+msgid "Photo or video gallery"
+msgstr "Foto və ya video qalereya"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "şərtləri Videonu yüklə"
+
+msgid "Add group address"
+msgstr "Qrup ünvanı əlavə"
+
+msgid "Group articles"
+msgstr "Group məqalələr"
+
+msgid "No addresses yet"
+msgstr "Yoxdur ünvanları"
+
+msgid "Add group achievement"
+msgstr "Qrup nailiyyət əlavə"
+
+msgid "No achivements yet"
+msgstr "Yoxdur nailiyyətlər"
+
+msgid "Are you sure to delete this user"
+msgstr "Bu istifadəçi silmək üçün əminsinizmi"
+
+msgid "Add member"
+msgstr "üzv əlavə"
+
+msgid "Are you sure to delete this record?"
+msgstr "Bu rekord silmək əminsinizmi?"
+
+msgid "Join this group"
+msgstr "Bu qrupa qoşul"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Sizin dəvət qrup idarəçi göndərildi"
+
+msgid "All addresses"
+msgstr "bütün ünvanları"
+
+msgid "Collapse"
+msgstr "uçqun"
+
+msgid "Achievements"
+msgstr "Nailiyyətlər"
+
+msgid "Show more"
+msgstr "daha çox göstər"
+
+msgid "Team"
+msgstr "komanda"
+
+msgid "Projects"
+msgstr "Layihələr"
+
+msgid "New project"
+msgstr "yeni layihə"
+
+msgid "Project has not been created yet"
+msgstr "Layihə hələ yaradılmışdır deyil"
+
+msgid "Messanger"
+msgstr "messanger"
+
+msgid "Balance"
+msgstr "balans"
+
+msgid "Main page"
+msgstr "əsas səhifə"
+
+msgid "Upload image"
+msgstr "Videonu image"
+
+msgid "My time"
+msgstr "Mənim vaxt"
+
+msgid "Day"
+msgstr "gün"
+
+msgid "Week"
+msgstr "həftə"
+
+msgid "Project settings"
+msgstr "layihə parametrləri"
+
+msgid "Create project"
+msgstr "layihə yaratmaq"
+
+msgid "Project has been successfully saved"
+msgstr "Layihə uğurla qeyd edildi"
+
+msgid "Project name"
+msgstr "Layihənin adı"
+
+msgid "Deadline"
+msgstr "Deadline"
+
+msgid "Close"
+msgstr "yaxın"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Assigned to"
+msgstr "təyin"
+
+msgid "Discussion"
+msgstr "müzakirə"
+
+msgid "Task was created"
+msgstr "Task yaradıldı"
+
+msgid "Task was closed"
+msgstr "Task bağlanıldı"
+
+msgid "Go to Group"
+msgstr "Qrup gedin"
+
+msgid "Closed"
+msgstr "bağlı"
+
+msgid "Last updates"
+msgstr "son əlavələr"
+
+msgid "Project is closed"
+msgstr "Layihə bağlıdır"
+
+msgid "No open tasks"
+msgstr "Açıq vəzifələri"
+
+msgid "New task"
+msgstr "yeni tapşırıq"
+
+msgid "Closed tasks"
+msgstr "qapalı vəzifələri"
+
+msgid "Add subproject"
+msgstr "Alt əlavə"
+
+msgid "Add task"
+msgstr "tapşırıq əlavə et"
+
+msgid "Sun"
+msgstr "Sunday"
+
+msgid "Mon"
+msgstr "Bazar ertəsi"
+
+msgid "Tue"
+msgstr "çərşənbə axşamı"
+
+msgid "Wed"
+msgstr "çərşənbə"
+
+msgid "Thur"
+msgstr "Cümə axşamı"
+
+msgid "Fri"
+msgstr "cümə"
+
+msgid "Sat"
+msgstr "şənbə"
+
+msgid "Event title"
+msgstr "Hadisə adı"
+
+msgid "Event description"
+msgstr "Hadisə təsviri"
+
+msgid "I registered on this site"
+msgstr "Mən bu saytda qeydiyyatdan"
+
+msgid "Last created groups"
+msgstr "Son yaradılmış qruplar"
+
+msgid "You joined this group as"
+msgstr "Siz bu qrup qatıldı"
+
+msgid "You received a request to join the group"
+msgstr "Siz qrup qoşulmaq üçün sorğu qəbul"
+
+msgid "Updated site"
+msgstr "yenilənib site"
+
+msgid "Site is under construction"
+msgstr "Site tikilir"
+
+msgid "Last registered users"
+msgstr "Axırıncı qeydə alinmiş"
+
+msgid "User settings"
+msgstr "İstifadəçi parametrləri"
+
+msgid "Technical support"
+msgstr "texniki dəstək"
+
+msgid "Change email"
+msgstr "Change email"
+
+msgid "Change password"
+msgstr "Change parol"
+
+msgid "User has been successfully saved"
+msgstr "İstifadəçi uğurla qeyd edildi"
+
+msgid "Full name"
+msgstr "tam adı"
+
+msgid "My video"
+msgstr "Mənim video"
+
+msgid "Skills"
+msgstr "bacarıqları"
+
+msgid "Birthday"
+msgstr "ad günü"
+
+msgid "Country of residence"
+msgstr "Yaşayış Ölkə"
+
+msgid "Country"
+msgstr "ölkə"
+
+msgid "Zip Code"
+msgstr "poçt Indeksi"
+
+msgid "City/town of residence"
+msgstr "Yaşayış Şəhər / Rayon"
+
+msgid "University/college"
+msgstr "Universitet / kollec"
+
+msgid "University/college photo"
+msgstr "Universitet / kollec foto"
+
+msgid "Add user\'s accomplishments"
+msgstr "İstifadəçi nailiyyətlər əlavə"
+
+msgid "Interface language"
+msgstr "interface language"
+
+msgid "How other people see this page"
+msgstr "Necə digər insanlar bu səhifəni görmək"
+
+msgid "Video with me"
+msgstr "Mənimlə Video"
+
+msgid "Groups"
+msgstr "Qruplar"
+
+msgid "Registered today"
+msgstr "qeydiyyatlı gün"
+
+msgid "Qty"
+msgstr "Mqdr"
+
+msgid "No registered users yet"
+msgstr "Yoxdur qeydiyyatdan keçmiş istifadəçilər"
+
+msgid "Total"
+msgstr "ümumi"
+
+msgid "Registered total"
+msgstr "Qeydiyyatdan keçmiş ümumi"
+
+msgid "You received a file"
+msgstr "Siz bir fayl qəbul"
+
+msgid "You were invited into this room"
+msgstr "Bu otağa dəvət edildi"
+
+msgid "Request is being processed"
+msgstr "Filmlərin işlənir"
+
+msgid "Fax"
+msgstr "faks"
+
+msgid "Messenger"
+msgstr "elçi"
+
+msgid "New subproject"
+msgstr "New subproject"
+
+msgid "messages written."
+msgstr "messages yazılı ."
+
+msgid "projects created based on groups."
+msgstr "layihələr qrupları əsasında yaradılmışdır."
+
+msgid "users registered on website."
+msgstr "istifadəçi saytında qeydiyyatdan ."
+
+msgid "New email"
+msgstr "yeni e-poçt"
+
+msgid "Confirm email"
+msgstr "e-poçt təsdiq"
+
+msgid "New password"
+msgstr "yeni şifrə"
+
+msgid "Confirm password"
+msgstr "Şifrəni təsdiq"
+
+msgid "Occupation"
+msgstr "Speciality"
+
+msgid "Timezone"
+msgstr "Saat qurşağı"
+
+msgid "Answer"
+msgstr "cavab"
+
+msgid "Articles"
+msgstr "məqalələr"
+
+msgid "Article"
+msgstr "məqalə"
+
+msgid "Video-article"
+msgstr "Video- məqalə"
+
+msgid "Find article..."
+msgstr "Maddə tapmaq ..."
+
+msgid "Politics"
+msgstr "siyasət"
+
+msgid "Economics"
+msgstr "iqtisadiyyat"
+
+msgid "Community"
+msgstr "icma"
+
+msgid "Culture"
+msgstr "mədəniyyət"
+
+msgid "Sports"
+msgstr "idman"
+
+msgid "Hi-tech"
+msgstr "Hi- tech"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Fashion"
+msgstr "dəb"
+
+msgid "Games"
+msgstr "Oyun"
+
+msgid "Other"
+msgstr "digər"
+
+msgid "Invalid mediafile"
+msgstr "Yanlış mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Hələ bu kateqoriya Heç bir məqalə"
+
+msgid "Back to profile"
+msgstr "Geri profilinə"
+
+msgid "View article"
+msgstr "Məqaləyə bax"
+
+msgid "Edit article"
+msgstr "Edit məqalə"
+
+msgid "Create article"
+msgstr "məqalə yaratmaq"
+
+msgid "Article title"
+msgstr "Maddə title"
+
+msgid "Article section"
+msgstr "Maddə bölmə"
+
+msgid "Choose image"
+msgstr "resim seçin"
+
+msgid "Save and upload"
+msgstr "Qazanc və bərpa"
+
+msgid "Show more..."
+msgstr "Daha çox göstər ..."
+
+msgid "Create"
+msgstr "yaratmaq"
+
+msgid "Edit"
+msgstr "redaktə etmək"
+
+msgid "Project"
+msgstr "layihə"
+
+msgid "Team"
+msgstr "komanda"
+
+msgid "A new article was published"
+msgstr "Yeni məqalə dərc edilib"
+
+msgid "You joined this project"
+msgstr "Siz bu layihəyə qoşulub"
+
+msgid "Enter your information in the User settings"
+msgstr "İstifadəçi parametrləri məlumat daxil edin"
+
+msgid "Communities"
+msgstr "Communities"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Mənim nailiyyətlər Video təqdimat"
+
+msgid "My articles"
+msgstr "Mənim məqalələr"
+
+msgid "User"
+msgstr "İstifadəçi"
+
+msgid "Users"
+msgstr "İstifadəçilər"
+
+msgid "Add new list"
+msgstr "Yeni siyahı əlavə et"
+
+msgid "List title"
+msgstr "Siyahı title"
+
+msgid "Add"
+msgstr "əlavə etmək"
+
+msgid "Add to favorites"
+msgstr "Seçilmişlərə əlavə et"
+
+msgid "Delete from favorites"
+msgstr "Seçilmişlərə silmək"
+
+msgid "Select list"
+msgstr "Select siyahısı"
+
+msgid "Subscriptions"
+msgstr "Abunəliklər"
+
+msgid "Subscribe"
+msgstr "abunə olmaq"
+
+msgid "Unsubscribe"
+msgstr "Unsubscribe"
+
+msgid "General list"
+msgstr "General siyahısı"
+
+msgid "No users in this list"
+msgstr "Bu siyahıda No users"
+
+msgid "Publish"
+msgstr "dərc etmək"
+
+msgid "Unpublish"
+msgstr "nəşrdən"
+
+msgid "Add user"
+msgstr "istifadəçi əlavə et"
+
+msgid "Create document"
+msgstr "sənəd yaradın"
+
+msgid "Edit document"
+msgstr "Edit sənəd"
+
+msgid "View"
+msgstr "baxış"
+
+msgid "Document title"
+msgstr "Document title"
+
+msgid "Find document..."
+msgstr "Sənəd tapmaq ..."
+
+msgid "Share your thoughts"
+msgstr "Sizin fikirlərinizi deyin"
+
+msgid "Leave your comment"
+msgstr "Sizin şərhiniz tərk"
+
+msgid "Accept"
+msgstr "qəbul"
+
+msgid "Decline"
+msgstr "tənəzzül"
+
+msgid "Add article"
+msgstr "maddə əlavə"
+
+msgid "Link to verified accomplishments"
+msgstr "Təsdiq nailiyyətlər Link"
+
+msgid "No articles here yet..."
+msgstr "Hələ burada Heç bir məqalə"
+
+msgid "Find file or folder..."
+msgstr "Fayl və ya qovluq tap ..."
+
+msgid "Sort"
+msgstr "cür"
+
+msgid "By name"
+msgstr "adı ilə"
+
+msgid "By date"
+msgstr "tarix üzrə"
+
+msgid "By updated date"
+msgstr "Yeniləndi Tarix üzrə"
+
+msgid "By size"
+msgstr "ölçüsü"
+
+msgid "By type"
+msgstr "növü"
+
+msgid "Move"
+msgstr "Move"
+
+msgid "File Manager"
+msgstr "file Manager"
+
+msgid "Share link"
+msgstr "Share link"
+
+msgid "Responsible"
+msgstr "məsul"
+
+msgid "Performer"
+msgstr "ifaçı"
+
+msgid "New Folder"
+msgstr "yeni Qovluq"
+
+msgid "Folder name"
+msgstr "qovluq adı"
+
+msgid "By default"
+msgstr "qiyabi"
+
+msgid "Back to group"
+msgstr "Geri qrupu"
+
+msgid "year(s)"
+msgstr "il (s)"
+
+msgid "January"
+msgstr "yanvar"
+
+msgid "February"
+msgstr "fevral"
+
+msgid "March"
+msgstr "mart"
+
+msgid "April"
+msgstr "aprel"
+
+msgid "May"
+msgstr "may"
+
+msgid "June"
+msgstr "iyun"
+
+msgid "July"
+msgstr "iyul"
+
+msgid "August"
+msgstr "avqust"
+
+msgid "September"
+msgstr "sentyabr"
+
+msgid "October"
+msgstr "oktyabr"
+
+msgid "November"
+msgstr "noyabr"
+
+msgid "December"
+msgstr "dekabr"
+
+msgid "Password Reminder"
+msgstr "Şifrə Xatırlatma"
+
+msgid "Log In"
+msgstr "Daxil ol"
+
+msgid "Sign in"
+msgstr "daxil ol"
+
+msgid "Register"
+msgstr "Qeydiyyatdan"
+
+msgid "First name"
+msgstr "ad"
+
+msgid "Last name"
+msgstr "Soyad"
+
+msgid "I agree with rules"
+msgstr "Mən qaydaları ilə razıyam"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "A təsdiq mail e-poçt ünvanına göndərilmişdir."
+
+msgid "Thanks"
+msgstr "təşəkkür"
+
+msgid "Password must be at least 6 characters"
+msgstr "Şifrə azı 6 simvol olmalıdır"
+
+msgid "Creative Environment"
+msgstr "Creative Environment"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Bu xidmətdən istifadə etmək üçün yaşı ən azı on üç il olmaq lazımdır"
+
+msgid "Order status"
+msgstr "Sifariş statusu"
+
+msgid "Processing order"
+msgstr "Qenerasiya sifariş"
+
+msgid "Requires a payment"
+msgstr "Ödəniş tələb edir"
+
+msgid "Shipping"
+msgstr "Göndərmə"
+
+msgid "Ready"
+msgstr "hazır"
+
+msgid "Thank you for your payment"
+msgstr "Ödəniş üçün təşəkkür edirik"
+
+msgid "Your payment has been cancelled"
+msgstr "Sizin ödəniş ləğv edildi"
+
+msgid "page"
+msgstr "səhifə"
+
+msgid "Rent period"
+msgstr "Rent müddəti"
+
+msgid "Total, month"
+msgstr "Total, ay"
+
+msgid "Order items"
+msgstr "Sifariş maddələr"
+
+msgid "No records found"
+msgstr "Qeyd tapılmadı"
+
+msgid "User with this email is already exist"
+msgstr "Bu e-poçt ilə istifadəçi artıq mövcud deyil"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Belə adı ilə qovluq və ya fayl artıq hedef qovluğu mövcud edilir"
+
+msgid "Minimal quantity"
+msgstr "minimal miqdarı"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "çap nüsxə"
+
+msgid "Terms of Use"
+msgstr "İstifadə şərtləri"
+
+msgid "Privacy Policy"
+msgstr "Gizlilik Siyasəti"
+
+msgid "Find project..."
+msgstr "Layihə tapmaq ..."
+
+msgid "New Project"
+msgstr "yeni Layihə"
+
+msgid "Accounts"
+msgstr "Hesablama"
+
+msgid "Operations"
+msgstr "Əməliyyatlar"
+
+msgid "All accounts"
+msgstr "bütün hesabları"
+
+msgid "All categories"
+msgstr "All categories"
+
+msgid "Expense"
+msgstr "xərc"
+
+msgid "Income"
+msgstr "gəlir"
+
+msgid "Transfer"
+msgstr "köçürmək"
+
+msgid "Expense"
+msgstr "xərc"
+
+msgid "income"
+msgstr "gəlir"
+
+msgid "tax"
+msgstr "vergi"
+
+msgid "percent"
+msgstr "faiz"
+
+msgid "transfer"
+msgstr "köçürmək"
+
+msgid "Make operation"
+msgstr "əməliyyat"
+
+msgid "Select date"
+msgstr "Select tarixi"
+
+msgid "Select account"
+msgstr "Select hesab"
+
+msgid "Month"
+msgstr "ay"
+
+msgid "Quarter"
+msgstr "rüb"
+
+msgid "Year"
+msgstr "il"
+
+msgid "From"
+msgstr "etibarən"
+
+msgid "To"
+msgstr "qədər"
+
+msgid "Expense amount"
+msgstr "Expense məbləği"
+
+msgid "Categories"
+msgstr "Kateqoriyalar"
+
+msgid "Comments"
+msgstr "Şərhlər"
+
+msgid "Income amount"
+msgstr "gəlir məbləği"
+
+msgid "Transfer amount"
+msgstr "Transfer məbləği"
+
+msgid "From account"
+msgstr "hesabınızdan"
+
+msgid "To account"
+msgstr "hesab"
+
+msgid "New Account"
+msgstr "New Account"
+
+msgid "New Category"
+msgstr "New Kateqoriya"
+
+msgid "All"
+msgstr "bütün"
+
+msgid "Name"
+msgstr "ad"
+
+msgid "Enter category name"
+msgstr "Kateqoriya adı daxil edin"
+
+msgid "Select type"
+msgstr "Select növü"
+
+msgid "Credit card"
+msgstr "Kredit kartı"
+
+msgid "Debit card"
+msgstr "debit kart"
+
+msgid "Bank account"
+msgstr "Bank hesabı"
+
+msgid "Cash"
+msgstr "pul"
+
+msgid "Balance is empty"
+msgstr "Balance boş"
+
+msgid "Statistic is empty"
+msgstr "Statistika boş"
+
+msgid "Regular payments"
+msgstr "daimi ödənişlər"
+
+msgid "Are you sure ?"
+msgstr "Sən əminsən ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Siz bu layihəni yaxın əminsinizmi?"
+
+msgid "Project was deleted successfully"
+msgstr "Layihə uğurla silindi"
+
+msgid "Select currency"
+msgstr "Select valyuta"
+
+msgid "Account"
+msgstr "hesab"
+
+msgid "Orders list"
+msgstr "Sifarişlər siyahısı"
+
+msgid "Order payments"
+msgstr "Sifariş ödənişlər"
+
+msgid "View order"
+msgstr "sifariş"
+
+msgid "No response from Printer API"
+msgstr "Printer API Cavab"
+
+msgid "Bad response from Printer API"
+msgstr "Printer API Bad cavab"
+
+msgid "User ID"
+msgstr "istifadəçi ID-si"
+
+msgid "Contact Person"
+msgstr "Əlaqə"
+
+msgid "No orders to process"
+msgstr "No sifariş emal"
+
+msgid "Article announce image"
+msgstr "Maddə image elan"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Invalid video url . Boş buraxın və ya etibarlı youtube url daxil"
+
+msgid "Please, enter Contractor data"
+msgstr "Podratçı məlumat daxil edin"
+
+msgid "Distribute devices"
+msgstr "cihazlar payladı"
+
+msgid "Quantity"
+msgstr "kəmiyyət"
+
+msgid "Devices left"
+msgstr "cihazlar sol"
+
+msgid "Distributed devices"
+msgstr "paylanmış cihazlar"
+
+msgid "You must enter quantity"
+msgstr "Siz miqdarı daxil edin lazımdır"
+
+msgid "All devices are distributed"
+msgstr "Bütün cihazlar payladı"
+
+msgid "IP address"
+msgstr "IP ünvanı"
+
+msgid "Only for printer"
+msgstr "Yalnız Çap üçün"
+
+msgid "Counter"
+msgstr "Counter"
+
+msgid "You was excluded from this room"
+msgstr "Bu otaq xaric edilib"
+
+msgid "Compare"
+msgstr "müqayisə etmək"
+
+msgid "Scheduled transaction"
+msgstr "Planlı əməliyyat"
+
+msgid "Select transfer account"
+msgstr "Select transfer hesab"
+
+msgid "Select income account"
+msgstr "Select gəlir hesab"
+
+msgid "Reports"
+msgstr "Hesabatlar"
+
+msgid "Goals"
+msgstr "məqsədləri"
+
+msgid "Budgets"
+msgstr "Budgets"
+
+msgid "Enter user name or email..."
+msgstr "Istifadəçi adı və ya e-poçt daxil edin ..."
+
+msgid "Invite had been sended"
+msgstr "Sended edilmişdir dəvət"
+
+msgid "Statistics"
+msgstr "statistika"
+
+msgid "Updated site began to work"
+msgstr "Yenilənib site işə başladı"
+
+msgid "City of residence"
+msgstr "Yaşayış City"
+
+msgid "Edit favourites list"
+msgstr "Edit Seçilmişlərə siyahısı"
+
+msgid "Add favourites list"
+msgstr "Seçilmişlərə siyahısı əlavə"
+
+msgid "Categories is required"
+msgstr "Kateqoriyalar tələb olunur"
+
+msgid "Type new category name and hit Enter"
+msgstr "Yeni kateqoriya adını yazın və Enter düyməsini basın"
+
+msgid "You created an order"
+msgstr "Əgər sifariş yaradılmışdır"
+
+msgid "You received a device due to this order"
+msgstr "Siz görə bu qaydada bir cihaz qəbul"
+
+msgid "%s attached %s to task %s"
+msgstr "%s əlavə %s %s vəzifə"
+
+msgid "member(s)"
+msgstr "member (si)"
+
+msgid "%s commented task %s"
+msgstr "%s şərh vəzifəsi %s"
+
+msgid "%s closed task %s"
+msgstr "%s qapalı vəzifəsi %s"
+
+msgid "%s created task %s"
+msgstr "%s yaradılmış vəzifə %s"
+
+msgid "%s created this project"
+msgstr "%s bu layihəni yaradılmışdır"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s yaradılmış subproject \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s qapalı layihəsi \" %s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s qapalı subproject \"%s\""
+
+msgid "This field must not be blank"
+msgstr "Bu sahədə boş olmamalıdır"
+
+msgid "Document with such name is already exist"
+msgstr "Belə adı ilə Document artıq mövcud deyil"
+
+msgid "Wait until image upload"
+msgstr "Image upload qədər gözləyin"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Message can not be empty"
+msgstr "İsmarıc boş ola bilməz"
+
+msgid "Yes"
+msgstr "bəli"
+
+msgid "No"
+msgstr "Yox"
+
+msgid "Created"
+msgstr "Yaradılma"
+
+msgid "Compare is empty"
+msgstr "Boş müqayisə"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Siz əməliyyat silmek əminsinizmi"
+
+msgid "Do you really want to delete transaction"
+msgstr "Siz, həqiqətən, əməliyyat silmək istəyirsiniz"
+
+msgid "Project with same name already exists"
+msgstr "Eyni adlı layihə artıq mövcuddur"
+
+msgid "Account is not found"
+msgstr "Account tapılmadı"
+
+msgid "Currency is required"
+msgstr "Valyuta tələb olunur"
+
+msgid "error while deleting document"
+msgstr "səhv sənəd silərkən"
+
+msgid "Expences"
+msgstr "xərclər"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Siz bu otaqda user \" %s \" dəvət"
+
+msgid "User \"%s\" joined this room"
+msgstr "İstifadəçi \" %s\" bu otaq qoşulub"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Bu otaq user \" %s \" istisna"
+
+msgid "User \"%s\" left this room"
+msgstr "İstifadəçi \" %s\" bu otağı tərk"
+
+msgid "Add account"
+msgstr "hesab əlavə et"
+
+msgid "The requested page is not found"
+msgstr "Səhifə tapılmadı deyil"
+
+msgid "Document"
+msgstr "sənəd"
+
+msgid "Table"
+msgstr "masa"
+
+msgid "file(s)"
+msgstr "file (s)"
+
+msgid "Residue"
+msgstr "qalıq"
+
+msgid "Result is empty"
+msgstr "Nəticə boş"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Ümumi məbləği %s mo üçün %s"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Siz müvafiq hesabına %s aylıq depozit var"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "finish"
+msgstr "finiş"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Seçilmiş hesab başqa məqsəd üçün istifadə olunur"
+
+msgid "Amount required"
+msgstr "məbləğ tələb"
+
+msgid "New goal"
+msgstr "New məqsədi"
+
+msgid "Goal"
+msgstr "qol"
+
+msgid "Goal name"
+msgstr "Goal adı"
+
+msgid "Invalid date"
+msgstr "Yanlış tarix"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Zəruri məbləği müsbət sayı olmalıdır"
+
+msgid "Remain"
+msgstr "qalmaq"
+
+msgid "Last day"
+msgstr "son gün"
+
+msgid "Accumulated"
+msgstr "yığılmış"
+
+msgid "Put aside"
+msgstr "kənara qoymaq"
+
+msgid "January"
+msgstr "yanvar"
+
+msgid "February"
+msgstr "fevral"
+
+msgid "March"
+msgstr "mart"
+
+msgid "April"
+msgstr "aprel"
+
+msgid "May"
+msgstr "may"
+
+msgid "June"
+msgstr "iyun"
+
+msgid "July"
+msgstr "iyul"
+
+msgid "August"
+msgstr "avqust"
+
+msgid "September"
+msgstr "sentyabr"
+
+msgid "October"
+msgstr "oktyabr"
+
+msgid "November"
+msgstr "noyabr"
+
+msgid "December"
+msgstr "dekabr"
+
+msgid "Expenses projected/actual"
+msgstr "Proqnozlaşdırılan / faktiki xərclər"
+
+msgid "Net Income projected/actual"
+msgstr "Net gəlir / faktiki proqnozlaşdırılır"
+
+msgid "New budget"
+msgstr "yeni büdcə"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Gəlir və xərclər Chart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Eyni hesab cüt və kateqoriya ilə büdcə artıq mövcuddur"
+
+msgid "Budget is empty"
+msgstr "Budget boş"
+
+msgid "Budget"
+msgstr "büdcə"
+
+msgid "plan"
+msgstr "plan"
+
+msgid "fact"
+msgstr "fakt"
+
+msgid "diff"
+msgstr "fərq"
+
+msgid "Show More"
+msgstr "Daha çox göstər"
+
+msgid "Cancel"
+msgstr "ləğv etmək"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "Mənim satış"
+
+msgid "Time spent"
+msgstr "vaxt sərf"
+
+msgid "Total time spent"
+msgstr "Ümumi vaxt sərf"
+
+msgid "Earnings per hour"
+msgstr "Saatda mənfəət"
+
+msgid "Total earnings"
+msgstr "ümumi məbləğ"
+
+msgid "Call"
+msgstr "çağırış"
+
+msgid "Phone call"
+msgstr "Telefon zəngi"
+
+msgid "Telephone calls"
+msgstr "Telefon zəngləri"
+
+msgid "Send email"
+msgstr "e-poçt göndər"
+
+msgid "Emails"
+msgstr "E-poçt"
+
+msgid "Meeting"
+msgstr "görüş"
+
+msgid "Meetings"
+msgstr "görüşlər"
+
+msgid "All events"
+msgstr "bütün tədbirlər"
+
+msgid "Task"
+msgstr "tapşırıq"
+
+msgid "Event"
+msgstr "hadisə"
+
+msgid "Events"
+msgstr "Hadisələr"
+
+msgid "Time"
+msgstr "vaxt"
+
+msgid "Events statistics"
+msgstr "Hadisələr statistika"
+
+msgid "days"
+msgstr "gün"
+
+msgid "hours"
+msgstr "saat"
+
+msgid "minutes"
+msgstr "dəqiqə"
+
+msgid "Income & expense"
+msgstr "Gəlir və xərc"
+
+msgid "Show chart"
+msgstr "Show chart"
+
+msgid "Hide chart"
+msgstr "hide chart"
+
+msgid "Add event"
+msgstr "hadisə əlavə et"
+
+msgid "Add financial data"
+msgstr "Maliyyə data əlavə"
+
+msgid "Select contractor"
+msgstr "Select podratçı"
+
+msgid "Net Income"
+msgstr "Xalis gəlir"
+
+msgid "Revenue"
+msgstr "gəlir"
+
+msgid "Taxes"
+msgstr "vergilər"
+
+msgid "Amount planned"
+msgstr "məbləğ planlaşdırılır"
+
+msgid "Amount"
+msgstr "miqdar"
+
+msgid "Period"
+msgstr "dövr"
+
+msgid "Are you sure to close this task?"
+msgstr "Bu vəzifəni yaxın əminsinizmi?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "bütün qruplar"
+
+msgid "added from task"
+msgstr "vəzifəsi əlavə"
+
+msgid "Monthly repeat"
+msgstr "aylıq təkrar"
+
+msgid "Select category"
+msgstr "Kateqoriyanı seçin"
+
+msgid "Event type"
+msgstr "Hadisə növü"
+
+msgid "Margin"
+msgstr "haşiyə"
+
+msgid "Use finance project"
+msgstr "Maliyyə layihə istifadə"
+
+msgid "New investment project"
+msgstr "Yeni investisiya layihəsi"
+
+msgid "Investment project settings"
+msgstr "İnvestisiya layihəsi parametrləri"
+
+msgid "Picture, for the announcement project"
+msgstr "Elan layihə üçün Picture ,"
+
+msgid "Announcement project"
+msgstr "Elanın layihə"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Photos or videos gallery"
+msgstr "Fotoğraf və ya video qalereya"
+
+msgid "required amount"
+msgstr "tələb olunan məbləği"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Layihənin müddəti ( 60 gün maksimum)"
+
+msgid "Project duration"
+msgstr "layihənin müddəti"
+
+msgid "Add reward"
+msgstr "mükafat əlavə edin"
+
+msgid "Delivery date"
+msgstr "Çatdırılma tarixi"
+
+msgid "Payment systems"
+msgstr "ödəniş sistemləri"
+
+msgid "Terms of service"
+msgstr "Xidmət şərtləri"
+
+msgid "Agreement"
+msgstr "müqavilə"
+
+msgid "Payment"
+msgstr "ödəniş"
+
+msgid "My projects"
+msgstr "Mənim layihələr"
+
+msgid "Search result"
+msgstr "Axtarış nəticələri"
+
+msgid "Nothing not found"
+msgstr "Heç bir şey tapılmadı"
+
+msgid "The project has no sponsors"
+msgstr "Layihə sponsorları var"
+
+msgid "Design"
+msgstr "layihə"
+
+msgid "Food"
+msgstr "qida"
+
+msgid "Journalism"
+msgstr "jurnalistika"
+
+msgid "Games"
+msgstr "Oyun"
+
+msgid "Art"
+msgstr "incəsənət"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "musiqi"
+
+msgid "Handicrafts"
+msgstr "Handicrafts"
+
+msgid "Publishing"
+msgstr "nəşriyyat"
+
+msgid "Theater"
+msgstr "teatr"
+
+msgid "Technology"
+msgstr "texnologiya"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "foto"
+
+msgid "Dance"
+msgstr "rəqs"
+
+msgid "Invalid youtube video"
+msgstr "Yanlış youtube video"
+
+msgid "is required"
+msgstr "tələb olunur"
+
+msgid "User"
+msgstr "İstifadəçi"
+
+msgid "Date"
+msgstr "tarix"
+
+msgid "Collected"
+msgstr "toplanan"
+
+msgid "Choose period"
+msgstr "dövr seçin"
+
+msgid "Choose region"
+msgstr "regionda seçin"
+
+msgid "Country"
+msgstr "ölkə"
+
+msgid "Today"
+msgstr "hazırda"
+
+msgid "Week"
+msgstr "həftə"
+
+msgid "Month"
+msgstr "ay"
+
+msgid "Year"
+msgstr "il"
+
+msgid "Free registration"
+msgstr "pulsuz qeydiyyat"
+
+msgid "Join"
+msgstr "qoşulmaq"
+
+msgid "Log in using"
+msgstr "Istifadə edərək daxil olun"
+
+msgid "Vacancies"
+msgstr "məşğulluq imkanları"
+
+msgid "About Us"
+msgstr "Bizim haqqımızda"
+
+msgid "You will need email to log in"
+msgstr "Üçün daxil olmaq və e-poçt lazımdır"
+
+msgid "A combination of 6 digits and characters"
+msgstr "6 rəqəm və simvol birləşməsi"
+
+msgid "Search users, groups, articles..."
+msgstr "Axtar istifadəçilər , qruplar , məqalələr ..."
+
+msgid "Cloud"
+msgstr "bulud"
+
+msgid "Sunday"
+msgstr "Sunday"
+
+msgid "Monday"
+msgstr "Bazar ertəsi"
+
+msgid "Tuesday"
+msgstr "çərşənbə axşamı"
+
+msgid "Wednesday"
+msgstr "çərşənbə"
+
+msgid "Thursday"
+msgstr "Cümə axşamı"
+
+msgid "Friday"
+msgstr "cümə"
+
+msgid "Saturday"
+msgstr "şənbə"
+
+msgid "Edit"
+msgstr "redaktə etmək"
+
+msgid "Create group"
+msgstr "qrup yaradın"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Bu səhifəni tərk etmək istəyirsiniz əminsinizmi ?"
+
+msgid "More"
+msgstr "daha"
+
+msgid "Less"
+msgstr "az"
+
+msgid "Pending"
+msgstr "gözləyən"
+
+msgid "Approved"
+msgstr "təsdiq edilmişdir"
+
+msgid "Rejected"
+msgstr "İmtina"
+
+msgid "Subprojects"
+msgstr "Altlayihələr"
+
+msgid "Group edit"
+msgstr "Group redaktə"
+
+msgid "Startup"
+msgstr "Başlamaq"
+
+msgid "Tattoo"
+msgstr "Tattoo"
+
+msgid "Health"
+msgstr "sağlamlıq"
+
+msgid "Weapon"
+msgstr "silah"
+
+msgid "Astronomy"
+msgstr "astronomiya"
+
+msgid "All articles"
+msgstr "bütün məqalələr"
+
+msgid "Article editor"
+msgstr "Maddə redaktoru"
+
+msgid "Document editor"
+msgstr "Document redaktoru"
+
+msgid "Apply changes"
+msgstr "dəyişikliklər tətbiq"
+
+msgid "Save changes?"
+msgstr "Dəyişiklikləri yadda saxla?"
+
+msgid "published an article"
+msgstr "məqalə dərc"
+
+msgid "Users"
+msgstr "İstifadəçilər"
+
+msgid "Shared With Me"
+msgstr "With Me Paylaşılan"
+
+msgid "share"
+msgstr "pay"
+
+msgid "Select Group Responsible"
+msgstr "Group Məsul seçin"
+
+msgid "Create folder"
+msgstr "qovluq yaradın"
+
+msgid "Title must be at least 3 characters"
+msgstr "Title ən azı 3 simvol olmalıdır"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Pulsuz 10 GB , maliyyə meneceri, modul investisiya və əbədi pulsuz və bir çox digər"
+
+msgid "Best regards"
+msgstr "Hörmətlə"
+
+msgid "Updates in last 12 hours:"
+msgstr "Son 12 saat içərisində Updates:"
+
+msgid "expense"
+msgstr "xərc"
+
+msgid "Commentary on the event:"
+msgstr "Hadisə şərh :"
+
+msgid "Event place"
+msgstr "Hadisə yer"
+
+msgid "Project was updated"
+msgstr "Layihə yeniləndi"
+
+msgid "Project was created"
+msgstr "Layihə yaradılmışdır"
+
+msgid "Project was closed"
+msgstr "Layihə bağlanıldı"
+
+msgid "account"
+msgstr "hesab"
+
+msgid "removed task"
+msgstr "xaric vəzifəsi"
+
+msgid "removed subproject"
+msgstr "aradan subproject"
+
+msgid "Title can not be empty"
+msgstr "Title boş ola bilməz"
+
+msgid "Do not select the type of event"
+msgstr "Tədbirin növünü seçin etməyin"
+
+msgid "Error while saving comment"
+msgstr "Error şərh qənaət isə"
+
+msgid "Save error: access denied"
+msgstr "Səhv edin: giriş rədd"
+
+msgid "Remains"
+msgstr "qalıqları"
+
+msgid "Time spent, h."
+msgstr "Time, h keçirdi."
+
+msgid "Emails"
+msgstr "E-poçt"
+
+msgid "Meetings"
+msgstr "görüşlər"
+
+msgid "All users"
+msgstr "bütün istifadəçilər"
+
+msgid "Category"
+msgstr "kateqoriya"
+
+msgid "Finance project"
+msgstr "maliyyə layihə"
+
+msgid "Investment project"
+msgstr "investisiya layihəsi"
+
+msgid "Nature"
+msgstr "təbiət"
+
+msgid "Data is empty"
+msgstr "Məlumat boş"
+
+msgid "Visitors"
+msgstr "Ziyarətçilər"
+
+msgid "My profile"
+msgstr "Mənim profilim"
+
+msgid "Sponsors"
+msgstr "Sponsorlar"
+
+msgid "Prior to completion"
+msgstr "Əvvəl başa"
+
+msgid "Select"
+msgstr "seçmək"
+
+msgid "My groups"
+msgstr "Mənim qrupları"
+
+msgid "The invitation has been sent successfully"
+msgstr "Dəvət uğurla göndərildi"
+
+msgid "Username has already been invited to this project"
+msgstr "Istifadəçi adı artıq bu layihəyə dəvət olunub"
+
+msgid "The user is the creator of the project"
+msgstr "Istifadəçi layihəsinin yaradıcısı"
+
+msgid "Provide full access"
+msgstr "Tam erişim təmin"
+
+msgid "Select elements to provide access"
+msgstr "Çıxışı təmin etmək elementləri seçin"
+
+msgid "Select all"
+msgstr "Hamısını seç"
+
+msgid "User E-mail"
+msgstr "İstifadəçi E- mail"
+
+msgid "Click on the field to select a category"
+msgstr "Bir kateqoriya seçin sahəsində basın"
+
+msgid "Invitation was deleted"
+msgstr "Dəvət silindi"
+
+msgid "Permission denied"
+msgstr "Giriş qadağandır"
+
+msgid "Printed"
+msgstr "mətbu"
+
+msgid "Incorrect Contractor email"
+msgstr "Yanlış Contractor email"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Siz meneceri maliyyələşdirilməsi üçün layihə əlavə etmək istəyirsiniz?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Qeydiyyat prosesi başa çatdırmaq üçün bacarıq aşağı doldurun"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Təlimatlar ilə mail e-poçt ünvanına göndərildi"
+
+msgid "Submit"
+msgstr "təqdim"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Science"
+msgstr "elm"
+
+msgid "Donation"
+msgstr "ianə"
+
+msgid "Interests"
+msgstr "Maraqlar"
+
+msgid "Driver"
+msgstr "sürücü"
+
+msgid "Sportsman"
+msgstr "idmançı"
+
+msgid "Businessman"
+msgstr "biznesmen"
+
+msgid "Accountant"
+msgstr "mühasib"
+
+msgid "Engineer"
+msgstr "mühəndis"
+
+msgid "Soldier"
+msgstr "əsgər"
+
+msgid "Next"
+msgstr "sonrakı"
+
+msgid "Hide group"
+msgstr "hide qrup"
+
+msgid "groups created"
+msgstr "qruplar yaradılmışdır"
+
+msgid "articles written"
+msgstr "məqalələr yazılı"
+
+msgid "These groups may be interesting for you"
+msgstr "Bu qruplar sizin üçün maraqlı ola bilər"
+
+msgid "About Group"
+msgstr "Qrupu haqqında"
+
+msgid "view(s)"
+msgstr "keçirmək (s)"
+
+msgid "Favorite users"
+msgstr "sevimli istifadəçi"
+
+msgid "No accounts"
+msgstr "No hesabları"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook icazə bilmədi."
+
+msgid "Authorization Required"
+msgstr "Avtorizasiya Tələb"
+
+msgid "You have to make a call:"
+msgstr "Siz zəng etmək lazımdır :"
+
+msgid "You have to send an email:"
+msgstr "Bir e-poçt göndərmək üçün :"
+
+msgid "You have a meetup:"
+msgstr "Siz Meetup var:"
+
+msgid "You event :"
+msgstr "Siz hadisə :"
+
+msgid "Participants:"
+msgstr "iştirakçılar :"
+
+msgid "Search"
+msgstr "axtarış"
+
+msgid "News"
+msgstr "xəbər"
+
+msgid "Investments"
+msgstr "Investments"
+
+msgid "Back to Cloud"
+msgstr "Geri Cloud"
+
+msgid "Documents"
+msgstr "Sənədlər"
+
+msgid "Planet"
+msgstr "planet"
+
+msgid "Group url"
+msgstr "Group url"
+
+msgid "Profile url"
+msgstr "Profile url"
+
+msgid "Already taken"
+msgstr "artıq"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Tələb olunan ən azı 1 məktub və 3 chars uzunluğu"
+
+msgid "Digit can not be the first character"
+msgstr "Digit ilk xarakter ola bilməz"
+
+msgid "Enter valid email address"
+msgstr "Düzgün e-mail daxil edin"
+
+msgid "Enter your skills"
+msgstr "Sizin bacarıq daxil edin"
+
+msgid "Enter your first name"
+msgstr "Adınızı daxil edin"
+
+msgid "Enter your last name"
+msgstr "Son adını daxil edin"
+
+msgid "Enter your first name and last name"
+msgstr "Ilk adı və soyadı daxil edin"
+
+msgid "Your first name?"
+msgstr "Adınız ?"
+
+msgid "Your last name?"
+msgstr "Sizin son adı?"
+
+msgid "What are your proficiencies?"
+msgstr "Sizin proficiencies hansılardır?"
+
+msgid "Select country"
+msgstr "ölkə seçin"
+
+msgid "Select user"
+msgstr "Select istifadəçi"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Sizin yuxu yerinə yetirmək ! Yaradın və əməkdaşlıq ."
+
+msgid "date moved from"
+msgstr "tarix köçürülüb"
+
+msgid "work"
+msgstr "iş"
+
+msgid "Conference"
+msgstr "konfrans"
+
+msgid "personal"
+msgstr "şəxsi"
+
+msgid "Holiday"
+msgstr "bayram"
+
+msgid "Past"
+msgstr "Keçmiş"
+
+msgid "Future"
+msgstr "Gələcək"
+
+msgid "Purchase"
+msgstr "Alış"
+
+msgid "Personal events"
+msgstr "Şəxsi hadisələr"
+
+msgid "Conferences"
+msgstr "Görüş"
+
+msgid "Holidays"
+msgstr "Bayramlar"
+
+msgid "Sport events"
+msgstr "İdman tədbirləri"
+
+msgid "Tasks"
+msgstr "Tapşırıqlar"
+
+msgid "Other events"
+msgstr "Digər hadisələr"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Təxirə salınmış"
+
+msgid "Time management"
+msgstr "Time Management"
+
+msgid "Delayed events"
+msgstr "Təxirə salınmış hadisələr"
+
+msgid "Delayed"
+msgstr "Təxirə salınmış"
+
+msgid "Bind to"
+msgstr "Təyin etmək"
+
+msgid "answered your comment to"
+msgstr "I (a) maddənin şərh bildirib"
+
+msgid "commented your article"
+msgstr "Mən məqalə şərh"
+
+msgid "You\'ve answered on comment to"
+msgstr "Siz maddənin şərh cavab verdi"
+
+msgid "You\'ve commented an article"
+msgstr "Siz məqalədə şərh"
+
+msgid "Terms and Conditions"
+msgstr "Qaydalar və Şərtlər"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Tıklayarak bizim razı və oxumaq ki, etiraf \"qeydiyyatdan\" bizim"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Bütün dünyada yaradıcı insanların icma ol! Siz alacaqsınız: investisiya fikir, onun komanda toplamaq imkanı, saxlanması və daha 2 Gb, bir qrup, maliyyə meneceri iş öz vaxt idarə. Və pulsuz!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Bağışlayın, ancaq aradığınız səhifə mövcud deyil. Ki, günah edirəm, bizə bizimlə əlaqə"
+
+msgid "Return"
+msgstr "Qayıtmaq"
+
+msgid "COMMON"
+msgstr "Total"
+
+msgid "My events"
+msgstr "Mənim Ad"
+
+msgid "Job opening"
+msgstr "New vakansiya"
+
+msgid "Employment"
+msgstr "Məşğulluq növü"
+
+msgid "Working hours"
+msgstr "Açılış saat"
+
+msgid "City"
+msgstr "Şəhər"
+
+msgid "Wages"
+msgstr "Maaş"
+
+msgid "Currency"
+msgstr "Valyuta"
+
+msgid "Experience"
+msgstr "Təcrübə"
+
+msgid "Full-time"
+msgstr "Tam məşğulluq"
+
+msgid "Part-time"
+msgstr "Part-time"
+
+msgid "Project employment"
+msgstr "Layihə / Müvəqqəti"
+
+msgid "Volunteer"
+msgstr "Könüllülük"
+
+msgid "Internship"
+msgstr "Staj"
+
+msgid "Full day"
+msgstr "Full Time"
+
+msgid "Shifts"
+msgstr "Dəyişdirilməsi cədvəli"
+
+msgid "Flexible shifts"
+msgstr "Flexible cədvəli"
+
+msgid "Remote work"
+msgstr "Uzaq iş"
+
+msgid "Rotational basis"
+msgstr "Shift metodu"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Siz şərh silmək üçün əminsinizmi?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Bu vəzifəni silmək istəyirəm əminsinizmi?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Bu sub-layihə silmək üçün əminsinizmi?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Siz mövqe şirkətinə müraciət edib. Əmin olun"
+
+msgid "Your request to for job has been rejected"
+msgstr "Mövqe şirkət üçün tələb rədd edildi"
+
+msgid "Your request to for job has been accepted"
+msgstr "Mövqe şirkət üçün sorğu qəbul edildi"
+
+msgid "profile is completed"
+msgstr "Profiliniz tam"
+
+msgid "Use account"
+msgstr "Hesabı istifadə edin"
+
+msgid "$/hr"
+msgstr "$ / Saat"
+
+msgid "Finance category"
+msgstr "Financial Kateqoriya"
+
+msgid "No projects"
+msgstr "No layihələr"
+
+msgid "Bind to finances"
+msgstr "Maliyyə layihə Təyin"
+
+msgid "Preview"
+msgstr "Baxış"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Save to my cloud"
+msgstr "Depo surəti"
+
+msgid "File successfully saved to your cloud"
+msgstr "Uğurla depo saxlanılır Fayl"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Sizin depo bu fayl saxla?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Bir kateqoriya maddə seçin"
+
+msgid "Type something"
+msgstr "Bir şey yazmaq"
+
+msgid "Founded users"
+msgstr "Tapılmışdır istifadəçi"
+
+msgid "Founded articles"
+msgstr "Tapılmışdır məqalə"
+
+msgid "Founded groups"
+msgstr "Qurulan qrup"
+
+msgid "What are your skills?"
+msgstr "Bacarıqları hansılardır?"
+
+msgid "Select at least 2 interests"
+msgstr "Ən azı 2 faiz seçin"
+
+msgid "Need more interests"
+msgstr "Kifayət qədər maraq seçilmiş"
+
+msgid "What are you interesting in?"
+msgstr "Əgər maraqlı nə var?"
+
+msgid "You have no dialogs"
+msgstr "Əgər dialoq yoxdur"
+
+msgid "Usage Stats"
+msgstr "Dövlət"
+
+msgid "Founded files"
+msgstr "Files tapılmışdır"
+
+msgid "Big tiles"
+msgstr "Böyük plitələr"
+
+msgid "Small tiles"
+msgstr "Kiçik Tiles"
+
+msgid "Table view"
+msgstr "Cədvəl görünüşü"
+
+msgid "Root folder"
+msgstr "kök qovluq"
+
+msgid "My files"
+msgstr "Mənim Files"
+
+msgid "Save as draft"
+msgstr "Draft kimi saxla"
+
+msgid "Buy More Space"
+msgstr "Daha çox yer almaq"
+
+msgid "Buy"
+msgstr "Almaq"
+
+msgid "You have been invited to group as"
+msgstr "Siz kimi qrup dəvət olunub"
+
+msgid "User wants to join your group"
+msgstr "istifadəçi qrupa iştirak etmək üçün arzu"
+
+msgid "Section is coming soon!"
+msgstr "Tikinti altında bölmə!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Son 24 saatda Views:"
+
+msgid "Task was updated"
+msgstr "vəzifə yeniləndi"
+
+msgid "Task was closed"
+msgstr "problem bağlanıb"
+
+msgid "Task was created"
+msgstr "vəzifəsi müəyyən edilib"
+
+msgid "Current balance"
+msgstr "Cari balans"
+
+msgid "Add funds"
+msgstr "Əlavə etmək"
+
+msgid "Pay"
+msgstr "Checkout"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Siz giriş cəhdləri sayından çoxdur. Siz 15 dəqiqə bağlanacaq"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Sizin e-mail təsdiq edin. poçt vasitəsilə sizə göndərilir məktubu."
+
+msgid "Resend confirmation email"
+msgstr "Daha təsdiq göndərin"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Ayda Disc 2 GB"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Ildə 10 GB sür"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB hər il"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1TB aylıq"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Hər il 1 TB sür"
+
+msgid "Project members monthly"
+msgstr "Aylıq bazda layihəsinin iştirakçıları"
+
+msgid "Project members yearly"
+msgstr "Hər il layihə iştirakçıları"
+
+msgid "Member(s) yearly"
+msgstr "Hər il member (si)"
+
+msgid "Member(s) monthly"
+msgstr "Bir aylıq member (si)"
+
+msgid "Authorized"
+msgstr "Səlahiyyətli"
+
+msgid "Authorization expired"
+msgstr "Avtorizasiya bitmiş"
+
+msgid "Processor declined"
+msgstr "İmtina emal sistemi"
+
+msgid "Gateway rejected"
+msgstr "İmtina ödəniş Gateway"
+
+msgid "Failed"
+msgstr "Səhv"
+
+msgid "Voided"
+msgstr "Ləğv etmək"
+
+msgid "Submitted for settlement"
+msgstr "Qeyd göndərildi"
+
+msgid "Settlement declined"
+msgstr "Qeydiyyat rədd edildi"
+
+msgid "Settlement pending"
+msgstr "Baxılan qeydiyyat"
+
+msgid "Verified"
+msgstr "Yoxlanılır"
+
+msgid "Pending"
+msgstr "Bekleyen"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Past Due"
+msgstr "Müddəti bitmiş"
+
+msgid "Expired"
+msgstr "Sona Erdi"
+
+msgid "Marketer"
+msgstr "Pazarlamacı"
+
+msgid "India"
+msgstr "Hindistan"
+
+msgid "Malaysia"
+msgstr "Malayziya"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "South Korea"
+msgstr "Cənubi Koreya"
+
+msgid "Kazakhstan"
+msgstr "Qazaxıstan"
+
+msgid "Israel"
+msgstr "İsrail"
+
+msgid "Ukraine"
+msgstr "Ukrayna"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Bulgaria"
+msgstr "Bolqarıstan"
+
+msgid "Turkey"
+msgstr "Hinduşka"
+
+msgid "Armenia"
+msgstr "Ermənistan"
+
+msgid "Serbia"
+msgstr "Serbiya"
+
+msgid "Austria"
+msgstr "Avstriya"
+
+msgid "Poland"
+msgstr "Polşa"
+
+msgid "Germany"
+msgstr "Almaniya"
+
+msgid "Italy"
+msgstr "İtaliya"
+
+msgid "Netherlands"
+msgstr "Hollandiya"
+
+msgid "Ireland"
+msgstr "İrlandiya"
+
+msgid "United Kingdom"
+msgstr "Böyük Britaniya"
+
+msgid "Portugal"
+msgstr "Portuqaliya"
+
+msgid "Norway"
+msgstr "Norveç"
+
+msgid "United States"
+msgstr "Amerika Birləşmiş Ştatları"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Brazil"
+msgstr "Braziliya"
+
+msgid "Saudi Arabia"
+msgstr "Səudiyyə Ərəbistanı"
+
+msgid "Canada"
+msgstr "Misir"
+
+msgid "Russia"
+msgstr "Rusiya"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Hal-hazırda, bir əməliyyat yox idi"
+
+msgid "Fulfill your dream"
+msgstr "Arzu yerinə yetirmək"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Bütün dünyanın yaradıcı şəxslərin bizim icma buyurun."
+
+msgid "Create and Collaborate"
+msgstr "Yaradın və əməkdaşlıq"
+
+msgid "Start Dreaming"
+msgstr "NOW yuxu yerinə yetirmək"
+
+msgid "or"
+msgstr "və ya"
+
+msgid "Our mission:"
+msgstr "Bizim missiyamız:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Bizim gələcəyinə istiqamət bilər ki, sadə və inanılmaz və fantastik tələb fikir həyata keçirilməsi üçün yaradıcı və fəal insanları birləşdirmək üçün."
+
+msgid "What is Konstruktor?"
+msgstr "Konstruktor nədir?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - Bizim real əhəmiyyətli dərəcədə asanlaşdırır həyat və asanlaşdırır bir hissəsidir"
+
+msgid "*business processes"
+msgstr "* Biznes proseslərinin"
+
+msgid "*materialization of creative ideas"
+msgstr "* Yaradıcı ideyaların materialization"
+
+msgid "*constructive cooperation"
+msgstr "* Konstruktiv əməkdaşlıq"
+
+msgid "Make your dream!"
+msgstr "Sizin yuxu olun!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Xüsusi müşaviri"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Manager, Software Development"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Senior hüquqşünas"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Layihəçi"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Next düyməsinə tıklayarak, siz qəbul və Terms ve Conditions ilə razılaşdırılması və siz bizim Privacy Policy oxuyun ki, etiraf olunur."
+
+msgid "Incorrect login or password."
+msgstr "Yanlış giriş və ya parol."
+
+msgid "Password must be at least 6 characters"
+msgstr "Şifrə azı 6 simvol olmalıdır"
+
+msgid "January"
+msgstr "Yanvar"
+
+msgid "February"
+msgstr "Fevral"
+
+msgid "March"
+msgstr "Mart"
+
+msgid "April"
+msgstr "Aprel"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "İyun"
+
+msgid "July"
+msgstr "Iyul"
+
+msgid "August"
+msgstr "Avqust"
+
+msgid "September"
+msgstr "Sentyabr"
+
+msgid "October"
+msgstr "Oktyabr"
+
+msgid "November"
+msgstr "Noyabr"
+
+msgid "December"
+msgstr "Dekabr"
+
+msgid "Chat"
+msgstr "Söhbət"
+
+msgid "Files"
+msgstr "Files"
+
+msgid "Statistic"
+msgstr "Statistika"
+
+msgid "Support"
+msgstr "Dəstək"
+
+msgid "Exit"
+msgstr "Çıxış"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Marketing specialist"
+msgstr "Marketinq üzrə mütəxəssis"
+
+msgid "Administrator"
+msgstr "Inzibatçı"
+
+msgid "Shared with me"
+msgstr "Mənimlə paylaşdı"
+
+msgid "File Sharing"
+msgstr "Fayl paylaşma"
+
+msgid "Provide access by link"
+msgstr "Link çıxışı təmin"
+
+msgid "Provide Individual access"
+msgstr "Fərdi təmin"
+
+msgid "Provide edit access"
+msgstr "Redaktə girişi təmin"
+
+msgid "Share"
+msgstr "Pay"
+
+msgid "Files will be available only for selected users"
+msgstr "Files seçilmiş istifadəçilər üçün yalnız mövcud olacaq"
+
+msgid "With this link everyone can access to the files"
+msgstr "Bu bağlantılar hər kəs faylları əldə edə bilərsiniz"
+
+msgid "Search users, groups, articles..."
+msgstr "Axtar istifadəçilər, qruplar, məqalələr ..."
+
+msgid "My Group"
+msgstr "Mənim Group"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Biz"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Fayl seçilmiş deyil"
+
+msgid "Set aside"
+msgstr "Kənara"
+
+msgid "Event time"
+msgstr "Hadisə vaxtı"
+
+msgid "Work"
+msgstr "Iş"
+
+msgid "Personal"
+msgstr "Şəxsi"
+
+msgid "Time spent for work:"
+msgstr "Time iş üçün sərf:"
+
+msgid "Personal time spent:"
+msgstr "Personal vaxt sərf:"
+
+msgid "Present"
+msgstr "Indiki"
+
+msgid "Common"
+msgstr "Ümumi"
+
+msgid "Sport"
+msgstr "Idman"
+
+msgid "Entertainment"
+msgstr "Əyləncə"
+
+msgid "Select:"
+msgstr "Seçin:"
+
+msgid "Invalid username or password."
+msgstr "Yanlış istifadəçi adı və ya şifrə."
+
+msgid "Try again."
+msgstr "Yenidən cəhd elə."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "Sizi maraqlandıran NƏDİR?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Ən azı 2 bacarıqlarını seçin: 2 qalır"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Ən azı 2 bacarıqlarını seçin: 1 qalır"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Ən azı 2 bacarıqlarını seçin: qalıqları"
+
+msgid "Active life"
+msgstr "Fəal həyat"
+
+msgid "Arts and culture"
+msgstr "İncəsənət və mədəniyyət"
+
+msgid "Business"
+msgstr "Iş"
+
+msgid "Cinema"
+msgstr "Kino"
+
+msgid "Communications"
+msgstr "Communications"
+
+msgid "Construction and repair"
+msgstr "Tikinti və təmir"
+
+msgid "Cooking"
+msgstr "Cooking"
+
+msgid "Education"
+msgstr "Təhsil"
+
+msgid "Electronics"
+msgstr "Elektronika"
+
+msgid "Finances"
+msgstr "Maliyyə"
+
+msgid "Graphics and design"
+msgstr "Graphics və dizayn"
+
+msgid "Health"
+msgstr "Sağlamlıq"
+
+msgid "Home and family"
+msgstr "Ev və ailə"
+
+msgid "Humor"
+msgstr "Yumor"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Sənaye"
+
+msgid "Insurance"
+msgstr "Sığorta"
+
+msgid "Literature"
+msgstr "Ədəbiyyat"
+
+msgid "Mobile communications and internet"
+msgstr "Mobil rabitə və internet"
+
+msgid "News and Media"
+msgstr "Xəbərlər və Media"
+
+msgid "Pets"
+msgstr "Pets"
+
+msgid "Products and service"
+msgstr "Məhsul və xidmət"
+
+msgid "Real Estate"
+msgstr "Daşınmaz əmlak"
+
+msgid "Religion"
+msgstr "Din"
+
+msgid "Science and techs"
+msgstr "Elm və texnologiyalar"
+
+msgid "Security"
+msgstr "Təhlükəsizlik"
+
+msgid "Society"
+msgstr "Cəmiyyət"
+
+msgid "Television"
+msgstr "Televiziya"
+
+msgid "Travel"
+msgstr "Səyahət"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Avstraliya"
+
+msgid "Austria"
+msgstr "Avstriya"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belgium"
+msgstr "Belçika"
+
+msgid "Brazil"
+msgstr "Braziliya"
+
+msgid "Bulgaria"
+msgstr "Bolqarıstan"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Danimarka"
+
+msgid "France"
+msgstr "Fransa"
+
+msgid "Germany"
+msgstr "Almaniya"
+
+msgid "Greece"
+msgstr "Yunanıstan"
+
+msgid "Hungary"
+msgstr "Macarıstan"
+
+msgid "Iceland"
+msgstr "İslandiya"
+
+msgid "Ireland"
+msgstr "İrlandiya"
+
+msgid "Israel"
+msgstr "İsrail"
+
+msgid "Italy"
+msgstr "İtaliya"
+
+msgid "Japan"
+msgstr "Yaponiya"
+
+msgid "Mexico"
+msgstr "Meksika"
+
+msgid "Netherlands"
+msgstr "Hollandiya"
+
+msgid "New Zealand"
+msgstr "Yeni Zelandiya"
+
+msgid "Norway"
+msgstr "Norveç"
+
+msgid "Poland"
+msgstr "Polşa"
+
+msgid "Portugal"
+msgstr "Portuqaliya"
+
+msgid "Russia"
+msgstr "Rusiya"
+
+msgid "Slovakia"
+msgstr "Slovakiya"
+
+msgid "South Africa"
+msgstr "Cənubi Afrika"
+
+msgid "South Korea"
+msgstr "Cənubi Koreya"
+
+msgid "Spain"
+msgstr "İspaniya"
+
+msgid "Sweden"
+msgstr "İsveç"
+
+msgid "Switzerland"
+msgstr "İsveçrə"
+
+msgid "Turkey"
+msgstr "Hinduşka"
+
+msgid "Ukraine"
+msgstr "Ukrayna"
+
+msgid "United Arab Emirates"
+msgstr "Birləşmiş Ərəb Əmirlikləri"
+
+msgid "United Kingdom"
+msgstr "Birləşmiş Krallıq"
+
+msgid "United States"
+msgstr "Amerika Birləşmiş Ştatları"
+
+msgid "achievements"
+msgstr "nailiyyətləri"
+
+msgid "Investment management"
+msgstr "Investment idarə"
+
+msgid "Select..."
+msgstr "Seçin ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "INVESTMENT MANAGEMENT"
+
+msgid "Investors list"
+msgstr "Investors siyahısı"
+
+msgid "My investments"
+msgstr "Mənim investisiyalar"
+
+msgid "Create date"
+msgstr "Tarix yaratmaq"
+
+msgid "Author of the project"
+msgstr "Layihənin müəllifi"
+
+msgid "Date and time"
+msgstr "Tarix və vaxt"
+
+msgid "Status"
+msgstr "Vəziyyət"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+msgid "Next"
+msgstr "Sonrakı"
+
+msgid "Apply"
+msgstr "Tətbiq etmək"
+
+msgid "Kazakhstan"
+msgstr "Qazaxıstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Honq Konq"
+
+msgid "Science"
+msgstr "Elm"
+
+msgid "Architecture"
+msgstr "Memarlıq"
+
+msgid "Photography"
+msgstr "Fotoqrafiya"
+
+msgid "Designer"
+msgstr "Layihəçi"
+
+msgid "IT specialist"
+msgstr "İT mütəxəssis"
+
+msgid "Agronomist"
+msgstr "Aqronom"
+
+msgid "Architect"
+msgstr "Memar"
+
+msgid "Lawyer"
+msgstr "Hüquqşünas"
+
+msgid "Writer"
+msgstr "Yazıçı"
+
+msgid "Doctor"
+msgstr "Həkim"
+
+msgid "Scientist"
+msgstr "Alim"
+
+msgid "Marketer"
+msgstr "Pazarlamacı"
+
+msgid "Teacher"
+msgstr "Müəllim"
+
+msgid "Cook"
+msgstr "Aşpaz"
+
+msgid "Artist"
+msgstr "Rəssam"
+
+msgid "Photographer"
+msgstr "Fotoqraf"
+
+msgid "Ecologist"
+msgstr "Ekoloq"
+
+msgid "Economist"
+msgstr "Iqtisadiyyatçı"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Jurnalist"
+
+msgid "Builder"
+msgstr "Inşaatçı"
+
+msgid "These users may be interesting for you"
+msgstr "Bu, istifadəçilər sizin üçün maraqlı ola bilər"
+
+msgid "These articles may be interesting for you"
+msgstr "Bu yazılar sizin üçün maraqlı ola bilər"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Siz Аdministrator bu qrup qatıldı"
+
+msgid "articles written."
+msgstr "məqalələr yazılmışdır."
+
+msgid "groups created."
+msgstr "qruplar yaradılmışdır."
+
+msgid "Creation"
+msgstr "Yaradılış"
+
+msgid "Build a dream"
+msgstr "bir yuxu qurmaq"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "daha maraqlı yazılar oxuyun - pulsuz qeydiyyat getmək"
+

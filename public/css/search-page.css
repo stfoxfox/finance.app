@@ -1,0 +1,46 @@
+.search-page {
+  cursor: default;
+  position: relative;
+  padding: 0 20px;
+  z-index: 50; }
+  .search-page .container-fluid {
+    max-width: 1200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
+  .search-page .add-to-favorites .jq-selectbox {
+    width: 155px !important; }
+  .search-page .user-avatar img {
+    max-width: 165px;
+    width: 100%; }
+  .search-page .achivement-block {
+    display: inline-block;
+    margin-bottom: 25px; }
+  .search-page .user-menu {
+    padding: 0; }
+  .search-page .spec {
+    float: left; }
+  .search-page .link-video {
+    color: #1580BE;
+    font-size: 15px;
+    text-align: right; }
+    .search-page .link-video img {
+      display: inline-block;
+      margin-right: 10px; }
+    .search-page .link-video a {
+      display: inline-block;
+      margin-top: -6px; }
+      .search-page .link-video a .glyphicons {
+        font-size: 29px;
+        color: #70cfcb; }
+      .search-page .link-video a .t {
+        display: inline-block;
+        text-decoration: underline;
+        position: relative;
+        top: 5px; }
+        .search-page .link-video a .t:hover {
+          text-decoration: none; }
+
+.user-info .user-info-block {
+  min-height: 60px;
+  margin-bottom: 25px; }

@@ -1,0 +1,1 @@
+http://docs.videojs.com/docs/guides/setup.html

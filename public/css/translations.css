@@ -1,0 +1,500 @@
+/* tranlsations block styles */
+
+.admin_translate {
+    top: 35px !important;
+}
+
+.translate_not_active, .translate_not_active:focus, .translate_active:focus {
+    background: url('../images/t1.png') no-repeat 0 0;
+}
+
+.translate_active, .translate_content:hover, .translate_content_invest:hover, .translate_content_comment:hover {
+    background: url('../images/t2.png') no-repeat 0 0;
+}
+
+.translate_comment {
+    float: right;
+    width: 30px;
+    height: 30px;
+}
+
+.body_fixed {
+    position:fixed !important; /*позицианируем чтобы исчез скролл*/
+    width:100%; /*что бы верстка не складывалась по ширине*/
+}
+
+#originalCommentLang, #userLang, #textLang, .sug{
+    margin-right: 40px;
+}
+
+.translate_comment_not_active,.translate_comment_not_active:focus, .translate_comment_active:focus {
+    background: url('../images/c1.png') no-repeat 0 0;
+}
+
+.translate_comment_active, .translate_comment:hover, .translate_article_comment:hover{
+    background: url('../images/c2.png') no-repeat 0 0;
+}
+
+.for_translate, a.translation_href {
+    font-size: 12px !important;
+}
+
+.for_translate {
+    height: 18px;
+    margin-bottom: 0;
+    margin-top: 22px;
+    font-weight: 600;
+    line-height:1;
+}
+
+div#suggestion.suggestion_invest {
+    top: 3% !important;
+    min-height: 8% !important;
+    position: absolute;
+    width: 80%;
+    background-color: white;
+    border-radius: 10px;
+    z-index: 150000;
+    left: 10%;
+    color: #666 !important;
+
+}
+
+div#suggestion.suggestion_invest .original_text {
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: #d9e1e7;
+    margin-right: 10px;
+    min-height: 240px;
+    max-height: 265px;
+    margin-bottom: 20px;
+    overflow: auto;
+}
+
+.for_translate a, a.translation_href {
+    color: #666 !important;
+    text-decoration: underline;
+    font-size: 12px !important;
+}
+
+span.translation_href {
+    font-size: 12px !important;
+    text-decoration: none !important;
+}
+
+.translate_content_comment {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 10px;
+    top: 20px;
+}
+
+.translate_article_comment{
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin-left: 15px;
+}
+
+.original_text img, .translated_text img,.original_text iframe, .translated_text iframe{
+    /*max-width: 100%;*/
+    /*height: auto;*/
+    display:none;
+}
+
+.translate_content_invest {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+}
+
+.for_translate a:hover, .for_translate a.active, a.translation_href.active, span.translation_href.active{
+    text-decoration: none;
+}
+
+.triangle-with-shadow {
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    overflow: hidden;
+    left: 65px;
+    top: -9px;
+    box-shadow: 0 16px 10px -17px rgba(0,0,0,0.5);
+}
+.triangle-with-shadow:after {
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: #fff;
+    transform: rotate(45deg);
+    top: 5px;
+    left: 0;
+    box-shadow: -1px -1px 10px -2px rgba(0,0,0,0.5);
+}
+
+div#suggestion {
+    position: absolute;
+    width: 780px;
+    /*max-width: 750px;*/
+    height: 400px;
+    background-color: white;
+    border-radius: 10px;
+    z-index: 150000;
+    margin: auto;
+    top: 0; left: 0; right: 0;
+    color: #666 !important;
+    text-align: center;
+}
+div#suggestion.ticket,
+div#suggestion.task,
+div#suggestion.article,
+div#suggestion.group{
+    top: 200px;
+}
+div.suggestion_invest a.close_suggestion {
+    right: -25px !important;
+}
+
+#suggestion .original_text {
+    border-radius: 10px;
+    /*height: 340px;
+    overflow-y: auto;*/
+    overflow-x: hidden;
+    text-align: left;
+    font-size: 13px !important;
+}
+#suggestion .original_text *
+{
+    font-size: 13px !important;
+}
+
+#scroller_pop
+{
+    height: 260px;
+    position: relative !important;
+
+    /*overflow-y: scroll;*/
+    width: 100% !important;
+}
+#scroller_pop .mCSB_container
+{
+    padding-top: 0px;
+}
+
+h2.suggest_h2{
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#suggestion .translate_text {
+    height: 340px;
+    /*overflow-y: auto;*/
+    /*overflow-x: hidden;*/
+    /*overflow: hidden;*/
+    text-align: left;
+}
+#suggestion .translate_text *
+{
+    font-size: 13px !important;
+}
+
+#suggestion .translate_text textarea {
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #d9e1e7;
+    font-size: 13px;
+    line-height: 1.8;
+}
+
+#suggestion h4{
+    font-size: 18px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#suggestion label{
+    font-size: 13px;
+    line-height:1 !important;
+}
+
+
+#suggestion .original_text, #suggestion .translate_text{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#suggestion .translate_text input {
+    width: 100%;
+    font-size: 13px !important;
+    /*border-radius: 10px;*/
+    /*border-color: #d9e1e7;*/
+    border: none;
+    height: 29px;
+}
+
+button.button_suggest{
+    position: relative;
+    margin: 30px auto;
+    font-weight: bold;
+    color: #fff;
+    border-color: transparent !important;
+    text-transform: uppercase;
+    border-radius: 10px;
+    padding: 5px 20px !important;
+    width: 140px;
+    font-size: 16px !important;
+    height: 40px;
+    background-color: #dfe4eb;
+}
+
+.button_suggest:focus,.button_suggest:hover{
+    outline: none;
+}
+
+.button_suggest:hover,.button_suggest.active{
+    background-color: #fbaa31;
+}
+
+#suggestion input:focus, #suggestion textarea:focus{
+    outline: none;
+}
+
+a.close_suggestion {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    color: #b2bcca;
+    font-weight: bolder;
+    font-size: 20px;
+    text-decoration: none;
+    display: block;
+    width: 16px !important;
+    height: 16px !important;
+    background: url('../../images/close2.png') no-repeat right center !important;
+}
+
+a.close_suggestion:hover {
+    background: url('../../images/close.png') no-repeat right center !important;
+}
+
+#suggestion h2{
+    color: #666 !important;
+    font-weight: bold;
+    font-size: 18px !important;
+    word-wrap: break-word;
+    padding: 0;
+    font-family: inherit;
+}
+
+.cke
+{
+    visibility: visible !important;
+    display: block;
+}
+
+.cke_editable{
+    font-family: 'Open Sans' !important;
+    font-size: 14px !important;
+}
+
+#cke_1_top{
+    display:none !important;
+}
+
+#cke_1_contents{
+    min-height: 260px;
+}
+
+#suggestion.ticket label{
+    margin-bottom:4px;
+    display: block;
+}
+
+#suggestion p
+{
+    position: relative;
+    z-index: 1;
+}
+#suggestion p.title_p{
+    margin:0 0 5px;
+    position: relative;
+    z-index: 2;
+}
+
+#suggestion.ticket textarea{
+    margin-top: 5px;
+}
+
+.original_text div{
+    margin-left: 0;
+    background-color: #f7f9fb;
+    border-radius: 10px;
+    height: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 13px !important;
+    font-family: 'Open Sans' !important;
+}
+
+ul.rate_translate {
+    list-style-type: none;
+    position: absolute;
+    z-index: 100;
+    padding: 0;
+    box-shadow: 0.5px 0.5px 1px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 5px;
+    margin-left: -15px;
+    color: #8a939e;
+}
+
+ul.rate_translate li {
+    display: block;
+    background-color: white;
+    border-top: 1px solid #dfe4eb;
+    width: 140px;
+    text-align: center;
+    cursor: pointer;
+    height: 40px;
+    line-height: 40px;
+}
+
+ul.rate_translate li.rate_selected {
+    color: #ffb547;
+}
+
+ul.rate_translate li.first {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+
+ul.rate_translate li:last-child {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    /*border-bottom: 1px solid #dfe4eb;*/
+}
+
+.translate_comment {
+    position: absolute;
+    right: 0;
+    top: 10px;
+}
+
+
+ul.rate_translate_ticket::before,
+ul.rate_translate_task::before {
+    left: 65px;
+}
+
+ul.rate_translate_group::before,
+ul.rate_translate_article::before,
+ul.rate_translate_invest::before {
+    left: 65px;
+}
+
+.pull-right-article {
+    margin-right: 15px;
+}
+
+.suggestion_background {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 15000;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.clear
+{
+    clear: both;
+}
+
+@media (max-width: 1700px) {
+
+}
+
+@media (max-width: 1600px) {
+
+}
+
+@media (max-width: 1500px) {
+
+}
+
+@media (max-width: 1400px) {
+
+}
+
+@media (max-width: 1360px) {
+
+}
+
+@media (max-width: 1300px) {
+}
+
+@media (max-width: 1200px) {
+
+
+}
+
+@media (max-width: 1100px) {
+
+}
+
+@media (max-width: 1024px) {
+
+}
+
+@media (max-width:993px) {
+
+}
+
+@media (max-width: 850px) {
+    div#suggestion {
+        min-width: 350px;
+        max-width: 90%;
+        /* width: 350px; */
+        height: 390px;
+    }
+}
+
+@media (max-width: 767px) {
+
+}
+@media (max-width: 767px) {
+
+    div#suggestion.ticket,
+    div#suggestion.task,
+    div#suggestion.article,
+    div#suggestion.group{
+        top: 150px;
+        bottom: 0;
+    }
+    a.close_suggestion {
+        top: 5px;
+        right: 5px;
+    }
+    #originalCommentLang, #translatedCommentLang {
+        display: none;
+    }
+}
+@media (max-width: 560px) {
+
+
+}
+

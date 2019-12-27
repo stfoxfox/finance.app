@@ -1,0 +1,141 @@
+{{- if (ne .Values.global.env "production") }}
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: psql-finance-configmap
+data:
+  postgresql.conf.sample: |
+    listen_addresses = '*'
+    log_checkpoints = on
+    log_connections = off
+    log_disconnections = off
+    log_duration = on
+    log_line_prefix = '%m  %p %u@%d from %h [vxid:%v txid:%x] [%i]'
+    log_lock_waits = on
+    log_statement = 'all'
+    log_temp_files = 0
+    log_timezone = 'UTC'
+---
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: psql-finance
+spec:
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app: psql-finance
+    spec:
+      imagePullSecrets:
+      - name: registrysecret
+      initContainers:
+      - name: chown
+        image: busybox
+        command: ['chown', '-v', '-R', '999:999', '/var/lib/postgresql/']
+        volumeMounts:
+        - name: data
+          mountPath: /var/lib/postgresql/data
+          subPath: postgresql
+      containers:
+      - name: master
+        image: postgres:10.0
+        resources:
+          requests:
+            cpu: {{ pluck .Values.global.env .Values.resources.psql.requests.cpu | first | default .Values.resources.psql.requests.cpu._default }}
+            memory: {{ pluck .Values.global.env .Values.resources.psql.requests.memory | first | default .Values.resources.psql.requests.memory._default }}
+          limits:
+            cpu: {{ pluck .Values.global.env .Values.resources.psql.limits.cpu | first | default .Values.resources.psql.limits.cpu._default }}
+            memory: {{ pluck .Values.global.env .Values.resources.psql.limits.memory | first | default .Values.resources.psql.limits.memory._default }}
+        volumeMounts:
+        - name: data
+          mountPath: /var/lib/postgresql/data
+          subPath: postgresql
+        - name: psql-config
+          mountPath: /usr/share/postgresql/postgresql.conf.sample
+          subPath: postgresql.conf.sample
+        env:
+        - name: TZ
+          value: "Europe/Moscow"
+        - name: POSTGRES_DB
+          value: {{ pluck .Values.global.env .Values.psql.db | first | default .Values.psql.db._default }}
+        - name: POSTGRES_USER
+          value: {{ pluck .Values.global.env .Values.psql.user | first | default .Values.psql.user._default }}
+        - name: POSTGRESS_PASSWORD
+          value: {{ pluck .Values.global.env .Values.psql.password | first | default .Values.psql.password._default }}
+        readinessProbe:
+          tcpSocket:
+            port: 5432
+          initialDelaySeconds: 5
+          timeoutSeconds: 1
+        livenessProbe:
+          tcpSocket:
+            port: 5432
+          initialDelaySeconds: 30
+          periodSeconds: 5
+      volumes:
+      - name: data
+        persistentVolumeClaim:
+          claimName: psql-finance-data
+      - name: psql-config
+        configMap:
+          name: psql-finance-configmap
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  annotations:
+    volume.beta.kubernetes.io/mount-options: discard
+  name: psql-finance-data
+spec:
+  accessModes:
+  - ReadWriteOnce
+  resources:
+    requests:
+      storage: 10Gi
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: psql-finance
+spec:
+  clusterIP: None
+  selector:
+    app: psql-finance
+  ports:
+  - name: psql
+    port: {{ pluck .Values.global.env .Values.psql.port | first | default .Values.psql.port._default }}
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: psql-finance-slave
+spec:
+  clusterIP: None
+  selector:
+    app: psql-finance
+  ports:
+  - name: psql
+    port: {{ pluck .Values.global.env .Values.psql.port | first | default .Values.psql.port._default }}
+---
+{{- else }}
+apiVersion: v1
+kind: Service
+metadata:
+  name: psql-finance
+spec:
+  externalName: "{{ pluck .Values.global.env .Values.psql.external_name | first | default .Values.psql.external_name._default }}"
+  sessionAffinity: None
+  type: ExternalName
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: psql-finance-slave
+spec:
+  externalName: "{{ pluck .Values.global.env .Values.psql.external_slave_name | first | default .Values.psql.external_slave_name._default }}"
+  sessionAffinity: None
+  type: ExternalName
+{{- end }}

@@ -1,0 +1,3344 @@
+# O'zbekiston (Узбекский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: O'zbekiston (Узбекский) <support@konstruktor.com>\n"
+"Language: O'zbekiston (Узбекский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "username"
+
+msgid "Invalid username or password, try again"
+msgstr "Noto\'g\'ri foydalanuvchi nomi yoki parol . Qayta urinib ko\'ring."
+
+msgid "Settings"
+msgstr "Sozlamalar"
+
+msgid "Home"
+msgstr "uy"
+
+msgid "You must log in to access this page"
+msgstr "Ushbu sahifaga kirish uchun kirish kerak"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Sizning sessiya o`tib ketdi. , Bu harakatni bajarishga relogin Iltimos"
+
+msgid "Save"
+msgstr "saqlash"
+
+msgid "Head Office"
+msgstr "bosh Idora"
+
+msgid "Address"
+msgstr "manzil"
+
+msgid "Back"
+msgstr "orqa"
+
+msgid "Apply"
+msgstr "Qo\'llash"
+
+msgid "Upload files…"
+msgstr "Fayllarni yuklash ..."
+
+msgid "Set as main"
+msgstr "Asosiy deb belgilash"
+
+msgid "Delete"
+msgstr "O\'chirish"
+
+msgid "Original image"
+msgstr "original image"
+
+msgid "Uploaded"
+msgstr "Yukladi"
+
+msgid "File name"
+msgstr "fayl nomi"
+
+msgid "File size"
+msgstr "fayl hajmi"
+
+msgid "Resolution"
+msgstr "qarori"
+
+msgid "Enlarge"
+msgstr "kattalashtirish"
+
+msgid "Links"
+msgstr "ishoratlar"
+
+msgid "Original size"
+msgstr "original hajmi"
+
+msgid "For editor"
+msgstr "muharriri uchun"
+
+msgid "Resize"
+msgstr "Resize"
+
+msgid "Width"
+msgstr "eng"
+
+msgid "Height"
+msgstr "balandlik"
+
+msgid "Media URL"
+msgstr "Media URL"
+
+msgid "Add record"
+msgstr "rekordini qo\'shish"
+
+msgid "Show filter settings"
+msgstr "Show filtri ri"
+
+msgid "Edit record"
+msgstr "Edit rekord"
+
+msgid "Delete record"
+msgstr "rekordini Delete"
+
+msgid "Delete checked records"
+msgstr "Tekshiriladi yozuvlarni o\'chirish"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Password"
+msgstr "parol"
+
+msgid "Remember me"
+msgstr "meni eslaysizmi"
+
+msgid "Login"
+msgstr "Tizimga Kirish"
+
+msgid "Clean image cache"
+msgstr "Toza image kesh"
+
+msgid "Processing query..."
+msgstr "Ma\'lumotlarni so\'rovlar ..."
+
+msgid "CMS Development"
+msgstr "CMS Development"
+
+msgid "Admin Home Page"
+msgstr "Admin Bosh sahifa"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Yangi yorliqda Front - oxir Open Bosh sahifa"
+
+msgid "Go to Site"
+msgstr "Sayt borib,"
+
+msgid "Log out"
+msgstr "chiqish"
+
+msgid "Send"
+msgstr "yuborish"
+
+msgid "General"
+msgstr "umumiy"
+
+msgid "Title"
+msgstr "sarlavha"
+
+msgid "Teaser"
+msgstr "Teaser"
+
+msgid "Published"
+msgstr "chop etildi"
+
+msgid "Featured"
+msgstr "oilam"
+
+msgid "Active"
+msgstr "faol"
+
+msgid "Field is mandatory"
+msgstr "Field shart"
+
+msgid "Sort Order"
+msgstr "Tartib"
+
+msgid "Upload"
+msgstr "Yuklab"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "qadam tashlamoq"
+
+msgid "Apr"
+msgstr "April"
+
+msgid "May"
+msgstr "May"
+
+msgid "Jun"
+msgstr "iyun"
+
+msgid "Jul"
+msgstr "iyul"
+
+msgid "Aug"
+msgstr "avgust"
+
+msgid "Sep"
+msgstr "sentyabr"
+
+msgid "Oct"
+msgstr "oktyabr"
+
+msgid "Nov"
+msgstr "noyabr"
+
+msgid "Dec"
+msgstr "dekabr"
+
+msgid "Product already exists in the order"
+msgstr "Mahsulot allaqachon maqsadida mavjud"
+
+msgid "Product does not exist"
+msgstr "Mahsulot mavjud emas"
+
+msgid "Incorrect request"
+msgstr "E\'lon talab"
+
+msgid "Products"
+msgstr "Mahsulotlar"
+
+msgid "Product types"
+msgstr "Mahsulot turlari"
+
+msgid "Contractors"
+msgstr "pudratchilar"
+
+msgid "Contractor"
+msgstr "Pudratchi"
+
+msgid "Orders"
+msgstr "Buyurtma"
+
+msgid "FAQ"
+msgstr "TSS"
+
+msgid "New order"
+msgstr "yangi tartibi"
+
+msgid "My orders"
+msgstr "Mening buyruq"
+
+msgid "Recharge balance"
+msgstr "zaryad balansi"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Incorrect event ID"
+msgstr "E\'lon voqea ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Edit pudratchi"
+
+msgid "Create contractor"
+msgstr "pudratchi yaratish"
+
+msgid "Edit question"
+msgstr "Edit savol"
+
+msgid "Create question"
+msgstr "savol yaratish"
+
+msgid "Edit order"
+msgstr "Edit tartibi"
+
+msgid "Create order"
+msgstr "tartibini yaratish"
+
+msgid "Edit product"
+msgstr "Edit mahsulot"
+
+msgid "Create product"
+msgstr "mahsulotni yaratish"
+
+msgid "Edit product type"
+msgstr "Edit mahsulot turi"
+
+msgid "Create product type"
+msgstr "Mahsulot turini yaratish"
+
+msgid "You have received a file"
+msgstr "Siz faylni oldi"
+
+msgid "You received a file from"
+msgstr "Siz bir faylni qabul"
+
+msgid "File has been uploaded"
+msgstr "Fayl yuklandi qilingan"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "minimal miqdori"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "mahsulot"
+
+msgid "Remove"
+msgstr "o\'chirish"
+
+msgid "Contact person"
+msgstr "bog\'lanish uchun shaxs"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Contractor phone"
+msgstr "Pudratchi telefon"
+
+msgid "Contractor name"
+msgstr "Pudratchi nomi"
+
+msgid "Contractor details"
+msgstr "Pudratchi detallari"
+
+msgid "Order ID"
+msgstr "Buyurtma qilish ID"
+
+msgid "Sum"
+msgstr "Sum"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Sizning hisobingizni to\'ldiring uchun munosib to\'lov tizimi tanlang"
+
+msgid "Recharge amount"
+msgstr "zaryad miqdori"
+
+msgid "Paid"
+msgstr "pullik"
+
+msgid "Shipped"
+msgstr "jo\'natildi"
+
+msgid "- No products in this order -"
+msgstr "- Bu tartibda No mahsulotlar -"
+
+msgid "month"
+msgstr "oy"
+
+msgid "No user found"
+msgstr "No foydalanuvchi topilmadi"
+
+msgid "Achievement"
+msgstr "muvaffaqiyat"
+
+msgid "Confirmed accomplishments"
+msgstr "tasdiqlangan yutuqlarimizning"
+
+msgid "Remove achievement"
+msgstr "yutug\'ini olib tashlash"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Site URL and email"
+msgstr "Sayt URL va elektron pochta"
+
+msgid "Remove address"
+msgstr "manzilini o\'chirish"
+
+msgid "Members"
+msgstr "A\'zolar"
+
+msgid "Requires a payment"
+msgstr "To\'lov talab qiladi"
+
+msgid "Shipping"
+msgstr "Yuk Tashish; Yetkazib Berish"
+
+msgid "Ready"
+msgstr "tayyor"
+
+msgid "Find user..."
+msgstr "Foydalanuvchilar topish ..."
+
+msgid "Order it"
+msgstr "buyurtma"
+
+msgid "Find group..."
+msgstr "Guruh top ..."
+
+msgid "Find user or community..."
+msgstr "Foydalanuvchi yoki jamoaga top ..."
+
+msgid "No item found"
+msgstr "No xabar qildi"
+
+msgid "years"
+msgstr "yil"
+
+msgid "Send message"
+msgstr "xabar yuborish"
+
+msgid "Message"
+msgstr "Xabar"
+
+msgid "To send message press Enter"
+msgstr "Xabar Enter ni bosing yuborish uchun"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Xabar CTRL tugmasini yuborish + Enter uchun"
+
+msgid "Processing file(s)..."
+msgstr "Ma\'lumotlarni fayl ( lar) ..."
+
+msgid "Group settings"
+msgstr "Group ri"
+
+msgid "Create group"
+msgstr "guruh yaratish"
+
+msgid "Group has been successfully saved"
+msgstr "Guruh muvaffaqiyat bilan ro\'yxatga qilindi"
+
+msgid "Group title"
+msgstr "Group sarlavha"
+
+msgid "Group video"
+msgstr "Guruh video"
+
+msgid "Description"
+msgstr "Tavsif"
+
+msgid "Your role in group"
+msgstr "Guruhda Sizning xizmat"
+
+msgid "Role"
+msgstr "xizmat"
+
+msgid "Photo or video gallery"
+msgstr "Foto va video galereya"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Yuklab video"
+
+msgid "Add group address"
+msgstr "Guruh manzilini qo\'shish"
+
+msgid "Group articles"
+msgstr "Group maqolalar"
+
+msgid "No addresses yet"
+msgstr "Hali hech bir manzillari"
+
+msgid "Add group achievement"
+msgstr "Guruh muvaffaqiyat qo\'shish"
+
+msgid "No achivements yet"
+msgstr "Hali hech bir Achivements"
+
+msgid "Are you sure to delete this user"
+msgstr "Agar bu foydalanuvchini o\'chirish uchun ishonchingiz komilmi"
+
+msgid "Add member"
+msgstr "a\'zosi qo\'shish"
+
+msgid "Are you sure to delete this record?"
+msgstr "Agar bu rekord tashlashga ishonchingiz komilmi ?"
+
+msgid "Join this group"
+msgstr "Ushbu guruhga qo\'shiling"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Sizning taklif guruh ma\'muri yuborildi"
+
+msgid "All addresses"
+msgstr "barcha manzillari"
+
+msgid "Collapse"
+msgstr "inqirozga uchramoq"
+
+msgid "Achievements"
+msgstr "Yutuqlar"
+
+msgid "Show more"
+msgstr "Batafsil"
+
+msgid "Team"
+msgstr "komanda"
+
+msgid "Projects"
+msgstr "loyihalar"
+
+msgid "New project"
+msgstr "yangi loyiha"
+
+msgid "Project has not been created yet"
+msgstr "Project hali yaratilgan emas"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "qoldiq"
+
+msgid "Main page"
+msgstr "Bosh sahifa"
+
+msgid "Upload image"
+msgstr "Yuklab image"
+
+msgid "My time"
+msgstr "Mening vaqt"
+
+msgid "Day"
+msgstr "kun"
+
+msgid "Week"
+msgstr "xafta"
+
+msgid "Project settings"
+msgstr "loyiha ri"
+
+msgid "Create project"
+msgstr "loyiha yaratish"
+
+msgid "Project has been successfully saved"
+msgstr "Loyiha muvaffaqiyat bilan ro\'yxatga qilindi"
+
+msgid "Project name"
+msgstr "loyiha nomi"
+
+msgid "Deadline"
+msgstr "Topshirish Muddati; Tugatish Muddati"
+
+msgid "Close"
+msgstr "yaqin"
+
+msgid "Manager"
+msgstr "menejer"
+
+msgid "Assigned to"
+msgstr "tayinlangan"
+
+msgid "Discussion"
+msgstr "muhokama"
+
+msgid "Task was created"
+msgstr "Vazifa yaratilgan"
+
+msgid "Task was closed"
+msgstr "Vazifa yopildi"
+
+msgid "Go to Group"
+msgstr "Guruh borib"
+
+msgid "Closed"
+msgstr "yopiq"
+
+msgid "Last updates"
+msgstr "oxirgi yangilanishlar"
+
+msgid "Project is closed"
+msgstr "Loyiha yopiq"
+
+msgid "No open tasks"
+msgstr "No ochiq vazifalari"
+
+msgid "New task"
+msgstr "yangi vazifa"
+
+msgid "Closed tasks"
+msgstr "Yopiq vazifalari"
+
+msgid "Add subproject"
+msgstr "kichik loyihalarni qo\'shish"
+
+msgid "Add task"
+msgstr "vazifa qo\'shish"
+
+msgid "Sun"
+msgstr "yakshanba"
+
+msgid "Mon"
+msgstr "dushanba"
+
+msgid "Tue"
+msgstr "seshanba"
+
+msgid "Wed"
+msgstr "chorshanba"
+
+msgid "Thur"
+msgstr "payshanba"
+
+msgid "Fri"
+msgstr "juma"
+
+msgid "Sat"
+msgstr "shanba"
+
+msgid "Event title"
+msgstr "Tantanalarni sarlavha"
+
+msgid "Event description"
+msgstr "Tantanalarni tavsifi"
+
+msgid "I registered on this site"
+msgstr "Men bu saytga ro\'yxatdan"
+
+msgid "Last created groups"
+msgstr "So\'nggi yaratgan guruhlar"
+
+msgid "You joined this group as"
+msgstr "Siz bu guruhga qo\'shildi"
+
+msgid "You received a request to join the group"
+msgstr "Siz guruhga ishtirok etish uchun so\'rov olingan"
+
+msgid "Updated site"
+msgstr "Yangilangan sayt"
+
+msgid "Site is under construction"
+msgstr "Sayt qurish ostida"
+
+msgid "Last registered users"
+msgstr "Oxirgi ro\'yxatdan o\'tgan foydalanuvchilar"
+
+msgid "User settings"
+msgstr "Foydalanuvchining ri"
+
+msgid "Technical support"
+msgstr "Texnik yordam"
+
+msgid "Change email"
+msgstr "Change email"
+
+msgid "Change password"
+msgstr "parolni o\'zgartirish"
+
+msgid "User has been successfully saved"
+msgstr "Foydalanuvchi muvaffaqiyat bilan ro\'yxatga qilindi"
+
+msgid "Full name"
+msgstr "To\'liq ism"
+
+msgid "My video"
+msgstr "Mening video"
+
+msgid "Skills"
+msgstr "Skills"
+
+msgid "Birthday"
+msgstr "tug\'ilgan kun"
+
+msgid "Country of residence"
+msgstr "Fuqaroligi"
+
+msgid "Country"
+msgstr "mamlakat"
+
+msgid "Zip Code"
+msgstr "Pochta indeksi"
+
+msgid "City/town of residence"
+msgstr "Yashash Shahar / shahar"
+
+msgid "University/college"
+msgstr "University / kollej"
+
+msgid "University/college photo"
+msgstr "Universitet / kollej photo"
+
+msgid "Add user\'s accomplishments"
+msgstr "Foydalanuvchining yutuqlarga qo\'shish"
+
+msgid "Interface language"
+msgstr "Interface til"
+
+msgid "How other people see this page"
+msgstr "Qanday boshqa odamlar bu sahifani ko\'rish"
+
+msgid "Video with me"
+msgstr "Men bilan Video"
+
+msgid "Groups"
+msgstr "Guruhlar"
+
+msgid "Registered today"
+msgstr "Ro\'yxatdan o\'tgan bugun"
+
+msgid "Qty"
+msgstr "Miqdor"
+
+msgid "No registered users yet"
+msgstr "Hali No Ro\'yxatdan o\'tgan foydalanuvchilar"
+
+msgid "Total"
+msgstr "jami"
+
+msgid "Registered total"
+msgstr "Ro\'yxatdan o\'tgan jami"
+
+msgid "You received a file"
+msgstr "Siz faylni qabul"
+
+msgid "You were invited into this room"
+msgstr "Siz bu xonaga taklif etildi"
+
+msgid "Request is being processed"
+msgstr "So\'rov ishlov qilinmoqda"
+
+msgid "Fax"
+msgstr "Faks"
+
+msgid "Messenger"
+msgstr "elchi"
+
+msgid "New subproject"
+msgstr "Yangi kichik loyiha"
+
+msgid "messages written."
+msgstr "xabarlar yozilgan ."
+
+msgid "projects created based on groups."
+msgstr "loyiha guruhlari asosida yaratilgan ."
+
+msgid "users registered on website."
+msgstr "foydalanuvchilar veb-saytida ro\'yxatdan o\'tgan ."
+
+msgid "New email"
+msgstr "Yangi email"
+
+msgid "Confirm email"
+msgstr "E-pochta manzilini tasdiqlash"
+
+msgid "New password"
+msgstr "Yangi parol"
+
+msgid "Confirm password"
+msgstr "Parolni tasdiqlang"
+
+msgid "Occupation"
+msgstr "Mutaxassisligi"
+
+msgid "Timezone"
+msgstr "Soat mintaqasi"
+
+msgid "Answer"
+msgstr "javob"
+
+msgid "Articles"
+msgstr "Maqolalar"
+
+msgid "Article"
+msgstr "maqola"
+
+msgid "Video-article"
+msgstr "Video - maqola"
+
+msgid "Find article..."
+msgstr "Maqola topish ..."
+
+msgid "Politics"
+msgstr "siyosat"
+
+msgid "Economics"
+msgstr "iqtisodiyot"
+
+msgid "Community"
+msgstr "jamoa"
+
+msgid "Culture"
+msgstr "madaniyat"
+
+msgid "Sports"
+msgstr "Sport"
+
+msgid "Hi-tech"
+msgstr "Hi- tech"
+
+msgid "Cars"
+msgstr "avtomobil"
+
+msgid "Fashion"
+msgstr "moda"
+
+msgid "Games"
+msgstr "O\'yinlar"
+
+msgid "Other"
+msgstr "boshqa"
+
+msgid "Invalid mediafile"
+msgstr "Invalid mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Hali ushbu turkumga kiruvchi No maqolalar"
+
+msgid "Back to profile"
+msgstr "Orqaga profili qilish"
+
+msgid "View article"
+msgstr "View maqola"
+
+msgid "Edit article"
+msgstr "Edit maqola"
+
+msgid "Create article"
+msgstr "maqola yaratish"
+
+msgid "Article title"
+msgstr "maqola nomi"
+
+msgid "Article section"
+msgstr "maqola bo\'lim"
+
+msgid "Choose image"
+msgstr "Rasmni tanlash"
+
+msgid "Save and upload"
+msgstr "Saqlash va upload"
+
+msgid "Show more..."
+msgstr "Batafsil ko\'rish ..."
+
+msgid "Create"
+msgstr "yaratish"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Project"
+msgstr "loyiha"
+
+msgid "Team"
+msgstr "komanda"
+
+msgid "A new article was published"
+msgstr "A yangi maqola chop etildi"
+
+msgid "You joined this project"
+msgstr "Siz ushbu loyihani qo\'shildi"
+
+msgid "Enter your information in the User settings"
+msgstr "Foydalanuvchi sozlash ma\'lumotlaringizni kiriting"
+
+msgid "Communities"
+msgstr "Birlashmalar"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Mening yutuqlar Video taqdimoti"
+
+msgid "My articles"
+msgstr "Mening maqolalar"
+
+msgid "User"
+msgstr "foydalanuvchi"
+
+msgid "Users"
+msgstr "Foydalanuvchilar"
+
+msgid "Add new list"
+msgstr "Yangi ro\'yxatini qo\'shish"
+
+msgid "List title"
+msgstr "Ro\'yxatdan o\'tish nomi"
+
+msgid "Add"
+msgstr "qo\'shish"
+
+msgid "Add to favorites"
+msgstr "Tanlanganlarga qo\'shish"
+
+msgid "Delete from favorites"
+msgstr "Tanlanganlarga yo\'q"
+
+msgid "Select list"
+msgstr "tanlang ro\'yxati"
+
+msgid "Subscriptions"
+msgstr "To\'plamga"
+
+msgid "Subscribe"
+msgstr "obuna"
+
+msgid "Unsubscribe"
+msgstr "Unsubscribe"
+
+msgid "General list"
+msgstr "Umumiy ro\'yxati"
+
+msgid "No users in this list"
+msgstr "Bu ro\'yxatda yo\'q foydalanuvchilar"
+
+msgid "Publish"
+msgstr "nashr"
+
+msgid "Unpublish"
+msgstr "nashrlarga o\'chirildi"
+
+msgid "Add user"
+msgstr "foydalanuvchi qo\'shish"
+
+msgid "Create document"
+msgstr "hujjatni yaratish"
+
+msgid "Edit document"
+msgstr "Edit hujjat"
+
+msgid "View"
+msgstr "ko\'rinish"
+
+msgid "Document title"
+msgstr "Hujjatlarni sarlavha"
+
+msgid "Find document..."
+msgstr "Hujjatni topish ..."
+
+msgid "Share your thoughts"
+msgstr "Sizning fikrlaringiz bilan baham ko\'ring"
+
+msgid "Leave your comment"
+msgstr "Kommentariya qoldir"
+
+msgid "Accept"
+msgstr "qabul"
+
+msgid "Decline"
+msgstr "qisqarish"
+
+msgid "Add article"
+msgstr "maqola qo\'shish"
+
+msgid "Link to verified accomplishments"
+msgstr "Tasdiqlangan yutuqlari bog\'laning"
+
+msgid "No articles here yet..."
+msgstr "Hali bu erda hech qanday maqolalar"
+
+msgid "Find file or folder..."
+msgstr "Fayl yoki papkani toping ..."
+
+msgid "Sort"
+msgstr "saralamoq"
+
+msgid "By name"
+msgstr "Nomlarda"
+
+msgid "By date"
+msgstr "Sana bo\'yicha"
+
+msgid "By updated date"
+msgstr "Yangilangan sana tomonidan"
+
+msgid "By size"
+msgstr "hajmi bilan"
+
+msgid "By type"
+msgstr "turiga ko\'ra"
+
+msgid "Move"
+msgstr "move"
+
+msgid "File Manager"
+msgstr "fayl menejeri"
+
+msgid "Share link"
+msgstr "Share link"
+
+msgid "Responsible"
+msgstr "mas\'ul"
+
+msgid "Performer"
+msgstr "ijrochi"
+
+msgid "New Folder"
+msgstr "Yangi Folder"
+
+msgid "Folder name"
+msgstr "papka nomi"
+
+msgid "By default"
+msgstr "sukut"
+
+msgid "Back to group"
+msgstr "Orqaga guruhiga"
+
+msgid "year(s)"
+msgstr "yil (lar)"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "fevral"
+
+msgid "March"
+msgstr "qadam tashlamoq"
+
+msgid "April"
+msgstr "Aprel"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "iyun"
+
+msgid "July"
+msgstr "iyul"
+
+msgid "August"
+msgstr "avgust"
+
+msgid "September"
+msgstr "sentyabr"
+
+msgid "October"
+msgstr "oktyabr"
+
+msgid "November"
+msgstr "noyabr"
+
+msgid "December"
+msgstr "dekabr"
+
+msgid "Password Reminder"
+msgstr "Parolni unutdingizmi?"
+
+msgid "Log In"
+msgstr "Tizimga kirish"
+
+msgid "Sign in"
+msgstr "tizimga kirish"
+
+msgid "Register"
+msgstr "Ro\'yxatdan o\'tish"
+
+msgid "First name"
+msgstr "Ism"
+
+msgid "Last name"
+msgstr "Familiya"
+
+msgid "I agree with rules"
+msgstr "Men qoidalar bilan rozi"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "A tasdiq mail elektron pochta manziliga yuborilgan edi."
+
+msgid "Thanks"
+msgstr "minnatdorchilik"
+
+msgid "Password must be at least 6 characters"
+msgstr "Parol kamida 6 belgilar bo\'lishi kerak"
+
+msgid "Creative Environment"
+msgstr "Creative Environment"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Siz bu xizmatdan foydalanish uchun yoshi kamida o\'n uch yil bo\'lishi kerak"
+
+msgid "Order status"
+msgstr "Buyurtma qilish holati"
+
+msgid "Processing order"
+msgstr "ishlov berish tartibi"
+
+msgid "Requires a payment"
+msgstr "To\'lovni talab"
+
+msgid "Shipping"
+msgstr "yuk tashish; yetkazib berish"
+
+msgid "Ready"
+msgstr "tayyor"
+
+msgid "Thank you for your payment"
+msgstr "Sizning to\'lov uchun rahmat"
+
+msgid "Your payment has been cancelled"
+msgstr "Sizning to\'lov bekor qilindi"
+
+msgid "page"
+msgstr "bet"
+
+msgid "Rent period"
+msgstr "Ijara davri"
+
+msgid "Total, month"
+msgstr "Total, oy"
+
+msgid "Order items"
+msgstr "buyurtma qilish mahsulot"
+
+msgid "No records found"
+msgstr "Ro\'yxatdan o\'tish topilmadi"
+
+msgid "User with this email is already exist"
+msgstr "Bu elektron pochta bilan Foydalanuvchining allaqachon mavjud emas"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Bunday nom bilan papka yoki fayl allaqachon maqsad papkani mavjud bo\'lgan"
+
+msgid "Minimal quantity"
+msgstr "minimal miqdori"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "chop etish nusxasi"
+
+msgid "Terms of Use"
+msgstr "Foydalanish shartlari"
+
+msgid "Privacy Policy"
+msgstr "Maxfiylik siyosati"
+
+msgid "Find project..."
+msgstr "Loyihani topish ..."
+
+msgid "New Project"
+msgstr "Yangi loyiha"
+
+msgid "Accounts"
+msgstr "Hisob"
+
+msgid "Operations"
+msgstr "operatsiyalar"
+
+msgid "All accounts"
+msgstr "barcha hisob"
+
+msgid "All categories"
+msgstr "barcha kategoriyalar"
+
+msgid "Expense"
+msgstr "xarajat"
+
+msgid "Income"
+msgstr "daromad"
+
+msgid "Transfer"
+msgstr "transfer"
+
+msgid "Expense"
+msgstr "xarajat"
+
+msgid "income"
+msgstr "daromad"
+
+msgid "tax"
+msgstr "soliq"
+
+msgid "percent"
+msgstr "foiz"
+
+msgid "transfer"
+msgstr "transfer"
+
+msgid "Make operation"
+msgstr "operatsiya qilish"
+
+msgid "Select date"
+msgstr "tanlang sana"
+
+msgid "Select account"
+msgstr "tanlang hisob"
+
+msgid "Month"
+msgstr "oy"
+
+msgid "Quarter"
+msgstr "chorak"
+
+msgid "Year"
+msgstr "yil"
+
+msgid "From"
+msgstr "From"
+
+msgid "To"
+msgstr "uchun"
+
+msgid "Expense amount"
+msgstr "borib miqdori"
+
+msgid "Categories"
+msgstr "Kategoriyalar"
+
+msgid "Comments"
+msgstr "Fikr"
+
+msgid "Income amount"
+msgstr "daromad miqdori"
+
+msgid "Transfer amount"
+msgstr "transfer summasi"
+
+msgid "From account"
+msgstr "hisobvarag\'idan"
+
+msgid "To account"
+msgstr "hisob"
+
+msgid "New Account"
+msgstr "Yangi ro\'yxat yozuvini"
+
+msgid "New Category"
+msgstr "Yangi Turkum"
+
+msgid "All"
+msgstr "hamma"
+
+msgid "Name"
+msgstr "ism"
+
+msgid "Enter category name"
+msgstr "Kategoriya nomini kiriting"
+
+msgid "Select type"
+msgstr "turini tanlang"
+
+msgid "Credit card"
+msgstr "Kredit kartasi"
+
+msgid "Debit card"
+msgstr "kartalari"
+
+msgid "Bank account"
+msgstr "Bank hisob"
+
+msgid "Cash"
+msgstr "naqd pul"
+
+msgid "Balance is empty"
+msgstr "Balance bo\'sh"
+
+msgid "Statistic is empty"
+msgstr "Statistik bo\'sh"
+
+msgid "Regular payments"
+msgstr "muntazam to\'lovlar"
+
+msgid "Are you sure ?"
+msgstr "Ishonchingiz komilmi ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Agar bu loyihani yopish ishonchingiz komilmi?"
+
+msgid "Project was deleted successfully"
+msgstr "Loyiha muvaffaqiyatli o\'chirildi"
+
+msgid "Select currency"
+msgstr "tanlang valyuta"
+
+msgid "Account"
+msgstr "Hisob"
+
+msgid "Orders list"
+msgstr "Buyurtma ro\'yxati"
+
+msgid "Order payments"
+msgstr "Buyurtma qilish to\'lovlar"
+
+msgid "View order"
+msgstr "View tartibi"
+
+msgid "No response from Printer API"
+msgstr "Printer API yo\'q javob"
+
+msgid "Bad response from Printer API"
+msgstr "Printer API yomon javob"
+
+msgid "User ID"
+msgstr "Foydalanuvchi IDsi"
+
+msgid "Contact Person"
+msgstr "Bog\'lanish uchun shaxs"
+
+msgid "No orders to process"
+msgstr "No farmoyishlari qayta ishlash"
+
+msgid "Article announce image"
+msgstr "Maqola tasvirni e\'lon"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Invalid video url . Bo\'sh qoldiring yoki amaliy youtube url joylashtiring"
+
+msgid "Please, enter Contractor data"
+msgstr "Pudratchi ma\'lumotlarni kiriting"
+
+msgid "Distribute devices"
+msgstr "qurilmalar tarqatish"
+
+msgid "Quantity"
+msgstr "miqdor"
+
+msgid "Devices left"
+msgstr "Qurilmalar chap"
+
+msgid "Distributed devices"
+msgstr "tarqalgan qurilmalar"
+
+msgid "You must enter quantity"
+msgstr "Siz miqdorda kirishingiz zarur"
+
+msgid "All devices are distributed"
+msgstr "Barcha qurilmalar taqsimlanadi"
+
+msgid "IP address"
+msgstr "IP -manzil"
+
+msgid "Only for printer"
+msgstr "Faqat printer uchun"
+
+msgid "Counter"
+msgstr "counter"
+
+msgid "You was excluded from this room"
+msgstr "Siz bu xonadan chiqarib tashlansin edi"
+
+msgid "Compare"
+msgstr "solishtiring"
+
+msgid "Scheduled transaction"
+msgstr "Rejali ish"
+
+msgid "Select transfer account"
+msgstr "Tanlang transfer hisob"
+
+msgid "Select income account"
+msgstr "Tanlang daromad hisobi"
+
+msgid "Reports"
+msgstr "hisobotlar"
+
+msgid "Goals"
+msgstr "maqsadlari"
+
+msgid "Budgets"
+msgstr "byudjetdan"
+
+msgid "Enter user name or email..."
+msgstr "Foydalanuvchi nomi yoki elektron pochta kiriting ..."
+
+msgid "Invite had been sended"
+msgstr "Sended edi taklif"
+
+msgid "Statistics"
+msgstr "statistika"
+
+msgid "Updated site began to work"
+msgstr "Yangilangan sayt ish boshladi"
+
+msgid "City of residence"
+msgstr "Yashash City"
+
+msgid "Edit favourites list"
+msgstr "Edit favorites ro\'yxati"
+
+msgid "Add favourites list"
+msgstr "Favorites ro\'yxatini qo\'shish"
+
+msgid "Categories is required"
+msgstr "Kategoriyalar kerak"
+
+msgid "Type new category name and hit Enter"
+msgstr "Yangi kategoriya nomini kiriting va tugmasini bosing"
+
+msgid "You created an order"
+msgstr "Siz buyurtma yaratilgan"
+
+msgid "You received a device due to this order"
+msgstr "Siz tufayli bu tartibiga qurilmani qabul"
+
+msgid "%s attached %s to task %s"
+msgstr "%s biriktirilgan %s %s jazolama"
+
+msgid "member(s)"
+msgstr "a\'zo ( lar)"
+
+msgid "%s commented task %s"
+msgstr "%s izoh vazifa %s"
+
+msgid "%s closed task %s"
+msgstr "%s yopiq vazifa %s"
+
+msgid "%s created task %s"
+msgstr "%s yaratilgan ish %s"
+
+msgid "%s created this project"
+msgstr "%s ushbu loyihani yaratgan"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s yaratgan kichik loyiha \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s yopiq loyiha \"%s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s yopiq kichik loyiha \"%s\""
+
+msgid "This field must not be blank"
+msgstr "Bu joy bo\'sh bo\'lmasligi kerak"
+
+msgid "Document with such name is already exist"
+msgstr "Bunday nomi bilan hujjat allaqachon mavjud emas"
+
+msgid "Wait until image upload"
+msgstr "Image yuklash kutib turing"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Message can not be empty"
+msgstr "Message bo\'sh bo\'lishi mumkin emas"
+
+msgid "Yes"
+msgstr "ha"
+
+msgid "No"
+msgstr "yo\'q"
+
+msgid "Created"
+msgstr "yaratilgan"
+
+msgid "Compare is empty"
+msgstr "Bo\'sh solishtiring"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Agar operatsiya o\'chirish istasangiz ishonchingiz komilmi"
+
+msgid "Do you really want to delete transaction"
+msgstr "Agar chindan ham operatsiyani o\'chirishni istaysizmi"
+
+msgid "Project with same name already exists"
+msgstr "Shu nom bilan loyiha allaqachon mavjud"
+
+msgid "Account is not found"
+msgstr "Hisob topilmadi"
+
+msgid "Currency is required"
+msgstr "Ayirboshlash kerak"
+
+msgid "error while deleting document"
+msgstr "xato hujjatni yo\'q qilish esa"
+
+msgid "Expences"
+msgstr "masraflari"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Siz bu xonada foydalanuvchi \"%s \" taklif"
+
+msgid "User \"%s\" joined this room"
+msgstr "Foydalanuvchi \"%s\" bu xona qo\'shildi"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Siz bu xonadan foydalanuvchi \"%s \" tashlansin"
+
+msgid "User \"%s\" left this room"
+msgstr "Foydalanuvchi \"%s\" bu xonani tark"
+
+msgid "Add account"
+msgstr "hisob qo\'shish"
+
+msgid "The requested page is not found"
+msgstr "Talab sahifa topilmadi"
+
+msgid "Document"
+msgstr "hujjat"
+
+msgid "Table"
+msgstr "stol"
+
+msgid "file(s)"
+msgstr "fayl ( lar)"
+
+msgid "Residue"
+msgstr "qoldiq"
+
+msgid "Result is empty"
+msgstr "Natijada bo\'sh"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Umumiy miqdori %s miloddan avvalgi uchun %s"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Siz bilan bog\'liq hisob uchun %s oylik Depozit kerak"
+
+msgid "Start"
+msgstr "boshlanish"
+
+msgid "finish"
+msgstr "tugatmoq"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Tanlangan hisob boshqa gol uchun foydalanish allaqachon"
+
+msgid "Amount required"
+msgstr "miqdori talab"
+
+msgid "New goal"
+msgstr "Yangi gol"
+
+msgid "Goal"
+msgstr "maqsad"
+
+msgid "Goal name"
+msgstr "Goal nomi"
+
+msgid "Invalid date"
+msgstr "Invalid sana"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Zarur sum ijobiy raqam bo\'lishi lozim"
+
+msgid "Remain"
+msgstr "qoladi"
+
+msgid "Last day"
+msgstr "oxirgi kuni"
+
+msgid "Accumulated"
+msgstr "yig\'ilgan"
+
+msgid "Put aside"
+msgstr "chetga qo\'ying"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "fevral"
+
+msgid "March"
+msgstr "qadam tashlamoq"
+
+msgid "April"
+msgstr "Aprel"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "iyun"
+
+msgid "July"
+msgstr "iyul"
+
+msgid "August"
+msgstr "avgust"
+
+msgid "September"
+msgstr "sentyabr"
+
+msgid "October"
+msgstr "oktyabr"
+
+msgid "November"
+msgstr "noyabr"
+
+msgid "December"
+msgstr "dekabr"
+
+msgid "Expenses projected/actual"
+msgstr "Prognoz / haqiqiy xarajatlar"
+
+msgid "Net Income projected/actual"
+msgstr "Net Daromad / haqiqiy rejalashtirilgan"
+
+msgid "New budget"
+msgstr "Yangi byudjet"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Daromad va xarajatlar jadvali"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Shu hisob juft va turkumda bilan byudjet allaqachon mavjud"
+
+msgid "Budget is empty"
+msgstr "Byudjet bo\'sh"
+
+msgid "Budget"
+msgstr "budjet"
+
+msgid "plan"
+msgstr "reja"
+
+msgid "fact"
+msgstr "dalil"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "Batafsil ko\'rsatish"
+
+msgid "Cancel"
+msgstr "Bekor qilish"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "Mening savdo"
+
+msgid "Time spent"
+msgstr "vaqt"
+
+msgid "Total time spent"
+msgstr "Umumiy vaqt"
+
+msgid "Earnings per hour"
+msgstr "Soat boshiga daromad"
+
+msgid "Total earnings"
+msgstr "jami daromad"
+
+msgid "Call"
+msgstr "chaqirish"
+
+msgid "Phone call"
+msgstr "telefon"
+
+msgid "Telephone calls"
+msgstr "telefon qo\'ng\'iroqlari"
+
+msgid "Send email"
+msgstr "Email yuborish"
+
+msgid "Emails"
+msgstr "Emails"
+
+msgid "Meeting"
+msgstr "uchrashuv"
+
+msgid "Meetings"
+msgstr "Tadbirlarni"
+
+msgid "All events"
+msgstr "barcha tadbirlar"
+
+msgid "Task"
+msgstr "masala"
+
+msgid "Event"
+msgstr "hodisa"
+
+msgid "Events"
+msgstr "Tadbirlar"
+
+msgid "Time"
+msgstr "vaqt"
+
+msgid "Events statistics"
+msgstr "Tadbirlar statistika"
+
+msgid "days"
+msgstr "kun"
+
+msgid "hours"
+msgstr "soat"
+
+msgid "minutes"
+msgstr "daqiqa"
+
+msgid "Income & expense"
+msgstr "Daromad va xarajatlarni"
+
+msgid "Show chart"
+msgstr "Show grafik"
+
+msgid "Hide chart"
+msgstr "Hide grafik"
+
+msgid "Add event"
+msgstr "voqea qo\'shish"
+
+msgid "Add financial data"
+msgstr "Moliyaviy ma\'lumotlarni qo\'shish"
+
+msgid "Select contractor"
+msgstr "tanlang pudratchi"
+
+msgid "Net Income"
+msgstr "Sof daromad"
+
+msgid "Revenue"
+msgstr "daromadi"
+
+msgid "Taxes"
+msgstr "soliqlar"
+
+msgid "Amount planned"
+msgstr "miqdori rejalashtirilgan"
+
+msgid "Amount"
+msgstr "miqdor"
+
+msgid "Period"
+msgstr "davr"
+
+msgid "Are you sure to close this task?"
+msgstr "Agar bu vazifani yopish ishonchingiz komilmi?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "barcha guruhlar"
+
+msgid "added from task"
+msgstr "vazifa qo\'shilgan"
+
+msgid "Monthly repeat"
+msgstr "oylik takrorlash"
+
+msgid "Select category"
+msgstr "Turkum tanlang"
+
+msgid "Event type"
+msgstr "Tantanalarni turi"
+
+msgid "Margin"
+msgstr "Marj"
+
+msgid "Use finance project"
+msgstr "Moliya loyiha foydalaning"
+
+msgid "New investment project"
+msgstr "Yangi investitsiya loyihasi"
+
+msgid "Investment project settings"
+msgstr "Investitsiya loyiha ri"
+
+msgid "Picture, for the announcement project"
+msgstr "E\'lon loyihasi uchun Picture ,"
+
+msgid "Announcement project"
+msgstr "Announcement loyiha"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Photos or videos gallery"
+msgstr "Foto va video galereya"
+
+msgid "required amount"
+msgstr "talab miqdori"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Loyiha davomiyligi ( 60 kun maksimal )"
+
+msgid "Project duration"
+msgstr "loyiha muddati"
+
+msgid "Add reward"
+msgstr "mukofot qo\'shish"
+
+msgid "Delivery date"
+msgstr "Yetkazib berish sanasi"
+
+msgid "Payment systems"
+msgstr "to\'lov tizimlari"
+
+msgid "Terms of service"
+msgstr "Xizmat ko\'rsatish shartlari"
+
+msgid "Agreement"
+msgstr "bitim"
+
+msgid "Payment"
+msgstr "to\'lov"
+
+msgid "My projects"
+msgstr "Mening loyihalar"
+
+msgid "Search result"
+msgstr "Izlash natijasi"
+
+msgid "Nothing not found"
+msgstr "Hech narsa topilmadi"
+
+msgid "The project has no sponsors"
+msgstr "Loyiha yo\'q homiylarni bor"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Food"
+msgstr "ovqat"
+
+msgid "Journalism"
+msgstr "jurnalistika"
+
+msgid "Games"
+msgstr "O\'yinlar"
+
+msgid "Art"
+msgstr "san\'at"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "musiqa"
+
+msgid "Handicrafts"
+msgstr "qo\'l san\'atlari"
+
+msgid "Publishing"
+msgstr "nashriyot"
+
+msgid "Theater"
+msgstr "teatr"
+
+msgid "Technology"
+msgstr "texnologiya"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Dance"
+msgstr "raqs"
+
+msgid "Invalid youtube video"
+msgstr "Invalid youtube video"
+
+msgid "is required"
+msgstr "majburiy, shart"
+
+msgid "User"
+msgstr "foydalanuvchi"
+
+msgid "Date"
+msgstr "sana"
+
+msgid "Collected"
+msgstr "yig\'ilgan"
+
+msgid "Choose period"
+msgstr "davri tanlang"
+
+msgid "Choose region"
+msgstr "mintaqani tanlashingiz"
+
+msgid "Country"
+msgstr "mamlakat"
+
+msgid "Today"
+msgstr "bugun"
+
+msgid "Week"
+msgstr "xafta"
+
+msgid "Month"
+msgstr "oy"
+
+msgid "Year"
+msgstr "yil"
+
+msgid "Free registration"
+msgstr "Bepul ro\'yxatga olish"
+
+msgid "Join"
+msgstr "qo\'shiling"
+
+msgid "Log in using"
+msgstr "Yordamida Kirish"
+
+msgid "Vacancies"
+msgstr "Mehnat imkoniyatlar"
+
+msgid "About Us"
+msgstr "Biz haqimizda"
+
+msgid "You will need email to log in"
+msgstr "Siz tizimga pochta kerak bo\'ladi"
+
+msgid "A combination of 6 digits and characters"
+msgstr "6 raqam va belgilar kombinatsiyasi"
+
+msgid "Search users, groups, articles..."
+msgstr "Qidiruv foydalanuvchilar , guruhlar , maqolalar ..."
+
+msgid "Cloud"
+msgstr "bulut"
+
+msgid "Sunday"
+msgstr "yakshanba"
+
+msgid "Monday"
+msgstr "dushanba"
+
+msgid "Tuesday"
+msgstr "seshanba"
+
+msgid "Wednesday"
+msgstr "chorshanba"
+
+msgid "Thursday"
+msgstr "payshanba"
+
+msgid "Friday"
+msgstr "juma"
+
+msgid "Saturday"
+msgstr "shanba"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Create group"
+msgstr "guruh yaratish"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Agar ushbu sahifani tark istasangiz ishonchingiz komilmi ?"
+
+msgid "More"
+msgstr "Ko\'proq"
+
+msgid "Less"
+msgstr "Ozroq"
+
+msgid "Pending"
+msgstr "kutayotgan"
+
+msgid "Approved"
+msgstr "tasdiqlangan"
+
+msgid "Rejected"
+msgstr "rad"
+
+msgid "Subprojects"
+msgstr "kichik loyiha"
+
+msgid "Group edit"
+msgstr "Guruh tartibga solish"
+
+msgid "Startup"
+msgstr "Ish boshlash"
+
+msgid "Tattoo"
+msgstr "tatuirovka"
+
+msgid "Health"
+msgstr "sog\'lik"
+
+msgid "Weapon"
+msgstr "qurol"
+
+msgid "Astronomy"
+msgstr "astronomiya"
+
+msgid "All articles"
+msgstr "barcha maqolalar"
+
+msgid "Article editor"
+msgstr "maqola muharriri"
+
+msgid "Document editor"
+msgstr "Hujjatlarni muharrir"
+
+msgid "Apply changes"
+msgstr "o\'zgarishlarni amalga oshirish"
+
+msgid "Save changes?"
+msgstr "O\'zgarishlarni saqlang ?"
+
+msgid "published an article"
+msgstr "maqola chop"
+
+msgid "Users"
+msgstr "Foydalanuvchilar"
+
+msgid "Shared With Me"
+msgstr "Men bilan sherik"
+
+msgid "share"
+msgstr "ulushi"
+
+msgid "Select Group Responsible"
+msgstr "Guruh javobgar tanlang"
+
+msgid "Create folder"
+msgstr "papkani yaratish"
+
+msgid "Title must be at least 3 characters"
+msgstr "Nomi kamida 3 belgi bo\'lishi kerak"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Bepul 10 GB, moliya menejeri , modul investitsiya va abadiy bepul va boshqa ko\'plab"
+
+msgid "Best regards"
+msgstr "Eng yaxshi ezgu tilaklar bilan"
+
+msgid "Updates in last 12 hours:"
+msgstr "Oxirgi 12 soat ichida versiyani :"
+
+msgid "expense"
+msgstr "xarajat"
+
+msgid "Commentary on the event:"
+msgstr "Voqeani Sharh :"
+
+msgid "Event place"
+msgstr "O\'tkazilish joyi"
+
+msgid "Project was updated"
+msgstr "Loyiha yangilandi"
+
+msgid "Project was created"
+msgstr "Loyiha yaratilgan"
+
+msgid "Project was closed"
+msgstr "Loyiha yopildi"
+
+msgid "account"
+msgstr "hisob"
+
+msgid "removed task"
+msgstr "tashlandi vazifa"
+
+msgid "removed subproject"
+msgstr "uzoqdagi kichik loyiha"
+
+msgid "Title can not be empty"
+msgstr "Nomi bo\'sh bo\'lishi mumkin emas"
+
+msgid "Do not select the type of event"
+msgstr "Tadbir turini tanlang qilmang"
+
+msgid "Error while saving comment"
+msgstr "Xato Fikr tejash vaqt"
+
+msgid "Save error: access denied"
+msgstr "Xato saqlash: kirish taqiqlandi"
+
+msgid "Remains"
+msgstr "qoldiqlar"
+
+msgid "Time spent, h."
+msgstr "Time , h o\'tkazdi."
+
+msgid "Emails"
+msgstr "Emails"
+
+msgid "Meetings"
+msgstr "Tadbirlarni"
+
+msgid "All users"
+msgstr "barcha foydalanuvchilar"
+
+msgid "Category"
+msgstr "kategoriya"
+
+msgid "Finance project"
+msgstr "Moliya loyiha"
+
+msgid "Investment project"
+msgstr "investitsiya loyiha"
+
+msgid "Nature"
+msgstr "Tabiat"
+
+msgid "Data is empty"
+msgstr "Data bo\'sh"
+
+msgid "Visitors"
+msgstr "Mehmon"
+
+msgid "My profile"
+msgstr "Mening profili"
+
+msgid "Sponsors"
+msgstr "homiylari"
+
+msgid "Prior to completion"
+msgstr "O\'tgan yakuniga"
+
+msgid "Select"
+msgstr "tanlang"
+
+msgid "My groups"
+msgstr "Mening guruhlar"
+
+msgid "The invitation has been sent successfully"
+msgstr "Taklif muvaffaqiyatli yuborildi"
+
+msgid "Username has already been invited to this project"
+msgstr "Foydalanuvchi nomi allaqachon bu loyihaga taklif qilingan"
+
+msgid "The user is the creator of the project"
+msgstr "Foydalanuvchi loyiha yaratuvchisi"
+
+msgid "Provide full access"
+msgstr "To\'liq foydalanish imkonini beradi"
+
+msgid "Select elements to provide access"
+msgstr "Ruxsat berish -ni tanlash"
+
+msgid "Select all"
+msgstr "Hammasini belgilash"
+
+msgid "User E-mail"
+msgstr "Foydalanuvchi E- mail"
+
+msgid "Click on the field to select a category"
+msgstr "Kategoriya tanlash uchun maydonga bosing"
+
+msgid "Invitation was deleted"
+msgstr "Taklif o\'chirildi"
+
+msgid "Permission denied"
+msgstr "Ruxsat berilmadi"
+
+msgid "Printed"
+msgstr "bosilgan"
+
+msgid "Incorrect Contractor email"
+msgstr "Noto\'g\'ri Pudratchi email"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Agar menejeri moliyalashtirish uchun loyihasini kiritish istaysizmi ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Ro\'yxatga olish jarayonini yakunlash uchun qobiliyatlaringizni pastga to\'ldiring iltimos"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Keyingi ko\'rsatmalar bilan bir mail elektron pochta manziliga yuborilgan edi"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Cars"
+msgstr "avtomobil"
+
+msgid "Science"
+msgstr "fan"
+
+msgid "Donation"
+msgstr "hadya"
+
+msgid "Interests"
+msgstr "Qiziqishlari"
+
+msgid "Driver"
+msgstr "haydovchi"
+
+msgid "Sportsman"
+msgstr "sportchi"
+
+msgid "Businessman"
+msgstr "biznesmen"
+
+msgid "Accountant"
+msgstr "hisobchi ayol"
+
+msgid "Engineer"
+msgstr "muhandis"
+
+msgid "Soldier"
+msgstr "askar"
+
+msgid "Next"
+msgstr "Keyingisi"
+
+msgid "Hide group"
+msgstr "Hide guruh"
+
+msgid "groups created"
+msgstr "guruhlar tashkil"
+
+msgid "articles written"
+msgstr "maqolalar yozilgan"
+
+msgid "These groups may be interesting for you"
+msgstr "Ushbu guruhlar siz uchun qiziqarli bo\'lishi mumkin"
+
+msgid "About Group"
+msgstr "Guruh haqida"
+
+msgid "view(s)"
+msgstr "view ( s )"
+
+msgid "Favorite users"
+msgstr "Sevimli foydalanuvchilar"
+
+msgid "No accounts"
+msgstr "No hisob"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook ruxsat olmadi ."
+
+msgid "Authorization Required"
+msgstr "Avtorizatsiya majburiy"
+
+msgid "You have to make a call:"
+msgstr "Agar qo\'ng\'iroq qilish kerak :"
+
+msgid "You have to send an email:"
+msgstr "Siz elektron pochta yuborish kerak :"
+
+msgid "You have a meetup:"
+msgstr "Agar meetup bor :"
+
+msgid "You event :"
+msgstr "Voqealar :"
+
+msgid "Participants:"
+msgstr "ishtirokchilar :"
+
+msgid "Search"
+msgstr "Qidiruv"
+
+msgid "News"
+msgstr "yangiliklar"
+
+msgid "Investments"
+msgstr "Sarmoyalar"
+
+msgid "Back to Cloud"
+msgstr "Orqaga Cloud"
+
+msgid "Documents"
+msgstr "Hujjatlar"
+
+msgid "Planet"
+msgstr "sayyora"
+
+msgid "Group url"
+msgstr "Guruh url"
+
+msgid "Profile url"
+msgstr "Foydalanuvchining profili url"
+
+msgid "Already taken"
+msgstr "Allaqachon olingan"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Talab kamida 1 xat va 3-belgilar uzunligi"
+
+msgid "Digit can not be the first character"
+msgstr "Raqamlar birinchi belgi bo\'lishi mumkin emas"
+
+msgid "Enter valid email address"
+msgstr "Joriy elektron pochta manzilini kiriting"
+
+msgid "Enter your skills"
+msgstr "Ko\'nikmalarini kiriting"
+
+msgid "Enter your first name"
+msgstr "Birinchi nomini kiriting"
+
+msgid "Enter your last name"
+msgstr "Sizning oxirgi nomini kiriting"
+
+msgid "Enter your first name and last name"
+msgstr "Birinchi ism va familiyasi kiriting"
+
+msgid "Your first name?"
+msgstr "Sizning ismingiz ?"
+
+msgid "Your last name?"
+msgstr "Sizning oxirgi ism ?"
+
+msgid "What are your proficiencies?"
+msgstr "Sizning Yeterlilikleri nima?"
+
+msgid "Select country"
+msgstr "Davlat tanlang"
+
+msgid "Select user"
+msgstr "tanlang foydalanuvchi"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Tushingni vafo ! Yaratish va hamkorlik ."
+
+msgid "date moved from"
+msgstr "sana ko\'chib"
+
+msgid "work"
+msgstr "ish"
+
+msgid "Conference"
+msgstr "konferentsiya"
+
+msgid "personal"
+msgstr "shaxsiy"
+
+msgid "Holiday"
+msgstr "bayram"
+
+msgid "Past"
+msgstr "O\'tgan"
+
+msgid "Future"
+msgstr "Kelajak"
+
+msgid "Purchase"
+msgstr "Sotib olish to\'g\'risida"
+
+msgid "Personal events"
+msgstr "Xususiy tadbirlar"
+
+msgid "Conferences"
+msgstr "Uchrashuv"
+
+msgid "Holidays"
+msgstr "Dam olish"
+
+msgid "Sport events"
+msgstr "Sport tadbirlari"
+
+msgid "Tasks"
+msgstr "Vazifalar"
+
+msgid "Other events"
+msgstr "Boshqa tadbirlar"
+
+msgid "Set aside"
+msgstr "Ovqat"
+
+msgid "Set aside"
+msgstr "Ertelenmiş"
+
+msgid "Time management"
+msgstr "Time Management"
+
+msgid "Delayed events"
+msgstr "Ertelenen tadbirlar"
+
+msgid "Delayed"
+msgstr "Ertelenmiş"
+
+msgid "Bind to"
+msgstr "Belgilash"
+
+msgid "answered your comment to"
+msgstr "I (a) maqola Comment dedi"
+
+msgid "commented your article"
+msgstr "Men sizning maqolaga izoh"
+
+msgid "You\'ve answered on comment to"
+msgstr "Siz maqolaga izoh javob"
+
+msgid "You\'ve commented an article"
+msgstr "Siz maqolada sharhladi"
+
+msgid "Terms and Conditions"
+msgstr "Qoida va shartlar"
+
+msgid "Privacy Policy"
+msgstr "Maxfiylik siyosati"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Bosish bilan siz bizning qo\'shilaman va siz o\'qigan tan \", ro\'yxatdan o\'tishingiz\" bizning"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Butun dunyo bo\'ylab ijodiy odamlar jamoaga qo\'shiling! Siz olasiz: investitsiya Fikrlaringga, uning jamoasi to\'plash imkoniga ega, saqlash va undan ko\'p 2 Gb, bir guruh, moliyaviy menejeri ishlaydigan, ularning vaqtni boshqarish. Va u erkin!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Uzr, lekin siz izlayotgan sahifa mavjud emas. Agar kim aybdor, deb o\'ylayman, agar bizga, biz bilan bog\'laning"
+
+msgid "Return"
+msgstr "Ortga qaytmoq"
+
+msgid "COMMON"
+msgstr "Jami"
+
+msgid "My events"
+msgstr "Mening Tadbirlar"
+
+msgid "Job opening"
+msgstr "Yangi bo\'sh lavozimlar"
+
+msgid "Employment"
+msgstr "Bandlik turi"
+
+msgid "Working hours"
+msgstr "Ish grafigi"
+
+msgid "City"
+msgstr "Shahar"
+
+msgid "Wages"
+msgstr "Maosh"
+
+msgid "Currency"
+msgstr "Ayirboshlash"
+
+msgid "Experience"
+msgstr "Tajriba"
+
+msgid "Full-time"
+msgstr "To\'liq bandlik"
+
+msgid "Part-time"
+msgstr "Part-time"
+
+msgid "Project employment"
+msgstr "Loyiha / Vaqtinchalik"
+
+msgid "Volunteer"
+msgstr "Kamtarlik"
+
+msgid "Internship"
+msgstr "Malaka"
+
+msgid "Full day"
+msgstr "To\'liq Time"
+
+msgid "Shifts"
+msgstr "O\'zgartirish jadvali"
+
+msgid "Flexible shifts"
+msgstr "Moslashuvchan jadval"
+
+msgid "Remote work"
+msgstr "Masofadan ish"
+
+msgid "Rotational basis"
+msgstr "Shift usul"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Agar Fikr o\'chirishni istaysizmi ishonchingiz komilmi?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Agar bu vazifani o\'chirishni istaysizmi ishonchingiz komilmi?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Agar bu sub-loyiha o\'chirishni istaysizmi ishonchingiz komilmi?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Siz holatda kompaniya murojaat qilgan. Ishonch hosil qiling"
+
+msgid "Your request to for job has been rejected"
+msgstr "Holatiga kompaniya Sizning so\'rov rad etildi"
+
+msgid "Your request to for job has been accepted"
+msgstr "Holatiga kompaniya Sizning so\'rov qabul qilindi"
+
+msgid "profile is completed"
+msgstr "Sizning profili to\'la"
+
+msgid "Use account"
+msgstr "Hisob foydalaning"
+
+msgid "$/hr"
+msgstr "$ / Soat"
+
+msgid "Finance category"
+msgstr "Moliyaviy kategoriya"
+
+msgid "No projects"
+msgstr "No loyihalar"
+
+msgid "Bind to finances"
+msgstr "Moliyaviy loyihani belgilash"
+
+msgid "Preview"
+msgstr "Ko\'rinish"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Save to my cloud"
+msgstr "Omboridan nusxa"
+
+msgid "File successfully saved to your cloud"
+msgstr "Muvaffaqiyatli hovuzida saqlangan Fayl"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Sizning hovuzida bu faylni saqlash?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Bir kategoriya modda tanlang"
+
+msgid "Type something"
+msgstr "Narsa yozing"
+
+msgid "Founded users"
+msgstr "Topilgan foydalanuvchilar"
+
+msgid "Founded articles"
+msgstr "Topilgan maqola"
+
+msgid "Founded groups"
+msgstr "Tashkil topgan guruh"
+
+msgid "What are your skills?"
+msgstr "Sizning qobiliyatlari bor?"
+
+msgid "Select at least 2 interests"
+msgstr "Kamida 2 qiziqish tanlang"
+
+msgid "Need more interests"
+msgstr "Emas, balki etarli foiz tanlangan"
+
+msgid "What are you interesting in?"
+msgstr "Agar manfaatdor nima?"
+
+msgid "You have no dialogs"
+msgstr "Siz suhbatlar yo\'q"
+
+msgid "Usage Stats"
+msgstr "Davlat"
+
+msgid "Founded files"
+msgstr "Fayllar topildi"
+
+msgid "Big tiles"
+msgstr "Katta kafel"
+
+msgid "Small tiles"
+msgstr "Kichik kafel"
+
+msgid "Table view"
+msgstr "Jadval ko\'rinishi"
+
+msgid "Root folder"
+msgstr "ildiz katalog"
+
+msgid "My files"
+msgstr "My Files"
+
+msgid "Save as draft"
+msgstr "Toshloq, deb saqlash"
+
+msgid "Buy More Space"
+msgstr "Ko\'proq joy sotib olish"
+
+msgid "Buy"
+msgstr "Sotib olish"
+
+msgid "You have been invited to group as"
+msgstr "Siz kabi guruhga taklif qilingan"
+
+msgid "User wants to join your group"
+msgstr "Foydalanuvchi siz guruhga xohlaydi"
+
+msgid "Section is coming soon!"
+msgstr "Qurilish ostida Bo\'lim!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Oxirgi 24 soat ichida Views:"
+
+msgid "Task was updated"
+msgstr "ish yangilandi"
+
+msgid "Task was closed"
+msgstr "qiyinchilik yopiq qilindi"
+
+msgid "Task was created"
+msgstr "ish etildi"
+
+msgid "Current balance"
+msgstr "Hozirgi balansi"
+
+msgid "Add funds"
+msgstr "Qo\'shish"
+
+msgid "Pay"
+msgstr "To\'lov"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Siz login urinishlar sonini oshdi. Siz 15 daqiqa davomida blokirovka qilinadi"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Sizning e-mail tasdiqlash qiling. pochta orqali sizga yuborgan maktub."
+
+msgid "Resend confirmation email"
+msgstr "Yana tasdiq yuborish"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Oyiga Disc 2 GB"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Yiliga 10 Gb Search"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB har yili"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1TB oylik"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Har yili 1 kabilar diskini"
+
+msgid "Project members monthly"
+msgstr "Har oyda loyihaning ishtirokchilari"
+
+msgid "Project members yearly"
+msgstr "Har yili Loyiha ishtirokchilari"
+
+msgid "Member(s) yearly"
+msgstr "Yiliga a\'zosi (s)"
+
+msgid "Member(s) monthly"
+msgstr "Har oyda a\'zosi (s)"
+
+msgid "Authorized"
+msgstr "Vakolatli"
+
+msgid "Authorization expired"
+msgstr "Avtorizatsiya tugagan"
+
+msgid "Processor declined"
+msgstr "Rad ishlash tizimi"
+
+msgid "Gateway rejected"
+msgstr "Rad to\'lov gateway"
+
+msgid "Failed"
+msgstr "Xato"
+
+msgid "Voided"
+msgstr "Bekor qilmoq"
+
+msgid "Submitted for settlement"
+msgstr "O\'qishga yuborilgan"
+
+msgid "Settlement declined"
+msgstr "Ro\'yxatdan o\'tish rad etildi"
+
+msgid "Settlement pending"
+msgstr "Kutayotgan ro\'yxatga olish"
+
+msgid "Verified"
+msgstr "Checked"
+
+msgid "Pending"
+msgstr "Kutayotgan"
+
+msgid "Active"
+msgstr "Faol"
+
+msgid "Past Due"
+msgstr "Muddati tugagan"
+
+msgid "Expired"
+msgstr "Yakunlandi"
+
+msgid "Marketer"
+msgstr "Pazarlamacı"
+
+msgid "India"
+msgstr "Hindiston"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Thailand"
+msgstr "Tailand"
+
+msgid "South Korea"
+msgstr "Janubiy Koreya"
+
+msgid "Kazakhstan"
+msgstr "Qozog\'iston"
+
+msgid "Israel"
+msgstr "Isroil"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Bulgaria"
+msgstr "Bolgariya"
+
+msgid "Turkey"
+msgstr "Kurka"
+
+msgid "Armenia"
+msgstr "Armaniston"
+
+msgid "Serbia"
+msgstr "Serbiya"
+
+msgid "Austria"
+msgstr "Avstriya"
+
+msgid "Poland"
+msgstr "Polsha"
+
+msgid "Germany"
+msgstr "Germaniya"
+
+msgid "Italy"
+msgstr "Italiya"
+
+msgid "Netherlands"
+msgstr "Gollandiya"
+
+msgid "Ireland"
+msgstr "Irlandiya"
+
+msgid "United Kingdom"
+msgstr "Buyuk Britaniya"
+
+msgid "Portugal"
+msgstr "Portugaliya"
+
+msgid "Norway"
+msgstr "Norvegiya"
+
+msgid "United States"
+msgstr "Amerika Qo\'shma Shtatlari"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Brazil"
+msgstr "Braziliya"
+
+msgid "Saudi Arabia"
+msgstr "Saudiya Arabistoni"
+
+msgid "Canada"
+msgstr "Misr"
+
+msgid "Russia"
+msgstr "Rossiya"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Ayni paytda, bir ish emas edi"
+
+msgid "Fulfill your dream"
+msgstr "Hayalinizdeki bajarish"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Butun dunyo bo\'ylab ijodiy shaxslar bizning jamoaga qo\'shiling."
+
+msgid "Create and Collaborate"
+msgstr "Yaratish va hamkorlik"
+
+msgid "Start Dreaming"
+msgstr "QILING tush amalga"
+
+msgid "or"
+msgstr "yoki"
+
+msgid "Our mission:"
+msgstr "Bizning missiya:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Kelajagimizni shakllantirish mumkin, oddiy va aql bovar qilmaydigan va hayoliy uchun talab g\'oyalarni amalga oshirish uchun ijodiy va faol odamlarni birlashtirish."
+
+msgid "What is Konstruktor?"
+msgstr "Konstruktor nima?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor- bizning haqiqiy sezilarli yordam beradi hayoti va osonlashtiradi bir qismi hisoblanadi"
+
+msgid "*business processes"
+msgstr "* Ish jarayonlari"
+
+msgid "*materialization of creative ideas"
+msgstr "* Ijodiy g\'oyalar amalga oshirish"
+
+msgid "*constructive cooperation"
+msgstr "* Konstruktiv hamkorlik"
+
+msgid "Make your dream!"
+msgstr "Tushingni qiling!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "Bosh ijrochi direktor"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Maxsus maslahatchisi"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Manager, dasturiy ta\'minot ishlab chiqish"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Senior advokat"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Dizayner"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Keyingi tugmasini bosgan holda, Siz qabul qilingan va bizning shartlari va shartlar bilan qabul, va siz bizning Maxfiylik siyosati o\'qib tan olinadi."
+
+msgid "Incorrect login or password."
+msgstr "Noto\'g\'ri kirish yoki parol."
+
+msgid "Password must be at least 6 characters"
+msgstr "Parol kamida 6 belgilar bo\'lishi kerak"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "Fevral"
+
+msgid "March"
+msgstr "Qadam tashlamoq"
+
+msgid "April"
+msgstr "Aprel"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "Iyun"
+
+msgid "July"
+msgstr "Iyul"
+
+msgid "August"
+msgstr "Avgust"
+
+msgid "September"
+msgstr "Sentyabr"
+
+msgid "October"
+msgstr "Oktyabr"
+
+msgid "November"
+msgstr "Noyabr"
+
+msgid "December"
+msgstr "Dekabr"
+
+msgid "Chat"
+msgstr "Suhbat"
+
+msgid "Files"
+msgstr "Fayllar"
+
+msgid "Statistic"
+msgstr "Statistik"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Exit"
+msgstr "Chiqish"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Marketing specialist"
+msgstr "Marketing mutaxassis"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Shared with me"
+msgstr "Men bilan o\'rtoqlashdi"
+
+msgid "File Sharing"
+msgstr "Fayl almashish"
+
+msgid "Provide access by link"
+msgstr "Ulanishni tomonidan ruxsat berish"
+
+msgid "Provide Individual access"
+msgstr "Individual foydalanish imkonini beradi"
+
+msgid "Provide edit access"
+msgstr "Tahrir ruxsat berish"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Files will be available only for selected users"
+msgstr "Fayllar, tanlangan foydalanuvchilar uchungina bo\'ladi"
+
+msgid "With this link everyone can access to the files"
+msgstr "Ushbu ishoratlar bilan har bir kishi fayllar uchun kirish mumkin"
+
+msgid "Search users, groups, articles..."
+msgstr "Qidiruv foydalanuvchilar, guruhlar, maqolalar ..."
+
+msgid "My Group"
+msgstr "Mening Group"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Bizlar"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Fayl tanlangan emas"
+
+msgid "Set aside"
+msgstr "Chetga"
+
+msgid "Event time"
+msgstr "Tantanalarni vaqt"
+
+msgid "Work"
+msgstr "Ish"
+
+msgid "Personal"
+msgstr "Shaxsiy"
+
+msgid "Time spent for work:"
+msgstr "Time ish uchun sarflangan:"
+
+msgid "Personal time spent:"
+msgstr "Shaxsiy vaqt sarflangan:"
+
+msgid "Present"
+msgstr "Hozirgi"
+
+msgid "Common"
+msgstr "Umumiy"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "Entertainment"
+msgstr "Entertainment"
+
+msgid "Select:"
+msgstr "Tanlang:"
+
+msgid "Invalid username or password."
+msgstr "Noto\'g\'ri foydalanuvchi nomi yoki parol."
+
+msgid "Try again."
+msgstr "Qayta urinib ko\'ring."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "Sizni qiziqtirgan QANChA?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Kamida 2 ko\'nikmalarini tanlang: 2 qoladi"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Kamida 2 ko\'nikmalarini tanlang: 1 qolmoqda"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Kamida 2 ko\'nikmalarini tanlang: qoldiqlari"
+
+msgid "Active life"
+msgstr "Foydalanuvchining barcha e\'lonlar, hayot"
+
+msgid "Arts and culture"
+msgstr "San\'at va madaniyat"
+
+msgid "Business"
+msgstr "Ish"
+
+msgid "Cinema"
+msgstr "Kinoteatr"
+
+msgid "Communications"
+msgstr "Aloqa"
+
+msgid "Construction and repair"
+msgstr "Qurilish-tamir"
+
+msgid "Cooking"
+msgstr "Ovqat pishirish"
+
+msgid "Education"
+msgstr "Ta\'lim"
+
+msgid "Electronics"
+msgstr "Electronics"
+
+msgid "Finances"
+msgstr "Moliya"
+
+msgid "Graphics and design"
+msgstr "Grafik va dizayn"
+
+msgid "Health"
+msgstr "Sog\'lik"
+
+msgid "Home and family"
+msgstr "Uy va oila"
+
+msgid "Humor"
+msgstr "Xazil"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Sanoat"
+
+msgid "Insurance"
+msgstr "Sug\'urta"
+
+msgid "Literature"
+msgstr "Adabiyot"
+
+msgid "Mobile communications and internet"
+msgstr "Mobil aloqa va internet"
+
+msgid "News and Media"
+msgstr "Yangiliklar va Media"
+
+msgid "Pets"
+msgstr "Yovvoyi hayvonlar"
+
+msgid "Products and service"
+msgstr "Mahsulotlar va xizmat"
+
+msgid "Real Estate"
+msgstr "Ko `chmas mulk"
+
+msgid "Religion"
+msgstr "Din"
+
+msgid "Science and techs"
+msgstr "Fan va bo\'yicha mutaxassis"
+
+msgid "Security"
+msgstr "Xavfsizlik"
+
+msgid "Society"
+msgstr "Jamiyat"
+
+msgid "Television"
+msgstr "Televideniye"
+
+msgid "Travel"
+msgstr "Sayohat"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Avstraliya"
+
+msgid "Austria"
+msgstr "Avstriya"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belgium"
+msgstr "Belgiya"
+
+msgid "Brazil"
+msgstr "Braziliya"
+
+msgid "Bulgaria"
+msgstr "Bolgariya"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Chile"
+msgstr "Chili"
+
+msgid "Denmark"
+msgstr "Daniya"
+
+msgid "France"
+msgstr "Frantsiya"
+
+msgid "Germany"
+msgstr "Germaniya"
+
+msgid "Greece"
+msgstr "Gretsiya"
+
+msgid "Hungary"
+msgstr "Vengriya"
+
+msgid "Iceland"
+msgstr "Islandiya"
+
+msgid "Ireland"
+msgstr "Irlandiya"
+
+msgid "Israel"
+msgstr "Isroil"
+
+msgid "Italy"
+msgstr "Italiya"
+
+msgid "Japan"
+msgstr "Yaponiya"
+
+msgid "Mexico"
+msgstr "Meksika"
+
+msgid "Netherlands"
+msgstr "Gollandiya"
+
+msgid "New Zealand"
+msgstr "Yangi Zelandiya"
+
+msgid "Norway"
+msgstr "Norvegiya"
+
+msgid "Poland"
+msgstr "Polsha"
+
+msgid "Portugal"
+msgstr "Portugaliya"
+
+msgid "Russia"
+msgstr "Rossiya"
+
+msgid "Slovakia"
+msgstr "Slovakiya"
+
+msgid "South Africa"
+msgstr "Janubiy Afrika"
+
+msgid "South Korea"
+msgstr "Janubiy Koreya"
+
+msgid "Spain"
+msgstr "Ispaniya"
+
+msgid "Sweden"
+msgstr "Shvetsiya"
+
+msgid "Switzerland"
+msgstr "Shveytsariya"
+
+msgid "Turkey"
+msgstr "kurka"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "United Arab Emirates"
+msgstr "Birlashgan Arab Amirligi"
+
+msgid "United Kingdom"
+msgstr "Birlashgan Qirollik"
+
+msgid "United States"
+msgstr "Qo\'shma Shtatlar"
+
+msgid "achievements"
+msgstr "yutuqlari"
+
+msgid "Investment management"
+msgstr "Investitsiya boshqaruv"
+
+msgid "Select..."
+msgstr "Tanlang ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "Investitsiya BOSHQARMASI"
+
+msgid "Investors list"
+msgstr "Investors ro\'yxati"
+
+msgid "My investments"
+msgstr "Mening investitsiyalar"
+
+msgid "Create date"
+msgstr "Sana yaratish"
+
+msgid "Author of the project"
+msgstr "Loyihaning Muallif"
+
+msgid "Date and time"
+msgstr "Sana va vaqt"
+
+msgid "Status"
+msgstr "Holat"
+
+msgid "NEXT"
+msgstr "KEYINGI"
+
+msgid "Next"
+msgstr "Keyingi"
+
+msgid "Apply"
+msgstr "Qo\'llash"
+
+msgid "Kazakhstan"
+msgstr "Qozog\'iston"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Fan"
+
+msgid "Architecture"
+msgstr "Arxitektura"
+
+msgid "Photography"
+msgstr "Rasmlar"
+
+msgid "Designer"
+msgstr "Dizayner"
+
+msgid "IT specialist"
+msgstr "IT mutaxassisi"
+
+msgid "Agronomist"
+msgstr "Agronom"
+
+msgid "Architect"
+msgstr "Architector"
+
+msgid "Lawyer"
+msgstr "Yurist"
+
+msgid "Writer"
+msgstr "Yozuvchi"
+
+msgid "Doctor"
+msgstr "Doctor"
+
+msgid "Scientist"
+msgstr "Olim"
+
+msgid "Marketer"
+msgstr "Pazarlamacı"
+
+msgid "Teacher"
+msgstr "Muallim"
+
+msgid "Cook"
+msgstr "Oshpaz"
+
+msgid "Artist"
+msgstr "Artist"
+
+msgid "Photographer"
+msgstr "Fotograf"
+
+msgid "Ecologist"
+msgstr "Ekolog"
+
+msgid "Economist"
+msgstr "Economist"
+
+msgid "Logistician"
+msgstr "Logistika"
+
+msgid "Journalist"
+msgstr "Jurnalist"
+
+msgid "Builder"
+msgstr "Quruvchi"
+
+msgid "These users may be interesting for you"
+msgstr "Bu foydalanuvchilar siz uchun qiziqarli bo\'lishi mumkin"
+
+msgid "These articles may be interesting for you"
+msgstr "Ushbu maqolalar siz uchun qiziqarli bo\'lishi mumkin"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Siz Аdministrator bu guruhga qo\'shildi"
+
+msgid "articles written."
+msgstr "maqolalar yozilgan."
+
+msgid "groups created."
+msgstr "guruhlar tashkil etildi."
+
+msgid "Creation"
+msgstr "Yaratilish"
+
+msgid "Build a dream"
+msgstr "bir tush qurish"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Yanada qiziqarli maqolalar o'qing - bepul ro'yxatga borib"
+

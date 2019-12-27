@@ -1,0 +1,3344 @@
+# Қазақ(Казахский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Қазақ(Казахский) <support@konstruktor.com>\n"
+"Language: Қазақ(Казахский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "пайдаланушы аты"
+
+msgid "Invalid username or password, try again"
+msgstr "Қате логин немесе пароль . Қайтадан көріңіз."
+
+msgid "Settings"
+msgstr "Параметрлер"
+
+msgid "Home"
+msgstr "үй"
+
+msgid "You must log in to access this page"
+msgstr "Сіз бұл бетті кіру үшін кіру керек"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Сіздің сеанс аяқталды болды. Бұл әрекетті орындау үшін relogin сұраймыз"
+
+msgid "Save"
+msgstr "сақтау"
+
+msgid "Head Office"
+msgstr "Басты Кеңсесі"
+
+msgid "Address"
+msgstr "мекен-жай"
+
+msgid "Back"
+msgstr "артқа"
+
+msgid "Apply"
+msgstr "Қолдану"
+
+msgid "Upload files…"
+msgstr "Файлдарды жүктеңіз ..."
+
+msgid "Set as main"
+msgstr "Негізгі ретінде орнату"
+
+msgid "Delete"
+msgstr "жою"
+
+msgid "Original image"
+msgstr "Original сурет"
+
+msgid "Uploaded"
+msgstr "Uploaded"
+
+msgid "File name"
+msgstr "файл атауы"
+
+msgid "File size"
+msgstr "Файл мөлшері"
+
+msgid "Resolution"
+msgstr "қаулысы"
+
+msgid "Enlarge"
+msgstr "үлкейту"
+
+msgid "Links"
+msgstr "сілтемелер"
+
+msgid "Original size"
+msgstr "Original мөлшері"
+
+msgid "For editor"
+msgstr "Өңдегіш үшін"
+
+msgid "Resize"
+msgstr "өлшемін өзгерту"
+
+msgid "Width"
+msgstr "ені"
+
+msgid "Height"
+msgstr "биіктік"
+
+msgid "Media URL"
+msgstr "БАҚ URL"
+
+msgid "Add record"
+msgstr "жазбасын қосу"
+
+msgid "Show filter settings"
+msgstr "Сүзгі параметрлерін көрсету"
+
+msgid "Edit record"
+msgstr "өңдеу жазбасы"
+
+msgid "Delete record"
+msgstr "жою жазба"
+
+msgid "Delete checked records"
+msgstr "Тексерді жазбаларын жойыңыз"
+
+msgid "Dashboard"
+msgstr "құралдар тақтасы"
+
+msgid "Password"
+msgstr "пароль"
+
+msgid "Remember me"
+msgstr "мені есте сақта"
+
+msgid "Login"
+msgstr "Кіру"
+
+msgid "Clean image cache"
+msgstr "Таза сурет кэш"
+
+msgid "Processing query..."
+msgstr "Өңдеу С рау ..."
+
+msgid "CMS Development"
+msgstr "CMS дамыту"
+
+msgid "Admin Home Page"
+msgstr "Admin Негізгі бет"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Жаңа қойындыда интерфейсте ашық Негізгі бет"
+
+msgid "Go to Site"
+msgstr "Сайтта өту"
+
+msgid "Log out"
+msgstr "шығу"
+
+msgid "Send"
+msgstr "жіберу"
+
+msgid "General"
+msgstr "жалпы"
+
+msgid "Title"
+msgstr "тақырып"
+
+msgid "Teaser"
+msgstr "Teaser"
+
+msgid "Published"
+msgstr "Жарияланды"
+
+msgid "Featured"
+msgstr "Танымал"
+
+msgid "Active"
+msgstr "белсенді"
+
+msgid "Field is mandatory"
+msgstr "Field міндетті болып табылады"
+
+msgid "Sort Order"
+msgstr "сұрыптау"
+
+msgid "Upload"
+msgstr "Жүктеу"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "наурыз"
+
+msgid "Apr"
+msgstr "сәуір"
+
+msgid "May"
+msgstr "мамыр"
+
+msgid "Jun"
+msgstr "маусым"
+
+msgid "Jul"
+msgstr "шілде"
+
+msgid "Aug"
+msgstr "тамыз"
+
+msgid "Sep"
+msgstr "қыркүйек"
+
+msgid "Oct"
+msgstr "қазан"
+
+msgid "Nov"
+msgstr "қараша"
+
+msgid "Dec"
+msgstr "желтоқсан"
+
+msgid "Product already exists in the order"
+msgstr "Өнім өзінде тәртіппен бар"
+
+msgid "Product does not exist"
+msgstr "Өнім жоқ,"
+
+msgid "Incorrect request"
+msgstr "Қате сұрау"
+
+msgid "Products"
+msgstr "Өнімдер"
+
+msgid "Product types"
+msgstr "Өнім түрлері"
+
+msgid "Contractors"
+msgstr "Мердігерлер"
+
+msgid "Contractor"
+msgstr "Мердігер"
+
+msgid "Orders"
+msgstr "Бұйрықтар"
+
+msgid "FAQ"
+msgstr "ЖИІ ҚОЙЫЛАТЫН СҰРАҚТАР"
+
+msgid "New order"
+msgstr "Жаңа тәртібі"
+
+msgid "My orders"
+msgstr "Менің тапсырыстар"
+
+msgid "Recharge balance"
+msgstr "Recharge балансы"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Incorrect event ID"
+msgstr "Қате оқиға ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "өңдеу мердігер"
+
+msgid "Create contractor"
+msgstr "мердігер жасау"
+
+msgid "Edit question"
+msgstr "өңдеу сұрақ"
+
+msgid "Create question"
+msgstr "сұрақ жасау"
+
+msgid "Edit order"
+msgstr "өңдеу тәртібі"
+
+msgid "Create order"
+msgstr "тәртібін жасау"
+
+msgid "Edit product"
+msgstr "өңдеу өнім"
+
+msgid "Create product"
+msgstr "Өнімді жасау"
+
+msgid "Edit product type"
+msgstr "Өңдеу өнім түрі"
+
+msgid "Create product type"
+msgstr "Өнім Түрін жасау"
+
+msgid "You have received a file"
+msgstr "Сіз файлды алды"
+
+msgid "You received a file from"
+msgstr "Сіз файлды алды"
+
+msgid "File has been uploaded"
+msgstr "Файл жүктелген болды"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "минималды саны"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "тармақтар"
+
+msgid "Remove"
+msgstr "кетіру"
+
+msgid "Contact person"
+msgstr "байланыс жасайтын тұлға"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Contractor phone"
+msgstr "Мердігер телефон"
+
+msgid "Contractor name"
+msgstr "Мердігер атауы"
+
+msgid "Contractor details"
+msgstr "Мердігер егжей"
+
+msgid "Order ID"
+msgstr "Тапсырыс ID"
+
+msgid "Sum"
+msgstr "сома"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Егер тепе-теңдік зарядтау қолайлы төлем жүйесін таңдаңыз"
+
+msgid "Recharge amount"
+msgstr "Recharge сомасы"
+
+msgid "Paid"
+msgstr "ақылы"
+
+msgid "Shipped"
+msgstr "Тиеп"
+
+msgid "- No products in this order -"
+msgstr "- Осы тәртіппен Жоқ өнімдерін -"
+
+msgid "month"
+msgstr "ай"
+
+msgid "No user found"
+msgstr "Пайдаланушы табылған жоқ"
+
+msgid "Achievement"
+msgstr "жетістік"
+
+msgid "Confirmed accomplishments"
+msgstr "расталған жетістіктері"
+
+msgid "Remove achievement"
+msgstr "қол алыңыз"
+
+msgid "Headquaters"
+msgstr "Бас кеңсе"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Site URL and email"
+msgstr "Сайт URL және электрондық пошта"
+
+msgid "Remove address"
+msgstr "мекен-жайы алыңыз"
+
+msgid "Members"
+msgstr "Мүшелер"
+
+msgid "Requires a payment"
+msgstr "Төлем талап"
+
+msgid "Shipping"
+msgstr "Жеткізілім"
+
+msgid "Ready"
+msgstr "дайын"
+
+msgid "Find user..."
+msgstr "Пайдаланушыны табу ..."
+
+msgid "Order it"
+msgstr "оны тапсырыс"
+
+msgid "Find group..."
+msgstr "Топты табу ..."
+
+msgid "Find user or community..."
+msgstr "Пайдаланушыны немесе қауымдастықты табу ..."
+
+msgid "No item found"
+msgstr "Тармақ табылған жоқ"
+
+msgid "years"
+msgstr "жыл"
+
+msgid "Send message"
+msgstr "хабар жіберу"
+
+msgid "Message"
+msgstr "хабар"
+
+msgid "To send message press Enter"
+msgstr "Хабар баспасөз енгізіңіз жіберу үшін"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Хабар пернесін басыңыз жіберу үшін CTRL + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Өңдеу файл (дар) ..."
+
+msgid "Group settings"
+msgstr "Group параметрлері"
+
+msgid "Create group"
+msgstr "тобын құру"
+
+msgid "Group has been successfully saved"
+msgstr "Топ сақталуы сәтті өтті"
+
+msgid "Group title"
+msgstr "Group атауы"
+
+msgid "Group video"
+msgstr "Group бейне"
+
+msgid "Description"
+msgstr "Сипаттама"
+
+msgid "Your role in group"
+msgstr "Тобында Сіздің рөлі"
+
+msgid "Role"
+msgstr "рөлі"
+
+msgid "Photo or video gallery"
+msgstr "Фото немесе бейне галереясы"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "видео қосу"
+
+msgid "Add group address"
+msgstr "Топ мекенжайын қосу"
+
+msgid "Group articles"
+msgstr "Group мақалалар"
+
+msgid "No addresses yet"
+msgstr "Әлі мекенжайлары жоқ"
+
+msgid "Add group achievement"
+msgstr "Топ қол қосу"
+
+msgid "No achivements yet"
+msgstr "Әлі жоқ жетістіктері"
+
+msgid "Are you sure to delete this user"
+msgstr "Осы пайдаланушыны жою үшін сіз сенімдісіз бе"
+
+msgid "Add member"
+msgstr "мүшесі қосу"
+
+msgid "Are you sure to delete this record?"
+msgstr "Бұл жазба жою үшін келетініне сенімдісіз бе?"
+
+msgid "Join this group"
+msgstr "Осы топқа қосылу"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Сіздің шақыру топ әкімшісі жіберілді"
+
+msgid "All addresses"
+msgstr "Барлық мекенжайлары"
+
+msgid "Collapse"
+msgstr "күйреу"
+
+msgid "Achievements"
+msgstr "Жетістіктер"
+
+msgid "Show more"
+msgstr "Толығырақ"
+
+msgid "Team"
+msgstr "команда"
+
+msgid "Projects"
+msgstr "жобалар"
+
+msgid "New project"
+msgstr "Жаңа жоба"
+
+msgid "Project has not been created yet"
+msgstr "Жоба әлі құрылды жоқ,"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "баланс"
+
+msgid "Main page"
+msgstr "Негізгі бет"
+
+msgid "Upload image"
+msgstr "Жүктеу сурет"
+
+msgid "My time"
+msgstr "Менің уақыты"
+
+msgid "Day"
+msgstr "күн"
+
+msgid "Week"
+msgstr "апта"
+
+msgid "Project settings"
+msgstr "Жоба параметрлері"
+
+msgid "Create project"
+msgstr "жобаны жасау"
+
+msgid "Project has been successfully saved"
+msgstr "Жоба сақталуы сәтті өтті"
+
+msgid "Project name"
+msgstr "Жоба атауы"
+
+msgid "Deadline"
+msgstr "Мерзімі"
+
+msgid "Close"
+msgstr "жақын"
+
+msgid "Manager"
+msgstr "басқарушы"
+
+msgid "Assigned to"
+msgstr "тағайындалған"
+
+msgid "Discussion"
+msgstr "талқылау"
+
+msgid "Task was created"
+msgstr "Тапсырма құрылды"
+
+msgid "Task was closed"
+msgstr "Тапсырма жабылды"
+
+msgid "Go to Group"
+msgstr "Топтың өту"
+
+msgid "Closed"
+msgstr "жабық"
+
+msgid "Last updates"
+msgstr "соңғы жаңартулар"
+
+msgid "Project is closed"
+msgstr "Жоба жабық"
+
+msgid "No open tasks"
+msgstr "Бірде- ашық міндеттері"
+
+msgid "New task"
+msgstr "Жаңа міндет"
+
+msgid "Closed tasks"
+msgstr "Жабық міндеттері"
+
+msgid "Add subproject"
+msgstr "Кіші қосу"
+
+msgid "Add task"
+msgstr "тапсырма қосу"
+
+msgid "Sun"
+msgstr "жексенбі"
+
+msgid "Mon"
+msgstr "дүйсенбі"
+
+msgid "Tue"
+msgstr "сейсенбі"
+
+msgid "Wed"
+msgstr "сәрсенбі"
+
+msgid "Thur"
+msgstr "бейсенбі"
+
+msgid "Fri"
+msgstr "жұма"
+
+msgid "Sat"
+msgstr "сенбі"
+
+msgid "Event title"
+msgstr "оқиға атауы"
+
+msgid "Event description"
+msgstr "оқиға сипаттамасы"
+
+msgid "I registered on this site"
+msgstr "Мен осы сайтта тіркелген"
+
+msgid "Last created groups"
+msgstr "Өткен топтары құрылған"
+
+msgid "You joined this group as"
+msgstr "Сіз сондай-ақ осы тобына қосылды"
+
+msgid "You received a request to join the group"
+msgstr "Сіз тобына қосылуға сұрау алды"
+
+msgid "Updated site"
+msgstr "Жаңартылған сайт"
+
+msgid "Site is under construction"
+msgstr "Сайт салынуда"
+
+msgid "Last registered users"
+msgstr "Соңғы тіркелген пайдаланушылар"
+
+msgid "User settings"
+msgstr "пайдаланушы параметрлері"
+
+msgid "Technical support"
+msgstr "техникалық көмек"
+
+msgid "Change email"
+msgstr "өзгерту электрондық пошта"
+
+msgid "Change password"
+msgstr "құпия сөзді өзгерту"
+
+msgid "User has been successfully saved"
+msgstr "Пайдаланушы сақталуы сәтті өтті"
+
+msgid "Full name"
+msgstr "Толық аты"
+
+msgid "My video"
+msgstr "Менің видео"
+
+msgid "Skills"
+msgstr "Skills"
+
+msgid "Birthday"
+msgstr "туған күні"
+
+msgid "Country of residence"
+msgstr "Тұратын Мемлекет"
+
+msgid "Country"
+msgstr "ел"
+
+msgid "Zip Code"
+msgstr "Zip Code"
+
+msgid "City/town of residence"
+msgstr "Тұрғылықты Қала / қала"
+
+msgid "University/college"
+msgstr "Университеті / колледж"
+
+msgid "University/college photo"
+msgstr "Университет / колледж фото"
+
+msgid "Add user\'s accomplishments"
+msgstr "Пайдаланушының жетістіктерін қосу"
+
+msgid "Interface language"
+msgstr "интерфейс тілі"
+
+msgid "How other people see this page"
+msgstr "Қалай басқа адамдар осы бетті қараңыз"
+
+msgid "Video with me"
+msgstr "Менімен Video"
+
+msgid "Groups"
+msgstr "Топтар"
+
+msgid "Registered today"
+msgstr "бүгін тіркелген"
+
+msgid "Qty"
+msgstr "саны"
+
+msgid "No registered users yet"
+msgstr "Әлі тіркелген пайдаланушылар жоқ"
+
+msgid "Total"
+msgstr "жалпы"
+
+msgid "Registered total"
+msgstr "Тіркелген жалпы"
+
+msgid "You received a file"
+msgstr "Сіз файлды алды"
+
+msgid "You were invited into this room"
+msgstr "Сіз бұл бөлмесіне шақырылды"
+
+msgid "Request is being processed"
+msgstr "Сұрау өңделеді"
+
+msgid "Fax"
+msgstr "Факс"
+
+msgid "Messenger"
+msgstr "шабарман"
+
+msgid "New subproject"
+msgstr "Жаңа Қосымша жобалардың ықтимал"
+
+msgid "messages written."
+msgstr "жазбаша хабарлар ."
+
+msgid "projects created based on groups."
+msgstr "топтар негізінде құрылған жоба ."
+
+msgid "users registered on website."
+msgstr "веб-сайтында тіркелген пайдаланушылар ."
+
+msgid "New email"
+msgstr "Жаңа электрондық пошта"
+
+msgid "Confirm email"
+msgstr "Электронды Поштаны Растау"
+
+msgid "New password"
+msgstr "Жаңа Құпия Сөз"
+
+msgid "Confirm password"
+msgstr "Құпия сөзді Растау"
+
+msgid "Occupation"
+msgstr "Мамандығы"
+
+msgid "Timezone"
+msgstr "Timezone"
+
+msgid "Answer"
+msgstr "жауап"
+
+msgid "Articles"
+msgstr "Мақалалар"
+
+msgid "Article"
+msgstr "мақала"
+
+msgid "Video-article"
+msgstr "Бейне - мақала"
+
+msgid "Find article..."
+msgstr "Мақала табу ..."
+
+msgid "Politics"
+msgstr "саясат"
+
+msgid "Economics"
+msgstr "Экономика"
+
+msgid "Community"
+msgstr "қауым"
+
+msgid "Culture"
+msgstr "мәдениет"
+
+msgid "Sports"
+msgstr "Спорт"
+
+msgid "Hi-tech"
+msgstr "Hi- технологиялық"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Fashion"
+msgstr "сән"
+
+msgid "Games"
+msgstr "Ойындар"
+
+msgid "Other"
+msgstr "басқа"
+
+msgid "Invalid mediafile"
+msgstr "Жарамсыз mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Бұл санаттағы әзірге бірде- мақалалар"
+
+msgid "Back to profile"
+msgstr "Артқа профиліне"
+
+msgid "View article"
+msgstr "Мақалаларды қарау"
+
+msgid "Edit article"
+msgstr "өңдеу мақала"
+
+msgid "Create article"
+msgstr "мақала жасау"
+
+msgid "Article title"
+msgstr "Мақала атауы"
+
+msgid "Article section"
+msgstr "бап бөлім"
+
+msgid "Choose image"
+msgstr "суретті таңдаңыз"
+
+msgid "Save and upload"
+msgstr "Сақтау және жүктеуге"
+
+msgid "Show more..."
+msgstr "Толығырақ ..."
+
+msgid "Create"
+msgstr "жасау"
+
+msgid "Edit"
+msgstr "редакциялау"
+
+msgid "Project"
+msgstr "жоба"
+
+msgid "Team"
+msgstr "команда"
+
+msgid "A new article was published"
+msgstr "Жаңа мақала жарияланды"
+
+msgid "You joined this project"
+msgstr "Сіз бұл жобаны қосылды"
+
+msgid "Enter your information in the User settings"
+msgstr "Сіздің ақпараттық Пайдаланушы параметрлері енгізіңіз"
+
+msgid "Communities"
+msgstr "қауымдастықтар"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Менің жетістіктер Видео тұсаукесері"
+
+msgid "My articles"
+msgstr "Менің мақалалар"
+
+msgid "User"
+msgstr "пайдаланушы"
+
+msgid "Users"
+msgstr "Пайдаланушылар"
+
+msgid "Add new list"
+msgstr "Жаңа тізімді қосу"
+
+msgid "List title"
+msgstr "тізімі атауы"
+
+msgid "Add"
+msgstr "қосу"
+
+msgid "Add to favorites"
+msgstr "Таңдаулыға қосу,"
+
+msgid "Delete from favorites"
+msgstr "Таңдаулылар тізімінен жою"
+
+msgid "Select list"
+msgstr "тізімді таңдау"
+
+msgid "Subscriptions"
+msgstr "жазылымдар"
+
+msgid "Subscribe"
+msgstr "жазылу"
+
+msgid "Unsubscribe"
+msgstr "Жазылудан бас тарту"
+
+msgid "General list"
+msgstr "Бас тізімі"
+
+msgid "No users in this list"
+msgstr "Бұл тізімде жоқ пайдаланушылар"
+
+msgid "Publish"
+msgstr "жариялау"
+
+msgid "Unpublish"
+msgstr "жариялауды болдырмау"
+
+msgid "Add user"
+msgstr "пайдаланушыны қосу"
+
+msgid "Create document"
+msgstr "Құжат жасау"
+
+msgid "Edit document"
+msgstr "өңдеу құжат"
+
+msgid "View"
+msgstr "көрініс"
+
+msgid "Document title"
+msgstr "Құжат атауы"
+
+msgid "Find document..."
+msgstr "Құжат табу ..."
+
+msgid "Share your thoughts"
+msgstr "Ойларымен бөлісті"
+
+msgid "Leave your comment"
+msgstr "Сіздің Пікір қалдыру"
+
+msgid "Accept"
+msgstr "қабылдау"
+
+msgid "Decline"
+msgstr "құлдырау"
+
+msgid "Add article"
+msgstr "мақала қосу"
+
+msgid "Link to verified accomplishments"
+msgstr "Тексерілген жетістіктер сілтеме"
+
+msgid "No articles here yet..."
+msgstr "Әлі осында мақалалар Жоқ ..."
+
+msgid "Find file or folder..."
+msgstr "Файлды немесе қалтаны табу ..."
+
+msgid "Sort"
+msgstr "сорт"
+
+msgid "By name"
+msgstr "аты бойынша"
+
+msgid "By date"
+msgstr "Күні бойынша"
+
+msgid "By updated date"
+msgstr "Жаңартылған күні бойынша"
+
+msgid "By size"
+msgstr "мөлшері бойынша"
+
+msgid "By type"
+msgstr "түрі бойынша"
+
+msgid "Move"
+msgstr "көшу"
+
+msgid "File Manager"
+msgstr "файл менеджері"
+
+msgid "Share link"
+msgstr "Акцияларды сілтеме"
+
+msgid "Responsible"
+msgstr "жауапты"
+
+msgid "Performer"
+msgstr "орындаушы"
+
+msgid "New Folder"
+msgstr "Жаңа қалта"
+
+msgid "Folder name"
+msgstr "Қалта атауы"
+
+msgid "By default"
+msgstr "Әдепкіде"
+
+msgid "Back to group"
+msgstr "Артқа тобына"
+
+msgid "year(s)"
+msgstr "жыл (лар)"
+
+msgid "January"
+msgstr "қаңтар"
+
+msgid "February"
+msgstr "ақпан"
+
+msgid "March"
+msgstr "наурыз"
+
+msgid "April"
+msgstr "сәуір"
+
+msgid "May"
+msgstr "мамыр"
+
+msgid "June"
+msgstr "маусым"
+
+msgid "July"
+msgstr "шілде"
+
+msgid "August"
+msgstr "тамыз"
+
+msgid "September"
+msgstr "қыркүйек"
+
+msgid "October"
+msgstr "қазан"
+
+msgid "November"
+msgstr "қараша"
+
+msgid "December"
+msgstr "желтоқсан"
+
+msgid "Password Reminder"
+msgstr "Құпия сөз Reminder"
+
+msgid "Log In"
+msgstr "Кіру"
+
+msgid "Sign in"
+msgstr "Кіру"
+
+msgid "Register"
+msgstr "тіркеу"
+
+msgid "First name"
+msgstr "Аты"
+
+msgid "Last name"
+msgstr "Тек"
+
+msgid "I agree with rules"
+msgstr "Мен ережелермен келісу"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Растау пошта сіздің электрондық пошта адресіне жолданды."
+
+msgid "Thanks"
+msgstr "рахмет"
+
+msgid "Password must be at least 6 characters"
+msgstr "Пароль кем дегенде 6 таңба болуы тиіс"
+
+msgid "Creative Environment"
+msgstr "шығармашылық Қоршаған ортаны"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Сіз бұл қызметті пайдалану үшін жасы кем дегенде он үш жыл болуы тиіс"
+
+msgid "Order status"
+msgstr "Order мәртебесі"
+
+msgid "Processing order"
+msgstr "өңдеу тәртібі"
+
+msgid "Requires a payment"
+msgstr "Төлемді талап"
+
+msgid "Shipping"
+msgstr "Жеткізілім"
+
+msgid "Ready"
+msgstr "дайын"
+
+msgid "Thank you for your payment"
+msgstr "Сіздің төлеу үшін рахмет"
+
+msgid "Your payment has been cancelled"
+msgstr "Сіздің төлем болдырылмады"
+
+msgid "page"
+msgstr "бет"
+
+msgid "Rent period"
+msgstr "жалға кезеңі"
+
+msgid "Total, month"
+msgstr "Барлығы, ай"
+
+msgid "Order items"
+msgstr "Order элементтер"
+
+msgid "No records found"
+msgstr "Жазбалар табылған жоқ"
+
+msgid "User with this email is already exist"
+msgstr "Бұл электрондық пошта пайдаланушысы бар бар жатыр"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Осындай атаумен қалта немесе файл мақсатты қалтаға қазірдің өзінде бар, бұл"
+
+msgid "Minimal quantity"
+msgstr "Ең төменгі саны"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "Басып шығару көшірмелері"
+
+msgid "Terms of Use"
+msgstr "Қолдану ережелері"
+
+msgid "Privacy Policy"
+msgstr "Құпиялылық саясаты"
+
+msgid "Find project..."
+msgstr "Жоба табу ..."
+
+msgid "New Project"
+msgstr "Жаңа жоба"
+
+msgid "Accounts"
+msgstr "Есеп"
+
+msgid "Operations"
+msgstr "операциялар"
+
+msgid "All accounts"
+msgstr "Барлық тіркелгілер"
+
+msgid "All categories"
+msgstr "Барлық санаттар"
+
+msgid "Expense"
+msgstr "шығыстар"
+
+msgid "Income"
+msgstr "табыс"
+
+msgid "Transfer"
+msgstr "ауыстыру"
+
+msgid "Expense"
+msgstr "шығыстар"
+
+msgid "income"
+msgstr "табыс"
+
+msgid "tax"
+msgstr "салық"
+
+msgid "percent"
+msgstr "пайыз"
+
+msgid "transfer"
+msgstr "ауыстыру"
+
+msgid "Make operation"
+msgstr "операцияны Make"
+
+msgid "Select date"
+msgstr "күнді таңдаңыз"
+
+msgid "Select account"
+msgstr "тіркелгіні таңдаңыз"
+
+msgid "Month"
+msgstr "ай"
+
+msgid "Quarter"
+msgstr "тоқсан"
+
+msgid "Year"
+msgstr "жыл"
+
+msgid "From"
+msgstr "дан"
+
+msgid "To"
+msgstr "қарай"
+
+msgid "Expense amount"
+msgstr "Шығыстарды сомасы"
+
+msgid "Categories"
+msgstr "Санаттар"
+
+msgid "Comments"
+msgstr "Пікірлер"
+
+msgid "Income amount"
+msgstr "табыс сомасы"
+
+msgid "Transfer amount"
+msgstr "Аударым сомасы"
+
+msgid "From account"
+msgstr "шотынан"
+
+msgid "To account"
+msgstr "шотына"
+
+msgid "New Account"
+msgstr "Жаңа тіркелгі"
+
+msgid "New Category"
+msgstr "Жаңа Санат"
+
+msgid "All"
+msgstr "Барлық"
+
+msgid "Name"
+msgstr "ат"
+
+msgid "Enter category name"
+msgstr "Санаты атын енгізіңіз"
+
+msgid "Select type"
+msgstr "түрін таңдаңыз"
+
+msgid "Credit card"
+msgstr "Несие картасы"
+
+msgid "Debit card"
+msgstr "дебеттік карта"
+
+msgid "Bank account"
+msgstr "Банктік шот"
+
+msgid "Cash"
+msgstr "ақша"
+
+msgid "Balance is empty"
+msgstr "Баланс бос"
+
+msgid "Statistic is empty"
+msgstr "Статистикалық бос"
+
+msgid "Regular payments"
+msgstr "тұрақты төлемдер"
+
+msgid "Are you sure ?"
+msgstr "Сіз сенімдісіз бе ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Бұл жобаны жабу үшін келгені рас па ?"
+
+msgid "Project was deleted successfully"
+msgstr "Жоба сәтті жойылды"
+
+msgid "Select currency"
+msgstr "валютаға таңдаңыз"
+
+msgid "Account"
+msgstr "шот"
+
+msgid "Orders list"
+msgstr "Тапсырыстар тізімі"
+
+msgid "Order payments"
+msgstr "Order төлемдер"
+
+msgid "View order"
+msgstr "қарау тәртібі"
+
+msgid "No response from Printer API"
+msgstr "Printer API жауап жоқ"
+
+msgid "Bad response from Printer API"
+msgstr "Printer API жылғы Bad жауап"
+
+msgid "User ID"
+msgstr "Қолданушының ID"
+
+msgid "Contact Person"
+msgstr "Байланыс жасайтын тұлға"
+
+msgid "No orders to process"
+msgstr "Өңдеуге тапсырыстар жоқ"
+
+msgid "Article announce image"
+msgstr "Суретті бап жариялайды"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Жарамсыз видео URL . Бос қалдырыңыз немесе жарамды YouTube URL салыңыз"
+
+msgid "Please, enter Contractor data"
+msgstr "Мердігер деректерді енгізіңіз , сұраймыз"
+
+msgid "Distribute devices"
+msgstr "құрылғыларды тарату"
+
+msgid "Quantity"
+msgstr "сан"
+
+msgid "Devices left"
+msgstr "сол жақ құрылғылар"
+
+msgid "Distributed devices"
+msgstr "үлестірілген құрылғылар"
+
+msgid "You must enter quantity"
+msgstr "Сіз саны енгізу керек"
+
+msgid "All devices are distributed"
+msgstr "Барлық құрылғылар таратылады"
+
+msgid "IP address"
+msgstr "IP мекен-жайы"
+
+msgid "Only for printer"
+msgstr "Принтерге арналған Тек"
+
+msgid "Counter"
+msgstr "Counter"
+
+msgid "You was excluded from this room"
+msgstr "Сіз бұл бөлмеде алынып тасталды"
+
+msgid "Compare"
+msgstr "салыстыру"
+
+msgid "Scheduled transaction"
+msgstr "Жоспарланған мәміле"
+
+msgid "Select transfer account"
+msgstr "Аударым тіркелгіні таңдаңыз"
+
+msgid "Select income account"
+msgstr "Табыс тіркелгіні таңдаңыз"
+
+msgid "Reports"
+msgstr "Есептер"
+
+msgid "Goals"
+msgstr "мақсаттары"
+
+msgid "Budgets"
+msgstr "бюджеттер"
+
+msgid "Enter user name or email..."
+msgstr "Пайдаланушы атын немесе электрондық пошта мекенжайын енгізіңіз ..."
+
+msgid "Invite had been sended"
+msgstr "Шақыру алтын жіберу болды"
+
+msgid "Statistics"
+msgstr "статистика"
+
+msgid "Updated site began to work"
+msgstr "Жаңартылған сайт жұмысын бастады"
+
+msgid "City of residence"
+msgstr "Тұрғылықты Қала"
+
+msgid "Edit favourites list"
+msgstr "Өңдеу Таңдаулылар тізімі"
+
+msgid "Add favourites list"
+msgstr "Таңдаулылар тізімін қосу"
+
+msgid "Categories is required"
+msgstr "Санаттар талап етіледі"
+
+msgid "Type new category name and hit Enter"
+msgstr "Enter жаңа санаты атын теріп, соққы"
+
+msgid "You created an order"
+msgstr "Сіз тапсырысты құрылды"
+
+msgid "You received a device due to this order"
+msgstr "Сіз осы бұйрықтың байланысты құрылғыны алды"
+
+msgid "%s attached %s to task %s"
+msgstr "% S тапсырмалар % S қоса беріледі % S"
+
+msgid "member(s)"
+msgstr "мүшесі (лар)"
+
+msgid "%s commented task %s"
+msgstr "% S түсініктеме міндеті % S"
+
+msgid "%s closed task %s"
+msgstr "% S жабық міндеті % S"
+
+msgid "%s created task %s"
+msgstr "% S құрылды міндеті % S"
+
+msgid "%s created this project"
+msgstr "% S Бұл жобаны құрылды"
+
+msgid "%s created subproject \"%s\""
+msgstr "% S құрылды қосымша жобаны «% S»"
+
+msgid "%s closed project \"%s\""
+msgstr "% S жабық жобасы «% S»"
+
+msgid "%s closed subproject \"%s\""
+msgstr "% S жабық қосымша жобаны «% S»"
+
+msgid "This field must not be blank"
+msgstr "Бұл өріс бос емес болуы тиіс"
+
+msgid "Document with such name is already exist"
+msgstr "Осындай атаумен Құжат қазірдің өзінде бар , бұл"
+
+msgid "Wait until image upload"
+msgstr "Суретті кері қотару дейін күтіңіз"
+
+msgid "Video"
+msgstr "Бейне"
+
+msgid "Message can not be empty"
+msgstr "Хабар бос болуы мүмкін емес"
+
+msgid "Yes"
+msgstr "иә"
+
+msgid "No"
+msgstr "жоқ"
+
+msgid "Created"
+msgstr "құрылды"
+
+msgid "Compare is empty"
+msgstr "Салыстыру бос"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Сіз операцияны жойғыңыз келгені рас па"
+
+msgid "Do you really want to delete transaction"
+msgstr "Сіз шынымен операцияны өшіргіңіз келе ме"
+
+msgid "Project with same name already exists"
+msgstr "Сол атпен жобасы бар ғой"
+
+msgid "Account is not found"
+msgstr "Шот табылған жоқ"
+
+msgid "Currency is required"
+msgstr "Валюта талап етіледі"
+
+msgid "error while deleting document"
+msgstr "қате құжатты жою кезінде"
+
+msgid "Expences"
+msgstr "шығыстар"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Сіз бұл бөлмеде пайдаланушыға «% S» шақырды"
+
+msgid "User \"%s\" joined this room"
+msgstr "Пайдаланушы «% S» осы бөлме қосылды"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Сіз бұл бөлмеде пайдаланушы «% S» алынып тасталды"
+
+msgid "User \"%s\" left this room"
+msgstr "Пайдаланушы «% S» қалдырды осы бөлме"
+
+msgid "Add account"
+msgstr "Есептік жазба қосу"
+
+msgid "The requested page is not found"
+msgstr "Сұралған бет табылған жоқ"
+
+msgid "Document"
+msgstr "құжат"
+
+msgid "Table"
+msgstr "үстел"
+
+msgid "file(s)"
+msgstr "файл (дар)"
+
+msgid "Residue"
+msgstr "қалдық"
+
+msgid "Result is empty"
+msgstr "Нәтиже бос"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Жалпы сомасы % S% S MO арналған"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Сіз байланысты шотына % S айлық депозитке бар"
+
+msgid "Start"
+msgstr "бастау"
+
+msgid "finish"
+msgstr "қабат"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Таңдалған тіркелгі басқа мақсатқа пайдалану қазірдің өзінде"
+
+msgid "Amount required"
+msgstr "талап етілетін көлемі"
+
+msgid "New goal"
+msgstr "Жаңа мақсаты"
+
+msgid "Goal"
+msgstr "мақсат"
+
+msgid "Goal name"
+msgstr "Мақсаты атауы"
+
+msgid "Invalid date"
+msgstr "Жарамсыз күні"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Қажетті сома оң сан болуға тиіс"
+
+msgid "Remain"
+msgstr "қалу"
+
+msgid "Last day"
+msgstr "соңғы күні"
+
+msgid "Accumulated"
+msgstr "жинақталған"
+
+msgid "Put aside"
+msgstr "жағына салыңыз"
+
+msgid "January"
+msgstr "қаңтар"
+
+msgid "February"
+msgstr "ақпан"
+
+msgid "March"
+msgstr "наурыз"
+
+msgid "April"
+msgstr "сәуір"
+
+msgid "May"
+msgstr "мамыр"
+
+msgid "June"
+msgstr "маусым"
+
+msgid "July"
+msgstr "шілде"
+
+msgid "August"
+msgstr "тамыз"
+
+msgid "September"
+msgstr "қыркүйек"
+
+msgid "October"
+msgstr "қазан"
+
+msgid "November"
+msgstr "қараша"
+
+msgid "December"
+msgstr "желтоқсан"
+
+msgid "Expenses projected/actual"
+msgstr "Шығындар нақты / болжанып"
+
+msgid "Net Income projected/actual"
+msgstr "Таза табыс нақты / болжанып"
+
+msgid "New budget"
+msgstr "Жаңа бюджет"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Түсім мен шығындар Диаграмма"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Сол шот жұп және санатпен бюджеттік бар ғой"
+
+msgid "Budget is empty"
+msgstr "Бюджеттік бос"
+
+msgid "Budget"
+msgstr "бюджет"
+
+msgid "plan"
+msgstr "жоспар"
+
+msgid "fact"
+msgstr "факт"
+
+msgid "diff"
+msgstr "Diff"
+
+msgid "Show More"
+msgstr "Көбірек көрсет"
+
+msgid "Cancel"
+msgstr "күшін жою"
+
+msgid "d"
+msgstr "г"
+
+msgid "h"
+msgstr "сағ"
+
+msgid "min"
+msgstr "мин"
+
+msgid "My sales"
+msgstr "Менің сату"
+
+msgid "Time spent"
+msgstr "Уақыт жұмсалған"
+
+msgid "Total time spent"
+msgstr "Жалпы уақыты жұмсалған"
+
+msgid "Earnings per hour"
+msgstr "Сағатына шаққандағы пайда"
+
+msgid "Total earnings"
+msgstr "жалпы табыс"
+
+msgid "Call"
+msgstr "шақыру"
+
+msgid "Phone call"
+msgstr "Телефон қоңырауы"
+
+msgid "Telephone calls"
+msgstr "Телефон қоңыраулары"
+
+msgid "Send email"
+msgstr "Электрондық поштаны жіберу"
+
+msgid "Emails"
+msgstr "Хаттар"
+
+msgid "Meeting"
+msgstr "кездесу"
+
+msgid "Meetings"
+msgstr "Кездесулер"
+
+msgid "All events"
+msgstr "Барлық оқиғалар"
+
+msgid "Task"
+msgstr "тапсырма"
+
+msgid "Event"
+msgstr "оқиға"
+
+msgid "Events"
+msgstr "Іс-шаралар"
+
+msgid "Time"
+msgstr "уақыт"
+
+msgid "Events statistics"
+msgstr "Іс-шаралар статистика"
+
+msgid "days"
+msgstr "күн"
+
+msgid "hours"
+msgstr "сағат"
+
+msgid "minutes"
+msgstr "минут"
+
+msgid "Income & expense"
+msgstr "Табыс & шығыстар"
+
+msgid "Show chart"
+msgstr "көрсету диаграмма"
+
+msgid "Hide chart"
+msgstr "Жасыру диаграмма"
+
+msgid "Add event"
+msgstr "оқиға қосу"
+
+msgid "Add financial data"
+msgstr "Қаржылық деректерді қосу"
+
+msgid "Select contractor"
+msgstr "мердігерді таңдау"
+
+msgid "Net Income"
+msgstr "Таза кіріс"
+
+msgid "Revenue"
+msgstr "Түсім"
+
+msgid "Taxes"
+msgstr "салықтар"
+
+msgid "Amount planned"
+msgstr "сомасы жоспарланған"
+
+msgid "Amount"
+msgstr "сомасы"
+
+msgid "Period"
+msgstr "кезең"
+
+msgid "Are you sure to close this task?"
+msgstr "Бұл тапсырманы жабу үшін келгені рас па ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "Барлық топтар"
+
+msgid "added from task"
+msgstr "тапсырмасынан қосылған"
+
+msgid "Monthly repeat"
+msgstr "Айлық қайталау"
+
+msgid "Select category"
+msgstr "санатын таңдаңыз"
+
+msgid "Event type"
+msgstr "оқиға түрі"
+
+msgid "Margin"
+msgstr "маржа"
+
+msgid "Use finance project"
+msgstr "Қаржы жобаны пайдаланыңыз"
+
+msgid "New investment project"
+msgstr "Жаңа инвестициялық жоба"
+
+msgid "Investment project settings"
+msgstr "Инвестициялық жоба параметрлері"
+
+msgid "Picture, for the announcement project"
+msgstr "Хабарландыру жоба бойынша сурет ,"
+
+msgid "Announcement project"
+msgstr "хабарландыру жоба"
+
+msgid "Video"
+msgstr "Бейне"
+
+msgid "Photos or videos gallery"
+msgstr "Фотосуреттер мен бейнелер галереясы"
+
+msgid "required amount"
+msgstr "талап етілетін көлемі"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Жобаның ұзақтығы (60 күннен аспайтын )"
+
+msgid "Project duration"
+msgstr "Жобаның ұзақтығы"
+
+msgid "Add reward"
+msgstr "сауабын қосу"
+
+msgid "Delivery date"
+msgstr "Жеткізілім уақыты"
+
+msgid "Payment systems"
+msgstr "Төлем жүйелері"
+
+msgid "Terms of service"
+msgstr "Қызмет көрсету шарттары"
+
+msgid "Agreement"
+msgstr "келісім"
+
+msgid "Payment"
+msgstr "төлем"
+
+msgid "My projects"
+msgstr "Менің жобалар"
+
+msgid "Search result"
+msgstr "Іздеу нәтижесі"
+
+msgid "Nothing not found"
+msgstr "Ештеңе табылған жоқ"
+
+msgid "The project has no sponsors"
+msgstr "Жоба жоқ демеушілер бар"
+
+msgid "Design"
+msgstr "жобалау"
+
+msgid "Food"
+msgstr "тамақ"
+
+msgid "Journalism"
+msgstr "журналистика"
+
+msgid "Games"
+msgstr "Ойындар"
+
+msgid "Art"
+msgstr "өнер"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "музыка"
+
+msgid "Handicrafts"
+msgstr "қолөнер"
+
+msgid "Publishing"
+msgstr "баспа ісі"
+
+msgid "Theater"
+msgstr "театр"
+
+msgid "Technology"
+msgstr "технология"
+
+msgid "Film/Video"
+msgstr "Кино / Видео"
+
+msgid "Photo"
+msgstr "Фото"
+
+msgid "Dance"
+msgstr "би"
+
+msgid "Invalid youtube video"
+msgstr "Жарамсыз YouTube Video"
+
+msgid "is required"
+msgstr "талап етіледі"
+
+msgid "User"
+msgstr "пайдаланушы"
+
+msgid "Date"
+msgstr "дата"
+
+msgid "Collected"
+msgstr "жиналған"
+
+msgid "Choose period"
+msgstr "кезеңін таңдау"
+
+msgid "Choose region"
+msgstr "аймақты таңдау"
+
+msgid "Country"
+msgstr "ел"
+
+msgid "Today"
+msgstr "бүгін"
+
+msgid "Week"
+msgstr "апта"
+
+msgid "Month"
+msgstr "ай"
+
+msgid "Year"
+msgstr "жыл"
+
+msgid "Free registration"
+msgstr "Тегін тіркеу"
+
+msgid "Join"
+msgstr "қосылу"
+
+msgid "Log in using"
+msgstr "Пайдалана отырып, Кіру"
+
+msgid "Vacancies"
+msgstr "Жұмыспен қамту мүмкіндіктері"
+
+msgid "About Us"
+msgstr "Біз туралы"
+
+msgid "You will need email to log in"
+msgstr "Сіз жүйеге кіру үшін электрондық пошта керек болады"
+
+msgid "A combination of 6 digits and characters"
+msgstr "6 сандар мен таңбалар тіркесімі"
+
+msgid "Search users, groups, articles..."
+msgstr "Іздеу пайдаланушылар, топтар , мақалалар ..."
+
+msgid "Cloud"
+msgstr "бұлт"
+
+msgid "Sunday"
+msgstr "жексенбі"
+
+msgid "Monday"
+msgstr "дүйсенбі"
+
+msgid "Tuesday"
+msgstr "сейсенбі"
+
+msgid "Wednesday"
+msgstr "сәрсенбі"
+
+msgid "Thursday"
+msgstr "бейсенбі"
+
+msgid "Friday"
+msgstr "жұма"
+
+msgid "Saturday"
+msgstr "сенбі"
+
+msgid "Edit"
+msgstr "редакциялау"
+
+msgid "Create group"
+msgstr "тобын құру"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Егер сіз осы бетті кетуге қалайсыз ба ?"
+
+msgid "More"
+msgstr "Көбірек"
+
+msgid "Less"
+msgstr "Аздау"
+
+msgid "Pending"
+msgstr "күту"
+
+msgid "Approved"
+msgstr "бекітілген"
+
+msgid "Rejected"
+msgstr "Қабылданбаған"
+
+msgid "Subprojects"
+msgstr "Кіші"
+
+msgid "Group edit"
+msgstr "Group өңдеу"
+
+msgid "Startup"
+msgstr "Жіберу"
+
+msgid "Tattoo"
+msgstr "татуировка"
+
+msgid "Health"
+msgstr "денсаулық"
+
+msgid "Weapon"
+msgstr "қару"
+
+msgid "Astronomy"
+msgstr "астрономия"
+
+msgid "All articles"
+msgstr "Барлық мақалалар"
+
+msgid "Article editor"
+msgstr "бап редакторы"
+
+msgid "Document editor"
+msgstr "Құжат редакторы"
+
+msgid "Apply changes"
+msgstr "өзгертулерді қолдану"
+
+msgid "Save changes?"
+msgstr "Өзгертулерді сақтау ?"
+
+msgid "published an article"
+msgstr "мақала жарияланды"
+
+msgid "Users"
+msgstr "Пайдаланушылар"
+
+msgid "Shared With Me"
+msgstr "Me бірге Ортақ"
+
+msgid "share"
+msgstr "үлес"
+
+msgid "Select Group Responsible"
+msgstr "Жауапты Group таңдаңыз"
+
+msgid "Create folder"
+msgstr "Қалта жасау"
+
+msgid "Title must be at least 3 characters"
+msgstr "Атауы кем дегенде 3 таңба болуы тиіс"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Мәңгі Тегін 10 Гбайт , қаржы менеджері , модуль инвестиция , және тегін басқа көптеген"
+
+msgid "Best regards"
+msgstr "Ең жақсы тілектер"
+
+msgid "Updates in last 12 hours:"
+msgstr "Соңғы 12 сағат Жаңартулар :"
+
+msgid "expense"
+msgstr "шығыстар"
+
+msgid "Commentary on the event:"
+msgstr "Іс-шара туралы Түсініктеме:"
+
+msgid "Event place"
+msgstr "оқиға орын"
+
+msgid "Project was updated"
+msgstr "Жоба жаңартылды"
+
+msgid "Project was created"
+msgstr "Жоба құрылды"
+
+msgid "Project was closed"
+msgstr "Жоба жабылды"
+
+msgid "account"
+msgstr "шот"
+
+msgid "removed task"
+msgstr "жойылған міндет"
+
+msgid "removed subproject"
+msgstr "жойылған Қосымша жобалардың ықтимал"
+
+msgid "Title can not be empty"
+msgstr "Атауы бос болуы мүмкін емес"
+
+msgid "Do not select the type of event"
+msgstr "Іс-шараның түрін таңдаңыз емес,"
+
+msgid "Error while saving comment"
+msgstr "Қате түсініктеме сақтау кезінде"
+
+msgid "Save error: access denied"
+msgstr "Қатені сақтау: қол жоққа"
+
+msgid "Remains"
+msgstr "суйек"
+
+msgid "Time spent, h."
+msgstr "Уақыт , сағ өткізді."
+
+msgid "Emails"
+msgstr "Хаттар"
+
+msgid "Meetings"
+msgstr "Кездесулер"
+
+msgid "All users"
+msgstr "Барлық пайдаланушылар"
+
+msgid "Category"
+msgstr "санат"
+
+msgid "Finance project"
+msgstr "Қаржы жоба"
+
+msgid "Investment project"
+msgstr "Инвестициялық жоба"
+
+msgid "Nature"
+msgstr "табиғат"
+
+msgid "Data is empty"
+msgstr "Деректер бос"
+
+msgid "Visitors"
+msgstr "келушілер"
+
+msgid "My profile"
+msgstr "Менің профилім"
+
+msgid "Sponsors"
+msgstr "Демеушілер"
+
+msgid "Prior to completion"
+msgstr "Аяқталғанға дейін"
+
+msgid "Select"
+msgstr "таңдау"
+
+msgid "My groups"
+msgstr "Менің топтар"
+
+msgid "The invitation has been sent successfully"
+msgstr "Шақыру жіберілуі сәтті өтті"
+
+msgid "Username has already been invited to this project"
+msgstr "Пайдаланушы аты қазірдің өзінде осы жобаға шақырылды"
+
+msgid "The user is the creator of the project"
+msgstr "Пайдаланушы жобаның жасаушысы болып"
+
+msgid "Provide full access"
+msgstr "Толық қол жеткізуді қамтамасыз етеді"
+
+msgid "Select elements to provide access"
+msgstr "Қол жеткізуін қамтамасыз ету үшін элементтерді таңдаңыз"
+
+msgid "Select all"
+msgstr "барлығын таңдау"
+
+msgid "User E-mail"
+msgstr "Пайдаланушы Электрондық пошта"
+
+msgid "Click on the field to select a category"
+msgstr "Санатты таңдау үшін өрісіне басыңыз"
+
+msgid "Invitation was deleted"
+msgstr "Шақыру жойылған"
+
+msgid "Permission denied"
+msgstr "Рұқсат беруден бас тартылды"
+
+msgid "Printed"
+msgstr "баспа"
+
+msgid "Incorrect Contractor email"
+msgstr "Дұрыс Мердігер электрондық пошта"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Сіз қаржы менеджері жобасын қосу келе ме?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Тіркеу процесін аяқтау үшін сіздің дағдыларын төмен толтырыңыз"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Қосымша нұсқауларды бар пошта сіздің электрондық пошта адресіне жолданды"
+
+msgid "Submit"
+msgstr "Жіберу"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Science"
+msgstr "ғылым"
+
+msgid "Donation"
+msgstr "қайырмалдық"
+
+msgid "Interests"
+msgstr "мүдделері"
+
+msgid "Driver"
+msgstr "жүргізуші"
+
+msgid "Sportsman"
+msgstr "спортшы"
+
+msgid "Businessman"
+msgstr "бизнесмен"
+
+msgid "Accountant"
+msgstr "бухгалтер"
+
+msgid "Engineer"
+msgstr "инженер"
+
+msgid "Soldier"
+msgstr "солдат"
+
+msgid "Next"
+msgstr "Келесі"
+
+msgid "Hide group"
+msgstr "жасыру тобы"
+
+msgid "groups created"
+msgstr "құрылған топтар"
+
+msgid "articles written"
+msgstr "жазбаша мақалалар"
+
+msgid "These groups may be interesting for you"
+msgstr "Бұл топтар Сіз үшін қызықты болуы мүмкін"
+
+msgid "About Group"
+msgstr "Group туралы"
+
+msgid "view(s)"
+msgstr "көрінісі (лар)"
+
+msgid "Favorite users"
+msgstr "Сүйікті пайдаланушылар"
+
+msgid "No accounts"
+msgstr "Бірде- шоттар"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook рұқсат сәтсіз аяқталды."
+
+msgid "Authorization Required"
+msgstr "Авторландыру Міндетті"
+
+msgid "You have to make a call:"
+msgstr "Сіз қоңырау шалу керек :"
+
+msgid "You have to send an email:"
+msgstr "Сіз электрондық пошта жіберу керек :"
+
+msgid "You have a meetup:"
+msgstr "Сіз Meetup бар :"
+
+msgid "You event :"
+msgstr "You іс-шара :"
+
+msgid "Participants:"
+msgstr "Қатысушылар:"
+
+msgid "Search"
+msgstr "іздеу"
+
+msgid "News"
+msgstr "жаңалықтар"
+
+msgid "Investments"
+msgstr "инвестициялар"
+
+msgid "Back to Cloud"
+msgstr "Артқа бұлтқа"
+
+msgid "Documents"
+msgstr "құжаттар"
+
+msgid "Planet"
+msgstr "планета"
+
+msgid "Group url"
+msgstr "Group URL"
+
+msgid "Profile url"
+msgstr "Профиль URL"
+
+msgid "Already taken"
+msgstr "Алынған"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Кем дегенде 1 әріп және 3 рәміздер ұзындығы қажет"
+
+msgid "Digit can not be the first character"
+msgstr "Digit Бірінші таңба болуы мүмкін емес"
+
+msgid "Enter valid email address"
+msgstr "Жарамды е-пошта мекенжайын енгізіңіз"
+
+msgid "Enter your skills"
+msgstr "Сіздің дағдыларын енгізіңіз"
+
+msgid "Enter your first name"
+msgstr "Атыңызды енгізіңіз"
+
+msgid "Enter your last name"
+msgstr "Сіздің соңғы атын енгізіңіз"
+
+msgid "Enter your first name and last name"
+msgstr "Сіздің аты және соңғы атауын енгізіңіз"
+
+msgid "Your first name?"
+msgstr "Сіздің аты ?"
+
+msgid "Your last name?"
+msgstr "Сіздің тегі ?"
+
+msgid "What are your proficiencies?"
+msgstr "Сіздің әдістері қандай?"
+
+msgid "Select country"
+msgstr "елді таңдаңыз"
+
+msgid "Select user"
+msgstr "Select пайдаланушы"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Сіздің арманын орындауға ! Жасау және ынтымақтастық ."
+
+msgid "date moved from"
+msgstr "көшіп күні"
+
+msgid "work"
+msgstr "жұмыс"
+
+msgid "Conference"
+msgstr "конференция"
+
+msgid "personal"
+msgstr "жеке"
+
+msgid "Holiday"
+msgstr "мереке"
+
+msgid "Past"
+msgstr "Өткен"
+
+msgid "Future"
+msgstr "Келешек"
+
+msgid "Purchase"
+msgstr "Сатып алу"
+
+msgid "Personal events"
+msgstr "Жеке іс-шаралар"
+
+msgid "Conferences"
+msgstr "Кездесу"
+
+msgid "Holidays"
+msgstr "Мерекелер"
+
+msgid "Sport events"
+msgstr "Спорттық іс-шаралар"
+
+msgid "Tasks"
+msgstr "Тапсырмалар"
+
+msgid "Other events"
+msgstr "Басқа іс-шаралар"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Кейінге қалдырылған"
+
+msgid "Time management"
+msgstr "Time Management"
+
+msgid "Delayed events"
+msgstr "Кейінге қалдырылған оқиғалар"
+
+msgid "Delayed"
+msgstr "Кейінге қалдырылған"
+
+msgid "Bind to"
+msgstr "Тағайындау"
+
+msgid "answered your comment to"
+msgstr "Мен бапта (а) Пікір деді"
+
+msgid "commented your article"
+msgstr "Мен сіздің мақалаға түсініктеме"
+
+msgid "You\'ve answered on comment to"
+msgstr "Сіз бабына түсініктеме жауап"
+
+msgid "You\'ve commented an article"
+msgstr "Сіз бапта түсініктеме"
+
+msgid "Terms and Conditions"
+msgstr "Шарттар мен ережелер"
+
+msgid "Privacy Policy"
+msgstr "Құпиялылық саясаты"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "«Тіркелу» пернесін басу арқылы Сіз біздің және сіз біздің оқып, мойындайсыз келісесіз"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Әлемнің түкпір-түкпірінен шығармашылық адамдардың қауымдастыққа қосылыңыз! Сіз алады: Сіздің идеялар инвестициялау, өз командасын жинап мүмкіндік, топта жұмыс істейтін, қаржы менеджері, өз уақытын басқару, 2 сақтау гигабайт және одан да көп. Және бұл тегін!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Кешіріңіз, бірақ Сіз іздеген бет жоқ. Сіз бізге хабарласыңыз кінәлі деп ойласаңыз"
+
+msgid "Return"
+msgstr "Қайтару"
+
+msgid "COMMON"
+msgstr "БАРЛЫҒЫ"
+
+msgid "My events"
+msgstr "Менің Оқиғалар"
+
+msgid "Job opening"
+msgstr "Жаңа бос"
+
+msgid "Employment"
+msgstr "Жұмыспен қамту түрі"
+
+msgid "Working hours"
+msgstr "Жұмыс кестесі"
+
+msgid "City"
+msgstr "Қала"
+
+msgid "Wages"
+msgstr "Жалақы"
+
+msgid "Currency"
+msgstr "Валюта"
+
+msgid "Experience"
+msgstr "Тәжірибе"
+
+msgid "Full-time"
+msgstr "Толық жұмыспен қамту"
+
+msgid "Part-time"
+msgstr "Сырттай"
+
+msgid "Project employment"
+msgstr "Жоба / Уақытша"
+
+msgid "Volunteer"
+msgstr "Еріктілік"
+
+msgid "Internship"
+msgstr "Тағылымдама"
+
+msgid "Full day"
+msgstr "Толық Time"
+
+msgid "Shifts"
+msgstr "Ауыстыру кестесі"
+
+msgid "Flexible shifts"
+msgstr "Икемді кесте"
+
+msgid "Remote work"
+msgstr "Қашықтан жұмыс"
+
+msgid "Rotational basis"
+msgstr "Shift әдісі"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Сіз Пікір жойғыңыз келгені рас па?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Егер сіз осы тапсырманы жойғыңыз келгені рас па?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Егер сіз осы кіші жобаны жойғыңыз келгені рас па?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Сіз орында компанияға өтініш берді. Көз жеткізіңіз"
+
+msgid "Your request to for job has been rejected"
+msgstr "Жағдайына компанияның Сіздің сұрау қабылданбады"
+
+msgid "Your request to for job has been accepted"
+msgstr "Жағдайына компанияның Сіздің сұрау қабылданды"
+
+msgid "profile is completed"
+msgstr "Сіздің профиль толық"
+
+msgid "Use account"
+msgstr "Тіркелгісін пайдалану"
+
+msgid "$/hr"
+msgstr "$ / Час"
+
+msgid "Finance category"
+msgstr "Қаржы санаты"
+
+msgid "No projects"
+msgstr "Бірде-жобалар"
+
+msgid "Bind to finances"
+msgstr "Қаржылық жобаны тағайындау"
+
+msgid "Preview"
+msgstr "Көрініс"
+
+msgid "Download"
+msgstr "Жүктеу"
+
+msgid "Save to my cloud"
+msgstr "Репозиторийді көшіру"
+
+msgid "File successfully saved to your cloud"
+msgstr "Табысты сіздің қоймасы сақталған Файл"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Сіздің репозиторийге бұл файлды сақтаңыз?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Санаты-бап таңдаңыз"
+
+msgid "Type something"
+msgstr "Нәрсе жазу"
+
+msgid "Founded users"
+msgstr "Табылған пайдаланушылар"
+
+msgid "Founded articles"
+msgstr "Табылған мақала"
+
+msgid "Founded groups"
+msgstr "Құрылған топ"
+
+msgid "What are your skills?"
+msgstr "Сіздің дағдылар қандай?"
+
+msgid "Select at least 2 interests"
+msgstr "Кем дегенде 2 қызығушылық таңдаңыз"
+
+msgid "Need more interests"
+msgstr "Емес жеткілікті пайыздық таңдалған"
+
+msgid "What are you interesting in?"
+msgstr "Сіз мүдделі қандай?"
+
+msgid "You have no dialogs"
+msgstr "Сіз диалогтарды жоқ,"
+
+msgid "Usage Stats"
+msgstr "Мемлекеттік"
+
+msgid "Founded files"
+msgstr "Табылған Файлдар"
+
+msgid "Big tiles"
+msgstr "Ірі тақтайша"
+
+msgid "Small tiles"
+msgstr "Шағынблоктардытөсеу"
+
+msgid "Table view"
+msgstr "Кесте көрінісі"
+
+msgid "Root folder"
+msgstr "түбір каталогы"
+
+msgid "My files"
+msgstr "Менің Файлдар"
+
+msgid "Save as draft"
+msgstr "Жоба ретінде сақтау"
+
+msgid "Buy More Space"
+msgstr "Көбірек орын сатып"
+
+msgid "Buy"
+msgstr "Сатып"
+
+msgid "You have been invited to group as"
+msgstr "Сіз сондай-ақ топ шақырылды"
+
+msgid "User wants to join your group"
+msgstr "пайдаланушы тобына кіруге ниет"
+
+msgid "Section is coming soon!"
+msgstr "Салынып жатқан Бөлім!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Соңғы 24 сағат саны:"
+
+msgid "Task was updated"
+msgstr "міндет жаңартылды"
+
+msgid "Task was closed"
+msgstr "міндет жабылды"
+
+msgid "Task was created"
+msgstr "міндет қойылды"
+
+msgid "Current balance"
+msgstr "Ағымдағы баланс"
+
+msgid "Add funds"
+msgstr "Қосу"
+
+msgid "Pay"
+msgstr "РЕСІМДЕУ"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Сіз кіру әрекеттеріне санынан асып кеткенсіз. Сіз 15 минут блокталады"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Электрондық поштаға растаңыз. пошта арқылы сізге жіберілген хат."
+
+msgid "Resend confirmation email"
+msgstr "Қайтадан растау жіберу"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Айына Disc 2 GB"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Жылына 10 ГБ Drive"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 ГБ жыл сайын"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Диск 1ТБ айлық"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Жыл сайын 1 ТБ Drive"
+
+msgid "Project members monthly"
+msgstr "Ай сайын жобасына қатысушылар"
+
+msgid "Project members yearly"
+msgstr "Жыл сайын Жобаға қатысушылар"
+
+msgid "Member(s) yearly"
+msgstr "Жылына мүшесі (лар)"
+
+msgid "Member(s) monthly"
+msgstr "Ай сайын мүшесі (лар)"
+
+msgid "Authorized"
+msgstr "Уәкілетті"
+
+msgid "Authorization expired"
+msgstr "Авторландыру мерзімі өтіп кеткен"
+
+msgid "Processor declined"
+msgstr "Қабылданбаған өңдеу жүйесі"
+
+msgid "Gateway rejected"
+msgstr "Қабылданбаған төлем шлюзі"
+
+msgid "Failed"
+msgstr "Қателік"
+
+msgid "Voided"
+msgstr "Күшін жою"
+
+msgid "Submitted for settlement"
+msgstr "Түсуді Жіберілген"
+
+msgid "Settlement declined"
+msgstr "Қабылдау қабылданбады"
+
+msgid "Settlement pending"
+msgstr "Күтудегі қабылдау"
+
+msgid "Verified"
+msgstr "Тексерді"
+
+msgid "Pending"
+msgstr "Күту"
+
+msgid "Active"
+msgstr "Белсенді"
+
+msgid "Past Due"
+msgstr "Мерзімі өтіп кеткен"
+
+msgid "Expired"
+msgstr "Ұшты"
+
+msgid "Marketer"
+msgstr "Маркетолог"
+
+msgid "India"
+msgstr "Үндістан"
+
+msgid "Malaysia"
+msgstr "Малайзия"
+
+msgid "Thailand"
+msgstr "Таиланд"
+
+msgid "South Korea"
+msgstr "Оңтүстік Корея"
+
+msgid "Kazakhstan"
+msgstr "Қазақстан"
+
+msgid "Israel"
+msgstr "Израиль"
+
+msgid "Ukraine"
+msgstr "Украина"
+
+msgid "Belarus"
+msgstr "Беларусь"
+
+msgid "Bulgaria"
+msgstr "Болгария"
+
+msgid "Turkey"
+msgstr "Күрке тауық"
+
+msgid "Armenia"
+msgstr "Армения"
+
+msgid "Serbia"
+msgstr "Сербия"
+
+msgid "Austria"
+msgstr "Австрия"
+
+msgid "Poland"
+msgstr "Польша"
+
+msgid "Germany"
+msgstr "Германия"
+
+msgid "Italy"
+msgstr "Италия"
+
+msgid "Netherlands"
+msgstr "Нидерланды"
+
+msgid "Ireland"
+msgstr "Ирландия"
+
+msgid "United Kingdom"
+msgstr "Ұлыбритания"
+
+msgid "Portugal"
+msgstr "Португалия"
+
+msgid "Norway"
+msgstr "Норвегия"
+
+msgid "United States"
+msgstr "Америка Құрама Штаттары"
+
+msgid "Canada"
+msgstr "Канада"
+
+msgid "Brazil"
+msgstr "Бразилия"
+
+msgid "Saudi Arabia"
+msgstr "Сауд Арабиясы"
+
+msgid "Canada"
+msgstr "Египет"
+
+msgid "Russia"
+msgstr "Ресей"
+
+msgid "Hong Kong"
+msgstr "Гонконг"
+
+msgid "There was no any transactions yet."
+msgstr "Қазіргі уақытта, бір транзакция болған жоқ"
+
+msgid "Fulfill your dream"
+msgstr "СІЗДІҢ арманын орындауға"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Барлық жер шарының түкпір-түкпірінен шығармашылық жеке тұлғалардың біздің қауымдастыққа қосылу."
+
+msgid "Create and Collaborate"
+msgstr "Жасау және бірлесіп жұмыс"
+
+msgid "Fulfill your dream"
+msgstr "ҚАЗІР арманын орындауға"
+
+msgid "or"
+msgstr "немесе"
+
+msgid "Our mission:"
+msgstr "Біздің миссия:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Керемет және фантастикалық қарапайым және сұранысқа идеяларды іске асыру үшін шығармашылық және белсенді адамдарды біріктіру үшін, бұл біздің болашағымыз болады."
+
+msgid "What is Konstruktor?"
+msgstr "Konstruktor не?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - айтарлықтай жеңілдетеді және жеңілдетеді, біздің нақты өмірде, бір бөлігі болып табылады"
+
+msgid "*business processes"
+msgstr "* Бизнес-процестер"
+
+msgid "*materialization of creative ideas"
+msgstr "Шығармашылық идеялар * асырылуы"
+
+msgid "*constructive cooperation"
+msgstr "* Сындарлы ынтымақтастық"
+
+msgid "Make your dream!"
+msgstr "Сіздің арманын жасаңыз!"
+
+msgid "Vlad Krishtop"
+msgstr "Влад Krishtop"
+
+msgid "CEO"
+msgstr "бас атқарушы директор"
+
+msgid "Yuriy Chekalenko"
+msgstr "Юрий Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Арнайы кеңесшісі"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Ярослав Ерошенко"
+
+msgid "Manager, Software Development"
+msgstr "Менеджер, Software Development"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Светлана Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Аға заңгер"
+
+msgid "Yuriy Himka"
+msgstr "Юрий Himka"
+
+msgid "Designer"
+msgstr "Дизайнер"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "«Келесі» батырмасын басу арқылы, Сіз қабылдау және біздің мерзімі мен шарттары бар келісу, және сіз біздің Құпиялылық саясаты оқылған деп мойындайды."
+
+msgid "Incorrect login or password."
+msgstr "Қате логин немесе пароль."
+
+msgid "Password must be at least 6 characters"
+msgstr "Пароль кем дегенде 6 таңба болуы тиіс"
+
+msgid "January"
+msgstr "Қаңтар"
+
+msgid "February"
+msgstr "Ақпан"
+
+msgid "March"
+msgstr "Наурыз"
+
+msgid "April"
+msgstr "Сәуір"
+
+msgid "May"
+msgstr "Мамыр"
+
+msgid "June"
+msgstr "Маусым"
+
+msgid "July"
+msgstr "Шілде"
+
+msgid "August"
+msgstr "Тамыз"
+
+msgid "September"
+msgstr "Қыркүйек"
+
+msgid "October"
+msgstr "Қазан"
+
+msgid "November"
+msgstr "Қараша"
+
+msgid "December"
+msgstr "Желтоқсан"
+
+msgid "Chat"
+msgstr "Сұхбат"
+
+msgid "Files"
+msgstr "Файлдар"
+
+msgid "Statistic"
+msgstr "Статистикалық"
+
+msgid "Support"
+msgstr "Қолдау"
+
+msgid "Exit"
+msgstr "Шығу"
+
+msgid "Brest"
+msgstr "Брест"
+
+msgid "Belarus"
+msgstr "Беларусь"
+
+msgid "Marketing specialist"
+msgstr "Маркетинг маманы"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Shared with me"
+msgstr "Менімен Ортақ"
+
+msgid "File Sharing"
+msgstr "Файлдармен алмасу"
+
+msgid "Provide access by link"
+msgstr "Сілтеме арқылы қол жеткізуін қамтамасыз ету"
+
+msgid "Provide Individual access"
+msgstr "Жеке қол жеткізуді қамтамасыз етеді"
+
+msgid "Provide edit access"
+msgstr "Өңдеу қол жеткізуді қамтамасыз етеді"
+
+msgid "Share"
+msgstr "Үлес"
+
+msgid "Files will be available only for selected users"
+msgstr "Файлдар тек таңдалған пайдаланушылар үшін қол жетімді болады"
+
+msgid "With this link everyone can access to the files"
+msgstr "Бұл әркім файлдарды кіруге болады сілтемелері бар"
+
+msgid "Search users, groups, articles..."
+msgstr "Іздеу пайдаланушылар, топтар, мақалалар ..."
+
+msgid "My Group"
+msgstr "Менің тобы"
+
+msgid "Mo"
+msgstr "Мо"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Біз"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Су"
+
+msgid "The file is not selected"
+msgstr "Файл таңдалған жоқ"
+
+msgid "Set aside"
+msgstr "Шетке қойыңыз"
+
+msgid "Event time"
+msgstr "Оқиға уақыты"
+
+msgid "Work"
+msgstr "Жұмыс"
+
+msgid "Personal"
+msgstr "Жеке"
+
+msgid "Time spent for work:"
+msgstr "Жұмыс уақыты жұмсалған:"
+
+msgid "Personal time spent:"
+msgstr "Жұмсалған Жеке уақыты:"
+
+msgid "Present"
+msgstr "Қазіргі"
+
+msgid "Common"
+msgstr "Ортақ"
+
+msgid "Sport"
+msgstr "Спорт"
+
+msgid "Entertainment"
+msgstr "Көңіл көтеру"
+
+msgid "Select:"
+msgstr "Таңдаңыз:"
+
+msgid "Invalid username or password."
+msgstr "Қате логин немесе пароль."
+
+msgid "Try again."
+msgstr "Қайтадан көріңіз."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "Сізді қызықтыратын ҚАНДАЙ?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Қалдықтары 2: кем дегенде 2 дағдыларын таңдаңыз"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Қалдықтары: 1 кем дегенде 2 дағдыларын таңдаңыз"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Қалдықтары: кем дегенде 2 дағдыларын таңдаңыз"
+
+msgid "Active life"
+msgstr "Белсенді өмір"
+
+msgid "Arts and culture"
+msgstr "Өнер мен мәдениет"
+
+msgid "Business"
+msgstr "Бизнес"
+
+msgid "Cinema"
+msgstr "Кино"
+
+msgid "Communications"
+msgstr "Communications"
+
+msgid "Construction and repair"
+msgstr "Құрылыс және жөндеу"
+
+msgid "Cooking"
+msgstr "Пісіру"
+
+msgid "Education"
+msgstr "Білім"
+
+msgid "Electronics"
+msgstr "Электроника"
+
+msgid "Finances"
+msgstr "Қаржы"
+
+msgid "Graphics and design"
+msgstr "Графика және дизайн"
+
+msgid "Health"
+msgstr "Денсаулық"
+
+msgid "Home and family"
+msgstr "Басты және отбасы"
+
+msgid "Humor"
+msgstr "Әзіл"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Өнеркәсіп"
+
+msgid "Insurance"
+msgstr "Сақтандыру"
+
+msgid "Literature"
+msgstr "Әдебиет"
+
+msgid "Mobile communications and internet"
+msgstr "Мобильді байланыс және интернет"
+
+msgid "News and Media"
+msgstr "Жаңалықтар мен БАҚ"
+
+msgid "Pets"
+msgstr "Үй жануарлары"
+
+msgid "Products and service"
+msgstr "Өнімдер және қызмет көрсету"
+
+msgid "Real Estate"
+msgstr "Жылжымайтын мүлік"
+
+msgid "Religion"
+msgstr "Дін"
+
+msgid "Science and techs"
+msgstr "Ғылым және технологиялар"
+
+msgid "Security"
+msgstr "Қауіпсіздік"
+
+msgid "Society"
+msgstr "Қоғам"
+
+msgid "Television"
+msgstr "Теледидар"
+
+msgid "Travel"
+msgstr "Саяхат"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Аргентина"
+
+msgid "Australia"
+msgstr "Австралия"
+
+msgid "Austria"
+msgstr "Австрия"
+
+msgid "Belarus"
+msgstr "Беларусь"
+
+msgid "Belgium"
+msgstr "Бельгия"
+
+msgid "Brazil"
+msgstr "Бразилия"
+
+msgid "Bulgaria"
+msgstr "Болгария"
+
+msgid "Canada"
+msgstr "Канада"
+
+msgid "Chile"
+msgstr "Чили"
+
+msgid "Denmark"
+msgstr "Дания"
+
+msgid "France"
+msgstr "Франция"
+
+msgid "Germany"
+msgstr "Германия"
+
+msgid "Greece"
+msgstr "Грекия"
+
+msgid "Hungary"
+msgstr "Мажарстан"
+
+msgid "Iceland"
+msgstr "Исландия"
+
+msgid "Ireland"
+msgstr "Ирландия"
+
+msgid "Israel"
+msgstr "Израиль"
+
+msgid "Italy"
+msgstr "Италия"
+
+msgid "Japan"
+msgstr "Жапония"
+
+msgid "Mexico"
+msgstr "Мексика"
+
+msgid "Netherlands"
+msgstr "Нидерланды"
+
+msgid "New Zealand"
+msgstr "Жаңа зеландия"
+
+msgid "Norway"
+msgstr "Норвегия"
+
+msgid "Poland"
+msgstr "Польша"
+
+msgid "Portugal"
+msgstr "Португалия"
+
+msgid "Russia"
+msgstr "Ресей"
+
+msgid "Slovakia"
+msgstr "Словакия"
+
+msgid "South Africa"
+msgstr "Оңтүстік Африка"
+
+msgid "South Korea"
+msgstr "Оңтүстік Корея"
+
+msgid "Spain"
+msgstr "Испания"
+
+msgid "Sweden"
+msgstr "Швеция"
+
+msgid "Switzerland"
+msgstr "Швейцария"
+
+msgid "Turkey"
+msgstr "Түйетауық"
+
+msgid "Ukraine"
+msgstr "Украина"
+
+msgid "United Arab Emirates"
+msgstr "Біріккен Араб Әмірліктері"
+
+msgid "United Kingdom"
+msgstr "Біріккен корольдігі"
+
+msgid "United States"
+msgstr "АҚШ"
+
+msgid "achievements"
+msgstr "жетістіктер"
+
+msgid "Investment management"
+msgstr "Инвестициялық басқару"
+
+msgid "Select..."
+msgstr "Таңдаңыз ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "ИНВЕСТИЦИЯЛЫҚ БАСҚАРУ"
+
+msgid "Investors list"
+msgstr "Инвесторлар тізімі"
+
+msgid "My investments"
+msgstr "Менің инвестициялар"
+
+msgid "Create date"
+msgstr "Жасалған күні"
+
+msgid "Author of the project"
+msgstr "Жобаның авторы"
+
+msgid "Date and time"
+msgstr "Күні мен уақыты"
+
+msgid "Status"
+msgstr "Мәртебе"
+
+msgid "NEXT"
+msgstr "КЕЛЕСІ"
+
+msgid "Next"
+msgstr "Келесі"
+
+msgid "Apply"
+msgstr "Қолдану"
+
+msgid "Kazakhstan"
+msgstr "Қазақстан"
+
+msgid "Almaty"
+msgstr "Алматы"
+
+msgid "Hong Kong"
+msgstr "Гонконг"
+
+msgid "Science"
+msgstr "Ғылым"
+
+msgid "Architecture"
+msgstr "Сәулет"
+
+msgid "Photography"
+msgstr "Photography"
+
+msgid "Designer"
+msgstr "Дизайнер"
+
+msgid "IT specialist"
+msgstr "IT маманы"
+
+msgid "Agronomist"
+msgstr "Агроном"
+
+msgid "Architect"
+msgstr "Сәулетші"
+
+msgid "Lawyer"
+msgstr "Заңгер"
+
+msgid "Writer"
+msgstr "Жазушы"
+
+msgid "Doctor"
+msgstr "Дәрігер"
+
+msgid "Scientist"
+msgstr "Ғалым"
+
+msgid "Marketer"
+msgstr "Маркетолог"
+
+msgid "Teacher"
+msgstr "Мұғалім"
+
+msgid "Cook"
+msgstr "Аспаз"
+
+msgid "Artist"
+msgstr "Суретші"
+
+msgid "Photographer"
+msgstr "Фотограф"
+
+msgid "Ecologist"
+msgstr "Эколог"
+
+msgid "Economist"
+msgstr "Экономист"
+
+msgid "Logistician"
+msgstr "Логист"
+
+msgid "Journalist"
+msgstr "Журналист"
+
+msgid "Builder"
+msgstr "Құрылысшы"
+
+msgid "These users may be interesting for you"
+msgstr "Бұл пайдаланушылар сіз үшін қызықты болуы мүмкін"
+
+msgid "These articles may be interesting for you"
+msgstr "Бұл мақалалар Сіз үшін қызықты болуы мүмкін"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Сіз Аdministrator осы топқа қосылды"
+
+msgid "articles written."
+msgstr "жазбаша мақалалар."
+
+msgid "groups created."
+msgstr "топтар құрылды."
+
+msgid "Creation"
+msgstr "Жаратылыс"
+
+msgid "Build a dream"
+msgstr "арман Build"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Қызықтырақ мақалалар Read - тегін тіркеуден өту"
+

@@ -1,0 +1,137 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: finance-public
+spec:
+  revisionHistoryLimit: 3
+  strategy:
+    type: RollingUpdate
+  replicas: {{ pluck .Values.global.env .Values.app.replicas.finance | first | default .Values.app.replicas.finance._default }}
+  template:
+    metadata:
+      labels:
+        app: finance-public
+    spec:
+      imagePullSecrets:
+      - name: registrysecret
+      volumes:
+        - name: finance-config
+          configMap:
+            name: finance-configmap
+      containers:
+# nginx
+      - name: nginx
+        command: ["/usr/sbin/nginx", "-g", "daemon off;"]
+{{ tuple "php" . | include "dapp_container_image" | indent 8 }}
+        lifecycle:
+          preStop:
+            exec:
+              command: ["/usr/sbin/nginx","-s","quit"]
+        resources:
+          requests:
+            cpu: {{ pluck .Values.global.env .Values.resources.nginx.requests.cpu | first | default .Values.resources.nginx.requests.cpu._default }}
+            memory: {{ pluck .Values.global.env .Values.resources.nginx.requests.memory | first | default .Values.resources.nginx.requests.memory._default }}
+          limits:
+            cpu: {{ pluck .Values.global.env .Values.resources.nginx.limits.cpu | first | default .Values.resources.nginx.limits.cpu._default }}
+            memory: {{ pluck .Values.global.env .Values.resources.nginx.limits.memory | first | default .Values.resources.nginx.limits.memory._default }}
+        ports:
+        - containerPort: 80
+          name: web
+          protocol: TCP
+        volumeMounts:
+        - name: finance-config
+          mountPath: /etc/nginx/nginx.conf
+          subPath: nginx-finance-public.conf
+        - name: finance-config
+          mountPath: /etc/nginx/fastcgi_params
+          subPath: fastcgi_params
+        env:
+{{ tuple "php" . | include "dapp_container_env" | indent 8 }}
+        livenessProbe:
+          failureThreshold: 3
+          httpGet:
+            path: /_tech/ngx-status
+            port: 80
+            scheme: HTTP
+          initialDelaySeconds: 10
+          periodSeconds: 10
+          successThreshold: 1
+          timeoutSeconds: 1
+        readinessProbe:
+          failureThreshold: 3
+          httpGet:
+            path: /_tech/ngx-status
+            port: 80
+            scheme: HTTP
+          initialDelaySeconds: 10
+          periodSeconds: 10
+          successThreshold: 1
+          timeoutSeconds: 1
+#php
+      - name: php
+{{ tuple "php" . | include "dapp_container_image" | indent 8 }}
+        command: ["/usr/sbin/php-fpm7.2", "-F", "--nodaemonize"]
+        workingDir: /var/www
+        args: ["-F"]
+        lifecycle:
+          preStop:
+            exec:
+              command: ["/bin/kill","-SIGQUIT","1"]
+        livenessProbe:
+          failureThreshold: 3
+          httpGet:
+            path: /test
+            port: 80
+            scheme: HTTP
+          initialDelaySeconds: 10
+          periodSeconds: 10
+          successThreshold: 1
+          timeoutSeconds: 1
+        readinessProbe:
+          failureThreshold: 3
+          httpGet:
+            path: /test
+            port: 80
+            scheme: HTTP
+          initialDelaySeconds: 10
+          periodSeconds: 10
+          successThreshold: 1
+          timeoutSeconds: 1
+        volumeMounts:
+        - name: finance-config
+          mountPath: /etc/php/7.2/fpm/pool.d/www.conf
+          subPath: www.conf
+        - name: finance-config
+          mountPath: /var/www/config/jwt/private.pem
+          subPath: private.pem
+        - name: finance-config
+          mountPath: /var/www/config/jwt/public.pem
+          subPath: public.pem
+
+        resources:
+          requests:
+            cpu: {{ pluck .Values.global.env .Values.resources.backend.requests.cpu | first | default .Values.resources.backend.requests.cpu._default }}
+            memory: {{ pluck .Values.global.env .Values.resources.backend.requests.memory | first | default .Values.resources.backend.requests.memory._default }}
+          limits:
+            cpu: {{ pluck .Values.global.env .Values.resources.backend.limits.cpu | first | default .Values.resources.backend.limits.cpu._default }}
+            memory: {{ pluck .Values.global.env .Values.resources.backend.limits.memory | first | default .Values.resources.backend.limits.memory._default }}
+        ports:
+        - containerPort: 9000
+          name: fcgi
+          protocol: TCP
+        env:
+{{ tuple "php" . | include "dapp_container_env" | indent 8 }}
+{{- include "app_envs" . | indent 8 }}
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: finance-public
+spec:
+  clusterIP: None
+  selector:
+    app: finance-public
+  ports:
+  - name: http
+    port: 80
+---

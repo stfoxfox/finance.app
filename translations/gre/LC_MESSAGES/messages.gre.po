@@ -1,0 +1,3344 @@
+# ελληνικά (Греческий) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: ελληνικά (Греческий) <support@konstruktor.com>\n"
+"Language: ελληνικά (Греческий)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "όνομα χρήστη"
+
+msgid "Invalid username or password, try again"
+msgstr "Λάθος όνομα χρήστη ή τον κωδικό πρόσβασης . Προσπάθησε ξανά."
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Home"
+msgstr "σπίτι"
+
+msgid "You must log in to access this page"
+msgstr "Θα πρέπει να συνδεθείτε για να αποκτήσετε πρόσβαση σε αυτήν τη σελίδα"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Η συνεδρία σας έχει λήξει . Παρακαλούμε , ξανασυνδεθείτε να εκτελέσετε αυτή την ενέργεια"
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "Head Office"
+msgstr "Κεντρικά Γραφεία"
+
+msgid "Address"
+msgstr "διεύθυνση"
+
+msgid "Back"
+msgstr "πίσω"
+
+msgid "Apply"
+msgstr "Εφαρμογή"
+
+msgid "Upload files…"
+msgstr "Ανεβάστε τα αρχεία ..."
+
+msgid "Set as main"
+msgstr "Ορισμός ως κύριο"
+
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgid "Original image"
+msgstr "Αρχική εικόνα"
+
+msgid "Uploaded"
+msgstr "Uploaded"
+
+msgid "File name"
+msgstr "όνομα αρχείου"
+
+msgid "File size"
+msgstr "μέγεθος αρχείου"
+
+msgid "Resolution"
+msgstr "ψήφισμα"
+
+msgid "Enlarge"
+msgstr "Μεγέθυνση"
+
+msgid "Links"
+msgstr "Σύνδεσμοι"
+
+msgid "Original size"
+msgstr "Αρχικό μέγεθος"
+
+msgid "For editor"
+msgstr "για συντάκτης"
+
+msgid "Resize"
+msgstr "Αλλαγή μεγέθους"
+
+msgid "Width"
+msgstr "πλάτος"
+
+msgid "Height"
+msgstr "ύψος"
+
+msgid "Media URL"
+msgstr "URL Media"
+
+msgid "Add record"
+msgstr "Προσθήκη ρεκόρ"
+
+msgid "Show filter settings"
+msgstr "Ρυθμίσεις Εμφάνιση φίλτρου"
+
+msgid "Edit record"
+msgstr "Επεξεργασία ρεκόρ"
+
+msgid "Delete record"
+msgstr "Διαγραφή ρεκόρ"
+
+msgid "Delete checked records"
+msgstr "Διαγραφή επιλεγμένων εγγραφών"
+
+msgid "Dashboard"
+msgstr "ταμπλό"
+
+msgid "Password"
+msgstr "Κωδικός"
+
+msgid "Remember me"
+msgstr "να με θυμάσαι"
+
+msgid "Login"
+msgstr "σύνδεση"
+
+msgid "Clean image cache"
+msgstr "Καθαρίστε την προσωρινή μνήμη της εικόνας"
+
+msgid "Processing query..."
+msgstr "Επεξεργασία ερώτημα ..."
+
+msgid "CMS Development"
+msgstr "Ανάπτυξη CMS"
+
+msgid "Admin Home Page"
+msgstr "Διαχειριστής Αρχική Σελίδα"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Ανοίξτε Αρχική σελίδα των front-end σε μια νέα καρτέλα"
+
+msgid "Go to Site"
+msgstr "Πηγαίνετε στο Site"
+
+msgid "Log out"
+msgstr "αποσύνδεση"
+
+msgid "Send"
+msgstr "Αποστολή"
+
+msgid "General"
+msgstr "γενικός"
+
+msgid "Title"
+msgstr "τίτλος"
+
+msgid "Teaser"
+msgstr "σπαζοκεφαλιά"
+
+msgid "Published"
+msgstr "Δημοσιεύθηκε"
+
+msgid "Featured"
+msgstr "Προτεινόμενα"
+
+msgid "Active"
+msgstr "ενεργός"
+
+msgid "Field is mandatory"
+msgstr "Το πεδίο είναι υποχρεωτικό"
+
+msgid "Sort Order"
+msgstr "Ταξινόμησης"
+
+msgid "Upload"
+msgstr "Ανεβάστε"
+
+msgid "Loading..."
+msgstr "Φόρτωση ..."
+
+msgid "Jan"
+msgstr "Ιαν"
+
+msgid "Feb"
+msgstr "Φεβρουάριος"
+
+msgid "Mar"
+msgstr "Μάρτιος"
+
+msgid "Apr"
+msgstr "Απρίλιος"
+
+msgid "May"
+msgstr "Μάιος"
+
+msgid "Jun"
+msgstr "Ιούνιος"
+
+msgid "Jul"
+msgstr "Ιούλιος"
+
+msgid "Aug"
+msgstr "Αύγουστος"
+
+msgid "Sep"
+msgstr "Σεπτέμβριος"
+
+msgid "Oct"
+msgstr "Οκτώβριος"
+
+msgid "Nov"
+msgstr "Νοέμβριος"
+
+msgid "Dec"
+msgstr "Δεκέμβριος"
+
+msgid "Product already exists in the order"
+msgstr "Προϊόν υπάρχει ήδη στην τάξη"
+
+msgid "Product does not exist"
+msgstr "Το προϊόν δεν υπάρχει"
+
+msgid "Incorrect request"
+msgstr "Εσφαλμένη αίτηση"
+
+msgid "Products"
+msgstr "προϊόντα"
+
+msgid "Product types"
+msgstr "Οι τύποι του προϊόντος"
+
+msgid "Contractors"
+msgstr "Ανάδοχοι"
+
+msgid "Contractor"
+msgstr "εργολάβος"
+
+msgid "Orders"
+msgstr "παραγγελίες"
+
+msgid "FAQ"
+msgstr "Συχνές Ερωτήσεις"
+
+msgid "New order"
+msgstr "νέα παραγγελία"
+
+msgid "My orders"
+msgstr "Οι παραγγελίες μου"
+
+msgid "Recharge balance"
+msgstr "ισορροπία επαναφόρτιση"
+
+msgid "Administrator"
+msgstr "διαχειριστής"
+
+msgid "Incorrect event ID"
+msgstr "Λάθος αναγνωριστικό συμβάντος"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Επεξεργασία ανάδοχος"
+
+msgid "Create contractor"
+msgstr "Δημιουργία ανάδοχος"
+
+msgid "Edit question"
+msgstr "Επεξεργασία ερώτηση"
+
+msgid "Create question"
+msgstr "Δημιουργία ερωτήματος"
+
+msgid "Edit order"
+msgstr "Επεξεργασία παραγγελία"
+
+msgid "Create order"
+msgstr "Δημιουργία παραγγελία"
+
+msgid "Edit product"
+msgstr "Επεξεργασία των προϊόντων"
+
+msgid "Create product"
+msgstr "Δημιουργήστε το προϊόν"
+
+msgid "Edit product type"
+msgstr "Επεξεργασία τύπο προϊόντος"
+
+msgid "Create product type"
+msgstr "Δημιουργία τύπο προϊόντος"
+
+msgid "You have received a file"
+msgstr "Έχετε λάβει ένα αρχείο"
+
+msgid "You received a file from"
+msgstr "Λάβατε ένα αρχείο από"
+
+msgid "File has been uploaded"
+msgstr "Αρχείο έχει φορτωθεί"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "ελάχιστη ποσότητα"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "αντικειμένων"
+
+msgid "Remove"
+msgstr "Κατάργηση"
+
+msgid "Contact person"
+msgstr "Αρμόδιος επικοινωνίας"
+
+msgid "Email"
+msgstr "email"
+
+msgid "Contractor phone"
+msgstr "τηλέφωνο ανάδοχος"
+
+msgid "Contractor name"
+msgstr "επωνυμία αναδόχου"
+
+msgid "Contractor details"
+msgstr "λεπτομέρειες ανάδοχος"
+
+msgid "Order ID"
+msgstr "Αριθμός Παραγγελίας"
+
+msgid "Sum"
+msgstr "άθροισμα"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Επιλέξτε το κατάλληλο σύστημα πληρωμών για να επαναφορτίσει την ισορροπία σας"
+
+msgid "Recharge amount"
+msgstr "Φορτίστε το ποσό"
+
+msgid "Paid"
+msgstr "Καταβάλλονται"
+
+msgid "Shipped"
+msgstr "Αποστέλλεται"
+
+msgid "- No products in this order -"
+msgstr "- Δεν υπάρχουν προϊόντα σε αυτή την τάξη -"
+
+msgid "month"
+msgstr "μήνας"
+
+msgid "No user found"
+msgstr "Δεν βρέθηκε χρήστης"
+
+msgid "Achievement"
+msgstr "κατόρθωμα"
+
+msgid "Confirmed accomplishments"
+msgstr "επιβεβαιώθηκε επιτεύγματα"
+
+msgid "Remove achievement"
+msgstr "Κατάργηση επίτευξη"
+
+msgid "Headquaters"
+msgstr "headquaters"
+
+msgid "Phone"
+msgstr "τηλέφωνο"
+
+msgid "Site URL and email"
+msgstr "URL ιστοσελίδας και e-mail"
+
+msgid "Remove address"
+msgstr "Αφαιρέστε τη διεύθυνση"
+
+msgid "Members"
+msgstr "Μέλη"
+
+msgid "Requires a payment"
+msgstr "Απαιτεί μια πληρωμή"
+
+msgid "Shipping"
+msgstr "αποστολή"
+
+msgid "Ready"
+msgstr "έτοιμος"
+
+msgid "Find user..."
+msgstr "Βρείτε χρήστη ..."
+
+msgid "Order it"
+msgstr "Μπορείτε να το παραγγείλετε"
+
+msgid "Find group..."
+msgstr "Βρείτε ομάδα ..."
+
+msgid "Find user or community..."
+msgstr "Βρείτε το εγχειρίδιο ή της κοινότητας ..."
+
+msgid "No item found"
+msgstr "Καμία θέση βρέθηκε"
+
+msgid "years"
+msgstr "χρόνια"
+
+msgid "Send message"
+msgstr "να στείλετε μήνυμα"
+
+msgid "Message"
+msgstr "μήνυμα"
+
+msgid "To send message press Enter"
+msgstr "Για να στείλετε το μήνυμα, πατήστε Enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Για να στείλετε το μήνυμα, πατήστε Ctrl + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Αρχείο (α ) Επεξεργασία ..."
+
+msgid "Group settings"
+msgstr "ρυθμίσεις ομάδας"
+
+msgid "Create group"
+msgstr "Δημιουργία ομάδας"
+
+msgid "Group has been successfully saved"
+msgstr "Ομάδα έχει αποθηκευτεί με επιτυχία"
+
+msgid "Group title"
+msgstr "ομάδα τίτλο"
+
+msgid "Group video"
+msgstr "ομάδα βίντεο"
+
+msgid "Description"
+msgstr "περιγραφή"
+
+msgid "Your role in group"
+msgstr "Ο ρόλος σας στην ομάδα"
+
+msgid "Role"
+msgstr "ρόλος"
+
+msgid "Photo or video gallery"
+msgstr "Φωτογραφία ή βίντεο γκαλερί"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Ανεβάστε βίντεο"
+
+msgid "Add group address"
+msgstr "Προσθήκη διεύθυνσης ομάδα"
+
+msgid "Group articles"
+msgstr "άρθρα Όμιλος"
+
+msgid "No addresses yet"
+msgstr "Δεν διευθύνσεις ακόμα"
+
+msgid "Add group achievement"
+msgstr "Προσθήκη επίτευγμα ομάδα"
+
+msgid "No achivements yet"
+msgstr "Δεν υπάρχουν ακόμα Achivements"
+
+msgid "Are you sure to delete this user"
+msgstr "Είστε σίγουροι ότι για να διαγράψετε αυτόν το χρήστη"
+
+msgid "Add member"
+msgstr "Προσθήκη μέλους"
+
+msgid "Are you sure to delete this record?"
+msgstr "Είστε σίγουροι ότι για να διαγράψετε αυτό το ρεκόρ ;"
+
+msgid "Join this group"
+msgstr "Συμμετοχή σε αυτή την ομάδα"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Η πρόσκλησή σας εστάλη στο διαχειριστή της ομάδας"
+
+msgid "All addresses"
+msgstr "Όλες οι διευθύνσεις"
+
+msgid "Collapse"
+msgstr "κατάρρευση"
+
+msgid "Achievements"
+msgstr "επιτεύγματα"
+
+msgid "Show more"
+msgstr "Δείτε περισσότερα"
+
+msgid "Team"
+msgstr "ομάδα"
+
+msgid "Projects"
+msgstr "έργα"
+
+msgid "New project"
+msgstr "νέο έργο"
+
+msgid "Project has not been created yet"
+msgstr "Έργο δεν έχει δημιουργηθεί ακόμα"
+
+msgid "Messanger"
+msgstr "messanger"
+
+msgid "Balance"
+msgstr "ισορροπία"
+
+msgid "Main page"
+msgstr "κύρια σελίδα"
+
+msgid "Upload image"
+msgstr "Μεταφόρτωση εικόνας"
+
+msgid "My time"
+msgstr "Ο χρόνος μου"
+
+msgid "Day"
+msgstr "ημέρα"
+
+msgid "Week"
+msgstr "εβδομάδα"
+
+msgid "Project settings"
+msgstr "ρυθμίσεις Έργου"
+
+msgid "Create project"
+msgstr "Δημιουργία έργου"
+
+msgid "Project has been successfully saved"
+msgstr "Έργο έχει αποθηκευτεί με επιτυχία"
+
+msgid "Project name"
+msgstr "όνομα έργου"
+
+msgid "Deadline"
+msgstr "προθεσμία"
+
+msgid "Close"
+msgstr "κοντά"
+
+msgid "Manager"
+msgstr "Διευθυντής"
+
+msgid "Assigned to"
+msgstr "ανατεθεί"
+
+msgid "Discussion"
+msgstr "συζήτηση"
+
+msgid "Task was created"
+msgstr "Εργασία δημιουργήθηκε"
+
+msgid "Task was closed"
+msgstr "Εργασία έκλεισε"
+
+msgid "Go to Group"
+msgstr "Μετάβαση στην Ομάδα"
+
+msgid "Closed"
+msgstr "κλειστό"
+
+msgid "Last updates"
+msgstr "τελευταίες ενημερώσεις"
+
+msgid "Project is closed"
+msgstr "Έργο είναι κλειστό"
+
+msgid "No open tasks"
+msgstr "Δεν υπάρχουν ανοικτές εργασίες"
+
+msgid "New task"
+msgstr "νέα εργασία"
+
+msgid "Closed tasks"
+msgstr "Κλειστά τα καθήκοντα"
+
+msgid "Add subproject"
+msgstr "Προσθήκη υποέργο"
+
+msgid "Add task"
+msgstr "Προσθήκη εργασία"
+
+msgid "Sun"
+msgstr "Κυριακή"
+
+msgid "Mon"
+msgstr "Δευτέρα"
+
+msgid "Tue"
+msgstr "Τρίτη"
+
+msgid "Wed"
+msgstr "Τετάρτη"
+
+msgid "Thur"
+msgstr "Πέμπτη"
+
+msgid "Fri"
+msgstr "Παρασκευή"
+
+msgid "Sat"
+msgstr "Σάββατο"
+
+msgid "Event title"
+msgstr "εκδήλωση"
+
+msgid "Event description"
+msgstr "περιγραφή συμβάντος"
+
+msgid "I registered on this site"
+msgstr "Έχω εγγραφεί σε αυτό το site"
+
+msgid "Last created groups"
+msgstr "Τελευταία δημιουργήσει ομάδες"
+
+msgid "You joined this group as"
+msgstr "Μπορείτε προσχώρησε η ομάδα αυτή"
+
+msgid "You received a request to join the group"
+msgstr "Λάβατε ένα αίτημα για συμμετοχή στην ομάδα"
+
+msgid "Updated site"
+msgstr "ενημερώθηκε το site"
+
+msgid "Site is under construction"
+msgstr "Ιστοσελίδα είναι υπό κατασκευή"
+
+msgid "Last registered users"
+msgstr "Τελευταία εγγεγραμμένοι χρήστες"
+
+msgid "User settings"
+msgstr "ρυθμίσεις χρήστη"
+
+msgid "Technical support"
+msgstr "Τεχνική υποστήριξη"
+
+msgid "Change email"
+msgstr "Αλλαγή e-mail"
+
+msgid "Change password"
+msgstr "άλλαξε κωδικό"
+
+msgid "User has been successfully saved"
+msgstr "Ο χρήστης έχει αποθηκευτεί με επιτυχία"
+
+msgid "Full name"
+msgstr "Πλήρες όνομα"
+
+msgid "My video"
+msgstr "Το βίντεό μου"
+
+msgid "Skills"
+msgstr "δεξιότητες"
+
+msgid "Birthday"
+msgstr "γενέθλια"
+
+msgid "Country of residence"
+msgstr "Χώρα κατοικίας"
+
+msgid "Country"
+msgstr "χώρα"
+
+msgid "Zip Code"
+msgstr "Ταχυδρομικός Κώδικας"
+
+msgid "City/town of residence"
+msgstr "Πόλη / πόλη της κατοικίας"
+
+msgid "University/college"
+msgstr "Πανεπιστήμιο / Κολέγιο"
+
+msgid "University/college photo"
+msgstr "Πανεπιστήμιο / Κολέγιο φωτογραφία"
+
+msgid "Add user\'s accomplishments"
+msgstr "Προσθήκη επιτεύγματα του χρήστη"
+
+msgid "Interface language"
+msgstr "γλώσσα διεπαφής"
+
+msgid "How other people see this page"
+msgstr "Πώς άλλους ανθρώπους να δουν αυτή τη σελίδα"
+
+msgid "Video with me"
+msgstr "Βίντεο με εμένα"
+
+msgid "Groups"
+msgstr "ομάδες"
+
+msgid "Registered today"
+msgstr "Εγγεγραμμένοι σήμερα"
+
+msgid "Qty"
+msgstr "ποσότητα"
+
+msgid "No registered users yet"
+msgstr "Δεν υπάρχουν εγγεγραμμένα μέλη ακόμη"
+
+msgid "Total"
+msgstr "σύνολο"
+
+msgid "Registered total"
+msgstr "Εγγεγραμμένοι συνολική"
+
+msgid "You received a file"
+msgstr "Λάβατε ένα αρχείο"
+
+msgid "You were invited into this room"
+msgstr "Μπορείτε κλήθηκαν σε αυτό το δωμάτιο"
+
+msgid "Request is being processed"
+msgstr "Γίνεται επεξεργασία της διαδικασίας"
+
+msgid "Fax"
+msgstr "φαξ"
+
+msgid "Messenger"
+msgstr "Messenger"
+
+msgid "New subproject"
+msgstr "νέα υποέργο"
+
+msgid "messages written."
+msgstr "μηνύματα γραμμένα ."
+
+msgid "projects created based on groups."
+msgstr "έργα που δημιουργήθηκαν από τις ομάδες ."
+
+msgid "users registered on website."
+msgstr "Οι χρήστες εγγραφεί στην ιστοσελίδα ."
+
+msgid "New email"
+msgstr "νέο e-mail"
+
+msgid "Confirm email"
+msgstr "Επιβεβαίωση διεύθυνσης ηλεκτρονικού ταχυδρομείου"
+
+msgid "New password"
+msgstr "Νέος Κωδικός"
+
+msgid "Confirm password"
+msgstr "Επιβεβαίωση Κωδικού"
+
+msgid "Occupation"
+msgstr "Εξειδικευμένα"
+
+msgid "Timezone"
+msgstr "Ζώνη ώρας"
+
+msgid "Answer"
+msgstr "απάντηση"
+
+msgid "Articles"
+msgstr "άρθρα"
+
+msgid "Article"
+msgstr "αντικείμενο"
+
+msgid "Video-article"
+msgstr "Βίντεο -άρθρο"
+
+msgid "Find article..."
+msgstr "Βρείτε το άρθρο ..."
+
+msgid "Politics"
+msgstr "πολιτική"
+
+msgid "Economics"
+msgstr "Οικονομικά"
+
+msgid "Community"
+msgstr "Κοινότητα"
+
+msgid "Culture"
+msgstr "Κουλτούρα"
+
+msgid "Sports"
+msgstr "Αθλητισμός"
+
+msgid "Hi-tech"
+msgstr "Hi-tech"
+
+msgid "Cars"
+msgstr "αυτοκίνητα"
+
+msgid "Fashion"
+msgstr "Μόδα"
+
+msgid "Games"
+msgstr "παιχνίδια"
+
+msgid "Other"
+msgstr "Άλλα"
+
+msgid "Invalid mediafile"
+msgstr "Άκυρη mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Δεν υπάρχουν άρθρα σε αυτή την κατηγορία"
+
+msgid "Back to profile"
+msgstr "Επιστροφή στο προφίλ"
+
+msgid "View article"
+msgstr "Δείτε το άρθρο"
+
+msgid "Edit article"
+msgstr "Επεξεργασία άρθρο"
+
+msgid "Create article"
+msgstr "Δημιουργία άρθρου"
+
+msgid "Article title"
+msgstr "Τίτλος άρθρου"
+
+msgid "Article section"
+msgstr "άρθρο τμήμα"
+
+msgid "Choose image"
+msgstr "Επιλέξτε εικόνα"
+
+msgid "Save and upload"
+msgstr "Αποθήκευση και μεταφόρτωση"
+
+msgid "Show more..."
+msgstr "Δείτε περισσότερα..."
+
+msgid "Create"
+msgstr "Δημιουργία"
+
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+msgid "Project"
+msgstr "έργο"
+
+msgid "Team"
+msgstr "ομάδα"
+
+msgid "A new article was published"
+msgstr "Ένα νέο άρθρο δημοσιεύτηκε"
+
+msgid "You joined this project"
+msgstr "Θα συμμετέχουν σε αυτό το έργο"
+
+msgid "Enter your information in the User settings"
+msgstr "Εισάγετε τα στοιχεία σας στις ρυθμίσεις χρήστη"
+
+msgid "Communities"
+msgstr "κοινότητες"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Video παρουσίαση των επιτευγμάτων μου"
+
+msgid "My articles"
+msgstr "Τα άρθρα μου"
+
+msgid "User"
+msgstr "Χρήστης"
+
+msgid "Users"
+msgstr "χρήστες"
+
+msgid "Add new list"
+msgstr "Προσθήκη νέας λίστας"
+
+msgid "List title"
+msgstr "τίτλος Λίστα"
+
+msgid "Add"
+msgstr "Προσθήκη"
+
+msgid "Add to favorites"
+msgstr "Προσθήκη στα αγαπημένα"
+
+msgid "Delete from favorites"
+msgstr "Διαγραφή από τους αγαπημένους"
+
+msgid "Select list"
+msgstr "Επιλογή λίστας"
+
+msgid "Subscriptions"
+msgstr "Επιλογή λίστας  συνδρομές"
+
+msgid "Subscribe"
+msgstr "συνδρομές"
+
+msgid "Unsubscribe"
+msgstr "Διαγραφή"
+
+msgid "General list"
+msgstr "Γενικά λίστα"
+
+msgid "No users in this list"
+msgstr "Δεν υπάρχουν χρήστες σε αυτήν τη λίστα"
+
+msgid "Publish"
+msgstr "Δημοσιεύστε"
+
+msgid "Unpublish"
+msgstr "Κατάργηση δημοσίευσης"
+
+msgid "Add user"
+msgstr "Προσθήκη χρήστη"
+
+msgid "Create document"
+msgstr "Δημιουργία εγγράφου"
+
+msgid "Edit document"
+msgstr "Επεξεργασία εγγράφου"
+
+msgid "View"
+msgstr "θέα"
+
+msgid "Document title"
+msgstr "Τίτλος εγγράφου"
+
+msgid "Find document..."
+msgstr "Βρείτε το έγγραφο ..."
+
+msgid "Share your thoughts"
+msgstr "Μοιραστείτε τις σκέψεις σας"
+
+msgid "Leave your comment"
+msgstr "Αφήστε το σχόλιό σας"
+
+msgid "Accept"
+msgstr "Αποδοχή"
+
+msgid "Decline"
+msgstr "πτώση"
+
+msgid "Add article"
+msgstr "Προσθήκη άρθρου"
+
+msgid "Link to verified accomplishments"
+msgstr "Σύνδεσμος σε πιστοποιημένους επιτεύγματα"
+
+msgid "No articles here yet..."
+msgstr "Δεν άρθρα εδώ ακόμα ..."
+
+msgid "Find file or folder..."
+msgstr "Βρείτε αρχείο ή φάκελο ..."
+
+msgid "Sort"
+msgstr "είδος"
+
+msgid "By name"
+msgstr "κατ \'όνομα"
+
+msgid "By date"
+msgstr "Κατά ημερομηνία"
+
+msgid "By updated date"
+msgstr "Με ενημερωμένη ημερομηνία"
+
+msgid "By size"
+msgstr "Με μέγεθος"
+
+msgid "By type"
+msgstr "Κατά τύπο"
+
+msgid "Move"
+msgstr "κίνηση"
+
+msgid "File Manager"
+msgstr "Διαχείριση αρχείων"
+
+msgid "Share link"
+msgstr "Μοιραστείτε σύνδεσμο"
+
+msgid "Responsible"
+msgstr "Υπεύθυνος"
+
+msgid "Performer"
+msgstr "εκτελεστής"
+
+msgid "New Folder"
+msgstr "Νέος φάκελος"
+
+msgid "Folder name"
+msgstr "όνομα φακέλου"
+
+msgid "By default"
+msgstr "Από προεπιλογή"
+
+msgid "Back to group"
+msgstr "Back to group"
+
+msgid "year(s)"
+msgstr "έτος (η)"
+
+msgid "January"
+msgstr "Ιανουάριος"
+
+msgid "February"
+msgstr "Φεβρουάριος"
+
+msgid "March"
+msgstr "Μάρτιος"
+
+msgid "April"
+msgstr "Απρίλιος"
+
+msgid "May"
+msgstr "Μάιος"
+
+msgid "June"
+msgstr "Ιούνιος"
+
+msgid "July"
+msgstr "Ιούλιος"
+
+msgid "August"
+msgstr "Αύγουστος"
+
+msgid "September"
+msgstr "Σεπτέμβριος"
+
+msgid "October"
+msgstr "Οκτώβριος"
+
+msgid "November"
+msgstr "Νοέμβριος"
+
+msgid "December"
+msgstr "Δεκέμβριος"
+
+msgid "Password Reminder"
+msgstr "Ξέχασα τον κωδικό μου"
+
+msgid "Log In"
+msgstr "Σύνδεση"
+
+msgid "Sign in"
+msgstr "Συνδεθείτε"
+
+msgid "Register"
+msgstr "Εγγραφή"
+
+msgid "First name"
+msgstr "Όνομα"
+
+msgid "Last name"
+msgstr "Επίθετο"
+
+msgid "I agree with rules"
+msgstr "Συμφωνώ με τους όρους χρήσης"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Μια επιβεβαίωση mail στάλθηκε στην ηλεκτρονική σας διεύθυνση."
+
+msgid "Thanks"
+msgstr "Ευχαριστώ"
+
+msgid "Password must be at least 6 characters"
+msgstr "Ο κωδικός πρόσβασης πρέπει να είναι τουλάχιστον 6 χαρακτήρες"
+
+msgid "Creative Environment"
+msgstr "δημιουργικό περιβάλλον"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Πρέπει να είστε τουλάχιστον δεκατριών χρόνων για να χρησιμοποιήσετε αυτή την υπηρεσία"
+
+msgid "Order status"
+msgstr "Κατάσταση παραγγελίας"
+
+msgid "Processing order"
+msgstr "Για Επεξεργασία"
+
+msgid "Requires a payment"
+msgstr "Απαιτεί μια πληρωμή"
+
+msgid "Shipping"
+msgstr "Αποστολή"
+
+msgid "Ready"
+msgstr "έτοιμο"
+
+msgid "Thank you for your payment"
+msgstr "Ευχαριστώ για την πληρωμή σου"
+
+msgid "Your payment has been cancelled"
+msgstr "Η πληρωμή σας έχει ακυρωθεί"
+
+msgid "page"
+msgstr "σελίδα"
+
+msgid "Rent period"
+msgstr "Ενοικίαση περίοδο"
+
+msgid "Total, month"
+msgstr "Συνολικά, το μήνα"
+
+msgid "Order items"
+msgstr "αντικείμενα Παραγγελία"
+
+msgid "No records found"
+msgstr "Δεν βρέθηκαν καταγραφές"
+
+msgid "User with this email is already exist"
+msgstr "Ο χρήστης με αυτό το email είναι ήδη υπάρχουν"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Φάκελο ή το αρχείο με το όνομα αυτό υπάρχει ήδη στο φάκελο προορισμού"
+
+msgid "Minimal quantity"
+msgstr "ελάχιστη ποσότητα"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "εκτύπωση αντιγράφων"
+
+msgid "Terms of Use"
+msgstr "Όροι χρήσης"
+
+msgid "Privacy Policy"
+msgstr "Πολιτική απορρήτου"
+
+msgid "Find project..."
+msgstr "Βρείτε έργο ..."
+
+msgid "New Project"
+msgstr "νέο Έργο"
+
+msgid "Accounts"
+msgstr "λογαριασμοί"
+
+msgid "Operations"
+msgstr "λειτουργίες"
+
+msgid "All accounts"
+msgstr "Όλοι οι λογαριασμοί"
+
+msgid "All categories"
+msgstr "Όλες οι κατηγορίες"
+
+msgid "Expense"
+msgstr "δαπάνη"
+
+msgid "Income"
+msgstr "εισόδημα"
+
+msgid "Transfer"
+msgstr "μεταφορά"
+
+msgid "Expense"
+msgstr "δαπάνη"
+
+msgid "income"
+msgstr "εισόδημα"
+
+msgid "tax"
+msgstr "φόρος"
+
+msgid "percent"
+msgstr "τοις εκατό"
+
+msgid "transfer"
+msgstr "μεταφορά"
+
+msgid "Make operation"
+msgstr "Κάνε λειτουργία"
+
+msgid "Select date"
+msgstr "Επιλέξτε ημερομηνία"
+
+msgid "Select account"
+msgstr "Επιλέξτε λογαριασμού"
+
+msgid "Month"
+msgstr "Μήνας"
+
+msgid "Quarter"
+msgstr "Συνοικία"
+
+msgid "Year"
+msgstr "Έτος"
+
+msgid "From"
+msgstr "από"
+
+msgid "To"
+msgstr "Να"
+
+msgid "Expense amount"
+msgstr "ποσό Εξόδων"
+
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+msgid "Comments"
+msgstr "σχόλια"
+
+msgid "Income amount"
+msgstr "ποσό εισοδήματος"
+
+msgid "Transfer amount"
+msgstr "ποσό μεταφοράς"
+
+msgid "From account"
+msgstr "από το λογαριασμό"
+
+msgid "To account"
+msgstr "για να ληφθεί υπόψη"
+
+msgid "New Account"
+msgstr "Νέος λογαριασμός"
+
+msgid "New Category"
+msgstr "νέα Κατηγορία"
+
+msgid "All"
+msgstr "Όλοι"
+
+msgid "Name"
+msgstr "Όνομα"
+
+msgid "Enter category name"
+msgstr "Πληκτρολογήστε το όνομα της κατηγορίας"
+
+msgid "Select type"
+msgstr "Επιλέξτε τύπο"
+
+msgid "Credit card"
+msgstr "ΠΙΣΤΩΤΙΚΗ ΚΑΡΤΑ"
+
+msgid "Debit card"
+msgstr "Χρεωστική κάρτα"
+
+msgid "Bank account"
+msgstr "τραπεζικός λογαριασμός"
+
+msgid "Cash"
+msgstr "Μετρητά"
+
+msgid "Balance is empty"
+msgstr "Η ισορροπία είναι άδειο"
+
+msgid "Statistic is empty"
+msgstr "Στατιστική είναι άδειο"
+
+msgid "Regular payments"
+msgstr "Τακτικές πληρωμές"
+
+msgid "Are you sure ?"
+msgstr "Είσαι σίγουρος ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Είστε σίγουροι ότι για να κλείσει αυτό το έργο ;"
+
+msgid "Project was deleted successfully"
+msgstr "Έργου διεγράφη επιτυχώς"
+
+msgid "Select currency"
+msgstr "Επιλογή νομίσματος"
+
+msgid "Account"
+msgstr "Λογαριασμός"
+
+msgid "Orders list"
+msgstr "κατάλογος παραγγελίες"
+
+msgid "Order payments"
+msgstr "Παραγγελία πληρωμές"
+
+msgid "View order"
+msgstr "Δείτε τάξης"
+
+msgid "No response from Printer API"
+msgstr "Καμία απόκριση από τον εκτυπωτή API"
+
+msgid "Bad response from Printer API"
+msgstr "Bad απάντηση από τον εκτυπωτή API"
+
+msgid "User ID"
+msgstr "ταυτότητα χρήστη"
+
+msgid "Contact Person"
+msgstr "Υπεύθυνος Επικοινωνίας"
+
+msgid "No orders to process"
+msgstr "Δεν εντολές για την επεξεργασία"
+
+msgid "Article announce image"
+msgstr "Άρθρο ανακοινώσει εικόνα"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Μη έγκυρη διεύθυνση URL βίντεο . Αφήστε κενό ή τοποθετήστε μια έγκυρη διεύθυνση url του YouTube"
+
+msgid "Please, enter Contractor data"
+msgstr "Παρακαλούμε , εισάγετε δεδομένα Ανάδοχος"
+
+msgid "Distribute devices"
+msgstr "Μοιράστε συσκευές"
+
+msgid "Quantity"
+msgstr "ποσότητα"
+
+msgid "Devices left"
+msgstr "συσκευές αριστερά"
+
+msgid "Distributed devices"
+msgstr "κατανεμημένες συσκευές"
+
+msgid "You must enter quantity"
+msgstr "Πρέπει να εισάγετε ποσότητα"
+
+msgid "All devices are distributed"
+msgstr "Όλες οι συσκευές που διανέμονται"
+
+msgid "IP address"
+msgstr "διεύθυνση IP"
+
+msgid "Only for printer"
+msgstr "Μόνο για τον εκτυπωτή"
+
+msgid "Counter"
+msgstr "μετρητής"
+
+msgid "You was excluded from this room"
+msgstr "Μπορείτε αποκλείστηκε από αυτό το δωμάτιο"
+
+msgid "Compare"
+msgstr "Σύγκριση"
+
+msgid "Scheduled transaction"
+msgstr "προγραμματισμένη συναλλαγή"
+
+msgid "Select transfer account"
+msgstr "Επιλέξτε το λογαριασμό της μεταφοράς"
+
+msgid "Select income account"
+msgstr "Επιλέξτε ισοζυγίου εισοδημάτων"
+
+msgid "Reports"
+msgstr "εκθέσεις"
+
+msgid "Goals"
+msgstr "Γκολ"
+
+msgid "Budgets"
+msgstr "Προϋπολογισμοί"
+
+msgid "Enter user name or email..."
+msgstr "Πληκτρολογήστε το όνομα χρήστη ή e-mail ..."
+
+msgid "Invite had been sended"
+msgstr "Προσκαλέστε είχε sended"
+
+msgid "Statistics"
+msgstr "Στατιστικά"
+
+msgid "Updated site began to work"
+msgstr "Ενημερώθηκε περιοχή άρχισε να εργάζεται"
+
+msgid "City of residence"
+msgstr "Πόλη διαμονής"
+
+msgid "Edit favourites list"
+msgstr "Επεξεργασία λίστας αγαπημένων"
+
+msgid "Add favourites list"
+msgstr "Προσθήκη στα αγαπημένα"
+
+msgid "Categories is required"
+msgstr "Κατηγορίες απαιτείται"
+
+msgid "Type new category name and hit Enter"
+msgstr "Πληκτρολογήστε το νέο όνομα της κατηγορίας και πατήστε enter"
+
+msgid "You created an order"
+msgstr "Δημιουργήσατε μια παραγγελία"
+
+msgid "You received a device due to this order"
+msgstr "Λάβατε μια συσκευή λόγω αυτής της τάξης"
+
+msgid "%s attached %s to task %s"
+msgstr "%s %s που συνδέονται με το καθήκον %s"
+
+msgid "member(s)"
+msgstr "Μέλος (η )"
+
+msgid "%s commented task %s"
+msgstr "%s σχολίασε αποστολή %s"
+
+msgid "%s closed task %s"
+msgstr "%s κλειστό καθήκον %s"
+
+msgid "%s created task %s"
+msgstr "%s δημιουργήθηκε το έργο %s"
+
+msgid "%s created this project"
+msgstr "%s δημιουργήθηκε αυτό το έργο"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s δημιουργήθηκε υποέργο \" %s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s κλειστά έργου \" %s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s κλειστό υποέργο \" %s \""
+
+msgid "This field must not be blank"
+msgstr "Το πεδίο αυτό δεν πρέπει να είναι κενό"
+
+msgid "Document with such name is already exist"
+msgstr "Έγγραφο με τέτοιο όνομα είναι ήδη υπάρχουν"
+
+msgid "Wait until image upload"
+msgstr "Περιμένετε μέχρι να φορτώνει εικόνα"
+
+msgid "Video"
+msgstr "Βίντεο"
+
+msgid "Message can not be empty"
+msgstr "Μήνυμα δεν μπορεί να είναι κενό"
+
+msgid "Yes"
+msgstr "ναί"
+
+msgid "No"
+msgstr "Κανένα"
+
+msgid "Created"
+msgstr "δημιουργήθηκε"
+
+msgid "Compare is empty"
+msgstr "Συγκρίνετε είναι άδειο"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε λειτουργία"
+
+msgid "Do you really want to delete transaction"
+msgstr "Θέλετε πραγματικά να διαγράψετε συναλλαγής"
+
+msgid "Project with same name already exists"
+msgstr "Έργο με το ίδιο όνομα υπάρχει ήδη"
+
+msgid "Account is not found"
+msgstr "Ο λογαριασμός δεν βρέθηκε"
+
+msgid "Currency is required"
+msgstr "Νόμισμα απαιτείται"
+
+msgid "error while deleting document"
+msgstr "σφάλμα κατά τη διαγραφή του εγγράφου"
+
+msgid "Expences"
+msgstr "Έξοδα"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Μπορείτε κάλεσε το χρήστη \" %s\" σε αυτό το δωμάτιο"
+
+msgid "User \"%s\" joined this room"
+msgstr "Ο χρήστης \" %s \" εντάχθηκαν σε αυτό το δωμάτιο"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Θα αποκλείονται χρήστη \" %s \" από αυτό το δωμάτιο"
+
+msgid "User \"%s\" left this room"
+msgstr "Ο χρήστης \" %s \" έφυγε αυτό το δωμάτιο"
+
+msgid "Add account"
+msgstr "Προσθήκη λογαριασμού"
+
+msgid "The requested page is not found"
+msgstr "Η σελίδα που ζητήσατε δεν βρέθηκε"
+
+msgid "Document"
+msgstr "έγγραφο"
+
+msgid "Table"
+msgstr "τραπέζι"
+
+msgid "file(s)"
+msgstr "αρχείο ( ες )"
+
+msgid "Residue"
+msgstr "υπόλειμμα"
+
+msgid "Result is empty"
+msgstr "Αποτέλεσμα είναι άδειο"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Το συνολικό ποσό είναι %s για %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Θα πρέπει να καταθέσετε %s κάθε μήνα στις σχετικές λογαριασμό"
+
+msgid "Start"
+msgstr "εκκίνηση"
+
+msgid "finish"
+msgstr "φινίρισμα"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Επιλεγμένα λογαριασμός είναι ήδη σε χρήση για άλλο ένα τέρμα"
+
+msgid "Amount required"
+msgstr "απαιτούμενο ποσό"
+
+msgid "New goal"
+msgstr "νέα γκολ"
+
+msgid "Goal"
+msgstr "Στόχος"
+
+msgid "Goal name"
+msgstr "όνομα στόχου"
+
+msgid "Invalid date"
+msgstr "Μη έγκυρη ημερομηνία"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Απαραίτητη ποσό αυτό πρέπει να είναι θετικός αριθμός"
+
+msgid "Remain"
+msgstr "Παραμείνετε"
+
+msgid "Last day"
+msgstr "ΤΕΛΕΥΤΑΙΑ ΜΕΡΑ"
+
+msgid "Accumulated"
+msgstr "Συσσωρευμένες"
+
+msgid "Put aside"
+msgstr "Άσε στην άκρη"
+
+msgid "January"
+msgstr "Ιανουάριος"
+
+msgid "February"
+msgstr "Φεβρουάριος"
+
+msgid "March"
+msgstr "Μάρτιος"
+
+msgid "April"
+msgstr "Απρίλιος"
+
+msgid "May"
+msgstr "Μάιος"
+
+msgid "June"
+msgstr "Ιούνιος"
+
+msgid "July"
+msgstr "Ιούλιος"
+
+msgid "August"
+msgstr "Αύγουστος"
+
+msgid "September"
+msgstr "Σεπτέμβριος"
+
+msgid "October"
+msgstr "Οκτώβριος"
+
+msgid "November"
+msgstr "Νοέμβριος"
+
+msgid "December"
+msgstr "Δεκέμβριος"
+
+msgid "Expenses projected/actual"
+msgstr "Έξοδα προβλεπόμενη / πραγματική"
+
+msgid "Net Income projected/actual"
+msgstr "Τα καθαρά έσοδα που προβλέπει / πραγματικές"
+
+msgid "New budget"
+msgstr "Νέος προϋπολογισμός"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Έσοδα και Έξοδα Διάγραμμα"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Προϋπολογισμός με το ίδιο ζεύγος λογαριασμό και κατηγορία υπάρχει ήδη"
+
+msgid "Budget is empty"
+msgstr "Ο προϋπολογισμός είναι άδειο"
+
+msgid "Budget"
+msgstr "Προϋπολογισμός"
+
+msgid "plan"
+msgstr "σχέδιο"
+
+msgid "fact"
+msgstr "γεγονός"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "Δείτε περισσότερα"
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+msgid "d"
+msgstr "δ"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "πωλήσεις μου"
+
+msgid "Time spent"
+msgstr "Χρόνος που ξοδεύτηκε"
+
+msgid "Total time spent"
+msgstr "Συνολικός χρόνος που δαπανάται"
+
+msgid "Earnings per hour"
+msgstr "Κέρδη ανά ώρα"
+
+msgid "Total earnings"
+msgstr "Τα συνολικά κέρδη"
+
+msgid "Call"
+msgstr "κλήση"
+
+msgid "Phone call"
+msgstr "Τηλεφωνική κλήση"
+
+msgid "Telephone calls"
+msgstr "τηλεφωνικές κλήσεις"
+
+msgid "Send email"
+msgstr "Να στείλετε e-mail"
+
+msgid "Emails"
+msgstr "emails"
+
+msgid "Meeting"
+msgstr "Συνάντηση"
+
+msgid "Meetings"
+msgstr "συναντήσεις"
+
+msgid "All events"
+msgstr "Όλες οι εκδηλώσεις"
+
+msgid "Task"
+msgstr "έργο"
+
+msgid "Event"
+msgstr "εκδήλωση"
+
+msgid "Events"
+msgstr "Εκδηλώσεις"
+
+msgid "Time"
+msgstr "Ώρα"
+
+msgid "Events statistics"
+msgstr "στατιστικές Εκδηλώσεις"
+
+msgid "days"
+msgstr "ημέρες"
+
+msgid "hours"
+msgstr "ώρες"
+
+msgid "minutes"
+msgstr "λεπτά"
+
+msgid "Income & expense"
+msgstr "Έσοδα & έξοδα"
+
+msgid "Show chart"
+msgstr "Εμφάνιση διάγραμμα"
+
+msgid "Hide chart"
+msgstr "Απόκρυψη γραφήματος"
+
+msgid "Add event"
+msgstr "Προσθήκη εκδήλωση"
+
+msgid "Add financial data"
+msgstr "Προσθέστε οικονομικά στοιχεία"
+
+msgid "Select contractor"
+msgstr "Επιλογή αναδόχου"
+
+msgid "Net Income"
+msgstr "Καθαρά Έσοδα"
+
+msgid "Revenue"
+msgstr "Έσοδα"
+
+msgid "Taxes"
+msgstr "Φόροι"
+
+msgid "Amount planned"
+msgstr "ποσό προγραμματιστεί"
+
+msgid "Amount"
+msgstr "ποσό"
+
+msgid "Period"
+msgstr "περίοδος"
+
+msgid "Are you sure to close this task?"
+msgstr "Είστε σίγουροι ότι για να κλείσει αυτό το έργο ;"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "Όλες οι ομάδες"
+
+msgid "added from task"
+msgstr "προστέθηκαν από εργασία"
+
+msgid "Monthly repeat"
+msgstr "μηνιαία επανάληψη"
+
+msgid "Select category"
+msgstr "Επιλέξτε κατηγορία"
+
+msgid "Event type"
+msgstr "τύπος συμβάντος"
+
+msgid "Margin"
+msgstr "περιθώριο"
+
+msgid "Use finance project"
+msgstr "Χρησιμοποιήστε τη χρηματοδότηση έργων"
+
+msgid "New investment project"
+msgstr "Νέο επενδυτικό σχέδιο"
+
+msgid "Investment project settings"
+msgstr "Ρυθμίσεις Επενδυτικό σχέδιο"
+
+msgid "Picture, for the announcement project"
+msgstr "Εικόνα , για το σχέδιο ανακοίνωσης"
+
+msgid "Announcement project"
+msgstr "ανακοίνωση σχεδίου"
+
+msgid "Video"
+msgstr "Βίντεο"
+
+msgid "Photos or videos gallery"
+msgstr "Φωτογραφίες ή βίντεο γκαλερί"
+
+msgid "required amount"
+msgstr "απαιτούμενο ποσό"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Διάρκεια του σχεδίου (60 ημέρες κατ \'ανώτατο όριο )"
+
+msgid "Project duration"
+msgstr "Η διάρκεια του έργου"
+
+msgid "Add reward"
+msgstr "Προσθήκη ανταμοιβή"
+
+msgid "Delivery date"
+msgstr "Ημερομηνία παράδοσης"
+
+msgid "Payment systems"
+msgstr "Τα συστήματα πληρωμών"
+
+msgid "Terms of service"
+msgstr "Όροι Παροχής Υπηρεσιών"
+
+msgid "Agreement"
+msgstr "συμφωνία"
+
+msgid "Payment"
+msgstr "πληρωμή"
+
+msgid "My projects"
+msgstr "τα έργα μου"
+
+msgid "Search result"
+msgstr "αποτέλεσμα αναζήτησης"
+
+msgid "Nothing not found"
+msgstr "Τίποτα δεν βρέθηκε"
+
+msgid "The project has no sponsors"
+msgstr "Το έργο δεν έχει χορηγούς"
+
+msgid "Design"
+msgstr "Σχεδιασμός"
+
+msgid "Food"
+msgstr "Τροφή"
+
+msgid "Journalism"
+msgstr "Δημοσιογραφία"
+
+msgid "Games"
+msgstr "παιχνίδια"
+
+msgid "Art"
+msgstr "τέχνη"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "μουσική"
+
+msgid "Handicrafts"
+msgstr "χειροτεχνίας"
+
+msgid "Publishing"
+msgstr "Εκδόσεις"
+
+msgid "Theater"
+msgstr "θέατρο"
+
+msgid "Technology"
+msgstr "τεχνολογία"
+
+msgid "Film/Video"
+msgstr "Φιλμ / βίντεο"
+
+msgid "Photo"
+msgstr "φωτογραφία"
+
+msgid "Dance"
+msgstr "Χορός"
+
+msgid "Invalid youtube video"
+msgstr "Μη έγκυρο βίντεο στο youtube"
+
+msgid "is required"
+msgstr "απαιτείται"
+
+msgid "User"
+msgstr "Χρήστης"
+
+msgid "Date"
+msgstr "ημερομηνία"
+
+msgid "Collected"
+msgstr "Συνολικές"
+
+msgid "Choose period"
+msgstr "Επιλέξτε περίοδο"
+
+msgid "Choose region"
+msgstr "Επιλέξτε περιοχή"
+
+msgid "Country"
+msgstr "χώρα"
+
+msgid "Today"
+msgstr "Σήμερα"
+
+msgid "Week"
+msgstr "Εβδομάδα"
+
+msgid "Month"
+msgstr "Μήνας"
+
+msgid "Year"
+msgstr "έτος"
+
+msgid "Free registration"
+msgstr "δωρεάν καταχώριση"
+
+msgid "Join"
+msgstr "Ενώνω"
+
+msgid "Log in using"
+msgstr "Συνδεθείτε χρησιμοποιώντας"
+
+msgid "Vacancies"
+msgstr "Ευκαιρίες εργασίας"
+
+msgid "About Us"
+msgstr "Σχετικά με εμάς"
+
+msgid "You will need email to log in"
+msgstr "Θα χρειαστείτε το email για να συνδεθείτε"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Ένας συνδυασμός 6 ψηφίων και χαρακτήρων"
+
+msgid "Search users, groups, articles..."
+msgstr "Αναζήτηση χρηστών , ομάδες , άρθρα ..."
+
+msgid "Cloud"
+msgstr "Σύννεφο"
+
+msgid "Sunday"
+msgstr "Κυριακή"
+
+msgid "Monday"
+msgstr "Δευτέρα"
+
+msgid "Tuesday"
+msgstr "Τρίτη"
+
+msgid "Wednesday"
+msgstr "Τετάρτη"
+
+msgid "Thursday"
+msgstr "Πέμπτη"
+
+msgid "Friday"
+msgstr "Παρασκευή"
+
+msgid "Saturday"
+msgstr "Σάββατο"
+
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+msgid "Create group"
+msgstr "Δημιουργία ομάδας"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Είστε σίγουροι ότι θέλετε να αποχωρήσετε από αυτή τη σελίδα;"
+
+msgid "More"
+msgstr "Περισσότερο"
+
+msgid "Less"
+msgstr "Μείον"
+
+msgid "Pending"
+msgstr "Εκκρεμεί"
+
+msgid "Approved"
+msgstr "Εγκρίθηκε"
+
+msgid "Rejected"
+msgstr "απορρίφθηκε"
+
+msgid "Subprojects"
+msgstr "υποέργα"
+
+msgid "Group edit"
+msgstr "Επεξεργασία ομάδας"
+
+msgid "Startup"
+msgstr "ΕΚΚΙΝΗΣΗ"
+
+msgid "Tattoo"
+msgstr "Τατουάζ"
+
+msgid "Health"
+msgstr "Υγεία"
+
+msgid "Weapon"
+msgstr "Όπλο"
+
+msgid "Astronomy"
+msgstr "Αστρονομία"
+
+msgid "All articles"
+msgstr "Όλα τα άρθρα"
+
+msgid "Article editor"
+msgstr "άρθρο editor"
+
+msgid "Document editor"
+msgstr "συντάκτη του εγγράφου"
+
+msgid "Apply changes"
+msgstr "Εφαρμογή αλλαγών"
+
+msgid "Save changes?"
+msgstr "Αποθήκευσε τις αλλαγές?"
+
+msgid "published an article"
+msgstr "δημοσίευσε ένα άρθρο"
+
+msgid "Users"
+msgstr "χρήστες"
+
+msgid "Shared With Me"
+msgstr "Από κοινού με εμένα"
+
+msgid "share"
+msgstr "μερίδιο"
+
+msgid "Select Group Responsible"
+msgstr "Επιλέξτε Ομάδα Υπεύθυνος"
+
+msgid "Create folder"
+msgstr "Δημιουργία φακέλου"
+
+msgid "Title must be at least 3 characters"
+msgstr "Ο τίτλος πρέπει να είναι τουλάχιστον 3 χαρακτήρες"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Δωρεάν 10 GB , οικονομικός διευθυντής , επενδύουν μονάδα , και πολλές άλλες δωρεάν και για πάντα"
+
+msgid "Best regards"
+msgstr "Τις καλύτερες ευχές"
+
+msgid "Updates in last 12 hours:"
+msgstr "Ενημερώσεις σε τελευταίες 12 ώρες :"
+
+msgid "expense"
+msgstr "δαπάνη"
+
+msgid "Commentary on the event:"
+msgstr "Σχόλιο για την περίπτωση :"
+
+msgid "Event place"
+msgstr "χώρο της εκδήλωσης"
+
+msgid "Project was updated"
+msgstr "Έργο ενημερώθηκε"
+
+msgid "Project was created"
+msgstr "Δημιουργήθηκε Έργου"
+
+msgid "Project was closed"
+msgstr "Έργο έκλεισε"
+
+msgid "account"
+msgstr "λογαριασμός"
+
+msgid "removed task"
+msgstr "αφαιρεθεί έργο"
+
+msgid "removed subproject"
+msgstr "αφαιρεθεί υποέργο"
+
+msgid "Title can not be empty"
+msgstr "Ο τίτλος δεν μπορεί να είναι κενό"
+
+msgid "Do not select the type of event"
+msgstr "Μην επιλέξετε το είδος της εκδήλωσης"
+
+msgid "Error while saving comment"
+msgstr "Σφάλμα κατά την αποθήκευση σχόλιο"
+
+msgid "Save error: access denied"
+msgstr "Αποθήκευση σφάλμα : δεν επιτρέπεται η πρόσβαση"
+
+msgid "Remains"
+msgstr "Λείψανα"
+
+msgid "Time spent, h."
+msgstr "Ο χρόνος που δαπανάται , h."
+
+msgid "Emails"
+msgstr "emails"
+
+msgid "Meetings"
+msgstr "συναντήσεις"
+
+msgid "All users"
+msgstr "Όλοι οι χρήστες"
+
+msgid "Category"
+msgstr "Κατηγορία"
+
+msgid "Finance project"
+msgstr "Χρηματοδότηση του έργου"
+
+msgid "Investment project"
+msgstr "Επενδυτικό σχέδιο"
+
+msgid "Nature"
+msgstr "Φύση"
+
+msgid "Data is empty"
+msgstr "Τα δεδομένα είναι άδειο"
+
+msgid "Visitors"
+msgstr "επισκέπτες"
+
+msgid "My profile"
+msgstr "Το ΠΡΟΦΙΛ μου"
+
+msgid "Sponsors"
+msgstr "Χορηγοί"
+
+msgid "Prior to completion"
+msgstr "Πριν από την ολοκλήρωση"
+
+msgid "Select"
+msgstr "Επιλέγω"
+
+msgid "My groups"
+msgstr "ομάδες μου"
+
+msgid "The invitation has been sent successfully"
+msgstr "Η πρόσκληση έχει σταλεί με επιτυχία"
+
+msgid "Username has already been invited to this project"
+msgstr "Όνομα Χρήστη έχει ήδη προσκληθεί σε αυτό το έργο"
+
+msgid "The user is the creator of the project"
+msgstr "Ο χρήστης είναι ο δημιουργός του έργου"
+
+msgid "Provide full access"
+msgstr "Να παρέχει πλήρη πρόσβαση"
+
+msgid "Select elements to provide access"
+msgstr "Επιλέξτε τα στοιχεία για την παροχή πρόσβασης"
+
+msgid "Select all"
+msgstr "Επίλεξέ τα όλα"
+
+msgid "User E-mail"
+msgstr "Ο χρήστης E-mail"
+
+msgid "Click on the field to select a category"
+msgstr "Κάντε κλικ στο πεδίο για να επιλέξετε μια κατηγορία"
+
+msgid "Invitation was deleted"
+msgstr "Πρόσκληση διαγράφηκε"
+
+msgid "Permission denied"
+msgstr "permission denied"
+
+msgid "Printed"
+msgstr "Έντυπος"
+
+msgid "Incorrect Contractor email"
+msgstr "Λανθασμένη email Ανάδοχος"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Θέλετε να προσθέσετε έργου για τη χρηματοδότηση διευθυντή;"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Για να ολοκληρώσετε τη διαδικασία εγγραφής , παρακαλούμε συμπληρώστε τα κάτω τις ικανότητές σας"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Ένα μήνυμα με περαιτέρω οδηγίες εστάλη στη διεύθυνση email σας"
+
+msgid "Submit"
+msgstr "Υποτάσσομαι"
+
+msgid "Cars"
+msgstr "αυτοκίνητα"
+
+msgid "Science"
+msgstr "Επιστήμη"
+
+msgid "Donation"
+msgstr "Δωρεά"
+
+msgid "Interests"
+msgstr "Ενδιαφέροντα"
+
+msgid "Driver"
+msgstr "Οδηγός"
+
+msgid "Sportsman"
+msgstr "Αθλητής"
+
+msgid "Businessman"
+msgstr "Επιχειρηματίας"
+
+msgid "Accountant"
+msgstr "Λογιστής"
+
+msgid "Engineer"
+msgstr "Μηχανικός"
+
+msgid "Soldier"
+msgstr "Στρατιώτης"
+
+msgid "Next"
+msgstr "Επόμενος"
+
+msgid "Hide group"
+msgstr "Απόκρυψη ομάδα"
+
+msgid "groups created"
+msgstr "ομάδες που έχουν δημιουργηθεί"
+
+msgid "articles written"
+msgstr "άρθρα που έχουν γραφτεί"
+
+msgid "These groups may be interesting for you"
+msgstr "Αυτές οι ομάδες μπορεί να είναι ενδιαφέρουσα για σας"
+
+msgid "About Group"
+msgstr "Σχετικά με τον Όμιλο"
+
+msgid "view(s)"
+msgstr "προβολές)"
+
+msgid "Favorite users"
+msgstr "Αγαπημένη χρήστες"
+
+msgid "No accounts"
+msgstr "Δεν λογαριασμούς"
+
+msgid "Facebook authorization failed."
+msgstr "Απέτυχε άδεια Facebook ."
+
+msgid "Authorization Required"
+msgstr "άδεια που απαιτείται"
+
+msgid "You have to make a call:"
+msgstr "Θα πρέπει να πραγματοποιήσετε μια κλήση :"
+
+msgid "You have to send an email:"
+msgstr "Θα πρέπει να στείλετε ένα e-mail :"
+
+msgid "You have a meetup:"
+msgstr "Έχετε μια meetup :"
+
+msgid "You event :"
+msgstr "Μπορείτε εκδήλωση :"
+
+msgid "Participants:"
+msgstr "συμμετέχοντες :"
+
+msgid "Search"
+msgstr "Έρευνα"
+
+msgid "News"
+msgstr "Νέα"
+
+msgid "Investments"
+msgstr "επενδύσεις"
+
+msgid "Back to Cloud"
+msgstr "Επιστροφή στο Cloud"
+
+msgid "Documents"
+msgstr "Έγγραφα"
+
+msgid "Planet"
+msgstr "Πλανήτης"
+
+msgid "Group url"
+msgstr "ομάδα url"
+
+msgid "Profile url"
+msgstr "προφίλ url"
+
+msgid "Already taken"
+msgstr "Ήδη πιασμένο"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Τουλάχιστον 1 γράμμα και μήκους 3 χαρακτήρες που απαιτείται"
+
+msgid "Digit can not be the first character"
+msgstr "Ψηφίο δεν μπορεί να είναι ο πρώτος χαρακτήρας"
+
+msgid "Enter valid email address"
+msgstr "Πληκτρολογήστε έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου"
+
+msgid "Enter your skills"
+msgstr "Εισάγετε τις ικανότητές σας"
+
+msgid "Enter your first name"
+msgstr "Πληκτρολογήστε το όνομά σας"
+
+msgid "Enter your last name"
+msgstr "Πληκτρολογήστε το επώνυμό σας"
+
+msgid "Enter your first name and last name"
+msgstr "Πληκτρολογήστε το όνομά σας και το επώνυμο"
+
+msgid "Your first name?"
+msgstr "Το όνομά σας?"
+
+msgid "Your last name?"
+msgstr "Το επίθετο σου?"
+
+msgid "What are your proficiencies?"
+msgstr "Ποιες είναι οι ικανότητες που σας ;"
+
+msgid "Select country"
+msgstr "Επιλέξτε τη χώρα"
+
+msgid "Select user"
+msgstr "Επιλέξτε το χρήστη"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Εκπληρώσει το όνειρό σας ! Δημιουργία και συνεργάζονται ."
+
+msgid "date moved from"
+msgstr "ημερομηνία μετακινήθηκε από"
+
+msgid "work"
+msgstr "δουλειά"
+
+msgid "Conference"
+msgstr "Διάσκεψη"
+
+msgid "personal"
+msgstr "προσωπικός"
+
+msgid "Holiday"
+msgstr "Αργία"
+
+msgid "Past"
+msgstr "Το παρελθόν"
+
+msgid "Future"
+msgstr "Μελλοντικές"
+
+msgid "Purchase"
+msgstr "Αγορά"
+
+msgid "Personal events"
+msgstr "Ιδιωτικές εκδηλώσεις"
+
+msgid "Conferences"
+msgstr "Συνάντηση"
+
+msgid "Holidays"
+msgstr "Διακοπές"
+
+msgid "Sport events"
+msgstr "Αθλητικές εκδηλώσεις"
+
+msgid "Tasks"
+msgstr "Εργασίες"
+
+msgid "Other events"
+msgstr "Άλλες εκδηλώσεις"
+
+msgid "Set aside"
+msgstr "Φαγητό σε πακέτο"
+
+msgid "Set aside"
+msgstr "Αναβαλλόμενες"
+
+msgid "Time management"
+msgstr "Διαχείριση χρόνου"
+
+msgid "Delayed events"
+msgstr "Αναβαλλόμενη εκδηλώσεις"
+
+msgid "Delayed"
+msgstr "Αναβαλλόμενες"
+
+msgid "Bind to"
+msgstr "Αντιστοίχιση"
+
+msgid "answered your comment to"
+msgstr "Είπα (α) Σχόλιο για το άρθρο"
+
+msgid "commented your article"
+msgstr "Σχολίασε σχετικά με το άρθρο σας"
+
+msgid "You\'ve answered on comment to"
+msgstr "Μπορείτε απάντησε στην παρατήρηση σχετικά με το άρθρο"
+
+msgid "You\'ve commented an article"
+msgstr "Μπορείτε σχολίασε για το προϊόν"
+
+msgid "Terms and Conditions"
+msgstr "Όροι και Προϋποθέσεις"
+
+msgid "Privacy Policy"
+msgstr "Πολιτική Απορρήτου"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Κάνοντας κλικ στο \"Εγγραφή\" αποδέχεστε με μας και αναγνωρίζετε ότι έχετε διαβάσει μας"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Γίνετε μέλος της κοινότητας των δημιουργικούς ανθρώπους από όλο τον κόσμο! Θα λάβετε: Επένδυση στις ιδέες σας, την ευκαιρία να συγκεντρώσει η ομάδα του, που εργάζονται σε μια ομάδα, την οικονομική διαχείριση, διαχείριση του χρόνου τους, 2 gigabytes σε αποθήκευση και περισσότερο. Και είναι δωρεάν!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Λυπούμαστε, αλλά η σελίδα που ψάχνετε δεν υπάρχει. Αν νομίζετε ότι φταίει μας επικοινωνήστε μαζί μας"
+
+msgid "Return"
+msgstr "Επιστροφή"
+
+msgid "COMMON"
+msgstr "ΣΥΝΟΛΟ"
+
+msgid "My events"
+msgstr "Οι εκδηλώσεις μου"
+
+msgid "Job opening"
+msgstr "Νέα κενών θέσεων"
+
+msgid "Employment"
+msgstr "Είδος απασχόλησης"
+
+msgid "Working hours"
+msgstr "Ώρες λειτουργίας"
+
+msgid "City"
+msgstr "Πόλη"
+
+msgid "Wages"
+msgstr "Μισθός"
+
+msgid "Currency"
+msgstr "Νόμισμα"
+
+msgid "Experience"
+msgstr "Εμπειρία"
+
+msgid "Full-time"
+msgstr "Πλήρης απασχόληση"
+
+msgid "Part-time"
+msgstr "Μερική απασχόληση"
+
+msgid "Project employment"
+msgstr "Έργο / Προσωρινή"
+
+msgid "Volunteer"
+msgstr "Εθελοντισμός"
+
+msgid "Internship"
+msgstr "Πρακτική άσκηση"
+
+msgid "Full day"
+msgstr "Τελικό"
+
+msgid "Shifts"
+msgstr "Χρονοδιάγραμμα Αντικατάσταση"
+
+msgid "Flexible shifts"
+msgstr "Ευέλικτο πρόγραμμα"
+
+msgid "Remote work"
+msgstr "Απομακρυσμένη εργασία"
+
+msgid "Rotational basis"
+msgstr "Μέθοδο Shift"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε το σχόλιο;"
+
+msgid "Do you really want to delete this task?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το έργο;"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το υπο-έργο;"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Έχετε εφαρμόζεται στην εταιρεία για τη θέση. Παρακαλώ βεβαιωθείτε ότι η"
+
+msgid "Your request to for job has been rejected"
+msgstr "Το αίτημά σας για την εταιρεία στη θέση έχει απορριφθεί"
+
+msgid "Your request to for job has been accepted"
+msgstr "Το αίτημά σας για την εταιρεία σε θέση εγκρίθηκε"
+
+msgid "profile is completed"
+msgstr "Το προφίλ σας είναι πλήρης"
+
+msgid "Use account"
+msgstr "Χρησιμοποιήστε το λογαριασμό"
+
+msgid "$/hr"
+msgstr "$ / Ώρα"
+
+msgid "Finance category"
+msgstr "Οικονομικές κατηγορία"
+
+msgid "No projects"
+msgstr "Δεν υπάρχουν έργα"
+
+msgid "Bind to finances"
+msgstr "Εκχώρηση χρηματοδοτικό πρόγραμμα"
+
+msgid "Preview"
+msgstr "Θέα"
+
+msgid "Download"
+msgstr "Λήψη"
+
+msgid "Save to my cloud"
+msgstr "Αντιγράψτε το αποθετήριο"
+
+msgid "File successfully saved to your cloud"
+msgstr "Αρχείο που είναι αποθηκευμένο με επιτυχία στο δικό σας repository"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Αποθηκεύστε αυτό το αρχείο στο δικό σας repository;"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Επιλέξτε μια κατηγορία άρθρο"
+
+msgid "Type something"
+msgstr "Γράψτε κάτι"
+
+msgid "Founded users"
+msgstr "Βρέθηκαν χρήστες"
+
+msgid "Founded articles"
+msgstr "Βρέθηκε το άρθρο"
+
+msgid "Founded groups"
+msgstr "Ιδρύθηκε ομάδα"
+
+msgid "What are your skills?"
+msgstr "Ποιες είναι οι δεξιότητές σας;"
+
+msgid "Select at least 2 interests"
+msgstr "Επιλέξτε τουλάχιστον 2 ενδιαφέροντος"
+
+msgid "Need more interests"
+msgstr "Δεν υπάρχουν αρκετά ενδιαφέρον επιλεγεί"
+
+msgid "What are you interesting in?"
+msgstr "Τι σας ενδιαφέρει;"
+
+msgid "You have no dialogs"
+msgstr "Δεν έχετε διάλογοι"
+
+msgid "Usage Stats"
+msgstr "Μέλος"
+
+msgid "Founded files"
+msgstr "Αρχεία Βρέθηκαν"
+
+msgid "Big tiles"
+msgstr "Μεγάλα πλακάκια"
+
+msgid "Small tiles"
+msgstr "Μικρές Πλακάκια"
+
+msgid "Table view"
+msgstr "Προβολή πίνακα"
+
+msgid "Root folder"
+msgstr "Ο ριζικός κατάλογος"
+
+msgid "My files"
+msgstr "Τα αρχεία μου"
+
+msgid "Save as draft"
+msgstr "Αποθήκευση ως Σχέδιο"
+
+msgid "Buy More Space"
+msgstr "Αγοράστε περισσότερο χώρο"
+
+msgid "Buy"
+msgstr "Αγορά"
+
+msgid "You have been invited to group as"
+msgstr "Έχετε προσκληθεί στην ομάδα ως"
+
+msgid "User wants to join your group"
+msgstr "Επιθυμεί να ενταχθεί στην ομάδα σας ο χρήστης"
+
+msgid "Section is coming soon!"
+msgstr "Ενότητα υπό κατασκευή!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Εμφανίσεις τις τελευταίες 24 ώρες:"
+
+msgid "Task was updated"
+msgstr "Το έργο έχει ενημερωθεί"
+
+msgid "Task was closed"
+msgstr "Η πρόκληση έχει κλείσει"
+
+msgid "Task was created"
+msgstr "Το έργο αυτό που"
+
+msgid "Current balance"
+msgstr "Τρέχον υπόλοιπο"
+
+msgid "Add funds"
+msgstr "Προσθήκη"
+
+msgid "Pay"
+msgstr "Ταμείο"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Έχετε υπερβεί τον αριθμό των προσπαθειών σύνδεσης. Μπορείτε μπλοκάρονται για 15 λεπτά"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Παρακαλούμε να επιβεβαιώσετε την e-mail. Η επιστολή σας αποσταλεί με το ταχυδρομείο."
+
+msgid "Resend confirmation email"
+msgstr "Αποστολή ξανά επιβεβαίωση"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB ανά μήνα"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Οδηγήστε 10 GB ανά έτος"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Δίσκος 100 GB κάθε χρόνο"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Δίσκο 1TB μηνιαία"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Οδηγήστε 1 κάθε χρόνο από φυματίωση"
+
+msgid "Project members monthly"
+msgstr "Οι συμμετέχοντες του έργου σε μηνιαία βάση"
+
+msgid "Project members yearly"
+msgstr "Οι συμμετέχοντες στο έργο ετησίως"
+
+msgid "Member(s) yearly"
+msgstr "Μέλος (ες) ετησίως"
+
+msgid "Member(s) monthly"
+msgstr "Μέλος (ες) σε μηνιαία βάση"
+
+msgid "Authorized"
+msgstr "Εξουσιοδοτημένος"
+
+msgid "Authorization expired"
+msgstr "Εξουσιοδότηση λήξει"
+
+msgid "Processor declined"
+msgstr "Απορρίφθηκε σύστημα επεξεργασίας"
+
+msgid "Gateway rejected"
+msgstr "Απορρίφθηκε πύλη πληρωμής"
+
+msgid "Failed"
+msgstr "Σφάλμα"
+
+msgid "Voided"
+msgstr "Ακυρώσει"
+
+msgid "Submitted for settlement"
+msgstr "Εστάλη για να εγγραφείτε"
+
+msgid "Settlement declined"
+msgstr "Εγγραφή έχει απορριφθεί"
+
+msgid "Settlement pending"
+msgstr "Εκκρεμεί η εγγραφή"
+
+msgid "Verified"
+msgstr "Δανεισμός"
+
+msgid "Pending"
+msgstr "Εκκρεμεί"
+
+msgid "Active"
+msgstr "Ενεργό"
+
+msgid "Past Due"
+msgstr "Έληξε"
+
+msgid "Expired"
+msgstr "Τελικό"
+
+msgid "Marketer"
+msgstr "Έμπορος"
+
+msgid "India"
+msgstr "Ινδία"
+
+msgid "Malaysia"
+msgstr "Μαλαισία"
+
+msgid "Thailand"
+msgstr "Ταϊλάνδη"
+
+msgid "South Korea"
+msgstr "Νότια Κορέα"
+
+msgid "Kazakhstan"
+msgstr "Καζακστάν"
+
+msgid "Israel"
+msgstr "Ισραήλ"
+
+msgid "Ukraine"
+msgstr "Ουκρανία"
+
+msgid "Belarus"
+msgstr "Λευκορωσία"
+
+msgid "Bulgaria"
+msgstr "Βουλγαρία"
+
+msgid "Turkey"
+msgstr "Τουρκία"
+
+msgid "Armenia"
+msgstr "Αρμενία"
+
+msgid "Serbia"
+msgstr "Σερβία"
+
+msgid "Austria"
+msgstr "Αυστρία"
+
+msgid "Poland"
+msgstr "Πολωνία"
+
+msgid "Germany"
+msgstr "Γερμανία"
+
+msgid "Italy"
+msgstr "Ιταλία"
+
+msgid "Netherlands"
+msgstr "Ολλανδία"
+
+msgid "Ireland"
+msgstr "Ιρλανδία"
+
+msgid "United Kingdom"
+msgstr "Βρετανία"
+
+msgid "Portugal"
+msgstr "Πορτογαλία"
+
+msgid "Norway"
+msgstr "Νορβηγία"
+
+msgid "United States"
+msgstr "Ηνωμένες Πολιτείες"
+
+msgid "Canada"
+msgstr "Καναδάς"
+
+msgid "Brazil"
+msgstr "Βραζιλία"
+
+msgid "Saudi Arabia"
+msgstr "Σαουδική Αραβία"
+
+msgid "Canada"
+msgstr "Αίγυπτος"
+
+msgid "Russia"
+msgstr "Ρωσία"
+
+msgid "Hong Kong"
+msgstr "Χονγκ Κονγκ"
+
+msgid "There was no any transactions yet."
+msgstr "Αυτή τη στιγμή, δεν υπήρχε μια ενιαία συναλλαγή"
+
+msgid "Fulfill your dream"
+msgstr "Ολοκληρώστε το όνειρο"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Γίνετε μέλος της κοινότητάς μας δημιουργικών ατόμων από όλο τον κόσμο."
+
+msgid "Create and Collaborate"
+msgstr "Δημιουργία και συνεργάζονται"
+
+msgid "Start Dreaming"
+msgstr "Ολοκληρώστε το όνειρο ΤΩΡΑ"
+
+msgid "or"
+msgstr "ή"
+
+msgid "Our mission:"
+msgstr "Η αποστολή μας:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Για να ενώσει δημιουργικούς και δραστήριους ανθρώπους να εφαρμόσουν τις ιδέες από την απλή και της ζήτησης σε απίστευτα και φανταστικά, που μπορούν να διαμορφώσουν το μέλλον μας."
+
+msgid "What is Konstruktor?"
+msgstr "Τι είναι Konstruktor;"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - είναι ένα μέρος του πραγματική ζωή μας, η οποία διευκολύνει και απλουστεύει σημαντικά"
+
+msgid "*business processes"
+msgstr "* επιχειρηματικών διαδικασιών"
+
+msgid "*materialization of creative ideas"
+msgstr "* υλοποίηση των δημιουργικών ιδεών"
+
+msgid "*constructive cooperation"
+msgstr "* εποικοδομητική συνεργασία"
+
+msgid "Make your dream!"
+msgstr "Κάντε το όνειρό σας!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "Διευθύνων Σύμβουλος"
+
+msgid "Yuriy Chekalenko"
+msgstr "Γιούρι Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Ειδικός Σύμβουλος"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Διευθυντής Ανάπτυξης Λογισμικού"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Σβετλάνα Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Ανώτερος δικηγόρος"
+
+msgid "Yuriy Himka"
+msgstr "Γιούρι Himka"
+
+msgid "Designer"
+msgstr "Σχεδιαστής"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Κάνοντας κλικ στο κουμπί \"Next\", αποδέχεστε και συμφωνείτε με τους Όρους και Προϋποθέσεις μας, και αναγνωρίζετε ότι έχετε διαβάσει την Πολιτική Απορρήτου μας."
+
+msgid "Incorrect login or password."
+msgstr "Λάθος στοιχεία ή τον κωδικό πρόσβασης."
+
+msgid "Password must be at least 6 characters"
+msgstr "Ο κωδικός πρόσβασης πρέπει να είναι τουλάχιστον 6 χαρακτήρες"
+
+msgid "January"
+msgstr "Ιανουάριος"
+
+msgid "February"
+msgstr "Φεβρουάριος"
+
+msgid "March"
+msgstr "Μάρτιος"
+
+msgid "April"
+msgstr "Απρίλιος"
+
+msgid "May"
+msgstr "Μάιος"
+
+msgid "June"
+msgstr "Ιούνιος"
+
+msgid "July"
+msgstr "Ιούλιος"
+
+msgid "August"
+msgstr "Αύγουστος"
+
+msgid "September"
+msgstr "Σεπτέμβριος"
+
+msgid "October"
+msgstr "Οκτώβριος"
+
+msgid "November"
+msgstr "Νοέμβριος"
+
+msgid "December"
+msgstr "Δεκέμβριος"
+
+msgid "Chat"
+msgstr "Κουβέντα"
+
+msgid "Files"
+msgstr "Αρχεία"
+
+msgid "Statistic"
+msgstr "Στατιστικός"
+
+msgid "Support"
+msgstr "Υποστήριξη"
+
+msgid "Exit"
+msgstr "Έξοδος"
+
+msgid "Brest"
+msgstr "Βρέστη"
+
+msgid "Belarus"
+msgstr "Λευκορωσία"
+
+msgid "Marketing specialist"
+msgstr "Ειδικός μάρκετινγκ"
+
+msgid "Administrator"
+msgstr "Διαχειριστής"
+
+msgid "Shared with me"
+msgstr "Από κοινού με εμένα"
+
+msgid "File Sharing"
+msgstr "Κοινή χρήση αρχείων"
+
+msgid "Provide access by link"
+msgstr "Παροχή πρόσβασης από σύνδεσμο"
+
+msgid "Provide Individual access"
+msgstr "Παρέχουν πρόσβαση"
+
+msgid "Provide edit access"
+msgstr "Παροχή πρόσβασης Επεξεργασία"
+
+msgid "Share"
+msgstr "Μερίδιο"
+
+msgid "Files will be available only for selected users"
+msgstr "Τα αρχεία θα είναι διαθέσιμα μόνο για επιλεγμένους χρήστες"
+
+msgid "With this link everyone can access to the files"
+msgstr "Με αυτό συνδέεται ο καθένας μπορεί να έχει πρόσβαση στα αρχεία"
+
+msgid "Search users, groups, articles..."
+msgstr "Αναζήτηση χρηστών, ομάδες, άρθρα ..."
+
+msgid "My Group"
+msgstr "Η ομάδα μου"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Τρ"
+
+msgid "We"
+msgstr "Εμείς"
+
+msgid "Th"
+msgstr "Θ"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Σα"
+
+msgid "Su"
+msgstr "Σου"
+
+msgid "The file is not selected"
+msgstr "Το αρχείο δεν έχει επιλεγεί"
+
+msgid "Set aside"
+msgstr "Αφήνω στην άκρη"
+
+msgid "Event time"
+msgstr "Εκδήλωση χρόνο"
+
+msgid "Work"
+msgstr "Δουλειά"
+
+msgid "Personal"
+msgstr "Προσωπικός"
+
+msgid "Time spent for work:"
+msgstr "Ο χρόνος που δαπανάται για την εργασία:"
+
+msgid "Personal time spent:"
+msgstr "Προσωπικά χρόνος:"
+
+msgid "Present"
+msgstr "Παρόν"
+
+msgid "Common"
+msgstr "Κοινός"
+
+msgid "Sport"
+msgstr "Άθλημα"
+
+msgid "Entertainment"
+msgstr "Ψυχαγωγία"
+
+msgid "Select:"
+msgstr "Επιλέγω:"
+
+msgid "Invalid username or password."
+msgstr "Μη έγκυρο όνομα ή κωδικός."
+
+msgid "Try again."
+msgstr "Προσπάθησε ξανά."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "ΤΙ ΣΑΣ ΕΝΔΙΑΦΈΡΕΙ?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Επιλέξτε τουλάχιστον 2 δεξιότητες: παραμένει 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Επιλέξτε τουλάχιστον 2 δεξιότητες: παραμένει 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Επιλέξτε τουλάχιστον 2 δεξιότητες: ερείπια"
+
+msgid "Active life"
+msgstr "Ενεργό ζωή"
+
+msgid "Arts and culture"
+msgstr "Τέχνες και πολιτισμός"
+
+msgid "Business"
+msgstr "Επιχείρηση"
+
+msgid "Cinema"
+msgstr "Σινεμά"
+
+msgid "Communications"
+msgstr "Διαβιβάσεις"
+
+msgid "Construction and repair"
+msgstr "Κατασκευή και επισκευή"
+
+msgid "Cooking"
+msgstr "Μαγείρεμα"
+
+msgid "Education"
+msgstr "Εκπαίδευση"
+
+msgid "Electronics"
+msgstr "Ηλεκτρονική"
+
+msgid "Finances"
+msgstr "Οικονομικά"
+
+msgid "Graphics and design"
+msgstr "Γραφικά και σχεδιασμός"
+
+msgid "Health"
+msgstr "Υγεία"
+
+msgid "Home and family"
+msgstr "Σπίτι και την οικογένεια"
+
+msgid "Humor"
+msgstr "Χιούμορ"
+
+msgid "IT"
+msgstr "ΤΟ"
+
+msgid "Industry"
+msgstr "Βιομηχανία"
+
+msgid "Insurance"
+msgstr "Ασφάλιση"
+
+msgid "Literature"
+msgstr "Βιβλιογραφία"
+
+msgid "Mobile communications and internet"
+msgstr "Οι κινητές επικοινωνίες και το Διαδίκτυο"
+
+msgid "News and Media"
+msgstr "Ειδήσεις και ΜΜΕ"
+
+msgid "Pets"
+msgstr "Κατοικίδια"
+
+msgid "Products and service"
+msgstr "Προϊόντα και υπηρεσίες"
+
+msgid "Real Estate"
+msgstr "Ακίνητα"
+
+msgid "Religion"
+msgstr "Θρησκεία"
+
+msgid "Science and techs"
+msgstr "Επιστήμη και τεχνικοί"
+
+msgid "Security"
+msgstr "Ασφάλεια"
+
+msgid "Society"
+msgstr "Κοινωνία"
+
+msgid "Television"
+msgstr "Τηλεόραση"
+
+msgid "Travel"
+msgstr "Ταξίδι"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Αργεντίνη"
+
+msgid "Australia"
+msgstr "Αυστραλία"
+
+msgid "Austria"
+msgstr "Αυστρία"
+
+msgid "Belarus"
+msgstr "Λευκορωσία"
+
+msgid "Belgium"
+msgstr "Βέλγιο"
+
+msgid "Brazil"
+msgstr "Βραζιλία"
+
+msgid "Bulgaria"
+msgstr "Βουλγαρία"
+
+msgid "Canada"
+msgstr "Καναδάς"
+
+msgid "Chile"
+msgstr "χιλή"
+
+msgid "Denmark"
+msgstr "Δανία"
+
+msgid "France"
+msgstr "Γαλλία"
+
+msgid "Germany"
+msgstr "Γερμανία"
+
+msgid "Greece"
+msgstr "Ελλάδα"
+
+msgid "Hungary"
+msgstr "Ουγγαρία"
+
+msgid "Iceland"
+msgstr "Ισλανδία"
+
+msgid "Ireland"
+msgstr "Ιρλανδία"
+
+msgid "Israel"
+msgstr "Ισραήλ"
+
+msgid "Italy"
+msgstr "Ιταλία"
+
+msgid "Japan"
+msgstr "Ιαπωνία"
+
+msgid "Mexico"
+msgstr "Μεξικό"
+
+msgid "Netherlands"
+msgstr "Ολλανδία"
+
+msgid "New Zealand"
+msgstr "Νέα Ζηλανδία"
+
+msgid "Norway"
+msgstr "Νορβηγία"
+
+msgid "Poland"
+msgstr "Πολωνία"
+
+msgid "Portugal"
+msgstr "Πορτογαλία"
+
+msgid "Russia"
+msgstr "Ρωσία"
+
+msgid "Slovakia"
+msgstr "Σλοβακία"
+
+msgid "South Africa"
+msgstr "Νότια Αφρική"
+
+msgid "South Korea"
+msgstr "Νότια Κορέα"
+
+msgid "Spain"
+msgstr "Ισπανία"
+
+msgid "Sweden"
+msgstr "Σουηδία"
+
+msgid "Switzerland"
+msgstr "Ελβετία"
+
+msgid "Turkey"
+msgstr "Τουρκία"
+
+msgid "Ukraine"
+msgstr "Ουκρανία"
+
+msgid "United Arab Emirates"
+msgstr "Ηνωμένα Αραβικά Εμιράτα"
+
+msgid "United Kingdom"
+msgstr "Ηνωμένο Βασίλειο"
+
+msgid "United States"
+msgstr "Ηνωμένες Πολιτείες"
+
+msgid "achievements"
+msgstr "επιτεύγματα"
+
+msgid "Investment management"
+msgstr "Διαχείριση επενδύσεων"
+
+msgid "Select..."
+msgstr "Επιλέγω..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "ΔΙΑΧΕΙΡΙΣΗΣ ΕΠΕΝΔΥΣΕΩΝ"
+
+msgid "Investors list"
+msgstr "Κατάλογος Επενδυτές"
+
+msgid "My investments"
+msgstr "Επενδύσεις μου"
+
+msgid "Create date"
+msgstr "Δημιουργήστε ημερομηνία"
+
+msgid "Author of the project"
+msgstr "Συγγραφέας του έργου"
+
+msgid "Date and time"
+msgstr "Ημερομηνία και ώρα"
+
+msgid "Status"
+msgstr "Κατάσταση"
+
+msgid "NEXT"
+msgstr "ΕΠΌΜΕΝΟΣ"
+
+msgid "Next"
+msgstr "Επόμενος"
+
+msgid "Apply"
+msgstr "Εφαρμόζω"
+
+msgid "Kazakhstan"
+msgstr "Καζακστάν"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Χονγκ Κονγκ"
+
+msgid "Science"
+msgstr "Επιστήμη"
+
+msgid "Architecture"
+msgstr "Αρχιτεκτονική"
+
+msgid "Photography"
+msgstr "Φωτογραφία"
+
+msgid "Designer"
+msgstr "Σχεδιαστής"
+
+msgid "IT specialist"
+msgstr "Ειδικός σε θέματα πληροφορικής"
+
+msgid "Agronomist"
+msgstr "Αγρονόμος"
+
+msgid "Architect"
+msgstr "Αρχιτέκτων"
+
+msgid "Lawyer"
+msgstr "Δικηγόρος"
+
+msgid "Writer"
+msgstr "Συγγραφέας"
+
+msgid "Doctor"
+msgstr "Γιατρός"
+
+msgid "Scientist"
+msgstr "Επιστήμονας"
+
+msgid "Marketer"
+msgstr "Έμπορος"
+
+msgid "Teacher"
+msgstr "Δάσκαλος"
+
+msgid "Cook"
+msgstr "Μάγειρας"
+
+msgid "Artist"
+msgstr "Καλλιτέχνης"
+
+msgid "Photographer"
+msgstr "Φωτογράφος"
+
+msgid "Ecologist"
+msgstr "Οικολόγος"
+
+msgid "Economist"
+msgstr "Οικονομολόγος"
+
+msgid "Logistician"
+msgstr "Τεχνικός"
+
+msgid "Journalist"
+msgstr "Δημοσιογράφος"
+
+msgid "Builder"
+msgstr "Οικοδόμος"
+
+msgid "These users may be interesting for you"
+msgstr "Αυτοί οι χρήστες μπορεί να είναι ενδιαφέρουσα για σας"
+
+msgid "These articles may be interesting for you"
+msgstr "Τα άρθρα αυτά μπορεί να είναι ενδιαφέρουσα για σας"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Μπορείτε προσχώρησε η ομάδα αυτή Аdministrator"
+
+msgid "articles written."
+msgstr "άρθρα που έχουν γραφτεί."
+
+msgid "groups created."
+msgstr "ομάδες που έχουν δημιουργηθεί."
+
+msgid "Creation"
+msgstr "Δημιουργία"
+
+msgid "Build a dream"
+msgstr "Φτιάξτε ένα όνειρο"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Διαβάστε περισσότερα ενδιαφέροντα άρθρα - πάει δωρεάν εγγραφή"
+

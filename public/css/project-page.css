@@ -1,0 +1,424 @@
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both; }
+
+.project-page .header-project-page {
+  padding-top: 18px;
+  margin-bottom: 10px; }
+  .project-page .header-project-page a {
+    text-decoration: underline; }
+    .project-page .header-project-page a:hover {
+      text-decoration: none; }
+  .project-page .header-project-page .project-page-title {
+    color: #313131;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 900; }
+  .project-page .header-project-page .title-button {
+    padding-top: 12px;
+    text-align: right; }
+    .project-page .header-project-page .title-button .btn-default {
+      color: #616161;
+      margin: 0 0 5px 10px;
+      vertical-align: top;
+      text-decoration: none; }
+      .project-page .header-project-page .title-button .btn-default .glyphicons {
+        margin: -3px -5px 0 0; }
+      .project-page .header-project-page .title-button .btn-default.wrench {
+        margin-left: 15px; }
+.project-page .description-project-page {
+  display: table;
+  width: 100%; }
+  .project-page .description-project-page .text-description {
+    padding: 0; }
+    .project-page .description-project-page .text-description p {
+      font-size: 13px;
+      margin-bottom: 15px;
+      line-height: 20px; }
+  .project-page .description-project-page .deadline-date {
+    text-align: right;
+    color: #313131; }
+    .project-page .description-project-page .deadline-date .date {
+      position: relative;
+      display: inline-block;
+      font-size: 15px;
+      top: -10px; }
+      .project-page .description-project-page .deadline-date .date .input-calendar {
+        display: inline-block; }
+        .project-page .description-project-page .deadline-date .date .input-calendar input {
+          border: none;
+          font-size: 15px;
+          cursor: pointer;
+          width: 110px; }
+    .project-page .description-project-page .deadline-date .glyphicons {
+      margin-top: -5px;
+      font-size: 16px; }
+.project-page .project-timeline {
+  margin-bottom: 45px; }
+  .project-page .project-timeline .project-timeline-list {
+    padding: 0; }
+  .project-page .project-timeline .title-list {
+    color: #313131;
+    font-family: "Roboto";
+    margin-bottom: 15px;
+    padding: 0 15px;
+    font-size: 16px;
+    font-weight: 500; }
+    .project-page .project-timeline .title-list .glyphicons {
+      margin-top: -7px;
+      font-size: 18px; }
+  .project-page .project-timeline .list-timeline li {
+    margin-bottom: 7px;
+    padding: 3px 0; }
+    .project-page .project-timeline .list-timeline li .time {
+      margin-bottom: 5px; }
+    .project-page .project-timeline .list-timeline li .timeline-text .user-link {
+      color: #313131;
+      text-decoration: none; }
+      .project-page .project-timeline .list-timeline li .timeline-text .user-link:hover {
+        text-decoration: underline; }
+    .project-page .project-timeline .list-timeline li .timeline-text a {
+      text-decoration: underline; }
+      .project-page .project-timeline .list-timeline li .timeline-text a:hover {
+        text-decoration: none; }
+    .project-page .project-timeline .list-timeline li .timeline-text .user-avatar {
+      display: inline-block;
+      height: 27px;
+      width: 25px;
+      border-bottom: 2px solid transparent;
+      margin: -3px 10px 0 0;
+      overflow: hidden;
+      text-align: center;
+      padding: 0;
+      float: left; }
+      .project-page .project-timeline .list-timeline li .timeline-text .user-avatar.rate-10 {
+        border-color: #23b5ae; }
+      .project-page .project-timeline .list-timeline li .timeline-text .user-avatar.rate-0 {
+        border-color: #ff6363; }
+      .project-page .project-timeline .list-timeline li .timeline-text .user-avatar img {
+        display: block;
+        min-height: 25px;
+        min-width: 25px; }
+.project-page .under-project .new-under-project {
+  margin-bottom: 20px; }
+.project-page .under-project .under-project-cell {
+  margin-bottom: 23px; }
+  .project-page .under-project .under-project-cell .cell-title {
+    margin-bottom: 14px; }
+    .project-page .under-project .under-project-cell .cell-title .title-under-project {
+      padding: 0;
+      color: #313131;
+      font-family: "Roboto";
+      font-size: 20px;
+      font-weight: 500; }
+    .project-page .under-project .under-project-cell .cell-title .sub-title {
+      color: #818181;
+      font-size: 11px;
+      padding: 0; }
+      .project-page .under-project .under-project-cell .cell-title .sub-title .sub-title-label {
+        padding: 9px 0 0 0; }
+        .project-page .under-project .under-project-cell .cell-title .sub-title .sub-title-label .glyphicons {
+          margin-top: -3px; }
+  .project-page .under-project .under-project-cell .cell-list li {
+    margin-bottom: 7px; }
+    .project-page .under-project .under-project-cell .cell-list li.end-under-project .name a {
+      color: #FF6363; }
+    .project-page .under-project .under-project-cell .cell-list li .name {
+      padding: 0;
+      margin-bottom: 10px; }
+      .project-page .under-project .under-project-cell .cell-list li .name a {
+        text-decoration: underline; }
+        .project-page .under-project .under-project-cell .cell-list li .name a:hover {
+          text-decoration: none; }
+    .project-page .under-project .under-project-cell .cell-list li .description {
+      padding: 0; }
+      .project-page .under-project .under-project-cell .cell-list li .description .name-user {
+        padding: 0; }
+        .project-page .under-project .under-project-cell .cell-list li .description .name-user .user-avatar {
+          display: inline-block;
+          height: 27px;
+          width: 25px;
+          border-bottom: 2px solid transparent;
+          margin: -1px 10px 0 0;
+          text-align: center;
+          padding: 0;
+          float: left; }
+          .project-page .under-project .under-project-cell .cell-list li .description .name-user .user-avatar.rate-10 {
+            border-color: #23b5ae; }
+          .project-page .under-project .under-project-cell .cell-list li .description .name-user .user-avatar.rate-0 {
+            border-color: #ff6363; }
+          .project-page .under-project .under-project-cell .cell-list li .description .name-user .user-avatar img {
+            display: block;
+            min-height: 25px;
+            min-width: 25px; }
+        .project-page .under-project .under-project-cell .cell-list li .description .name-user a {
+          color: #313131;
+          text-decoration: none; }
+          .project-page .under-project .under-project-cell .cell-list li .description .name-user a:hover {
+            text-decoration: underline; }
+      .project-page .under-project .under-project-cell .cell-list li .description .deadline {
+        padding: 0; }
+  .project-page .under-project .under-project-cell .new-task {
+    margin-bottom: 14px; }
+    .project-page .under-project .under-project-cell .new-task a {
+      color: #616161;
+      text-decoration: none; }
+      .project-page .under-project .under-project-cell .new-task a:focus {
+        outline: none; }
+      .project-page .under-project .under-project-cell .new-task a .btn-default {
+        color: #616161;
+        font-size: 17px;
+        margin: -6px 10px 0 0;
+        padding: 3px 8px;
+        font-weight: 700; }
+        .project-page .under-project .under-project-cell .new-task a .btn-default .glyphicons {
+          margin: -10px -6px 0 0; }
+      .project-page .under-project .under-project-cell .new-task a:hover {
+        color: #22b5ae; }
+        .project-page .under-project .under-project-cell .new-task a:hover .btn-default {
+          background: #22b5ae;
+          border-color: #22b5ae;
+          color: #fff !important; }
+  .project-page .under-project .under-project-cell .end-under-project-list .title-end-under-project {
+    margin-bottom: 25px;
+    font-size: 15px;
+    color: #313131; }
+    .project-page .under-project .under-project-cell .end-under-project-list .title-end-under-project span {
+      border-bottom: 1px dotted #d0d0d0;
+      cursor: pointer; }
+      .project-page .under-project .under-project-cell .end-under-project-list .title-end-under-project span:hover {
+        border-color: transparent; }
+  .project-page .under-project .under-project-cell .end-under-project-list .end-under-project-block {
+    display: none; }
+.project-page .descution-project-page .deadline-date {
+  text-align: left;
+  margin-bottom: 35px; }
+  .project-page .descution-project-page .deadline-date .date {
+    display: inline-block;
+    font-size: 15px; }
+  .project-page .descution-project-page .deadline-date .glyphicons {
+    margin-top: -5px;
+    font-size: 16px; }
+.project-page .descution-users .descution-users-list {
+  margin-bottom: 28px; }
+  .project-page .descution-users .descution-users-list li {
+    margin-bottom: 10px; }
+    .project-page .descution-users .descution-users-list li .user-rights {
+      color: #616161;
+      font-size: 15px;
+      padding-left: 0; }
+    .project-page .descution-users .descution-users-list li .user-name {
+      padding-left: 0; }
+      .project-page .descution-users .descution-users-list li .user-name .user-avatar {
+        display: inline-block;
+        height: 27px;
+        width: 25px;
+        border-bottom: 2px solid transparent;
+        margin: -0 10px 0 0;
+        text-align: center;
+        padding: 0;
+        overflow: hidden;
+        float: left; }
+        .project-page .descution-users .descution-users-list li .user-name .user-avatar.rate-10 {
+          border-color: #23b5ae; }
+        .project-page .descution-users .descution-users-list li .user-name .user-avatar.rate-0 {
+          border-color: #ff6363; }
+        .project-page .descution-users .descution-users-list li .user-name .user-avatar img {
+          display: block;
+          min-height: 25px;
+          min-width: 25px; }
+      .project-page .descution-users .descution-users-list li .user-name a {
+        color: #313131;
+        text-decoration: none;
+        font-size: 15px; }
+        .project-page .descution-users .descution-users-list li .user-name a:hover {
+          text-decoration: underline; }
+.project-page .new-descution {
+  margin-bottom: 34px; }
+  .project-page .new-descution .user-avatar-box {
+    padding-left: 0;
+    max-width: 70px; }
+    .project-page .new-descution .user-avatar-box .user-avatar {
+      display: inline-block;
+      border-bottom: 2px solid transparent;
+      height: 52px;
+      width: 50px;
+      padding: 0;
+      overflow: hidden;
+      text-align: center; }
+      .project-page .new-descution .user-avatar-box .user-avatar.rate-10 {
+        border-color: #23b5ae; }
+      .project-page .new-descution .user-avatar-box .user-avatar.rate-0 {
+        border-color: #ff6363; }
+      .project-page .new-descution .user-avatar-box .user-avatar img {
+        width: 100%;
+        display: block;
+        max-width: 50px;
+        min-height: 50px; }
+  .project-page .new-descution .user-new-descution-text {
+    float: left; }
+    .project-page .new-descution .user-new-descution-text fieldset {
+      position: relative; }
+    .project-page .new-descution .user-new-descution-text label {
+      display: block;
+      color: #818181;
+      font-size: 11px;
+      font-weight: 400;
+      margin-top: -2px; }
+    .project-page .new-descution .user-new-descution-text textarea {
+      color: #313131;
+      font-family: "Open Sans";
+      border: none;
+      border-bottom: 2px solid #eeeeee;
+      border-radius: 0;
+      font-size: 15px;
+      font-weight: 400;
+      overflow-y: hidden;
+      padding: 10px 40px 10px 0;
+      width: 100%;
+      resize: none; }
+    .project-page .new-descution .user-new-descution-text .message-submit {
+      position: absolute;
+      height: 31px;
+      width: 31px;
+      background: url(../img/buttone.png) no-repeat 0 0;
+      right: 0px;
+      top: 36px;
+      border: none; }
+    .project-page .new-descution .user-new-descution-text .bottom-textarea {
+      padding: 15px 0; }
+    .project-page .new-descution .user-new-descution-text .upload-box-button {
+      display: inline-block;
+      float: left; }
+      .project-page .new-descution .user-new-descution-text .upload-box-button .btn-default {
+        font-size: 14px;
+        padding: 5px 3px 3px 7px; }
+        .project-page .new-descution .user-new-descution-text .upload-box-button .btn-default .halflings {
+          margin-top: -7px; }
+    .project-page .new-descution .user-new-descution-text .enter-massage-label {
+      display: inline-block;
+      padding: 5px 0 0;
+      color: #AEAEAE;
+      font-size: 11px;
+      font-weight: 400;
+      float: right; }
+.project-page .descution-massages {
+  padding: 0; }
+  .project-page .descution-massages .descution-massages-title {
+    color: #313131;
+    font-family: "Roboto";
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: 500; }
+  .project-page .descution-massages .descution-massages-list .descution-massages-cell {
+    padding: 0;
+    margin: 0 0 23px; }
+    .project-page .descution-massages .descution-massages-list .descution-massages-cell .user-avatar {
+      padding: 0;
+      max-width: 70px; }
+      .project-page .descution-massages .descution-massages-list .descution-massages-cell .user-avatar a {
+        display: inline-block;
+        border-bottom: 2px solid transparent;
+        height: 52px;
+        width: 50px;
+        overflow: hidden;
+        text-align: center; }
+        .project-page .descution-massages .descution-massages-list .descution-massages-cell .user-avatar a.rate-10 {
+          border-color: #23b5ae; }
+        .project-page .descution-massages .descution-massages-list .descution-massages-cell .user-avatar a.rate-0 {
+          border-color: #ff6363; }
+        .project-page .descution-massages .descution-massages-list .descution-massages-cell .user-avatar a img {
+          width: 100%;
+          display: block;
+          max-width: 50px;
+          min-height: 50px; }
+    .project-page .descution-massages .descution-massages-list .descution-massages-cell .massages-cont {
+      padding: 0; }
+      .project-page .descution-massages .descution-massages-list .descution-massages-cell .massages-cont .massages-cont-files {
+        padding-bottom: 20px; }
+        .project-page .descution-massages .descution-massages-list .descution-massages-cell .massages-cont .massages-cont-files .images-file a {
+          float: left; }
+          .project-page .descution-massages .descution-massages-list .descution-massages-cell .massages-cont .massages-cont-files .images-file a img {
+            max-width: 84px;
+            margin: 0 5px 10px; }
+        .project-page .descution-massages .descution-massages-list .descution-massages-cell .massages-cont .massages-cont-files .document-file a {
+          text-decoration: underline;
+          line-height: 1; }
+          .project-page .descution-massages .descution-massages-list .descution-massages-cell .massages-cont .massages-cont-files .document-file a:hover {
+            text-decoration: none; }
+        .project-page .descution-massages .descution-massages-list .descution-massages-cell .massages-cont .massages-cont-files .document-file .file-type {
+          margin: 0 5px 10px;
+          max-width: 95px;
+          float: left; }
+        .project-page .descution-massages .descution-massages-list .descution-massages-cell .massages-cont .massages-cont-files .document-file .pdf-file figure {
+          font-size: 24px;
+          color: #FF5454; }
+      .project-page .descution-massages .descution-massages-list .descution-massages-cell .massages-cont .massage-user p {
+        line-height: 24px;
+        margin-bottom: 24px; }
+      .project-page .descution-massages .descution-massages-list .descution-massages-cell .massages-cont .massage-date {
+        padding: 0 15px; }
+        .project-page .descution-massages .descution-massages-list .descution-massages-cell .massages-cont .massage-date .massage-date-cont {
+          color: #808080;
+          font-size: 11px;
+          font-weight: 400;
+          padding: 4px 0 16px;
+          border-bottom: 1px solid #eeeeee; }
+
+.popup-block {
+  display: none;
+  position: absolute;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  box-shadow: 0 3px 13px rgba(0, 0, 0, 0.41);
+  border: 1px solid #cccccc;
+  background: #fff;
+  top: 50%;
+  left: 50%;
+  text-align: left;
+  padding: 16px 25px;
+  margin-left: -185px;
+  z-index: 500; }
+  .popup-block.drop-add-sub-project {
+    height: 170px;
+    width: 370px; }
+  .popup-block.drop-add-sub-project-user {
+    height: 550px;
+    width: 370px; }
+  .popup-block .page-menu {
+    margin-bottom: 20px; }
+  .popup-block .close-block {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    color: #C5C5C5;
+    font-size: 15px;
+    cursor: pointer; }
+  .popup-block label {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    font-size: 11px;
+    color: #818181; }
+  .popup-block input, .popup-block textarea {
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #eeeeee;
+    margin-bottom: 15px;
+    padding: 11px 0 12px;
+    color: #313131;
+    font-family: "Roboto";
+    font-size: 17px; }
+  .popup-block textarea {
+    overflow-y: hidden;
+    height: 96px;
+    resize: none; }
+  .popup-block .page-menu {
+    margin-top: 10px; }
+  .popup-block .input.select {
+    padding: 15px 0 20px; }
+    .popup-block .input.select .jq-selectbox {
+      width: 317px; }

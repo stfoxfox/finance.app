@@ -1,0 +1,45 @@
+/* bootstrap dropdown customization */
+
+.dropdown-toggle .caret {
+    background: url('../img/arrows.png') no-repeat 0 0;
+    background-size: cover;
+    border: none;
+    height: 8px;
+    width: 11px;
+    margin: -2px 0 0 10px;
+}
+
+.open .dropdown-toggle .caret,
+.dropdown-toggle:active .caret {
+    background-position: 0 -8px;
+}
+
+.dropdown .btn-default:hover {
+    color: #616161
+}
+
+.dropdown.open .btn-default,
+.dropdown .btn-default:active {
+    color: #fff;
+}
+
+.dropdown-menu {
+    padding: 0;
+}
+
+.dropdown-menu li {
+    color: #231F20;
+    min-height: 18px;
+    padding: 5px 10px 6px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.dropdown-menu li.active {
+    background: #22B5AE;
+    color: #fff;
+}
+
+
+/* end bootstrap dropdown customization */

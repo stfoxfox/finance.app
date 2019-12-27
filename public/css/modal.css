@@ -1,0 +1,141 @@
+/* Popup */
+
+.modal {
+    font-family: 'Open Sans';
+    z-index: 200001;
+    background: rgba(0, 0, 0, 0.5)
+}
+
+.modal .outer-modal-dialog {
+    width: 100%;
+    height: 100%;
+    display: table;
+}
+
+.modal .modal-dialog {
+    margin: 0 !important;
+    display: table-cell;
+    width: auto;
+    vertical-align: middle
+}
+
+.modal-open .modal {}
+
+.modal .modal-content {
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    padding: 13px 25px 16px;
+    max-width: 380px;
+    margin: 0 auto;
+}
+
+.modal h4 {
+    color: #313131;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 400;
+    margin: 0 0 20px 0;
+}
+
+.modal .circle_remove {
+    position: absolute;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+}
+
+.modal .form-group {
+    padding-bottom: 6px;
+    margin-bottom: 20px;
+}
+
+.modal .form-group input,
+.modal .form-group textarea,
+.modal .form-group .form-control {
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: normal;
+    /*padding-left: 0; padding-right: 0; */
+}
+
+.modal .dateTime {
+    width: 160px;
+}
+
+.modal .dateTime .form-control {
+    font-family: 'Open Sans';
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.modal textarea {
+    height: 45px;
+}
+
+.modal .jq-selectbox {
+    width: 100%;
+}
+
+.modal .selectBoxLeft .jq-selectbox {
+    width: 105px;
+    margin-right: 10px;
+}
+
+.modal .bankOrders .jq-selectbox {
+    width: 140px;
+}
+
+.modal .summ {
+    position: relative;
+}
+
+.modal .summ .form-control {
+    padding-right: 80px
+}
+
+.modal .summ .jq-selectbox {
+    position: absolute !important;
+    right: 0;
+    top: 25px;
+    width: 58px;
+}
+
+.modal div.btn span {
+    display: none
+}
+
+.modal div.btn.loadBtn span {
+    display: inline
+}
+
+.modal div.btn img {
+    display: inline
+}
+
+.modal div.btn.loadBtn img {
+    display: none
+}
+
+@media (max-width: 767px) {
+    .modal .modal-content {
+        max-width: 360px;
+        padding: 13px 10px 16px;
+    }
+}
+
+
+/* End Popup */
+
+
+
+/*@media (max-width: 1024px) {*/
+    .modal .circle_remove {
+        top: 10px !important;
+        right: 10px !important;
+    }
+    .modal .circle_remove:before {
+        display: block !important;
+        font-size: 21px !important;
+    }
+/*}*/

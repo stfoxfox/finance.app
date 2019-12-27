@@ -1,0 +1,80 @@
+.nav{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.nav > li > a{
+	font-size: 12px;
+	font-family: "Open Sans", sans-serif;
+	font-weight: 600;
+	color: #808996;
+	text-decoration: none;
+}
+
+.nav > li > a:hover{
+	text-decoration: underline;
+}
+
+li.replenish{
+	background-image: url("/img/balance/money_input.png");
+	background-repeat: no-repeat;
+	padding-left: 15px;
+	background-position: 0 2px;
+}
+
+
+li.windrawal{
+	background-image: url("/img/balance/money_output.png");
+	background-repeat: no-repeat;
+	padding-left: 15px;
+	background-position: 0 2px;
+}
+
+#balance_menu .tabs{
+	border-top: 0;
+}
+
+#balance_menu .tabs ul li:last-child{
+	border-right: 0;
+}
+
+#balance_menu .tabs li:first-child,
+#balance_menu .tabs li:first-child a{
+	border-top-left-radius: 10px !important;
+	border-bottom-left-radius: 10px !important;
+}
+
+#balance_menu .tabs li:last-child,
+#balance_menu .tabs li:last-child a{
+	border-top-right-radius: 10px !important;
+	border-bottom-right-radius: 10px !important;
+}
+
+#balance_menu .tabs ul li.link-tab a {
+	color: #666666;
+	display: block;
+	font-size: 12px;
+	font-weight: 700;
+	margin: -4px -10px;
+	padding: 4px 10px;
+	text-decoration: none;
+	height: 52px;
+	position: relative;
+	z-index: 100;
+	border: 0;
+}
+
+#balance_menu .tabs ul li.link-tab.active a{
+	background: #7288d8;
+	color: #fff;
+	line-height: 42px;
+}
+
+#balance_menu .tabs li.active {
+	padding: 4px 10px;
+	vertical-align: middle;
+}
+
+#balance_menu .nav-tabs.nav-justified > li > a{
+	border-radius: 0;
+}

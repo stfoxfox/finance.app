@@ -1,0 +1,3344 @@
+# norsk (Норвежский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: norsk (Норвежский) <support@konstruktor.com>\n"
+"Language: norsk (Норвежский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "brukernavn"
+
+msgid "Invalid username or password, try again"
+msgstr "Feil brukernavn eller passord . Prøv igjen."
+
+msgid "Settings"
+msgstr "innstillinger"
+
+msgid "Home"
+msgstr "hjem"
+
+msgid "You must log in to access this page"
+msgstr "Du må logge inn for å få tilgang til denne siden"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Økten er utløpt. Vær så snill, logge inn på nytt for å utføre denne handlingen"
+
+msgid "Save"
+msgstr "Lagre"
+
+msgid "Head Office"
+msgstr "hovedkontor"
+
+msgid "Address"
+msgstr "adresse"
+
+msgid "Back"
+msgstr "tilbake"
+
+msgid "Apply"
+msgstr "Påfør"
+
+msgid "Upload files…"
+msgstr "Laste opp filer ..."
+
+msgid "Set as main"
+msgstr "Sett som viktigste"
+
+msgid "Delete"
+msgstr "Slett"
+
+msgid "Original image"
+msgstr "Originalbilde"
+
+msgid "Uploaded"
+msgstr "lastet opp"
+
+msgid "File name"
+msgstr "filnavn"
+
+msgid "File size"
+msgstr "filstørrelse"
+
+msgid "Resolution"
+msgstr "oppløsning"
+
+msgid "Enlarge"
+msgstr "forstørre"
+
+msgid "Links"
+msgstr "lenker"
+
+msgid "Original size"
+msgstr "opprinnelig størrelse"
+
+msgid "For editor"
+msgstr "for editor"
+
+msgid "Resize"
+msgstr "endre størrelse"
+
+msgid "Width"
+msgstr "bredde"
+
+msgid "Height"
+msgstr "Høyde"
+
+msgid "Media URL"
+msgstr "Media URL"
+
+msgid "Add record"
+msgstr "Legg rekord"
+
+msgid "Show filter settings"
+msgstr "Vis filterinnstillingene"
+
+msgid "Edit record"
+msgstr "Rediger posten"
+
+msgid "Delete record"
+msgstr "Slett rekord"
+
+msgid "Delete checked records"
+msgstr "Slett sjekket poster"
+
+msgid "Dashboard"
+msgstr "dashbord"
+
+msgid "Password"
+msgstr "passord"
+
+msgid "Remember me"
+msgstr "Husk meg"
+
+msgid "Login"
+msgstr "Logg Inn"
+
+msgid "Clean image cache"
+msgstr "Ren image cache"
+
+msgid "Processing query..."
+msgstr "Processing spørring ..."
+
+msgid "CMS Development"
+msgstr "CMS Development"
+
+msgid "Admin Home Page"
+msgstr "Admin Hjemmeside"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Open side av Front -end i en ny fane"
+
+msgid "Go to Site"
+msgstr "Gå til nettstedet"
+
+msgid "Log out"
+msgstr "logg ut"
+
+msgid "Send"
+msgstr "sende"
+
+msgid "General"
+msgstr "Generelt"
+
+msgid "Title"
+msgstr "Tittel"
+
+msgid "Teaser"
+msgstr "teaser"
+
+msgid "Published"
+msgstr "publisert"
+
+msgid "Featured"
+msgstr "Utvalgt"
+
+msgid "Active"
+msgstr "aktiv"
+
+msgid "Field is mandatory"
+msgstr "Feltet er obligatorisk"
+
+msgid "Sort Order"
+msgstr "Sort Order"
+
+msgid "Upload"
+msgstr "Last opp"
+
+msgid "Loading..."
+msgstr "Laster inn ..."
+
+msgid "Jan"
+msgstr "jan"
+
+msgid "Feb"
+msgstr "februar"
+
+msgid "Mar"
+msgstr "mars"
+
+msgid "Apr"
+msgstr "april"
+
+msgid "May"
+msgstr "mai"
+
+msgid "Jun"
+msgstr "juni"
+
+msgid "Jul"
+msgstr "juli"
+
+msgid "Aug"
+msgstr "august"
+
+msgid "Sep"
+msgstr "september"
+
+msgid "Oct"
+msgstr "oktober"
+
+msgid "Nov"
+msgstr "november"
+
+msgid "Dec"
+msgstr "desember"
+
+msgid "Product already exists in the order"
+msgstr "Produktet finnes allerede i den rekkefølgen"
+
+msgid "Product does not exist"
+msgstr "Produktet finnes ikke"
+
+msgid "Incorrect request"
+msgstr "feilaktig forespørsel"
+
+msgid "Products"
+msgstr "produkter"
+
+msgid "Product types"
+msgstr "Produkttyper"
+
+msgid "Contractors"
+msgstr "entreprenører"
+
+msgid "Contractor"
+msgstr "entreprenør"
+
+msgid "Orders"
+msgstr "bestillinger"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "ny bestilling"
+
+msgid "My orders"
+msgstr "Mine bestillinger"
+
+msgid "Recharge balance"
+msgstr "Recharge balanse"
+
+msgid "Administrator"
+msgstr "administrator"
+
+msgid "Incorrect event ID"
+msgstr "Feilaktig hendelses-ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "edit entreprenør"
+
+msgid "Create contractor"
+msgstr "Lag entreprenør"
+
+msgid "Edit question"
+msgstr "edit spørsmål"
+
+msgid "Create question"
+msgstr "Lag spørsmål"
+
+msgid "Edit order"
+msgstr "edit rekkefølge"
+
+msgid "Create order"
+msgstr "skape orden"
+
+msgid "Edit product"
+msgstr "Rediger produkt"
+
+msgid "Create product"
+msgstr "Lag produkt"
+
+msgid "Edit product type"
+msgstr "Edit produkttype"
+
+msgid "Create product type"
+msgstr "Lag produkttype"
+
+msgid "You have received a file"
+msgstr "Du har mottatt en fil"
+
+msgid "You received a file from"
+msgstr "Du har mottatt en fil fra"
+
+msgid "File has been uploaded"
+msgstr "Filen har blitt lastet opp"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "minimal mengde"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "elementer"
+
+msgid "Remove"
+msgstr "fjerne"
+
+msgid "Contact person"
+msgstr "kontaktperson"
+
+msgid "Email"
+msgstr "E-post"
+
+msgid "Contractor phone"
+msgstr "entreprenør telefon"
+
+msgid "Contractor name"
+msgstr "entreprenør navn"
+
+msgid "Contractor details"
+msgstr "Leverandørens detaljer"
+
+msgid "Order ID"
+msgstr "Bestill ID"
+
+msgid "Sum"
+msgstr "sum"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Velge passende betalingssystem for å lade opp balansen"
+
+msgid "Recharge amount"
+msgstr "Recharge beløp"
+
+msgid "Paid"
+msgstr "betalt"
+
+msgid "Shipped"
+msgstr "fraktet"
+
+msgid "- No products in this order -"
+msgstr "- Ingen produkter i denne rekkefølgen -"
+
+msgid "month"
+msgstr "måned"
+
+msgid "No user found"
+msgstr "Ingen bruker funnet"
+
+msgid "Achievement"
+msgstr "prestasjon"
+
+msgid "Confirmed accomplishments"
+msgstr "bekreftet prestasjoner"
+
+msgid "Remove achievement"
+msgstr "Fjern prestasjon"
+
+msgid "Headquaters"
+msgstr "headquaters"
+
+msgid "Phone"
+msgstr "telefon"
+
+msgid "Site URL and email"
+msgstr "Side URL og e-post"
+
+msgid "Remove address"
+msgstr "Fjern adresse"
+
+msgid "Members"
+msgstr "medlemmer"
+
+msgid "Requires a payment"
+msgstr "Krever betaling"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Ready"
+msgstr "klar"
+
+msgid "Find user..."
+msgstr "Finn bruker ..."
+
+msgid "Order it"
+msgstr "Bestill den"
+
+msgid "Find group..."
+msgstr "Finn gruppe ..."
+
+msgid "Find user or community..."
+msgstr "Finn bruker eller samfunnet ..."
+
+msgid "No item found"
+msgstr "Ingen elementer funnet"
+
+msgid "years"
+msgstr "år"
+
+msgid "Send message"
+msgstr "Send melding"
+
+msgid "Message"
+msgstr "beskjed"
+
+msgid "To send message press Enter"
+msgstr "Hvis du vil sende meldingen trykk Enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Hvis du vil sende meldingen trykk CTRL + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Processing fil (er ) ..."
+
+msgid "Group settings"
+msgstr "Gruppeinnstillinger"
+
+msgid "Create group"
+msgstr "Opprett gruppe"
+
+msgid "Group has been successfully saved"
+msgstr "Gruppen har blitt lagret"
+
+msgid "Group title"
+msgstr "Gruppe tittel"
+
+msgid "Group video"
+msgstr "Gruppe video"
+
+msgid "Description"
+msgstr "Beskrivelse"
+
+msgid "Your role in group"
+msgstr "Din rolle i gruppen"
+
+msgid "Role"
+msgstr "rolle"
+
+msgid "Photo or video gallery"
+msgstr "Foto eller video galleri"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Last opp video"
+
+msgid "Add group address"
+msgstr "Legg gruppeadresse"
+
+msgid "Group articles"
+msgstr "Gruppe artikler"
+
+msgid "No addresses yet"
+msgstr "Ingen adresser ennå"
+
+msgid "Add group achievement"
+msgstr "Legg gruppe prestasjon"
+
+msgid "No achivements yet"
+msgstr "Ingen vi oppnår ennå"
+
+msgid "Are you sure to delete this user"
+msgstr "Er du sikker på at du vil slette denne brukeren"
+
+msgid "Add member"
+msgstr "Legg til medlem"
+
+msgid "Are you sure to delete this record?"
+msgstr "Er du sikker på at du vil slette denne posten ?"
+
+msgid "Join this group"
+msgstr "Bli med i denne gruppen"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Invitasjonen ble sendt til gruppeadministratoren"
+
+msgid "All addresses"
+msgstr "alle adresser"
+
+msgid "Collapse"
+msgstr "kollaps"
+
+msgid "Achievements"
+msgstr "prestasjoner"
+
+msgid "Show more"
+msgstr "Vis mer"
+
+msgid "Team"
+msgstr "lag"
+
+msgid "Projects"
+msgstr "prosjekter"
+
+msgid "New project"
+msgstr "nytt prosjekt"
+
+msgid "Project has not been created yet"
+msgstr "Prosjektet har ikke laget ennå"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "balanse"
+
+msgid "Main page"
+msgstr "hovedside"
+
+msgid "Upload image"
+msgstr "Last opp bilde"
+
+msgid "My time"
+msgstr "min tid"
+
+msgid "Day"
+msgstr "dag"
+
+msgid "Week"
+msgstr "uke"
+
+msgid "Project settings"
+msgstr "Prosjektinnstillinger"
+
+msgid "Create project"
+msgstr "Opprett prosjekt"
+
+msgid "Project has been successfully saved"
+msgstr "Prosjektet er lagret"
+
+msgid "Project name"
+msgstr "prosjektnavn"
+
+msgid "Deadline"
+msgstr "frist"
+
+msgid "Close"
+msgstr "Lukk"
+
+msgid "Manager"
+msgstr "manager"
+
+msgid "Assigned to"
+msgstr "tilordnet"
+
+msgid "Discussion"
+msgstr "diskusjon"
+
+msgid "Task was created"
+msgstr "Oppgaven ble opprettet"
+
+msgid "Task was closed"
+msgstr "Oppgaven ble stengt"
+
+msgid "Go to Group"
+msgstr "Gå til gruppe"
+
+msgid "Closed"
+msgstr "stengt"
+
+msgid "Last updates"
+msgstr "siste oppdateringer"
+
+msgid "Project is closed"
+msgstr "Prosjektet er avsluttet"
+
+msgid "No open tasks"
+msgstr "Ingen åpne oppgaver"
+
+msgid "New task"
+msgstr "ny oppgave"
+
+msgid "Closed tasks"
+msgstr "lukkede oppgaver"
+
+msgid "Add subproject"
+msgstr "Legg delprosjekt"
+
+msgid "Add task"
+msgstr "Legg til oppgave"
+
+msgid "Sun"
+msgstr "søndag"
+
+msgid "Mon"
+msgstr "mandag"
+
+msgid "Tue"
+msgstr "tirsdag"
+
+msgid "Wed"
+msgstr "onsdag"
+
+msgid "Thur"
+msgstr "Torsdag"
+
+msgid "Fri"
+msgstr "fredag"
+
+msgid "Sat"
+msgstr "lørdag"
+
+msgid "Event title"
+msgstr "Hendelses tittel"
+
+msgid "Event description"
+msgstr "Hendelsesbeskrivelse"
+
+msgid "I registered on this site"
+msgstr "Jeg har registrert meg på dette nettstedet"
+
+msgid "Last created groups"
+msgstr "Siste opprettet grupper"
+
+msgid "You joined this group as"
+msgstr "Du sluttet denne gruppen som"
+
+msgid "You received a request to join the group"
+msgstr "Du har mottatt en forespørsel om å bli med i gruppen"
+
+msgid "Updated site"
+msgstr "oppdatert nettstedet"
+
+msgid "Site is under construction"
+msgstr "Siden er under konstruksjon"
+
+msgid "Last registered users"
+msgstr "Siste registrerte brukere"
+
+msgid "User settings"
+msgstr "Brukerinnstillinger"
+
+msgid "Technical support"
+msgstr "teknisk støtte"
+
+msgid "Change email"
+msgstr "Endre e-post"
+
+msgid "Change password"
+msgstr "Bytt passord"
+
+msgid "User has been successfully saved"
+msgstr "Bruker er lagret"
+
+msgid "Full name"
+msgstr "Fullt navn"
+
+msgid "My video"
+msgstr "min video"
+
+msgid "Skills"
+msgstr "ferdigheter"
+
+msgid "Birthday"
+msgstr "bursdag"
+
+msgid "Country of residence"
+msgstr "Bostedsland"
+
+msgid "Country"
+msgstr "land"
+
+msgid "Zip Code"
+msgstr "Post kode"
+
+msgid "City/town of residence"
+msgstr "By- / byen bolig"
+
+msgid "University/college"
+msgstr "Universitet / høyskole"
+
+msgid "University/college photo"
+msgstr "Universitet / høyskole bilder"
+
+msgid "Add user\'s accomplishments"
+msgstr "Legg brukerens prestasjoner"
+
+msgid "Interface language"
+msgstr "grensesnittspråk"
+
+msgid "How other people see this page"
+msgstr "Hvordan andre mennesker ser denne siden"
+
+msgid "Video with me"
+msgstr "Video med meg"
+
+msgid "Groups"
+msgstr "grupper"
+
+msgid "Registered today"
+msgstr "registrert i dag"
+
+msgid "Qty"
+msgstr "Antall"
+
+msgid "No registered users yet"
+msgstr "Ingen registrerte brukere ennå"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Registered total"
+msgstr "registrert totalt"
+
+msgid "You received a file"
+msgstr "Du har mottatt en fil"
+
+msgid "You were invited into this room"
+msgstr "Du ble invitert inn i dette rommet"
+
+msgid "Request is being processed"
+msgstr "Forespørselen blir behandlet"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Messenger"
+msgstr "Messenger"
+
+msgid "New subproject"
+msgstr "nytt delprosjekt"
+
+msgid "messages written."
+msgstr "meldinger skrevet ."
+
+msgid "projects created based on groups."
+msgstr "prosjekter opprettes basert på grupper ."
+
+msgid "users registered on website."
+msgstr "brukere er registrert på nettstedet ."
+
+msgid "New email"
+msgstr "ny e-post"
+
+msgid "Confirm email"
+msgstr "Bekreft Epost"
+
+msgid "New password"
+msgstr "Nytt passord"
+
+msgid "Confirm password"
+msgstr "Bekreft passord"
+
+msgid "Occupation"
+msgstr "Tema"
+
+msgid "Timezone"
+msgstr "Tidssone"
+
+msgid "Answer"
+msgstr "Svar"
+
+msgid "Articles"
+msgstr "artikler"
+
+msgid "Article"
+msgstr "Artikkel"
+
+msgid "Video-article"
+msgstr "Video - artikkel"
+
+msgid "Find article..."
+msgstr "Finn artikkelen ..."
+
+msgid "Politics"
+msgstr "Politikk"
+
+msgid "Economics"
+msgstr "Economics"
+
+msgid "Community"
+msgstr "Fellesskap"
+
+msgid "Culture"
+msgstr "kultur"
+
+msgid "Sports"
+msgstr "sport"
+
+msgid "Hi-tech"
+msgstr "Hi - tech"
+
+msgid "Cars"
+msgstr "biler"
+
+msgid "Fashion"
+msgstr "mote"
+
+msgid "Games"
+msgstr "spill"
+
+msgid "Other"
+msgstr "andre"
+
+msgid "Invalid mediafile"
+msgstr "Ugyldig mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Ingen artikler i denne kategorien"
+
+msgid "Back to profile"
+msgstr "Tilbake til profil"
+
+msgid "View article"
+msgstr "Vis artikkel"
+
+msgid "Edit article"
+msgstr "Rediger artikkelen"
+
+msgid "Create article"
+msgstr "Opprett artikkel"
+
+msgid "Article title"
+msgstr "Artikkelens tittel"
+
+msgid "Article section"
+msgstr "Artikkel seksjon"
+
+msgid "Choose image"
+msgstr "Velg bilde"
+
+msgid "Save and upload"
+msgstr "Lagre og laste opp"
+
+msgid "Show more..."
+msgstr "Vis flere ..."
+
+msgid "Create"
+msgstr "Lage"
+
+msgid "Edit"
+msgstr "Redigere"
+
+msgid "Project"
+msgstr "prosjekt"
+
+msgid "Team"
+msgstr "lag"
+
+msgid "A new article was published"
+msgstr "En ny artikkel ble publisert"
+
+msgid "You joined this project"
+msgstr "Du sluttet seg til dette prosjektet"
+
+msgid "Enter your information in the User settings"
+msgstr "Skriv inn din informasjon i brukerinnstillingene"
+
+msgid "Communities"
+msgstr "Communities"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Video presentasjon av mine prestasjoner"
+
+msgid "My articles"
+msgstr "mine artikler"
+
+msgid "User"
+msgstr "Bruker"
+
+msgid "Users"
+msgstr "brukere"
+
+msgid "Add new list"
+msgstr "Legg til ny liste"
+
+msgid "List title"
+msgstr "List tittel"
+
+msgid "Add"
+msgstr "Legg"
+
+msgid "Add to favorites"
+msgstr "Legg til i favoritter"
+
+msgid "Delete from favorites"
+msgstr "Slett fra favoritter"
+
+msgid "Select list"
+msgstr "Velg liste"
+
+msgid "Subscriptions"
+msgstr "abonnementer"
+
+msgid "Subscribe"
+msgstr "Abonner"
+
+msgid "Unsubscribe"
+msgstr "unsubscribe"
+
+msgid "General list"
+msgstr "generell liste"
+
+msgid "No users in this list"
+msgstr "Ingen brukere i denne listen"
+
+msgid "Publish"
+msgstr "publisere"
+
+msgid "Unpublish"
+msgstr "Avpubliser"
+
+msgid "Add user"
+msgstr "Legg til bruker"
+
+msgid "Create document"
+msgstr "Lag dokument"
+
+msgid "Edit document"
+msgstr "Rediger dokument"
+
+msgid "View"
+msgstr "utsikt"
+
+msgid "Document title"
+msgstr "Dokumenttittel"
+
+msgid "Find document..."
+msgstr "Finn dokument ..."
+
+msgid "Share your thoughts"
+msgstr "Del dine tanker"
+
+msgid "Leave your comment"
+msgstr "Legg igjen din kommentar"
+
+msgid "Accept"
+msgstr "aksepterer"
+
+msgid "Decline"
+msgstr "nedgang"
+
+msgid "Add article"
+msgstr "Legg artikkel"
+
+msgid "Link to verified accomplishments"
+msgstr "Link til bekreftede prestasjoner"
+
+msgid "No articles here yet..."
+msgstr "Ingen artikler her ennå ..."
+
+msgid "Find file or folder..."
+msgstr "Finn fil eller mappe ..."
+
+msgid "Sort"
+msgstr "Sorter"
+
+msgid "By name"
+msgstr "etter navn"
+
+msgid "By date"
+msgstr "etter dato"
+
+msgid "By updated date"
+msgstr "Av oppdatert dato"
+
+msgid "By size"
+msgstr "etter størrelse"
+
+msgid "By type"
+msgstr "ved type"
+
+msgid "Move"
+msgstr "Move"
+
+msgid "File Manager"
+msgstr "Filbehandler"
+
+msgid "Share link"
+msgstr "Del link"
+
+msgid "Responsible"
+msgstr "ansvarlig"
+
+msgid "Performer"
+msgstr "Performer"
+
+msgid "New Folder"
+msgstr "Ny mappe"
+
+msgid "Folder name"
+msgstr "mappenavn"
+
+msgid "By default"
+msgstr "Som standard"
+
+msgid "Back to group"
+msgstr "Tilbake til gruppe"
+
+msgid "year(s)"
+msgstr "år (s)"
+
+msgid "January"
+msgstr "januar"
+
+msgid "February"
+msgstr "februar"
+
+msgid "March"
+msgstr "mars"
+
+msgid "April"
+msgstr "april"
+
+msgid "May"
+msgstr "Kan"
+
+msgid "June"
+msgstr "juni"
+
+msgid "July"
+msgstr "juli"
+
+msgid "August"
+msgstr "august"
+
+msgid "September"
+msgstr "september"
+
+msgid "October"
+msgstr "oktober"
+
+msgid "November"
+msgstr "november"
+
+msgid "December"
+msgstr "desember"
+
+msgid "Password Reminder"
+msgstr "passord påminnelse"
+
+msgid "Log In"
+msgstr "Logg inn"
+
+msgid "Sign in"
+msgstr "Logg inn"
+
+msgid "Register"
+msgstr "Registrer"
+
+msgid "First name"
+msgstr "Fornavn"
+
+msgid "Last name"
+msgstr "Etternavn"
+
+msgid "I agree with rules"
+msgstr "Jeg er enig med regler"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "En bekreftelse e-posten ble sendt til din e-postadresse."
+
+msgid "Thanks"
+msgstr "Takk"
+
+msgid "Password must be at least 6 characters"
+msgstr "Passordet må være minst 6 tegn"
+
+msgid "Creative Environment"
+msgstr "kreativt miljø"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Du må være minst tretten år for å bruke denne tjenesten"
+
+msgid "Order status"
+msgstr "Bestillings status"
+
+msgid "Processing order"
+msgstr "Processing rekkefølge"
+
+msgid "Requires a payment"
+msgstr "Krever betaling"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Ready"
+msgstr "klar"
+
+msgid "Thank you for your payment"
+msgstr "Takk for betalingen"
+
+msgid "Your payment has been cancelled"
+msgstr "Betalingen ble avbrutt"
+
+msgid "page"
+msgstr "side"
+
+msgid "Rent period"
+msgstr "Rent periode"
+
+msgid "Total, month"
+msgstr "Totalt måned"
+
+msgid "Order items"
+msgstr "Bestill varer"
+
+msgid "No records found"
+msgstr "Ingen opptak funnet"
+
+msgid "User with this email is already exist"
+msgstr "Bruker med denne e-posten er allerede eksisterer"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Mappen eller filen med et slikt navn allerede eksisterer i målmappen"
+
+msgid "Minimal quantity"
+msgstr "minimal mengde"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "trykte eksemplarer"
+
+msgid "Terms of Use"
+msgstr "Vilkår for bruk"
+
+msgid "Privacy Policy"
+msgstr "Personvernerklæring"
+
+msgid "Find project..."
+msgstr "Finn prosjekt ..."
+
+msgid "New Project"
+msgstr "nytt prosjekt"
+
+msgid "Accounts"
+msgstr "kontoer"
+
+msgid "Operations"
+msgstr "operasjoner"
+
+msgid "All accounts"
+msgstr "alle kontoer"
+
+msgid "All categories"
+msgstr "Alle Kategorier"
+
+msgid "Expense"
+msgstr "Expense"
+
+msgid "Income"
+msgstr "inntekt"
+
+msgid "Transfer"
+msgstr "Transfer"
+
+msgid "Expense"
+msgstr "Expense"
+
+msgid "income"
+msgstr "inntekt"
+
+msgid "tax"
+msgstr "skatt"
+
+msgid "percent"
+msgstr "prosent"
+
+msgid "transfer"
+msgstr "transfer"
+
+msgid "Make operation"
+msgstr "Gjør drift"
+
+msgid "Select date"
+msgstr "Velg dato"
+
+msgid "Select account"
+msgstr "Velg konto"
+
+msgid "Month"
+msgstr "Måned"
+
+msgid "Quarter"
+msgstr "Fjerdedel"
+
+msgid "Year"
+msgstr "år"
+
+msgid "From"
+msgstr "Fra"
+
+msgid "To"
+msgstr "Til"
+
+msgid "Expense amount"
+msgstr "utgiftene beløp"
+
+msgid "Categories"
+msgstr "kategorier"
+
+msgid "Comments"
+msgstr "kommentarer"
+
+msgid "Income amount"
+msgstr "inntekter beløp"
+
+msgid "Transfer amount"
+msgstr "overføringsbeløpet"
+
+msgid "From account"
+msgstr "Fra konto"
+
+msgid "To account"
+msgstr "Til konto"
+
+msgid "New Account"
+msgstr "Ny konto"
+
+msgid "New Category"
+msgstr "ny kategori"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "Enter category name"
+msgstr "Skriv inn kategorinavnet"
+
+msgid "Select type"
+msgstr "Velg typen"
+
+msgid "Credit card"
+msgstr "Kredittkort"
+
+msgid "Debit card"
+msgstr "Bankkort"
+
+msgid "Bank account"
+msgstr "bankkonto"
+
+msgid "Cash"
+msgstr "Kontanter"
+
+msgid "Balance is empty"
+msgstr "Balanse er tom"
+
+msgid "Statistic is empty"
+msgstr "Statistikken er tom"
+
+msgid "Regular payments"
+msgstr "regelmessige betalinger"
+
+msgid "Are you sure ?"
+msgstr "Er du sikker ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Er du sikker på å lukke dette prosjektet?"
+
+msgid "Project was deleted successfully"
+msgstr "Prosjektet ble slettet"
+
+msgid "Select currency"
+msgstr "Velg valuta"
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "Orders list"
+msgstr "bestillinger liste"
+
+msgid "Order payments"
+msgstr "Bestill betalinger"
+
+msgid "View order"
+msgstr "Vis ordre"
+
+msgid "No response from Printer API"
+msgstr "Ingen respons fra skriver API"
+
+msgid "Bad response from Printer API"
+msgstr "Bad respons fra Skriver API"
+
+msgid "User ID"
+msgstr "bruker-ID"
+
+msgid "Contact Person"
+msgstr "Kontaktperson"
+
+msgid "No orders to process"
+msgstr "Ingen ordre om å behandle"
+
+msgid "Article announce image"
+msgstr "Artikkel kunn bilde"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Ugyldig video url . La stå tomt eller sette inn gyldig youtube url"
+
+msgid "Please, enter Contractor data"
+msgstr "Vær så snill, skriv Leverandørens data"
+
+msgid "Distribute devices"
+msgstr "distribuere enheter"
+
+msgid "Quantity"
+msgstr "Antall"
+
+msgid "Devices left"
+msgstr "enheter igjen"
+
+msgid "Distributed devices"
+msgstr "distribuerte enheter"
+
+msgid "You must enter quantity"
+msgstr "Du må angi mengde"
+
+msgid "All devices are distributed"
+msgstr "Alle enhetene er fordelt"
+
+msgid "IP address"
+msgstr "IP adresse"
+
+msgid "Only for printer"
+msgstr "Bare for skriveren"
+
+msgid "Counter"
+msgstr "Counter"
+
+msgid "You was excluded from this room"
+msgstr "Du ble ekskludert fra dette rommet"
+
+msgid "Compare"
+msgstr "sammenligne"
+
+msgid "Scheduled transaction"
+msgstr "planlagt transaksjon"
+
+msgid "Select transfer account"
+msgstr "Velg transfer konto"
+
+msgid "Select income account"
+msgstr "Velg inntektsregnskapet"
+
+msgid "Reports"
+msgstr "rapporter"
+
+msgid "Goals"
+msgstr "mål"
+
+msgid "Budgets"
+msgstr "budsjetter"
+
+msgid "Enter user name or email..."
+msgstr "Skriv inn brukernavn eller e-post ..."
+
+msgid "Invite had been sended"
+msgstr "Inviter hadde blitt sended"
+
+msgid "Statistics"
+msgstr "statistikk"
+
+msgid "Updated site began to work"
+msgstr "Oppdatert stedet begynte å jobbe"
+
+msgid "City of residence"
+msgstr "City of residence"
+
+msgid "Edit favourites list"
+msgstr "Rediger favorittliste"
+
+msgid "Add favourites list"
+msgstr "Legg favorittliste"
+
+msgid "Categories is required"
+msgstr "Kategorier kreves"
+
+msgid "Type new category name and hit Enter"
+msgstr "Skriv inn et nytt kategorinavnet og trykk enter"
+
+msgid "You created an order"
+msgstr "Du opprettet en ordre"
+
+msgid "You received a device due to this order"
+msgstr "Du har mottatt en enhet på grunn av denne ordren"
+
+msgid "%s attached %s to task %s"
+msgstr "%s festet %s til oppgave %s"
+
+msgid "member(s)"
+msgstr "medlem ( s )"
+
+msgid "%s commented task %s"
+msgstr "%s kommen oppgave %s"
+
+msgid "%s closed task %s"
+msgstr "%s lukket oppgave %s"
+
+msgid "%s created task %s"
+msgstr "%s opprettet oppgave %s"
+
+msgid "%s created this project"
+msgstr "%s opprettet dette prosjektet"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s opprettet delprosjekt \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s lukket prosjektet \" %s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s lukket delprosjekt \"%s\""
+
+msgid "This field must not be blank"
+msgstr "Dette feltet kan ikke være tomt"
+
+msgid "Document with such name is already exist"
+msgstr "Dokument med slikt navn er allerede eksisterer"
+
+msgid "Wait until image upload"
+msgstr "Vent til bildeopplasting"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Message can not be empty"
+msgstr "Melding kan ikke være tom"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nei"
+
+msgid "Created"
+msgstr "laget"
+
+msgid "Compare is empty"
+msgstr "Sammenligne er tom"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Er du sikker på at du vil slette drift"
+
+msgid "Do you really want to delete transaction"
+msgstr "Har du virkelig ønsker å slette transaksjonen"
+
+msgid "Project with same name already exists"
+msgstr "Prosjekt med samme navn finnes allerede"
+
+msgid "Account is not found"
+msgstr "Kontoen er ikke funnet"
+
+msgid "Currency is required"
+msgstr "Valuta er nødvendig"
+
+msgid "error while deleting document"
+msgstr "feil under sletting dokument"
+
+msgid "Expences"
+msgstr "utgifter"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Du inviteres bruker \" %s\" i dette rommet"
+
+msgid "User \"%s\" joined this room"
+msgstr "Bruker \" %s\" ble med dette rommet"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Du ekskludert bruker \" %s\" fra dette rommet"
+
+msgid "User \"%s\" left this room"
+msgstr "Bruker \" %s\" forlot dette rommet"
+
+msgid "Add account"
+msgstr "Legg til konto"
+
+msgid "The requested page is not found"
+msgstr "Den forespurte siden finnes ikke"
+
+msgid "Document"
+msgstr "dokument"
+
+msgid "Table"
+msgstr "bord"
+
+msgid "file(s)"
+msgstr "filen (e )"
+
+msgid "Residue"
+msgstr "Residue"
+
+msgid "Result is empty"
+msgstr "Resultatet er tom"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Det totale beløpet er %s for %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Du må sette %s månedlig til relatert konto"
+
+msgid "Start"
+msgstr "Begynne"
+
+msgid "finish"
+msgstr "overflate"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Valgte kontoen er allerede i bruk for et mål"
+
+msgid "Amount required"
+msgstr "beløpet som kreves"
+
+msgid "New goal"
+msgstr "nytt mål"
+
+msgid "Goal"
+msgstr "mål"
+
+msgid "Goal name"
+msgstr "målet navn"
+
+msgid "Invalid date"
+msgstr "Ugyldig dato"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Nødvendig summen må være et positivt tall"
+
+msgid "Remain"
+msgstr "forbli"
+
+msgid "Last day"
+msgstr "Siste dag"
+
+msgid "Accumulated"
+msgstr "akkumulert"
+
+msgid "Put aside"
+msgstr "Sett til side"
+
+msgid "January"
+msgstr "januar"
+
+msgid "February"
+msgstr "februar"
+
+msgid "March"
+msgstr "mars"
+
+msgid "April"
+msgstr "april"
+
+msgid "May"
+msgstr "Kan"
+
+msgid "June"
+msgstr "juni"
+
+msgid "July"
+msgstr "juli"
+
+msgid "August"
+msgstr "august"
+
+msgid "September"
+msgstr "september"
+
+msgid "October"
+msgstr "oktober"
+
+msgid "November"
+msgstr "november"
+
+msgid "December"
+msgstr "desember"
+
+msgid "Expenses projected/actual"
+msgstr "Utgifter anslått / faktiske"
+
+msgid "Net Income projected/actual"
+msgstr "Netto inntekt anslått / faktiske"
+
+msgid "New budget"
+msgstr "nytt budsjett"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Inntekter og utgifter Chart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Budsjett med samme par av kontoen og kategori finnes allerede"
+
+msgid "Budget is empty"
+msgstr "Budsjettet er tom"
+
+msgid "Budget"
+msgstr "budsjett"
+
+msgid "plan"
+msgstr "plan"
+
+msgid "fact"
+msgstr "faktisk"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "Vis mer"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "Mine salg"
+
+msgid "Time spent"
+msgstr "Tid brukt"
+
+msgid "Total time spent"
+msgstr "Total tidsbruk"
+
+msgid "Earnings per hour"
+msgstr "Resultat per time"
+
+msgid "Total earnings"
+msgstr "totale inntekter"
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Phone call"
+msgstr "Telefonsamtale"
+
+msgid "Telephone calls"
+msgstr "Telefonsamtaler"
+
+msgid "Send email"
+msgstr "Send e-post"
+
+msgid "Emails"
+msgstr "e-post"
+
+msgid "Meeting"
+msgstr "møte"
+
+msgid "Meetings"
+msgstr "møter"
+
+msgid "All events"
+msgstr "alle hendelser"
+
+msgid "Task"
+msgstr "Task"
+
+msgid "Event"
+msgstr "Hendelses"
+
+msgid "Events"
+msgstr "hendelser"
+
+msgid "Time"
+msgstr "tid"
+
+msgid "Events statistics"
+msgstr "Begivenheter statistikk"
+
+msgid "days"
+msgstr "dager"
+
+msgid "hours"
+msgstr "timer"
+
+msgid "minutes"
+msgstr "minutter"
+
+msgid "Income & expense"
+msgstr "Inntekter og utgifter"
+
+msgid "Show chart"
+msgstr "Vis diagram"
+
+msgid "Hide chart"
+msgstr "Skjul diagram"
+
+msgid "Add event"
+msgstr "Legg til hendelse"
+
+msgid "Add financial data"
+msgstr "Legg finansielle data"
+
+msgid "Select contractor"
+msgstr "Velg entreprenør"
+
+msgid "Net Income"
+msgstr "Netto inntekt"
+
+msgid "Revenue"
+msgstr "Revenue"
+
+msgid "Taxes"
+msgstr "skatter"
+
+msgid "Amount planned"
+msgstr "mengden planlagt"
+
+msgid "Amount"
+msgstr "beløp"
+
+msgid "Period"
+msgstr "periode"
+
+msgid "Are you sure to close this task?"
+msgstr "Er du sikker på å lukke denne oppgaven ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "alle grupper"
+
+msgid "added from task"
+msgstr "lagt fra oppgaven"
+
+msgid "Monthly repeat"
+msgstr "månedlig gjenta"
+
+msgid "Select category"
+msgstr "Velg kategori"
+
+msgid "Event type"
+msgstr "hendelsestype"
+
+msgid "Margin"
+msgstr "margin"
+
+msgid "Use finance project"
+msgstr "Bruk finans prosjekt"
+
+msgid "New investment project"
+msgstr "Nytt investeringsprosjekt"
+
+msgid "Investment project settings"
+msgstr "Investment prosjektinnstillingene"
+
+msgid "Picture, for the announcement project"
+msgstr "Bilde, for kunngjøringen prosjektet"
+
+msgid "Announcement project"
+msgstr "Kunngjøring prosjekt"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Photos or videos gallery"
+msgstr "Bilder eller videoer galleriet"
+
+msgid "required amount"
+msgstr "nødvendige mengden"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Prosjektet varighet ( 60 dager maksimum)"
+
+msgid "Project duration"
+msgstr "prosjektet varighet"
+
+msgid "Add reward"
+msgstr "Legg belønning"
+
+msgid "Delivery date"
+msgstr "Leveringsdato"
+
+msgid "Payment systems"
+msgstr "betalingssystemer"
+
+msgid "Terms of service"
+msgstr "Vilkårene for tjenesten"
+
+msgid "Agreement"
+msgstr "Avtale"
+
+msgid "Payment"
+msgstr "betaling"
+
+msgid "My projects"
+msgstr "Mine prosjekter"
+
+msgid "Search result"
+msgstr "søkeresultat"
+
+msgid "Nothing not found"
+msgstr "Ingenting ikke funnet"
+
+msgid "The project has no sponsors"
+msgstr "Prosjektet har ingen sponsorer"
+
+msgid "Design"
+msgstr "design"
+
+msgid "Food"
+msgstr "mat"
+
+msgid "Journalism"
+msgstr "journalistikk"
+
+msgid "Games"
+msgstr "spill"
+
+msgid "Art"
+msgstr "kunst"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "musikk"
+
+msgid "Handicrafts"
+msgstr "Husflid"
+
+msgid "Publishing"
+msgstr "publisering"
+
+msgid "Theater"
+msgstr "teater"
+
+msgid "Technology"
+msgstr "teknologi"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Dance"
+msgstr "Dance"
+
+msgid "Invalid youtube video"
+msgstr "Ugyldig youtube video"
+
+msgid "is required"
+msgstr "det kreves"
+
+msgid "User"
+msgstr "Bruker"
+
+msgid "Date"
+msgstr "dato"
+
+msgid "Collected"
+msgstr "samlet"
+
+msgid "Choose period"
+msgstr "Velg periode"
+
+msgid "Choose region"
+msgstr "Velg region"
+
+msgid "Country"
+msgstr "land"
+
+msgid "Today"
+msgstr "i dag"
+
+msgid "Week"
+msgstr "uke"
+
+msgid "Month"
+msgstr "måned"
+
+msgid "Year"
+msgstr "år"
+
+msgid "Free registration"
+msgstr "gratis registrering"
+
+msgid "Join"
+msgstr "Bli med"
+
+msgid "Log in using"
+msgstr "Logg inn med"
+
+msgid "Vacancies"
+msgstr "Arbeidsmuligheter"
+
+msgid "About Us"
+msgstr "Om oss"
+
+msgid "You will need email to log in"
+msgstr "Du vil trenge e å logge inn"
+
+msgid "A combination of 6 digits and characters"
+msgstr "En kombinasjon av 6 sifre og bokstaver"
+
+msgid "Search users, groups, articles..."
+msgstr "Søk etter brukere , grupper , artikler ..."
+
+msgid "Cloud"
+msgstr "Sky"
+
+msgid "Sunday"
+msgstr "søndag"
+
+msgid "Monday"
+msgstr "mandag"
+
+msgid "Tuesday"
+msgstr "tirsdag"
+
+msgid "Wednesday"
+msgstr "onsdag"
+
+msgid "Thursday"
+msgstr "Torsdag"
+
+msgid "Friday"
+msgstr "fredag"
+
+msgid "Saturday"
+msgstr "lørdag"
+
+msgid "Edit"
+msgstr "Redigere"
+
+msgid "Create group"
+msgstr "Opprett gruppe"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Er du sikker på at du vil forlate denne siden ?"
+
+msgid "More"
+msgstr "Mer"
+
+msgid "Less"
+msgstr "Mindre"
+
+msgid "Pending"
+msgstr "I påvente av"
+
+msgid "Approved"
+msgstr "godkjent"
+
+msgid "Rejected"
+msgstr "avvist"
+
+msgid "Subprojects"
+msgstr "delprosjekter"
+
+msgid "Group edit"
+msgstr "Gruppe redigere"
+
+msgid "Startup"
+msgstr "oppstart"
+
+msgid "Tattoo"
+msgstr "Tatovering"
+
+msgid "Health"
+msgstr "Helse"
+
+msgid "Weapon"
+msgstr "Våpen"
+
+msgid "Astronomy"
+msgstr "Astronomi"
+
+msgid "All articles"
+msgstr "alle artikler"
+
+msgid "Article editor"
+msgstr "Artikkel editor"
+
+msgid "Document editor"
+msgstr "dokument editor"
+
+msgid "Apply changes"
+msgstr "Bruk endringer"
+
+msgid "Save changes?"
+msgstr "Lagre endringer?"
+
+msgid "published an article"
+msgstr "publisert en artikkel"
+
+msgid "Users"
+msgstr "brukere"
+
+msgid "Shared With Me"
+msgstr "Delt med meg"
+
+msgid "share"
+msgstr "dele"
+
+msgid "Select Group Responsible"
+msgstr "Velg Gruppe Ansvarlig"
+
+msgid "Create folder"
+msgstr "Opprett mappe"
+
+msgid "Title must be at least 3 characters"
+msgstr "Tittelen må være minst 3 tegn"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Gratis 10 GB, økonomisjef , investere modul, og mange andre for gratis og for alltid"
+
+msgid "Best regards"
+msgstr "Med vennlig hilsen"
+
+msgid "Updates in last 12 hours:"
+msgstr "Oppdateringer i siste 12 timer:"
+
+msgid "expense"
+msgstr "kostnader"
+
+msgid "Commentary on the event:"
+msgstr "Kommentar til hendelsen:"
+
+msgid "Event place"
+msgstr "hendelse sted"
+
+msgid "Project was updated"
+msgstr "Prosjektet ble oppdatert"
+
+msgid "Project was created"
+msgstr "Prosjektet ble opprettet"
+
+msgid "Project was closed"
+msgstr "Prosjektet ble avsluttet"
+
+msgid "account"
+msgstr "konto"
+
+msgid "removed task"
+msgstr "fjernet oppgave"
+
+msgid "removed subproject"
+msgstr "fjernet delprosjekt"
+
+msgid "Title can not be empty"
+msgstr "Tittelen kan ikke være tomt"
+
+msgid "Do not select the type of event"
+msgstr "Ikke velg den type hendelse"
+
+msgid "Error while saving comment"
+msgstr "Feil ved lagring kommentar"
+
+msgid "Save error: access denied"
+msgstr "Lagre feil: ingen tilgang"
+
+msgid "Remains"
+msgstr "Rester"
+
+msgid "Time spent, h."
+msgstr "Tidsbruk h ."
+
+msgid "Emails"
+msgstr "e-post"
+
+msgid "Meetings"
+msgstr "møter"
+
+msgid "All users"
+msgstr "Alle brukere"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Finance project"
+msgstr "Finans prosjekt"
+
+msgid "Investment project"
+msgstr "investeringsprosjekt"
+
+msgid "Nature"
+msgstr "Natur"
+
+msgid "Data is empty"
+msgstr "Data er tom"
+
+msgid "Visitors"
+msgstr "besøkende"
+
+msgid "My profile"
+msgstr "Min profil"
+
+msgid "Sponsors"
+msgstr "sponsorer"
+
+msgid "Prior to completion"
+msgstr "Før ferdigstillelse"
+
+msgid "Select"
+msgstr "Velge"
+
+msgid "My groups"
+msgstr "Mine grupper"
+
+msgid "The invitation has been sent successfully"
+msgstr "Invitasjonen er sendt"
+
+msgid "Username has already been invited to this project"
+msgstr "Brukernavn er allerede invitert til dette prosjektet"
+
+msgid "The user is the creator of the project"
+msgstr "Brukeren er skaperen av prosjektet"
+
+msgid "Provide full access"
+msgstr "Gi full tilgang"
+
+msgid "Select elements to provide access"
+msgstr "Velger elementer for å gi tilgang"
+
+msgid "Select all"
+msgstr "Velg alle"
+
+msgid "User E-mail"
+msgstr "Bruker E - post"
+
+msgid "Click on the field to select a category"
+msgstr "Klikk på feltet for å velge en kategori"
+
+msgid "Invitation was deleted"
+msgstr "Invitasjonen ble slettet"
+
+msgid "Permission denied"
+msgstr "permission denied"
+
+msgid "Printed"
+msgstr "trykt"
+
+msgid "Incorrect Contractor email"
+msgstr "Feilaktig Entreprenør epost"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Ønsker du å legge prosjektet til å finansiere manager?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "For å fullføre registreringsprosessen kan du fylle ned dine ferdigheter"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "En mail med videre instruksjoner ble sendt til din e-postadresse"
+
+msgid "Submit"
+msgstr "Send inn"
+
+msgid "Cars"
+msgstr "biler"
+
+msgid "Science"
+msgstr "Vitenskap"
+
+msgid "Donation"
+msgstr "Donasjon"
+
+msgid "Interests"
+msgstr "interesser"
+
+msgid "Driver"
+msgstr "Sjåfør"
+
+msgid "Sportsman"
+msgstr "Sportsman"
+
+msgid "Businessman"
+msgstr "forretningsmann"
+
+msgid "Accountant"
+msgstr "Regnskapsfører"
+
+msgid "Engineer"
+msgstr "Ingeniør"
+
+msgid "Soldier"
+msgstr "Soldat"
+
+msgid "Next"
+msgstr "neste"
+
+msgid "Hide group"
+msgstr "Skjul gruppe"
+
+msgid "groups created"
+msgstr "grupper opprettet"
+
+msgid "articles written"
+msgstr "artikler skrevet"
+
+msgid "These groups may be interesting for you"
+msgstr "Disse gruppene kan være interessant for deg"
+
+msgid "About Group"
+msgstr "om gruppe"
+
+msgid "view(s)"
+msgstr "view ( s )"
+
+msgid "Favorite users"
+msgstr "favoritt brukere"
+
+msgid "No accounts"
+msgstr "ingen kontoer"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook autorisasjon mislyktes."
+
+msgid "Authorization Required"
+msgstr "autorisasjon Nødvendig"
+
+msgid "You have to make a call:"
+msgstr "Du må ringe :"
+
+msgid "You have to send an email:"
+msgstr "Du må sende en e-post :"
+
+msgid "You have a meetup:"
+msgstr "Du har en meetup :"
+
+msgid "You event :"
+msgstr "Du hendelse:"
+
+msgid "Participants:"
+msgstr "deltakere:"
+
+msgid "Search"
+msgstr "Søke"
+
+msgid "News"
+msgstr "Nyheter"
+
+msgid "Investments"
+msgstr "investeringer"
+
+msgid "Back to Cloud"
+msgstr "Tilbake til Cloud"
+
+msgid "Documents"
+msgstr "dokumenter"
+
+msgid "Planet"
+msgstr "Planet"
+
+msgid "Group url"
+msgstr "Gruppe url"
+
+msgid "Profile url"
+msgstr "Profile url"
+
+msgid "Already taken"
+msgstr "Allerede tatt"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Minst en bokstav og tre tegn lengde kreves"
+
+msgid "Digit can not be the first character"
+msgstr "Siffer kan ikke være det første tegnet"
+
+msgid "Enter valid email address"
+msgstr "Skriv inn gyldig e-postadresse"
+
+msgid "Enter your skills"
+msgstr "Skriv inn dine ferdigheter"
+
+msgid "Enter your first name"
+msgstr "Skriv inn ditt fornavn"
+
+msgid "Enter your last name"
+msgstr "Skriv inn ditt etternavn"
+
+msgid "Enter your first name and last name"
+msgstr "Skriv inn ditt fornavn og etternavn"
+
+msgid "Your first name?"
+msgstr "Fornavnet ditt?"
+
+msgid "Your last name?"
+msgstr "Ditt etternavn?"
+
+msgid "What are your proficiencies?"
+msgstr "Hva er dine proficiencies ?"
+
+msgid "Select country"
+msgstr "Velg land"
+
+msgid "Select user"
+msgstr "Velg bruker"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Oppfylle din drøm! Lag og Samarbeid ."
+
+msgid "date moved from"
+msgstr "dato flyttet fra"
+
+msgid "work"
+msgstr "arbeid"
+
+msgid "Conference"
+msgstr "Konferanse"
+
+msgid "personal"
+msgstr "personlig"
+
+msgid "Holiday"
+msgstr "ferie"
+
+msgid "Past"
+msgstr "Past"
+
+msgid "Future"
+msgstr "Future"
+
+msgid "Purchase"
+msgstr "Kjøp"
+
+msgid "Personal events"
+msgstr "Private arrangementer"
+
+msgid "Conferences"
+msgstr "Møte"
+
+msgid "Holidays"
+msgstr "Holidays"
+
+msgid "Sport events"
+msgstr "Idrettsarrangementer"
+
+msgid "Tasks"
+msgstr "Oppgaver"
+
+msgid "Other events"
+msgstr "Andre hendelser"
+
+msgid "Set aside"
+msgstr "Take Away"
+
+msgid "Set aside"
+msgstr "Utsatt"
+
+msgid "Time management"
+msgstr "Time Management"
+
+msgid "Delayed events"
+msgstr "Utsatt hendelser"
+
+msgid "Delayed"
+msgstr "Utsatt"
+
+msgid "Bind to"
+msgstr "Tildele"
+
+msgid "answered your comment to"
+msgstr "Jeg sa (a) Kommenter artikkelen"
+
+msgid "commented your article"
+msgstr "Jeg kommenterte artikkelen"
+
+msgid "You\'ve answered on comment to"
+msgstr "Du svarte på en kommentar på artikkelen"
+
+msgid "You\'ve commented an article"
+msgstr "Du kommenterte artikkelen"
+
+msgid "Terms and Conditions"
+msgstr "Vilkår og betingelser"
+
+msgid "Privacy Policy"
+msgstr "Personvernerklæring"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Ved å klikke på \"Registrer deg\" du enig med vår og erkjenner at du har lest våre"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Bli med i fellesskapet av kreative mennesker fra hele verden! Du vil motta: Investere i dine ideer, en mulighet til å samle laget sitt, som arbeider i en gruppe, økonomisjef, administrere sin tid, 2 gigabyte lagring og mer. Og det er gratis!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Beklager, men siden du leter etter finnes ikke. Hvis du tror at å klandre oss kontakt oss"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "COMMON"
+msgstr "Total"
+
+msgid "My events"
+msgstr "Mine Hendelser"
+
+msgid "Job opening"
+msgstr "Ny stilling"
+
+msgid "Employment"
+msgstr "Ansettelsestype"
+
+msgid "Working hours"
+msgstr "Åpningstider"
+
+msgid "City"
+msgstr "By"
+
+msgid "Wages"
+msgstr "Lønn"
+
+msgid "Currency"
+msgstr "Valuta"
+
+msgid "Experience"
+msgstr "Erfaring"
+
+msgid "Full-time"
+msgstr "Full sysselsetting"
+
+msgid "Part-time"
+msgstr "Deltid"
+
+msgid "Project employment"
+msgstr "Prosjekt / Midlertidig"
+
+msgid "Volunteer"
+msgstr "Frivillighets"
+
+msgid "Internship"
+msgstr "Trainee"
+
+msgid "Full day"
+msgstr "Fulltid"
+
+msgid "Shifts"
+msgstr "Utskifting timeplanen"
+
+msgid "Flexible shifts"
+msgstr "Fleksibel timeplan"
+
+msgid "Remote work"
+msgstr "Remote arbeid"
+
+msgid "Rotational basis"
+msgstr "Shift metode"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Er du sikker på at du vil slette denne kommentaren?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Er du sikker på at du vil slette denne oppgaven?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Er du sikker på at du vil slette dette delprosjektet?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Du har påført selskapet i posisjon. Vennligst sørg for at"
+
+msgid "Your request to for job has been rejected"
+msgstr "Din forespørsel til selskapet i posisjon har blitt avvist"
+
+msgid "Your request to for job has been accepted"
+msgstr "Din forespørsel til selskapet i posisjon ble vedtatt"
+
+msgid "profile is completed"
+msgstr "Profilen din er full"
+
+msgid "Use account"
+msgstr "Bruk konto"
+
+msgid "$/hr"
+msgstr "$ / Time"
+
+msgid "Finance category"
+msgstr "Financial kategori"
+
+msgid "No projects"
+msgstr "Ingen prosjekter"
+
+msgid "Bind to finances"
+msgstr "Tildele økonomisk prosjekt"
+
+msgid "Preview"
+msgstr "Utsikt"
+
+msgid "Download"
+msgstr "Last ned"
+
+msgid "Save to my cloud"
+msgstr "Kopier depotet"
+
+msgid "File successfully saved to your cloud"
+msgstr "Filen ble lagret i depotet"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Lagre denne filen i depotet ditt?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Velg en kategori Artikkel"
+
+msgid "Type something"
+msgstr "Skriv noe"
+
+msgid "Founded users"
+msgstr "Fant brukere"
+
+msgid "Founded articles"
+msgstr "Fant artikkelen"
+
+msgid "Founded groups"
+msgstr "Grunnla gruppen"
+
+msgid "What are your skills?"
+msgstr "Hva er dine ferdigheter?"
+
+msgid "Select at least 2 interests"
+msgstr "Velg minst 2 interesse"
+
+msgid "Need more interests"
+msgstr "Ikke nok interesse valgt"
+
+msgid "What are you interesting in?"
+msgstr "Hva er du interessert?"
+
+msgid "You have no dialogs"
+msgstr "Du trenger ikke dialoger"
+
+msgid "Usage Stats"
+msgstr "State of"
+
+msgid "Founded files"
+msgstr "Filer funnet"
+
+msgid "Big tiles"
+msgstr "Store fliser"
+
+msgid "Small tiles"
+msgstr "Små fliser"
+
+msgid "Table view"
+msgstr "Tabellvisning"
+
+msgid "Root folder"
+msgstr "Rotkatalogen"
+
+msgid "My files"
+msgstr "Mine filer"
+
+msgid "Save as draft"
+msgstr "Lagre som utkast"
+
+msgid "Buy More Space"
+msgstr "Kjøpe mer plass"
+
+msgid "Buy"
+msgstr "Kjøpe"
+
+msgid "You have been invited to group as"
+msgstr "Du har blitt invitert til gruppen som en"
+
+msgid "User wants to join your group"
+msgstr "Brukeren ønsker å bli med i gruppen"
+
+msgid "Section is coming soon!"
+msgstr "Seksjon under bygging!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Visninger i løpet av de siste 24 timer:"
+
+msgid "Task was updated"
+msgstr "Oppgaven har blitt oppdatert"
+
+msgid "Task was closed"
+msgstr "Utfordringen har vært stengt"
+
+msgid "Task was created"
+msgstr "Oppgaven ble satt"
+
+msgid "Current balance"
+msgstr "Nåværende balanse"
+
+msgid "Add funds"
+msgstr "Legg"
+
+msgid "Pay"
+msgstr "Kassa"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Du har overskredet antall påloggingsforsøk. Du er blokkert i 15 minutter"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Vennligst bekreft e-post. Brevet som ble sendt til deg i posten."
+
+msgid "Resend confirmation email"
+msgstr "Send bekreftelse på nytt"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB per måned"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Kjør 10 GB per år"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB hvert år"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1TB månedlig"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Kjør 1 TB hvert år"
+
+msgid "Project members monthly"
+msgstr "Deltakere i prosjektet på månedlig basis"
+
+msgid "Project members yearly"
+msgstr "Prosjektdeltakere årlig"
+
+msgid "Member(s) yearly"
+msgstr "Medlem (mer) per år"
+
+msgid "Member(s) monthly"
+msgstr "Medlem (er) på månedlig basis"
+
+msgid "Authorized"
+msgstr "Autorisert"
+
+msgid "Authorization expired"
+msgstr "Autorisasjon utløpt"
+
+msgid "Processor declined"
+msgstr "Avvist systemet for behandling"
+
+msgid "Gateway rejected"
+msgstr "Avvist betaling gateway"
+
+msgid "Failed"
+msgstr "Feil"
+
+msgid "Voided"
+msgstr "Oppheve"
+
+msgid "Submitted for settlement"
+msgstr "Sendt til melde"
+
+msgid "Settlement declined"
+msgstr "Påmelding har blitt avvist"
+
+msgid "Settlement pending"
+msgstr "Avventer påmelding"
+
+msgid "Verified"
+msgstr "Sjekket"
+
+msgid "Pending"
+msgstr "Avventer"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Past Due"
+msgstr "Utløpt"
+
+msgid "Expired"
+msgstr "Endte"
+
+msgid "Marketer"
+msgstr "Markedsfører"
+
+msgid "India"
+msgstr "India"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "South Korea"
+msgstr "Sør-Korea"
+
+msgid "Kazakhstan"
+msgstr "Kasakhstan"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "Belarus"
+msgstr "Hviterussland"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Turkey"
+msgstr "Kalkun"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Østerrike"
+
+msgid "Poland"
+msgstr "Polen"
+
+msgid "Germany"
+msgstr "Tyskland"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Netherlands"
+msgstr "Nederland"
+
+msgid "Ireland"
+msgstr "Irland"
+
+msgid "United Kingdom"
+msgstr "Great Britain"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Norway"
+msgstr "Norge"
+
+msgid "United States"
+msgstr "USA"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Brazil"
+msgstr "Brasil"
+
+msgid "Saudi Arabia"
+msgstr "Saudi-Arabia"
+
+msgid "Canada"
+msgstr "Egypt"
+
+msgid "Russia"
+msgstr "Russland"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "I øyeblikket, det var ikke en enkelt transaksjon"
+
+msgid "Fulfill your dream"
+msgstr "Oppfylle din drøm"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Bli med i vårt fellesskap av kreative personer fra hele verden."
+
+msgid "Create and Collaborate"
+msgstr "Lag og Samarbeid"
+
+msgid "Fulfill your dream"
+msgstr "Oppfylle DREAM NÅ"
+
+msgid "or"
+msgstr "eller"
+
+msgid "Our mission:"
+msgstr "Vårt oppdrag:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Å forene kreative og aktive mennesker til å implementere ideer fra enkle og etterspurt til utrolig og fantastisk, som kan forme vår fremtid."
+
+msgid "What is Konstruktor?"
+msgstr "Hva er Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - er en del av vårt virkelige liv, som i betydelig grad forenkler og forenkler"
+
+msgid "*business processes"
+msgstr "* forretningsprosesser"
+
+msgid "*materialization of creative ideas"
+msgstr "* materialisering av kreative ideer"
+
+msgid "*constructive cooperation"
+msgstr "* konstruktivt samarbeid"
+
+msgid "Make your dream!"
+msgstr "Gjør din drøm!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "direktør"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Spesialrådgiver"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Manager, Software Development"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Senior advokat"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Designer"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Ved å klikke på \"Neste\" -knappen, aksepterer du og samtykker med våre vilkår, og du er erkjennelsen av at du har lest våre personvernbestemmelser."
+
+msgid "Incorrect login or password."
+msgstr "Feil brukernavn eller passord."
+
+msgid "Password must be at least 6 characters"
+msgstr "Passordet må være minst 6 tegn"
+
+msgid "January"
+msgstr "januar"
+
+msgid "February"
+msgstr "februar"
+
+msgid "March"
+msgstr "mars"
+
+msgid "April"
+msgstr "april"
+
+msgid "May"
+msgstr "Kan"
+
+msgid "June"
+msgstr "juni"
+
+msgid "July"
+msgstr "juli"
+
+msgid "August"
+msgstr "august"
+
+msgid "September"
+msgstr "september"
+
+msgid "October"
+msgstr "oktober"
+
+msgid "November"
+msgstr "november"
+
+msgid "December"
+msgstr "desember"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Files"
+msgstr "Filer"
+
+msgid "Statistic"
+msgstr "Statistikk"
+
+msgid "Support"
+msgstr "Støtte"
+
+msgid "Exit"
+msgstr "Gå"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Hviterussland"
+
+msgid "Marketing specialist"
+msgstr "Marketing spesialist"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Shared with me"
+msgstr "Delt med meg"
+
+msgid "File Sharing"
+msgstr "Fildeling"
+
+msgid "Provide access by link"
+msgstr "Gi tilgang ved link"
+
+msgid "Provide Individual access"
+msgstr "Gi Individuell tilgang"
+
+msgid "Provide edit access"
+msgstr "Gi redigeringstilgang"
+
+msgid "Share"
+msgstr "Dele"
+
+msgid "Files will be available only for selected users"
+msgstr "Filer vil kun være tilgjengelig for utvalgte brukere"
+
+msgid "With this link everyone can access to the files"
+msgstr "Med dette knytter alle kan få tilgang til filene"
+
+msgid "Search users, groups, articles..."
+msgstr "Søk etter brukere, grupper, artikler ..."
+
+msgid "My Group"
+msgstr "Min gruppe"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Vi"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Filen er ikke valgt"
+
+msgid "Set aside"
+msgstr "Sette til side"
+
+msgid "Event time"
+msgstr "Hendelse tid"
+
+msgid "Work"
+msgstr "Arbeid"
+
+msgid "Personal"
+msgstr "Personlig"
+
+msgid "Time spent for work:"
+msgstr "Tid brukt til arbeid:"
+
+msgid "Personal time spent:"
+msgstr "Personlig tidsbruk:"
+
+msgid "Present"
+msgstr "Nåværende"
+
+msgid "Common"
+msgstr "Felles"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "Entertainment"
+msgstr "Underholdning"
+
+msgid "Select:"
+msgstr "Velge:"
+
+msgid "Invalid username or password."
+msgstr "Ugyldig brukernavn eller passord."
+
+msgid "Try again."
+msgstr "Prøv igjen."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "HVA ER DU INTERESSERT I?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Velg minst 2 ferdigheter: fortsatt 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Velg minst 2 ferdigheter: fortsatt en"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Velg minst 2 ferdigheter: Restene"
+
+msgid "Active life"
+msgstr "Aktivt liv"
+
+msgid "Arts and culture"
+msgstr "Kunst og kultur"
+
+msgid "Business"
+msgstr "Bedrift"
+
+msgid "Cinema"
+msgstr "Kino"
+
+msgid "Communications"
+msgstr "Kommunikasjon"
+
+msgid "Construction and repair"
+msgstr "Bygging og reparasjon"
+
+msgid "Cooking"
+msgstr "Lager mat"
+
+msgid "Education"
+msgstr "Utdannelse"
+
+msgid "Electronics"
+msgstr "Elektronikk"
+
+msgid "Finances"
+msgstr "Økonomi"
+
+msgid "Graphics and design"
+msgstr "Grafikk og design"
+
+msgid "Health"
+msgstr "Helse"
+
+msgid "Home and family"
+msgstr "Hjem og familie"
+
+msgid "Humor"
+msgstr "Humor"
+
+msgid "IT"
+msgstr "DEN"
+
+msgid "Industry"
+msgstr "Industri"
+
+msgid "Insurance"
+msgstr "Forsikring"
+
+msgid "Literature"
+msgstr "Litteratur"
+
+msgid "Mobile communications and internet"
+msgstr "Mobilkommunikasjon og Internett"
+
+msgid "News and Media"
+msgstr "Nyheter og Media"
+
+msgid "Pets"
+msgstr "Kjæledyr"
+
+msgid "Products and service"
+msgstr "Produkter og tjenester"
+
+msgid "Real Estate"
+msgstr "Eiendom"
+
+msgid "Religion"
+msgstr "Religion"
+
+msgid "Science and techs"
+msgstr "Vitenskap og techs"
+
+msgid "Security"
+msgstr "Sikkerhet"
+
+msgid "Society"
+msgstr "Samfunn"
+
+msgid "Television"
+msgstr "Fjernsyn"
+
+msgid "Travel"
+msgstr "Reise"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Østerrike"
+
+msgid "Belarus"
+msgstr "Hviterussland"
+
+msgid "Belgium"
+msgstr "Belgia"
+
+msgid "Brazil"
+msgstr "Brasil"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Danmark"
+
+msgid "France"
+msgstr "Frankrike"
+
+msgid "Germany"
+msgstr "Tyskland"
+
+msgid "Greece"
+msgstr "Hellas"
+
+msgid "Hungary"
+msgstr "Ungarn"
+
+msgid "Iceland"
+msgstr "Island"
+
+msgid "Ireland"
+msgstr "Irland"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Netherlands"
+msgstr "Nederland"
+
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgid "Norway"
+msgstr "Norge"
+
+msgid "Poland"
+msgstr "Polen"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Russia"
+msgstr "Russland"
+
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgid "South Africa"
+msgstr "Sør-Afrika"
+
+msgid "South Korea"
+msgstr "Sør-Korea"
+
+msgid "Spain"
+msgstr "Spania"
+
+msgid "Sweden"
+msgstr "Sverige"
+
+msgid "Switzerland"
+msgstr "Sveits"
+
+msgid "Turkey"
+msgstr "Kalkun"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "United Arab Emirates"
+msgstr "De forente arabiske emirater"
+
+msgid "United Kingdom"
+msgstr "Storbritannia"
+
+msgid "United States"
+msgstr "forente stater"
+
+msgid "achievements"
+msgstr "prestasjoner"
+
+msgid "Investment management"
+msgstr "Kapitalforvaltning"
+
+msgid "Select..."
+msgstr "Velge..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "Investment Management"
+
+msgid "Investors list"
+msgstr "Investorer liste"
+
+msgid "My investments"
+msgstr "Mine investeringer"
+
+msgid "Create date"
+msgstr "Opprett dato"
+
+msgid "Author of the project"
+msgstr "Forfatter av prosjektet"
+
+msgid "Date and time"
+msgstr "Dato og klokkeslett"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "NEXT"
+msgstr "NESTE"
+
+msgid "Next"
+msgstr "Neste"
+
+msgid "Apply"
+msgstr "Søke"
+
+msgid "Kazakhstan"
+msgstr "Kasakhstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Vitenskap"
+
+msgid "Architecture"
+msgstr "Arkitektur"
+
+msgid "Photography"
+msgstr "Photography"
+
+msgid "Designer"
+msgstr "Designer"
+
+msgid "IT specialist"
+msgstr "IT-spesialist"
+
+msgid "Agronomist"
+msgstr "Agronom"
+
+msgid "Architect"
+msgstr "Arkitekt"
+
+msgid "Lawyer"
+msgstr "Advokat"
+
+msgid "Writer"
+msgstr "Forfatter"
+
+msgid "Doctor"
+msgstr "Doktor"
+
+msgid "Scientist"
+msgstr "Forsker"
+
+msgid "Marketer"
+msgstr "Markedsfører"
+
+msgid "Teacher"
+msgstr "Lærer"
+
+msgid "Cook"
+msgstr "Kokk"
+
+msgid "Artist"
+msgstr "Artist"
+
+msgid "Photographer"
+msgstr "Fotograf"
+
+msgid "Ecologist"
+msgstr "Økolog"
+
+msgid "Economist"
+msgstr "Economist"
+
+msgid "Logistician"
+msgstr "Logistiker"
+
+msgid "Journalist"
+msgstr "Journalist"
+
+msgid "Builder"
+msgstr "Bygger"
+
+msgid "These users may be interesting for you"
+msgstr "Disse brukerne kan være interessant for deg"
+
+msgid "These articles may be interesting for you"
+msgstr "Disse artiklene kan være interessant for deg"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Du sluttet denne gruppen som Аdministrator"
+
+msgid "articles written."
+msgstr "artikler skrevet."
+
+msgid "groups created."
+msgstr "grupper opprettet."
+
+msgid "Creation"
+msgstr "Opprettelse"
+
+msgid "Build a dream"
+msgstr "Bygg en drøm"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Les mer interessante artikler - gå gratis registrering"
+

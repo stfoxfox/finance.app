@@ -1,0 +1,240 @@
+/* payment_popup
+------------------------------------*/
+
+.container-payment_disk{
+  max-width: 1170px;
+  width:100%;
+  margin:0 auto;
+  position:relative;
+}
+
+.form-group{
+  border-bottom: 0px !important;
+  text-align: left;
+  max-width: 74%;
+  margin: 0 auto;
+}
+
+.panel-body .form-group .radio-inline{
+  margin-left: 0;
+}
+
+.panel-body .form-group .radio-inline ins{
+  top:0;
+}
+
+.panel-body .form-group span{
+  color:#999999;
+  font-size: 18px;
+  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+  font-weight: normal;
+}
+
+.panel-body .form-group span b{
+  font-size: 30px;
+  color:#12d09b;
+  padding-left:12px;
+  padding-right:2px;
+  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.panel-body .form-group span i{
+  padding-left:2px;
+  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+}
+
+.header-title{
+  border-radius:4px;
+  background:#fff;
+  height:64px;
+  line-height: 64px;
+  text-align: center;
+  color:#666666;
+  font-weight:bold;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.row-payments{
+  padding:0;
+  margin-top: 30px;
+}
+
+.row-payments{
+  margin:0 -1%;
+}
+
+.row-payments > div{
+  background:#fff;
+  margin:30px 1% 0; 
+  width:23%;
+  padding-left: 0;
+  padding-right: 0;
+  border-radius: 4px;
+  box-shadow: 0px 0px 4px rgba(0,0,0,0.4);
+}
+
+.panel-heading{
+  background:#fff !important;
+  border:none !important;
+  color:#666 !important;
+  font-size:16px;
+  text-transform: uppercase;
+}
+
+.panel{
+  margin-bottom:0 !important;
+  background:#fff;
+  /*padding-bottom:30px;*/
+  text-align: center;
+  border:none;
+  box-shadow: none;
+}
+
+.billing-submit{
+  text-align: center;
+  padding-bottom:30px;
+}
+
+@media (max-width: 1280px){
+  .form-group {
+      border-bottom: 0px !important;
+      text-align: left;
+      max-width: 86%;
+      margin: 0 auto;
+  }
+}
+
+@media (max-width: 1024px){
+  .panel-body{
+    padding:10px;
+  }
+
+  .panel-heading{
+    padding:10px;
+  }
+}
+
+@media (max-width: 980px){
+  .panel-heading{
+    font-size: 14px;
+  }
+
+  .panel-body .form-group span b{
+    font-size: 22px;
+    padding-left:6px;
+  }
+
+  .panel-body .form-group span{
+    font-size: 16px;
+  }
+
+  .panel-body .form-group span i{
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 780px){
+  .row-payments > div{
+    width:48%;
+    height: 246px;
+  }
+  .panel{
+    height: 180px;
+  }  
+
+  .header-title{
+    font-size: 14px;
+  }
+
+  .form-group{
+    max-width: 51%;
+  }
+}
+
+@media (max-width: 640px){
+  .form-group {
+      max-width: 58%;
+  }
+}
+
+@media (max-width: 540px){
+  .header-title{
+    height: auto;
+    line-height: 24px;
+    padding:6px 40px;
+  }
+
+  .form-group{
+    max-width: 62%;
+  }
+}
+
+@media (max-width: 480px){
+
+
+  .form-group{
+    text-align: center;
+  }
+
+  .panel {
+    height: 150px;
+  }
+
+  .row-payments > div{
+    width:98%;
+    margin:12px auto 0;
+    float: none;
+    height: 202px;
+  }
+}
+
+/*------------------------------------*/
+
+/*Subscribe-popup
+---------------------------------------*/
+
+.container-subscribe-pay{
+  padding:40px;
+  max-width: 570px;
+  position: relative;
+  margin:0 auto;
+  background:#fff;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.header-title_subscribe{
+  text-align: center;
+  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+  font-size:16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color:#444;
+  margin-bottom: 38px;
+}
+
+.container-subscribe-pay p{
+  font-size: 16px;
+  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+  color:#666;
+  margin:0;
+}
+
+.container-subscribe-pay .subscriptions-btn{
+  margin-top: 34px;
+}
+
+.mfp-close{
+  font-size: 40px;
+  color:#999 !important;
+  opacity: 1;
+}
+
+.mfp-close:hover{
+  opacity: 0.6;
+}

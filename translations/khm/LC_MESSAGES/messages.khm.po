@@ -1,0 +1,3344 @@
+# ខ្មែរ(Кхмерский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: ខ្មែរ(Кхмерский) <support@konstruktor.com>\n"
+"Language: ខ្មែរ(Кхмерский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "ឈ្មោះអ្នកប្រើ   chhmoh anak brae"
+
+msgid "Invalid username or password, try again"
+msgstr "ឈ្មោះអ្នកប្រើ ឬពាក្យសម្ងាត់ មិនត្រឹមត្រូវ ។ សូមព្យាយាម ម្តងទៀត។"
+
+msgid "Settings"
+msgstr "ការកំណត់"
+
+msgid "Home"
+msgstr "ទំព័រដើម"
+
+msgid "You must log in to access this page"
+msgstr "អ្នកត្រូវតែ ចូល ដើម្បីចូលដំណើរការ ទំព័រនេះ"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "សម័យ របស់អ្នកត្រូវបាន ផុតកំណត់។ សូម relogin ដើម្បីអនុវត្ត សកម្មភាពនេះ"
+
+msgid "Save"
+msgstr "រក្សាទុក"
+
+msgid "Head Office"
+msgstr "ការិយាល័យកណ្តាល"
+
+msgid "Address"
+msgstr "អាសយដ្ឋាន"
+
+msgid "Back"
+msgstr "ត្រឡប់វិញ"
+
+msgid "Apply"
+msgstr "អនុវត្ត"
+
+msgid "Upload files…"
+msgstr "ផ្ទុកឡើងឯកសារ ..."
+
+msgid "Set as main"
+msgstr "កំណត់ជា ចម្បង"
+
+msgid "Delete"
+msgstr "លុប"
+
+msgid "Original image"
+msgstr "រូបភាពដើម"
+
+msgid "Uploaded"
+msgstr "ផ្ទុកឡើង"
+
+msgid "File name"
+msgstr "ឈ្មោះឯកសារ"
+
+msgid "File size"
+msgstr "ទំហំឯកសារ"
+
+msgid "Resolution"
+msgstr "គុណភាពបង្ហាញ"
+
+msgid "Enlarge"
+msgstr "ពង្រីក"
+
+msgid "Links"
+msgstr "តំណភ្ជាប់"
+
+msgid "Original size"
+msgstr "ទំហំដើម"
+
+msgid "For editor"
+msgstr "ចំពោះ កម្មវិធីនិពន្ធ"
+
+msgid "Resize"
+msgstr "ប្ដូរទំហំ"
+
+msgid "Width"
+msgstr "ទទឹង"
+
+msgid "Height"
+msgstr "កម្ពស់"
+
+msgid "Media URL"
+msgstr "URL ដែល ប្រព័ន្ធផ្សព្វផ្សាយ"
+
+msgid "Add record"
+msgstr "បន្ថែម កំណត់ត្រា"
+
+msgid "Show filter settings"
+msgstr "ការកំណត់ បង្ហាញ តម្រង"
+
+msgid "Edit record"
+msgstr "កែសម្រួល កំណត់ត្រា"
+
+msgid "Delete record"
+msgstr "លុប កំណត់ត្រា"
+
+msgid "Delete checked records"
+msgstr "លុបកំណត់ត្រា បានពិនិត្យ"
+
+msgid "Dashboard"
+msgstr "ផ្ទាំងគ្រប់គ្រង"
+
+msgid "Password"
+msgstr "ពាក្យសម្ងាត់"
+
+msgid "Remember me"
+msgstr "ចងចាំខ្ញុំ"
+
+msgid "Login"
+msgstr "ចូល"
+
+msgid "Clean image cache"
+msgstr "ឃ្លាំងសម្ងាត់ រូបភាព ស្អាត"
+
+msgid "Processing query..."
+msgstr "សំណួរ ដំណើរការ ..."
+
+msgid "CMS Development"
+msgstr "ការអភិវឌ្ឍ ផ្នែកគ្រប់គ្រងតុលាការ"
+
+msgid "Admin Home Page"
+msgstr "គ្រប់គ្រង គេហទំព័រ"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "ទំព័រដើមនៃ ការបើកចំហរ របស់ រណសិរ្ស ចុង នៅក្នុងផ្ទាំង ថ្មីមួយ"
+
+msgid "Go to Site"
+msgstr "សូមចូលទៅកាន់ វែបសាយ"
+
+msgid "Log out"
+msgstr "ចេញ"
+
+msgid "Send"
+msgstr "ផ្ញើ"
+
+msgid "General"
+msgstr "ទូទៅ"
+
+msgid "Title"
+msgstr "ចំណងជើង"
+
+msgid "Teaser"
+msgstr "សំណួរ"
+
+msgid "Published"
+msgstr "បោះពុម្ពផ្សាយ"
+
+msgid "Featured"
+msgstr "លក្ខណៈពិសេស"
+
+msgid "Active"
+msgstr "សកម្ម"
+
+msgid "Field is mandatory"
+msgstr "វាល ជាការចាំបាច់"
+
+msgid "Sort Order"
+msgstr "តម្រៀបតាម លំដាប់"
+
+msgid "Upload"
+msgstr "ផ្ទុកឡើង"
+
+msgid "Loading..."
+msgstr "កំពុងផ្ទុក ..."
+
+msgid "Jan"
+msgstr "មករា"
+
+msgid "Feb"
+msgstr "កុម្ភៈ"
+
+msgid "Mar"
+msgstr "ខែមីនា"
+
+msgid "Apr"
+msgstr "ខែមេសា"
+
+msgid "May"
+msgstr "ឧសភា"
+
+msgid "Jun"
+msgstr "ខែមិថុនា"
+
+msgid "Jul"
+msgstr "ខែកក្កដា"
+
+msgid "Aug"
+msgstr "ខែសីហា"
+
+msgid "Sep"
+msgstr "ខែកញ្ញា"
+
+msgid "Oct"
+msgstr "ខែតុលា"
+
+msgid "Nov"
+msgstr "ខែវិច្ឆិកា"
+
+msgid "Dec"
+msgstr "ខែធ្នូ"
+
+msgid "Product already exists in the order"
+msgstr "ផលិតផល រួចហើយ នៅក្នុងលំដាប់"
+
+msgid "Product does not exist"
+msgstr "ផលិតផលនេះមិន មានទេ"
+
+msgid "Incorrect request"
+msgstr "សំណើរ មិនត្រឹមត្រូវ"
+
+msgid "Products"
+msgstr "ផលិតផល"
+
+msgid "Product types"
+msgstr "ប្រភេទ ផលិតផល"
+
+msgid "Contractors"
+msgstr "អ្នកម៉ៅការ"
+
+msgid "Contractor"
+msgstr "អ្នកម៉ៅការ"
+
+msgid "Orders"
+msgstr "ការបញ្ជាទិញ"
+
+msgid "FAQ"
+msgstr "សំណួរគេសួរញឹកញាប់"
+
+msgid "New order"
+msgstr "គោលបំណងថ្មី"
+
+msgid "My orders"
+msgstr "ការបញ្ជាទិញ របស់ខ្ញុំ"
+
+msgid "Recharge balance"
+msgstr "តុល្យភាព បញ្ចូលទឹកប្រាក់"
+
+msgid "Administrator"
+msgstr "អ្នកគ្រប់គ្រង"
+
+msgid "Incorrect event ID"
+msgstr "លេខសម្គាល់ ព្រឹត្តិការណ៍ដែល មិនត្រឹមត្រូវ"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "កែសម្រួលការ ចុះកិច្ចសន្យា"
+
+msgid "Create contractor"
+msgstr "បង្កើត ក្រុមហ៊ុនម៉ៅ"
+
+msgid "Edit question"
+msgstr "កែសម្រួល សំណួរ"
+
+msgid "Create question"
+msgstr "បង្កើត សំណួរ"
+
+msgid "Edit order"
+msgstr "កែសម្រួល ការបញ្ជាទិញ"
+
+msgid "Create order"
+msgstr "បង្កើត ការបញ្ជាទិញ"
+
+msgid "Edit product"
+msgstr "កែសម្រួល ផលិតផល"
+
+msgid "Create product"
+msgstr "បង្កើតផលិតផល"
+
+msgid "Edit product type"
+msgstr "កែសម្រួល ប្រភេទផលិតផល"
+
+msgid "Create product type"
+msgstr "បង្កើត ប្រភេទផលិតផល"
+
+msgid "You have received a file"
+msgstr "អ្នកបានទទួល ឯកសារមួយ"
+
+msgid "You received a file from"
+msgstr "អ្នកបានទទួល ឯកសារពី"
+
+msgid "File has been uploaded"
+msgstr "ឯកសារ ត្រូវបានផ្ទុកឡើង"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "បរិមាណ តិចតួចបំផុត"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "ធាតុ"
+
+msgid "Remove"
+msgstr "យក"
+
+msgid "Contact person"
+msgstr "មនុស្សម្នាក់ដែល មានទំនាក់ទំនង"
+
+msgid "Email"
+msgstr "អ៊ីម៉ែល"
+
+msgid "Contractor phone"
+msgstr "ទូរស័ព្ទ អ្នកម៉ៅការ"
+
+msgid "Contractor name"
+msgstr "ឈ្មោះរបស់ អ្នកម៉ៅការ"
+
+msgid "Contractor details"
+msgstr "ពត៌មានលំអិត អ្នកម៉ៅការ"
+
+msgid "Order ID"
+msgstr "លេខសម្គាល់លំដាប់"
+
+msgid "Sum"
+msgstr "ផលបូក"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "ជ្រើស ប្រព័ន្ធទូទាត់ ជាការសមរម្យ ដើម្បីបញ្ចូល ទឹកប្រាក់"
+
+msgid "Recharge amount"
+msgstr "ចំនួនទឹកប្រាក់ដែល ត្រូវបញ្ចូលក្នុងទូរស័ព្ទ"
+
+msgid "Paid"
+msgstr "Paid"
+
+msgid "Shipped"
+msgstr "បានភ្ជាប់មក"
+
+msgid "- No products in this order -"
+msgstr "- មិនមាន ផលិតផលដែលមាន នៅក្នុងលំដាប់ នេះ -"
+
+msgid "month"
+msgstr "ខែ"
+
+msgid "No user found"
+msgstr "បានរកឃើញថា គ្មានអ្នកប្រើ"
+
+msgid "Achievement"
+msgstr "សមិទ្ធិផល"
+
+msgid "Confirmed accomplishments"
+msgstr "សមិទ្ធិផល បានបញ្ជាក់ថា"
+
+msgid "Remove achievement"
+msgstr "យក សមិទ្ធិផល"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "ទូរស័ព្ទ"
+
+msgid "Site URL and email"
+msgstr "តំបន់បណ្តាញ របស់ URL និងអ៊ីម៉ែល"
+
+msgid "Remove address"
+msgstr "យកអាសយដ្ឋាន"
+
+msgid "Members"
+msgstr "ជាសមាជិក"
+
+msgid "Requires a payment"
+msgstr "តម្រូវឱ្យមានការ ទូទាត់"
+
+msgid "Shipping"
+msgstr "ការដឹកជញ្ជូន"
+
+msgid "Ready"
+msgstr "រួចរាល់ហើយ"
+
+msgid "Find user..."
+msgstr "បានរកឃើញ អ្នកប្រើ ..."
+
+msgid "Order it"
+msgstr "បញ្ជាទិញ"
+
+msgid "Find group..."
+msgstr "បានរកឃើញ ក្រុម ..."
+
+msgid "Find user or community..."
+msgstr "បានរកឃើញ អ្នកប្រើ ឬសហគមន៍ ..."
+
+msgid "No item found"
+msgstr "គ្មានធាតុ ដែលបានរកឃើញ"
+
+msgid "years"
+msgstr "ប៉ុន្មានឆ្នាំ"
+
+msgid "Send message"
+msgstr "voye mesaj"
+
+msgid "Message"
+msgstr "សារស្វាគមន៍"
+
+msgid "To send message press Enter"
+msgstr "ដើម្បីផ្ញើ សារពត៌ មានសារ បញ្ចូល"
+
+msgid "To send message press CTRL+Enter"
+msgstr "ដើម្បីផ្ញើ សារដែល សារព័ត៌មាន + + បញ្ជា បញ្ចូល"
+
+msgid "Processing file(s)..."
+msgstr "ឯកសារដែលបាន ដំណើរការ ( s) បាន ..."
+
+msgid "Group settings"
+msgstr "ការកំណត់ គ្រុប"
+
+msgid "Create group"
+msgstr "បង្កើតក្រុម"
+
+msgid "Group has been successfully saved"
+msgstr "Group ដែល ត្រូវបានរក្សាទុក ដោយជោគជ័យ"
+
+msgid "Group title"
+msgstr "ចំណងជើង គ្រុប"
+
+msgid "Group video"
+msgstr "វីដេអូជាក្រុម"
+
+msgid "Description"
+msgstr "ការពិពណ៌នាសង្ខេប"
+
+msgid "Your role in group"
+msgstr "តួនាទីរបស់អ្នក នៅក្នុងក្រុម"
+
+msgid "Role"
+msgstr "តួនាទីរបស់"
+
+msgid "Photo or video gallery"
+msgstr "រូបថត ឬវីដេអូ វិចិត្រសាល"
+
+msgid "Youtube.com URL"
+msgstr "URL ដែល Youtube.com"
+
+msgid "Upload video"
+msgstr "ជាវីដេអូ ផ្ទុកឡើង"
+
+msgid "Add group address"
+msgstr "បន្ថែម អាសយដ្ឋានក្រុម"
+
+msgid "Group articles"
+msgstr "អត្ថបទ ជាក្រុម"
+
+msgid "No addresses yet"
+msgstr "មិនមាន អាសយដ្ឋាន នៅឡើយទេ"
+
+msgid "Add group achievement"
+msgstr "បន្ថែម សមិទ្ធិផល ជាក្រុម"
+
+msgid "No achivements yet"
+msgstr "គ្មាន achivements នៅឡើយទេ"
+
+msgid "Are you sure to delete this user"
+msgstr "តើអ្នកប្រាកដជា នឹងលុប អ្នកប្រើនេះ"
+
+msgid "Add member"
+msgstr "បន្ថែម ជាសមាជិក"
+
+msgid "Are you sure to delete this record?"
+msgstr "តើអ្នកប្រាកដជា លុបទិន្នន័យ នេះទេ?"
+
+msgid "Join this group"
+msgstr "ចូលរួមក្នុងក្រុមនេះ"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "ការអញ្ជើញរបស់អ្នក ត្រូវបានបញ្ជូន ទៅអ្នកគ្រប់គ្រង ក្រុមនេះ"
+
+msgid "All addresses"
+msgstr "អាសយដ្ឋានទាំងអស់"
+
+msgid "Collapse"
+msgstr "ការដួលរលំ"
+
+msgid "Achievements"
+msgstr "សមិទ្ធិផល"
+
+msgid "Show more"
+msgstr "បង្ហាញច្រើនទៀត"
+
+msgid "Team"
+msgstr "ក្រុមការងារ"
+
+msgid "Projects"
+msgstr "គម្រោងការ"
+
+msgid "New project"
+msgstr "គម្រោងថ្មី"
+
+msgid "Project has not been created yet"
+msgstr "គម្រោង នេះមិនត្រូវបាន បង្កើតឡើង នៅឡើយទេ"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "មានតុល្យភាព"
+
+msgid "Main page"
+msgstr "ទំព័រមេ"
+
+msgid "Upload image"
+msgstr "រូបភាពដែលបាន ផ្ទុកឡើង"
+
+msgid "My time"
+msgstr "ពេលវេលារបស់ខ្ញុំ"
+
+msgid "Day"
+msgstr "ទិវា"
+
+msgid "Week"
+msgstr "សប្តាហ៍"
+
+msgid "Project settings"
+msgstr "ការកំណត់ គម្រោង"
+
+msgid "Create project"
+msgstr "បង្កើតគម្រោង"
+
+msgid "Project has been successfully saved"
+msgstr "គម្រោង ត្រូវបានរក្សាទុក ដោយជោគជ័យ"
+
+msgid "Project name"
+msgstr "ឈ្មោះរបស់ គម្រោង"
+
+msgid "Deadline"
+msgstr "ថ្ងៃផុតកំណត់"
+
+msgid "Close"
+msgstr "បិទការ"
+
+msgid "Manager"
+msgstr "កម្មវិធីគ្រប់គ្រង"
+
+msgid "Assigned to"
+msgstr "បានផ្ដល់តម្លៃទៅ"
+
+msgid "Discussion"
+msgstr "ការពិភាក"
+
+msgid "Task was created"
+msgstr "ភារកិច្ច ត្រូវបានបង្កើតឡើង"
+
+msgid "Task was closed"
+msgstr "ភារកិច្ច ត្រូវបានបិទ"
+
+msgid "Go to Group"
+msgstr "ចូលទៅកាន់ការ ជាក្រុម"
+
+msgid "Closed"
+msgstr "បានបិទ"
+
+msgid "Last updates"
+msgstr "ធ្វើឱ្យទាន់សម័យ ចុងក្រោយនេះ"
+
+msgid "Project is closed"
+msgstr "គម្រោង នេះត្រូវបានបិទ"
+
+msgid "No open tasks"
+msgstr "គ្មាន ភារកិច្ច ដែលបានបើក"
+
+msgid "New task"
+msgstr "ភារកិច្ចថ្មី"
+
+msgid "Closed tasks"
+msgstr "ភារកិច្ច ដែលបានបិទ"
+
+msgid "Add subproject"
+msgstr "បន្ថែម គម្រោងរង"
+
+msgid "Add task"
+msgstr "បន្ថែម ភារកិច្ច"
+
+msgid "Sun"
+msgstr "កាលពីថ្ងៃអាទិត្យ"
+
+msgid "Mon"
+msgstr "កាលពីថ្ងៃចន្ទ"
+
+msgid "Tue"
+msgstr "កាលពីថ្ងៃអង្គារ"
+
+msgid "Wed"
+msgstr "កាលពីថ្ងៃពុធ"
+
+msgid "Thur"
+msgstr "ថ្ងៃព្រហស្បតិ៍"
+
+msgid "Fri"
+msgstr "ថ្ងៃសុក្រ"
+
+msgid "Sat"
+msgstr "ថ្ងៃសៅរ៍"
+
+msgid "Event title"
+msgstr "ពានរង្វាន់ ព្រឹត្តិការណ៍"
+
+msgid "Event description"
+msgstr "បរិយាយ ព្រឹត្តការណ៍"
+
+msgid "I registered on this site"
+msgstr "ខ្ញុំបានចុះឈ្មោះ នៅលើគេហទំព័រនេះ"
+
+msgid "Last created groups"
+msgstr "ក្រុមអ្នក បង្កើតចុងក្រោយ"
+
+msgid "You joined this group as"
+msgstr "អ្នកបាន ចូលរួមជាមួយក្រុម នេះថាជា"
+
+msgid "You received a request to join the group"
+msgstr "អ្នកបានទទួល ការស្នើសុំ ដើម្បីចូលរួម ក្រុម"
+
+msgid "Updated site"
+msgstr "តំបន់បណ្តាញ ដែលបានធ្វើបច្ចុប្បន្នភាព"
+
+msgid "Site is under construction"
+msgstr "តំបន់បណ្តាញ គឺស្ថិតនៅក្រោម ការសាងសង់"
+
+msgid "Last registered users"
+msgstr "អ្នកប្រើប្រាស់ដែលបានចុះឈ្មោះ ចុងក្រោយ"
+
+msgid "User settings"
+msgstr "ការកំណត់ របស់អ្នកប្រើ"
+
+msgid "Technical support"
+msgstr "ការគាំទ្រផ្នែកបច្ចេកទេស"
+
+msgid "Change email"
+msgstr "ការផ្លាស់ប្តូរ អ៊ីម៉ែល"
+
+msgid "Change password"
+msgstr "ផ្លាស់ប្តូរ ពាក្យសម្ងាត់អ្នក"
+
+msgid "User has been successfully saved"
+msgstr "អ្នកប្រើដែល ត្រូវបានរក្សាទុក ដោយជោគជ័យ"
+
+msgid "Full name"
+msgstr "ឈ្មោះពេញ"
+
+msgid "My video"
+msgstr "ខ្សែវីដេអូ របស់ខ្ញុំ"
+
+msgid "Skills"
+msgstr "ជំនាញ"
+
+msgid "Birthday"
+msgstr "ថ្ងៃខួបកំណើត"
+
+msgid "Country of residence"
+msgstr "ប្រទេសនៃលំនៅដ្ឋាន"
+
+msgid "Country"
+msgstr "ប្រទេស"
+
+msgid "Zip Code"
+msgstr "លេខកូដតំបន់"
+
+msgid "City/town of residence"
+msgstr "ទីក្រុង / ទីប្រជុំជន នៃលំនៅដ្ឋាន"
+
+msgid "University/college"
+msgstr "សាកលវិទ្យាល័យ / មហាវិទ្យាល័យ"
+
+msgid "University/college photo"
+msgstr "សាកលវិទ្យាល័យ រូបថត / សិក្សានៅមហាវិទ្យាល័យ"
+
+msgid "Add user\'s accomplishments"
+msgstr "បន្ថែម ស្នាដៃ របស់អ្នកប្រើ"
+
+msgid "Interface language"
+msgstr "ភាសាចំណុចប្រទាក់"
+
+msgid "How other people see this page"
+msgstr "តើមនុស្ស ផ្សេងទៀត សូមមើលទំព័រ នេះ"
+
+msgid "Video with me"
+msgstr "វីដេអូ ជាមួយខ្ញុំ"
+
+msgid "Groups"
+msgstr "ក្រុមអ្នក"
+
+msgid "Registered today"
+msgstr "នាពេលបច្ចុប្បន្ននេះ ដែលបានចុះឈ្មោះ"
+
+msgid "Qty"
+msgstr "qty"
+
+msgid "No registered users yet"
+msgstr "គ្មានអ្នកប្រើប្រាស់ ដែលបានចុះឈ្មោះ នៅឡើយទេ"
+
+msgid "Total"
+msgstr "ចំនួនសរុប"
+
+msgid "Registered total"
+msgstr "ចំនួនសរុប ដែលបានចុះឈ្មោះ"
+
+msgid "You received a file"
+msgstr "អ្នកបានទទួល ឯកសារមួយ"
+
+msgid "You were invited into this room"
+msgstr "អ្នកត្រូវបាន អញ្ជើញចូលទៅក្នុង បន្ទប់នេះ"
+
+msgid "Request is being processed"
+msgstr "ការស្នើរសុំ ត្រូវបានដំណើរការ"
+
+msgid "Fax"
+msgstr "ទូរសារ"
+
+msgid "Messenger"
+msgstr "កម្មវិធីផ្ញើសារ"
+
+msgid "New subproject"
+msgstr "គម្រោងរង ការថ្មី"
+
+msgid "messages written."
+msgstr "សារដែលបាន សរសេរ។"
+
+msgid "projects created based on groups."
+msgstr "គម្រោងដែល បានបង្កើត ដោយផ្អែកលើ ក្រុម។"
+
+msgid "users registered on website."
+msgstr "អ្នកប្រើប្រាស់ដែលបានចុះឈ្មោះ នៅលើ វេបសាយ។"
+
+msgid "New email"
+msgstr "អ៊ីម៉ែលថ្មី"
+
+msgid "Confirm email"
+msgstr "បញ្ជាក់ការ អ៊ីម៉ែល"
+
+msgid "New password"
+msgstr "ពាក្យសម្ងាត់ថ្មី"
+
+msgid "Confirm password"
+msgstr "អះអាងពាក្យសម្ងាត់"
+
+msgid "Occupation"
+msgstr "ពិសេស"
+
+msgid "Timezone"
+msgstr "ពេលវេលា"
+
+msgid "Answer"
+msgstr "ចម្លើយ"
+
+msgid "Articles"
+msgstr "អត្ថបទ"
+
+msgid "Article"
+msgstr "មាត្រា"
+
+msgid "Video-article"
+msgstr "វីដេអូ អត្ថបទ"
+
+msgid "Find article..."
+msgstr "រកឃើញអត្ថបទ ..."
+
+msgid "Politics"
+msgstr "នយោបាយ"
+
+msgid "Economics"
+msgstr "សេដ្ឋកិច្ច"
+
+msgid "Community"
+msgstr "សហគមន៍"
+
+msgid "Culture"
+msgstr "វប្បធម៍"
+
+msgid "Sports"
+msgstr "កីឡា"
+
+msgid "Hi-tech"
+msgstr "បច្ចេកវិទ្យាខ្ពស់"
+
+msgid "Cars"
+msgstr "រថយន្ត"
+
+msgid "Fashion"
+msgstr "ម៉ូត"
+
+msgid "Games"
+msgstr "ព្រឹត្តិការណ៍កីឡា"
+
+msgid "Other"
+msgstr "ផ្សេងទៀត"
+
+msgid "Invalid mediafile"
+msgstr "mediafile មិនត្រឹមត្រូវ"
+
+msgid "No articles in this category yet"
+msgstr "មិនមានអត្ថបទ នៅក្នុងប្រភេទ នេះទេ"
+
+msgid "Back to profile"
+msgstr "ត្រឡប់ទៅ ទម្រង់"
+
+msgid "View article"
+msgstr "មើល អត្ថបទ"
+
+msgid "Edit article"
+msgstr "កែសម្រួលអត្ថបទ"
+
+msgid "Create article"
+msgstr "បង្កើតអត្ថបទ"
+
+msgid "Article title"
+msgstr "ចំណងជើងអត្ថបទ"
+
+msgid "Article section"
+msgstr "ផ្នែក មាត្រា"
+
+msgid "Choose image"
+msgstr "ជ្រើសរូបភាព"
+
+msgid "Save and upload"
+msgstr "រក្សាទុកនិង ផ្ទុកឡើង"
+
+msgid "Show more..."
+msgstr "បង្ហាញច្រើនទៀត ..."
+
+msgid "Create"
+msgstr "បង្កើត"
+
+msgid "Edit"
+msgstr "កែសម្រួល"
+
+msgid "Project"
+msgstr "គម្រោង"
+
+msgid "Team"
+msgstr "ក្រុមការងារ"
+
+msgid "A new article was published"
+msgstr "អត្ថបទ ថ្មីត្រូវបាន បោះពុម្ភ"
+
+msgid "You joined this project"
+msgstr "អ្នក បានចូលរួមជាមួយ គម្រោងនេះ"
+
+msgid "Enter your information in the User settings"
+msgstr "បញ្ចូលព័ របស់អ្នកក្នុង ការកំណត់ របស់អ្នកប្រើ"
+
+msgid "Communities"
+msgstr "សហគមន៍"
+
+msgid "Video presentation of my accomplishments"
+msgstr "ការធ្វើបទបង្ហាញ វីដេអូនៃ សមិទ្ធិផល របស់ខ្ញុំ"
+
+msgid "My articles"
+msgstr "អត្ថបទរបស់ខ្ញុំ"
+
+msgid "User"
+msgstr "ការពិភាក្សារបស់អ្នកប្រើប្រាស់"
+
+msgid "Users"
+msgstr "អ្នកប្រើប្រាស់"
+
+msgid "Add new list"
+msgstr "បន្ថែមបញ្ជី ថ្មី"
+
+msgid "List title"
+msgstr "ចំណងជើង បញ្ជី"
+
+msgid "Add"
+msgstr "បន្ថែម"
+
+msgid "Add to favorites"
+msgstr "បញ្ចូលទៅក្នុង ចិត្ត"
+
+msgid "Delete from favorites"
+msgstr "លុបពី ចំនូលចិត្ត"
+
+msgid "Select list"
+msgstr "ជ្រើសបញ្ជី"
+
+msgid "Subscriptions"
+msgstr "ការជាវ"
+
+msgid "Subscribe"
+msgstr "ជាវប្រចាំ"
+
+msgid "Unsubscribe"
+msgstr "ជាវជាប្រចាំ"
+
+msgid "General list"
+msgstr "បញ្ជី ទូទៅ"
+
+msgid "No users in this list"
+msgstr "គ្មានអ្នកប្រើប្រាស់ នៅក្នុងបញ្ជីនេះ"
+
+msgid "Publish"
+msgstr "បោះពុម្ពផ្សាយ"
+
+msgid "Unpublish"
+msgstr "មិនបោះផ្សាយ"
+
+msgid "Add user"
+msgstr "បន្ថែមអ្នកប្រើ"
+
+msgid "Create document"
+msgstr "បង្កើតឯកសារ"
+
+msgid "Edit document"
+msgstr "កែសម្រួល ឯកសារ"
+
+msgid "View"
+msgstr "មើល"
+
+msgid "Document title"
+msgstr "ចំណងជើង ឯកសារ"
+
+msgid "Find document..."
+msgstr "សែ្វងរក ឯកសារ ..."
+
+msgid "Share your thoughts"
+msgstr "ចែករំលែកគំនិតរបស់អ្នក"
+
+msgid "Leave your comment"
+msgstr "ទុកឱ្យសេចក្តីអធិប្បាយរបស់អ្នក"
+
+msgid "Accept"
+msgstr "ព្រមទទួល"
+
+msgid "Decline"
+msgstr "ការធ្លាក់ចុះ"
+
+msgid "Add article"
+msgstr "បន្ថែមអត្ថបទ"
+
+msgid "Link to verified accomplishments"
+msgstr "តំណភ្ជាប់ទៅនឹងស្នាដៃដែលបានផ្ទៀងផ្ទាត់"
+
+msgid "No articles here yet..."
+msgstr "មិនមានអត្ថបទនៅទីនេះនៅឡើយទេ ..."
+
+msgid "Find file or folder..."
+msgstr "រកឃើញឯកសារឬថតដែលបាន ..."
+
+msgid "Sort"
+msgstr "តម្រៀប"
+
+msgid "By name"
+msgstr "តាមឈ្មោះ"
+
+msgid "By date"
+msgstr "តាមកាលបរិច្ឆេទ"
+
+msgid "By updated date"
+msgstr "តាមកាលបរិច្ឆេទធ្វើឱ្យទាន់សម័យ"
+
+msgid "By size"
+msgstr "តាមទំហំ"
+
+msgid "By type"
+msgstr "តាមប្រភេទ"
+
+msgid "Move"
+msgstr "ការផ្លាស់ប្តូរ"
+
+msgid "File Manager"
+msgstr "កម្មវិធីគ្រប់គ្រងឯកសារ"
+
+msgid "Share link"
+msgstr "ចែករំលែកតំណ"
+
+msgid "Responsible"
+msgstr "ការទទួលខុសត្រូវ"
+
+msgid "Performer"
+msgstr "អ្នកសំដែង"
+
+msgid "New Folder"
+msgstr "ថតថ្មី"
+
+msgid "Folder name"
+msgstr "ឈ្មោះថត"
+
+msgid "By default"
+msgstr "តាមលំនាំដើម"
+
+msgid "Back to group"
+msgstr "ត្រឡប់ទៅជាក្រុម"
+
+msgid "year(s)"
+msgstr "ឆ្នាំ (s បាន)"
+
+msgid "January"
+msgstr "ខែមករា"
+
+msgid "February"
+msgstr "ខែកុម្ភៈ"
+
+msgid "March"
+msgstr "ខែមិនា"
+
+msgid "April"
+msgstr "ខែមេសា"
+
+msgid "May"
+msgstr "ឧសភា"
+
+msgid "June"
+msgstr "ខែមិថុនា"
+
+msgid "July"
+msgstr "ខែកក្កដា"
+
+msgid "August"
+msgstr "ខែសីហា"
+
+msgid "September"
+msgstr "ខែកញ្ញា"
+
+msgid "October"
+msgstr "ខែតុលា"
+
+msgid "November"
+msgstr "ខែវិច្ឆិកា"
+
+msgid "December"
+msgstr "ខែធ្នូ"
+
+msgid "Password Reminder"
+msgstr "កម្មវិធីរំលឹកការពាក្យសម្ងាត់"
+
+msgid "Log In"
+msgstr "ចូលក្នុង"
+
+msgid "Sign in"
+msgstr "ចុះឈ្មោះចូល"
+
+msgid "Register"
+msgstr "ចុះឈ្មោះ"
+
+msgid "First name"
+msgstr "ឈ្មោះជាលើកដំបូង"
+
+msgid "Last name"
+msgstr "នាមត្រកូល"
+
+msgid "I agree with rules"
+msgstr "ខ្ញុំយល់ស្របជាមួយច្បាប់"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "សំបុត្រការបញ្ជាក់មួយត្រូវបានផ្ញើទៅអាសយដ្ឋានអ៊ីមែលរបស់អ្នក។"
+
+msgid "Thanks"
+msgstr "សូមអរគុណ"
+
+msgid "Password must be at least 6 characters"
+msgstr "លេខសម្ងាត់ត្រូវតែមានយ៉ាងហោចណាស់ 6 តួអក្សរ"
+
+msgid "Creative Environment"
+msgstr "បរិស្ថានប្រកបដោយការច្នៃប្រឌិត"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "អ្នកត្រូវតែមានយ៉ាងហោចណាស់ដប់បីឆ្នាំដើម្បីប្រើសេវាកម្មនេះ"
+
+msgid "Order status"
+msgstr "ស្ថានភាពបញ្ជាទិញ"
+
+msgid "Processing order"
+msgstr "គោលបំណងដំណើរការ"
+
+msgid "Requires a payment"
+msgstr "តម្រូវឱ្យមានការបង់ប្រាក់"
+
+msgid "Shipping"
+msgstr "ដឹក​តាម​កាប៉ា​ល់"
+
+msgid "Ready"
+msgstr "រួចរាល់ហើយ"
+
+msgid "Thank you for your payment"
+msgstr "សូម​អរគុណ​ចំពោះ​ការ​បង់ប្រាក់​របស់​អ្នក​"
+
+msgid "Your payment has been cancelled"
+msgstr "ការបង់ប្រាក់របស់អ្នកត្រូវបានលុបចោល"
+
+msgid "page"
+msgstr "ទំព័រ"
+
+msgid "Rent period"
+msgstr "រយៈពេលជួល"
+
+msgid "Total, month"
+msgstr "សរុបខែ,"
+
+msgid "Order items"
+msgstr "ធាតុលំដាប់"
+
+msgid "No records found"
+msgstr "រកមិនឃើញការកត់ត្រា"
+
+msgid "User with this email is already exist"
+msgstr "អ្នកប្រើដែលមានអ៊ីម៉ែលនេះគឺមានរួចហើយ"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "ថតឬឯកសារដែលមានឈ្មោះដូចត្រូវមានរួចហើយក្នុងថតទិសដៅ"
+
+msgid "Minimal quantity"
+msgstr "បរិមាណតិចតួចបំផុត"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "ការបោះពុម្ពច្បាប់ចម្លង"
+
+msgid "Terms of Use"
+msgstr "ល័ក្ខខ័ណ្ឌនៃការប្រើប្រាស់"
+
+msgid "Privacy Policy"
+msgstr "គោលការណ៍​ភាព​ឯកជន"
+
+msgid "Find project..."
+msgstr "បានរកឃើញគម្រោងការ ..."
+
+msgid "New Project"
+msgstr "គម្រោងថ្មី"
+
+msgid "Accounts"
+msgstr "គណនី"
+
+msgid "Operations"
+msgstr "ប្រតិបត្ដិការ"
+
+msgid "All accounts"
+msgstr "គណនីទាំងអស់"
+
+msgid "All categories"
+msgstr "ប្រភេទទាំងអស់"
+
+msgid "Expense"
+msgstr "ការចំណាយ"
+
+msgid "Income"
+msgstr "ប្រាក់ចំណូល"
+
+msgid "Transfer"
+msgstr "សេវាផ្ទេរប្រាក់"
+
+msgid "Expense"
+msgstr "ការចំណាយ"
+
+msgid "income"
+msgstr "ប្រាក់ចំណូល"
+
+msgid "tax"
+msgstr "ការបង់ពន្ធ"
+
+msgid "percent"
+msgstr "ភាគរយ"
+
+msgid "transfer"
+msgstr "ការផ្ទេរប្រាក់"
+
+msgid "Make operation"
+msgstr "ធ្វើឱ្យការប្រតិបត្ដិការ"
+
+msgid "Select date"
+msgstr "ជ្រើសកាលបរិច្ឆេទ"
+
+msgid "Select account"
+msgstr "គណនីជ្រើស"
+
+msgid "Month"
+msgstr "ខែ"
+
+msgid "Quarter"
+msgstr "ត្រីមាសទី"
+
+msgid "Year"
+msgstr "ឆ្នាំ"
+
+msgid "From"
+msgstr "ចាប់ពី"
+
+msgid "To"
+msgstr "ដើម្បី"
+
+msgid "Expense amount"
+msgstr "ចំនួនទឹកប្រាក់ ការចំណាយ"
+
+msgid "Categories"
+msgstr "ប្រភេទ"
+
+msgid "Comments"
+msgstr "យោបល់"
+
+msgid "Income amount"
+msgstr "ចំនួនទឹកប្រាក់ ដែលមានប្រាក់ចំណូល"
+
+msgid "Transfer amount"
+msgstr "ចំនួនទឹកប្រាក់ ផ្ទេរប្រាក់"
+
+msgid "From account"
+msgstr "ពីគណនី"
+
+msgid "To account"
+msgstr "ទៅគណនី"
+
+msgid "New Account"
+msgstr "គណនីថ្មី"
+
+msgid "New Category"
+msgstr "ប្រភេទថ្មី"
+
+msgid "All"
+msgstr "ទាំងអស់"
+
+msgid "Name"
+msgstr "ឈ្មោះ"
+
+msgid "Enter category name"
+msgstr "បញ្ចូលឈ្មោះ ប្រភេទ"
+
+msgid "Select type"
+msgstr "ជ្រើសរើសប្រភេទ"
+
+msgid "Credit card"
+msgstr "កាត​ឥណទាន"
+
+msgid "Debit card"
+msgstr "ប័ណ្ណ​ឥ​ណ្ណ​ពន្ធ"
+
+msgid "Bank account"
+msgstr "គណនីធនាគារ"
+
+msgid "Cash"
+msgstr "ជាសាច់ប្រាក់"
+
+msgid "Balance is empty"
+msgstr "តុល្យការ គឺទទេ"
+
+msgid "Statistic is empty"
+msgstr "ស្ថិតិ គឺទទេ"
+
+msgid "Regular payments"
+msgstr "ការបង់ប្រាក់ ទៀងទាត់"
+
+msgid "Are you sure ?"
+msgstr "តើ​អ្នក​ប្រាកដ​ឬ​អត់ ?"
+
+msgid "Are you sure to close this project?"
+msgstr "តើអ្នកប្រាកដថា ដើម្បីបិទ គម្រោងនេះឬ?"
+
+msgid "Project was deleted successfully"
+msgstr "គម្រោង ត្រូវបានលុប ដោយជោគជ័យ"
+
+msgid "Select currency"
+msgstr "ជ្រើស រូបិយប័ណ្ណ"
+
+msgid "Account"
+msgstr "គណនី"
+
+msgid "Orders list"
+msgstr "បញ្ជី ការបញ្ជាទិញ"
+
+msgid "Order payments"
+msgstr "ការទូទាត់ លំដាប់"
+
+msgid "View order"
+msgstr "គោលបំណង មើល"
+
+msgid "No response from Printer API"
+msgstr "គ្មានការ ឆ្លើយតបពី API របស់ ម៉ាស៊ីនបោះពុម្ព"
+
+msgid "Bad response from Printer API"
+msgstr "ជាការឆ្លើយតប អាក្រក់ពី API របស់ ម៉ាស៊ីនបោះពុម្ព"
+
+msgid "User ID"
+msgstr "លេខ​សម្គាល់​អ្នក​ប្រើ"
+
+msgid "Contact Person"
+msgstr "អ្នក​ទាក់ទង"
+
+msgid "No orders to process"
+msgstr "មិនមាន ការបញ្ជាទិញ ដើម្បីដំណើរការ"
+
+msgid "Article announce image"
+msgstr "មាត្រា ប្រកាសពី រូបភាព"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "url ដែល ជាវីដេអូ មិនត្រឹមត្រូវ។ ទុកឱ្យ វានៅទទេ ឬបញ្ចូល URL ដែល គេហទំព័រ YouTube ដែលមានសុពលភាព"
+
+msgid "Please, enter Contractor data"
+msgstr "សូម បញ្ចូលទិន្នន័យ អ្នកម៉ៅការ"
+
+msgid "Distribute devices"
+msgstr "ចែកចាយ ឧបករណ៍"
+
+msgid "Quantity"
+msgstr "បរិមាណដែលត្រូវទទួលទាន"
+
+msgid "Devices left"
+msgstr "ឧបករណ៍ដែលបាន ចាកចេញពី"
+
+msgid "Distributed devices"
+msgstr "ឧបករណ៍ ដែលបានចែកចាយ"
+
+msgid "You must enter quantity"
+msgstr "អ្នកត្រូវតែបញ្ចូល បរិមាណ"
+
+msgid "All devices are distributed"
+msgstr "ឧបករណ៍ទាំងអស់ ត្រូវបានចែកចាយ"
+
+msgid "IP address"
+msgstr "អាសយដ្ឋាន IP"
+
+msgid "Only for printer"
+msgstr "សម្រាប់តែ ម៉ាស៊ីនបោះពុម្ព"
+
+msgid "Counter"
+msgstr "ប្រឆាំង"
+
+msgid "You was excluded from this room"
+msgstr "អ្នកត្រូវបានគេ ដកចេញពី បន្ទប់នេះ"
+
+msgid "Compare"
+msgstr "ការប្រៀបធៀប"
+
+msgid "Scheduled transaction"
+msgstr "ប្រតិបត្តិការ ដែលបានគ្រោង"
+
+msgid "Select transfer account"
+msgstr "ជ្រើស គណនី ផ្ទេរប្រាក់"
+
+msgid "Select income account"
+msgstr "ជ្រើស គណនី ដែលមានប្រាក់ចំណូល"
+
+msgid "Reports"
+msgstr "របាយការណ៍"
+
+msgid "Goals"
+msgstr "គ្រាប់បាល់បញ្ចូលទី"
+
+msgid "Budgets"
+msgstr "ថវិកា"
+
+msgid "Enter user name or email..."
+msgstr "បញ្ចូលឈ្មោះអ្នកប្រើ ឬអ៊ីម៉ែល ..."
+
+msgid "Invite had been sended"
+msgstr "សូមអញ្ជើញ ត្រូវបានគេ sended"
+
+msgid "Statistics"
+msgstr "ស្ថិតិ"
+
+msgid "Updated site began to work"
+msgstr "តំបន់បណ្តាញ ធ្វើឱ្យទាន់សម័យ បានចាប់ផ្តើមធ្វើការ"
+
+msgid "City of residence"
+msgstr "ទីក្រុងនៃ លំនៅដ្ឋាន"
+
+msgid "Edit favourites list"
+msgstr "បញ្ជី កែសម្រួល ចំនូលចិត្ត"
+
+msgid "Add favourites list"
+msgstr "បន្ថែមបញ្ជី ចំនូលចិត្ត"
+
+msgid "Categories is required"
+msgstr "ប្រភេទ ត្រូវបានទាមទារ"
+
+msgid "Type new category name and hit Enter"
+msgstr "វាយបញ្ចូលឈ្មោះ ប្រភេទថ្មី រួចវាយ Enter"
+
+msgid "You created an order"
+msgstr "អ្នកបង្កើត គោលបំណងមួយ"
+
+msgid "You received a device due to this order"
+msgstr "អ្នកបានទទួល ឧបករណ៍មួយ ដោយសារតែការ បញ្ជាទិញនេះ"
+
+msgid "%s attached %s to task %s"
+msgstr "%s នៅ ក្នុង%s ដែលបានភ្ជាប់ ទៅនឹង ភារកិច្ច ក្នុង%s"
+
+msgid "member(s)"
+msgstr "ជាសមាជិក (s បាន)"
+
+msgid "%s commented task %s"
+msgstr "%s បាន ភារកិច្ច អធិប្បាយ %s បាន"
+
+msgid "%s closed task %s"
+msgstr "%s បាន ភារកិច្ច បិទជិត %s បាន"
+
+msgid "%s created task %s"
+msgstr "%s បាន ភារកិច្ច ដែលបានបង្កើត ក្នុង%s"
+
+msgid "%s created this project"
+msgstr "%s បាន បង្កើតគម្រោង នេះ"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s របស់ គម្រោងរង ដែលបានបង្កើត \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "គម្រោងដែល បិទជិត \"%s\" %s បាន"
+
+msgid "%s closed subproject \"%s\""
+msgstr "គម្រោងរង ដែលបិទ \"%s\" %s បាន"
+
+msgid "This field must not be blank"
+msgstr "វាលនេះ មិនត្រូវទទេ"
+
+msgid "Document with such name is already exist"
+msgstr "ឯកសារដែលមានឈ្មោះ បែបនេះគឺ មានរួចហើយ"
+
+msgid "Wait until image upload"
+msgstr "រង់ចាំរហូតដល់ ការផ្ទុកឡើង រូបភាព"
+
+msgid "Video"
+msgstr "វីដេអូ"
+
+msgid "Message can not be empty"
+msgstr "សារដែល មិនអាចទទេ"
+
+msgid "Yes"
+msgstr "បាទ"
+
+msgid "No"
+msgstr "គ្មាន"
+
+msgid "Created"
+msgstr "បានបង្កើត"
+
+msgid "Compare is empty"
+msgstr "ការប្រៀបធៀប គឺទទេ"
+
+msgid "Are you sure you want to delete operation"
+msgstr "តើអ្នកប្រាកដជា ចង់លុបការ ប្រតិបត្ដិការ"
+
+msgid "Do you really want to delete transaction"
+msgstr "តើអ្នក ពិតជាចង់លុប ប្រតិបត្តិការ"
+
+msgid "Project with same name already exists"
+msgstr "គម្រោងដែលមានឈ្មោះ ដូចគ្នា រួចហើយ"
+
+msgid "Account is not found"
+msgstr "គណនីត្រូវបាន រកមិនឃើញ"
+
+msgid "Currency is required"
+msgstr "រូបិយប័ណ្ណ ត្រូវបានទាមទារ"
+
+msgid "error while deleting document"
+msgstr "កំហុសខណៈពេលលុប ឯកសារ"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "អ្នក ដែលបានអញ្ជើញ អ្នកប្រើ \"%s\" ក្នុង បន្ទប់នេះ"
+
+msgid "User \"%s\" joined this room"
+msgstr "អ្នកប្រើ \"%s\" បានចូលរួមជាមួយ បន្ទប់នេះ"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "អ្នក មិនបានរាប់បញ្ចូល អ្នកប្រើ \"%s \" ពី បន្ទប់នេះ"
+
+msgid "User \"%s\" left this room"
+msgstr "អ្នកប្រើ \"%s\" បានចាកចេញពី បន្ទប់នេះ"
+
+msgid "Add account"
+msgstr "បន្ថែមគណនី"
+
+msgid "The requested page is not found"
+msgstr "ទំព័រ ដែលបានស្នើ មិនត្រូវ បានរកឃើញ"
+
+msgid "Document"
+msgstr "ឯកសារ"
+
+msgid "Table"
+msgstr "តារាង"
+
+msgid "file(s)"
+msgstr "ឯកសារ (s បាន)"
+
+msgid "Residue"
+msgstr "កាកសំណល់"
+
+msgid "Result is empty"
+msgstr "លទ្ធផលគឺ ទទេ & ‧;"
+
+msgid "The total amount is %s for %s mo"
+msgstr "ចំនួនទឹកប្រាក់ សរុបគឺ %s សម្រាប់ %s ដែល ខែ"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "អ្នកត្រូវតែ ដាក់ ក្នុង%s ប្រចាំខែទៅ ក្នុងគណនី ដែលទាក់ទង"
+
+msgid "Start"
+msgstr "ការចាប់ផ្តើម"
+
+msgid "finish"
+msgstr "ការបញ្ចប់"
+
+msgid "Selected account is already in use for another goal"
+msgstr "គណនីដែលបានជ្រើស មានរួចហើយ ក្នុងការប្រើប្រាស់ សម្រាប់ គោលដៅ ផ្សេងទៀត"
+
+msgid "Amount required"
+msgstr "តម្រូវឱ្យមាន ចំនួនទឹកប្រាក់"
+
+msgid "New goal"
+msgstr "គោលដៅថ្មី"
+
+msgid "Goal"
+msgstr "គ្រាប់បាល់បញ្ចូលទី"
+
+msgid "Goal name"
+msgstr "ឈ្មោះរបស់ គ្រាប់បាល់បញ្ចូលទី"
+
+msgid "Invalid date"
+msgstr "កាលបរិច្ឆេទមិនត្រឹមត្រូវ"
+
+msgid "Necessary sum must be a positive number"
+msgstr "ផលបូក ការចាំបាច់ ត្រូវតែជា ចំនួនវិជ្ជមាន"
+
+msgid "Remain"
+msgstr "នៅតែមាន"
+
+msgid "Last day"
+msgstr "ថ្ងៃ​ចុងក្រោយ"
+
+msgid "Accumulated"
+msgstr "បង្គរ"
+
+msgid "Put aside"
+msgstr "ទុក​ម្ខាង"
+
+msgid "January"
+msgstr "ខែមករា"
+
+msgid "February"
+msgstr "ខែកុម្ភៈ"
+
+msgid "March"
+msgstr "ខែមិនា"
+
+msgid "April"
+msgstr "ខែមេសា"
+
+msgid "May"
+msgstr "ឧសភា"
+
+msgid "June"
+msgstr "ខែមិថុនា"
+
+msgid "July"
+msgstr "ខែកក្កដា"
+
+msgid "August"
+msgstr "ខែសីហា"
+
+msgid "September"
+msgstr "ខែកញ្ញា"
+
+msgid "October"
+msgstr "ខែតុលា"
+
+msgid "November"
+msgstr "ខែវិច្ឆិកា"
+
+msgid "December"
+msgstr "ខែធ្នូ"
+
+msgid "Expenses projected/actual"
+msgstr "ការចំណាយលើការ ដែលបានព្យាករ / ពិតប្រាកដ"
+
+msgid "Net Income projected/actual"
+msgstr "ចំណូលសុទ្ធ បានព្យាករ / ពិតប្រាកដ"
+
+msgid "New budget"
+msgstr "ថវិកាថ្មី"
+
+msgid "Revenue and Expenses Chart"
+msgstr "តារាង ប្រាក់ចំណូល និងចំណាយ"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "ថវិកា ជាមួយគូ ដូចគ្នានៃ គណនីនិង ប្រភេទដែល មានរួចហើយ"
+
+msgid "Budget is empty"
+msgstr "ថវិកា គឺទទេ"
+
+msgid "Budget"
+msgstr "ថវិកា"
+
+msgid "plan"
+msgstr "ផែនការ"
+
+msgid "fact"
+msgstr "ជាការពិត"
+
+msgid "diff"
+msgstr "ប្រៀបធៀប"
+
+msgid "Show More"
+msgstr "បង្ហាញច្រើនទៀត"
+
+msgid "Cancel"
+msgstr "បោះបង់"
+
+msgid "d"
+msgstr "ឃ"
+
+msgid "h"
+msgstr "ម៉ោង"
+
+msgid "min"
+msgstr "នាទី"
+
+msgid "My sales"
+msgstr "ការលក់របស់ខ្ញុំ"
+
+msgid "Time spent"
+msgstr "ពេល​វេលា​ដែល​បាន​ចំណាយ"
+
+msgid "Total time spent"
+msgstr "ការចំណាយពេលសរុប"
+
+msgid "Earnings per hour"
+msgstr "ប្រាក់ចំណូលក្នុងមួយ ម៉ោង"
+
+msgid "Total earnings"
+msgstr "ប្រាក់ចំណូលសរុប"
+
+msgid "Call"
+msgstr "ការហៅ"
+
+msgid "Phone call"
+msgstr "ការហៅទូរស័ព្ទ"
+
+msgid "Telephone calls"
+msgstr "ការហៅទូរស័ព្ទ"
+
+msgid "Send email"
+msgstr "ផ្ញើអ៊ីម៉ែល"
+
+msgid "Emails"
+msgstr "អ៊ីម៉ែល"
+
+msgid "Meeting"
+msgstr "ការជួបប្រជុំ"
+
+msgid "Meetings"
+msgstr "កិច្ចប្រជុំ"
+
+msgid "All events"
+msgstr "ព្រឹត្តិការណ៍ទាំងអស់"
+
+msgid "Task"
+msgstr "ភារកិច្ច"
+
+msgid "Event"
+msgstr "ព្រឹត្តការណ៍"
+
+msgid "Events"
+msgstr "ព្រឹត្ដិការណ៍"
+
+msgid "Time"
+msgstr "ពេលវេលា"
+
+msgid "Events statistics"
+msgstr "ស្ថិតិ ព្រឹត្ដិការណ៍"
+
+msgid "days"
+msgstr "ថ្ងៃ"
+
+msgid "hours"
+msgstr "ម៉ោង"
+
+msgid "minutes"
+msgstr "នាទី"
+
+msgid "Income & expense"
+msgstr "ប្រាក់ចំណូល និង ការចំណាយ"
+
+msgid "Show chart"
+msgstr "បង្ហាញ តារាង"
+
+msgid "Hide chart"
+msgstr "លាក់ តារាង"
+
+msgid "Add event"
+msgstr "បន្ថែមព្រឹត្តិការណ៍"
+
+msgid "Add financial data"
+msgstr "បន្ថែម ទិន្នន័យហិរញ្ញវត្ថុ"
+
+msgid "Select contractor"
+msgstr "ជ្រើស ចុះកិច្ចសន្យា"
+
+msgid "Net Income"
+msgstr "ប្រាក់ចំណូល"
+
+msgid "Revenue"
+msgstr "ប្រាក់ចំណូល"
+
+msgid "Taxes"
+msgstr "ពន្ធ"
+
+msgid "Amount planned"
+msgstr "ចំនួនទឹកប្រាក់ ដែលបានគ្រោងទុក"
+
+msgid "Amount"
+msgstr "ចំនួនទឹកប្រាក់"
+
+msgid "Period"
+msgstr "រយៈេពល"
+
+msgid "Are you sure to close this task?"
+msgstr "តើអ្នកប្រាកដថា ដើម្បីបិទ ភារកិច្ចនេះ ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "ក្រុមទាំងអស់"
+
+msgid "added from task"
+msgstr "បន្ថែមពី ភារកិច្ច"
+
+msgid "Monthly repeat"
+msgstr "ម្តងទៀត ប្រចាំខែ"
+
+msgid "Select category"
+msgstr "ជ្រើសប្រភេទ"
+
+msgid "Event type"
+msgstr "ប្រភេទ ព្រឹត្តិការណ៍"
+
+msgid "Margin"
+msgstr "រឹម"
+
+msgid "Use finance project"
+msgstr "ប្រើ គម្រោងការ ហិរញ្ញវត្ថុ"
+
+msgid "New investment project"
+msgstr "គម្រោងការ វិនិយោគថ្មី"
+
+msgid "Investment project settings"
+msgstr "ការកំណត់ គម្រោងវិនិយោគ"
+
+msgid "Picture, for the announcement project"
+msgstr "រូបភាព សម្រាប់គម្រោង សេចក្តីប្រកាសនេះ"
+
+msgid "Announcement project"
+msgstr "សេចក្តីប្រកាស របស់គម្រោង"
+
+msgid "Video"
+msgstr "វីដេអូ"
+
+msgid "Photos or videos gallery"
+msgstr "រូបភាពឬវីដេអូ វិចិត្រសាល"
+
+msgid "required amount"
+msgstr "ចំនួនទឹកប្រាក់ដែលត្រូវការ"
+
+msgid "Project duration (60 days maximum)"
+msgstr "រយៈពេលជា គម្រោង ( 60 ថ្ងៃ អតិបរមា)"
+
+msgid "Project duration"
+msgstr "រយៈពេលជា គម្រោង"
+
+msgid "Add reward"
+msgstr "បន្ថែម ទទួលរង្វាន់"
+
+msgid "Delivery date"
+msgstr "កាលបរិច្ឆេទ ការដឹកជញ្ជូន"
+
+msgid "Payment systems"
+msgstr "ប្រព័ន្ធទូទាត់"
+
+msgid "Terms of service"
+msgstr "លក្ខខណ្ឌ​សេវាកម្ម"
+
+msgid "Agreement"
+msgstr "កិច្ចព្រមព្រៀង"
+
+msgid "Payment"
+msgstr "ការទូទាត់"
+
+msgid "My projects"
+msgstr "គម្រោងការ របស់ខ្ញុំ"
+
+msgid "Search result"
+msgstr "លទ្ធផលស្វែងរក"
+
+msgid "Nothing not found"
+msgstr "រកមិនឃើញ គ្មានអ្វី"
+
+msgid "The project has no sponsors"
+msgstr "គម្រោងនេះមាន អ្នកឧបត្ថម្ភ នោះទេ"
+
+msgid "Design"
+msgstr "ការរចនា"
+
+msgid "Food"
+msgstr "អាហារ"
+
+msgid "Journalism"
+msgstr "ការសែត"
+
+msgid "Games"
+msgstr "ព្រឹត្តិការណ៍កីឡា"
+
+msgid "Art"
+msgstr "សិល្បៈ"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "តន្ត្រី"
+
+msgid "Handicrafts"
+msgstr "សិប្បកម្មធ្វើដោយដៃ"
+
+msgid "Publishing"
+msgstr "បោះពុម្ពផ្សាយ"
+
+msgid "Theater"
+msgstr "ល្ខោន"
+
+msgid "Technology"
+msgstr "បច្ចេកវិទ្យា"
+
+msgid "Film/Video"
+msgstr "ខ្សែភាពយន្ត / វីដេអូ"
+
+msgid "Photo"
+msgstr "រូបថត"
+
+msgid "Dance"
+msgstr "របាំ"
+
+msgid "Invalid youtube video"
+msgstr "វីដេអូ មិនត្រឹមត្រូវ"
+
+msgid "is required"
+msgstr "គឺ​តំរូវ​អោយ​មាន"
+
+msgid "User"
+msgstr "ការពិភាក្សារបស់អ្នកប្រើប្រាស់"
+
+msgid "Date"
+msgstr "កាលបរិច្ឆេទ"
+
+msgid "Collected"
+msgstr "បានប្រមូល"
+
+msgid "Choose period"
+msgstr "ជ្រើសរយៈពេល"
+
+msgid "Choose region"
+msgstr "ជ្រើស តំបន់"
+
+msgid "Country"
+msgstr "ប្រទេស"
+
+msgid "Today"
+msgstr "សព្វថ្ងៃនេះ"
+
+msgid "Week"
+msgstr "សប្តាហ៍"
+
+msgid "Month"
+msgstr "ខែ"
+
+msgid "Year"
+msgstr "ឆ្នាំ"
+
+msgid "Free registration"
+msgstr "ការចុះឈ្មោះ ដោយឥតគិតថ្លៃ"
+
+msgid "Join"
+msgstr "សូមចូលរួម"
+
+msgid "Log in using"
+msgstr "ចូលក្នុងការប្រើ"
+
+msgid "Vacancies"
+msgstr "ឱកាស​ការងារ"
+
+msgid "About Us"
+msgstr "អំពីយើង"
+
+msgid "You will need email to log in"
+msgstr "អ្នកនឹងត្រូវ បានអ៊ីម៉ែល ដើម្បីចូល"
+
+msgid "A combination of 6 digits and characters"
+msgstr "រួមបញ្ចូលគ្នានៃ 6 ខ្ទង់ និងតួអក្សរ មួយ"
+
+msgid "Search users, groups, articles..."
+msgstr "អ្នកប្រើដែលបាន ស្វែងរក ក្រុម អត្ថបទ ..."
+
+msgid "Cloud"
+msgstr "ពពក"
+
+msgid "Sunday"
+msgstr "កាលពីថ្ងៃអាទិត្យ"
+
+msgid "Monday"
+msgstr "កាលពីថ្ងៃចន្ទ"
+
+msgid "Tuesday"
+msgstr "កាលពីថ្ងៃអង្គារ"
+
+msgid "Wednesday"
+msgstr "កាលពីថ្ងៃពុធ"
+
+msgid "Thursday"
+msgstr "ថ្ងៃព្រហស្បតិ៍"
+
+msgid "Friday"
+msgstr "ថ្ងៃសុក្រ"
+
+msgid "Saturday"
+msgstr "ថ្ងៃសៅរ៍"
+
+msgid "Edit"
+msgstr "កែសម្រួល"
+
+msgid "Create group"
+msgstr "បង្កើតក្រុម"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "តើអ្នក ប្រាកដជាចង់ ចាកចេញពីទំព័រ នេះឬទេ?"
+
+msgid "More"
+msgstr "ច្រើនទៀត"
+
+msgid "Less"
+msgstr "តិចជាង"
+
+msgid "Pending"
+msgstr "ឡុងេពល"
+
+msgid "Approved"
+msgstr "បានអនុម័ត"
+
+msgid "Rejected"
+msgstr "ច្រានចោល"
+
+msgid "Subprojects"
+msgstr "គម្រោងរង"
+
+msgid "Group edit"
+msgstr "កែសម្រួលក្រុម"
+
+msgid "Startup"
+msgstr "ពេលចាប់ផ្ដើម"
+
+msgid "Tattoo"
+msgstr "ការចាក់សាក់"
+
+msgid "Health"
+msgstr "សុខភាព"
+
+msgid "Weapon"
+msgstr "អាវុធ"
+
+msgid "Astronomy"
+msgstr "តារាវិទ្យា"
+
+msgid "All articles"
+msgstr "អត្ថបទទាំងអស់"
+
+msgid "Article editor"
+msgstr "កម្មវិធីនិពន្ធ អត្ថបទមួយ"
+
+msgid "Document editor"
+msgstr "កម្មវិធីនិពន្ធ ឯកសារ"
+
+msgid "Apply changes"
+msgstr "អនុវត្ត ការផ្លាស់ប្តូរ"
+
+msgid "Save changes?"
+msgstr "រក្សាទុក ការផ្លាស់ប្តូរ ?"
+
+msgid "published an article"
+msgstr "បានចេញផ្សាយ អត្ថបទមួយ"
+
+msgid "Users"
+msgstr "អ្នកប្រើប្រាស់"
+
+msgid "Shared With Me"
+msgstr "ចែកចាយជាមួយនឹងខ្ញុំ"
+
+msgid "share"
+msgstr "ចំណែក"
+
+msgid "Select Group Responsible"
+msgstr "ជ្រើស ជាក្រុម ដែលទទួលខុសត្រូវ"
+
+msgid "Create folder"
+msgstr "បង្កើតថត"
+
+msgid "Title must be at least 3 characters"
+msgstr "ចំណងជើង ត្រូវតែ មានយ៉ាងហោចណាស់ 3 តួអក្សរ"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "ដោយឥតគិតថ្លៃ 10 ជីកាបៃ, អ្នកគ្រប់គ្រង ហិរញ្ញវត្ថុ, ម៉ូឌុល ការវិនិយោគនិង ជាច្រើនទៀត ដោយឥតគិតថ្លៃ និងជារៀងរហូត"
+
+msgid "Best regards"
+msgstr "ទាក់ទង ល្អបំផុត"
+
+msgid "Updates in last 12 hours:"
+msgstr "ភាពទាន់សម័យនៅក្នុង 12 ម៉ោង មុន:"
+
+msgid "expense"
+msgstr "ការចំណាយ"
+
+msgid "Commentary on the event:"
+msgstr "អត្ថាធិប្បាយ លើព្រឹត្តិការណ៍ នេះ:"
+
+msgid "Event place"
+msgstr "កន្លែង ព្រឹត្តិការណ៍"
+
+msgid "Project was updated"
+msgstr "គម្រោង ត្រូវបាន ធ្វើឱ្យទាន់សម័យ"
+
+msgid "Project was created"
+msgstr "គម្រោង ត្រូវបានបង្កើតឡើង"
+
+msgid "Project was closed"
+msgstr "គម្រោង ត្រូវបានគេបិទ"
+
+msgid "account"
+msgstr "គណនី"
+
+msgid "removed task"
+msgstr "ភារកិច្ច បានយកចេញ"
+
+msgid "removed subproject"
+msgstr "គម្រោងរង បានយកចេញ"
+
+msgid "Title can not be empty"
+msgstr "ចំណងជើង មិនអាចទទេ"
+
+msgid "Do not select the type of event"
+msgstr "កុំ ជ្រើសប្រភេទនៃ ព្រឹត្តិការណ៍នេះ"
+
+msgid "Error while saving comment"
+msgstr "មានកំហុសខណៈពេល រក្សាទុកមតិយោបល់"
+
+msgid "Save error: access denied"
+msgstr "រក្សាទុក កំហុស : ការចូលដំណើរការ បានបដិសេធ"
+
+msgid "Remains"
+msgstr "នៅសល់"
+
+msgid "Time spent, h."
+msgstr "ពេលវេលាដែល បានចំណាយ ក្នុងមួយម៉ោង។"
+
+msgid "Emails"
+msgstr "អ៊ីម៉ែល"
+
+msgid "Meetings"
+msgstr "កិច្ចប្រជុំ"
+
+msgid "All users"
+msgstr "ប្រើប្រាស់ទាំងអស់"
+
+msgid "Category"
+msgstr "ប្រភេទ"
+
+msgid "Finance project"
+msgstr "គម្រោងការ ហិរញ្ញវត្ថុ"
+
+msgid "Investment project"
+msgstr "គម្រោងវិនិយោគ"
+
+msgid "Nature"
+msgstr "ធម្មជាតិ"
+
+msgid "Data is empty"
+msgstr "ទិន្នន័យ ទទេ & ‧;"
+
+msgid "Visitors"
+msgstr "ចំនួនអ្នកទស្សនាអន"
+
+msgid "My profile"
+msgstr "ទម្រង់របស់ខ្ញុំ"
+
+msgid "Sponsors"
+msgstr "អ្នកឧបត្ថម្ភ"
+
+msgid "Prior to completion"
+msgstr "មុនពេលបញ្ចប់"
+
+msgid "Select"
+msgstr "ជ្រើស"
+
+msgid "My groups"
+msgstr "ក្រុម របស់ខ្ញុំ"
+
+msgid "The invitation has been sent successfully"
+msgstr "ការអញ្ជើញនេះ ត្រូវបានផ្ញើ ដោយជោគជ័យ"
+
+msgid "Username has already been invited to this project"
+msgstr "ឈ្មោះអ្នកប្រើ ត្រូវបានអញ្ជើញ រួចទៅហើយ គម្រោងនេះ"
+
+msgid "The user is the creator of the project"
+msgstr "អ្នកគឺ ជាអ្នកបង្កើត នៃគម្រោង"
+
+msgid "Provide full access"
+msgstr "ផ្តល់លទ្ធភាពទទួល បានពេញលេញ"
+
+msgid "Select elements to provide access"
+msgstr "ជ្រើសធាតុ នូវការផ្ដល់សិទ្ធិ"
+
+msgid "Select all"
+msgstr "ជ្រើស​យក​ទាំងអស់"
+
+msgid "User E-mail"
+msgstr "E-mail របស់អ្នកប្រើ"
+
+msgid "Click on the field to select a category"
+msgstr "សូមចុច នៅលើវាល ដើម្បីជ្រើស ប្រភេទមួយ"
+
+msgid "Invitation was deleted"
+msgstr "លិខិតអញ្ជើញ ត្រូវបានលុប"
+
+msgid "Permission denied"
+msgstr "មិន​ត្រូវ​បាន​អនុញ្ញាត"
+
+msgid "Printed"
+msgstr "ដែលបានបោះពុម្ព"
+
+msgid "Incorrect Contractor email"
+msgstr "អ៊ីម៉ែល អ្នកម៉ៅការ មិនត្រឹមត្រូវ"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "តើ អ្នកចង់បន្ថែមទៅ គម្រោងមួយដើម្បី ផ្តល់ហិរញ្ញប្បទានដល់ការ ប់ង?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "ដើម្បីបញ្ចប់ ដំណើរការចុះឈ្មោះ សូមបំពេញ ចុះ ជំនាញរបស់អ្នក"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "ផ្ញើអ៊ីមែល ដោយមានការណែនាំ បន្ថែមទៀត ត្រូវបានគេបញ្ជូន ទៅកាន់អាសយដ្ឋាន អ៊ីមែលរបស់អ្នក"
+
+msgid "Submit"
+msgstr "ដាក់ស្នើ"
+
+msgid "Cars"
+msgstr "រថយន្ត"
+
+msgid "Science"
+msgstr "វិទ្យាសាស្រ្ត"
+
+msgid "Donation"
+msgstr "ការបរិច្ចាក"
+
+msgid "Interests"
+msgstr "ចំណង់ចំណូលចិត្ត"
+
+msgid "Driver"
+msgstr "កម្មវិធីបញ្ជា"
+
+msgid "Sportsman"
+msgstr "កីឡា"
+
+msgid "Businessman"
+msgstr "ពាណិជ្ជករ"
+
+msgid "Accountant"
+msgstr "គណនេយ្យករ"
+
+msgid "Engineer"
+msgstr "វិស្វករ"
+
+msgid "Soldier"
+msgstr "ទាហាន"
+
+msgid "Next"
+msgstr "បន្ទាប់"
+
+msgid "Hide group"
+msgstr "លាក់ក្រុម"
+
+msgid "groups created"
+msgstr "ក្រុម ដែលបានបង្កើត"
+
+msgid "articles written"
+msgstr "អត្ថបទដែលបានសរសេរ"
+
+msgid "These groups may be interesting for you"
+msgstr "ក្រុមទាំងនេះ អាចជា គួរឱ្យចាប់អារម្មណ៍ សម្រាប់អ្នក"
+
+msgid "About Group"
+msgstr "អំពីក្រុម"
+
+msgid "view(s)"
+msgstr "ទិដ្ឋភាព (s បាន)"
+
+msgid "Favorite users"
+msgstr "អ្នកប្រើប្រាស់ ដែលខ្ញុំចូលចិត្ត"
+
+msgid "No accounts"
+msgstr "គ្មានគណនី"
+
+msgid "Facebook authorization failed."
+msgstr "ហ្វេសប៊ុក មានការអនុញ្ញាត បរាជ័យ។"
+
+msgid "Authorization Required"
+msgstr "ដែលត្រូវការ សេចក្តីអនុញ្ញាត"
+
+msgid "You have to make a call:"
+msgstr "អ្នកមានដើម្បី ធ្វើឱ្យការហៅ មួយ:"
+
+msgid "You have to send an email:"
+msgstr "អ្នកត្រូវតែ ផ្ញើអ៊ីម៉ែល :"
+
+msgid "You have a meetup:"
+msgstr "អ្នកមាន ការជួបជុំ មួយ:"
+
+msgid "You event :"
+msgstr "ព្រឹត្តការណ៍ អ្នក:"
+
+msgid "Participants:"
+msgstr "អ្នកចូលរួម:"
+
+msgid "Search"
+msgstr "ស្វែងរក"
+
+msgid "News"
+msgstr "ព័ត៍មាន"
+
+msgid "Investments"
+msgstr "ការវិនិយោគ"
+
+msgid "Back to Cloud"
+msgstr "ត្រឡប់ទៅ ពពក"
+
+msgid "Documents"
+msgstr "ឯកសារ"
+
+msgid "Planet"
+msgstr "ភពផែនដី"
+
+msgid "Group url"
+msgstr "url ដែល ជាក្រុម"
+
+msgid "Profile url"
+msgstr "ទម្រង់ url"
+
+msgid "Already taken"
+msgstr "យក​បាត់​ហើយ"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "លិខិត យ៉ាងហោចណាស់ 1 និងទី 3 ប្រវែង តួអក្សរ ដែលបានទាមទារ"
+
+msgid "Digit can not be the first character"
+msgstr "ខ្ទង់ មិនអាចមាន តួអក្សរដំបូង"
+
+msgid "Enter valid email address"
+msgstr "បញ្ចូលអាសយដ្ឋានអ៊ីមែល ដែលមានសុពលភាព"
+
+msgid "Enter your skills"
+msgstr "បញ្ចូល ជំនាញរបស់អ្នក"
+
+msgid "Enter your first name"
+msgstr "បញ្ចូលឈ្មោះ ដំបូងរបស់អ្នក"
+
+msgid "Enter your last name"
+msgstr "បញ្ចូលឈ្មោះ ចុងក្រោយរបស់អ្នក"
+
+msgid "Enter your first name and last name"
+msgstr "បញ្ចូលឈ្មោះ នាមត្រកូលនិងនាម របស់អ្នក"
+
+msgid "Your first name?"
+msgstr "ឈ្មោះ របស់អ្នក?"
+
+msgid "Your last name?"
+msgstr "ឈ្មោះចុងក្រោយ របស់អ្នក?"
+
+msgid "What are your proficiencies?"
+msgstr "តើមានអ្វីដែល ប៉ិនប្រសប់ របស់អ្នក?"
+
+msgid "Select country"
+msgstr "ជ្រើសរើស​ប្រទេស"
+
+msgid "Select user"
+msgstr "ជ្រើស អ្នកប្រើ"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "បំពេញក្តីសុបិន របស់អ្នក! បង្កើតនិង ការសហការ។"
+
+msgid "date moved from"
+msgstr "កាលបរិច្ឆេទ ផ្លាស់ប្តូរពី"
+
+msgid "work"
+msgstr "ការងារ"
+
+msgid "Conference"
+msgstr "សន្និសិទ"
+
+msgid "personal"
+msgstr "ផ្ទាល់ខ្លួន"
+
+msgid "Holiday"
+msgstr "ថ្ងៃឈប់សម្រាក"
+
+msgid "Past"
+msgstr "កន្លង​មក"
+
+msgid "Future"
+msgstr "នា​ពេល​អនាគត"
+
+msgid "Purchase"
+msgstr "ការ​ទិញ"
+
+msgid "Personal events"
+msgstr "ព្រឹត្តិការណ៍​ឯកជន"
+
+msgid "Conferences"
+msgstr "ការ​ជួប​ប្រជុំ"
+
+msgid "Holidays"
+msgstr "ថ្ងៃ​ឈប់​សម្រាក"
+
+msgid "Sport events"
+msgstr "កីឡា​ព្រឹ​ត្ត​ការណ៍"
+
+msgid "Tasks"
+msgstr "ភារកិច្ច"
+
+msgid "Other events"
+msgstr "ព្រឹត្តិការណ៍​ផ្សេង​ទៀត"
+
+msgid "Set aside"
+msgstr "takeout"
+
+msgid "Set aside"
+msgstr "ព​ន្យា​ពេល"
+
+msgid "Time management"
+msgstr "ការគ្រប់គ្រង​ពេលវេលា"
+
+msgid "Delayed events"
+msgstr "ព្រឹ​ត្ត​ការណ៍​ព​ន្យា"
+
+msgid "Delayed"
+msgstr "ព​ន្យា​ពេល"
+
+msgid "Bind to"
+msgstr "ចាត់តាំង"
+
+msgid "answered your comment to"
+msgstr "ខ្ញុំ​បាន​និយាយ​ថា (ក​) Comment លើ​អត្ថបទ"
+
+msgid "commented your article"
+msgstr "ខ្ញុំ​បាន​អធិប្បាយ​នៅ​លើ​អត្ថបទ​របស់​អ្នក"
+
+msgid "You\'ve answered on comment to"
+msgstr "អ្នក​ឆ្លើយ​តប​នឹង​ការ​ធ្វើ​អត្ថាធិប្បាយ​បាន​ទេ​នៅ​លើ​អត្ថបទ​នេះ"
+
+msgid "You\'ve commented an article"
+msgstr "អ្នក​អធិប្បាយ​លើ​អត្ថបទ​នេះ"
+
+msgid "Terms and Conditions"
+msgstr "លក្ខខណ្ឌ"
+
+msgid "Privacy Policy"
+msgstr "គោលការណ៍​ភាព​ឯកជន"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "ដោយ​ចុច​លើ \"ចុះ​ឡើង​\" អ្នក​យល់ព្រម​ជាមួយ​យើង​ហើយ​បាន​ទទួល​ស្គាល់​ថា​អ្នក​បាន​អាន​របស់​យើង"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "ចូលរួម​ជាមួយ​សហគមន៍​នៃ​មនុស្ស​ដែល​មាន​គំនិត​ច្នៃ​ប្រឌិត​ពី​ការ​ទាំង​អស់​នៅ​លើ​ពិភព​លោក​! អ្នក​នឹង​ទទួល​បាន​: ការ​វិនិយោគ​នៅ​ក្នុង​គំនិត​របស់​អ្នក​ជា​ឱកាស​មួយ​ដើម្បី​ប្រមូល​ផ្តុំ​ក្រុម​ការងារ​របស់​គាត់​ធ្វើ​ការ​នៅ​ក្នុង​ក្រុម​អ្នក​គ្រប់​គ្រង​ហិរញ្ញវត្ថុ​គ្រប់​គ្រង​ពេល​វេលា​របស់​ពួក​គេ​, 2 ជីកាបៃ​នៅ​ក្នុង​ការ​ផ្ទុក​និង​ច្រើន​ទៀត​។ ហើយ​វា​ជា​ការ​ឥត​គិត​ថ្លៃ​!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "សូម​អភ័យ​ទោស​ប៉ុន្តែ​ទំព័រ​ដែល​អ្នក​កំពុង​រក​មើល​នេះ​មិន​មាន​ទេ​។ ប្រសិន​បើ​អ្នក​គិត​ថា​ការ​ស្តី​បន្ទោស​យើង​ទាក់ទង​មក​យើង"
+
+msgid "Return"
+msgstr "ត្រឡប់​មក​វិញ"
+
+msgid "COMMON"
+msgstr "សរុប"
+
+msgid "My events"
+msgstr "ព្រឹត្តិការណ៍​របស់​ខ្ញុំ"
+
+msgid "Job opening"
+msgstr "ទំនេរ​ជា​ថ្មី"
+
+msgid "Employment"
+msgstr "ប្រភេទ​នៃ​ការងារ"
+
+msgid "Working hours"
+msgstr "ម៉ោង​បើក"
+
+msgid "City"
+msgstr "ទីក្រុង"
+
+msgid "Wages"
+msgstr "ប្រាក់​បៀវត្ស"
+
+msgid "Currency"
+msgstr "រូបិយប័ណ្ណ"
+
+msgid "Experience"
+msgstr "បទពិសោធន៍"
+
+msgid "Full-time"
+msgstr "ការងារ​ពេញ​លេញ"
+
+msgid "Part-time"
+msgstr "ពេញ​ម៉ោង"
+
+msgid "Project employment"
+msgstr "គម្រោង / ប​ណ្តោះ​អាសន្ន"
+
+msgid "Volunteer"
+msgstr "ការងារ​ស្ម័គ្រចិត្ត"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "ពេញ​ម៉ោង"
+
+msgid "Shifts"
+msgstr "កាលវិភាគ​ការ​ជំនួស"
+
+msgid "Flexible shifts"
+msgstr "កាលវិភាគ​ដែល​អាច​បត់បែន​បាន"
+
+msgid "Remote work"
+msgstr "ការ​ងារ​ពី​ចម្ងាយ"
+
+msgid "Rotational basis"
+msgstr "វិធី​សា​ស្រ្ត​ក្នុង​ការ​ផ្លាស់​ប្តូ​រ"
+
+msgid "Do you really want to delete this comment?"
+msgstr "តើ​អ្នក​ប្រាកដ​ជា​ចង់​លុប​មតិយោបល់​នេះ​?"
+
+msgid "Do you really want to delete this task?"
+msgstr "តើ​អ្នក​ពិត​ជា​ចង់​លុប​ភារកិច្ច​នេះ​?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "តើ​អ្នក​ពិត​ជា​ចង់​លុប​្រ​ម​ងេ​នះ​?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "អ្នក​បាន​អនុវត្ត​ទៅ​ក្រុម​ហ៊ុន​នៅ​ក្នុង​ទីតាំង​នេះ​។ សូម​ធ្វើ​ឱ្យ​ប្រាកដ​ថា"
+
+msgid "Your request to for job has been rejected"
+msgstr "ការ​ស្នើ​រ​សុំ​របស់​ក្រុម​ហ៊ុន​ទៅ​កាន់​ទីតាំង​របស់​អ្នក​ត្រូវ​បាន​ច្រាន​ចោល"
+
+msgid "Your request to for job has been accepted"
+msgstr "សំណើ​របស់​អ្នក​ទៅ​ឱ្យ​ក្រុម​ហ៊ុន​ទៅ​កាន់​ទីតាំង​នេះ​ត្រូវ​បាន​អនុម័ត"
+
+msgid "profile is completed"
+msgstr "ទម្រង់​របស់​អ្នក​គឺ​ពោរពេញ​ទៅ​ដោយ"
+
+msgid "Use account"
+msgstr "ប្រើ​គណនី"
+
+msgid "$/hr"
+msgstr "$ / ម៉ោង"
+
+msgid "Finance category"
+msgstr "ប្រភេទ​ហិរញ្ញវត្ថុ"
+
+msgid "No projects"
+msgstr "គ្មាន​គម្រោង​ការ"
+
+msgid "Bind to finances"
+msgstr "ចាត់តាំង​គម្រោង​ការ​ផ្នែក​ហិរញ្ញវត្ថុ"
+
+msgid "Preview"
+msgstr "មើល"
+
+msgid "Download"
+msgstr "ទាញ​យក"
+
+msgid "Save to my cloud"
+msgstr "ចម្លង​ឃ្លាំង"
+
+msgid "File successfully saved to your cloud"
+msgstr "ឯកសារ​ដែល​បាន​រក្សា​ទុក​នៅ​ក្នុង​ឃ្លាំង​របស់​អ្នក​ទទួល​បាន​ជោគជ័យ"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "រក្សា​ទុក​ឯកសារ​នៅ​ក្នុង​ឃ្លាំង​របស់​អ្នក​?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "ជ្រើស​ប្រភេទ​អត្ថបទ"
+
+msgid "Type something"
+msgstr "សរសេរ​អ្វី​មួយ"
+
+msgid "Founded users"
+msgstr "អ្នក​ប្រើ​ប្រាស់​បាន​រក​ឃើញ"
+
+msgid "Founded articles"
+msgstr "អត្ថបទ​ដែល​បាន​រក​ឃើញ"
+
+msgid "Founded groups"
+msgstr "ក្រុម​ដែល​បាន​បង្កើត"
+
+msgid "What are your skills?"
+msgstr "តើ​អ្វី​ទៅ​ជា​ជំនាញ​របស់​អ្នក​មាន​អ្វីខ្លះ​?"
+
+msgid "Select at least 2 interests"
+msgstr "ជ្រើស​ការ​ប្រាក់​យ៉ាង​ហោច​ណាស់ 2"
+
+msgid "Need more interests"
+msgstr "មិន​ចាប់​អារម្មណ៍​ឱ្យ​បាន​គ្រប់គ្រាន់​ដែល​បាន​ជ្រើសរើស"
+
+msgid "What are you interesting in?"
+msgstr "អ្វី​ដែល​អ្នក​មាន​ចាប់​អារម្មណ៍​ទេ​?"
+
+msgid "You have no dialogs"
+msgstr "អ្នក​មិន​មាន​ការសន្ទនា"
+
+msgid "Usage Stats"
+msgstr "ស្ថានភាព​នៃ​ការ"
+
+msgid "Founded files"
+msgstr "រក​ឃើញ​ឯកសារ"
+
+msgid "Big tiles"
+msgstr "ក្រឡា​ក្បឿង​ដែល​មាន​ទំហំ​ធំ"
+
+msgid "Small tiles"
+msgstr "ក្បឿង​តូច"
+
+msgid "Table view"
+msgstr "ទិដ្ឋភាព​តារាង"
+
+msgid "Root folder"
+msgstr "ថត root"
+
+msgid "My files"
+msgstr "ឯកសារ​របស់​ខ្ញុំ"
+
+msgid "Save as draft"
+msgstr "រក្សាទុក​ជា​សេចក្ដី​ព្រាង"
+
+msgid "Buy More Space"
+msgstr "ទិញ​ចន្លោះ​ច្រើន​ទៀត"
+
+msgid "Buy"
+msgstr "ទិញ"
+
+msgid "You have been invited to group as"
+msgstr "អ្នក​បាន​ត្រូវ​អញ្ជើញ​ទៅ​ក្រុម​ដែល​ជា"
+
+msgid "User wants to join your group"
+msgstr "អ្នក​ប្រើ​ដែល​មាន​បំណង​ចង់​ចូលរួម​ក្នុង​ក្រុម​របស់​អ្នក"
+
+msgid "Section is coming soon!"
+msgstr "ផ្នែក​ទី​ក្រោម​ការ​សាង​សង់​!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "ចំនួន​មើល 24 ម៉ោង​មុន​:"
+
+msgid "Task was updated"
+msgstr "ភារកិច្ច​ត្រូវ​បាន​ធ្វើ​ឱ្យ​ទាន់​សម័យ"
+
+msgid "Task was closed"
+msgstr "បញ្ហា​ប្រឈម​នេះ​ត្រូវ​បាន​បិទ"
+
+msgid "Task was created"
+msgstr "ភារកិច្ច​ត្រូវ​បាន​កំណត់"
+
+msgid "Current balance"
+msgstr "តុល្យភាព​បច្ចុប្បន្ន"
+
+msgid "Add funds"
+msgstr "បន្ថែម"
+
+msgid "Pay"
+msgstr "ពិនិត្យ​ចេញ"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "អ្នក​បាន​លើស​ចំនួន​នៃ​ការ​ព្យាយាម​ចូល​បាន​។ អ្នក​ត្រូវ​បាន​បិទ​រយៈពេល 15 នាទី"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "សូម​បញ្ជាក់​អ៊ីមែល​របស់​អ្នក​។ លិខិត​នេះ​បាន​ផ្ញើ​ទៅ​ឱ្យ​អ្នក​តាមរយៈ​ការ​សំបុត្រ​។"
+
+msgid "Resend confirmation email"
+msgstr "ផ្ញើ​ការ​អះអាង​ជា​ថ្មី​ម្តង​ទៀត"
+
+msgid "Disk 2Gb Monthly"
+msgstr "ថា​ស 2GB ក្នុង​មួយ​ខែ"
+
+msgid "Disk 10Gb Monthly"
+msgstr "ដ្រាយ 10 ជីកាបៃ​ក្នុង​មួយ​ឆ្នាំ"
+
+msgid "Disk 100Gb Yearly"
+msgstr "ថា​ស​ចំនួន 100 ជីកាបៃ​ជា​រៀងរាល់​ឆ្នាំ"
+
+msgid "Disk 1Tb Monthly"
+msgstr "ថា​ស 1TB ប្រចាំ​ខែ"
+
+msgid "Disk 1Tb Yearly"
+msgstr "ដ្រាយ​របេង 1 ជា​រៀងរាល់​ឆ្នាំ"
+
+msgid "Project members monthly"
+msgstr "អ្នក​ចូលរួម​ក្នុង​គម្រោង​នេះ​នៅ​លើ​មូលដ្ឋាន​ប្រចាំខែ"
+
+msgid "Project members yearly"
+msgstr "ជា​រៀងរាល់​ឆ្នាំ​អ្នក​ចូលរួម​ក្នុង​គម្រោង"
+
+msgid "Member(s) yearly"
+msgstr "ជា​សមាជិក (s​) បាន​ក្នុង​មួយ​ឆ្នាំ"
+
+msgid "Member(s) monthly"
+msgstr "ជា​សមាជិក (s​) បាន​នៅ​លើ​មូលដ្ឋាន​ប្រចាំខែ"
+
+msgid "Authorized"
+msgstr "បាន​អនុញ្ញាត"
+
+msgid "Authorization expired"
+msgstr "អនុញ្ញាត​ផុត​កំណត់"
+
+msgid "Processor declined"
+msgstr "ប្រព័ន្ធ​ដំណើរការ​ច្រាន​ចោល"
+
+msgid "Gateway rejected"
+msgstr "ការ​ទូទាត់​បាន​ច្រាន​ចោល"
+
+msgid "Failed"
+msgstr "កំហុស​ក្នុង​ការ"
+
+msgid "Voided"
+msgstr "លុបចោល"
+
+msgid "Submitted for settlement"
+msgstr "បាន​បញ្ជូន​ទៅ​ចុះ​ឈ្មោះ​ចូល​រៀន"
+
+msgid "Settlement declined"
+msgstr "ចុះ​ឈ្មោះ​ចូល​រៀន​ត្រូវ​បាន​ច្រានចោល"
+
+msgid "Settlement pending"
+msgstr "ចុះ​ឈ្មោះ​ចូល​រៀន​មិន​ទាន់​សម្រេច"
+
+msgid "Verified"
+msgstr "គូស​ធីក"
+
+msgid "Pending"
+msgstr "ឡុ​ងេ​ពល"
+
+msgid "Active"
+msgstr "ដែល​សកម្ម"
+
+msgid "Past Due"
+msgstr "ផុតកំណត់"
+
+msgid "Expired"
+msgstr "បាន​បញ្ចប់"
+
+msgid "Marketer"
+msgstr "ទីផ្សារ"
+
+msgid "India"
+msgstr "ប្រទេស​ឥណ្ឌា"
+
+msgid "Malaysia"
+msgstr "ប្រទេស​ម៉ាឡេស៊ី"
+
+msgid "Thailand"
+msgstr "ប្រទេស​ថៃ"
+
+msgid "South Korea"
+msgstr "ប្រទេស​កូរ៉េ​ខាង​ត្បូង"
+
+msgid "Kazakhstan"
+msgstr "កា​ហ្សា​ក់​ស្ថាន"
+
+msgid "Israel"
+msgstr "អ៊ី​ស្រា​អែ​ល"
+
+msgid "Ukraine"
+msgstr "អ៊ុយក្រែន"
+
+msgid "Belarus"
+msgstr "បេឡា​រុ​ស"
+
+msgid "Bulgaria"
+msgstr "ប៊ុលហ្គារី"
+
+msgid "Turkey"
+msgstr "ប្រទេស​តួ​ក​គី"
+
+msgid "Armenia"
+msgstr "អា​មេ​នី"
+
+msgid "Serbia"
+msgstr "ស៊ែ​ប៊ី"
+
+msgid "Austria"
+msgstr "ប្រទេស​អូទ្រីស"
+
+msgid "Poland"
+msgstr "ប្រទេស​ប៉ូឡូញ"
+
+msgid "Germany"
+msgstr "ប្រទេស​អាល្លឺម៉ង់"
+
+msgid "Italy"
+msgstr "ប្រទេស​អ៊ីតាលី"
+
+msgid "Netherlands"
+msgstr "ប្រទេស​ហូ​ឡង់"
+
+msgid "Ireland"
+msgstr "អៀ​រ​ឡង់"
+
+msgid "United Kingdom"
+msgstr "ចក្រភព​អង់គ្លេស"
+
+msgid "Portugal"
+msgstr "ប្រទេស​ព័រទុយហ្គាល់"
+
+msgid "Norway"
+msgstr "ប្រទេស​ន័​រវេ​ស"
+
+msgid "United States"
+msgstr "សហរដ្ឋអាមេរិក"
+
+msgid "Canada"
+msgstr "ប្រទេស​កាណាដា"
+
+msgid "Brazil"
+msgstr "ប្រទេស​ប្រេស៊ីល"
+
+msgid "Saudi Arabia"
+msgstr "អា​រ៉ា​ប៊ី​សា​អូឌីត"
+
+msgid "Canada"
+msgstr "ប្រទេស​អេ​ហ្ស៊ី​ប"
+
+msgid "Russia"
+msgstr "ប្រទេស​រុស្ស៊ី"
+
+msgid "Hong Kong"
+msgstr "ទី​ក្រុង​ហុង​កុង"
+
+msgid "There was no any transactions yet."
+msgstr "នៅ​ពេល​នេះ​មិន​មាន​ប្រតិ​ប​ត្តិ​ការ​តែ​មួយ"
+
+msgid "Fulfill your dream"
+msgstr "បំពេញ​ក្តី​សុបិន​របស់​អ្នក"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "ចូលរួម​ជាមួយ​សហគមន៍​របស់​យើង​របស់​បុគ្គល​ប្រកបដោយ​ការ​ច្នៃ​ប្រឌិត​ពី​ការ​ទាំង​អស់​នៅ​ជុំវិញ​ពិភពលោក​។"
+
+msgid "Create and Collaborate"
+msgstr "បង្កើត​និង​សហការ"
+
+msgid "Fulfill your dream"
+msgstr "បំពេញ​សុបិន​ឥឡូវ"
+
+msgid "or"
+msgstr "ឬ"
+
+msgid "Our mission:"
+msgstr "បេ​សកម្ម​របស់​យើង:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "ដើម្បី​រួបរួម​មនុស្ស​មាន​គំនិត​ច្នៃប្រឌិត​និង​សកម្ម​ដើម្បី​អនុវត្ត​គំនិត​ពី​ធម្មតា​និង​មាន​តម្រូវ​ការ​ក្នុង​ការ​មិន​គួរ​ឱ្យ​ជឿ​និង​អស្ចារ្យ​ដែល​អាច​សម្រួច​សម្រាំង​អនាគត​របស់​យើង​។"
+
+msgid "What is Konstruktor?"
+msgstr "Konstruktor គឺ​ជា​អ្វី​?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - គឺ​ជា​ផ្នែក​មួយ​នៃ​ជីវិត​ពិត​របស់​យើង​ដែល​យ៉ាង​សំខាន់​មួយ​ដែល​ជួយ​សំ​រួល​និង​ធម្មតា"
+
+msgid "*business processes"
+msgstr "* ដំណើរ​ការ​អាជីវកម្ម"
+
+msgid "*materialization of creative ideas"
+msgstr "* សម្ភារៈ​នៃ​គំនិត​ច្នៃ​ប្រឌិត"
+
+msgid "*constructive cooperation"
+msgstr "* កិច្ច​សហ​ប្រតិបត្តិការ​ស្ថាបនា"
+
+msgid "Make your dream!"
+msgstr "ធ្វើ​ឱ្យ​ក្តី​សុ​បិ​ន្ត​របស់​អ្នក​!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "នាយក​ប្រតិបត្តិ"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "ទីប្រឹក្សា​ពិសេស"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "ប្រធាន​ផ្នែក​ការអភិវឌ្ឍន៍​កម្មវិធី​កុំព្យូទ័រ"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "មេធាវី​ជាន់ខ្ពស់"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "អ្នក​រចនា"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "ដោយ​ចុច​លើ​ប៊ូតុង \"បន្ទាប់​\" អ្នក​ត្រូវ​បាន​ទទួល​យក​និង​យល់ព្រម​ជាមួយ​ល័ក្ខខ័ណ្ឌ​របស់​យើង​, ហើយ​អ្នក​ត្រូវ​ទទួល​ស្គាល់​ថា​អ្នក​បាន​អាន​គោលការណ៍​ឯកជន​ភាព​របស់​យើង​។"
+
+msgid "Incorrect login or password."
+msgstr "ការ​ចូល​មិន​ត្រឹមត្រូវ​ឬ​ពាក្យ​សម្ងាត់​។"
+
+msgid "Password must be at least 6 characters"
+msgstr "លេខសម្ងាត់​ត្រូវតែ​មាន​យ៉ាង​ហោច​ណាស់ 6 តួអក្សរ"
+
+msgid "January"
+msgstr "ខែ​មករា"
+
+msgid "February"
+msgstr "ខែ​កុម្ភៈ"
+
+msgid "March"
+msgstr "ខែ​មិនា"
+
+msgid "April"
+msgstr "ខែ​មេសា"
+
+msgid "May"
+msgstr "ឧសភា"
+
+msgid "June"
+msgstr "ខែ​មិថុនា"
+
+msgid "July"
+msgstr "ខែ​កក្កដា"
+
+msgid "August"
+msgstr "ខែ​សីហា"
+
+msgid "September"
+msgstr "ខែ​កញ្ញា"
+
+msgid "October"
+msgstr "ខែ​តុលា"
+
+msgid "November"
+msgstr "ខែ​វិច្ឆិកា"
+
+msgid "December"
+msgstr "ខែ​ធ្នូ"
+
+msgid "Chat"
+msgstr "ជជែក​កំសាន្ត"
+
+msgid "Files"
+msgstr "ឯកសារ"
+
+msgid "Statistic"
+msgstr "ស្ថិតិ"
+
+msgid "Support"
+msgstr "ការ​គាំទ្រ"
+
+msgid "Exit"
+msgstr "ការ​ចាក​ចេញ"
+
+msgid "Brest"
+msgstr "ទីក្រុង Brest"
+
+msgid "Belarus"
+msgstr "បេឡា​រុ​ស"
+
+msgid "Marketing specialist"
+msgstr "អ្នក​ជំនាញ​ខាង​ផ្នែក​ទីផ្សារ"
+
+msgid "Administrator"
+msgstr "អ្នកគ្រប់គ្រង"
+
+msgid "Shared with me"
+msgstr "ដែល​បាន​ចែក​រំលែក​ជាមួយ​ខ្ញុំ"
+
+msgid "File Sharing"
+msgstr "ការ​ចែក​រំលែក​ឯកសារ"
+
+msgid "Provide access by link"
+msgstr "ផ្ដល់​នូវ​ការ​ចូល​ដំណើរ​ការ​ដោយ​តំណ"
+
+msgid "Provide Individual access"
+msgstr "ផ្តល់​លទ្ធភាព​ទទួល​បុ​គ​គ​ល"
+
+msgid "Provide edit access"
+msgstr "ផ្តល់​ការ​កែ​សម្រួល​ការ​ចូល​ដំណើរ​ការ"
+
+msgid "Share"
+msgstr "ចែករំលែក"
+
+msgid "Files will be available only for selected users"
+msgstr "ឯកសារ​នឹង​ត្រូវ​បាន​ប្រើ​បាន​តែ​សម្រាប់​អ្នក​ប្រើ​ដែល​បាន​ជ្រើស"
+
+msgid "With this link everyone can access to the files"
+msgstr "ជាមួយ​នេះ​តំណ​ភ្ជាប់​ដែល​អាច​ទទួល​បាន​អ្នក​រាល់​គ្នា​ដែល​ឯកសារ​ដែល​បាន"
+
+msgid "Search users, groups, articles..."
+msgstr "អ្នក​ប្រើ​ដែល​បាន​ស្វែងរក​ក្រុម​អត្ថបទ ..."
+
+msgid "My Group"
+msgstr "ក្រុម​របស់ខ្ញុំ"
+
+msgid "Mo"
+msgstr "ម៉ូ"
+
+msgid "Tu"
+msgstr "Tu បាន"
+
+msgid "We"
+msgstr "យើង"
+
+msgid "Th"
+msgstr "ទី"
+
+msgid "Fr"
+msgstr "បូ"
+
+msgid "Sa"
+msgstr "sa"
+
+msgid "Su"
+msgstr "ស៊ូ"
+
+msgid "The file is not selected"
+msgstr "ឯកសារ​នេះ​មិន​ត្រូវ​បាន​ជ្រើស"
+
+msgid "Set aside"
+msgstr "ដាក់​​​ទៅ​ម្ខាង"
+
+msgid "Event time"
+msgstr "ពេល​ដែល​ព្រឹត្តិការណ៍"
+
+msgid "Work"
+msgstr "ការងារ"
+
+msgid "Personal"
+msgstr "ផ្ទាល់ខ្លួន"
+
+msgid "Time spent for work:"
+msgstr "ការ​ចំណាយ​ពេល​វេលា​សម្រាប់​ការងារ​:"
+
+msgid "Personal time spent:"
+msgstr "ពេល​វេលា​ផ្ទាល់​ខ្លួន​ដែល​បាន​ចំណាយ​:"
+
+msgid "Present"
+msgstr "បច្ចុប្បន្ន​នេះ"
+
+msgid "Common"
+msgstr "ទូទៅ"
+
+msgid "Sport"
+msgstr "កីឡា"
+
+msgid "Entertainment"
+msgstr "កំសាន្ត"
+
+msgid "Select:"
+msgstr "ជ្រើស​រើស​:"
+
+msgid "Invalid username or password."
+msgstr "ឈ្មោះ​អ្នក​ប្រើ​ឬ​ពាក្យ​សម្ងាត់​មិន​ត្រឹមត្រូវ​។"
+
+msgid "Try again."
+msgstr "ព្យាយាម​ម្ដងទៀត។"
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "តើ​អ្នក​ចាប់​អារម្មណ៍​ក្នុង​ការ​?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "ជ្រើស​យ៉ាង​ហោច​ណាស់ 2 មាន​​​ជំនាញ​: នៅ​តែ 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "ជ្រើស​យ៉ាង​ហោច​ណាស់ 2 មាន​​​ជំនាញ​: នៅ​តែ 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "ជ្រើស​យ៉ាង​ហោច​ណាស់ 2 មាន​​​ជំនាញ​: នៅសល់"
+
+msgid "Active life"
+msgstr "ជីវិត​សកម្ម"
+
+msgid "Arts and culture"
+msgstr "សិល្បៈ​និង​វប្ប​ធ​ម៍"
+
+msgid "Business"
+msgstr "ពាណិជ្ជកម្ម"
+
+msgid "Cinema"
+msgstr "ភាពយន្ត"
+
+msgid "Communications"
+msgstr "ទំនាក់ទំនង"
+
+msgid "Construction and repair"
+msgstr "សំណង់​និង​ជួសជុល"
+
+msgid "Cooking"
+msgstr "ចម្អិន​អាហារ"
+
+msgid "Education"
+msgstr "ការ​អប់រំ"
+
+msgid "Electronics"
+msgstr "ឡិច​ត្រូ​និ​ច"
+
+msgid "Finances"
+msgstr "ហិរញ្ញវត្ថុ"
+
+msgid "Graphics and design"
+msgstr "ក្រាហ្វិក​និង​ការ​រចនា"
+
+msgid "Health"
+msgstr "សុខភាព"
+
+msgid "Home and family"
+msgstr "ផ្ទះ​និង​គ្រួសារ"
+
+msgid "Humor"
+msgstr "ការ​លេងសើច"
+
+msgid "IT"
+msgstr "បច្ចេកវិទ្យា"
+
+msgid "Industry"
+msgstr "ឧស្សាហកម្ម"
+
+msgid "Insurance"
+msgstr "ការ​ធានា​រ៉ាប់​រង"
+
+msgid "Literature"
+msgstr "អក្សរ​សា​ស្រ្ត"
+
+msgid "Mobile communications and internet"
+msgstr "ទំនាក់ទំនង​ចល័ត​និង​អ៊ិ​ន​ធឺ​ណិ"
+
+msgid "News and Media"
+msgstr "ព័​ត៍​មាន​និង​ប្រព័ន្ធ​ផ្សព្វផ្សាយ"
+
+msgid "Pets"
+msgstr "សត្វ​ចិញ្ចឹម"
+
+msgid "Products and service"
+msgstr "ផលិតផល​និង​សេវា"
+
+msgid "Real Estate"
+msgstr "អចលន​ទ្រព្យ"
+
+msgid "Religion"
+msgstr "សាសនា"
+
+msgid "Science and techs"
+msgstr "វិទ្យា​សា​ស្រ្ត​និង​បច្ចេកវិទ្យា"
+
+msgid "Security"
+msgstr "ស​ន្ដិ​សុខ"
+
+msgid "Society"
+msgstr "សង្គម"
+
+msgid "Television"
+msgstr "ទូរទស្សន៍"
+
+msgid "Travel"
+msgstr "ការ​ធ្វើ​ដំណើរ"
+
+msgid "URL"
+msgstr "URL ដែល"
+
+msgid "Argentina"
+msgstr "ប្រទេស​អាហ្សង់ទីន"
+
+msgid "Australia"
+msgstr "ប្រទេស​អូ​ស្រ្តា​លី"
+
+msgid "Austria"
+msgstr "ប្រទេស​អូទ្រីស"
+
+msgid "Belarus"
+msgstr "បេឡា​រុ​ស"
+
+msgid "Belgium"
+msgstr "ប៊ែ​ល​ហ្សិ​ក"
+
+msgid "Brazil"
+msgstr "ប្រទេស​ប្រេស៊ីល"
+
+msgid "Bulgaria"
+msgstr "ប៊ុលហ្គារី"
+
+msgid "Canada"
+msgstr "ប្រទេស​កាណាដា"
+
+msgid "Chile"
+msgstr "ឈីលី"
+
+msgid "Denmark"
+msgstr "ប្រទេស​ដាណឺម៉ាក"
+
+msgid "France"
+msgstr "ប្រទេស​បារាំង"
+
+msgid "Germany"
+msgstr "ប្រទេស​អាល្លឺម៉ង់"
+
+msgid "Greece"
+msgstr "ប្រទេស​ក្រិក"
+
+msgid "Hungary"
+msgstr "ប្រទេស​ហុងគ្រី"
+
+msgid "Iceland"
+msgstr "អ៊ីស្លង់"
+
+msgid "Ireland"
+msgstr "អៀ​រ​ឡង់"
+
+msgid "Israel"
+msgstr "អ៊ី​ស្រា​អែ​ល"
+
+msgid "Italy"
+msgstr "ប្រទេស​អ៊ីតាលី"
+
+msgid "Japan"
+msgstr "ប្រទេស​ជប៉ុន"
+
+msgid "Mexico"
+msgstr "ម៉ិ​ក​ស៊ិ​ក"
+
+msgid "Netherlands"
+msgstr "ប្រទេស​ហូ​ឡង់"
+
+msgid "New Zealand"
+msgstr "ប្រទេស New Zealand"
+
+msgid "Norway"
+msgstr "ប្រទេស​ន័​រវេ​ស"
+
+msgid "Poland"
+msgstr "ប្រទេស​ប៉ូឡូញ"
+
+msgid "Portugal"
+msgstr "ប្រទេស​ព័រទុយហ្គាល់"
+
+msgid "Russia"
+msgstr "ប្រទេស​រុស្ស៊ី"
+
+msgid "Slovakia"
+msgstr "ស្លូវ៉ាគី"
+
+msgid "South Africa"
+msgstr "អា​ព្រិច​ខាងត្បូង"
+
+msgid "South Korea"
+msgstr "កូរ៉េខាងត្បូង"
+
+msgid "Spain"
+msgstr "ប្រទេស​អេ​ស្ប៉ា​ញ"
+
+msgid "Sweden"
+msgstr "ប្រទេស​ស៊ុយអែត"
+
+msgid "Switzerland"
+msgstr "ប្រទេស​ស្វីស"
+
+msgid "Turkey"
+msgstr "ប្រទេស​តួ​ក​គី"
+
+msgid "Ukraine"
+msgstr "អ៊ុយក្រែន"
+
+msgid "United Arab Emirates"
+msgstr "សហព័ន្ធ​អារ៉ាប់រួម"
+
+msgid "United Kingdom"
+msgstr "ចក្រភពអង់គ្លេស"
+
+msgid "United States"
+msgstr "សហរដ្ឋអាមេរិក"
+
+msgid "achievements"
+msgstr "សមិទ្ធិ​ផល"
+
+msgid "Investment management"
+msgstr "ការ​គ្រប់​គ្រង​ការ​វិនិយោគ"
+
+msgid "Select..."
+msgstr "ជ្រើស ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "គ្រប់គ្រង​ការ​វិនិយោគ"
+
+msgid "Investors list"
+msgstr "បញ្ជី​អ្នក​វិនិយោគិន"
+
+msgid "My investments"
+msgstr "ការ​វិនិយោគ​របស់​ខ្ញុំ"
+
+msgid "Create date"
+msgstr "បង្កើត​កាល​បរិច្ឆេទ"
+
+msgid "Author of the project"
+msgstr "អ្នក​និពន្ធ​នៃ​គម្រោង"
+
+msgid "Date and time"
+msgstr "កាលបរិច្ឆេទ​និង​ពេលវេលា"
+
+msgid "Status"
+msgstr "ស្ថានភាព"
+
+msgid "NEXT"
+msgstr "បន្ទាប់"
+
+msgid "Next"
+msgstr "បន្ទាប់"
+
+msgid "Apply"
+msgstr "អនុវត្ត"
+
+msgid "Kazakhstan"
+msgstr "កា​ហ្សា​ក់​ស្ថាន"
+
+msgid "Almaty"
+msgstr "អា​ល់​ម៉ា"
+
+msgid "Hong Kong"
+msgstr "ហុងកុង"
+
+msgid "Science"
+msgstr "វិទ្យា​សា​ស្រ្ត"
+
+msgid "Architecture"
+msgstr "ស្ថាបត្យកម្ម"
+
+msgid "Photography"
+msgstr "ការ​ថត​រូបភាព"
+
+msgid "Designer"
+msgstr "អ្នក​រចនា"
+
+msgid "IT specialist"
+msgstr "ជា​អ្នក​ជំនាញ​ផ្នែក IT"
+
+msgid "Agronomist"
+msgstr "Agronomist"
+
+msgid "Architect"
+msgstr "ស្ថាបត្យករ"
+
+msgid "Lawyer"
+msgstr "មេធាវី"
+
+msgid "Writer"
+msgstr "អ្នកនិពន្ធ"
+
+msgid "Doctor"
+msgstr "បណ្ឌិត"
+
+msgid "Scientist"
+msgstr "អ្នក​វិទ្យា​សា​ស្រ្ត"
+
+msgid "Marketer"
+msgstr "ទីផ្សារ"
+
+msgid "Teacher"
+msgstr "គ្រូ"
+
+msgid "Cook"
+msgstr "ឃុ​ក"
+
+msgid "Artist"
+msgstr "សិ​ល្បះ"
+
+msgid "Photographer"
+msgstr "អ្នក​ថត​រូប"
+
+msgid "Ecologist"
+msgstr "បរិស្ថាន"
+
+msgid "Economist"
+msgstr "អ្នក​សេដ្ឋកិច្ច"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "អ្នកកាសែត"
+
+msgid "Builder"
+msgstr "បង្កើត​របាយការណ៍"
+
+msgid "These users may be interesting for you"
+msgstr "អ្នក​ប្រើ​ប្រាស់​ទាំង​នេះ​អាច​ជា​ការ​គួរ​ឱ្យ​ចាប់​អារម្មណ៍​សម្រាប់​អ្នក"
+
+msgid "These articles may be interesting for you"
+msgstr "អត្ថបទ​ទាំងនេះ​អាច​ជា​គួរ​ឱ្យ​ចាប់​អារម្មណ៍​សម្រាប់​អ្នក"
+
+msgid "You joined this group as Аdministrator"
+msgstr "អ្នក​បាន​ចូលរួម​ជាមួយ​ក្រុម​នេះ​ថា​ជា​Аdministrator"
+
+msgid "articles written."
+msgstr "អត្ថបទ​ដែល​បាន​សរសេរ​។"
+
+msgid "groups created."
+msgstr "ក្រុម​ដែល​បាន​បង្កើត​។"
+
+msgid "Creation"
+msgstr "បង្កើត"
+
+msgid "Build a dream"
+msgstr "កសាងក្តីសុបិន្ត"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "គួរឱ្យចាប់អារម្មណ៍ជាច្រើនទៀតសូមអានអត្ថបទ - ទៅចុះបញ្ជីគិតថ្លៃ"
+

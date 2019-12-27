@@ -1,0 +1,3344 @@
+# ລາວ (Лаосский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: ລາວ (Лаосский) <support@konstruktor.com>\n"
+"Language: ລາວ (Лаосский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "ຊື່ຜູ້ໃຊ້  suphusai"
+
+msgid "Invalid username or password, try again"
+msgstr "ຊື່ຜູ້ໃຊ້ ທີ່ບໍ່ຖືກຕ້ອງ ຫລືລະຫັດຜ່ານ . ພະຍາຍາມ ອີກເທື່ອຫນຶ່ງ."
+
+msgid "Settings"
+msgstr "ການຕັ້ງຄ່າ"
+
+msgid "Home"
+msgstr "ຫນ້າທໍາອິດ"
+
+msgid "You must log in to access this page"
+msgstr "ທ່ານຕ້ອງເຂົ້າໃນ ການເຂົ້າເຖິງ ຫນ້ານີ້"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "ກອງປະຊຸມ ຂອງທ່ານໄດ້ ຮັບການ ຫມົດອາຍຸແລ້ວ . ກະລຸນາ, relogin ການປະຕິບັດ ການດໍາເນີນການ ນີ້"
+
+msgid "Save"
+msgstr "ບັນທຶກ"
+
+msgid "Head Office"
+msgstr "ຫົວຫນ້າຫ້ອງການ"
+
+msgid "Address"
+msgstr "ທີ່ຢູ່"
+
+msgid "Back"
+msgstr "ກັບຄືນໄປບ່ອນ"
+
+msgid "Apply"
+msgstr "ສະຫມັກຂໍເອົາ"
+
+msgid "Upload files…"
+msgstr "ອັບໂຫຼດໄຟລ໌ ..."
+
+msgid "Set as main"
+msgstr "ກໍານົດເປັນ ຕົ້ນຕໍ"
+
+msgid "Delete"
+msgstr "ລົບ"
+
+msgid "Original image"
+msgstr "ຮູບພາບ ຕົ້ນສະບັບ"
+
+msgid "Uploaded"
+msgstr "ອັບໂຫລດ"
+
+msgid "File name"
+msgstr "ຊື່ໄຟລ໌"
+
+msgid "File size"
+msgstr "ຂະຫນາດ file"
+
+msgid "Resolution"
+msgstr "ຄວາມລະອຽດ"
+
+msgid "Enlarge"
+msgstr "ຂະຫຍາຍໃຫຍ່"
+
+msgid "Links"
+msgstr "ການເຊື່ອມຕໍ່"
+
+msgid "Original size"
+msgstr "ຂະຫນາດ ຕົ້ນສະບັບ"
+
+msgid "For editor"
+msgstr "ສໍາລັບ ບັນນາທິການ"
+
+msgid "Resize"
+msgstr "ການປັບຂະຫນາດ"
+
+msgid "Width"
+msgstr "width"
+
+msgid "Height"
+msgstr "ລະດັບຄວາມສູງ"
+
+msgid "Media URL"
+msgstr "Media URL"
+
+msgid "Add record"
+msgstr "ຕື່ມການບັນທຶກ"
+
+msgid "Show filter settings"
+msgstr "ການຕັ້ງຄ່າ ການກັ່ນຕອງ ສະແດງໃຫ້ເຫັນ"
+
+msgid "Edit record"
+msgstr "ການບັນທຶກ ການແກ້ໄຂ"
+
+msgid "Delete record"
+msgstr "ລົບ ການບັນທຶກ"
+
+msgid "Delete checked records"
+msgstr "ການບັນທຶກການ ລົບ ກວດກາ"
+
+msgid "Dashboard"
+msgstr "dashboard"
+
+msgid "Password"
+msgstr "ລະຫັດຜ່ານ"
+
+msgid "Remember me"
+msgstr "ຈືຂໍ້ມູນການ ຂ້າພະເຈົ້າ"
+
+msgid "Login"
+msgstr "ເຂົ້າສູ່ລະບົບ"
+
+msgid "Clean image cache"
+msgstr "ຖານຄວາມຈໍາ ຮູບພາບ ທໍາຄວາມສະອາດ"
+
+msgid "Processing query..."
+msgstr "ການປຸງແຕ່ງ ສອບຖາມ ..."
+
+msgid "CMS Development"
+msgstr "ການພັດທະນາ CMS"
+
+msgid "Admin Home Page"
+msgstr "ຫນ້າ Admin Home"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "ຫນ້າທໍາອິດ ທີ່ເປີດແປນຂອງ ຫນ້າ ທີ່ສຸດ ໃນແຖບໃຫມ່"
+
+msgid "Go to Site"
+msgstr "ໄປທີ່ ເວັບໄຊ"
+
+msgid "Log out"
+msgstr "ອອກຈາກລະບົບ"
+
+msgid "Send"
+msgstr "ສົ່ງ"
+
+msgid "General"
+msgstr "ທົ່ວໄປ"
+
+msgid "Title"
+msgstr "ຫົວຂໍ້"
+
+msgid "Teaser"
+msgstr "Teaser"
+
+msgid "Published"
+msgstr "ຈັດພີມມາ"
+
+msgid "Featured"
+msgstr "ແນະນໍາ"
+
+msgid "Active"
+msgstr "ການເຄື່ອນໄຫວ"
+
+msgid "Field is mandatory"
+msgstr "ມືພາກສະຫນາມ ເປັນການບັງຄັບ"
+
+msgid "Sort Order"
+msgstr "ຄໍາສັ່ງ Sort"
+
+msgid "Upload"
+msgstr "ອັບໂຫຼດ"
+
+msgid "Loading..."
+msgstr "ກໍາລັງໂຫລດ ..."
+
+msgid "Jan"
+msgstr "ມະ"
+
+msgid "Feb"
+msgstr "ກະ"
+
+msgid "Mar"
+msgstr "ມີນາ"
+
+msgid "Apr"
+msgstr "ເດືອນເມສາ"
+
+msgid "May"
+msgstr "ພຶດສະພາ"
+
+msgid "Jun"
+msgstr "ມິຖຸນາ"
+
+msgid "Jul"
+msgstr "ເດືອນກໍລະກົດ"
+
+msgid "Aug"
+msgstr "ສິງຫາ"
+
+msgid "Sep"
+msgstr "ກັນຍາ"
+
+msgid "Oct"
+msgstr "ຕຸລາ"
+
+msgid "Nov"
+msgstr "ເດືອນພະຈິກ"
+
+msgid "Dec"
+msgstr "ທັນວາ"
+
+msgid "Product already exists in the order"
+msgstr "ຜະລິດຕະພັນ ຢູ່ແລ້ວໃນ ຄໍາສັ່ງຂອງ"
+
+msgid "Product does not exist"
+msgstr "ຜະລິດຕະພັນ ບໍ່ມີ"
+
+msgid "Incorrect request"
+msgstr "ການຮ້ອງຂໍ ທີ່ບໍ່ຖືກຕ້ອງ"
+
+msgid "Products"
+msgstr "ຜະລິດຕະພັນ"
+
+msgid "Product types"
+msgstr "ປະເພດ ຜະລິດຕະພັນ"
+
+msgid "Contractors"
+msgstr "ຜູ້ຮັບເຫມົາ"
+
+msgid "Contractor"
+msgstr "ຜູ້ຮັບເຫມົາ"
+
+msgid "Orders"
+msgstr "ຄໍາສັ່ງ"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "ຄໍາສັ່ງ ໃຫມ່"
+
+msgid "My orders"
+msgstr "ຄໍາສັ່ງ ຂອງຂ້າພະເຈົ້າ"
+
+msgid "Recharge balance"
+msgstr "ຍອດ ມູນຄ່າໂທ"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Incorrect event ID"
+msgstr "ລະຫັດ ກິດຈະກໍາ ທີ່ບໍ່ຖືກຕ້ອງ"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "ຜູ້ຮັບເຫມົາ ດັດແກ້"
+
+msgid "Create contractor"
+msgstr "ເມື່ອ ຜູ້ຮັບເຫມົາ"
+
+msgid "Edit question"
+msgstr "ຄໍາຖາມ ດັດແກ້"
+
+msgid "Create question"
+msgstr "ເມື່ອ ຄໍາຖາມທີ່"
+
+msgid "Edit order"
+msgstr "ຄໍາສັ່ງ ດັດແກ້"
+
+msgid "Create order"
+msgstr "ເມື່ອ ຄໍາສັ່ງ"
+
+msgid "Edit product"
+msgstr "ຜະລິດຕະພັນ ແກ້ໄຂ"
+
+msgid "Create product"
+msgstr "ສ້າງ ຜະລິດຕະພັນ"
+
+msgid "Edit product type"
+msgstr "ການແກ້ໄຂ ປະເພດ ສິນຄ້າ"
+
+msgid "Create product type"
+msgstr "ເມື່ອ ປະເພດ ຜະລິດຕະພັນ"
+
+msgid "You have received a file"
+msgstr "ທ່ານໄດ້ຮັບ ໄຟລ໌"
+
+msgid "You received a file from"
+msgstr "ທ່ານໄດ້ຮັບ ໄຟລ໌ໄດ້ຈາກ"
+
+msgid "File has been uploaded"
+msgstr "File ໄດ້ ຮັບການອັບໂຫຼດ"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "ປະລິມານ ທີ່ນ້ອຍທີ່ສຸດ"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "ລາຍການ"
+
+msgid "Remove"
+msgstr "ອອກ"
+
+msgid "Contact person"
+msgstr "ບຸກຄົນ ຕິດຕໍ່"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Contractor phone"
+msgstr "ໂທລະສັບມື ຜູ້ຮັບເຫມົາ"
+
+msgid "Contractor name"
+msgstr "ຊື່ ຜູ້ຮັບເຫມົາ"
+
+msgid "Contractor details"
+msgstr "ລາຍລະອຽດ ຜູ້ຮັບເຫມົາ"
+
+msgid "Order ID"
+msgstr "ຫັດຄໍາສັ່ງຊື້"
+
+msgid "Sum"
+msgstr "Sum"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "ເລືອກເອົາ ລະບົບ ການຊໍາລະເງິນ ທີ່ເຫມາະສົມ ເພື່ອ ເພີ່ມມູນຄ່າໂທ ດຸ່ນດ່ຽງຂອງທ່ານ"
+
+msgid "Recharge amount"
+msgstr "ຈໍານວນເງິນທີ່ ເພີ່ມມູນຄ່າໂທ"
+
+msgid "Paid"
+msgstr "ການຊໍາລະເງິນ"
+
+msgid "Shipped"
+msgstr "ສົ່ງ"
+
+msgid "- No products in this order -"
+msgstr "- ຜະລິດຕະພັນ ທີ່ບໍ່ມີ ຢູ່ໃນຄໍາສັ່ງ ນີ້ -"
+
+msgid "month"
+msgstr "ເດືອນ"
+
+msgid "No user found"
+msgstr "ບໍ່ມີຜູ້ ພົບເຫັນ"
+
+msgid "Achievement"
+msgstr "ຄວາມສໍາເລັດ"
+
+msgid "Confirmed accomplishments"
+msgstr "ຜົນສໍາເລັດ ການຢັ້ງຢືນ"
+
+msgid "Remove achievement"
+msgstr "ເອົາ ຜົນສໍາເລັດ"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "ໂທລະສັບ"
+
+msgid "Site URL and email"
+msgstr "URL ຂອງເວັບໄຊ ແລະອີເມລ"
+
+msgid "Remove address"
+msgstr "ທີ່ຢູ່ ອອກ"
+
+msgid "Members"
+msgstr "ສະມາຊິກ"
+
+msgid "Requires a payment"
+msgstr "ຮຽກຮ້ອງໃຫ້ມີ ການຈ່າຍເງິນ"
+
+msgid "Shipping"
+msgstr "ຈັດສົ່ງສິນຄ້າ"
+
+msgid "Ready"
+msgstr "ພ້ອມ"
+
+msgid "Find user..."
+msgstr "ຊອກ ຜູ້ໃຊ້ ..."
+
+msgid "Order it"
+msgstr "ສັ່ງໃຫ້ມັນ"
+
+msgid "Find group..."
+msgstr "ຊອກເອ ກຸ່ມ ..."
+
+msgid "Find user or community..."
+msgstr "ຊອກ ຜູ້ໃຊ້ ຫຼືຊຸມຊົນ ..."
+
+msgid "No item found"
+msgstr "ລາຍການ ທີ່ບໍ່ມີ ພົບເຫັນ"
+
+msgid "years"
+msgstr "ປີ"
+
+msgid "Send message"
+msgstr "ផ្ញើសារ"
+
+msgid "Message"
+msgstr "ຂໍ້ຄວາມ"
+
+msgid "To send message press Enter"
+msgstr "ການສົ່ງ ຫນັງສືພິມ ຂໍ້ຄວາມ ໃສ່"
+
+msgid "To send message press CTRL+Enter"
+msgstr "ການສົ່ງ CTRL ກົດ ຂໍ້ + ກະລຸນາໃສ່"
+
+msgid "Processing file(s)..."
+msgstr "ເອກະສານ ການປຸງແຕ່ງ (s) ..."
+
+msgid "Group settings"
+msgstr "ການຕັ້ງຄ່າ ກຸ່ມ"
+
+msgid "Create group"
+msgstr "ສ້າງກຸ່ມການ"
+
+msgid "Group has been successfully saved"
+msgstr "ກຸ່ມ ໄດ້ຮັບການ ບັນທຶກໄວ້ ຢ່າງສໍາເລັດຜົນ"
+
+msgid "Group title"
+msgstr "ຊື່ ກຸ່ມ"
+
+msgid "Group video"
+msgstr "ວີດີໂອ ກຸ່ມ"
+
+msgid "Description"
+msgstr "ລາຍລະອຽດ"
+
+msgid "Your role in group"
+msgstr "ພາລະບົດບາດ ຂອງທ່ານໃນ ກຸ່ມ"
+
+msgid "Role"
+msgstr "ພາລະບົດບາດ"
+
+msgid "Photo or video gallery"
+msgstr "ຮູບພາບ ຫຼືວິດີໂອ ຮູບພາບ"
+
+msgid "Youtube.com URL"
+msgstr "URL Youtube.com"
+
+msgid "Upload video"
+msgstr "ວິດີໂອ ການອັບໂຫຼດ"
+
+msgid "Add group address"
+msgstr "ເພີ່ມທີ່ຢູ່ ກຸ່ມ"
+
+msgid "Group articles"
+msgstr "ບົດຄວາມ Group"
+
+msgid "No addresses yet"
+msgstr "ທີ່ຢູ່ ຍັງບໍ່ມີການ"
+
+msgid "Add group achievement"
+msgstr "ຕື່ມການ ຄວາມສໍາເລັດ ຂອງກຸ່ມ"
+
+msgid "No achivements yet"
+msgstr "Achivements ບໍ່ມີ"
+
+msgid "Are you sure to delete this user"
+msgstr "ທ່ານມີຄວາມ ແນ່ໃຈວ່າ ການລົບ ຫນ້ານີ້"
+
+msgid "Add member"
+msgstr "ເພີ່ມ ສະມາຊິກ"
+
+msgid "Are you sure to delete this record?"
+msgstr "ທ່ານມີຄວາມ ແນ່ໃຈວ່າການ ລຶບ ບັນທຶກນີ້ ?"
+
+msgid "Join this group"
+msgstr "ເຂົ້າຮ່ວມໃນກຸ່ມ ນີ້"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "ການເຊື້ອເຊີນ ຂອງທ່ານໄດ້ຖືກ ສົ່ງໄປຫາ ຜູ້ບໍລິຫານ ກຸ່ມ"
+
+msgid "All addresses"
+msgstr "ທີ່ຢູ່ ທັງຫມົດ"
+
+msgid "Collapse"
+msgstr "Collapse"
+
+msgid "Achievements"
+msgstr "ຜົນສໍາເລັດ"
+
+msgid "Show more"
+msgstr "ສະແດງ ຫຼາຍ"
+
+msgid "Team"
+msgstr "ທີມງານ"
+
+msgid "Projects"
+msgstr "ໂຄງການ"
+
+msgid "New project"
+msgstr "ໂຄງການ ໃຫມ່"
+
+msgid "Project has not been created yet"
+msgstr "ໂຄງການ ຍັງບໍ່ທັນໄດ້ ຖືກສ້າງ"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "ຍອດ"
+
+msgid "Main page"
+msgstr "ຫນ້າທີ່ຕົ້ນຕໍ"
+
+msgid "Upload image"
+msgstr "ຮູບພາບທີ່ ອັບໂຫລດ"
+
+msgid "My time"
+msgstr "ທີ່ໃຊ້ເວລາ ຂອງຂ້າພະເຈົ້າ"
+
+msgid "Day"
+msgstr "ວັນ"
+
+msgid "Week"
+msgstr "ອາທິດ"
+
+msgid "Project settings"
+msgstr "ການຕັ້ງຄ່າ ໂຄງການ"
+
+msgid "Create project"
+msgstr "ສ້າງໂຄງການ"
+
+msgid "Project has been successfully saved"
+msgstr "ໂຄງການ ໄດ້ ຖືກບັນທຶກໄວ້ ຢ່າງສໍາເລັດຜົນ"
+
+msgid "Project name"
+msgstr "ຊື່ ໂຄງການ"
+
+msgid "Deadline"
+msgstr "ເສັ້ນຕາຍຄັ້ງ"
+
+msgid "Close"
+msgstr "ປິດ"
+
+msgid "Manager"
+msgstr "ຜູ້ຈັດການ"
+
+msgid "Assigned to"
+msgstr "ການມອບຫມາຍໃຫ້"
+
+msgid "Discussion"
+msgstr "ການສົນທະນາ"
+
+msgid "Task was created"
+msgstr "ວຽກງານ ຖືກສ້າງຂຶ້ນ"
+
+msgid "Task was closed"
+msgstr "ວຽກງານ ໄດ້ມີການປິດ"
+
+msgid "Go to Group"
+msgstr "ໄປ ກຸ່ມ"
+
+msgid "Closed"
+msgstr "ປິດ"
+
+msgid "Last updates"
+msgstr "ການປັບປຸງ ຫຼ້າສຸດ"
+
+msgid "Project is closed"
+msgstr "ໂຄງການແມ່ນ ປິດ"
+
+msgid "No open tasks"
+msgstr "ບໍ່ມີ ວຽກງານ ເປີດ"
+
+msgid "New task"
+msgstr "ວຽກງານ ໃຫມ່"
+
+msgid "Closed tasks"
+msgstr "ວຽກງານ Closed"
+
+msgid "Add subproject"
+msgstr "ຕື່ມການ ໂຄງການຍ່ອຍ"
+
+msgid "Add task"
+msgstr "ຕື່ມການ ຫນ້າວຽກ"
+
+msgid "Sun"
+msgstr "ວັນອາທິດ"
+
+msgid "Mon"
+msgstr "ຈັນ"
+
+msgid "Tue"
+msgstr "ວັນອັງຄານ"
+
+msgid "Wed"
+msgstr "ວັນພຸດ"
+
+msgid "Thur"
+msgstr "ວັນພະຫັດ"
+
+msgid "Fri"
+msgstr "ວັນສຸກ"
+
+msgid "Sat"
+msgstr "ວັນເສົາ"
+
+msgid "Event title"
+msgstr "ຫົວຂໍ້ ກໍລະນີ"
+
+msgid "Event description"
+msgstr "ລາຍລະອຽດ ກິດຈະກໍາ"
+
+msgid "I registered on this site"
+msgstr "ຂ້າພະເຈົ້າ ໄດ້ລົງທະບຽນ ຢູ່ໃນເວັບໄຊ ນີ້"
+
+msgid "Last created groups"
+msgstr "ກຸ່ມ ການສ້າງຕັ້ງ ສຸດທ້າຍ"
+
+msgid "You joined this group as"
+msgstr "ທ່ານໄດ້ເຂົ້າຮ່ວມ ກຸ່ມນີ້ ເປັນ"
+
+msgid "You received a request to join the group"
+msgstr "ພວກເຈົ້າໄດ້ຮັບ ການຮ້ອງຂໍໃຫ້ ເຂົ້າຮ່ວມກຸ່ມ ໄດ້"
+
+msgid "Updated site"
+msgstr "ເວັບໄຊ ປັບປຸງ"
+
+msgid "Site is under construction"
+msgstr "ເວັບໄຊ ແມ່ນຢູ່ພາຍໃຕ້ ການກໍ່ສ້າງ"
+
+msgid "Last registered users"
+msgstr "ຜູ້ໃຊ້ ທີ່ລົງທະບຽນ ຫຼ້າສຸດ"
+
+msgid "User settings"
+msgstr "ການຕັ້ງຄ່າ ຂອງຜູ້ໃຊ້"
+
+msgid "Technical support"
+msgstr "ສະຫນັບສະຫນູນ ດ້ານວິຊາການ"
+
+msgid "Change email"
+msgstr "ປ່ຽນອີເມວ"
+
+msgid "Change password"
+msgstr "ການປ່ຽນແປງ ລະຫັດຜ່ານ"
+
+msgid "User has been successfully saved"
+msgstr "ຜູ້ໃຊ້ ທີ່ໄດ້ ຖືກບັນທຶກໄວ້ ຢ່າງສໍາເລັດຜົນ"
+
+msgid "Full name"
+msgstr "ຊື່ເຕັມ"
+
+msgid "My video"
+msgstr "ວິດີໂອ ຂອງຂ້າພະເຈົ້າ"
+
+msgid "Skills"
+msgstr "ຄວາມສາມາດ"
+
+msgid "Birthday"
+msgstr "ວັນເດືອນປີເກີດ"
+
+msgid "Country of residence"
+msgstr "ປະເທດ ທີ່ຢູ່ອາໃສ"
+
+msgid "Country"
+msgstr "ປະເທດ"
+
+msgid "Zip Code"
+msgstr "ລະຫັດ ໄປສະນີ"
+
+msgid "City/town of residence"
+msgstr "ເມືອງ / ເມືອງ ທີ່ຢູ່ອາໃສ"
+
+msgid "University/college"
+msgstr "ວິທະຍາໄລ / ວິທະຍາໄລ"
+
+msgid "University/college photo"
+msgstr "ວິທະຍາໄລ ຮູບພາບ ວິທະຍາໄລ /"
+
+msgid "Add user\'s accomplishments"
+msgstr "ຕື່ມການ ຄວາມສໍາເລັດ ຂອງຜູ້ໃຊ້"
+
+msgid "Interface language"
+msgstr "ພາສາ ໃນການໂຕ້ຕອບ"
+
+msgid "How other people see this page"
+msgstr "ວິທີການ ປະຊາຊົນອື່ນໆ ເບິ່ງຫນ້າ ນີ້"
+
+msgid "Video with me"
+msgstr "ວີດີໂອ ກັບຂ້າພະເຈົ້າ"
+
+msgid "Groups"
+msgstr "ກຸ່ມ"
+
+msgid "Registered today"
+msgstr "ການຈົດທະບຽນ ໃນມື້ນີ້"
+
+msgid "Qty"
+msgstr "ຈໍານວນ"
+
+msgid "No registered users yet"
+msgstr "ບໍ່ມີ ຜູ້ຊົມໃຊ້ ທີ່ຈົດທະບຽນ ໆ"
+
+msgid "Total"
+msgstr "ຈໍານວນທັງຫມົດ"
+
+msgid "Registered total"
+msgstr "ຈໍານວນທັງຫມົດ ຊິກ"
+
+msgid "You received a file"
+msgstr "ພວກເຈົ້າໄດ້ຮັບ ໄຟລ໌"
+
+msgid "You were invited into this room"
+msgstr "ທ່ານໄດ້ຖືກ ເຊື້ອເຊີນ ເຂົ້າໄປໃນຫ້ອງ ນີ້"
+
+msgid "Request is being processed"
+msgstr "ຄໍາຮ້ອງຂໍການ ກໍາລັງດໍາເນີນ"
+
+msgid "Fax"
+msgstr "ໂທລະສັບ"
+
+msgid "Messenger"
+msgstr "Messenger"
+
+msgid "New subproject"
+msgstr "ໂຄງການຍ່ອຍ ໃຫມ່"
+
+msgid "messages written."
+msgstr "ຂໍ້ຄວາມ ລາຍລັກອັກສອນ ."
+
+msgid "projects created based on groups."
+msgstr "ໂຄງການ ສ້າງຕັ້ງໂດຍອີງ ໃສ່ບັນດາກຸ່ມ ."
+
+msgid "users registered on website."
+msgstr "ຜູ້ໃຊ້ ທີ່ລົງທະບຽນ ໃນເວັບໄຊ ."
+
+msgid "New email"
+msgstr "ອີເມວໃຫມ່"
+
+msgid "Confirm email"
+msgstr "ຢືນຢັນ ອີເມວ"
+
+msgid "New password"
+msgstr "ລະຫັດຜ່ານ ໃຫມ່"
+
+msgid "Confirm password"
+msgstr "ຢືນຢັນລະຫັດ"
+
+msgid "Occupation"
+msgstr "ພິເສດ"
+
+msgid "Timezone"
+msgstr "ເຂດເວລາ"
+
+msgid "Answer"
+msgstr "ຄໍາຕອບ"
+
+msgid "Articles"
+msgstr "ບົດຄວາມທີ່"
+
+msgid "Article"
+msgstr "ມາດຕາ"
+
+msgid "Video-article"
+msgstr "ວີດີໂອ ຄວາມ ,"
+
+msgid "Find article..."
+msgstr "ຊອກເອ ບົດຄວາມ ..."
+
+msgid "Politics"
+msgstr "ການເມືອງ"
+
+msgid "Economics"
+msgstr "ເສດຖະກິດ"
+
+msgid "Community"
+msgstr "ຊຸມຊົນ"
+
+msgid "Culture"
+msgstr "ວັດທະນະທໍາ"
+
+msgid "Sports"
+msgstr "ກິລາ"
+
+msgid "Hi-tech"
+msgstr "Hi ເຕັກໂນໂລຊີ"
+
+msgid "Cars"
+msgstr "ລົດ"
+
+msgid "Fashion"
+msgstr "ຄົນອັບເດດ:"
+
+msgid "Games"
+msgstr "ເກມອອນ"
+
+msgid "Other"
+msgstr "ອື່ນ ໆ"
+
+msgid "Invalid mediafile"
+msgstr "mediafile ບໍ່ຖືກຕ້ອງ"
+
+msgid "No articles in this category yet"
+msgstr "ບົດຄວາມທີ່ ບໍ່ມີຢູ່ໃນ ປະເພດນີ້ ຍັງ"
+
+msgid "Back to profile"
+msgstr "ກັບໄປທີ່ໂປ"
+
+msgid "View article"
+msgstr "ບົດ ເບິ່ງ"
+
+msgid "Edit article"
+msgstr "ບົດ ແກ້ໄຂ"
+
+msgid "Create article"
+msgstr "ເມື່ອ ບົດຄວາມ"
+
+msgid "Article title"
+msgstr "ຫົວຂໍ້ ບົດຄວາມ"
+
+msgid "Article section"
+msgstr "ສ່ວນ ມາດຕາ"
+
+msgid "Choose image"
+msgstr "ເລືອກເອົາຮູບພາບ"
+
+msgid "Save and upload"
+msgstr "ຊ່ວຍປະຢັດ ແລະອັບ"
+
+msgid "Show more..."
+msgstr "ສະແດງໃຫ້ເຫັນ ເພີ່ມເຕີມ ..."
+
+msgid "Create"
+msgstr "ສ້າງ"
+
+msgid "Edit"
+msgstr "ດັດແກ້"
+
+msgid "Project"
+msgstr "ໂຄງການ"
+
+msgid "Team"
+msgstr "ທີມງານ"
+
+msgid "A new article was published"
+msgstr "ບົດຄວາມ ໃຫມ່ ໄດ້ຈັດພີມມາ"
+
+msgid "You joined this project"
+msgstr "ທ່ານໄດ້ເຂົ້າຮ່ວມ ໂຄງການນີ້"
+
+msgid "Enter your information in the User settings"
+msgstr "ກະລຸນາໃສ່ ຂໍ້ມູນຂອງທ່ານ ໃນການປັບຄ່າ ຜູ້ໃຊ້"
+
+msgid "Communities"
+msgstr "ຊຸມຊົນ"
+
+msgid "Video presentation of my accomplishments"
+msgstr "ການນໍາສະເຫນີ ວິດີໂອ ຂອງຜົນສໍາເລັດ ຂອງຂ້າພະເຈົ້າ"
+
+msgid "My articles"
+msgstr "ບົດຄວາມ ຂອງຂ້າພະເຈົ້າ"
+
+msgid "User"
+msgstr "ຜູ້ໃຊ້"
+
+msgid "Users"
+msgstr "ຜູ້ຊົມໃຊ້"
+
+msgid "Add new list"
+msgstr "ຕື່ມການ ບັນຊີລາຍການ ໃຫມ່"
+
+msgid "List title"
+msgstr "ຊື່ ບັນຊີລາຍການ"
+
+msgid "Add"
+msgstr "ຕື່ມ"
+
+msgid "Add to favorites"
+msgstr "ຕື່ມການກັບ ຫມູ່"
+
+msgid "Delete from favorites"
+msgstr "ລົບ ຈາກ ຫມູ່"
+
+msgid "Select list"
+msgstr "ເລືອກ ບັນຊີລາຍຊື່"
+
+msgid "Subscriptions"
+msgstr "ຕິດຕາມອ່ານ"
+
+msgid "Subscribe"
+msgstr "ຈອງ"
+
+msgid "Unsubscribe"
+msgstr "ຍົກເລີກ"
+
+msgid "General list"
+msgstr "ບັນຊີລາຍຊື່ ທົ່ວໄປ"
+
+msgid "No users in this list"
+msgstr "ຜູ້ຊົມໃຊ້ ທີ່ບໍ່ມີໃນ ບັນຊີລາຍການ ນີ້"
+
+msgid "Publish"
+msgstr "ເຜີຍແຜ່"
+
+msgid "Unpublish"
+msgstr "ໄດ້ພິມເຜີຍແຜ່"
+
+msgid "Add user"
+msgstr "ເພີ່ມສະມາຊິກ"
+
+msgid "Create document"
+msgstr "ສ້າງເອກະສານ"
+
+msgid "Edit document"
+msgstr "ເອກະສານ ດັດແກ້"
+
+msgid "View"
+msgstr "ເບິ່ງ"
+
+msgid "Document title"
+msgstr "ຫົວຂໍ້ ເອກະສານ"
+
+msgid "Find document..."
+msgstr "ຊອກ ເອກະສານ ..."
+
+msgid "Share your thoughts"
+msgstr "ແບ່ງປັນ ຄວາມຄິດຂອງທ່ານ"
+
+msgid "Leave your comment"
+msgstr "ອອກຄໍາຄິດເຫັນຂອງທ່ານ"
+
+msgid "Accept"
+msgstr "ຍອມຮັບ"
+
+msgid "Decline"
+msgstr "ການຫຼຸດລົງ"
+
+msgid "Add article"
+msgstr "ຕື່ມບົດຄວາມ"
+
+msgid "Link to verified accomplishments"
+msgstr "ການເຊື່ອມຕໍ່ກັບຜົນສໍາເລັດຜ່ານການກວດສອບ"
+
+msgid "No articles here yet..."
+msgstr "ບົດຄວາມທີ່ບໍ່ມີຢູ່ທີ່ນີ້ທັນ ..."
+
+msgid "Find file or folder..."
+msgstr "ຊອກເອໄຟລ໌ຫຼືໂຟນເດີ ..."
+
+msgid "Sort"
+msgstr "ການຈັດລຽງ"
+
+msgid "By name"
+msgstr "ໂດຍຊື່"
+
+msgid "By date"
+msgstr "ໂດຍວັນທີ"
+
+msgid "By updated date"
+msgstr "ໂດຍວັນທີປັບປຸງ"
+
+msgid "By size"
+msgstr "ໂດຍຂະຫນາດ"
+
+msgid "By type"
+msgstr "ໂດຍປະເພດ"
+
+msgid "Move"
+msgstr "ການເຄື່ອນໄຫວ"
+
+msgid "File Manager"
+msgstr "ຈັດການໄຟລ໌"
+
+msgid "Share link"
+msgstr "ການເຊື່ອມຕໍ່ແບ່ງປັນ"
+
+msgid "Responsible"
+msgstr "ຄວາມຮັບຜິດຊອບ"
+
+msgid "Performer"
+msgstr "ການປະຕິບັດ"
+
+msgid "New Folder"
+msgstr "ໂຟນເດີໃຫມ່"
+
+msgid "Folder name"
+msgstr "ຊື່ໂຟເດີ"
+
+msgid "By default"
+msgstr "ໂດຍໃນຕອນຕົ້ນ"
+
+msgid "Back to group"
+msgstr "ກັບຄືນໄປບ່ອນກຸ່ມ"
+
+msgid "year(s)"
+msgstr "ປີ (s)"
+
+msgid "January"
+msgstr "ມັງກອນ"
+
+msgid "February"
+msgstr "ກຸມພາ"
+
+msgid "March"
+msgstr "ມີນາ"
+
+msgid "April"
+msgstr "ເດືອນເມສາ"
+
+msgid "May"
+msgstr "ພຶດສະພາ"
+
+msgid "June"
+msgstr "ມິຖຸນາ"
+
+msgid "July"
+msgstr "ເດືອນກໍລະກົດ"
+
+msgid "August"
+msgstr "ສິງຫາ"
+
+msgid "September"
+msgstr "ກັນຍາ"
+
+msgid "October"
+msgstr "ຕຸລາ"
+
+msgid "November"
+msgstr "ເດືອນພະຈິກ"
+
+msgid "December"
+msgstr "ທັນວາ"
+
+msgid "Password Reminder"
+msgstr "ລືມລະຫັດຜ່ານ"
+
+msgid "Log In"
+msgstr "ເຂົ້າ​ສູ່​ລະ​ບົບ"
+
+msgid "Sign in"
+msgstr "ເຂົ້າ​ສູ່​ລະ​ບົບ"
+
+msgid "Register"
+msgstr "ການລົງທະບຽນ"
+
+msgid "First name"
+msgstr "ຊື່​ແທ້"
+
+msgid "Last name"
+msgstr "ນາມ​ສະ​ກຸນ"
+
+msgid "I agree with rules"
+msgstr "ຂ້າພະເຈົ້າຕົກລົງເຫັນດີກັບກົດລະບຽບ"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "ການຢືນຢັນອີເມວໄດ້ຖືກສົ່ງໄປຫາທີ່ຢູ່ອີເມລ໌ຂອງທ່ານ."
+
+msgid "Thanks"
+msgstr "ຂໍຂອບໃຈ"
+
+msgid "Password must be at least 6 characters"
+msgstr "ລະຫັດຜ່ານຕ້ອງເປັນຢ່າງຫນ້ອຍ 6 ລັກສະນະ"
+
+msgid "Creative Environment"
+msgstr "ສະພາບແວດລ້ອມສ້າງສັນ"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "ທ່ານຕ້ອງການຈະປີຢູ່ໃນຢ່າງຫນ້ອຍສິບສາມອາຍຸການນໍາໃຊ້ບໍລິການນີ້"
+
+msgid "Order status"
+msgstr "ສະຖານະການສັ່ງຊື້"
+
+msgid "Processing order"
+msgstr "ຄໍາສັ່ງການປຸງແຕ່ງ"
+
+msgid "Requires a payment"
+msgstr "ຮຽກຮ້ອງໃຫ້ມີການຊໍາລະເງິນ"
+
+msgid "Shipping"
+msgstr "ການ​ຂົນ​ສົ່ງ"
+
+msgid "Ready"
+msgstr "ພ້ອມທີ່ຈະ"
+
+msgid "Thank you for your payment"
+msgstr "ຂໍຂອບໃຈສໍາລັບການຈ່າຍເງິນຂອງທ່ານທີ່ທ່ານ"
+
+msgid "Your payment has been cancelled"
+msgstr "ການຈ່າຍເງິນຂອງທ່ານໄດ້ຖືກຍົກເລີກ"
+
+msgid "page"
+msgstr "ຫນ້າ"
+
+msgid "Rent period"
+msgstr "ໄລຍະເວລາເຊົ່າ"
+
+msgid "Total, month"
+msgstr "ທັງຫມົດເດືອນ,"
+
+msgid "Order items"
+msgstr "ລາຍການຄໍາສັ່ງ"
+
+msgid "No records found"
+msgstr "ການບັນທຶກການທີ່ບໍ່ມີພົບເຫັນ"
+
+msgid "User with this email is already exist"
+msgstr "ຜູ້ໃຊ້ທີ່ມີອີເມລນີ້ແມ່ນມີຢູ່"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "ໂຟນເດີຫຼືໄຟລ໌ທີ່ມີຊື່ດັ່ງກ່າວແມ່ນມີຢູ່ໃນໂຟນເດີປາຍທາງ"
+
+msgid "Minimal quantity"
+msgstr "ປະລິມານທີ່ນ້ອຍທີ່ສຸດ"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "ການສໍາເນົາພິມ"
+
+msgid "Terms of Use"
+msgstr "ល័ក្ខខ័ណ្ឌនៃការប្រើប្រាស់"
+
+msgid "Privacy Policy"
+msgstr "គោលការណ៍​ភាព​ឯកជន"
+
+msgid "Find project..."
+msgstr "បានរកឃើញគម្រោងការ ..."
+
+msgid "New Project"
+msgstr "គម្រោងថ្មី"
+
+msgid "Accounts"
+msgstr "គណនី"
+
+msgid "Operations"
+msgstr "ប្រតិបត្ដិការ"
+
+msgid "All accounts"
+msgstr "គណនីទាំងអស់"
+
+msgid "All categories"
+msgstr "ប្រភេទទាំងអស់"
+
+msgid "Expense"
+msgstr "ຄ່າໃຊ້ຈ່າຍ"
+
+msgid "Income"
+msgstr "ລາຍໄດ້"
+
+msgid "Transfer"
+msgstr "ການຖ່າຍໂອນ"
+
+msgid "Expense"
+msgstr "ຄ່າໃຊ້ຈ່າຍ"
+
+msgid "income"
+msgstr "ລາຍໄດ້"
+
+msgid "tax"
+msgstr "ພາສີ"
+
+msgid "percent"
+msgstr "ເປີເຊັນ"
+
+msgid "transfer"
+msgstr "ການຍົກຍ້າຍ"
+
+msgid "Make operation"
+msgstr "ເຮັດໃຫ້ການດໍາເນີນງານ"
+
+msgid "Select date"
+msgstr "ເລືອກວັນທີ່"
+
+msgid "Select account"
+msgstr "ເລືອກບັນຊີ"
+
+msgid "Month"
+msgstr "ເດືອນ"
+
+msgid "Quarter"
+msgstr "ໄຕມາດ"
+
+msgid "Year"
+msgstr "ປີ"
+
+msgid "From"
+msgstr "From"
+
+msgid "To"
+msgstr "ໄປ"
+
+msgid "Expense amount"
+msgstr "ຈໍານວນ ຄ່າໃຊ້ຈ່າຍ"
+
+msgid "Categories"
+msgstr "ປະເພດ"
+
+msgid "Comments"
+msgstr "ຄໍາເຫັນ"
+
+msgid "Income amount"
+msgstr "ຈໍານວນ ລາຍໄດ້"
+
+msgid "Transfer amount"
+msgstr "ການຖ່າຍໂອນ ຈໍານວນເງິນ"
+
+msgid "From account"
+msgstr "ຈາກບັນຊີ"
+
+msgid "To account"
+msgstr "ບັນຊີ"
+
+msgid "New Account"
+msgstr "ບັນຊີໃຫມ່"
+
+msgid "New Category"
+msgstr "ປະເພດ ໃຫມ່"
+
+msgid "All"
+msgstr "ທັງຫມົດ"
+
+msgid "Name"
+msgstr "ຊື່"
+
+msgid "Enter category name"
+msgstr "ກະລຸນາໃສ່ ຊື່ ປະເພດ"
+
+msgid "Select type"
+msgstr "ເລືອກປະເພດ"
+
+msgid "Credit card"
+msgstr "ບັດ​ເຄຼ​ດິດ"
+
+msgid "Debit card"
+msgstr "ບັດ​ເດ​ບິດ"
+
+msgid "Bank account"
+msgstr "ບັນ​ຊີ​ທະ​ນາ​ຄານ"
+
+msgid "Cash"
+msgstr "ເງິນສົດ"
+
+msgid "Balance is empty"
+msgstr "ການດຸ່ນດ່ຽງ ແມ່ນຫວ່າງເປົ່າ"
+
+msgid "Statistic is empty"
+msgstr "ສະຖິຕິການ ແມ່ນຫວ່າງເປົ່າ"
+
+msgid "Regular payments"
+msgstr "ການຊໍາລະ ປົກກະຕິ"
+
+msgid "Are you sure ?"
+msgstr "ເຈົ້າ​ແນ່​ໃຈ​ບໍ່ ?"
+
+msgid "Are you sure to close this project?"
+msgstr "ທ່ານມີ ແນ່ໃຈວ່າໄດ້ ປິດ ໂຄງການນີ້?"
+
+msgid "Project was deleted successfully"
+msgstr "ໂຄງການໄດ້ຖຶກ ລຶບ ສົບຜົນສໍາເລັດ"
+
+msgid "Select currency"
+msgstr "ສະກຸນເງິນ ເລືອກ"
+
+msgid "Account"
+msgstr "ບັນຊີ"
+
+msgid "Orders list"
+msgstr "ບັນຊີລາຍຊື່ ຄໍາສັ່ງ"
+
+msgid "Order payments"
+msgstr "ການຊໍາລະເງິນ ຄໍາສັ່ງ"
+
+msgid "View order"
+msgstr "ຄໍາສັ່ງ ເບິ່ງ"
+
+msgid "No response from Printer API"
+msgstr "ການຕອບສະຫນອງ ຈາກ Printer API ທີ່ບໍ່ມີ"
+
+msgid "Bad response from Printer API"
+msgstr "ການຕອບສະຫນອງ ບໍ່ດີຈາກ Printer API"
+
+msgid "User ID"
+msgstr "ລະຫັດຜູ້ໃຊ້"
+
+msgid "Contact Person"
+msgstr "ຜູ້ຕິດຕໍ່"
+
+msgid "No orders to process"
+msgstr "ບໍ່ມີຄໍາສັ່ງ ທີ່ຈະປຸງແຕ່ງ"
+
+msgid "Article announce image"
+msgstr "ບົດ ປະກາດ ຮູບພາບ"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "url ວິດີໂອ ທີ່ບໍ່ຖືກຕ້ອງ . ອອກຈາກເປົ່າ ຫລືໃສ່ url youtube ຖືກຕ້ອງ"
+
+msgid "Please, enter Contractor data"
+msgstr "ກະລຸນາ ປ້ອນຂໍ້ມູນ ຜູ້ຮັບເຫມົາ"
+
+msgid "Distribute devices"
+msgstr "ການແຈກຢາຍ ອຸປະກອນ"
+
+msgid "Quantity"
+msgstr "ປະລິມານ"
+
+msgid "Devices left"
+msgstr "ອຸປະກອນ ໄວ້"
+
+msgid "Distributed devices"
+msgstr "ອຸປະກອນ ການແຜ່ກະຈາຍ"
+
+msgid "You must enter quantity"
+msgstr "ທ່ານຕ້ອງໃສ່ ປະລິມານ"
+
+msgid "All devices are distributed"
+msgstr "ອຸປະກອນ ທັງຫມົດທີ່ ມີການແຈກຢາຍ"
+
+msgid "IP address"
+msgstr "ທີ່ຢູ່ IP"
+
+msgid "Only for printer"
+msgstr "ພຽງແຕ່ສໍາລັບ ເຄື່ອງພິມ"
+
+msgid "Counter"
+msgstr "ວຽກງານຕ້ານການ"
+
+msgid "You was excluded from this room"
+msgstr "ທ່ານ ບໍ່ໄດ້ຄິດໄລ່ ຈາກຫ້ອງ ນີ້"
+
+msgid "Compare"
+msgstr "ສົມທຽບ"
+
+msgid "Scheduled transaction"
+msgstr "ການ ກໍານົດ"
+
+msgid "Select transfer account"
+msgstr "ບັນຊີ ການໂອນ ເລືອກ"
+
+msgid "Select income account"
+msgstr "ບັນຊີ ລາຍ ເລືອກ"
+
+msgid "Reports"
+msgstr "ບົດລາຍງານການ"
+
+msgid "Goals"
+msgstr "ເປົ້າຫມາຍ"
+
+msgid "Budgets"
+msgstr "ງົບປະມານ"
+
+msgid "Enter user name or email..."
+msgstr "ກະລຸນາໃສ່ ຊື່ຜູ້ໃຊ້ຫຼື ອີເມວ ..."
+
+msgid "Invite had been sended"
+msgstr "ເຊີນ ໄດ້ຮັບການ sended"
+
+msgid "Statistics"
+msgstr "ສະຖິຕິ"
+
+msgid "Updated site began to work"
+msgstr "ເວັບໄຊ ບັບປັບປຸງ ໄດ້ເລີ່ມຕົ້ນ ການເຮັດວຽກ"
+
+msgid "City of residence"
+msgstr "ເມືອງ ທີ່ຢູ່ອາໃສ"
+
+msgid "Edit favourites list"
+msgstr "ບັນຊີລາຍຊື່ ຫຼິ້ນຂອງ ແກ້ໄຂ"
+
+msgid "Add favourites list"
+msgstr "ຕື່ມການ ບັນຊີລາຍຊື່ ຫຼິ້ນຂອງ"
+
+msgid "Categories is required"
+msgstr "ປະເພດ ທີ່ຕ້ອງການ"
+
+msgid "Type new category name and hit Enter"
+msgstr "ພິມຊື່ ປະເພດ ໃຫມ່ແລະການ ມົນຕີ ກະລຸນາໃສ່"
+
+msgid "You created an order"
+msgstr "ທ່ານສ້າງ ຄໍາສັ່ງ"
+
+msgid "You received a device due to this order"
+msgstr "ທ່ານໄດ້ຮັບການ ອຸປະກອນ ອັນເນື່ອງມາຈາກ ການສັ່ງນີ້"
+
+msgid "%s attached %s to task %s"
+msgstr "%s ຕິດ %s ກັບ ວຽກງານ %s"
+
+msgid "member(s)"
+msgstr "ສະມາຊິກທີ່ (s)"
+
+msgid "%s commented task %s"
+msgstr "%s ວຽກງານ ໃຫ້ຄໍາເຫັນ %s"
+
+msgid "%s closed task %s"
+msgstr "%s ວຽກງານ ປິດ %s"
+
+msgid "%s created task %s"
+msgstr "%s ວຽກງານ ສ້າງ %s"
+
+msgid "%s created this project"
+msgstr "%s ການສ້າງຕັ້ງ ໂຄງການນີ້"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s ໂຄງການຍ່ອຍ ການສ້າງຕັ້ງ \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s ປິດ ໂຄງການ \"%s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s ປິດ ໂຄງການຍ່ອຍ \"%s\""
+
+msgid "This field must not be blank"
+msgstr "ພາກສະຫນາມນີ້ ຈະຕ້ອງບໍ່ ເປົ່າ"
+
+msgid "Document with such name is already exist"
+msgstr "ເອກະສານ ທີ່ມີ ຊື່ດັ່ງກ່າວແມ່ນ ມີຢູ່"
+
+msgid "Wait until image upload"
+msgstr "ລໍຖ້າ ຈົນກ່ວາ ການອັບໂຫລດ ຮູບພາບ"
+
+msgid "Video"
+msgstr "ວີດີໂອ"
+
+msgid "Message can not be empty"
+msgstr "ຂໍ້ຄວາມ ບໍ່ສາມາດຈະ ເປົ່າຫວ່າງ"
+
+msgid "Yes"
+msgstr "ແມ່ນແລ້ວ"
+
+msgid "No"
+msgstr "ບໍ່ມີ"
+
+msgid "Created"
+msgstr "ຂຽນເມື່ອປະ"
+
+msgid "Compare is empty"
+msgstr "ສົມທຽບ ແມ່ນຫວ່າງເປົ່າ"
+
+msgid "Are you sure you want to delete operation"
+msgstr "ທ່ານແນ່ໃຈວ່າ ທ່ານຕ້ອງການລຶບ ການດໍາເນີນງານ"
+
+msgid "Do you really want to delete transaction"
+msgstr "ທ່ານກໍ່ ຕ້ອງການທີ່ຈະ ລົບ ການ"
+
+msgid "Project with same name already exists"
+msgstr "ໂຄງການທີ່ມີ ຊື່ດຽວກັນ ຢູ່ແລ້ວ"
+
+msgid "Account is not found"
+msgstr "ບັນຊີ ບໍ່ໄດ້ພົບເຫັນ"
+
+msgid "Currency is required"
+msgstr "ສະກຸນເງິນ ທີ່ຕ້ອງການ"
+
+msgid "error while deleting document"
+msgstr "ຄວາມຜິດພາດ ໃນຂະນະທີ່ ການລຶບ ເອກະສານ"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "ທ່ານເຊີນ ຜູ້ໃຊ້ \"%s\" ໃນຫ້ອງນີ້"
+
+msgid "User \"%s\" joined this room"
+msgstr "ຜູ້ໃຊ້ \"%s\" ໄດ້ເຂົ້າຮ່ວມ ຫ້ອງນີ້"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "ທ່ານ ບໍ່ໄດ້ຄິດໄລ່ ການໃຊ້ \"%s\" ຈາກຫ້ອງ ນີ້"
+
+msgid "User \"%s\" left this room"
+msgstr "ຜູ້ໃຊ້ \"%s\" ໃສ່ ຫ້ອງນີ້"
+
+msgid "Add account"
+msgstr "ເພີ່ມ​ບັນ​ຊີ"
+
+msgid "The requested page is not found"
+msgstr "ຫນ້າທີ່ ຕ້ອງການ ບໍ່ໄດ້ພົບເຫັນ"
+
+msgid "Document"
+msgstr "ເອກະສານ"
+
+msgid "Table"
+msgstr "ຕາຕະລາງ"
+
+msgid "file(s)"
+msgstr "file (s)"
+
+msgid "Residue"
+msgstr "ສານຕົກຄ້າງ"
+
+msgid "Result is empty"
+msgstr "ຜົນໄດ້ຮັບແມ່ນ ເປົ່າຫວ່າງ"
+
+msgid "The total amount is %s for %s mo"
+msgstr "ຈໍານວນທັງຫມົດ ແມ່ນ s% ສໍາລັບການ %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "ທ່ານມີ ທີ່ຈະຝາກ %s ລາຍເດືອນໃຫ້ກັບ ບັນຊີ ທີ່ກ່ຽວຂ້ອງ"
+
+msgid "Start"
+msgstr "ການເລີ່ມຕົ້ນ"
+
+msgid "finish"
+msgstr "ສໍາເລັດຮູບ"
+
+msgid "Selected account is already in use for another goal"
+msgstr "ບັນຊີທີ່ເລືອກ ແມ່ນຢູ່ໃນ ການນໍາໃຊ້ ສໍາລັບ ເປົ້າຫມາຍອື່ນ"
+
+msgid "Amount required"
+msgstr "ຈໍານວນເງິນ ທີ່ຕ້ອງການ"
+
+msgid "New goal"
+msgstr "ເປົ້າຫມາຍໃຫມ່"
+
+msgid "Goal"
+msgstr "ເປົ້າຫມາຍຂອງ"
+
+msgid "Goal name"
+msgstr "ເປົ້າຫມາຍຂອງ ຊື່"
+
+msgid "Invalid date"
+msgstr "ວັນທີ່ ບໍ່ຖືກຕ້ອງ"
+
+msgid "Necessary sum must be a positive number"
+msgstr "ລວມ ມີຄວາມຈໍາເປັນ ຈະຕ້ອງເປັນ ຈໍານວນບວກ"
+
+msgid "Remain"
+msgstr "ຍັງຄົງ"
+
+msgid "Last day"
+msgstr "ມື້​ສຸດ​ທ້າຍ"
+
+msgid "Accumulated"
+msgstr "ການສະສົມ"
+
+msgid "Put aside"
+msgstr "ເອົາໃຈໃສ່ ຫລີກໄປທາງຫນຶ່ງ"
+
+msgid "January"
+msgstr "ມັງກອນ"
+
+msgid "February"
+msgstr "ກຸມພາ"
+
+msgid "March"
+msgstr "ມີນາ"
+
+msgid "April"
+msgstr "ເດືອນເມສາ"
+
+msgid "May"
+msgstr "ພຶດສະພາ"
+
+msgid "June"
+msgstr "ມິຖຸນາ"
+
+msgid "July"
+msgstr "ເດືອນກໍລະກົດ"
+
+msgid "August"
+msgstr "ສິງຫາ"
+
+msgid "September"
+msgstr "ກັນຍາ"
+
+msgid "October"
+msgstr "ຕຸລາ"
+
+msgid "November"
+msgstr "ເດືອນພະຈິກ"
+
+msgid "December"
+msgstr "ທັນວາ"
+
+msgid "Expenses projected/actual"
+msgstr "ຄ່າໃຊ້ຈ່າຍໃນ ໂຄງການ / ທີ່ແທ້ຈິງ"
+
+msgid "Net Income projected/actual"
+msgstr "ລາຍໄດ້ສຸດທິ ຄາດຄະເນ / ທີ່ແທ້ຈິງ"
+
+msgid "New budget"
+msgstr "ງົບປະມານ ໃຫມ່"
+
+msgid "Revenue and Expenses Chart"
+msgstr "ໃນຕາຕະລາງ ລາຍໄດ້ແລະ ຄ່າໃຊ້ຈ່າຍ"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "ງົບປະມານ ມີຄູ່ ດຽວກັນ ຂອງການບັນຊີ ແລະ ປະເພດຂອງ ລາຄາ:"
+
+msgid "Budget is empty"
+msgstr "ງົບປະມານ ແມ່ນຫວ່າງເປົ່າ"
+
+msgid "Budget"
+msgstr "ງົບປະມານ"
+
+msgid "plan"
+msgstr "ແຜນການ"
+
+msgid "fact"
+msgstr "ຄວາມເປັນຈິງ"
+
+msgid "diff"
+msgstr "ຕ່າງ"
+
+msgid "Show More"
+msgstr "ສະແດງໃຫ້ເຫັນ ເພີ່ມເຕີມ"
+
+msgid "Cancel"
+msgstr "ຍົກເລີກການ"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "ຂາຍ ຂອງຂ້າພະເຈົ້າ"
+
+msgid "Time spent"
+msgstr "ທີ່ໃຊ້ເວລາ ໃຊ້ເວລາ"
+
+msgid "Total time spent"
+msgstr "ທີ່ໃຊ້ເວລາ ທັງຫມົດ ໃຊ້ເວລາ"
+
+msgid "Earnings per hour"
+msgstr "ລາຍຮັບຈາກການ ຕໍ່ຊົ່ວໂມງ"
+
+msgid "Total earnings"
+msgstr "ລາຍໄດ້ ທັງຫມົດ"
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Phone call"
+msgstr "ໂທລະ​ສັບ"
+
+msgid "Telephone calls"
+msgstr "ໂທລະສັບ"
+
+msgid "Send email"
+msgstr "ການສົ່ງອີເມວ"
+
+msgid "Emails"
+msgstr "ອີເມວ"
+
+msgid "Meeting"
+msgstr "ກອງປະຊຸມ"
+
+msgid "Meetings"
+msgstr "ກອງປະຊຸມ"
+
+msgid "All events"
+msgstr "ເຫດການທັງຫມົດ"
+
+msgid "Task"
+msgstr "ວຽກງານ"
+
+msgid "Event"
+msgstr "ເຫດການ"
+
+msgid "Events"
+msgstr "ເຫດການ"
+
+msgid "Time"
+msgstr "ທີ່ໃຊ້ເວລາ"
+
+msgid "Events statistics"
+msgstr "ສະຖິຕິ ເຫດ"
+
+msgid "days"
+msgstr "ວັນ"
+
+msgid "hours"
+msgstr "ຊົ່ວໂມງ"
+
+msgid "minutes"
+msgstr "ນາທີ"
+
+msgid "Income & expense"
+msgstr "ລາຍໄດ້ ແລະ ຄ່າໃຊ້ຈ່າຍ"
+
+msgid "Show chart"
+msgstr "ອັນດັບ ສະແດງໃຫ້ເຫັນ"
+
+msgid "Hide chart"
+msgstr "ອັນດັບ ເຊື່ອງ"
+
+msgid "Add event"
+msgstr "ຕື່ມການ ເຫດການ"
+
+msgid "Add financial data"
+msgstr "ຕື່ມ ຂໍ້ມູນ ທາງດ້ານການເງິນ"
+
+msgid "Select contractor"
+msgstr "ເລືອກ ຜູ້ຮັບເຫມົາ"
+
+msgid "Net Income"
+msgstr "ລາຍໄດ້ສຸດທິ"
+
+msgid "Revenue"
+msgstr "ການເກັບລາຍຮັບ"
+
+msgid "Taxes"
+msgstr "ພາສີອາກອນ"
+
+msgid "Amount planned"
+msgstr "ຈໍານວນເງິນທີ່ ໄດ້ວາງແຜນໄວ້"
+
+msgid "Amount"
+msgstr "ຈໍານວນ"
+
+msgid "Period"
+msgstr "ໄລຍະເວລາ"
+
+msgid "Are you sure to close this task?"
+msgstr "ທ່ານມີ ແນ່ໃຈວ່າຈະ ປິດ ວຽກງານນີ້?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "ກຸ່ມທັງຫມົດ"
+
+msgid "added from task"
+msgstr "ເພີ່ມຈາກ ວຽກງານ"
+
+msgid "Monthly repeat"
+msgstr "ຊ້ໍາ ປະຈໍາເດືອນ"
+
+msgid "Select category"
+msgstr "ເລືອກຫມວດຫມູ່"
+
+msgid "Event type"
+msgstr "ປະເພດ ເຫດການ"
+
+msgid "Margin"
+msgstr "margin"
+
+msgid "Use finance project"
+msgstr "ການນໍາໃຊ້ ໂຄງການ ທາງດ້ານການເງິນ"
+
+msgid "New investment project"
+msgstr "ໂຄງການລົງທຶນ ໃຫມ່"
+
+msgid "Investment project settings"
+msgstr "ການຕັ້ງຄ່າ ໂຄງການລົງທຶນ"
+
+msgid "Picture, for the announcement project"
+msgstr "ຮູບພາບ , ສໍາລັບໂຄງການ ການປະກາດ"
+
+msgid "Announcement project"
+msgstr "ໂຄງການ ປະກາດ"
+
+msgid "Video"
+msgstr "ວີດີໂອ"
+
+msgid "Photos or videos gallery"
+msgstr "ການຖ່າຍຮູບຫຼື ວິດີໂອ ຮູບພາບ"
+
+msgid "required amount"
+msgstr "ຈໍານວນເງິນ ທີ່ຕ້ອງການ"
+
+msgid "Project duration (60 days maximum)"
+msgstr "ໄລຍະເວລາ ໂຄງການ ( 60 ວັນ ສູງສຸດ)"
+
+msgid "Project duration"
+msgstr "ໄລຍະເວລາ ໂຄງການ"
+
+msgid "Add reward"
+msgstr "ຕື່ມການ ລາງວັນ"
+
+msgid "Delivery date"
+msgstr "ວັນ​ທີ​ສົ່ງ"
+
+msgid "Payment systems"
+msgstr "ລະບົບ ການຊໍາລະເງິນ"
+
+msgid "Terms of service"
+msgstr "ຂໍ້ກໍານົດຂອງ ການບໍລິການ"
+
+msgid "Agreement"
+msgstr "ຂໍ້ຕົກລົງ"
+
+msgid "Payment"
+msgstr "ການຊໍາລະເງິນ"
+
+msgid "My projects"
+msgstr "ໂຄງການ ຂອງຂ້າພະເຈົ້າ"
+
+msgid "Search result"
+msgstr "ຜົນການຄົ້ນຫາ"
+
+msgid "Nothing not found"
+msgstr "ບໍ່ມີຫຍັງ ບໍ່ໄດ້ພົບເຫັນ"
+
+msgid "The project has no sponsors"
+msgstr "ໂຄງການນີ້ໄດ້ ສະຫນັບສະຫນຸນ ທີ່ບໍ່ມີ"
+
+msgid "Design"
+msgstr "ການອອກແບບ"
+
+msgid "Food"
+msgstr "ອາຫານ"
+
+msgid "Journalism"
+msgstr "ວາລະສານ"
+
+msgid "Games"
+msgstr "ເກມອອນ"
+
+msgid "Art"
+msgstr "ສິນລະປະ"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "ດົນຕີ"
+
+msgid "Handicrafts"
+msgstr "ເຄື່ອງຫັດຖະກໍາ"
+
+msgid "Publishing"
+msgstr "Publishing"
+
+msgid "Theater"
+msgstr "ສະແດງລະຄອນ"
+
+msgid "Technology"
+msgstr "ເຕັກໂນໂລຊີ"
+
+msgid "Film/Video"
+msgstr "ຮູບເງົາ / ວິດີໂອ"
+
+msgid "Photo"
+msgstr "ຮູບພາບ"
+
+msgid "Dance"
+msgstr "ເຕັ້ນລໍາ"
+
+msgid "Invalid youtube video"
+msgstr "ວິດີໂອ youtube ບໍ່ຖືກຕ້ອງ"
+
+msgid "is required"
+msgstr "ຈໍາເປັນຕ້ອງມີ"
+
+msgid "User"
+msgstr "ຜູ້ໃຊ້"
+
+msgid "Date"
+msgstr "ວັນທີ່"
+
+msgid "Collected"
+msgstr "ເກັບກໍາຂໍ້ມູນ"
+
+msgid "Choose period"
+msgstr "ເລືອກ ໄລຍະເວລາ"
+
+msgid "Choose region"
+msgstr "ເລືອກ ພາກພື້ນ"
+
+msgid "Country"
+msgstr "ປະເທດ"
+
+msgid "Today"
+msgstr "ມື້ນີ້"
+
+msgid "Week"
+msgstr "ອາທິດ"
+
+msgid "Month"
+msgstr "ເດືອນ"
+
+msgid "Year"
+msgstr "ປີ"
+
+msgid "Free registration"
+msgstr "ລົງທະບຽນຟຣີ"
+
+msgid "Join"
+msgstr "ເຂົ້າຮ່ວມ"
+
+msgid "Log in using"
+msgstr "ເຂົ້າສູ່ລະບົບ"
+
+msgid "Vacancies"
+msgstr "ກາລະໂອກາດ ການຈ້າງງານ"
+
+msgid "About Us"
+msgstr "ກ່ຽວ​ກັບ​ພວກ​ເຮົາ"
+
+msgid "You will need email to log in"
+msgstr "ທ່ານຈະຕ້ອງ email ເຂົ້າສູ່ລະບົບ"
+
+msgid "A combination of 6 digits and characters"
+msgstr "ປະສົມປະສານ ຂອງ 6 ຕົວເລກ ແລະລັກສະນະ ການ"
+
+msgid "Search users, groups, articles..."
+msgstr "ຄົ້ນຫາຜູ້ໃຊ້ , ກຸ່ມ, ບົດຄວາມ ..."
+
+msgid "Cloud"
+msgstr "ຍອດນິຍົມຂອງ"
+
+msgid "Sunday"
+msgstr "ວັນອາທິດ"
+
+msgid "Monday"
+msgstr "ຈັນ"
+
+msgid "Tuesday"
+msgstr "ວັນອັງຄານ"
+
+msgid "Wednesday"
+msgstr "ວັນພຸດ"
+
+msgid "Thursday"
+msgstr "ວັນພະຫັດ"
+
+msgid "Friday"
+msgstr "ວັນສຸກ"
+
+msgid "Saturday"
+msgstr "ວັນເສົາ"
+
+msgid "Edit"
+msgstr "ດັດແກ້"
+
+msgid "Create group"
+msgstr "ສ້າງກຸ່ມການ"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "ທ່ານມີຄວາມ ແນ່ໃຈວ່າທ່ານ ຕ້ອງການທີ່ຈະ ອອກຈາກຫນ້າ ນີ້"
+
+msgid "More"
+msgstr "More"
+
+msgid "Less"
+msgstr "less"
+
+msgid "Pending"
+msgstr "ທີ່ຍັງຄ້າງ"
+
+msgid "Approved"
+msgstr "ການອະນຸມັດ"
+
+msgid "Rejected"
+msgstr "ປະຕິເສດ"
+
+msgid "Subprojects"
+msgstr "ໂຄງການຍ່ອຍ"
+
+msgid "Group edit"
+msgstr "ດັດແກ້ Group"
+
+msgid "Startup"
+msgstr "ເລີ່ມ​ຕົ້ນ"
+
+msgid "Tattoo"
+msgstr "Tattoo"
+
+msgid "Health"
+msgstr "ສຸຂະພາບ"
+
+msgid "Weapon"
+msgstr "ອາວຸດ"
+
+msgid "Astronomy"
+msgstr "ດາລາສາດ"
+
+msgid "All articles"
+msgstr "ບົດຄວາມທັງຫມົດ"
+
+msgid "Article editor"
+msgstr "ບັນນາທິການ ບົດຄວາມ"
+
+msgid "Document editor"
+msgstr "ບັນນາທິການ ເອກະສານ"
+
+msgid "Apply changes"
+msgstr "ໃຊ້ການປ່ຽນແປງ"
+
+msgid "Save changes?"
+msgstr "ຊ່ວຍປະຢັດ ການປ່ຽນແປງ ?"
+
+msgid "published an article"
+msgstr "ຈັດພີມມາ ບົດຄວາມ"
+
+msgid "Users"
+msgstr "ຜູ້ຊົມໃຊ້"
+
+msgid "Shared With Me"
+msgstr "ການແບ່ງປັນ ກັບຂ້າພະເຈົ້າ"
+
+msgid "share"
+msgstr "ອັດຕາສ່ວນ"
+
+msgid "Select Group Responsible"
+msgstr "ເລືອກ Group ຄວາມຮັບຜິດຊອບ"
+
+msgid "Create folder"
+msgstr "ສ້າງໂຟນເດີ"
+
+msgid "Title must be at least 3 characters"
+msgstr "ຫົວຂໍ້ ຕ້ອງເປັນຢ່າງຫນ້ອຍ 3 ລັກສະນະ"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "ຟຣີ 10 GB, ຜູ້ຈັດການ ທາງດ້ານການເງິນ , ການລົງທຶນ ລະ , ແລະ ອື່ນໆຈໍານວນຫຼາຍ ສໍາລັບການຟຣີ ແລະຕະຫຼອດໄປ"
+
+msgid "Best regards"
+msgstr "ກ່ຽວ ທີ່ດີທີ່ສຸດ"
+
+msgid "Updates in last 12 hours:"
+msgstr "ການປັບປຸງ ໃນ 12 ຊົ່ວໂມງ:"
+
+msgid "expense"
+msgstr "ຄ່າໃຊ້ຈ່າຍ"
+
+msgid "Commentary on the event:"
+msgstr "ຄວາມເຫັນກ່ຽວກັບ ກໍລະນີ :"
+
+msgid "Event place"
+msgstr "ສະຖານທີ່ ຈັດກິດຈະກໍາ"
+
+msgid "Project was updated"
+msgstr "ໂຄງການ ໄດ້ຖືກປັບປຸງ"
+
+msgid "Project was created"
+msgstr "ໂຄງການ ໄດ້ສ້າງຕັ້ງຂື້ນ"
+
+msgid "Project was closed"
+msgstr "ໂຄງການ ໄດ້ຖືກປິດ"
+
+msgid "account"
+msgstr "ບັນຊີ"
+
+msgid "removed task"
+msgstr "ວຽກງານ ການໂຍກຍ້າຍອອກ"
+
+msgid "removed subproject"
+msgstr "ໂຄງການຍ່ອຍ ອອກ"
+
+msgid "Title can not be empty"
+msgstr "ຫົວຂໍ້ ບໍ່ສາມາດຈະ ເປົ່າ"
+
+msgid "Do not select the type of event"
+msgstr "ຢ່າ ເລືອກເອົາປະເພດ ຂອງກໍລະນີ"
+
+msgid "Error while saving comment"
+msgstr "ຄວາມຜິດພາດ ໃນຂະນະທີ່ ປະຢັດ ເຫັນ"
+
+msgid "Save error: access denied"
+msgstr "ຊ່ວຍປະຢັດ ຄວາມຜິດພາດ: ການເຂົ້າເຖິງ ຖືກປະຕິເສດ"
+
+msgid "Remains"
+msgstr "ຊາກ"
+
+msgid "Time spent, h."
+msgstr "ທີ່ໃຊ້ເວລາ ໃຊ້ເວລາ , h ."
+
+msgid "Emails"
+msgstr "ອີເມວ"
+
+msgid "Meetings"
+msgstr "ກອງປະຊຸມ"
+
+msgid "All users"
+msgstr "ຜູ້ໃຊ້ທັງຫມົດ"
+
+msgid "Category"
+msgstr "ປະເພດ"
+
+msgid "Finance project"
+msgstr "ໂຄງການ ການເງິນ"
+
+msgid "Investment project"
+msgstr "ໂຄງການລົງທຶນ"
+
+msgid "Nature"
+msgstr "ທໍາມະຊາດ"
+
+msgid "Data is empty"
+msgstr "ຂໍ້ມູນ ຫວ່າງເປົ່າ"
+
+msgid "Visitors"
+msgstr "ຈໍານວນຜູ້ເຂົ້າ"
+
+msgid "My profile"
+msgstr "ຂໍ້ມູນ ຂອງຂ້າພະເຈົ້າ"
+
+msgid "Sponsors"
+msgstr "ຜູ້ອຸປະຖໍາ"
+
+msgid "Prior to completion"
+msgstr "ກ່ອນທີ່ຈະ ສໍາເລັດ"
+
+msgid "Select"
+msgstr "ເລືອກ"
+
+msgid "My groups"
+msgstr "ກຸ່ມ ຂອງຂ້າພະເຈົ້າ"
+
+msgid "The invitation has been sent successfully"
+msgstr "ການເຊື້ອເຊີນ ດັ່ງກ່າວໄດ້ ຖືກສົ່ງໄປແລ້ວ ຢ່າງສໍາເລັດຜົນ"
+
+msgid "Username has already been invited to this project"
+msgstr "ຊື່ຜູ້ໃຊ້ ທີ່ໄດ້ ຮັບການເຊື້ອເຊີນ ແລ້ວກັບ ໂຄງການນີ້"
+
+msgid "The user is the creator of the project"
+msgstr "ຜູ້ໃຊ້ ເປັນຜູ້ສ້າງ ຂອງໂຄງການ"
+
+msgid "Provide full access"
+msgstr "ສະຫນອງການເຂົ້າ ເຕັມ"
+
+msgid "Select elements to provide access"
+msgstr "ເລືອກ ອົງປະກອບ ເພື່ອໃຫ້ເຂົ້າເຖິງ"
+
+msgid "Select all"
+msgstr "ເລືອກ​ທັງ​ຫມົດ"
+
+msgid "User E-mail"
+msgstr "ຜູ້ໃຊ້ E -mail"
+
+msgid "Click on the field to select a category"
+msgstr "ໃຫ້ຄລິກໃສ່ ພາກສະຫນາມ ໃນການເລືອກເອົາ ປະເພດໃດຫນຶ່ງ"
+
+msgid "Invitation was deleted"
+msgstr "ການເຊື້ອເຊີນ ໄດ້ຖືກ ລຶບ"
+
+msgid "Permission denied"
+msgstr "ການອະນຸຍາດ ປະຕິເສດ"
+
+msgid "Printed"
+msgstr "ພິມ"
+
+msgid "Incorrect Contractor email"
+msgstr "ອີເມລ ຜູ້ຮັບເຫມົາ ທີ່ບໍ່ຖືກຕ້ອງ"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "ທ່ານຕ້ອງ ການທີ່ຈະເພີ່ມ ໂຄງການ ເພື່ອສະຫນອງທຶນ ຈັດການ ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "ເພື່ອໃຫ້ສໍາເລັດ ການລົງທະບຽນ ກະລຸນາ ຕື່ມຂໍ້ມູນໃສ່ ລົງ ສາມາດຂອງທ່ານ"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "mail ທີ່ມີ ຄໍາແນະນໍາ ຕື່ມອີກ ໄດ້ຖືກ ສົ່ງໄປທີ່ຢູ່ ອີເມວຂອງທ່ານ"
+
+msgid "Submit"
+msgstr "ຍື່ນສະເຫນີ"
+
+msgid "Cars"
+msgstr "ລົດ"
+
+msgid "Science"
+msgstr "ວິທະຍາສາດ"
+
+msgid "Donation"
+msgstr "ບໍລິຈາກ"
+
+msgid "Interests"
+msgstr "ຄວາມສົນໃຈ"
+
+msgid "Driver"
+msgstr "Driver"
+
+msgid "Sportsman"
+msgstr "sportsman"
+
+msgid "Businessman"
+msgstr "ນັກທຸລະກິດ"
+
+msgid "Accountant"
+msgstr "ບັນຊີ"
+
+msgid "Engineer"
+msgstr "ວິສະວະກອນ"
+
+msgid "Soldier"
+msgstr "ສປປລ"
+
+msgid "Next"
+msgstr "ຕໍ່ໄປ"
+
+msgid "Hide group"
+msgstr "ກຸ່ມ ເຊື່ອງ"
+
+msgid "groups created"
+msgstr "ກຸ່ມ ນີ້ຖືກສ້າງຂຶ້ນ"
+
+msgid "articles written"
+msgstr "ບົດຄວາມທີ່ຂຽນ"
+
+msgid "These groups may be interesting for you"
+msgstr "ກຸ່ມເຫຼົ່ານີ້ ອາດຈະເປັນ ທີ່ຫນ້າສົນໃຈ ສໍາລັບທ່ານ"
+
+msgid "About Group"
+msgstr "ກ່ຽວກັບກຸ່ມ"
+
+msgid "view(s)"
+msgstr "ເບິ່ງ (s)"
+
+msgid "Favorite users"
+msgstr "ຜູ້ໃຊ້ ມັກ"
+
+msgid "No accounts"
+msgstr "ບັນຊີ ທີ່ບໍ່ມີ"
+
+msgid "Facebook authorization failed."
+msgstr "ການອະນຸຍາດ ເຟສບຸກ ສົບຜົນສໍາເລັດ ."
+
+msgid "Authorization Required"
+msgstr "ການອະນຸຍາດ ທີ່ຕ້ອງການ"
+
+msgid "You have to make a call:"
+msgstr "ທ່ານມີເພື່ອ ເຮັດໃຫ້ໂທຫາ :"
+
+msgid "You have to send an email:"
+msgstr "ທ່ານມີທີ່ຈະ ສົ່ງອີເມລ :"
+
+msgid "You have a meetup:"
+msgstr "ທ່ານມີ meetup ໄດ້:"
+
+msgid "You event :"
+msgstr "ກໍລະນີທີ່ ທ່ານ :"
+
+msgid "Participants:"
+msgstr "ຜູ້ເຂົ້າຮ່ວມ :"
+
+msgid "Search"
+msgstr "ການຄົ້ນຫາ"
+
+msgid "News"
+msgstr "ຂ່າວ"
+
+msgid "Investments"
+msgstr "ການລົງທຶນ"
+
+msgid "Back to Cloud"
+msgstr "ກັບຄືນໄປບ່ອນ Cloud"
+
+msgid "Documents"
+msgstr "ເອກະສານ"
+
+msgid "Planet"
+msgstr "ດາວ"
+
+msgid "Group url"
+msgstr "url Group"
+
+msgid "Profile url"
+msgstr "ຂໍ້ມູນ url"
+
+msgid "Already taken"
+msgstr "ປະຕິບັດແລ້ວ"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "ຢ່າງຫນ້ອຍ 1 ຈົດຫມາຍສະບັບ ແລະ 3 ຄວາມຍາວ ຕົວອັກສອນ ທີ່ຕ້ອງການ"
+
+msgid "Digit can not be the first character"
+msgstr "ໄປສະນີ ບໍ່ສາມາດຈະ ມີລັກສະນະ ທໍາອິດ"
+
+msgid "Enter valid email address"
+msgstr "ກະລຸນາໃສ່ ທີ່ຢູ່ອີເມວ ທີ່ຖືກຕ້ອງ"
+
+msgid "Enter your skills"
+msgstr "ກະລຸນາໃສ່ ຄວາມສາມາດ ຂອງທ່ານ"
+
+msgid "Enter your first name"
+msgstr "ກະລຸນາໃສ່ ຊື່ ທໍາອິດຂອງທ່ານ"
+
+msgid "Enter your last name"
+msgstr "ກະລຸນາໃສ່ ຊື່ ຂອງທ່ານ ທີ່ຜ່ານມາ"
+
+msgid "Enter your first name and last name"
+msgstr "ກະລຸນາໃສ່ ຊື່ ຂອງທ່ານ ທໍາອິດ ແລະ ຊື່ສຸດທ້າຍ"
+
+msgid "Your first name?"
+msgstr "ຊື່ທໍາອິດ ຂອງທ່ານ ?"
+
+msgid "Your last name?"
+msgstr "ນາມສະກຸນ ຂອງທ່ານ ?"
+
+msgid "What are your proficiencies?"
+msgstr "ຈະເປັນແນວໃດ ຄວາມສາມາດ ຂອງທ່ານ ແມ່ນຫຍັງ?"
+
+msgid "Select country"
+msgstr "ເລືອກ ປະເທດ"
+
+msgid "Select user"
+msgstr "ເລືອກ ຜູ້ໃຊ້"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "ບັນລຸຄວາມຝັນ ຂອງທ່ານ ! ສ້າງແລະ ເຮັດວຽກຮ່ວມກັນ ."
+
+msgid "date moved from"
+msgstr "ວັນທີ່ ໄດ້ຍ້າຍຈາກ"
+
+msgid "work"
+msgstr "ການເຮັດວຽກ"
+
+msgid "Conference"
+msgstr "ກອງປະຊຸມ"
+
+msgid "personal"
+msgstr "ສ່ວນບຸກຄົນ"
+
+msgid "Holiday"
+msgstr "ວັນພັກ"
+
+msgid "Past"
+msgstr "ໄລ​ຍະ​ຜ່ານ​ມາ"
+
+msgid "Future"
+msgstr "ໃນ​ອະ​ນາ​ຄົດ"
+
+msgid "Purchase"
+msgstr "ຊື້"
+
+msgid "Personal events"
+msgstr "ກິດ​ຈະ​ກໍາ​ສ່ວນ​ຕົວ"
+
+msgid "Conferences"
+msgstr "ກອງ​ປະ​ຊຸມ"
+
+msgid "Holidays"
+msgstr "ວັນ​ພັກ"
+
+msgid "Sport events"
+msgstr "ກິດ​ຈະ​ກໍາ​ກິ​ລາ"
+
+msgid "Tasks"
+msgstr "ວຽກ​ງານ"
+
+msgid "Other events"
+msgstr "ກິດ​ຈະ​ກໍາ​ອື່ນໆ"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "ເລື່ອນ"
+
+msgid "Time management"
+msgstr "ການ​ຄຸ້ມ​ຄອງ​ທີ່​ໃຊ້​ເວ​ລາ"
+
+msgid "Delayed events"
+msgstr "ກິດ​ຈະ​ກໍາ Deferred"
+
+msgid "Delayed"
+msgstr "ເລື່ອນ"
+
+msgid "Bind to"
+msgstr "ກໍາ​ຫນົດ"
+
+msgid "answered your comment to"
+msgstr "ຂ້າ​ພະ​ເຈົ້າ​ເວົ້າ (a​) ຄວາມ​ເຫັນ​ກ່ຽວ​ກັບ​ບົດ​ຄວາມ​ທີ່"
+
+msgid "commented your article"
+msgstr "ຂ້າ​ພະ​ເຈົ້າ​ໃຫ້​ຄໍາ​ເຫັນ​ກ່ຽວ​ກັບ​ບົດ​ຄວາມ​ຂອງ​ທ່ານ"
+
+msgid "You\'ve answered on comment to"
+msgstr "ທ່ານ​ຕອບ​ສະ​ຫນອງ​ກັບ​ຄວາມ​ຄິດ​ເຫັນ​ໃນ​ບົດ​ຄວາມ"
+
+msgid "You\'ve commented an article"
+msgstr "ທ່ານ​ໃຫ້​ຄວາມ​ເຫັນ​ກ່ຽວ​ກັບ​ບົດ​ຄວາມ​ທີ່"
+
+msgid "Terms and Conditions"
+msgstr "ເງື່ອນ​ໄຂ​ການ​ແລະ​ເງື່ອນ​ໄຂ"
+
+msgid "Privacy Policy"
+msgstr "ນະ​ໂຍ​ບາຍ​ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "ໂດຍ​ການ​ຄລິກ​ໃສ່ \"ເຂົ້າ​ເຖິງ​\" ທ່ານ​ເຫັນ​ດີ​ກັບ​ພວກ​ເຮົາ​ແລະ​ໄດ້​ຮັບ​ຮູ້​ວ່າ​ທ່ານ​ໄດ້​ອ່ານ​ຂອງ​ພວກ​ເຮົາ"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "ເຂົ້າ​ຮ່ວມ​ຂອງ​ຊຸມ​ຊົນ​ຂອງ​ປະ​ຊາ​ຊົນ​ທີ່​ສ້າງ​ສັນ​ຈາກ​ທັງ​ຫມົດ​ໃນ​ທົ່ວ​ໂລກ​! ທ່ານ​ຈະ​ໄດ້​ຮັບ​: ການ​ລົງ​ທຶນ​ໃນ​ຄວາມ​ຄິດ​ຂອງ​ທ່ານ​, ໂອ​ກາດ​ທີ່​ຈະ​ເກັບ​ທີມ​ງານ​ລາວ​ທີ່​ເຮັດ​ວຽກ​ຢູ່​ໃນ​ກຸ່ມ​, ຜູ້​ຈັດ​ການ​ທາງ​ດ້ານ​ການ​ເງິນ​, ການ​ຄຸ້ມ​ຄອງ​ທີ່​ໃຊ້​ເວ​ລາ​ຂອງ​ພວກ​ເຂົາ​, 2 ກິ​ກະ​ໄບ​ໃນ​ການ​ເກັບ​ຮັກ​ສາ​ແລະ​ອື່ນໆ​ອີກ​. ແລະ​ມັນ​ເປັນ​ການ​ຟຣີ​!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "ຂໍ​ອະ​ໄພ​, ແຕ່​ຫນ້າ​ທີ່​ທ່ານ​ກໍາ​ລັງ​ຊອກ​ຫາ​ສໍາ​ລັບ​ການ​ບໍ່​ມີ​. ຖ້າ​ທ່ານ​ຄິດ​ວ່າ​ການ​ຕໍາ​ນິ​ຕິ​ຕຽນ​ພວກ​ເຮົາ​ຕິດ​ຕໍ່​ພວກ​ເຮົາ"
+
+msgid "Return"
+msgstr "ກັບ​ຄືນ"
+
+msgid "COMMON"
+msgstr "ລາຍ"
+
+msgid "My events"
+msgstr "ເຫດ​ການ​ຂອງ​ຂ້າ​ພະ​ເຈົ້າ"
+
+msgid "Job opening"
+msgstr "vacancy ໃຫມ່"
+
+msgid "Employment"
+msgstr "ປະ​ເພດ​ຂອງ​ການ​ຈ້າງ​ງານ"
+
+msgid "Working hours"
+msgstr "ການ​ເປີດ​ກວ້າງ​ການ​ຊົ່ວ​ໂມງ"
+
+msgid "City"
+msgstr "ເມືອງ"
+
+msgid "Wages"
+msgstr "ເງິນ​ເດືອນ"
+
+msgid "Currency"
+msgstr "ສະ​ກຸນ​ເງິນ"
+
+msgid "Experience"
+msgstr "ປະ​ສົບ​ການ"
+
+msgid "Full-time"
+msgstr "ການ​ຈ້າງ​ງານ​ຢ່າງ​ເຕັມ​ທີ່"
+
+msgid "Part-time"
+msgstr "ສ່ວນ​ທີ່​ໃຊ້​ເວ​ລາ"
+
+msgid "Project employment"
+msgstr "ໂຄງ​ການ / ຊົ່ວ​ຄາວ"
+
+msgid "Volunteer"
+msgstr "Volunteering"
+
+msgid "Internship"
+msgstr "ການ​ຝຶກ​ອົບ​ຮົມ"
+
+msgid "Full day"
+msgstr "ທີ່​ໃຊ້​ເວ​ລາ​ຢ່າງ​ເຕັມ​ທີ່"
+
+msgid "Shifts"
+msgstr "ຕາ​ຕະ​ລາງ​ການ​ທົດ​ແທນ​ທີ່"
+
+msgid "Flexible shifts"
+msgstr "ຕາ​ຕະ​ລາງ​ການ​ປ່ຽນ​ແປງ​ໄດ້"
+
+msgid "Remote work"
+msgstr "ການ​ເຮັດ​ວຽກ​ຫ່າງ​ໄກ​ສອກ​ຫຼີກ"
+
+msgid "Rotational basis"
+msgstr "ວິ​ທີ​ການ​ປ່ຽນ​ແປງ"
+
+msgid "Do you really want to delete this comment?"
+msgstr "ທ່ານ​ມີ​ຄວາມ​ແນ່​ໃຈວ່​າ​ທ່ານ​ຕ້ອງ​ການ​ທີ່​ຈະ​ລົບ​ຄວາມ​ຄິດ​ເຫັນ​ແນວ​ໃດ​?"
+
+msgid "Do you really want to delete this task?"
+msgstr "ທ່ານ​ມີ​ຄວາມ​ແນ່​ໃຈວ່​າ​ທ່ານ​ຕ້ອງ​ການ​ລຶບ​ວຽກ​ງານ​ນີ້​?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "ທ່ານ​ມີ​ຄວາມ​ແນ່​ໃຈວ່​າ​ທ່ານ​ຕ້ອງ​ການ​ທີ່​ຈະ​ລົບ​ໂຄງ​ການ​ຍ່ອຍ​?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "ທ່ານ​ໄດ້​ນໍາ​ໃຊ້​ກັບ​ບໍ​ລິ​ສັດ​ໃນ​ຕໍາ​ແຫນ່ງ​. ກະ​ລຸ​ນາ​ເຮັດ​ໃຫ້​ແນ່​ໃຈວ່​າ"
+
+msgid "Your request to for job has been rejected"
+msgstr "ຮ້ອງ​ຂໍ​ຂອງ​ທ່ານ​ກັບ​ບໍ​ລິ​ສັດ​ກັບ​ຕໍາ​ແຫນ່ງ​ທີ່​ໄດ້​ຮັບ​ການ​ປະ​ຕິ​ເສດ"
+
+msgid "Your request to for job has been accepted"
+msgstr "ການ​ຮ້ອງ​ຂໍ​ຂອງ​ທ່ານ​ທີ່​ຈະ​ບໍ​ລິ​ສັດ​ກັບ​ຕໍາ​ແຫນ່ງ​ດັ່ງ​ກ່າວ​ໄດ້​ຮັບ​ຮອງ​ເອົາ"
+
+msgid "profile is completed"
+msgstr "ຂໍ້​ມູນ​ຂອງ​ທ່ານ​ເປັນ​ຢ່າງ​ເຕັມ​ທີ່"
+
+msgid "Use account"
+msgstr "ການ​ນໍາ​ໃຊ້​ບັນ​ຊີ"
+
+msgid "$/hr"
+msgstr "$ / ຊົ່ວ​ໂມງ"
+
+msgid "Finance category"
+msgstr "ປະ​ເພດ​ການ​ເງິນ"
+
+msgid "No projects"
+msgstr "ໂຄງ​ການ​ບໍ່​ມີ"
+
+msgid "Bind to finances"
+msgstr "ກໍາ​ຫນົດ​ໂຄງ​ການ​ທາງ​ດ້ານ​ການ​ເງິນ"
+
+msgid "Preview"
+msgstr "ເບິ່ງ"
+
+msgid "Download"
+msgstr "ດາວ​ໂຫລດ"
+
+msgid "Save to my cloud"
+msgstr "ສໍາ​ເນົາ​ຫໍ​ໄຕ"
+
+msgid "File successfully saved to your cloud"
+msgstr "ໄຟ​ເກັບ​ຮັກ​ສາ​ໄວ້​ຢ່າງ​ສໍາ​ເລັດ​ຜົນ​ໃນ​ການ​ເກັບ​ຂໍ້​ມູນ​ຂອງ​ທ່ານ"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "ຊ່ວຍ​ປະ​ຢັດ​ເອ​ກະ​ສານ​ໃນ​ຫໍ​ໄຕ​ຂອງ​ທ່ານ​?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "ເລືອກ​ຫມວດ​ຫມູ່​ຂອງ​ບົດ​ຄວາມ​ທີ່"
+
+msgid "Type something"
+msgstr "ຂຽນ​ບາງ​ສິ່ງ​ບາງ​ຢ່າງ"
+
+msgid "Founded users"
+msgstr "ຜູ້​ໃຊ້​ທີ່​ພົບ​ເຫັນ"
+
+msgid "Founded articles"
+msgstr "ບົດ​ຄວາມ​ທີ່​ພົບ​ເຫັນ"
+
+msgid "Founded groups"
+msgstr "ກຸ່ມ​ສ້າງ​ຕັ້ງ​ຂຶ້ນ"
+
+msgid "What are your skills?"
+msgstr "ຈະ​ເປັນ​ແນວ​ໃດ​ສາ​ມາດ​ຂອງ​ທ່ານ​ແມ່ນ​ຫຍັງ​?"
+
+msgid "Select at least 2 interests"
+msgstr "ເລືອກ​ຢ່າງ​ຫນ້ອຍ 2 ຄວາມ​ສົນ​ໃຈ"
+
+msgid "Need more interests"
+msgstr "ບໍ່​ໄດ້​ສົນ​ໃຈ​ພຽງ​ພໍ​ທີ່​ເລືອກ"
+
+msgid "What are you interesting in?"
+msgstr "ສິ່ງ​ທີ່​ທ່ານ​ມີ​ຄວາມ​ສົນ​ໃຈ​?"
+
+msgid "You have no dialogs"
+msgstr "ທ່ານ​ບໍ່​ມີ​ບົດ​ສົນ​ທະ​ນາ"
+
+msgid "Usage Stats"
+msgstr "ລັດ"
+
+msgid "Founded files"
+msgstr "ໄຟລ​໌​ທີ່​ພົບ"
+
+msgid "Big tiles"
+msgstr "ໂລ້​ຂະ​ຫນາດ​ໃຫຍ່"
+
+msgid "Small tiles"
+msgstr "ປິກ​ຂະ​ຫນາດ​ນ້ອຍ"
+
+msgid "Table view"
+msgstr "ເບິ່ງ​ຕາ​ຕະ​ລາງ"
+
+msgid "Root folder"
+msgstr "ລະ​ບົບ​ຮາກ"
+
+msgid "My files"
+msgstr "ໄຟລ​໌​ຂອງ​ຂ້າ​ພະ​ເຈົ້າ"
+
+msgid "Save as draft"
+msgstr "ບັນ​ທຶກ​ເປັນ​ຮ່າງ"
+
+msgid "Buy More Space"
+msgstr "ຊື້​ພື້ນ​ທີ່​ຫລາຍ​ຂຶ້ນ"
+
+msgid "Buy"
+msgstr "ຊື້"
+
+msgid "You have been invited to group as"
+msgstr "ທ່ານ​ໄດ້​ຮັບ​ການ​ເຊື້ອ​ເຊີນ​ໃຫ້​ກຸ່ມ​ເປັນ"
+
+msgid "User wants to join your group"
+msgstr "ຜູ້​ໃຊ້​ຕ້ອງ​ການ​ທີ່​ຈະ​ເຂົ້າ​ຮ່ວມ​ກຸ່ມ​ຂອງ​ທ່ານ"
+
+msgid "Section is coming soon!"
+msgstr "ສ່ວນ​ພາຍ​ໃຕ້​ການ​ກໍ່​ສ້າງ​!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "ອ່ານ​ຫຼ້າ​ສຸດ​ໃນ 24 ຊົ່ວ​ໂມງ​:"
+
+msgid "Task was updated"
+msgstr "ວຽກ​ງານ​ທີ່​ໄດ້​ຮັບ​ການ​ປັບ​ປຸງ"
+
+msgid "Task was closed"
+msgstr "ສິ່ງ​ທີ່​ທ້າ​ທາຍ​ໄດ້​ຖືກ​ປິດ"
+
+msgid "Task was created"
+msgstr "ວຽກ​ງານ​ທີ່​ໄດ້​ຖືກ​ສ້າງ​ຕັ້ງ"
+
+msgid "Current balance"
+msgstr "ການ​ດຸ່ນ​ດ່ຽງ​ໃນ​ປະ​ຈຸ​ບັນ"
+
+msgid "Add funds"
+msgstr "ຕື່ມ"
+
+msgid "Pay"
+msgstr "ການ​ຊໍາ​ລະ​ເງິນ"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "ທ່ານ​ໄດ້​ເກີນ​ຈໍາ​ນວນ​ຂອງ​ຄວາມ​ພະ​ຍາ​ຍາມ​ເຂົ້າ​ລະ​ບົບ​ໄດ້​. ເຈົ້າ​ຍັງ​ບໍ່​ໄດ້​ສະ​ກັດ​ສໍາ​ລັບ​ການ 15 ນາ​ທີ"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "ກະ​ລຸ​ນາ​ຢືນ​ຢັນ​ອີ​ເມລ​ຂອງ​ທ່ານ​. ຈົດ​ຫມາຍ​ທີ່​ສົ່ງ​ໃຫ້​ທ່ານ​ທາງ​ໄປ​ສະ​ນີ​."
+
+msgid "Resend confirmation email"
+msgstr "ສົ່ງ​ການ​ຢືນ​ຢັນ​ອີກ​ເທື່ອ​ຫນຶ່ງ"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB ຕໍ່​ເດືອນ"
+
+msgid "Disk 10Gb Monthly"
+msgstr "ຂັບ​ລົດ 10 GB ຕໍ່​ປີ"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB ໃນ​ແຕ່​ລະ​ປີ"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1TB ປະ​ຈໍາ​ເດືອນ"
+
+msgid "Disk 1Tb Yearly"
+msgstr "ຂັບ​ລົດ 1 TB ໃນ​ແຕ່​ລະ​ປີ"
+
+msgid "Project members monthly"
+msgstr "ຜູ້​ເຂົ້າ​ຮ່ວມ​ຂອງ​ໂຄງ​ການ​ບົນ​ພື້ນ​ຖານ​ປະ​ຈໍາ​ເດືອນ"
+
+msgid "Project members yearly"
+msgstr "ຜູ້​ເຂົ້າ​ຮ່ວມ​ໂຄງ​ການ​ປະ​ຈໍາ​ປີ"
+
+msgid "Member(s) yearly"
+msgstr "ສະ​ມາ​ຊິກ​ທີ່ (s​) ຕໍ່​ປີ"
+
+msgid "Member(s) monthly"
+msgstr "ສະ​ມາ​ຊິກ​ທີ່ (s​) ບົນ​ພື້ນ​ຖານ​ປະ​ຈໍາ​ເດືອນ"
+
+msgid "Authorized"
+msgstr "ອະ​ນຸ​ຍາດ"
+
+msgid "Authorization expired"
+msgstr "ການ​ອະ​ນຸ​ຍາດ​ຫມົດ​ອາ​ຍຸ​ແລ້ວ"
+
+msgid "Processor declined"
+msgstr "ລະ​ບົບ​ການ​ປຸງ​ແຕ່ງ​ປະ​ຕິ​ເສດ"
+
+msgid "Gateway rejected"
+msgstr "ສາຍ​ການ​ປະ​ຕິ​ເສດ"
+
+msgid "Failed"
+msgstr "Error"
+
+msgid "Voided"
+msgstr "ຍົກ​ເລີກ"
+
+msgid "Submitted for settlement"
+msgstr "ຖືກ​ສົ່ງ​ໄປ​ລົງ​ທະ​ບຽນ​ຮຽນ"
+
+msgid "Settlement declined"
+msgstr "ເຂົ້າ​ໂຮງ​ຮຽນ​ໄດ້​ຖືກ​ປະ​ຕິ​ເສດ"
+
+msgid "Settlement pending"
+msgstr "ການ​ເຂົ້າ​ໂຮງ​ຮຽນ​ທີ່​ຍັງ​ຄ້າງ"
+
+msgid "Verified"
+msgstr "ການ​ກວດ​ສອບ"
+
+msgid "Pending"
+msgstr "ທີ່​ຍັງ​ຄ້າງ"
+
+msgid "Active"
+msgstr "ການ​ເຄື່ອນ​ໄຫວ"
+
+msgid "Past Due"
+msgstr "ຫມົດ​ອາ​ຍຸ"
+
+msgid "Expired"
+msgstr "ໄດ້​ສິ້ນ​ສຸດ​ລົງ"
+
+msgid "Marketer"
+msgstr "ການ​ຕະ​ຫຼາດ"
+
+msgid "India"
+msgstr "ອິນ​ເດຍ"
+
+msgid "Malaysia"
+msgstr "ມາ​ເລ​ເຊຍ"
+
+msgid "Thailand"
+msgstr "ປະ​ເທດ​ໄທ"
+
+msgid "South Korea"
+msgstr "ເກົາ​ຫລີ​ໃຕ້"
+
+msgid "Kazakhstan"
+msgstr "ຄາ​ຊັກ​ສະ​ຖານ"
+
+msgid "Israel"
+msgstr "ອິດ​ສະ​ຣາ​ເອນ"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Belarus"
+msgstr "ເບ​ລາ​ລຸດ"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Turkey"
+msgstr "Turkey"
+
+msgid "Armenia"
+msgstr "ອາ​ເມ​ເນຍ"
+
+msgid "Serbia"
+msgstr "ເຊີ​ເບຍ"
+
+msgid "Austria"
+msgstr "ອ​ອ​ສ​ເຕີຍ"
+
+msgid "Poland"
+msgstr "ໂປ​ແລນ"
+
+msgid "Germany"
+msgstr "ເຢຍ​ລະ​ມັນ"
+
+msgid "Italy"
+msgstr "ອິ​ຕາ​ລີ"
+
+msgid "Netherlands"
+msgstr "ເນ​ເທີ​ແລນ"
+
+msgid "Ireland"
+msgstr "ປະ​ເທດ"
+
+msgid "United Kingdom"
+msgstr "Britain ທີ່​ຍິ່ງ​ໃຫຍ່"
+
+msgid "Portugal"
+msgstr "ປອກ​ຕຸຍ​ການ"
+
+msgid "Norway"
+msgstr "ນໍ​ເວ"
+
+msgid "United States"
+msgstr "ສະ​ຫະ​ລັດ​ອາ​ເມລິ​ກາ"
+
+msgid "Canada"
+msgstr "ກາ​ນາ​ດາ"
+
+msgid "Brazil"
+msgstr "ປະ​ເທດ​ບຣາ​ຊິນ"
+
+msgid "Saudi Arabia"
+msgstr "Saudi ເທດ​ອາ​ຣະ​ເບີຍ"
+
+msgid "Canada"
+msgstr "ອີ​ຢິບ"
+
+msgid "Russia"
+msgstr "ລັດ​ເຊຍ"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "ໃນ​ປັດ​ຈຸ​ບັນ​, ບໍ່​ມີ​ບໍ່​ແມ່ນ​ເປັນ​ການ​ດຽວ"
+
+msgid "Fulfill your dream"
+msgstr "ບັນ​ລຸ​ຄວາມ​ຝັນ​ຂອງ​ທ່ານ"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "ເຂົ້າ​ຮ່ວມ​ຂອງ​ຊຸມ​ຊົນ​ຂອງ​ພວກ​ເຮົາ​ຂອງ​ບຸກ​ຄົນ​ທີ່​ສ້າງ​ສັນ​ຈາກ​ທັງ​ຫມົດ​ໃນ​ທົ່ວ​ໂລກ​."
+
+msgid "Create and Collaborate"
+msgstr "ສ້າງ​ແລະ​ເຮັດ​ວຽກ​ຮ່ວມ​ກັນ"
+
+msgid "Fulfill your dream"
+msgstr "ບັນ​ລຸ​ຄວາມ​ຝັນ​ໃນ​ປັດ​ຈຸ​ບັນ"
+
+msgid "or"
+msgstr "ຫຼື"
+
+msgid "Our mission:"
+msgstr "ພາ​ລະ​ກິດ​ຂອງ​ພວກ​ເຮົາ​:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "ເພື່ອ unite ປະ​ຊາ​ຊົນ​ທີ່​ສ້າງ​ສັນ​ແລະ​ການ​ເຄື່ອນ​ໄຫວ​ເພື່ອ​ປະ​ຕິ​ບັດ​ແນວ​ຄວາມ​ຄິດ​ຈາກ​ງ່າຍ​ດາຍ​ແລະ​ມີ​ຄວາມ​ຕ້ອງ​ການ incredible ແລະ fantastic​, ທີ່​ສາ​ມາດ​ຫລໍ່​ຫລອມ​ອະ​ນາ​ຄົດ​ຂອງ​ພວກ​ເຮົາ​."
+
+msgid "What is Konstruktor?"
+msgstr "Konstruktor ເປັນ​ແນວ​ໃດ​?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - ແມ່ນ​ສ່ວນ​ຫນຶ່ງ​ຂອງ​ຊີ​ວິດ​ທີ່​ແທ້​ຈິງ​ຂອງ​ພວກ​ເຮົາ​, ທີ່​ສໍາ​ຄັນ​ສະ​ແລະ​ແບບ​ງ່າຍ​ການ"
+
+msgid "*business processes"
+msgstr "ຂະ​ບວນ​ການ​ທຸ​ລະ​ກິດ *"
+
+msgid "*materialization of creative ideas"
+msgstr "* ວັດ​ຖຸ​ຂອງ​ຄວາມ​ຄິດ​ສ້າງ​ສັນ"
+
+msgid "*constructive cooperation"
+msgstr "* ຮ່ວມ​ມື​ທີ່​ສ້າງ"
+
+msgid "Make your dream!"
+msgstr "ເຮັດ​ໃຫ້​ຄວາມ​ຝັນ​ຂອງ​ທ່ານ​!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "ທີ່​ປຶກ​ສາ​ພິ​ເສດ"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "ຜູ້​ຈັດ​ການ​, ການ​ພັດ​ທະ​ນາ​ຊອບ​ແວ"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "ທະ​ນາຍ​ຄວາມ​ອາ​ວຸ​ໂສ"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "ການ​ອອກ​ແບບ"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "ໂດຍ​ການ​ຄລິກ​ໃສ່ \"ຕໍ່​ໄປ​\" ປຸ່ມ​, ທ່ານ​ໄດ້​ຮັບ​ເອົາ​ແລະ​ຍອມ​ຮັບ​ກັບ​ຂໍ້​ກໍາ​ນົດ​ແລະ​ເງື່ອນ​ໄຂ​ຂອງ​ພວກ​ເຮົາ​, ແລະ​ທ່ານ​ກໍາ​ລັງ​ຮັບ​ຮູ້​ວ່າ​ທ່ານ​ໄດ້​ອ່ານ​ນະ​ໂຍ​ບາຍ​ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ​ຂອງ​ພວກ​ເຮົາ​."
+
+msgid "Incorrect login or password."
+msgstr "ເຂົ້າ​ສູ່​ລະ​ບົບ​ທີ່​ບໍ່​ຖືກ​ຕ້ອງ​ຫລື​ລະ​ຫັດ​ຜ່ານ​."
+
+msgid "Password must be at least 6 characters"
+msgstr "ລະ​ຫັດ​ຜ່ານ​ຕ້ອງ​ເປັນ​ຢ່າງ​ຫນ້ອຍ 6 ລັກ​ສະ​ນະ"
+
+msgid "January"
+msgstr "ມັງ​ກອນ"
+
+msgid "February"
+msgstr "ກຸມ​ພາ"
+
+msgid "March"
+msgstr "ມີ​ນາ"
+
+msgid "April"
+msgstr "ເດືອນ​ເມ​ສາ"
+
+msgid "May"
+msgstr "ພຶດ​ສະ​ພາ"
+
+msgid "June"
+msgstr "ມິ​ຖຸ​ນາ"
+
+msgid "July"
+msgstr "ເດືອນ​ກໍ​ລະ​ກົດ"
+
+msgid "August"
+msgstr "ສິງ​ຫາ"
+
+msgid "September"
+msgstr "ກັນ​ຍາ"
+
+msgid "October"
+msgstr "ຕຸ​ລາ"
+
+msgid "November"
+msgstr "ເດືອນ​ພະ​ຈິກ"
+
+msgid "December"
+msgstr "ທັນ​ວາ"
+
+msgid "Chat"
+msgstr "ສົນ​ທະ​ນາ"
+
+msgid "Files"
+msgstr "ໄຟ"
+
+msgid "Statistic"
+msgstr "ສະ​ຖິ​ຕິ"
+
+msgid "Support"
+msgstr "ສະ​ຫນັບ​ສະ​ຫນູນ"
+
+msgid "Exit"
+msgstr "ການ​ທ່ອງ​ທ່ຽວ"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "ເບ​ລາ​ລຸດ"
+
+msgid "Marketing specialist"
+msgstr "ຜູ້​ຊ່ຽວ​ຊານ​ດ້ານ​ການ​ຕະ​ຫຼາດ"
+
+msgid "Administrator"
+msgstr "ຜູ້​ບໍ​ລິ​ຫານ"
+
+msgid "Shared with me"
+msgstr "ແບ່ງ​ປັນ​ກັບ​ຂ້າ​ພະ​ເຈົ້າ"
+
+msgid "File Sharing"
+msgstr "ແບ່ງ​ປັນ​ໄຟລ​໌"
+
+msgid "Provide access by link"
+msgstr "ໃຫ້​ການ​ເຂົ້າ​ເຖິງ​ການ​ເຊື່ອມ​ຕໍ່"
+
+msgid "Provide Individual access"
+msgstr "ສະ​ຫນອງ​ການ​ເຂົ້າ​ສ່ວນ​ບຸກ​ຄົນ"
+
+msgid "Provide edit access"
+msgstr "ໃຫ້​ແກ້​ໄຂ​ການ​ເຂົ້າ​ເຖິງ"
+
+msgid "Share"
+msgstr "ແບ່ງ​ປັນ"
+
+msgid "Files will be available only for selected users"
+msgstr "ໄຟລ​໌​ຈະ​ສາ​ມາດ​ໃຊ້​ພຽງ​ແຕ່​ສໍາ​ລັບ​ຜູ້​ຊົມ​ໃຊ້​ຄັດ​ເລືອກ"
+
+msgid "With this link everyone can access to the files"
+msgstr "ມີ​ການ​ເຊື່ອມ​ຕໍ່​ທຸກ​ຄົນ​ສາ​ມາດ​ເຂົ້າ​ເຖິງ​ໄຟລ​໌​ໄດ້"
+
+msgid "Search users, groups, articles..."
+msgstr "ຄົ້ນ​ຫາ​ຜູ້​ໃຊ້​, ກຸ່ມ​, ບົດ​ຄວາມ ..."
+
+msgid "My Group"
+msgstr "ກຸ່ມ​ຂອງ​ຂ້າ​ພະ​ເຈົ້າ"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "ທ່ານ"
+
+msgid "We"
+msgstr "ພວກ​ເຮົາ"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "ເອ​ກະ​ສານ​ທີ່​ບໍ່​ໄດ້​ຄັດ​ເລືອກ"
+
+msgid "Set aside"
+msgstr "ກໍາ​ນົດ​ຫລີກ​ໄປ​ທາງ​ຫນຶ່ງ"
+
+msgid "Event time"
+msgstr "ທີ່​ໃຊ້​ເວ​ລາ​ກໍ​ລະ​ນີ"
+
+msgid "Work"
+msgstr "ການ​ເຮັດ​ວຽກ"
+
+msgid "Personal"
+msgstr "ສ່ວນ​ບຸກ​ຄົນ"
+
+msgid "Time spent for work:"
+msgstr "ທີ່​ໃຊ້​ເວ​ລາ​ໃຊ້​ເວ​ລາ​ສໍາ​ລັບ​ການ​ເຮັດ​ວຽກ​:"
+
+msgid "Personal time spent:"
+msgstr "ທີ່​ໃຊ້​ເວ​ລາ​ສ່ວນ​ບຸກ​ຄົນ​ໄດ້​ໃຊ້​ເວ​ລາ​:"
+
+msgid "Present"
+msgstr "ປັດ​ຈຸ​ບັນ"
+
+msgid "Common"
+msgstr "ສາ​ມັນ"
+
+msgid "Sport"
+msgstr "ກິ​ລາ"
+
+msgid "Entertainment"
+msgstr "ບັນ​ເທີງ"
+
+msgid "Select:"
+msgstr "ເລືອກ​:"
+
+msgid "Invalid username or password."
+msgstr "ຊື່​ຜູ້​ໃຊ້​ບໍ່​ຖືກ​ຕ້ອງ​ຫລື​ລະ​ຫັດ​ຜ່ານ​."
+
+msgid "Try again."
+msgstr "ລອງ​ອີກ​ຄັ້ງ."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "ແມ່ນ​ສິ່ງ​ທີ່​ທ່ານ​ສົນ​ໃຈ​ໃນ​?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "ເລືອກ​ຢ່າງ​ຫນ້ອຍ 2 ຄວາມ​ສາ​ມາດ​: ຍັງ​ມີ 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "ເລືອກ​ຢ່າງ​ຫນ້ອຍ 2 ຄວາມ​ສາ​ມາດ​: ຍັງ 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "ເລືອກ​ຢ່າງ​ຫນ້ອຍ 2 ຄວາມ​ສາ​ມາດ​: ຍັງ​ມີ"
+
+msgid "Active life"
+msgstr "ຊີ​ວິດ​ການ​ເຄື່ອນ​ໄຫວ"
+
+msgid "Arts and culture"
+msgstr "ສິ​ລະ​ປະ​ແລະ​ວັດ​ທະ​ນະ​ທໍາ"
+
+msgid "Business"
+msgstr "ທຸ​ລະ​ກິດ"
+
+msgid "Cinema"
+msgstr "cinema"
+
+msgid "Communications"
+msgstr "ການ​ສື່​ສານ"
+
+msgid "Construction and repair"
+msgstr "ການ​ກໍ່​ສ້າງ​ແລະ​ສ້ອມ​ແປງ"
+
+msgid "Cooking"
+msgstr "ປຸງ​ແຕ່ງ​ອາ​ຫານ"
+
+msgid "Education"
+msgstr "ການ​ສຶກ​ສາ"
+
+msgid "Electronics"
+msgstr "ເອ​ເລັກ​ໂຕຣ​ນິກ"
+
+msgid "Finances"
+msgstr "ການ​ເງິນ"
+
+msgid "Graphics and design"
+msgstr "ຮູບ​ພາບ​ແລະ​ອອກ​ແບບ"
+
+msgid "Health"
+msgstr "ສຸ​ຂະ​ພາບ"
+
+msgid "Home and family"
+msgstr "ບ້ານ​ແລະ​ຄອບ​ຄົວ"
+
+msgid "Humor"
+msgstr "Humor"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "ອຸດ​ສາ​ຫະ​ກໍາ"
+
+msgid "Insurance"
+msgstr "ການ​ປະ​ກັນ​ໄພ"
+
+msgid "Literature"
+msgstr "ວັນ​ນະ​ຄະ​ດີ"
+
+msgid "Mobile communications and internet"
+msgstr "ການ​ສື່​ສານ​ໂທລະ​ສັບ​ມື​ຖື​ແລະ​ອິນ​ເຕີ​ເນັດ"
+
+msgid "News and Media"
+msgstr "ຂ່າວ​ສານ​ແລະ​ສື່​ມວນ​ຊົນ"
+
+msgid "Pets"
+msgstr "ສັດ​ລ້ຽງ"
+
+msgid "Products and service"
+msgstr "ຜະ​ລິດ​ຕະ​ພັນ​ແລະ​ການ​ບໍ​ລິ​ການ"
+
+msgid "Real Estate"
+msgstr "ອະ​ສັງ​ຫາ​ລິ​ມະ​ຊັບ"
+
+msgid "Religion"
+msgstr "ສາ​ສະ​ຫນາ"
+
+msgid "Science and techs"
+msgstr "ວິ​ທະ​ຍາ​ສາດ​ແລະ​ເຕັກ​ໂນ​ໂລ"
+
+msgid "Security"
+msgstr "ຄວາມ​ປອດ​ໄພ"
+
+msgid "Society"
+msgstr "ສັງ​ຄົມ"
+
+msgid "Television"
+msgstr "ໂທລະ​ທັດ"
+
+msgid "Travel"
+msgstr "ການ​ເດີນ​ທາງ"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "ອາ​ເຈນ​ຕິ​ນາ"
+
+msgid "Australia"
+msgstr "ອົດ​ສະ​ຕາ​ລີ"
+
+msgid "Austria"
+msgstr "ອ​ອ​ສ​ເຕີຍ"
+
+msgid "Belarus"
+msgstr "ເບ​ລາ​ລຸດ"
+
+msgid "Belgium"
+msgstr "Belgium"
+
+msgid "Brazil"
+msgstr "ປະ​ເທດ​ບຣາ​ຊິນ"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Canada"
+msgstr "ກາ​ນາ​ດາ"
+
+msgid "Chile"
+msgstr "ປະ​ເທດ​ຊີ​ລີ"
+
+msgid "Denmark"
+msgstr "ເດນ​ມາກ"
+
+msgid "France"
+msgstr "ປະ​ເທດ​ຝຣັ່ງ"
+
+msgid "Germany"
+msgstr "ເຢຍ​ລະ​ມັນ"
+
+msgid "Greece"
+msgstr "ປະ​ເທດ​ເກຣັກ"
+
+msgid "Hungary"
+msgstr "ຮົງ​ກາ​ລີ"
+
+msgid "Iceland"
+msgstr "ປະ​ເທດ​ໄອ​ແລນ"
+
+msgid "Ireland"
+msgstr "ປະ​ເທດ"
+
+msgid "Israel"
+msgstr "ອິດ​ສະ​ຣາ​ເອນ"
+
+msgid "Italy"
+msgstr "ອິ​ຕາ​ລີ"
+
+msgid "Japan"
+msgstr "ຍີ່​ປຸ່ນ"
+
+msgid "Mexico"
+msgstr "ເມັກ​ຊິ​ໂກ"
+
+msgid "Netherlands"
+msgstr "ເນ​ເທີ​ແລນ"
+
+msgid "New Zealand"
+msgstr "ນິວ​ຊີ​ແລນ"
+
+msgid "Norway"
+msgstr "ນໍ​ເວ"
+
+msgid "Poland"
+msgstr "ໂປ​ແລນ"
+
+msgid "Portugal"
+msgstr "ປອກ​ຕຸຍ​ການ"
+
+msgid "Russia"
+msgstr "ລັດ​ເຊຍ"
+
+msgid "Slovakia"
+msgstr "ສະ​ໂລ​ວາ​ເກຍ"
+
+msgid "South Africa"
+msgstr "ອາ​ຟຣິ​ກາ​ໃຕ້"
+
+msgid "South Korea"
+msgstr "ເກົາ​ຫຼີ​ໃຕ້"
+
+msgid "Spain"
+msgstr "ສະ​ເປນ"
+
+msgid "Sweden"
+msgstr "ປາ"
+
+msgid "Switzerland"
+msgstr "ສະ​ວິດ​ເຊີ​ແລນ"
+
+msgid "Turkey"
+msgstr "Turkey"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "United Arab Emirates"
+msgstr "ສະ​ຫະ​ປະ​ຊາ Emirates ແຂກ​ອາ​ຫລັບ"
+
+msgid "United Kingdom"
+msgstr "ສະ​ຫະ​ປະ​ຊາ​ຊະ​ອາ​ນາ​ຈັກ"
+
+msgid "United States"
+msgstr "ສະ​ຫະ​ລັດ"
+
+msgid "achievements"
+msgstr "ຜົນ​ສໍາ​ເລັດ"
+
+msgid "Investment management"
+msgstr "ການ​ຄຸ້ມ​ຄອງ​ການ​ລົງ​ທຶນ"
+
+msgid "Select..."
+msgstr "ເລືອກ ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "ການ​ຄຸ້ມ​ຄອງ​ການ​ລົງ​ທຶນ"
+
+msgid "Investors list"
+msgstr "ບັນ​ຊີ​ລາຍ​ຊື່​ນັກ​ລົງ​ທຶນ"
+
+msgid "My investments"
+msgstr "ການ​ລົງ​ທຶນ​ຂອງ​ຂ້າ​ພະ​ເຈົ້າ"
+
+msgid "Create date"
+msgstr "ເມື່ອ​ວັນ​ທີ່"
+
+msgid "Author of the project"
+msgstr "Author ຂອງ​ໂຄງ​ການ"
+
+msgid "Date and time"
+msgstr "ວັນ​ທີ່​ແລະ​ເວ​ລາ"
+
+msgid "Status"
+msgstr "ສະ​ຖາ​ນະ​ພາບ"
+
+msgid "NEXT"
+msgstr "ຕໍ່​ໄປ"
+
+msgid "Next"
+msgstr "ຕໍ່​ໄປ"
+
+msgid "Apply"
+msgstr "ສະ​ຫມັກ​ຂໍ​ເອົາ"
+
+msgid "Kazakhstan"
+msgstr "ຄາ​ຊັກ​ສະ​ຖານ"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "ຮົງ​ກົງ"
+
+msgid "Science"
+msgstr "ວິ​ທະ​ຍາ​ສາດ"
+
+msgid "Architecture"
+msgstr "ຖາ​ປັດ​ຕະ​ຍະ"
+
+msgid "Photography"
+msgstr "ການ​ຖ່າຍ​ຮູບ"
+
+msgid "Designer"
+msgstr "ການ​ອອກ​ແບບ"
+
+msgid "IT specialist"
+msgstr "ຜູ້​ຊ່ຽວ​ຊານ​ດ້ານ IT"
+
+msgid "Agronomist"
+msgstr "Agronomist"
+
+msgid "Architect"
+msgstr "ສະ​ຖາ​ປະ​ນິກ"
+
+msgid "Lawyer"
+msgstr "ທະ​ນາຍ​ຄວາມ"
+
+msgid "Writer"
+msgstr "ຂຽນ"
+
+msgid "Doctor"
+msgstr "ທ່ານ​ຫມໍ"
+
+msgid "Scientist"
+msgstr "ວິ​ທະ​ຍາ​ສາດ"
+
+msgid "Marketer"
+msgstr "ການ​ຕະ​ຫຼາດ"
+
+msgid "Teacher"
+msgstr "ອາ​ຈານ​ສອນ"
+
+msgid "Cook"
+msgstr "ປຸງ​ແຕ່ງ​ອາ​ຫານ"
+
+msgid "Artist"
+msgstr "ຈິດ​ຕະ​ນາ​ການ"
+
+msgid "Photographer"
+msgstr "ການ​ຖ່າຍ​ຮູບ"
+
+msgid "Ecologist"
+msgstr "ecologists"
+
+msgid "Economist"
+msgstr "ເສດ​ຖະ​ສາດ"
+
+msgid "Logistician"
+msgstr "logistician"
+
+msgid "Journalist"
+msgstr "ນັກ​ຂ່າວ"
+
+msgid "Builder"
+msgstr "Builder"
+
+msgid "These users may be interesting for you"
+msgstr "ຜູ້​ໃຊ້​ເຫລົ່າ​ນີ້​ອາດ​ເປັນ​ທີ່​ຫນ້າ​ສົນ​ໃຈ​ສໍາ​ລັບ​ທ່ານ"
+
+msgid "These articles may be interesting for you"
+msgstr "ບົດ​ຄວາມ​ເຫລົ່າ​ນີ້​ອາດ​ຈະ​ເປັນ​ທີ່​ຫນ້າ​ສົນ​ໃຈ​ສໍາ​ລັບ​ທ່ານ"
+
+msgid "You joined this group as Аdministrator"
+msgstr "ທ່ານ​ໄດ້​ເຂົ້າ​ຮ່ວມ​ກຸ່ມ​ນີ້​ເປັນ​Аdministrator"
+
+msgid "articles written."
+msgstr "ບົດ​ຄວາມ​ທີ່​ຂຽນ​."
+
+msgid "groups created."
+msgstr "ກຸ່ມ​ການ​ສ້າງ​ຕັ້ງ​."
+
+msgid "Creation"
+msgstr "ການ​ສ້າງ"
+
+msgid "Build a dream"
+msgstr "ການກໍ່ສ້າງຄວາມຝັນ"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "ອ່ານບົດຄວາມທີ່ຫນ້າສົນໃຈຫຼາຍ - ໄປລົງທະບຽນຟຣີ"
+

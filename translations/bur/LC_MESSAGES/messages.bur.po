@@ -1,0 +1,3344 @@
+# မြန်မာ (Бирманский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: မြန်မာ (Бирманский) <support@konstruktor.com>\n"
+"Language: မြန်မာ (Бирманский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "အသုံးပြုသူအမည် aasonepyusuuaamai"
+
+msgid "Invalid username or password, try again"
+msgstr "မှားယွင်းနေ username သို့မဟုတ် စကားဝှက်။ ထပ်ကြိုးစားပါ။"
+
+msgid "Settings"
+msgstr "Settings များ"
+
+msgid "Home"
+msgstr "နေအိမ် nayaain"
+
+msgid "You must log in to access this page"
+msgstr "သင်သည်ဤ စာမျက်နှာ access ကို log in ရမယ်"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "သင့်ရဲ့ session ကို သက်တမ်းကုန် ခဲ့သည်။ ဤ action ဖျော်ဖြေဖို့ relogin , ကျေးဇူးပြု."
+
+msgid "Save"
+msgstr "ကြော်ငြာကို Save လုပ်ရန်"
+
+msgid "Head Office"
+msgstr "ရုံးချုပ်"
+
+msgid "Address"
+msgstr "လိပ်စာ liuthcar"
+
+msgid "Back"
+msgstr "ပြန်. pyan."
+
+msgid "Apply"
+msgstr "Apply"
+
+msgid "Upload files…"
+msgstr "ဖိုင်တွေကို upload ..."
+
+msgid "Set as main"
+msgstr "အဓိက အဖြစ် Set"
+
+msgid "Delete"
+msgstr "အဖြစ်မှဖယ်ရှာသည် aahpyitmha hpaalshar sai"
+
+msgid "Original image"
+msgstr "မူရင်းပုံ muurainn pone"
+
+msgid "Uploaded"
+msgstr "Uploaded"
+
+msgid "File name"
+msgstr "ဖိုင်နာမည် hpine narmai"
+
+msgid "File size"
+msgstr "ဖိုင်အရွယ်အစား hpine aarwalaahcarr"
+
+msgid "Resolution"
+msgstr "resolution"
+
+msgid "Enlarge"
+msgstr "အကျယ်ချဲ့  aakyaal hkyaae"
+
+msgid "Links"
+msgstr "links များ"
+
+msgid "Original size"
+msgstr "မူရင်း အရွယ်အစား muurainn  aarwalaahcarr"
+
+msgid "For editor"
+msgstr "အယ်ဒီတာ များအတွက် aaaldetar  myarraatwat"
+
+msgid "Resize"
+msgstr "Resize"
+
+msgid "Width"
+msgstr "Width ကို"
+
+msgid "Height"
+msgstr "အမြင့် a myang"
+
+msgid "Media URL"
+msgstr "မီဒီယာ URL ကို"
+
+msgid "Add record"
+msgstr "စံချိန်တင် Add"
+
+msgid "Show filter settings"
+msgstr "filter က settings ကို ပြရန်"
+
+msgid "Edit record"
+msgstr "Edit ကို စံချိန်တင်"
+
+msgid "Delete record"
+msgstr "စံချိန်တင် အဖြစ်မှဖယ်ရှာသည်"
+
+msgid "Delete checked records"
+msgstr "check လုပ်ထား မှတ်တမ်းများ အဖြစ်မှဖယ်ရှာသည်"
+
+msgid "Dashboard"
+msgstr "dashboard"
+
+msgid "Password"
+msgstr "Password ကို"
+
+msgid "Remember me"
+msgstr "ကျွန်တော့်ကိုမှတ်မိပါသလား kyawantot  ko mhaatmi parsalarr"
+
+msgid "Login"
+msgstr "လော့ဂ်အင် lotg aain"
+
+msgid "Clean image cache"
+msgstr "သန့်ရှင်းသော ပုံရိပ် cache ကို saant shinnsaw poneriut cache  ko"
+
+msgid "Processing query..."
+msgstr "processing query ကို ..."
+
+msgid "CMS Development"
+msgstr "CMS ရဲ့ ဖွံ့ဖြိုးရေးပါတီ"
+
+msgid "Admin Home Page"
+msgstr "admin Home Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "သစ်တစ်ခု tab မှာ Front-End ၏ ပွင့်လင်း မူလစာမျက်နှာ စာမျက်နှာ"
+
+msgid "Go to Site"
+msgstr "ဆိုက်ကို ကိုသွားပါ siteko  koswarrpar"
+
+msgid "Log out"
+msgstr "ထွက် log  htwat log"
+
+msgid "Send"
+msgstr "ပေးပို့  payyphoet"
+
+msgid "General"
+msgstr "ယေဘုယျ yaybhuyya"
+
+msgid "Title"
+msgstr "ဘှဲ့ bhhaae"
+
+msgid "Teaser"
+msgstr "Teaser"
+
+msgid "Published"
+msgstr "Published"
+
+msgid "Featured"
+msgstr "ဆောင်းပါး saunggparr"
+
+msgid "Active"
+msgstr "active"
+
+msgid "Field is mandatory"
+msgstr "လယ်ပြင်၌ မသင်မနေရ laal pyin  masainmanayr"
+
+msgid "Sort Order"
+msgstr "Sort အမိန့်"
+
+msgid "Upload"
+msgstr "upload"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "ဇန်နဝါရီ jaannawarre"
+
+msgid "Feb"
+msgstr "ဖေဖော်ဝါရီ hpayhpawwarre"
+
+msgid "Mar"
+msgstr "မတ်လ maatl"
+
+msgid "Apr"
+msgstr "ဧပြီလ ဧpyel"
+
+msgid "May"
+msgstr "မေ  may"
+
+msgid "Jun"
+msgstr "ဇွန်လ jwanl"
+
+msgid "Jul"
+msgstr "ဇူလိုင်လ juulinel"
+
+msgid "Aug"
+msgstr "သြဂုတ်လ syagotel"
+
+msgid "Sep"
+msgstr "စက်တင်ဘာလ hcaattainbharl"
+
+msgid "Oct"
+msgstr "အောက်တိုဘာလ aouttobharl"
+
+msgid "Nov"
+msgstr "နိုဝင်ဘာလ  nowainbharl"
+
+msgid "Dec"
+msgstr "ဒီဇင်ဘာလ dejainbharl"
+
+msgid "Product already exists in the order"
+msgstr "ထုတ်ကုန်ပစ္စည်း ပြီးသား အမိန့် ထဲမှာရှိနေပြီ"
+
+msgid "Product does not exist"
+msgstr "ထုတ်ကုန်ပစ္စည်း မတည်ရှိပါဘူး htotekonepahchcaee  m taishi parbhuu"
+
+msgid "Incorrect request"
+msgstr "မမှန်ကန် တောင်းဆိုချက်ကို mamhaankaan  taunggsohkyetko"
+
+msgid "Products"
+msgstr "ထုတ်ကုန်များ htotekone myarr"
+
+msgid "Product types"
+msgstr "ထုတ်ကုန်ပစ္စည်း အမျိုးအစားများ htotekonepahchcaee  aamyoeaahcarrmyarr"
+
+msgid "Contractors"
+msgstr "ကန်ထရိုက်တာများ kaanhtaritetar myarr"
+
+msgid "Contractor"
+msgstr "ကန်ထရိုက်တာ kaanhtaritetar"
+
+msgid "Orders"
+msgstr "အမိန့် a mein"
+
+msgid "FAQ"
+msgstr "မေးလေ့ရှိသောမေးခွန်းများ mayy lae shisaw mayyhkwannmyarr"
+
+msgid "New order"
+msgstr "နယူး အမိန့် nayuu  a mein"
+
+msgid "My orders"
+msgstr "အကြှနျုပျ၏ အမိန့် aakyahanyaupyaeat  a mein"
+
+msgid "Recharge balance"
+msgstr "အားပြန်သွင်းနိုင် ချိန်ခွင်လျှာ aarr pyan swinnine  hkyanehkwinshar"
+
+msgid "Administrator"
+msgstr "အုပ်ချုပ်သူ aotehkyaotesuu"
+
+msgid "Incorrect event ID"
+msgstr "မမှန်ကန် ဖြစ်ရပ် ID ကို mamhaankaan hpyitraut ID  ko"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "edit ကို ကန်ထရိုက်တာ  edit ko  kaanhtaritetar"
+
+msgid "Create contractor"
+msgstr "ကန်ထရိုက်တာ Create  kaanhtaritetar Create"
+
+msgid "Edit question"
+msgstr "edit ကို မေးခွန်း edit ko  mayyhkwann"
+
+msgid "Create question"
+msgstr "မေးခွန်း Create mayyhkwann Create"
+
+msgid "Edit order"
+msgstr "edit ကို အမိန့်  edit ko  a mein"
+
+msgid "Create order"
+msgstr "အမိန့် Create"
+
+msgid "Edit product"
+msgstr "edit ကို ကုန်ပစ္စည်း  edit ko  konepahchcaee"
+
+msgid "Create product"
+msgstr "ထုတ်ကုန် Create"
+
+msgid "Edit product type"
+msgstr "Edit ကို ကုန်ပစ္စည်း အမျိုးအစား"
+
+msgid "Create product type"
+msgstr "ထုတ်ကုန် အမျိုးအစား Create"
+
+msgid "You have received a file"
+msgstr "သင်က file ကို ခံရကြပြီ"
+
+msgid "You received a file from"
+msgstr "သင်တို့ထံက ဖိုင်တစ်ခု လက်ခံရရှိ"
+
+msgid "File has been uploaded"
+msgstr "file ကို upload တင် ခဲ့"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "အနည်းဆုံး အရေအတွက် aanaeesone  aarayaatwat"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "ပစ္စည်းများ pahchcaeemyarr"
+
+msgid "Remove"
+msgstr "ရှေ့ shae"
+
+msgid "Contact person"
+msgstr "ဆက်သွယ်ရမည့်သူ saatswal r many suu"
+
+msgid "Email"
+msgstr "အီးမေးလ် aeemayyl"
+
+msgid "Contractor phone"
+msgstr "ကန်ထရိုက်တာ ဖုန်း kaanhtaritetar  hpone"
+
+msgid "Contractor name"
+msgstr "ကန်ထရိုက်တာ ၏နာမ kaanhtaritetar  eat nar m"
+
+msgid "Contractor details"
+msgstr "ကန်ထရိုက်တာ ကအသေးစိတ်  kaanhtaritetar  k aasayyhcate"
+
+msgid "Order ID"
+msgstr "အမိန့် ID ကို  aamein ID  ko"
+
+msgid "Sum"
+msgstr "ငှေပေါငျး nghaay pawngya"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "သင့်ရဲ့ ချိန်ခွင် recharge ရန် သင့်လျော်သော ငွေပေးချေမှုစနစ် ကိုရွေးပါ"
+
+msgid "Recharge amount"
+msgstr "အားပြန်သွင်းနိုင် သည့်ငွေပမာဏ aarr pyan swinnine  saeet ngwaypamarn"
+
+msgid "Paid"
+msgstr "paid"
+
+msgid "Shipped"
+msgstr "တင်ပို့  tainphoet"
+
+msgid "- No products in this order -"
+msgstr "ဒီ အမိန့်ကို မ ထုတ်ကုန်ပစ္စည်းများ"
+
+msgid "month"
+msgstr "လ l"
+
+msgid "No user found"
+msgstr "အသုံးပြုသူ မျှမတွေ့ပါ aasonepyusuu  myaha matwae par"
+
+msgid "Achievement"
+msgstr "အောင်မြင်ချက် aaungmyin hkyet"
+
+msgid "Confirmed accomplishments"
+msgstr "အတည်ပြုပြောကြား အောင်မြင်မှု aataipyupyawwkyarr  aaungmyinmhu"
+
+msgid "Remove achievement"
+msgstr "အောင်မြင်မှု Remove"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "Phone များ"
+
+msgid "Site URL and email"
+msgstr "site ရဲ့ URL နဲ့အီးမေးလ်"
+
+msgid "Remove address"
+msgstr "လိပ်စာ Remove"
+
+msgid "Members"
+msgstr "အသင်းဝင်များ aasainnwainmyarr"
+
+msgid "Requires a payment"
+msgstr "တစ်ဦး ငွေပေးချေမှု လိုအပ်ပါတယ် tait u  ngwaypayyhkyaaymhu  loaautpartaal"
+
+msgid "Shipping"
+msgstr "သင်္ဘောဖြင့်ကုန်ပစ္စည်းပို့ခြင်း sainbhaw hpyang konepahchcaee phoet hkyinn"
+
+msgid "Ready"
+msgstr "အဆင်သင့် a sain saint"
+
+msgid "Find user..."
+msgstr "အသုံးပြုသူ ကိုရှာပါ … aasonepyusuu  ko sharpar …"
+
+msgid "Order it"
+msgstr "ဒါကြောင့် အမိန့် darkyount  a mein"
+
+msgid "Find group..."
+msgstr "အုပ်စုတစ်စု ကိုရှာပါ …  aotehcutaithcu  ko sharpar …"
+
+msgid "Find user or community..."
+msgstr "အသုံးပြုသူ သို့မဟုတ်ရပ်ရွာ ကိုရှာပါ … aasonepyusuu  shoetmahoterautrwar  ko sharpar …"
+
+msgid "No item found"
+msgstr "item တခုကို မျှမတွေ့ပါ"
+
+msgid "years"
+msgstr "နှစ်ပေါင်း nhaitpaungg"
+
+msgid "Send message"
+msgstr "မက်ဆေ့ခ်ျကို Send"
+
+msgid "Message"
+msgstr "message"
+
+msgid "To send message press Enter"
+msgstr "မက်ဆေ့ခ်ျကို Enter ခေါက်ပါ စေလွှတ်မည် maatsae hk yako Enter  hkoutpar  hcaylwhaatmai"
+
+msgid "To send message press CTRL+Enter"
+msgstr "သတင်းစကား သတင်းစာ ပို့ပေးရန် CTRL + Enter"
+
+msgid "Processing file(s)..."
+msgstr "processing ဖိုင် (တွေ) ..."
+
+msgid "Group settings"
+msgstr "Group က setting ကို"
+
+msgid "Create group"
+msgstr "အုပ်စု Create"
+
+msgid "Group has been successfully saved"
+msgstr "Group ကို အောင်မြင်စွာ သည်ကယ်တင်ခြင်းသို့ရောက် ခဲ့ပြီး"
+
+msgid "Group title"
+msgstr "အုပ်စု ခေါင်းစဉ် aotehcu  hkaungghcany"
+
+msgid "Group video"
+msgstr "group video"
+
+msgid "Description"
+msgstr "ဖေါ်ပြချက် hpawpya hkyet"
+
+msgid "Your role in group"
+msgstr "အုပ်စု ၌ကိုယ်တော်၏ အခန်းကဏ္ဍ aotehcu  kotaweat  aahkaannkand"
+
+msgid "Role"
+msgstr "အခန်းက္ပ aahkaann k p"
+
+msgid "Photo or video gallery"
+msgstr "ဓာတ်ပုံ သို့မဟုတ် ဗီဒီယို ပြခန်း dharatpone shoetmahote bedeyo  pyahkaann"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL ကို"
+
+msgid "Upload video"
+msgstr "ဗီဒီယို upload"
+
+msgid "Add group address"
+msgstr "အုပ်စု လိပ်စာ Add"
+
+msgid "Group articles"
+msgstr "Group က ဆောင်းပါးများ"
+
+msgid "No addresses yet"
+msgstr "သေး လိပ်စာများ မရှိပါ  sayy liuthcarmyarr  mashipar"
+
+msgid "Add group achievement"
+msgstr "အုပ်စု အောင်မြင်မှု Add"
+
+msgid "No achivements yet"
+msgstr "မရှိသေးပါ achivements"
+
+msgid "Are you sure to delete this user"
+msgstr "ဤအသုံးပြုသူ ကိုပယ်ဖျက်ဖို့ သေချာ ဖြစ်ကြသည်"
+
+msgid "Add member"
+msgstr "အဖွဲ့ဝင် Add  aahpwalwain Add"
+
+msgid "Are you sure to delete this record?"
+msgstr "ဒီမှတ်တမ်း ကိုပယ်ဖျက်ဖို့ သေချာ မှန်သလော demhaattam  ko paalhpyethphoet sayhkyaar  mhaan s law"
+
+msgid "Join this group"
+msgstr "ဤအုပ်စု Join"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "သင့်ရဲ့ ဖိတ်ကြားချက် အုပ်စု အုပ်ချုပ်ရေးမှူး ကိုစလှေတျ ခဲ့"
+
+msgid "All addresses"
+msgstr "အားလုံးသည် လိပ်စာများ"
+
+msgid "Collapse"
+msgstr "ပြိုကဲ pyao kell"
+
+msgid "Achievements"
+msgstr "အောင်မြင်မှုများ  aaungmyinmhumyarr"
+
+msgid "Show more"
+msgstr "ပိုပြီး ပြရန် popyee  pyaraan"
+
+msgid "Team"
+msgstr "ရေးအဖွဲ့ rayyaahpwal"
+
+msgid "Projects"
+msgstr "စီမံကိန်းများ hcemankeinmyarr"
+
+msgid "New project"
+msgstr "နယူး ပရောဂျက် nayuu  parawgyet"
+
+msgid "Project has not been created yet"
+msgstr "စီမံကိန်း သေး နေသူများကဖန်တီး ခဲ့တာ မဟုတ်"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "ချိန်ခွင်လျှာ hkyanehkwinshar"
+
+msgid "Main page"
+msgstr "main page"
+
+msgid "Upload image"
+msgstr "upload ပုံရိပ်"
+
+msgid "My time"
+msgstr "ငါ့အချိန် ngar aahkyane"
+
+msgid "Day"
+msgstr "နေ့ nae"
+
+msgid "Week"
+msgstr "ရက်သတ္တပတ် raatsattapaat"
+
+msgid "Project settings"
+msgstr "စီမံကိန်း setting ကို"
+
+msgid "Create project"
+msgstr "စီမံကိန်းကို Create"
+
+msgid "Project has been successfully saved"
+msgstr "စီမံကိန်း အောင်မြင်စွာ သည်ကယ်တင်ခြင်းသို့ရောက် ခဲ့ပြီး"
+
+msgid "Project name"
+msgstr "project သည် နာမတော်ကိုမ"
+
+msgid "Deadline"
+msgstr "ပြီးစီးရမည့်နောက်ဆုံးအချိန် pyeehcee r many noutsoneaahkyane"
+
+msgid "Close"
+msgstr "ပိတ် pate"
+
+msgid "Manager"
+msgstr "Manager က"
+
+msgid "Assigned to"
+msgstr "ရန် တာဝန်ပေး raan  tarwaanpayy"
+
+msgid "Discussion"
+msgstr "ဆွေးနွေးချက် swaynwayhkyet"
+
+msgid "Task was created"
+msgstr "Task ဖန်တီးခဲ့"
+
+msgid "Task was closed"
+msgstr "Task ပိတ်ထား ခဲ့သည်"
+
+msgid "Go to Group"
+msgstr "Group ကို ကိုသွားပါ"
+
+msgid "Closed"
+msgstr "ပိတ်ထားသော patehtarrsaw"
+
+msgid "Last updates"
+msgstr "နောက်ဆုံး update တွေကို"
+
+msgid "Project is closed"
+msgstr "Project မှ ပိတ်ထားသည်"
+
+msgid "No open tasks"
+msgstr "အဘယ်သူမျှမ ပွင့်လင်း တာဝန်များကို a bhaalsuu myaham  pw in lainn  tarwaanmyarrko"
+
+msgid "New task"
+msgstr "တဲ့ New task"
+
+msgid "Closed tasks"
+msgstr "ပိတ်ထားသော တာဝန်များကို patehtarrsaw  tarwaanmyarrko"
+
+msgid "Add subproject"
+msgstr "subproject Add"
+
+msgid "Add task"
+msgstr "အလုပ်တခုကို Add"
+
+msgid "Sun"
+msgstr "တနင်္ဂနွေ t nain g nway"
+
+msgid "Mon"
+msgstr "တနင်္လာနေ့ tanainlarnae"
+
+msgid "Tue"
+msgstr "အင်္ဂါနေ့ aain gar nae"
+
+msgid "Wed"
+msgstr "ဗုဒ္ဓဟူးနေ့ buddhahuunae"
+
+msgid "Thur"
+msgstr "ကြာသပတေးနေ့ kyaarsapatayynae"
+
+msgid "Fri"
+msgstr "သောကြာနေ့ sawkyaarnae"
+
+msgid "Sat"
+msgstr "စနေနေ့ hcanaynae"
+
+msgid "Event title"
+msgstr "အဖြစ်အပျက် ခေါင်းစဉ် aahpyitaapyet  hkaungghcany"
+
+msgid "Event description"
+msgstr "အဖြစ်အပျက် ဖော်ပြချက် aahpyitaapyet  hpawpyahkyet"
+
+msgid "I registered on this site"
+msgstr "ငါသည်ဤ site ပေါ်တွင် မှတ်ပုံတင်ထား ngarsaii site pawtwin  mhaatponetain htarr"
+
+msgid "Last created groups"
+msgstr "ပြီးခဲ့သည့် အုပ်စုများ ကဖန်တီး pyeehkaesaeet aotehcumyarr  k hpaantee"
+
+msgid "You joined this group as"
+msgstr "သင်ကဲ့သို့ ဤအုပ်စု ဝင်ရောက်ခဲ့ပြီး sainkaeshoet  iaotehcu  wainrouthkaepyee"
+
+msgid "You received a request to join the group"
+msgstr "သငျသညျ အုပ်စု join ဖို့ တောင်းဆိုချက်ကို လက်ခံရရှိ s ngya sanyya aotehcu join hphoet taunggsohkyetko  laathkanrashi"
+
+msgid "Updated site"
+msgstr "နောက်ဆုံးရေးသားချိန် ဆိုက် noutsonerayysarrhkyane  site"
+
+msgid "Site is under construction"
+msgstr "ဆိုက်ကို ဆောက်လုပ်ဆဲ ဖြစ်ပါသည် siteko soutlotesell  hpyitparsai"
+
+msgid "Last registered users"
+msgstr "ပြီးခဲ့သည့် မှတ်ပုံတင်ထားသော အသုံးပြုသူများ pyeehkaesaeet  mhaatponetainhtarrsaw  aasonepyusuumyarr"
+
+msgid "User settings"
+msgstr "အသုံးပြုသူ setting ကို aasonepyusuu setting  ko"
+
+msgid "Technical support"
+msgstr "နည်းပညာနှင့်ပတ်သက်သောအထောက်အပံ့ naeepanyar nhaint paatsaatsaw aahtoutaapan"
+
+msgid "Change email"
+msgstr "ပြောင်းလဲမှု အီးမေးလ် pyaungglellmhu  aeemayyl"
+
+msgid "Change password"
+msgstr "စကားဝှက်ကိုပြောင်းရန် hcakarrwhaat ko pyaunggraan"
+
+msgid "User has been successfully saved"
+msgstr "အသုံးပြုသူ ကိုအောင်မြင်စွာ သည်ကယ်တင်ခြင်းသို့ရောက် ခဲ့ပြီး"
+
+msgid "Full name"
+msgstr "နာမည်အပြည့်အစုံ narmai aapyiaahcone"
+
+msgid "My video"
+msgstr "အကြှနျုပျ၏ ဗီဒီယို aakyahanyaupyaeat  bedeyo"
+
+msgid "Skills"
+msgstr "ကျွမ်းကျင်မှု kyawmkyinmhu"
+
+msgid "Birthday"
+msgstr "မှေးနေ့ mhaayy nae"
+
+msgid "Country of residence"
+msgstr "နေထိုင်သောနိုင်ငံ nayhtinesaw ninengan"
+
+msgid "Country"
+msgstr "ပြည် pyi"
+
+msgid "Zip Code"
+msgstr "စာတိုက်သင်္ကေတ hcartite sain kay t"
+
+msgid "City/town of residence"
+msgstr "နေထိုင်ရာ စီးတီး / မြို့ nayhtinerar hceetee /  myahoet"
+
+msgid "University/college"
+msgstr "တက္ကသိုလ် / ကောလိပ် takkasol /  kawliut"
+
+msgid "University/college photo"
+msgstr "တက္ကသိုလ် / ကောလိပ် ဓာတ်ပုံ takkasol / kawliut  dharatpone"
+
+msgid "Add user\'s accomplishments"
+msgstr "အသုံးပြုသူရဲ့ အောင်မြင်မှု Add   aasonepyusuurae aaungmyinmhu Add"
+
+msgid "Interface language"
+msgstr "interface ဘာသာစကား  interface  bharsarhcakarr"
+
+msgid "How other people see this page"
+msgstr "မည်သို့ အခြားလူများ ကဤ စာမျက်နှာ ကိုကြည့်ပါ maishoet  aahkyarrluumyarr  ki hcarmyetnhar  ko kyi par"
+
+msgid "Video with me"
+msgstr "ငါနှင့်အတူ ဗီဒီယို ngar nhangaatuu  bedeyo"
+
+msgid "Groups"
+msgstr "အုပ်စုများ aotehcumyarr"
+
+msgid "Registered today"
+msgstr "ယနေ့ မှတ်ပုံတင်ထား yanae  mhaatponetain htarr"
+
+msgid "Qty"
+msgstr "Qty"
+
+msgid "No registered users yet"
+msgstr "သေး မှတ်ပုံတင်ပြီး အသုံးပြုသူများ အဘယ်သူမျှမ sayy mhaatponetainpyee aasonepyusuumyarr  a bhaalsuu myaha m"
+
+msgid "Total"
+msgstr "စုစုပေါငျး hcuhcupawngya"
+
+msgid "Registered total"
+msgstr "မှတ်ပုံတင်ထားသည့် စုစုပေါင်း mhaatponetain htarrsaeet  hcuhcupaungg"
+
+msgid "You received a file"
+msgstr "သင်တစ်ဦး ဖိုင်ကို လက်ခံရရှိ sain tait u hpineko  laathkanrashi"
+
+msgid "You were invited into this room"
+msgstr "သင်သည်ဤ အခန်း သို့ ဖိတ်ကြား ခဲ့သည် sainsaii aahkaann shoet hpatekyarr  hkaesai"
+
+msgid "Request is being processed"
+msgstr "တောင်းဆိုချက်ကို လုပ်ငန်းများ၌ လျက်ရှိသည် taunggsohkyetko lotengaannmyarr  lyetshisai"
+
+msgid "Fax"
+msgstr "ဖက်စ် hpaatit"
+
+msgid "Messenger"
+msgstr "Messenger ကို"
+
+msgid "New subproject"
+msgstr "နယူး subproject"
+
+msgid "messages written."
+msgstr "ကျမ်းစာ၌ရေးထား မက်ဆေ့ခ်ျများ ။ kyamhcarrayyhtarr  maatsae hk yamyarr  ."
+
+msgid "projects created based on groups."
+msgstr "အုပ်စုများအ ပေါ်အခြေခံပြီး ကဖန်တီး စီမံကိန်းများ။ aotehcumyarra  pawaahkyayhkanpyee  kahpaantee  hcemankeinmyarr ."
+
+msgid "users registered on website."
+msgstr "website တွင် မှတ်ပုံတင်ထားသော အသုံးပြုသူများသည် ။ website twin  mhaatponetainhtarrsaw  aasonepyusuumyarrsai  ."
+
+msgid "New email"
+msgstr "အီးမေးလ်အသစ် aeemayyl aasait"
+
+msgid "Confirm email"
+msgstr "အီးမေးလ်ကိုအတည်ပြုသည် aeemayyl ko aataipyu sai"
+
+msgid "New password"
+msgstr "စကားဝှက်အသစ် hcakarrwhaat aasait"
+
+msgid "Confirm password"
+msgstr "စကားဝှက်အတည်ပြုခြင်း hcakarrwhaat aataipyu hkyinn"
+
+msgid "Occupation"
+msgstr "Speciality"
+
+msgid "Timezone"
+msgstr "Timezone"
+
+msgid "Answer"
+msgstr "အဖြေ a hpyay"
+
+msgid "Articles"
+msgstr "ဆောင်းပါးများ saunggparrmyarr"
+
+msgid "Article"
+msgstr "အပိုဒ် aapod"
+
+msgid "Video-article"
+msgstr "video- ဆောင်းပါးတွင် video-  saunggparrtwin"
+
+msgid "Find article..."
+msgstr "ဆောင်းပါးတွင် Find …"
+
+msgid "Politics"
+msgstr "နိုင်ငံရေးတွင် ninenganrayytwin"
+
+msgid "Economics"
+msgstr "စီးပွားရေးတက္ကသိုလ် hceepwarrrayytakkasol"
+
+msgid "Community"
+msgstr "ကွန်မြူနတီ kwanmyauunate"
+
+msgid "Culture"
+msgstr "ယဉ်ကျေးမှုကို yanykyaayymhu ko"
+
+msgid "Sports"
+msgstr "အားကစားဆိုင်ရာ aarrkahcarr sinerar"
+
+msgid "Hi-tech"
+msgstr "hi- tech ကို"
+
+msgid "Cars"
+msgstr "ကားများ karr myarr"
+
+msgid "Fashion"
+msgstr "ဖက်ရှင် hpaatshin"
+
+msgid "Games"
+msgstr "အားကစားပြိုင်ပွဲ aarrkahcarrpyainepwal"
+
+msgid "Other"
+msgstr "အခွားသော aahkwarr saw"
+
+msgid "Invalid mediafile"
+msgstr "မမှန်ကန်ခြင်း mediafile"
+
+msgid "No articles in this category yet"
+msgstr "သို့သျောလညျး ဤအမြိုးအစား ထဲမှာ အဘယ်သူမျှမ ကဆောင်းပါးတွေ"
+
+msgid "Back to profile"
+msgstr "နောက်ကျော profile ကို မှ"
+
+msgid "View article"
+msgstr "ကြည့်ရန် ဆောင်းပါးတွင် kyiraan  saunggparrtwin"
+
+msgid "Edit article"
+msgstr "Edit ကို ဆောင်းပါးတွင်"
+
+msgid "Create article"
+msgstr "ဆောင်းပါးတွင် Create"
+
+msgid "Article title"
+msgstr "အပိုဒ် ခေါင်းစဉ်ကို aapod  hkaungghcany ko"
+
+msgid "Article section"
+msgstr "အပိုဒ် အပိုင်း aapod  aapine"
+
+msgid "Choose image"
+msgstr "image ကို ရှေးခယျြပါ"
+
+msgid "Save and upload"
+msgstr "Save နှင့် upload"
+
+msgid "Show more..."
+msgstr "ပိုပြီး ပြရန် …  popyee pyaraan …"
+
+msgid "Create"
+msgstr "Create"
+
+msgid "Edit"
+msgstr "Edit ကို"
+
+msgid "Project"
+msgstr "Project သည်"
+
+msgid "Team"
+msgstr "ရေးအဖွဲ့ rayyaahpwal"
+
+msgid "A new article was published"
+msgstr "သစ်တစ်ခု ဆောင်းပါးမှာ ပုံနှိပ်ထုတ်ဝေ ခဲ့ပါတယ်"
+
+msgid "You joined this project"
+msgstr "သင်သည်ဤ စီမံကိန်းနှင့် လာရောက်ပူးပေါင်း sainsaii  hcemankeinnhaint  larroutpuupaungg"
+
+msgid "Enter your information in the User settings"
+msgstr "သင့်ရဲ့သတင်းအချက်အလက်တွေကို အသုံးပြုသူ setting ထဲတွင် Enter"
+
+msgid "Communities"
+msgstr "လူမှုအသိုင်းအဝိုင်း luumhu aasineaawine"
+
+msgid "Video presentation of my accomplishments"
+msgstr "ငါ၏အ အောင်မြင်မှု ၏ video တင်ဆက်မှု"
+
+msgid "My articles"
+msgstr "အကြှနျုပျ၏"
+
+msgid "User"
+msgstr "ဆောင်းပါးများကို"
+
+msgid "Users"
+msgstr "အသုံးပြုသူ"
+
+msgid "Add new list"
+msgstr "အသုံးပြုသူများသည်"
+
+msgid "List title"
+msgstr "စာရင်းတွင်ပါ Add  list ကို ခေါင်းစဉ်ကို"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Add to favorites"
+msgstr "အကြိုက်ဆုံး မှ Add"
+
+msgid "Delete from favorites"
+msgstr "အကြိုက်ဆုံး ကနေ Delete"
+
+msgid "Select list"
+msgstr "list ကို Select လုပ်ပြီး"
+
+msgid "Subscriptions"
+msgstr "subscriptions"
+
+msgid "Subscribe"
+msgstr "Subscribe"
+
+msgid "Unsubscribe"
+msgstr "unsubscribe"
+
+msgid "General list"
+msgstr "အထွေထွေ စာရင်းဖြစ်သည်"
+
+msgid "No users in this list"
+msgstr "အထွေထွေ စာရင်းဖြစ်သည်"
+
+msgid "Publish"
+msgstr "ပုံနှိပ်ထုတ်ဝေ"
+
+msgid "Unpublish"
+msgstr "အတည်မပြုရသေးသော"
+
+msgid "Add user"
+msgstr "user က Add"
+
+msgid "Create document"
+msgstr "စာရွက်စာတမ်း Create"
+
+msgid "Edit document"
+msgstr "Edit ကို စာရွက်စာတမ်း"
+
+msgid "View"
+msgstr "ကြည့်ရန်"
+
+msgid "Document title"
+msgstr "စာရွက်စာတမ်း ခေါင်းစဉ်ကို"
+
+msgid "Find document..."
+msgstr "စာရွက်စာတမ်း Find ..."
+
+msgid "Share your thoughts"
+msgstr "သင်တို့၏အကြံအစည် Share"
+
+msgid "Leave your comment"
+msgstr "သင့်ရဲ့ comment ကို Leave"
+
+msgid "Accept"
+msgstr "Accept"
+
+msgid "Decline"
+msgstr "ကျဆင်းမှု"
+
+msgid "Add article"
+msgstr "ဆောင်းပါးတွင် Add"
+
+msgid "Link to verified accomplishments"
+msgstr "အတည်ပြုပြီးသောအောင်မြင်မှုများမှ Link ကို"
+
+msgid "No articles here yet..."
+msgstr "သို့သျောလညျးကိုဒီမှာဆောင်းပါးတွေကိုအဘယ်သူမျှမ ..."
+
+msgid "Find file or folder..."
+msgstr "ဖိုင်သို့မဟုတ် folder ကိုတွေ့အောင်ရှာပါ ..."
+
+msgid "Sort"
+msgstr "sort"
+
+msgid "By name"
+msgstr "နာမတော်ဖြင့်"
+
+msgid "By date"
+msgstr "နေ့စွဲဖြင့်"
+
+msgid "By updated date"
+msgstr "updated နေ့စွဲဖြင့်"
+
+msgid "By size"
+msgstr "အရွယ်အစားအားဖြင့်"
+
+msgid "By type"
+msgstr "အမျိုးအစားအားဖွငျ့"
+
+msgid "Move"
+msgstr "Move ကို"
+
+msgid "File Manager"
+msgstr "ဖိုင်မန်နေဂျာ"
+
+msgid "Share link"
+msgstr "ဝေမျှမယ် link ကို"
+
+msgid "Responsible"
+msgstr "တာဝန်သိ"
+
+msgid "Performer"
+msgstr "ပြုလုပ်သူ, ပါဝင်ကပြသူ"
+
+msgid "New Folder"
+msgstr "နယူး Folder ကို"
+
+msgid "Folder name"
+msgstr "ဖိုင်တွဲအမည်"
+
+msgid "By default"
+msgstr "ပုံမှန်အားဖြင့်"
+
+msgid "Back to group"
+msgstr "နောက်ကျောအုပ်စု"
+
+msgid "year(s)"
+msgstr "တစ်နှစ် (သို့)"
+
+msgid "January"
+msgstr "ဇန်နဝါရီလ"
+
+msgid "February"
+msgstr "ဖေဖော်ဝါရီလက"
+
+msgid "March"
+msgstr "မတ်လ"
+
+msgid "April"
+msgstr "ဧပြီလ"
+
+msgid "May"
+msgstr "မေ"
+
+msgid "June"
+msgstr "ဇွန်လ"
+
+msgid "July"
+msgstr "ဇူလိုငျလ"
+
+msgid "August"
+msgstr "သြဂုတ်လတွင်"
+
+msgid "September"
+msgstr "စက်တင်ဘာလ"
+
+msgid "October"
+msgstr "အောက်တိုဘာလ"
+
+msgid "November"
+msgstr "နိုဝင်ဘာလ"
+
+msgid "December"
+msgstr "ဒီဇင်ဘာလ"
+
+msgid "Password Reminder"
+msgstr "Password ကိုဂရု"
+
+msgid "Log In"
+msgstr "လော့ဂ်အင်"
+
+msgid "Sign in"
+msgstr "ဆိုင်းအင်လုပ်ခြင်း"
+
+msgid "Register"
+msgstr "မှတ်ပုံတင်မည်"
+
+msgid "First name"
+msgstr "နာမည်"
+
+msgid "Last name"
+msgstr "မျိုးနွယ်အမည်"
+
+msgid "I agree with rules"
+msgstr "ငါစည်းမျဉ်းစည်းကမ်းတွေနဲ့သဘောတူ"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "အတည်ပြုချက်ပြတဲ့ mail ကိုသင့်ရဲ့အီးမေးလ်လိပ်စာသို့စေလွှတ်ခဲ့သည်။"
+
+msgid "Thanks"
+msgstr "ကြေးဇူးတငျစကား"
+
+msgid "Password must be at least 6 characters"
+msgstr "Password ကိုအနည်းဆုံး 6 ဇာတ်ကောင်များဖြစ်ရပါမည်"
+
+msgid "Creative Environment"
+msgstr "creative ပတ်ဝန်းကျင်ထိန်းသိမ်းရေး"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "သင်သည်ဤဝန်ဆောင်မှုကိုအသုံးပြုရန်အသက်အရွယ်အနည်းဆုံးဆယ်သုံးနှစ်ဖြစ်ရန်လိုအပ်ပါတယ်"
+
+msgid "Order status"
+msgstr "အမိန့်အဆင့်အတန်း"
+
+msgid "Processing order"
+msgstr "အပြောင်းအလဲနဲ့အမိန့်"
+
+msgid "Requires a payment"
+msgstr "တစ်ဦးငွေပေးချေမှုလိုအပ်ပါတယ်"
+
+msgid "Shipping"
+msgstr "သင်္ဘောဖြင့်ကုန်ပစ္စည်းပို့ခြင်း"
+
+msgid "Ready"
+msgstr "အဆင်သင့်ဖြစ်နေ"
+
+msgid "Thank you for your payment"
+msgstr "သင့်ရဲ့ငွေပေးချေမှုများအတွက်ကျေးဇူးတင်ပါသည်"
+
+msgid "Your payment has been cancelled"
+msgstr "သင့်ရဲ့ငွေပေးချေမှုကိုဖျက်သိမ်းခဲ့ပြီး"
+
+msgid "page"
+msgstr "စာမျက်နှာ"
+
+msgid "Rent period"
+msgstr "ငှားရန်ကာလအတွင်း"
+
+msgid "Total, month"
+msgstr "စုစုပေါင်းတစ်လလျှင်"
+
+msgid "Order items"
+msgstr "အမိန့်ပစ္စည်းများ"
+
+msgid "No records found"
+msgstr "မှတ်တမ်းများကိုရှာတွေ့ခြင်းမရှိ"
+
+msgid "User with this email is already exist"
+msgstr "ဤအီးမေးလ်နှင့်အတူအသုံးပြုသူပြီးသားတည်ရှိနေပါသည်"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "ထိုကဲ့သို့သောအမည်ဖြင့် Folder ကိုသို့မဟုတ်ဖိုင်ကိုလိုက်တဲ့ destination ဖိုင်တွဲထဲမှာရှိပြီးသားတည်ရှိနေပါသည်"
+
+msgid "Minimal quantity"
+msgstr "အနည်းငယ်မျှသာအရေအတွက်"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "ပုံနှိပ်ကော်ပီ"
+
+msgid "Terms of Use"
+msgstr "သတ်မှတ်ချက်များ"
+
+msgid "Privacy Policy"
+msgstr "ကိုယ်ရေးအချက်အလက်မူဝါဒ"
+
+msgid "Find project..."
+msgstr "ဒီစီမံကိန်းကိုတွေ့အောင်ရှာပါ ..."
+
+msgid "New Project"
+msgstr "နယူး Project မှ"
+
+msgid "Accounts"
+msgstr "အကောင့်အသစ်များ၏"
+
+msgid "Operations"
+msgstr "စစ်ဆင်ရေး"
+
+msgid "All accounts"
+msgstr "အားလုံးသည်အကောင့်အသစ်များ၏"
+
+msgid "All categories"
+msgstr "အားလုံးသည်အမျိုးအစားများ"
+
+msgid "Expense"
+msgstr "စရိတ်"
+
+msgid "Income"
+msgstr "ဝငျငှေ"
+
+msgid "Transfer"
+msgstr "transfer"
+
+msgid "Expense"
+msgstr "စရိတ်"
+
+msgid "income"
+msgstr "ဝငျငှေ"
+
+msgid "tax"
+msgstr "အခွန်"
+
+msgid "percent"
+msgstr "ရာခိုင်နှုန်းကို"
+
+msgid "transfer"
+msgstr "ပြောင်းရွှေ့ကြေး"
+
+msgid "Make operation"
+msgstr "စစ်ဆင်ရေး Make"
+
+msgid "Select date"
+msgstr "နေ့စွဲကိုရွေးပါ"
+
+msgid "Select account"
+msgstr "အကောင့်ကို Select လုပ်ပြီး"
+
+msgid "Month"
+msgstr "တစ်လ"
+
+msgid "Quarter"
+msgstr "လေးပုံတပုံ"
+
+msgid "Year"
+msgstr "တစ်နှစ်တာ"
+
+msgid "From"
+msgstr "အထဲက"
+
+msgid "To"
+msgstr "ရန်"
+
+msgid "Expense amount"
+msgstr "ကုန်ကျစရိတ်ငွေပမာဏ"
+
+msgid "Categories"
+msgstr "categories"
+
+msgid "Comments"
+msgstr "comments"
+
+msgid "Income amount"
+msgstr "ဝင်ငွေခွန်ငွေပမာဏ"
+
+msgid "Transfer amount"
+msgstr "transfer ငွေပမာဏ"
+
+msgid "From account"
+msgstr "အကောင့်မှ"
+
+msgid "To account"
+msgstr "အကောင့်"
+
+msgid "New Account"
+msgstr "အကောင့်အသစ်"
+
+msgid "New Category"
+msgstr "နယူး Category:"
+
+msgid "All"
+msgstr "အားလုံးသည်"
+
+msgid "Name"
+msgstr "နာမကိုအမှီ"
+
+msgid "Enter category name"
+msgstr "အမျိုးအစား အမည်ကိုထည့်"
+
+msgid "Select type"
+msgstr "အမျိုးအစား ကိုရွေးချယ်ပါ"
+
+msgid "Credit card"
+msgstr "အကြွေးဝယ်ကဒ်"
+
+msgid "Debit card"
+msgstr "debit card ကို"
+
+msgid "Bank account"
+msgstr "ဘဏ်အကောင့်"
+
+msgid "Cash"
+msgstr "cash"
+
+msgid "Balance is empty"
+msgstr "balance အချည်းနှီး ဖြစ်ပါတယ်"
+
+msgid "Statistic is empty"
+msgstr "စာရင်းဇယား အချည်းနှီး ဖြစ်ပါတယ်"
+
+msgid "Regular payments"
+msgstr "ပုံမှန် ငွေပေးချေမှု"
+
+msgid "Are you sure ?"
+msgstr "သေချာလား ?"
+
+msgid "Are you sure to close this project?"
+msgstr "ဤစီမံကိန်း ကိုပိတ်လိုက် ဖို့ သင်သေချာ ရှိပါသလား"
+
+msgid "Project was deleted successfully"
+msgstr "Project မှ အောင်မြင်စွာ deleted ခဲ့သည်"
+
+msgid "Select currency"
+msgstr "ငွေကြေးကို ကိုရွေးပါ"
+
+msgid "Account"
+msgstr "အကောင့်ဖွင်"
+
+msgid "Orders list"
+msgstr "အမိန့် စာရင်းဖြစ်သည်"
+
+msgid "Order payments"
+msgstr "အမိန့် ငွေပေးချေမှု"
+
+msgid "View order"
+msgstr "ကြည့်ရန် အမိန့်"
+
+msgid "No response from Printer API"
+msgstr "Printer API ကို အဘယ်သူမျှမ တုန့်ပြန် ထံမှ"
+
+msgid "Bad response from Printer API"
+msgstr "Printer API ကို ထံမှမကောင်းတဲ့ တုန့်ပြန်"
+
+msgid "User ID"
+msgstr "သုံးစွဲသူအိုင်ဒီ"
+
+msgid "Contact Person"
+msgstr "ဆက်သွယ်ရမည့်သူ"
+
+msgid "No orders to process"
+msgstr "process မှ အမိန့် အဘယ်သူမျှမ"
+
+msgid "Article announce image"
+msgstr "ပုံရိပ်ကို အပိုဒ် ကြေညာ"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "မမှန်ကန်ခြင်း ဗီဒီယို url ။ ကွက်လပ် Leave သို့မဟုတ် မမှန်ကန် youtube က url ထည့်သွင်း"
+
+msgid "Please, enter Contractor data"
+msgstr "ဆောက်လုပ်ရေးကန်ထရိုက်တာ data တွေကို ရိုက်ထည့်ပါ ကျေးဇူးတင်ပါတယ်"
+
+msgid "Distribute devices"
+msgstr "devices တွေကို ဖြန့်ဝေ"
+
+msgid "Quantity"
+msgstr "အရေအတွက်"
+
+msgid "Devices left"
+msgstr "left devices"
+
+msgid "Distributed devices"
+msgstr "ဖြန့်ဝေ devices များ"
+
+msgid "You must enter quantity"
+msgstr "သငျသညျ အရေအတွက် ဝင်ရ"
+
+msgid "All devices are distributed"
+msgstr "အားလုံးသည် devices တွေကို ဖြန့်ဝေ နေကြသည်"
+
+msgid "IP address"
+msgstr "IP address ကို"
+
+msgid "Only for printer"
+msgstr "ပရင်တာ များအတွက် သာ"
+
+msgid "Counter"
+msgstr "ကောင်တာ"
+
+msgid "You was excluded from this room"
+msgstr "သင်သည်ဤ အခန်းတစ်ခန်း ထဲကနေ ဖယ်ထုတ်ထား ခဲ့သည်"
+
+msgid "Compare"
+msgstr "နှိုငျးယှဉျ"
+
+msgid "Scheduled transaction"
+msgstr "scheduled အရောင်းအဝယ်"
+
+msgid "Select transfer account"
+msgstr "ပြောင်းရွှေ့ကြေး အကောင့်ကို Select လုပ်ပြီး"
+
+msgid "Select income account"
+msgstr "ဝင်ငွေက အကောင့်ကို Select လုပ်ပြီး"
+
+msgid "Reports"
+msgstr "အစီရင်ခံစာများ"
+
+msgid "Goals"
+msgstr "ရည်မှန်းချက်များ"
+
+msgid "Budgets"
+msgstr "ဘတ်ဂျက်"
+
+msgid "Enter user name or email..."
+msgstr "user name ကို သို့မဟုတ်အီးမေးလ် Enter ..."
+
+msgid "Invite had been sended"
+msgstr "Invite sended ခဲ့"
+
+msgid "Statistics"
+msgstr "စာရင်းအင်းများ"
+
+msgid "Updated site began to work"
+msgstr "နောက်ဆုံးရေးသားချိန် site ကို အလုပ် စတင်"
+
+msgid "City of residence"
+msgstr "နေထိုင်ရာ စီးတီး"
+
+msgid "Edit favourites list"
+msgstr "Edit ကို အကြိုက်ဆုံး စာရင်းဖြစ်သည်"
+
+msgid "Add favourites list"
+msgstr "အကြိုက်ဆုံး list ကို Add"
+
+msgid "Categories is required"
+msgstr "categories လိုအပ်သည်"
+
+msgid "Type new category name and hit Enter"
+msgstr "Enter သစ်ကို အမျိုးအစား name ကို ရိုက်ထည့်ပါ နှင့် hit"
+
+msgid "You created an order"
+msgstr "သငျသညျ အမိန့် ကိုဖန်ဆင်း"
+
+msgid "You received a device due to this order"
+msgstr "သင်သည်ဤ အမိန့် ကြောင့် device ကို လက်ခံရရှိ"
+
+msgid "%s attached %s to task %s"
+msgstr "%s အ Task မှ %s အ ပူးတွဲပါ %s အ"
+
+msgid "member(s)"
+msgstr "အဖွဲ့ဝင်တစ်ဦး (သို့ )"
+
+msgid "%s commented task %s"
+msgstr "%s အ commented အလုပ်တခုကို %s အ"
+
+msgid "%s closed task %s"
+msgstr "%s အ တံခါးပိတ် အလုပ်တခုကို %s အ"
+
+msgid "%s created task %s"
+msgstr "%s အ ကဖန်တီး အလုပ်တခုကို %s အ"
+
+msgid "%s created this project"
+msgstr "%s အ ဤစီမံကိန်း ကဖန်တီး"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s အ ကဖန်တီး subproject \"% S\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s အ တံခါးပိတ် စီမံကိန်းက \"% S\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s အ တံခါးပိတ် subproject \"% S\""
+
+msgid "This field must not be blank"
+msgstr "ဤနယ်ပယ်တွင် အလွတ် မဖြစ် ရပါမည်"
+
+msgid "Document with such name is already exist"
+msgstr "ထိုကဲ့သို့သော အမည်ဖြင့် စာရွက်စာတမ်း ပြီးသား တည်ရှိ နေပါသည်"
+
+msgid "Wait until image upload"
+msgstr "image ကို upload လုပ် သည့်တိုင်အောင် မြော်လင့်လျက်"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Message can not be empty"
+msgstr "မက်ဆေ့ခ်ျကို အချည်းနှီး မဖွစျနိုငျ"
+
+msgid "Yes"
+msgstr "ဟုတ်ကဲ့"
+
+msgid "No"
+msgstr "အဘယ်သူမျှမ"
+
+msgid "Created"
+msgstr "Created"
+
+msgid "Compare is empty"
+msgstr "နှိုငျးယှဉျ အချည်းနှီး ဖြစ်ပါတယ်"
+
+msgid "Are you sure you want to delete operation"
+msgstr "သငျသညျ စစ်ဆင်ရေး ပယ်ဖျက်လို သင်သေချာ ဖြစ်ကြသည်"
+
+msgid "Do you really want to delete transaction"
+msgstr "သင်အမှန်တကယ် ငွေပေးငွေယူ ချင် ပါနဲ့ delete"
+
+msgid "Project with same name already exists"
+msgstr "အမည်တူ နှင့်အတူ Project မှ ရှိနှင့်ပြီးသား"
+
+msgid "Account is not found"
+msgstr "အကောင့်ကို မတွေ့ရှိ"
+
+msgid "Currency is required"
+msgstr "ငွေကြေး လိုအပ်သည်"
+
+msgid "error while deleting document"
+msgstr "အမှား စာရွက်စာတမ်း deleting နေစဉ်"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "သင်သည်ဤ အခန်း၌ user က \"% S\" ကိုဖိတ်ခေါ်"
+
+msgid "User \"%s\" joined this room"
+msgstr "အသုံးပြုသူ \"% S\" ဒီအခန်းထဲမှာ လာရောက်ပူးပေါင်း"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "သင်သည်ဤ အခန်းတစ်ခန်း ထဲကနေ user က \"% S\" ဖယ်ထုတ်ထား"
+
+msgid "User \"%s\" left this room"
+msgstr "အသုံးပြုသူ \"% S\" left ဒီအခန်းထဲမှာ"
+
+msgid "Add account"
+msgstr "အကောင့်ကို Add"
+
+msgid "The requested page is not found"
+msgstr "တောင်းဆိုထားသော စာမျက်နှာ မတွေ့ရှိ"
+
+msgid "Document"
+msgstr "စာရွက်စာတမ်း"
+
+msgid "Table"
+msgstr "စားပွဲတင်"
+
+msgid "file(s)"
+msgstr "ဖိုင် ( သို့)"
+
+msgid "Residue"
+msgstr "ကျန်ကြွင်းသော"
+
+msgid "Result is empty"
+msgstr "ရလဒ်ကတော့ အချည်းနှီး ဖြစ်ပါတယ်"
+
+msgid "The total amount is %s for %s mo"
+msgstr "စုစုပေါင်း ငွေပမာဏ %s အ %s အ mo အဘို့ဖြစ်၏"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "သငျသညျ ဆကျနှယျ အကောင့် %s အ လစဉ် ငွေသွင်း ရန်ရှိသည်"
+
+msgid "Start"
+msgstr "Start ကို"
+
+msgid "finish"
+msgstr "finish ကို"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Selected အကောင့်ကို နောက်တစ်ခု ရည်မှန်းချက်ပန်းတိုင် များအတွက် အသုံးပြုမှုအတွက် ပြီးသား ဖြစ်ပါတယ်"
+
+msgid "Amount required"
+msgstr "လိုအပ်သော ငွေပမာဏ"
+
+msgid "New goal"
+msgstr "နယူး ရည်မှန်းချက်ပန်းတိုင်"
+
+msgid "Goal"
+msgstr "ရည်မှန်းချက်ပန်းတိုင်"
+
+msgid "Goal name"
+msgstr "ရည်မှန်းချက်ပန်းတိုင် နာမည်က"
+
+msgid "Invalid date"
+msgstr "မမှန်ကန်ခြင်း နေ့စွဲ"
+
+msgid "Necessary sum must be a positive number"
+msgstr "လိုအပ်သော sum အား အပြုသဘော အရေအတွက်ကို ဖြစ်ရပါမည်"
+
+msgid "Remain"
+msgstr "ကျန်ကြွင်း"
+
+msgid "Last day"
+msgstr "နောက်ဆုံးနေ့"
+
+msgid "Accumulated"
+msgstr "အိမ်ထဲကို"
+
+msgid "Put aside"
+msgstr "ဘေးဖယ်ထား"
+
+msgid "January"
+msgstr "ဇန်နဝါရီလ"
+
+msgid "February"
+msgstr "ဖေဖော်ဝါရီလက"
+
+msgid "March"
+msgstr "မတ်လ"
+
+msgid "April"
+msgstr "ဧပြီလ"
+
+msgid "May"
+msgstr "မေ"
+
+msgid "June"
+msgstr "ဇွန်လ"
+
+msgid "July"
+msgstr "ဇူလိုငျလ"
+
+msgid "August"
+msgstr "သြဂုတ်လတွင်"
+
+msgid "September"
+msgstr "စက်တင်ဘာလ"
+
+msgid "October"
+msgstr "အောက်တိုဘာလ"
+
+msgid "November"
+msgstr "နိုဝင်ဘာလ"
+
+msgid "December"
+msgstr "ဒီဇင်ဘာလ"
+
+msgid "Expenses projected/actual"
+msgstr "ကုန်ကျစရိတ် အမှန်တကယ် / projected"
+
+msgid "Net Income projected/actual"
+msgstr "Net က ဝင်ငွေခွန် အမှန်တကယ် / projected"
+
+msgid "New budget"
+msgstr "နယူး ဘတ်ဂျက်"
+
+msgid "Revenue and Expenses Chart"
+msgstr "အခွန် နှင့် ကုန်ကျစရိတ် ဇယား"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "တူညီသော အကောင့် pair နဲ့ အမျိုးအစား နှင့်အတူ ဘတ်ဂျက် ရှိနှင့်ပြီးသား"
+
+msgid "Budget is empty"
+msgstr "ဘတ်ဂျက် အချည်းနှီး ဖြစ်ပါတယ်"
+
+msgid "Budget"
+msgstr "ဘတ်ဂျက်"
+
+msgid "plan"
+msgstr "ဒီအစီအစဉ်"
+
+msgid "fact"
+msgstr "တကယ်တော့"
+
+msgid "diff"
+msgstr "ကွဲပြားမှု"
+
+msgid "Show More"
+msgstr "ပို ပြရန်"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "d"
+msgstr "ဃ"
+
+msgid "h"
+msgstr "ဇ"
+
+msgid "min"
+msgstr "မိ"
+
+msgid "My sales"
+msgstr "အကြှနျုပျ၏ ရောင်းအား"
+
+msgid "Time spent"
+msgstr "အချိန် ကြာအောင်"
+
+msgid "Total time spent"
+msgstr "စုစုပေါင်းအချိန် ကြာအောင်"
+
+msgid "Earnings per hour"
+msgstr "တစ်နာရီ ဝင်ငွေ"
+
+msgid "Total earnings"
+msgstr "Total ကုမ္ပဏီ ဝင်ငွေ"
+
+msgid "Call"
+msgstr "call"
+
+msgid "Phone call"
+msgstr "ဖုန်းဆက်"
+
+msgid "Telephone calls"
+msgstr "တယ်လီဖုန်းခေါ်ဆိုမှု"
+
+msgid "Send email"
+msgstr "အီးမေးလ်ပို။ ပါ"
+
+msgid "Emails"
+msgstr "အီးမေးလ်များ"
+
+msgid "Meeting"
+msgstr "စည်းဝေး"
+
+msgid "Meetings"
+msgstr "အစည်းအဝေးတွေ"
+
+msgid "All events"
+msgstr "အားလုံးသည် ဖြစ်ရပ်များ"
+
+msgid "Task"
+msgstr "အလုပ်တခုကို"
+
+msgid "Event"
+msgstr "အဖြစ်အပျက်"
+
+msgid "Events"
+msgstr "ဖြစ်ရပ်များ"
+
+msgid "Time"
+msgstr "အချိန်"
+
+msgid "Events statistics"
+msgstr "ဖြစ်ရပ်များ စာရင်းဇယားများအရ"
+
+msgid "days"
+msgstr "ရက်ပေါင်း"
+
+msgid "hours"
+msgstr "နာရီပေါင်း"
+
+msgid "minutes"
+msgstr "မိနစ်"
+
+msgid "Income & expense"
+msgstr "ဝင်ငွေခွန် & စရိတ်"
+
+msgid "Show chart"
+msgstr "Show ကို ဇယား"
+
+msgid "Hide chart"
+msgstr "ဖျောက် ဇယား"
+
+msgid "Add event"
+msgstr "အဖြစ်အပျက် Add"
+
+msgid "Add financial data"
+msgstr "ဘဏ္ဍာရေးအချက်အလက်များ Add"
+
+msgid "Select contractor"
+msgstr "ကန်ထရိုက်တာ ကိုရွေးချယ်ပါ"
+
+msgid "Net Income"
+msgstr "အသားတင်ဝင်ငွေ"
+
+msgid "Revenue"
+msgstr "အခွန်ဝန်ကြီးဌာန"
+
+msgid "Taxes"
+msgstr "အခွန်များ"
+
+msgid "Amount planned"
+msgstr "ငွေပမာဏ စီစဉ်ထား"
+
+msgid "Amount"
+msgstr "ငွေပမာဏ"
+
+msgid "Period"
+msgstr "period"
+
+msgid "Are you sure to close this task?"
+msgstr "ထိုလုပ်ငန်းကို ပိတ်ဖို့ရန် သင်သေချာ ရှိပါသလား"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "အုပ်စုအားလုံး"
+
+msgid "added from task"
+msgstr "အလုပ်တခုကို ကနေ ကဆက်ပြောသည်"
+
+msgid "Monthly repeat"
+msgstr "လစဉ် ထပ်"
+
+msgid "Select category"
+msgstr "အမျိုးအစား ကိုရွေးချယ်ပါ"
+
+msgid "Event type"
+msgstr "အဖြစ်အပျက် အမျိုးအစား"
+
+msgid "Margin"
+msgstr "margin"
+
+msgid "Use finance project"
+msgstr "ဘဏ္ဍာရေး စီမံကိန်းအား ကိုအသုံးပြုပါ"
+
+msgid "New investment project"
+msgstr "နယူး ရင်းနှီးမြှုပ်နှံမှုစီမံကိန်း"
+
+msgid "Investment project settings"
+msgstr "ရင်းနှီးမြှုပ်နှံမှုစီမံကိန်း setting ကို"
+
+msgid "Picture, for the announcement project"
+msgstr "ကြေညာချက် စီမံကိနျးအတှကျ ရုပ်ပုံ ,"
+
+msgid "Announcement project"
+msgstr "အသိပေးကြေငြာခြင်း စီမံချက်ကို"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Photos or videos gallery"
+msgstr "ဓါတ်ပုံများ သို့မဟုတ်ဗွီဒီယိုများကို ပြခန်း"
+
+msgid "required amount"
+msgstr "လိုအပ်သော ငွေပမာဏ"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Project မှ ကြာချိန် (60 ရက်ပတ်လုံး အမြင့်ဆုံး )"
+
+msgid "Project duration"
+msgstr "Project မှ ကြာချိန်"
+
+msgid "Add reward"
+msgstr "ဆုကြေးဇူးကို Add"
+
+msgid "Delivery date"
+msgstr "ကုန်ပို့ရက်စွဲ"
+
+msgid "Payment systems"
+msgstr "ငွေပေးချေမှုရမည့် စနစ်များ"
+
+msgid "Terms of service"
+msgstr "ဝန်ဆောင်မှု၏ စည်းကမ်းချက်များ"
+
+msgid "Agreement"
+msgstr "သဘောတူညီချက်"
+
+msgid "Payment"
+msgstr "ငွေပေးချေမှုရမည့်"
+
+msgid "My projects"
+msgstr "အကြှနျုပျ၏ စီမံကိန်းများကို"
+
+msgid "Search result"
+msgstr "ရှာဖွေမှုရလဒ်"
+
+msgid "Nothing not found"
+msgstr "အဘယ်အရာကိုမျှ မတွေ့ရှိ"
+
+msgid "The project has no sponsors"
+msgstr "အဆိုပါ စီမံကိန်းအား မျှမ စပွန်ဆာ ရှိပါတယ်"
+
+msgid "Design"
+msgstr "ဒီဇိုင်းပုံစံ"
+
+msgid "Food"
+msgstr "စားနပ်ရိက္ခာ"
+
+msgid "Journalism"
+msgstr "သတင်းစာရေးအတတ်ပညာ"
+
+msgid "Games"
+msgstr "အားကစားပြိုင်ပွဲ"
+
+msgid "Art"
+msgstr "art"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "Music ကို"
+
+msgid "Handicrafts"
+msgstr "လက်မှုပညာ"
+
+msgid "Publishing"
+msgstr "ပုံနှိပ်ထုတ်ဝေရေး"
+
+msgid "Theater"
+msgstr "ပြဇာတ်ရုံ"
+
+msgid "Technology"
+msgstr "နည်းပညာကို"
+
+msgid "Film/Video"
+msgstr "ရုပ်ရှင် / ဗီဒီယို"
+
+msgid "Photo"
+msgstr "ဓာတ်ပုံ"
+
+msgid "Dance"
+msgstr "အကအခုန်"
+
+msgid "Invalid youtube video"
+msgstr "မမှန်ကန်ခြင်း youtube က ဗီဒီယို"
+
+msgid "is required"
+msgstr "လိုအပ်ပါသည်"
+
+msgid "User"
+msgstr "အသုံးပြုသူ"
+
+msgid "Date"
+msgstr "Date ကို"
+
+msgid "Collected"
+msgstr "စုဆောင်းကောက်ယူ"
+
+msgid "Choose period"
+msgstr "ကာလအပိုင်းအခြား ကိုရွေးချယ်ပါ"
+
+msgid "Choose region"
+msgstr "ဒေသတွင်းမှာ Choose"
+
+msgid "Country"
+msgstr "နိုင်ငံတစ်နိုင်ငံ"
+
+msgid "Today"
+msgstr "ယနေ့အချိန်တွင်"
+
+msgid "Week"
+msgstr "အပတ်က"
+
+msgid "Month"
+msgstr "တစ်လ"
+
+msgid "Year"
+msgstr "တစ်နှစ်တာ"
+
+msgid "Free registration"
+msgstr "အခမဲ့ မှတ်ပုံတင်ရေး"
+
+msgid "Join"
+msgstr "join"
+
+msgid "Log in using"
+msgstr "သုံးပြီး အတွက် Log"
+
+msgid "Vacancies"
+msgstr "အလုပ်အကိုင်အခွင့်အ ခွင့်အလမ်းများကို"
+
+msgid "About Us"
+msgstr "ကြှနျုပျတို့အကွောငျး"
+
+msgid "You will need email to log in"
+msgstr "သငျသညျ ကို log in အီးမေးလ် လိုအပ်ပါလိမ့်မည်"
+
+msgid "A combination of 6 digits and characters"
+msgstr "6 ဂဏန်း နှင့် ဇာတ်ကောင် တစ်ဦးက ပေါင်းစပ်"
+
+msgid "Search users, groups, articles..."
+msgstr "ရှာရန် အသုံးပြုသူများ အဖွဲ့များ, ဆောင်းပါးတွေကို ..."
+
+msgid "Cloud"
+msgstr "မိုဃ်းတိမ်သည်"
+
+msgid "Sunday"
+msgstr "တနင်္ဂနွေ"
+
+msgid "Monday"
+msgstr "တနင်္လာနေ့"
+
+msgid "Tuesday"
+msgstr "အင်္ဂါနေ့"
+
+msgid "Wednesday"
+msgstr "ဗုဒ္ဓဟူးနေ့"
+
+msgid "Thursday"
+msgstr "ကြာသပတေးနေ့"
+
+msgid "Friday"
+msgstr "သောကြာနေ့"
+
+msgid "Saturday"
+msgstr "စနေနေ့"
+
+msgid "Edit"
+msgstr "Edit ကို"
+
+msgid "Create group"
+msgstr "အုပ်စုတစ်စု Create"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "သင်သည်ဤ စာမျက်နှာ ချန်ထား ချင် သင်သေချာ ရှိပါသလား"
+
+msgid "More"
+msgstr "နောက်ထပ်"
+
+msgid "Less"
+msgstr "နည်းသော"
+
+msgid "Pending"
+msgstr "ဆိုင်းငံ့ထား"
+
+msgid "Approved"
+msgstr "အတည်ပြုပြီး"
+
+msgid "Rejected"
+msgstr "ပယ်ချခဲ့"
+
+msgid "Subprojects"
+msgstr "Subprojects"
+
+msgid "Group edit"
+msgstr "Group ကို ပြင်ဆင်ရန်"
+
+msgid "Startup"
+msgstr "စတင်တည်ထောင်သည်"
+
+msgid "Tattoo"
+msgstr "ထိုးကွင်းထိုး"
+
+msgid "Health"
+msgstr "ကနျြးမာရေး"
+
+msgid "Weapon"
+msgstr "လက်နက်"
+
+msgid "Astronomy"
+msgstr "နက္ခတ်ဗေဒ"
+
+msgid "All articles"
+msgstr "အားလုံးသည် ဆောင်းပါးများကို"
+
+msgid "Article editor"
+msgstr "အပိုဒ် အယ်ဒီတာ"
+
+msgid "Document editor"
+msgstr "စာရွက်စာတမ်း အယ်ဒီတာ"
+
+msgid "Apply changes"
+msgstr "အပြောင်းအလဲများကို Apply"
+
+msgid "Save changes?"
+msgstr "ပြောင်းလဲမှုများကို save ?"
+
+msgid "published an article"
+msgstr "ဆောင်းပါးတခုကို ထုတ်ဝေခဲ့ပြီး"
+
+msgid "Users"
+msgstr "အသုံးပြုသူများသည်"
+
+msgid "Shared With Me"
+msgstr "ငါ့ကိုမ နဲ့အတူ Shared"
+
+msgid "share"
+msgstr "ဝေစု"
+
+msgid "Select Group Responsible"
+msgstr "တာဝန်ရှိ Group မှ ကိုရွေးပါ"
+
+msgid "Create folder"
+msgstr "folder ကို Create"
+
+msgid "Title must be at least 3 characters"
+msgstr "ခေါင်းစဉ် အနည်းဆုံး 3 ဇာတ်ကောင်များ ဖြစ်ရပါမည်"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "အစဉ်အမြဲ အခမဲ့ 10 GB အထိ , ဘဏ္ဍာရေး မန်နေဂျာ module ကို ရင်းနှီးမြှုပ်နှံဖို့ နှင့် အခမဲ့ နဲ့အခြား အများအပြား နှင့်"
+
+msgid "Best regards"
+msgstr "လေးစားစွာဖြင့်"
+
+msgid "Updates in last 12 hours:"
+msgstr "ပြီးခဲ့သည့် 12 နာရီအတွင်း Updates ကို :"
+
+msgid "expense"
+msgstr "စရိတ်"
+
+msgid "Commentary on the event:"
+msgstr "ထိုအဖြစ်အပျက် အပေါ် ဝေဖန်သုံးသပ်ချက် :"
+
+msgid "Event place"
+msgstr "အဖြစ်အပျက် ရာအရပျ"
+
+msgid "Project was updated"
+msgstr "Project မှ updated ခဲ့သည်"
+
+msgid "Project was created"
+msgstr "Project မှ ဖန်တီးခဲ့"
+
+msgid "Project was closed"
+msgstr "Project မှ ပိတ်ပစ်ခဲ့သည်"
+
+msgid "account"
+msgstr "အကောင့်ဖွင်"
+
+msgid "removed task"
+msgstr "ဖယ်ရှားခံရ အလုပ်တခုကို"
+
+msgid "removed subproject"
+msgstr "ဖယ်ရှားခံရ subproject"
+
+msgid "Title can not be empty"
+msgstr "ခေါင်းစဉ် အချည်းနှီး မဖွစျနိုငျ"
+
+msgid "Do not select the type of event"
+msgstr "အဖြစ်အပျက် အမျိုးအစား ကိုရွေးပါ မနေပါနဲ့"
+
+msgid "Error while saving comment"
+msgstr "error comment ကို ချွေတာ အနေဖြင့်"
+
+msgid "Save error: access denied"
+msgstr "အမှား Save : access ကို ငြင်းဆိုထားသည်"
+
+msgid "Remains"
+msgstr "အကြွင်းအကျန်"
+
+msgid "Time spent, h."
+msgstr "အချိန်, ဇ နေခဲ့ရသည်။"
+
+msgid "Emails"
+msgstr "အီးမေးလ်များ"
+
+msgid "Meetings"
+msgstr "အစည်းအဝေးတွေ"
+
+msgid "All users"
+msgstr "သုံးစွဲသူများအားလုံး"
+
+msgid "Category"
+msgstr "Category:"
+
+msgid "Finance project"
+msgstr "ဘဏ္ဍာရေး စီမံချက်ကို"
+
+msgid "Investment project"
+msgstr "ရင်းနှီးမြှုပ်နှံမှုစီမံကိန်း"
+
+msgid "Nature"
+msgstr "သဘာဝတရားက"
+
+msgid "Data is empty"
+msgstr "Data ကို အချည်းနှီး ဖြစ်ပါတယ်"
+
+msgid "Visitors"
+msgstr "ဧည့်သည်များ"
+
+msgid "My profile"
+msgstr "အကြှနျုပျ၏ profile ကို"
+
+msgid "Sponsors"
+msgstr "စပွန်ဆာ"
+
+msgid "Prior to completion"
+msgstr "ပြီးစီး မတိုင်မီက"
+
+msgid "Select"
+msgstr "Select လုပ်ပြီး"
+
+msgid "My groups"
+msgstr "ငါ၏အ အုပျစုမြား"
+
+msgid "The invitation has been sent successfully"
+msgstr "အဆိုပါ ဖိတ်ကြားချက်ကို အောင်မြင်စွာ ကိုစလှေတျ ခဲ့ပွီ"
+
+msgid "Username has already been invited to this project"
+msgstr "username ပြီးသား ဤစီမံကိန်း ဖို့ဖိတ်ခေါ် ထားပါတယ်"
+
+msgid "The user is the creator of the project"
+msgstr "user က ပရောဂျက်၏ ဖန်ဆင်းရှင် ဖြစ်ပါသည်"
+
+msgid "Provide full access"
+msgstr "အပြည့်အဝ အသုံးပြုခွင့် ပေး"
+
+msgid "Select elements to provide access"
+msgstr "လက်လှမ်း ပေး သည့်ဒြပ်စင် ကိုရွေးပါ"
+
+msgid "Select all"
+msgstr "အားလုံး ကို Select လုပ်ပါ"
+
+msgid "User E-mail"
+msgstr "အသုံးပြုသူ E-mail ကို"
+
+msgid "Click on the field to select a category"
+msgstr "အမျိုးအစား ရွေးဖို့ ကိုလယ် ပေါ်တွင်ကလစ်နှိပ်ပါ"
+
+msgid "Invitation was deleted"
+msgstr "ဖိတ်ခေါ်ချက်ကို deleted ခဲ့သည်"
+
+msgid "Permission denied"
+msgstr "ခွင့်တောင်းမှုငြင်းဆိုခြင်း"
+
+msgid "Printed"
+msgstr "ပုံနှိပ်ထုတ်ဝေ"
+
+msgid "Incorrect Contractor email"
+msgstr "မှားယွင်းနေ ဆောက်လုပ်ရေးကန်ထရိုက်တာ ရဲ့အီးမေးလ်"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "သငျသညျ ဘဏ္ဍာရေး မန်နေဂျာ သည်စီမံကိန်း add ချင် ပါသလား?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "မှတ်ပုံတင် လုပ်ငန်းစဉ်ကိုအပြီးသတ် ဖို့ သင့်ကျွမ်းကျင်မှု ကိုဆင်း ဖြည့်ပါ ကျေးဇူးပြုပြီး"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "နောက်ထပ်ညွှန်ကြားချက် နှင့်အတူ တစ်ဦး မေးလ် သင့်ရဲ့ အီးမေးလ်လိပ်စာကို စေလွှတ်ခဲ့သည်"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Cars"
+msgstr "ကားများ"
+
+msgid "Science"
+msgstr "သိပ္ပံဘွဲ့"
+
+msgid "Donation"
+msgstr "လှူဒါန်းမှု"
+
+msgid "Interests"
+msgstr "စိတ်ဝင်စားမှုများ"
+
+msgid "Driver"
+msgstr "မောင်းသူ"
+
+msgid "Sportsman"
+msgstr "အားကစားသမား"
+
+msgid "Businessman"
+msgstr "စီးပွားရေးသမား"
+
+msgid "Accountant"
+msgstr "စာရင်းကိုင်"
+
+msgid "Engineer"
+msgstr "အင်ဂျင်နီယာ"
+
+msgid "Soldier"
+msgstr "စစ်သား"
+
+msgid "Next"
+msgstr "နောက်တစ်ခု"
+
+msgid "Hide group"
+msgstr "ဖျောက် အုပ်စုကို"
+
+msgid "groups created"
+msgstr "ကဖန်တီး အုပ်စုများက"
+
+msgid "articles written"
+msgstr "ကျမ်းစာ၌ရေးထား ဆောင်းပါးများကို"
+
+msgid "These groups may be interesting for you"
+msgstr "ဒီအုပ်စုတွေ သင်တို့အဘို့အ စိတ်ဝင်စားဖို့ ဖြစ်နိုင်ပါသည်"
+
+msgid "About Group"
+msgstr "Group ကို အကွောငျး"
+
+msgid "view(s)"
+msgstr "မြင်ကွင်းကို (သို့ )"
+
+msgid "Favorite users"
+msgstr "အကြိုက်ဆုံး အသုံးပြုသူများသည်"
+
+msgid "No accounts"
+msgstr "အဘယ်သူမျှမ အကောင့်အသစ်များ၏"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook က ခွင့်ပြုချက် မအောင်မြင်ခဲ့ပေ။"
+
+msgid "Authorization Required"
+msgstr "authorization လိုအပ်ပါသည်"
+
+msgid "You have to make a call:"
+msgstr "သင်တစ်ဦး ဖုန်းခေါ် ရန်ရှိသည်:"
+
+msgid "You have to send an email:"
+msgstr "သင်တစ်ဦး အီးမေးလ်ပေးပို့ ရှိသည်:"
+
+msgid "You have a meetup:"
+msgstr "သင်တစ်ဦး meetup ရှိသည်:"
+
+msgid "You event :"
+msgstr "သငျသညျ အဖြစ်အပျက် :"
+
+msgid "Participants:"
+msgstr "သင်တန်းသားများကို :"
+
+msgid "Search"
+msgstr "ရှာရန်"
+
+msgid "News"
+msgstr "သတင်းများ"
+
+msgid "Investments"
+msgstr "ရင်းနှီးမြှုပ်နှံမှုများကို"
+
+msgid "Back to Cloud"
+msgstr "Back ကို တိမ်တိုက် မှ"
+
+msgid "Documents"
+msgstr "documents"
+
+msgid "Planet"
+msgstr "Planet သ"
+
+msgid "Group url"
+msgstr "Group က url"
+
+msgid "Profile url"
+msgstr "ကိုယ်ရေးဖိုင် url"
+
+msgid "Already taken"
+msgstr "ယူပြီးပြီလေ"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "အနည်းဆုံး 1 စာတစ်စောင် နှင့် 3 char အရှည် လိုအပ်သည်"
+
+msgid "Digit can not be the first character"
+msgstr "ဂဏန်း ကိုပထမဦးဆုံး ဇာတ်ကောင် မဖွစျနိုငျ"
+
+msgid "Enter valid email address"
+msgstr "မှန်ကန်သော email address ကို ရိုက်ထည့်ပါ"
+
+msgid "Enter your skills"
+msgstr "သင့်ကျွမ်းကျင်မှု Enter"
+
+msgid "Enter your first name"
+msgstr "သင့်ရဲ့ ပထမဦးဆုံး အမည်ကိုထည့်"
+
+msgid "Enter your last name"
+msgstr "သင့်ရဲ့ နောက်ဆုံး အမည်ကိုထည့်"
+
+msgid "Enter your first name and last name"
+msgstr "သင့်ရဲ့ ပထမဦးဆုံး အမည်နှင့် နောက်ဆုံး အမည်ကိုထည့်"
+
+msgid "Your first name?"
+msgstr "သင့်ရဲ့ ပထမဦးဆုံး နာမည်က ?"
+
+msgid "Your last name?"
+msgstr "သင့်ရဲ့ နောက်ဆုံး နာမည်က ?"
+
+msgid "What are your proficiencies?"
+msgstr "သင့်ရဲ့ ကျွမ်းကျင်မှု ကဘာတွေလဲ?"
+
+msgid "Select country"
+msgstr "တိုင်းပြည် ကိုရွေးပါ"
+
+msgid "Select user"
+msgstr "Select လုပ်ပြီး user က"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "သင့်ရဲ့ အိပ်မက်ကို ဖြည့်ဆည်း ! Create နှင့်ပူးပေါင်းဆောင်ရွက်မှု ။"
+
+msgid "date moved from"
+msgstr "ကနေ ပြောင်းရွေ့ နေ့စွဲ"
+
+msgid "work"
+msgstr "အလုပ်"
+
+msgid "Conference"
+msgstr "ကွန်ဖရင်"
+
+msgid "personal"
+msgstr "ပုဂ္ဂိုလ်ရေး"
+
+msgid "Holiday"
+msgstr "အားလပ်ရက်များ"
+
+msgid "Past"
+msgstr "အတိတ်"
+
+msgid "Future"
+msgstr "အနာဂတ်ကာလ"
+
+msgid "Purchase"
+msgstr "ဝယ်ယူ"
+
+msgid "Personal events"
+msgstr "ပုဂ္ဂလိကဖြစ်ရပ်များ"
+
+msgid "Conferences"
+msgstr "စည်းဝေး"
+
+msgid "Holidays"
+msgstr "အားလပ်ရက်"
+
+msgid "Sport events"
+msgstr "အားကစားဆိုင်ရာဖြစ်ရပ်များ"
+
+msgid "Tasks"
+msgstr "Tasks ကို"
+
+msgid "Other events"
+msgstr "အခြားဖြစ်ရပ်များ"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "ရိုသေခြင်း"
+
+msgid "Time management"
+msgstr "အချိန်စီမံခန့်ခွဲမှု"
+
+msgid "Delayed events"
+msgstr "မှာ Deferred ဖြစ်ရပ်များ"
+
+msgid "Delayed"
+msgstr "ရိုသေခြင်း"
+
+msgid "Bind to"
+msgstr "သတ်မှတ်"
+
+msgid "answered your comment to"
+msgstr "ငါဆောင်းပါးအပေါ် (က) မှတ်ချက်ကပြောပါတယ်"
+
+msgid "commented your article"
+msgstr "ငါသည်သင်တို့၏ဆောင်းပါးတွင်အပေါ် commented"
+
+msgid "You\'ve answered on comment to"
+msgstr "သငျသညျဆောင်းပါးပေါ်တွင် comment ကိုမှတုန့်ပြန်"
+
+msgid "You\'ve commented an article"
+msgstr "သငျသညျဆောင်းပါးအပေါ် commented"
+
+msgid "Terms and Conditions"
+msgstr "စည်းကမ်းသတ်မှတ်ချက်များ"
+
+msgid "Privacy Policy"
+msgstr "သီးသန့်လုံခြုံရေးပေါ်လစီ"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "sign up ကို ပေါ်တွင်နှိပ်ခြင်းအားဖြင့်သင်သည်ငါတို့နှင့်သင်တို့သည်ငါတို့၏ကိုဖတ်ပြီအသိအမှတ်ပြုရန်နဲ့သဘောတူ"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "လောကီနိုင်ငံအရပ်ရပ်ရှိသမျှကျော်ထံမှဖန်တီးမှုလူများ၏လူမှုအသိုင်းအဝိုင်း Join! သင်ရရှိလိမ့်မည်: သင့်စိတ်ကူးများအတွက်ရင်းနှီးမြှုပ်နှံမှု, သူ့အဖွဲ့ကိုစုသိမ်းရန်အခွင့်အလမ်း, အုပ်စုတစုမှာအလုပ်လုပ်, ဘဏ္ဍာရေးမန်နေဂျာသူတို့ရဲ့အချိန်ကိုစီမံခန့်ခွဲ, 2 သိုလှောင်မှုပမာဏအတွက် gigabytes နှင့်ပို။ ထိုအကအခမဲ့ဖြစ်ပါတယ်!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "တောင်းပန်ပါတယ်, ဒါပေမယ့်သင်တို့အဘို့အရှာဖွေနေတဲ့စာမျက်နှာကိုမတည်ရှိပါဘူး။ သငျသညျအကြှနျုပျတို့ကိုဆက်သွယ်နိုင်ပါသည်အပြစ်တင်ဖို့စဉ်းစားမယ်ဆိုရင်"
+
+msgid "Return"
+msgstr "သို့ပြန်သွားသည်"
+
+msgid "COMMON"
+msgstr "စုစုပေါင်း"
+
+msgid "My events"
+msgstr "အကြှနျုပျ၏စကားဝိုင်း"
+
+msgid "Job opening"
+msgstr "နယူးလစ်လပ်နေသော"
+
+msgid "Employment"
+msgstr "အလုပ်အကိုင်အခွင့်အအမျိုးအစား"
+
+msgid "Working hours"
+msgstr "ဖွင့်လှစ်နာရီကြာ"
+
+msgid "City"
+msgstr "စီးတီး"
+
+msgid "Wages"
+msgstr "လစာ"
+
+msgid "Currency"
+msgstr "ငွေကြေးစနစ်"
+
+msgid "Experience"
+msgstr "အတှေ့အကွုံ"
+
+msgid "Full-time"
+msgstr "အပြည့်အဝအလုပ်အကိုင်အခွင့်အ"
+
+msgid "Part-time"
+msgstr "part-time"
+
+msgid "Project employment"
+msgstr "Project မှ / ယာယီ"
+
+msgid "Volunteer"
+msgstr "စေတနာ့ဝန်ထမ်း"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "အချိန်ပြည့်"
+
+msgid "Shifts"
+msgstr "အစားထိုးအချိန်ဇယား"
+
+msgid "Flexible shifts"
+msgstr "ပြောင်းလွယ်ပြင်လွယ်အချိန်ဇယား"
+
+msgid "Remote work"
+msgstr "ဝေးလံခေါင်သီအလုပ်"
+
+msgid "Rotational basis"
+msgstr "Shift ဆိုတဲ့ method ကို"
+
+msgid "Do you really want to delete this comment?"
+msgstr "သင် comment ကိုဖျက်လိုသင်သေချာရှိပါသလား"
+
+msgid "Do you really want to delete this task?"
+msgstr "သင်သည်ဤအလုပ်တခုကိုပယ်ဖျက်လိုသင်သေချာရှိပါသလား"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "သင်သည်ဤ Sub-စီမံကိန်းအားပယ်ဖျက်လိုသင်သေချာရှိပါသလား"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "သငျသညျရာထူးအတွက်ကုမ္ပဏီလျှောက်ထားကြပါပြီ။ သေချာအောင်ကိုစေ ကျေးဇူးပြု."
+
+msgid "Your request to for job has been rejected"
+msgstr "ရာထူးကုမ္ပဏီကိုသင့်ရဲ့တောင်းဆိုချက်ကိုပယ်ချခဲ့သိရသည်"
+
+msgid "Your request to for job has been accepted"
+msgstr "ရာထူးကုမ္ပဏီကိုသင့်ရဲ့တောင်းဆိုချက်ကိုမွေးစားခဲ့သည်"
+
+msgid "profile is completed"
+msgstr "သင့်ရဲ့ profile ကိုအပြည့်အဝဖြစ်ပါတယ်"
+
+msgid "Use account"
+msgstr "အကောင့်ကိုအသုံးပြုပါ"
+
+msgid "$/hr"
+msgstr "$ / တစ်နာရီ"
+
+msgid "Finance category"
+msgstr "ဘဏ္ဍာရေးအအမျိုးအစား"
+
+msgid "No projects"
+msgstr "အဘယ်သူမျှမစီမံကိန်းများကို"
+
+msgid "Bind to finances"
+msgstr "ဘဏ္ဍာရေးစီမံချက်ကို assign"
+
+msgid "Preview"
+msgstr "ကြည့်ရန်"
+
+msgid "Download"
+msgstr "ဒေါင်းလုပ်"
+
+msgid "Save to my cloud"
+msgstr "ထို repository ကိုကော်ပီကူး"
+
+msgid "File successfully saved to your cloud"
+msgstr "အောင်မြင်စွာသင့်ရဲ့ repository ကိုထဲမှာသိမ်းထားတဲ့ file ကို"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "သင့်ရဲ့ repository ကိုအတွက်ဒီဖိုင်ကို Save?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "အမျိုးအစားအပိုဒ်ကိုရွေးချယ်ပါ"
+
+msgid "Type something"
+msgstr "အရာတစ်ခုခုရေးဖို့"
+
+msgid "Founded users"
+msgstr "Found အသုံးပြုသူများသည်"
+
+msgid "Founded articles"
+msgstr "Found ဆောင်းပါးတွင်"
+
+msgid "Founded groups"
+msgstr "စတင်တည်ထောင်ခဲ့ပြီးအုပ်စုကို"
+
+msgid "What are your skills?"
+msgstr "သင့်ကျွမ်းကျင်မှုဘာတွေလဲ?"
+
+msgid "Select at least 2 interests"
+msgstr "အနည်းဆုံး 2 အကျိုးစီးပွားကိုရွေးပါ"
+
+msgid "Need more interests"
+msgstr "မဟုတ်လုံလောက်တဲ့အကျိုးစီးပွားကိုရှေးခယျြ"
+
+msgid "What are you interesting in?"
+msgstr "သငျသညျစိတ်ဝင်စားသူကဘာတွေလဲ?"
+
+msgid "You have no dialogs"
+msgstr "သငျသညျဆွေးနွေးမှုများကိုရှိသည်မဟုတ်ကြဘူး"
+
+msgid "Usage Stats"
+msgstr "ပြည်နယ်"
+
+msgid "Founded files"
+msgstr "Found files"
+
+msgid "Big tiles"
+msgstr "အကြီးစားကြွပ်"
+
+msgid "Small tiles"
+msgstr "အသေးစားကွက်များ"
+
+msgid "Table view"
+msgstr "စားပွဲတင်မြင်ကွင်းကို"
+
+msgid "Root folder"
+msgstr "အမြစ် directory ကို"
+
+msgid "My files"
+msgstr "အကြှနျုပျ၏ Files ကို"
+
+msgid "Save as draft"
+msgstr "မူကြမ်းအဖြစ် Save"
+
+msgid "Buy More Space"
+msgstr "နေရာပို Buy"
+
+msgid "Buy"
+msgstr "ဝယ်မယ်"
+
+msgid "You have been invited to group as"
+msgstr "သင်တစ်ဦးအဖြစ်အုပ်စုကိုရန်ဖိတ်ကြားခဲ့ကြ"
+
+msgid "User wants to join your group"
+msgstr "user ကသင့်ရဲ့အဖွဲ့တစ်ဖွဲ့ပူးပေါင်းရန်ဆန္ဒရှိသော်လည်း"
+
+msgid "Section is coming soon!"
+msgstr "ဆောက်လုပ်ဆဲပုဒ်မ!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "ပြီးခဲ့သည့် 24 နာရီအတွင်း views:"
+
+msgid "Task was updated"
+msgstr "task ကို updated သိရသည်"
+
+msgid "Task was closed"
+msgstr "အဆိုပါစိန်ခေါ်မှုပိတ်သိမ်းခဲ့ပြီး"
+
+msgid "Task was created"
+msgstr "task ကိုသတ်မှတ်ခဲ့သည်"
+
+msgid "Current balance"
+msgstr "current ချိန်ခွင်လျှာ"
+
+msgid "Add funds"
+msgstr "Add"
+
+msgid "Pay"
+msgstr "checkout"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "သငျသညျရဲ့ login ကြိုးစားမှု၏နံပါတ်ထက်ကျော်လွန်ပါပြီ။ သငျသညျ 15 မိနစ်ပိတ်ဆို့ထားသည်"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "သင့်ရဲ့ e-mail ကိုအတည်ပြုရန်ကိုကျေးဇူးတင်ပါ။ mail ဖြင့်သင်တို့ဆီသို့စေလွှတ်စာတစ်စောင်။"
+
+msgid "Resend confirmation email"
+msgstr "နောက်တဖန်အအတည်ပြုချက်ကို Send"
+
+msgid "Disk 2Gb Monthly"
+msgstr "တစ်လလျှင် disc 2 GB အထိ"
+
+msgid "Disk 10Gb Monthly"
+msgstr "တစ်နှစ်လျှင် 10 GB အထိမောင်းနှင်"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk ကိုက 100 GB ကိုနှစ်စဉ်နှစ်တိုင်း"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk ကို 1TB လစဉ်"
+
+msgid "Disk 1Tb Yearly"
+msgstr "နှစ်စဉ်နှစ်တိုင်း 1 တီဘီမောင်းထုတ်"
+
+msgid "Project members monthly"
+msgstr "လစဉ်အပေါ် အခြေခံ. စီမံချက်၏သင်တန်းသား"
+
+msgid "Project members yearly"
+msgstr "နှစ်စဉ်နှစ်တိုင်း Project မှသင်တန်းသားများကို"
+
+msgid "Member(s) yearly"
+msgstr "တစ်နှစ်လျှင်အဖွဲ့ဝင်တစ်ဦး (သို့)"
+
+msgid "Member(s) monthly"
+msgstr "လစဉ်အပေါ် အခြေခံ. အဖွဲ့ဝင်တစ်ဦး (သို့)"
+
+msgid "Authorized"
+msgstr "Authorized"
+
+msgid "Authorization expired"
+msgstr "authorization ကုန်ဆုံး"
+
+msgid "Processor declined"
+msgstr "ပယ်ချခဲ့အပြောင်းအလဲနဲ့ system ကို"
+
+msgid "Gateway rejected"
+msgstr "ပယ်ချခဲ့ငွေပေးချေမှု့ gateway"
+
+msgid "Failed"
+msgstr "error"
+
+msgid "Voided"
+msgstr "ပလပ်"
+
+msgid "Submitted for settlement"
+msgstr "ကျောင်းအပ်ဖို့ကိုစလှေတျ"
+
+msgid "Settlement declined"
+msgstr "ကျောင်းအပ်ပယ်ချခဲ့သိရသည်"
+
+msgid "Settlement pending"
+msgstr "ဆိုင်းငံ့ထားကျောင်းအပ်"
+
+msgid "Verified"
+msgstr "Checked"
+
+msgid "Pending"
+msgstr "ဆိုင်းငံ့ထား"
+
+msgid "Active"
+msgstr "Active ကို"
+
+msgid "Past Due"
+msgstr "Expired"
+
+msgid "Expired"
+msgstr "အဆုံးသတ်"
+
+msgid "Marketer"
+msgstr "marketer"
+
+msgid "India"
+msgstr "အိန္ဒိယနိုင်ငံ"
+
+msgid "Malaysia"
+msgstr "မလေးရှားက"
+
+msgid "Thailand"
+msgstr "ထိုင်းနိုင်ငံသို့"
+
+msgid "South Korea"
+msgstr "တောင်ကိုရီးယား"
+
+msgid "Kazakhstan"
+msgstr "ကာဇက်စတန်"
+
+msgid "Israel"
+msgstr "ဣသရ"
+
+msgid "Ukraine"
+msgstr "ယူကရိန်း"
+
+msgid "Belarus"
+msgstr "ဘီလာရုစ်"
+
+msgid "Bulgaria"
+msgstr "ဘူလ်ဂေးရီးယား"
+
+msgid "Turkey"
+msgstr "တူရကီ"
+
+msgid "Armenia"
+msgstr "အာမေးနီးယား"
+
+msgid "Serbia"
+msgstr "ဆားဘီးယား"
+
+msgid "Austria"
+msgstr "သြစတြီးယား"
+
+msgid "Poland"
+msgstr "ပိုလန်"
+
+msgid "Germany"
+msgstr "ဂျာမနီက"
+
+msgid "Italy"
+msgstr "အီတလီနိုင်ငံ"
+
+msgid "Netherlands"
+msgstr "နယ်သာလန်"
+
+msgid "Ireland"
+msgstr "အိုင်ယာလန်"
+
+msgid "United Kingdom"
+msgstr "ဂရိတ်ဗြိတိန်"
+
+msgid "Portugal"
+msgstr "ပေါ်တူဂီ"
+
+msgid "Norway"
+msgstr "နော်ဝေ"
+
+msgid "United States"
+msgstr "ယူနိုက်တက်စတိတ်"
+
+msgid "Canada"
+msgstr "ကနေဒါနိုင်ငံ"
+
+msgid "Brazil"
+msgstr "ဘရာဇီးက"
+
+msgid "Saudi Arabia"
+msgstr "ဆော်ဒီအာရေဗျနိုင်ငံ"
+
+msgid "Canada"
+msgstr "အဲဂုတ္တုပြည်၌"
+
+msgid "Russia"
+msgstr "ရုရှားက"
+
+msgid "Hong Kong"
+msgstr "ဟောင်ကောင်"
+
+msgid "There was no any transactions yet."
+msgstr "ယခုအချိန်တွင်မှာတစ်ခုတည်းအရောင်းအဝယ်လည်းမရှိသေးသည်"
+
+msgid "Fulfill your dream"
+msgstr "သင့်ရဲ့အိပ်မက်ဖြည့်ဆည်း"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "အားလုံးဖြင့်ကမ္ဘာအဝှမ်းထံမှဖန်တီးမှုတစ်ဦးချင်းစီ၏ကျွန်ုပ်တို့အသိုင်းအဝိုင်း join ။"
+
+msgid "Create and Collaborate"
+msgstr "Create နှင့်ပူးပေါင်းဆောင်ရွက်မှု"
+
+msgid "Start Dreaming"
+msgstr "NOW ကအိပ်မက်ဖြည့်ဆည်း"
+
+msgid "or"
+msgstr "သို့မဟုတ်"
+
+msgid "Our mission:"
+msgstr "ကျွန်ုပ်တို့၏မစ်ရှင်:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "မယုံကြည်နိုင်လောက်အောင်များနှင့်စိတ်ကူးဖို့ရိုးရိုးရှင်းရှင်းနဲ့ဝယ်လိုအားမှာနေတဲ့စိတ်ကူးများကိုအကောင်အထည်ဖေါ်ရန်ဖန်တီးမှုနဲ့တက်ကြွတဲ့လူတွေစည်းလုံးညီညွတ်မှ, သောကျွန်ုပ်တို့၏အနာဂတ်ပုံဖော်နိုင်ပါတယ်။"
+
+msgid "What is Konstruktor?"
+msgstr "Konstruktor ကဘာလဲ?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - သိသိသာသာနိုင်အောင်စီစဉ်ပေးထားတယ်နှင့်မျက်မှောက်ရေးရာသောငါတို့အမှန်တကယ်အသက်, ၏အစိတ်အပိုင်းတစ်ခုဖြစ်ပါသည်"
+
+msgid "*business processes"
+msgstr "* စီးပွားရေးလုပ်ငန်းဖြစ်စဉ်များ"
+
+msgid "*materialization of creative ideas"
+msgstr "ဖန်တီးမှုစိတ်ကူးစိတ်သန်း၏ * material"
+
+msgid "*constructive cooperation"
+msgstr "* အပြုသဘောဆောင်တဲ့ပူးပေါင်းဆောင်ရွက်မှု"
+
+msgid "Make your dream!"
+msgstr "သင့်ရဲ့အိပ်မက်ကို Make!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "စီအီးအို"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "အထူးအကြံပေးပုဂ္ဂိုလ်"
+
+msgid "Yaroslav Eroshenko"
+msgstr "မှ Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "မန်နေဂျာ Software များဖွံ့ဖြိုးရေးပါတီ"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "အကြီးတန်းရှေ့နေ"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "ဒီဇိုင်နာ"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "ထို \"Next\" b​​utton ကိုနှိပ်ခြင်းအားဖြင့်, သင်လက်ခံခြင်းကြသည်နှင့်ငါတို့စည်းကမ်းသတ်မှတ်ချက်များနှင့်အတူသဘောတူညီပြီး, သင်သင်တို့သည်ငါတို့၏ပေါ်လစီကိုဖတ်ပြီအသိအမှတ်ပြုကြသည်။"
+
+msgid "Incorrect login or password."
+msgstr "မှားယွင်းနေရဲ့ login သို့မဟုတ်စကားဝှက်။"
+
+msgid "Password must be at least 6 characters"
+msgstr "Password ကိုအနည်းဆုံး 6 ဇာတ်ကောင်များဖြစ်ရပါမည်"
+
+msgid "January"
+msgstr "ဇန်နဝါရီလ"
+
+msgid "February"
+msgstr "ဖေဖော်ဝါရီလက"
+
+msgid "March"
+msgstr "မတ်လ"
+
+msgid "April"
+msgstr "ဧပြီလ"
+
+msgid "May"
+msgstr "မေ"
+
+msgid "June"
+msgstr "ဇွန်လ"
+
+msgid "July"
+msgstr "ဇူလိုငျလ"
+
+msgid "August"
+msgstr "သြဂုတ်လတွင်"
+
+msgid "September"
+msgstr "စက်တင်ဘာလ"
+
+msgid "October"
+msgstr "အောက်တိုဘာလ"
+
+msgid "November"
+msgstr "နိုဝင်ဘာလ"
+
+msgid "December"
+msgstr "ဒီဇင်ဘာလ"
+
+msgid "Chat"
+msgstr "chat"
+
+msgid "Files"
+msgstr "files"
+
+msgid "Statistic"
+msgstr "စာရင်းဇယား"
+
+msgid "Support"
+msgstr "ပံ့ပိုးမှု"
+
+msgid "Exit"
+msgstr "ထွက်ပေါက်"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "ဘီလာရုစ်"
+
+msgid "Marketing specialist"
+msgstr "marketing အထူးကု"
+
+msgid "Administrator"
+msgstr "administrator"
+
+msgid "Shared with me"
+msgstr "ငါနှင့်အတူငါ့ Shared"
+
+msgid "File Sharing"
+msgstr "File ကိုမျှဝေခြင်း"
+
+msgid "Provide access by link"
+msgstr "link ကိုသဖြင့်လက်လှမ်းပေး"
+
+msgid "Provide Individual access"
+msgstr "တစ်ဦးချင်း access ကိုပေး"
+
+msgid "Provide edit access"
+msgstr "ပြင်ဆင်ရန်လက်လှမ်းပေး"
+
+msgid "Share"
+msgstr "ဝေမျှမယ်"
+
+msgid "Files will be available only for selected users"
+msgstr "Files ကိုသာရွေးချယ်ထားသည့် User များအတွက်ရရှိနိုင်ပါလိမ့်မည်"
+
+msgid "With this link everyone can access to the files"
+msgstr "ဒီအလူတိုင်းဖိုင်များ access လုပ်နိုင်ဆက်သွယ်နှင့်အတူ"
+
+msgid "Search users, groups, articles..."
+msgstr "ရှာရန်အသုံးပြုသူများအဖွဲ့များ, ဆောင်းပါးတွေကို ..."
+
+msgid "My Group"
+msgstr "အကြှနျုပျ၏ Group က"
+
+msgid "Mo"
+msgstr "mo"
+
+msgid "Tu"
+msgstr "tu"
+
+msgid "We"
+msgstr "ကျနော်တို့"
+
+msgid "Th"
+msgstr "th"
+
+msgid "Fr"
+msgstr "fr"
+
+msgid "Sa"
+msgstr "sa"
+
+msgid "Su"
+msgstr "su"
+
+msgid "The file is not selected"
+msgstr "အကယ်. ဖိုင်ကိုမရွေးချယ်"
+
+msgid "Set aside"
+msgstr "ဘေးဖယ်ထား"
+
+msgid "Event time"
+msgstr "အဖြစ်အပျက်အချိန်"
+
+msgid "Work"
+msgstr "အလုပ်"
+
+msgid "Personal"
+msgstr "ပုဂ္ဂိုလ်ရေး"
+
+msgid "Time spent for work:"
+msgstr "အချိန်အလုပျအတှကျသုံးစွဲ:"
+
+msgid "Personal time spent:"
+msgstr "သုံးစွဲပုဂ္ဂိုလ်ရေးအချိန်:"
+
+msgid "Present"
+msgstr "ပစ္စုပ္ပန်"
+
+msgid "Common"
+msgstr "common"
+
+msgid "Sport"
+msgstr "အားကစား"
+
+msgid "Entertainment"
+msgstr "Entertainment က"
+
+msgid "Select:"
+msgstr "ကို Select"
+
+msgid "Invalid username or password."
+msgstr "မမှန်ကန်ခြင်းအသုံးပြုသူအမည်သို့မဟုတ်စကားဝှက်။"
+
+msgid "Try again."
+msgstr "ထပ်ကြိုးစားပါ။"
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "သင်၌စိတ်ဝင်စားဘာတွေလဲ?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "အကြွင်းအကျန် 2: အနည်းဆုံး 2 ကျွမ်းကျင်မှုများကိုရွေးပါ"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "အကြွင်းအကျန် 1: အနည်းဆုံး 2 ကျွမ်းကျင်မှုများကိုရွေးပါ"
+
+msgid "Select at least 2 skills: remains"
+msgstr "အကြွင်းအကျန်: အနည်းဆုံး 2 ကျွမ်းကျင်မှုများကိုရွေးပါ"
+
+msgid "Active life"
+msgstr "Active ကိုအသက်တာ"
+
+msgid "Arts and culture"
+msgstr "ဝိဇ္ဇာနှင့်ယဉ်ကျေးမှု"
+
+msgid "Business"
+msgstr "စီးပွားရေးလုပ်ငန်း"
+
+msgid "Cinema"
+msgstr "ရုပ်ရှင်ရုံ"
+
+msgid "Communications"
+msgstr "ဆက်သွယ်ရေးဝန်ကြီး"
+
+msgid "Construction and repair"
+msgstr "ဆောက်လုပ်ရေးနှင့်ပြုပြင်ခြင်း"
+
+msgid "Cooking"
+msgstr "ဟင်းချက်ရန်"
+
+msgid "Education"
+msgstr "ပညာရေးဝန်ကြီးဌာန"
+
+msgid "Electronics"
+msgstr "အီလက်ထရောနစ်"
+
+msgid "Finances"
+msgstr "ဘဏ္ဍာရေး"
+
+msgid "Graphics and design"
+msgstr "ဂရပ်ဖစ်နှင့်ဒီဇိုင်း"
+
+msgid "Health"
+msgstr "ကနျြးမာရေး"
+
+msgid "Home and family"
+msgstr "မူလစာမျက်နှာနှင့်မိသားစု"
+
+msgid "Humor"
+msgstr "ဟာသ"
+
+msgid "IT"
+msgstr "အိုင်တီ"
+
+msgid "Industry"
+msgstr "စက်မှုဝန်ကြီးဌာန"
+
+msgid "Insurance"
+msgstr "အာမခံ"
+
+msgid "Literature"
+msgstr "မယ့်စာပေများ"
+
+msgid "Mobile communications and internet"
+msgstr "မိုဘိုင်းဆက်သွယ်ရေးနှင့်အင်တာနက်"
+
+msgid "News and Media"
+msgstr "သတင်းနှင့်မီဒီယာ"
+
+msgid "Pets"
+msgstr "အိမ်မွေးတိရစ္ဆာန်များ"
+
+msgid "Products and service"
+msgstr "ကုန်ပစ္စည်းများနှင့်ဝန်ဆောင်မှု"
+
+msgid "Real Estate"
+msgstr "အိမ်ခြံမြေအကျိုးဆောင်"
+
+msgid "Religion"
+msgstr "ဘာသာတရားကို"
+
+msgid "Science and techs"
+msgstr "သိပ္ပံနှင့် Tech"
+
+msgid "Security"
+msgstr "လုံခြုံရေးကောင်စီ"
+
+msgid "Society"
+msgstr "Society က"
+
+msgid "Television"
+msgstr "ရုပ်သံလွှင့်"
+
+msgid "Travel"
+msgstr "ခရီးသွားလာမှု"
+
+msgid "URL"
+msgstr "URL ကို"
+
+msgid "Argentina"
+msgstr "အာဂျင်တီးနား"
+
+msgid "Australia"
+msgstr "သြစတြေးလျ"
+
+msgid "Austria"
+msgstr "သြစတြီးယား"
+
+msgid "Belarus"
+msgstr "ဘီလာရုစ်"
+
+msgid "Belgium"
+msgstr "ဘယ်လ်ဂျီယံ"
+
+msgid "Brazil"
+msgstr "ဘရာဇီးက"
+
+msgid "Bulgaria"
+msgstr "ဘူလ်ဂေးရီးယား"
+
+msgid "Canada"
+msgstr "ကနေဒါနိုင်ငံ"
+
+msgid "Chile"
+msgstr "ချီလီ"
+
+msgid "Denmark"
+msgstr "ဒိန်းမတ်"
+
+msgid "France"
+msgstr "ပြင်သစ်နိုင်ငံက"
+
+msgid "Germany"
+msgstr "ဂျာမနီက"
+
+msgid "Greece"
+msgstr "ဂရိနိုင်ငံ"
+
+msgid "Hungary"
+msgstr "ဟန်ဂေရီ"
+
+msgid "Iceland"
+msgstr "အိုက်စလန်"
+
+msgid "Ireland"
+msgstr "အိုင်ယာလန်"
+
+msgid "Israel"
+msgstr "ဣသရ"
+
+msgid "Italy"
+msgstr "အီတလီနိုင်ငံ"
+
+msgid "Japan"
+msgstr "ဂျပန်နိုင်ငံသည်"
+
+msgid "Mexico"
+msgstr "မက္ကစီကို"
+
+msgid "Netherlands"
+msgstr "နယ်သာလန်"
+
+msgid "New Zealand"
+msgstr "နယူးဇီလန်"
+
+msgid "Norway"
+msgstr "နော်ဝေ"
+
+msgid "Poland"
+msgstr "ပိုလန်"
+
+msgid "Portugal"
+msgstr "ပေါ်တူဂီ"
+
+msgid "Russia"
+msgstr "ရုရှားက"
+
+msgid "Slovakia"
+msgstr "ဆလိုဗက်ကီး"
+
+msgid "South Africa"
+msgstr "တောင်အာဖရိက"
+
+msgid "South Korea"
+msgstr "တောင်ကိုရီးယား"
+
+msgid "Spain"
+msgstr "စပိန်အသင်း"
+
+msgid "Sweden"
+msgstr "ဆွီဒင်"
+
+msgid "Switzerland"
+msgstr "ဆွစ်ဇလန်"
+
+msgid "Turkey"
+msgstr "ကြက်ဆင်"
+
+msgid "Ukraine"
+msgstr "ယူကရိန်း"
+
+msgid "United Arab Emirates"
+msgstr "အာရပ်စော်ဘွားများပြည်ထောင်စု"
+
+msgid "United Kingdom"
+msgstr "ယူနိုက်တက်ကင်းဒမ်း"
+
+msgid "United States"
+msgstr "ယူနိုက်တက်စတိတ်"
+
+msgid "achievements"
+msgstr "အောင်မြင်မှုများ"
+
+msgid "Investment management"
+msgstr "ရင်းနှီးမြှုပ်နှံမှုစီမံခန့်ခွဲမှု"
+
+msgid "Select..."
+msgstr "Select လုပ်ပြီး ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "ရင်းနှီးမြှုပ်နှံမှုစီမံခန့်ခွဲ"
+
+msgid "Investors list"
+msgstr "ရင်းနှီးမြှုပ်နှံသူများကစာရင်းဖြစ်သည်"
+
+msgid "My investments"
+msgstr "အကြှနျုပျ၏ရင်းနှီးမြှုပ်နှံမှုများကို"
+
+msgid "Create date"
+msgstr "နေ့စွဲ Create"
+
+msgid "Author of the project"
+msgstr "စီမံချက်၏အာဘော်"
+
+msgid "Date and time"
+msgstr "ရက်စွဲနှင့်အချိန်"
+
+msgid "Status"
+msgstr "status"
+
+msgid "NEXT"
+msgstr "နောက်တစ်ခု"
+
+msgid "Next"
+msgstr "နောက်တစ်ခု"
+
+msgid "Apply"
+msgstr "Apply"
+
+msgid "Kazakhstan"
+msgstr "ကာဇက်စတန်"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "ဟောင်ကောင်"
+
+msgid "Science"
+msgstr "သိပ္ပံဘွဲ့"
+
+msgid "Architecture"
+msgstr "ဗိသုကာပညာ"
+
+msgid "Photography"
+msgstr "ဓါတ်ပုံပညာ"
+
+msgid "Designer"
+msgstr "ဒီဇိုင်နာ"
+
+msgid "IT specialist"
+msgstr "အိုင်တီအထ​​ူးကု"
+
+msgid "Agronomist"
+msgstr "Agronomist"
+
+msgid "Architect"
+msgstr "ဗိသုကာ"
+
+msgid "Lawyer"
+msgstr "ရှေ့နေ"
+
+msgid "Writer"
+msgstr "စာရေးဆရာ"
+
+msgid "Doctor"
+msgstr "Doctor က"
+
+msgid "Scientist"
+msgstr "သိပ္ပံပညာရှင်"
+
+msgid "Marketer"
+msgstr "marketer"
+
+msgid "Teacher"
+msgstr "အရှင်ဘုရား"
+
+msgid "Cook"
+msgstr "Cook က"
+
+msgid "Artist"
+msgstr "အနုပညာရှင်"
+
+msgid "Photographer"
+msgstr "ဓာတ်ပုံဆရာ"
+
+msgid "Ecologist"
+msgstr "Ecologist"
+
+msgid "Economist"
+msgstr "စီးပွားရေးပညာရှင်"
+
+msgid "Logistician"
+msgstr "ထောက်ပံ့ပို့ဆောင်ရေး"
+
+msgid "Journalist"
+msgstr "သတင်းစာဆရာ"
+
+msgid "Builder"
+msgstr "builder"
+
+msgid "These users may be interesting for you"
+msgstr "ထိုအသုံးပြုသူများသင်တို့အဘို့အစိတ်ဝင်စားဖို့ဖြစ်နိုင်ပါသည်"
+
+msgid "These articles may be interesting for you"
+msgstr "ဒီဆောင်းပါးတွေသင်တို့အဘို့အစိတ်ဝင်စားဖို့ဖြစ်နိုင်ပါသည်"
+
+msgid "You joined this group as Аdministrator"
+msgstr "သငျသညျАdministratorအဖြစ်ဤအုပ်စုသို့ဝင်ရောက်ခဲ့ပြီး"
+
+msgid "articles written."
+msgstr "ကျမ်းစာ၌ရေးထားဆောင်းပါးများကို။"
+
+msgid "groups created."
+msgstr "အုပ်စုများကိုဖန်ဆင်းခဲ့တယ်။"
+
+msgid "Creation"
+msgstr "ဖန်ဆင်းခြင်း"
+
+msgid "Build a dream"
+msgstr "အိပ်မက်ကိုတညျဆောကျ"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "ပိုပြီးစိတ်ဝင်စားစရာဆောင်းပါးတွေကိုဖတ်ပါ - အခမဲ့မှတ်ပုံတင်သွား"
+

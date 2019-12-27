@@ -1,0 +1,3345 @@
+# Euskal (Баскский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Euskal (Баскский) <support@konstruktor.com>\n"
+"Language: Euskal (Баскский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "erabiltzaile-izen"
+
+msgid "Invalid username or password, try again"
+msgstr "Izen edo pasahitz okerra. Saiatu berriz ."
+
+msgid "Settings"
+msgstr "Ezarpenak"
+
+msgid "Home"
+msgstr "hasiera"
+
+msgid "You must log in to access this page"
+msgstr "Saioa hasi behar duzu orri honetan sartzeko"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Zure saioa iraungi egin da. Mesedez , ekintza hori burutzeko relogin"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Head Office"
+msgstr "Head Office"
+
+msgid "Address"
+msgstr "Helbidea"
+
+msgid "Back"
+msgstr "Itzuli"
+
+msgid "Apply"
+msgstr "Aplikatu"
+
+msgid "Upload files…"
+msgstr "Igo fitxategiak ..."
+
+msgid "Set as main"
+msgstr "Ezarri nagusi gisa"
+
+msgid "Delete"
+msgstr "Ezabatu"
+
+msgid "Original image"
+msgstr "Jatorrizko irudia"
+
+msgid "Uploaded"
+msgstr "Uploaded"
+
+msgid "File name"
+msgstr "Fitxategi-izena"
+
+msgid "File size"
+msgstr "Fitxategi-tamaina"
+
+msgid "Resolution"
+msgstr "Ebazpena"
+
+msgid "Enlarge"
+msgstr "Ikus zabaltzea"
+
+msgid "Links"
+msgstr "Loturak"
+
+msgid "Original size"
+msgstr "Jatorrizko tamaina"
+
+msgid "For editor"
+msgstr "editorearentzat"
+
+msgid "Resize"
+msgstr "Tamaina aldatu"
+
+msgid "Width"
+msgstr "Zabalera"
+
+msgid "Height"
+msgstr "Altuera"
+
+msgid "Media URL"
+msgstr "Media URL"
+
+msgid "Add record"
+msgstr "Gehitu erregistroa"
+
+msgid "Show filter settings"
+msgstr "Show -iragazkiak"
+
+msgid "Edit record"
+msgstr "Editatu erregistroa"
+
+msgid "Delete record"
+msgstr "Ezabatu erregistroa"
+
+msgid "Delete checked records"
+msgstr "Ezabatu hautatuta erregistroak"
+
+msgid "Dashboard"
+msgstr "arbela"
+
+msgid "Password"
+msgstr "Pasahitza"
+
+msgid "Remember me"
+msgstr "Gogora nazazu"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Clean image cache"
+msgstr "Clean irudi katxeatu"
+
+msgid "Processing query..."
+msgstr "Prozesatzeko kontsulta ..."
+
+msgid "CMS Development"
+msgstr "CMS Garapena"
+
+msgid "Admin Home Page"
+msgstr "Admin Home Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Open Home Front-end of orria fitxa berri batean"
+
+msgid "Go to Site"
+msgstr "Joan gune"
+
+msgid "Log out"
+msgstr "Saioa amaitu"
+
+msgid "Send"
+msgstr "Bidali"
+
+msgid "General"
+msgstr "General"
+
+msgid "Title"
+msgstr "Izenburua"
+
+msgid "Teaser"
+msgstr "Teaser"
+
+msgid "Published"
+msgstr "Argitaratutako"
+
+msgid "Featured"
+msgstr "Nabarmenduak"
+
+msgid "Active"
+msgstr "Aktiboak"
+
+msgid "Field is mandatory"
+msgstr "Eremua derrigorrezkoa da"
+
+msgid "Sort Order"
+msgstr "Sort Order"
+
+msgid "Upload"
+msgstr "Igo"
+
+msgid "Loading..."
+msgstr "Kargatzen ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "Martxoa"
+
+msgid "Apr"
+msgstr "Apirila"
+
+msgid "May"
+msgstr "maiatza"
+
+msgid "Jun"
+msgstr "June"
+
+msgid "Jul"
+msgstr "Uztaila"
+
+msgid "Aug"
+msgstr "abuztua"
+
+msgid "Sep"
+msgstr "iraila"
+
+msgid "Oct"
+msgstr "Urria"
+
+msgid "Nov"
+msgstr "azaroa"
+
+msgid "Dec"
+msgstr "abendua"
+
+msgid "Product already exists in the order"
+msgstr "Produktuen dagoeneko ordena existitzen"
+
+msgid "Product does not exist"
+msgstr "Produktu ez da existitzen"
+
+msgid "Incorrect request"
+msgstr "okerra eskaera"
+
+msgid "Products"
+msgstr "Produktuak"
+
+msgid "Product types"
+msgstr "Produktu mota"
+
+msgid "Contractors"
+msgstr "Kontratisten"
+
+msgid "Contractor"
+msgstr "kontratatzailearen"
+
+msgid "Orders"
+msgstr "Eskariak"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "ordena berria"
+
+msgid "My orders"
+msgstr "Nire erosketak"
+
+msgid "Recharge balance"
+msgstr "Txanpon oreka"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Incorrect event ID"
+msgstr "Okerra gertaera ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Editatu kontratistak"
+
+msgid "Create contractor"
+msgstr "Sortu kontratistak"
+
+msgid "Edit question"
+msgstr "Editatu galdera"
+
+msgid "Create question"
+msgstr "Sortu question"
+
+msgid "Edit order"
+msgstr "Editatu ordena"
+
+msgid "Create order"
+msgstr "Sortu ordena"
+
+msgid "Edit product"
+msgstr "Editatu produktua"
+
+msgid "Create product"
+msgstr "Sortu produktua"
+
+msgid "Edit product type"
+msgstr "Editatu produktua mota"
+
+msgid "Create product type"
+msgstr "Sortu Produktu mota"
+
+msgid "You have received a file"
+msgstr "Fitxategi batean jaso duzu"
+
+msgid "You received a file from"
+msgstr "Fitxategi batean jaso duzu"
+
+msgid "File has been uploaded"
+msgstr "Fitxategirik kargatu"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "Gutxieneko kantitatea"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "elementuak"
+
+msgid "Remove"
+msgstr "Kendu"
+
+msgid "Contact person"
+msgstr "Harremanetarako pertsona"
+
+msgid "Email"
+msgstr "E-posta"
+
+msgid "Contractor phone"
+msgstr "Kontratatzailearen telefonoa"
+
+msgid "Contractor name"
+msgstr "Kontratatzailearen name"
+
+msgid "Contractor details"
+msgstr "Kontratatzailearen xehetasun"
+
+msgid "Order ID"
+msgstr "Ordena ID"
+
+msgid "Sum"
+msgstr "Sum"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Aukeratu egokiak ordainketa -sistemak zure oreka kargatzeko"
+
+msgid "Recharge amount"
+msgstr "Txanpon zenbatekoa"
+
+msgid "Paid"
+msgstr "pagado"
+
+msgid "Shipped"
+msgstr "datorrena"
+
+msgid "- No products in this order -"
+msgstr "- Ez dira produktu ordena honetan -"
+
+msgid "month"
+msgstr "Hilabete"
+
+msgid "No user found"
+msgstr "Ez da erabiltzailerik aurkitu"
+
+msgid "Achievement"
+msgstr "Lorpen"
+
+msgid "Confirmed accomplishments"
+msgstr "baieztatu lorpenak"
+
+msgid "Remove achievement"
+msgstr "Kendu lorpen"
+
+msgid "Headquaters"
+msgstr "bulego nagusietan"
+
+msgid "Phone"
+msgstr "Telefonoa"
+
+msgid "Site URL and email"
+msgstr "Gunearen URL eta e-posta"
+
+msgid "Remove address"
+msgstr "Kendu helbidea"
+
+msgid "Members"
+msgstr "Bazkideek"
+
+msgid "Requires a payment"
+msgstr "Ordainpekoa da"
+
+msgid "Shipping"
+msgstr "Bidalketa"
+
+msgid "Ready"
+msgstr "Bizi"
+
+msgid "Find user..."
+msgstr "Aurki erabiltzaile ..."
+
+msgid "Order it"
+msgstr "ordena"
+
+msgid "Find group..."
+msgstr "Aurki talde ..."
+
+msgid "Find user or community..."
+msgstr "Aurki erabiltzaile edo komunitate ..."
+
+msgid "No item found"
+msgstr "No elementu aurkitu"
+
+msgid "years"
+msgstr "urte"
+
+msgid "Send message"
+msgstr "Mezua bidali"
+
+msgid "Message"
+msgstr "Mezua"
+
+msgid "To send message press Enter"
+msgstr "Bidali Mezu sakatu Sartu"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Mezuaren sakatu KTRL bidaltzeko + Sartu"
+
+msgid "Processing file(s)..."
+msgstr "Prozesatzeko fitxategia (k ) ..."
+
+msgid "Group settings"
+msgstr "Taldearen ezarpenak"
+
+msgid "Create group"
+msgstr "Taldea sortu"
+
+msgid "Group has been successfully saved"
+msgstr "Taldeak ondo gorde"
+
+msgid "Group title"
+msgstr "Taldearen titulua"
+
+msgid "Group video"
+msgstr "Group video"
+
+msgid "Description"
+msgstr "Azalpenak"
+
+msgid "Your role in group"
+msgstr "Zure taldea rol"
+
+msgid "Role"
+msgstr "Role"
+
+msgid "Photo or video gallery"
+msgstr "Argazki edo bideo galeria"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Igo video"
+
+msgid "Add group address"
+msgstr "Gehitu taldearen helbidera"
+
+msgid "Group articles"
+msgstr "Group artikulu"
+
+msgid "No addresses yet"
+msgstr "Oraindik ez helbideak"
+
+msgid "Add group achievement"
+msgstr "Gehitu talde lorpen"
+
+msgid "No achivements yet"
+msgstr "Oraindik ez dago achivements"
+
+msgid "Are you sure to delete this user"
+msgstr "Ziur al zaude erabiltzaile hau ezabatu nahi duzula"
+
+msgid "Add member"
+msgstr "Gehitu kidea"
+
+msgid "Are you sure to delete this record?"
+msgstr "Ziur erregistro hau ezabatu nahi duzula?"
+
+msgid "Join this group"
+msgstr "Talde honekin bat egin"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Gonbidapena taldeko administratzaileak bidali zuten"
+
+msgid "All addresses"
+msgstr "helbide guztiak"
+
+msgid "Collapse"
+msgstr "Bildu"
+
+msgid "Achievements"
+msgstr "lorpenak"
+
+msgid "Show more"
+msgstr "Erakutsi gehiago"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "Projects"
+msgstr "Proiektuak"
+
+msgid "New project"
+msgstr "proiektu berria"
+
+msgid "Project has not been created yet"
+msgstr "Proiektua ez du oraindik sortu"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "Balance"
+
+msgid "Main page"
+msgstr "orri nagusia"
+
+msgid "Upload image"
+msgstr "Igo irudia"
+
+msgid "My time"
+msgstr "Nire denbora"
+
+msgid "Day"
+msgstr "Eguna"
+
+msgid "Week"
+msgstr "Astea"
+
+msgid "Project settings"
+msgstr "Proiektuaren ezarpenak"
+
+msgid "Create project"
+msgstr "Sortu proiektu"
+
+msgid "Project has been successfully saved"
+msgstr "Proiektua behar bezala gorde da"
+
+msgid "Project name"
+msgstr "Proiektuaren izena"
+
+msgid "Deadline"
+msgstr "Izena emateko azken eguna"
+
+msgid "Close"
+msgstr "Itxi"
+
+msgid "Manager"
+msgstr "Kudeatzaile"
+
+msgid "Assigned to"
+msgstr "emanak"
+
+msgid "Discussion"
+msgstr "Eztabaida"
+
+msgid "Task was created"
+msgstr "Sortu zen Task"
+
+msgid "Task was closed"
+msgstr "Task itxi da"
+
+msgid "Go to Group"
+msgstr "Group Joan"
+
+msgid "Closed"
+msgstr "itxita"
+
+msgid "Last updates"
+msgstr "Azken eguneraketak"
+
+msgid "Project is closed"
+msgstr "Project itxita dago"
+
+msgid "No open tasks"
+msgstr "No open zereginak"
+
+msgid "New task"
+msgstr "zeregin berria"
+
+msgid "Closed tasks"
+msgstr "itxita zereginak"
+
+msgid "Add subproject"
+msgstr "Gehitu subproject"
+
+msgid "Add task"
+msgstr "Gehitu zeregina"
+
+msgid "Sun"
+msgstr "Igandea"
+
+msgid "Mon"
+msgstr "Astelehena"
+
+msgid "Tue"
+msgstr "Asteartea"
+
+msgid "Wed"
+msgstr "Asteazkena"
+
+msgid "Thur"
+msgstr "Osteguna"
+
+msgid "Fri"
+msgstr "Ostirala"
+
+msgid "Sat"
+msgstr "larunbat"
+
+msgid "Event title"
+msgstr "Gertakariaren izenburua"
+
+msgid "Event description"
+msgstr "gertaeraren azalpena"
+
+msgid "I registered on this site"
+msgstr "Erregistratutako gune honetako I"
+
+msgid "Last created groups"
+msgstr "Azken sortutako talde"
+
+msgid "You joined this group as"
+msgstr "Talde honen fitxatu You gisa"
+
+msgid "You received a request to join the group"
+msgstr "Taldean sartzeko eskaera jaso duzu"
+
+msgid "Updated site"
+msgstr "eguneratua gune"
+
+msgid "Site is under construction"
+msgstr "Gune eraikitzen ari da"
+
+msgid "Last registered users"
+msgstr "Azken erregistratutako erabiltzaile"
+
+msgid "User settings"
+msgstr "Erabiltzaile ezarpenak"
+
+msgid "Technical support"
+msgstr "laguntza teknikoa"
+
+msgid "Change email"
+msgstr "Aldatu email"
+
+msgid "Change password"
+msgstr "Aldatu pasahitza"
+
+msgid "User has been successfully saved"
+msgstr "Erabiltzaile ongi gordetako"
+
+msgid "Full name"
+msgstr "izen osoa"
+
+msgid "My video"
+msgstr "Nire video"
+
+msgid "Skills"
+msgstr "Skills"
+
+msgid "Birthday"
+msgstr "Birthday"
+
+msgid "Country of residence"
+msgstr "Egoitza herrialdean"
+
+msgid "Country"
+msgstr "Herriko"
+
+msgid "Zip Code"
+msgstr "kodea"
+
+msgid "City/town of residence"
+msgstr "Hiria / Herria residencia"
+
+msgid "University/college"
+msgstr "Unibertsitate / colegio"
+
+msgid "University/college photo"
+msgstr "Unibertsitate / college argazki"
+
+msgid "Add user\'s accomplishments"
+msgstr "Gehitu erabiltzaile lorpenak"
+
+msgid "Interface language"
+msgstr "interface hizkuntza"
+
+msgid "How other people see this page"
+msgstr "Nola beste pertsona ikusi orri hau"
+
+msgid "Video with me"
+msgstr "Nirekin Video"
+
+msgid "Groups"
+msgstr "Taldeak"
+
+msgid "Registered today"
+msgstr "gaur erregistratuak"
+
+msgid "Qty"
+msgstr "Kopurua"
+
+msgid "No registered users yet"
+msgstr "Ez dago erregistratutako erabiltzaileek oraindik"
+
+msgid "Total"
+msgstr "Guztira"
+
+msgid "Registered total"
+msgstr "Izena eman du guztira"
+
+msgid "You received a file"
+msgstr "Fitxategia jaso duzu"
+
+msgid "You were invited into this room"
+msgstr "You gela honetara gonbidatu zituzten"
+
+msgid "Request is being processed"
+msgstr "Eskaera prozesatzen ari da"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Messenger"
+msgstr "Messenger"
+
+msgid "New subproject"
+msgstr "Azpiproiektu berria"
+
+msgid "messages written."
+msgstr "mezuak idatzita ."
+
+msgid "projects created based on groups."
+msgstr "proiektuen sortutako talde oinarritzen da."
+
+msgid "users registered on website."
+msgstr "erabiltzaile webgunean izena emanda ."
+
+msgid "New email"
+msgstr "Mezu elektroniko berria"
+
+msgid "Confirm email"
+msgstr "Berretsi e-posta"
+
+msgid "New password"
+msgstr "Pasahitz berria"
+
+msgid "Confirm password"
+msgstr "Berretsi pasahitza"
+
+msgid "Occupation"
+msgstr "Berezitasuna"
+
+msgid "Timezone"
+msgstr "timezone"
+
+msgid "Answer"
+msgstr "Erantzuna"
+
+msgid "Articles"
+msgstr "Artikuluak"
+
+msgid "Article"
+msgstr "artikulua"
+
+msgid "Video-article"
+msgstr "Video - artikulu"
+
+msgid "Find article..."
+msgstr "Aurki artikulu ..."
+
+msgid "Politics"
+msgstr "Politika"
+
+msgid "Economics"
+msgstr "Ekonomian"
+
+msgid "Community"
+msgstr "Erkidegoa"
+
+msgid "Culture"
+msgstr "Kultura"
+
+msgid "Sports"
+msgstr "Kirolak"
+
+msgid "Hi-tech"
+msgstr "Hi - tech"
+
+msgid "Cars"
+msgstr "autoak"
+
+msgid "Fashion"
+msgstr "Fashion"
+
+msgid "Games"
+msgstr "Jokoak"
+
+msgid "Other"
+msgstr "beste"
+
+msgid "Invalid mediafile"
+msgstr "mediafile baliogabea"
+
+msgid "No articles in this category yet"
+msgstr "Kategoria honetan , oraindik ez dago artikulu"
+
+msgid "Back to profile"
+msgstr "Itzuli ikusi"
+
+msgid "View article"
+msgstr "Ikusi artikulu"
+
+msgid "Edit article"
+msgstr "Editatu artikulu"
+
+msgid "Create article"
+msgstr "Sortu artikulu"
+
+msgid "Article title"
+msgstr "izenburua artikulua"
+
+msgid "Article section"
+msgstr "artikuluan atala"
+
+msgid "Choose image"
+msgstr "aukeratu irudia"
+
+msgid "Save and upload"
+msgstr "Gorde eta igo"
+
+msgid "Show more..."
+msgstr "Erakutsi gehiago ..."
+
+msgid "Create"
+msgstr "Skep"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Project"
+msgstr "Proiektua"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "A new article was published"
+msgstr "Artikulu berri bat argitaratu zen"
+
+msgid "You joined this project"
+msgstr "Proiektu honetan sartu zara"
+
+msgid "Enter your information in the User settings"
+msgstr "Sartu zure informazio Erabiltzaile ezarpenetan"
+
+msgid "Communities"
+msgstr "Erkidegoen"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Bideoa nire lorpenak aurkezpena"
+
+msgid "My articles"
+msgstr "Nire artikulu"
+
+msgid "User"
+msgstr "Erabiltzaileak"
+
+msgid "Users"
+msgstr "Erabiltzaileak"
+
+msgid "Add new list"
+msgstr "Gehitu zerrenda berria"
+
+msgid "List title"
+msgstr "titulu"
+
+msgid "Add"
+msgstr "Gehitu"
+
+msgid "Add to favorites"
+msgstr "Gogokoetan gehitu"
+
+msgid "Delete from favorites"
+msgstr "Ezabatu Gogokoetatik"
+
+msgid "Select list"
+msgstr "aukeratu zerrenda"
+
+msgid "Subscriptions"
+msgstr "Harpidetzak"
+
+msgid "Subscribe"
+msgstr "Harpidetu"
+
+msgid "Unsubscribe"
+msgstr "Kendu harpidetza"
+
+msgid "General list"
+msgstr "zerrenda General"
+
+msgid "No users in this list"
+msgstr "Ez dago erabiltzaileen zerrenda honetan"
+
+msgid "Publish"
+msgstr "Argitaratu"
+
+msgid "Unpublish"
+msgstr "Argitaratu gabeko"
+
+msgid "Add user"
+msgstr "Gehitu erabiltzaile"
+
+msgid "Create document"
+msgstr "Sortu dokumentu"
+
+msgid "Edit document"
+msgstr "dokumentuaren"
+
+msgid "View"
+msgstr "Ikusi"
+
+msgid "Document title"
+msgstr "Dokumentuaren izenburu"
+
+msgid "Find document..."
+msgstr "Aurkitu dokumentu ..."
+
+msgid "Share your thoughts"
+msgstr "Partekatu zure pentsamenduak"
+
+msgid "Leave your comment"
+msgstr "Utzi zure iruzkina"
+
+msgid "Accept"
+msgstr "onartu"
+
+msgid "Decline"
+msgstr "Ukatu"
+
+msgid "Add article"
+msgstr "Gehitu artikulu"
+
+msgid "Link to verified accomplishments"
+msgstr "Egiaztatu lorpenak batera esteka"
+
+msgid "No articles here yet..."
+msgstr "Hemen ez oraindik artikulu ..."
+
+msgid "Find file or folder..."
+msgstr "Aurki fitxategia edo karpeta ..."
+
+msgid "Sort"
+msgstr "Sailkatu"
+
+msgid "By name"
+msgstr "izenez"
+
+msgid "By date"
+msgstr "dataren arabera"
+
+msgid "By updated date"
+msgstr "Data eguneratzen arabera"
+
+msgid "By size"
+msgstr "tamainaren arabera"
+
+msgid "By type"
+msgstr "motaren arabera"
+
+msgid "Move"
+msgstr "Mugi zaitez"
+
+msgid "File Manager"
+msgstr "Fitxategi-kudeatzailea"
+
+msgid "Share link"
+msgstr "Share link"
+
+msgid "Responsible"
+msgstr "Arduratsuak"
+
+msgid "Performer"
+msgstr "performer"
+
+msgid "New Folder"
+msgstr "karpeta berria"
+
+msgid "Folder name"
+msgstr "karpetaren izena"
+
+msgid "By default"
+msgstr "Lehenetsiz"
+
+msgid "Back to group"
+msgstr "Talde atzera"
+
+msgid "year(s)"
+msgstr "urtea (k)"
+
+msgid "January"
+msgstr "Urtarrila"
+
+msgid "February"
+msgstr "Otsaila"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "Apirila"
+
+msgid "May"
+msgstr "Maiatza"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "uztailean"
+
+msgid "August"
+msgstr "abuztua"
+
+msgid "September"
+msgstr "iraila"
+
+msgid "October"
+msgstr "Urria"
+
+msgid "November"
+msgstr "azaroa"
+
+msgid "December"
+msgstr "abendua"
+
+msgid "Password Reminder"
+msgstr "pasahitza gogoan"
+
+msgid "Log In"
+msgstr "izena eman eman"
+
+msgid "Sign in"
+msgstr "hasi saioa"
+
+msgid "Register"
+msgstr "Izena eman"
+
+msgid "First name"
+msgstr "Izena"
+
+msgid "Last name"
+msgstr "Abizena"
+
+msgid "I agree with rules"
+msgstr "Ados arauekin dut"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Berrespena mail bat zure helbide elektronikora bidaliko da."
+
+msgid "Thanks"
+msgstr "eskerrik asko"
+
+msgid "Password must be at least 6 characters"
+msgstr "Pasahitza gutxienez 6 karaktere izan behar du"
+
+msgid "Creative Environment"
+msgstr "Creative Ingurumena"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Gutxienez hamahiru zerbitzu hau erabili ahal izateko urte izan behar dituzu"
+
+msgid "Order status"
+msgstr "Eskaera"
+
+msgid "Processing order"
+msgstr "Prozesatzeko ordena"
+
+msgid "Requires a payment"
+msgstr "Ordainpekoa da"
+
+msgid "Shipping"
+msgstr "Bidalketa"
+
+msgid "Ready"
+msgstr "Bizi"
+
+msgid "Thank you for your payment"
+msgstr "Eskerrik asko zure ordainketa egiteko"
+
+msgid "Your payment has been cancelled"
+msgstr "Zure ordainketa bertan behera utzi da"
+
+msgid "page"
+msgstr "orria"
+
+msgid "Rent period"
+msgstr "Alokatzea aldian"
+
+msgid "Total, month"
+msgstr "Guztira, hilaren"
+
+msgid "Order items"
+msgstr "Ordena elementuak"
+
+msgid "No records found"
+msgstr "Ez daude erregistroak"
+
+msgid "User with this email is already exist"
+msgstr "Erabiltzaile email honekin dago jada existitzen"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Hala nola, izen karpeta edo fitxategi helburu karpetan dagoeneko existitzen da"
+
+msgid "Minimal quantity"
+msgstr "minimal kantitatea"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "inprimatu kopiak"
+
+msgid "Terms of Use"
+msgstr "Erabilera-baldintzak"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "Find project..."
+msgstr "Aurki proiektua ..."
+
+msgid "New Project"
+msgstr "Proiektu berria"
+
+msgid "Accounts"
+msgstr "kontuak"
+
+msgid "Operations"
+msgstr "Operazioak"
+
+msgid "All accounts"
+msgstr "kontu guztien"
+
+msgid "All categories"
+msgstr "Kategoria guztiak"
+
+msgid "Expense"
+msgstr "gastu"
+
+msgid "Income"
+msgstr "Errenta"
+
+msgid "Transfer"
+msgstr "Transfer"
+
+msgid "Expense"
+msgstr "gastu"
+
+msgid "income"
+msgstr "errenta"
+
+msgid "tax"
+msgstr "zerga"
+
+msgid "percent"
+msgstr "ehuneko"
+
+msgid "transfer"
+msgstr "transferentzia"
+
+msgid "Make operation"
+msgstr "egin eragiketa"
+
+msgid "Select date"
+msgstr "aukeratu data"
+
+msgid "Select account"
+msgstr "aukeratu kontu"
+
+msgid "Month"
+msgstr "hilabetea"
+
+msgid "Quarter"
+msgstr "Quarter"
+
+msgid "Year"
+msgstr "Urtea"
+
+msgid "From"
+msgstr "aurrera"
+
+msgid "To"
+msgstr "to"
+
+msgid "Expense amount"
+msgstr "gastu zenbatekoa"
+
+msgid "Categories"
+msgstr "Kategoriak"
+
+msgid "Comments"
+msgstr "Komentarioak"
+
+msgid "Income amount"
+msgstr "Errenta zenbatekoa"
+
+msgid "Transfer amount"
+msgstr "Transfer zenbatekoa"
+
+msgid "From account"
+msgstr "kontutik"
+
+msgid "To account"
+msgstr "to kontua"
+
+msgid "New Account"
+msgstr "Kontu berria"
+
+msgid "New Category"
+msgstr "Kategoria berria"
+
+msgid "All"
+msgstr "guztiak"
+
+msgid "Name"
+msgstr "izena"
+
+msgid "Enter category name"
+msgstr "Idatzi kategoriaren izena"
+
+msgid "Select type"
+msgstr "aukeratu mota"
+
+msgid "Credit card"
+msgstr "Kreditu txartela"
+
+msgid "Debit card"
+msgstr "zor txartela"
+
+msgid "Bank account"
+msgstr "Banku -kontu"
+
+msgid "Cash"
+msgstr "cash"
+
+msgid "Balance is empty"
+msgstr "Balance hutsik dago"
+
+msgid "Statistic is empty"
+msgstr "Estatistika hutsik dago"
+
+msgid "Regular payments"
+msgstr "ordainketak erregularra"
+
+msgid "Are you sure ?"
+msgstr "Zihur zaude ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Ziur proiektu hau itxi nahi duzula ?"
+
+msgid "Project was deleted successfully"
+msgstr "Proiektua behar bezala ezabatu zen"
+
+msgid "Select currency"
+msgstr "aukeratu moneta"
+
+msgid "Account"
+msgstr "Kontu-"
+
+msgid "Orders list"
+msgstr "Eskariak zerrenda"
+
+msgid "Order payments"
+msgstr "ordainketak"
+
+msgid "View order"
+msgstr "Ikusi ordena"
+
+msgid "No response from Printer API"
+msgstr "Ez da erantzun Printer API -tik"
+
+msgid "Bad response from Printer API"
+msgstr "Printer API erantzun Bad"
+
+msgid "User ID"
+msgstr "Erabiltzaile ID"
+
+msgid "Contact Person"
+msgstr "Harremanetarako pertsona"
+
+msgid "No orders to process"
+msgstr "Prozesatu dago eskaririk"
+
+msgid "Article announce image"
+msgstr "Artikulua iragartzeko irudia"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Bideo URL baliogabea . Utzi hutsik edo txertatu baliozko youtube URL"
+
+msgid "Please, enter Contractor data"
+msgstr "Mesedez , sartu Kontratatzailearen datuak"
+
+msgid "Distribute devices"
+msgstr "banatu gailuak"
+
+msgid "Quantity"
+msgstr "Kopurua"
+
+msgid "Devices left"
+msgstr "gailuek geratzen"
+
+msgid "Distributed devices"
+msgstr "Banatutako gailuak"
+
+msgid "You must enter quantity"
+msgstr "Kantitatea idatzi behar dituzu"
+
+msgid "All devices are distributed"
+msgstr "Gailu guztiak banatuko dira"
+
+msgid "IP address"
+msgstr "IP helbidea"
+
+msgid "Only for printer"
+msgstr "Printer soilik"
+
+msgid "Counter"
+msgstr "Bataz"
+
+msgid "You was excluded from this room"
+msgstr "Gela honetan baztertutako duzu"
+
+msgid "Compare"
+msgstr "konparatu"
+
+msgid "Scheduled transaction"
+msgstr "programatutako transakzio"
+
+msgid "Select transfer account"
+msgstr "Aukeratu transferentzia kontuarekin"
+
+msgid "Select income account"
+msgstr "Aukeratu errenta kontuarekin"
+
+msgid "Reports"
+msgstr "Txostenak"
+
+msgid "Goals"
+msgstr "Helburuak"
+
+msgid "Budgets"
+msgstr "Aurrekontuak"
+
+msgid "Enter user name or email..."
+msgstr "Sartu erabiltzaile-izena edo e-posta ..."
+
+msgid "Invite had been sended"
+msgstr "Gonbidatu izan dira Bidalitako"
+
+msgid "Statistics"
+msgstr "Estatistikak"
+
+msgid "Updated site began to work"
+msgstr "Eguneraketa Gune hasi zen lan"
+
+msgid "City of residence"
+msgstr "Herria"
+
+msgid "Edit favourites list"
+msgstr "Editatu gogokoen zerrendan"
+
+msgid "Add favourites list"
+msgstr "Gehitu gogokoen zerrendan"
+
+msgid "Categories is required"
+msgstr "Kategoriak derrigorrezkoa da"
+
+msgid "Type new category name and hit Enter"
+msgstr "Idatzi kategoria izen berria eta sakatu Sartu"
+
+msgid "You created an order"
+msgstr "Ordena bat sortu"
+
+msgid "You received a device due to this order"
+msgstr "Gailu bat jaso duzu dela ordena honetan"
+
+msgid "%s attached %s to task %s"
+msgstr "%s %s atxikitako zeregin %s"
+
+msgid "member(s)"
+msgstr "bazkide ( s )"
+
+msgid "%s commented task %s"
+msgstr "%s %s iruzkindu zeregina"
+
+msgid "%s closed task %s"
+msgstr "%s %s zeregina itxia"
+
+msgid "%s created task %s"
+msgstr "%s %s sortu zeregin"
+
+msgid "%s created this project"
+msgstr "%s Proiektu hau sortu"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s \" %s \" sortu subproject"
+
+msgid "%s closed project \"%s\""
+msgstr "%s itxia \" %s \" proiektua"
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s itxia \" %s \" subproject"
+
+msgid "This field must not be blank"
+msgstr "Eremu hau ezin da hutsik"
+
+msgid "Document with such name is already exist"
+msgstr "Dokumentu adibidez, izena da dagoeneko existitzen"
+
+msgid "Wait until image upload"
+msgstr "Itxaron irudiak kargatzeko arte"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Message can not be empty"
+msgstr "Mezua ezin da hutsik egon"
+
+msgid "Yes"
+msgstr "Bai"
+
+msgid "No"
+msgstr "ez dago"
+
+msgid "Created"
+msgstr "sortu"
+
+msgid "Compare is empty"
+msgstr "Alderatu hutsik dago"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Ziur zaude eragiketa ezabatu nahi dituzula"
+
+msgid "Do you really want to delete transaction"
+msgstr "Benetan transakzio ezabatu nahi dituzula"
+
+msgid "Project with same name already exists"
+msgstr "Izen bereko proiektua lehendik dago"
+
+msgid "Account is not found"
+msgstr "Kontua ez da aurkitu"
+
+msgid "Currency is required"
+msgstr "Moneta derrigorrezkoa da"
+
+msgid "error while deleting document"
+msgstr "error da dokumentu ezabatzea"
+
+msgid "Expences"
+msgstr "gastuen"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Gela honetan \" %s \" erabiltzailea gonbidatu zaitu"
+
+msgid "User \"%s\" joined this room"
+msgstr "\"% S \" gela honetan sartu"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "\" % S \" erabiltzailea baztertuen gela honetatik duzu"
+
+msgid "User \"%s\" left this room"
+msgstr "\" % S \" erabiltzailearen gela hau utzi"
+
+msgid "Add account"
+msgstr "Gehitu kontuarekin"
+
+msgid "The requested page is not found"
+msgstr "Eskatutako orrialdea ez da aurkitu"
+
+msgid "Document"
+msgstr "dokumentu"
+
+msgid "Table"
+msgstr "Table"
+
+msgid "file(s)"
+msgstr "fitxategia ( k)"
+
+msgid "Residue"
+msgstr "hondakina"
+
+msgid "Result is empty"
+msgstr "Emaitza hutsik dago"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Zenbateko osoa %s da %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "% S hileko uzteko erlazionatutako kontua izan behar duzu"
+
+msgid "Start"
+msgstr "start"
+
+msgid "finish"
+msgstr "akabera"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Aukeratutako kontua jadanik erabilia da helburua beste bat"
+
+msgid "Amount required"
+msgstr "Kopuru beharrezkoak"
+
+msgid "New goal"
+msgstr "helburua berria"
+
+msgid "Goal"
+msgstr "helburua"
+
+msgid "Goal name"
+msgstr "helburua name"
+
+msgid "Invalid date"
+msgstr "data baliogabea"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Beharrezkoa batura zenbaki positiboa izan behar du"
+
+msgid "Remain"
+msgstr "jarraituko dute"
+
+msgid "Last day"
+msgstr "Azken eguna"
+
+msgid "Accumulated"
+msgstr "metatutako"
+
+msgid "Put aside"
+msgstr "jarri alde batera"
+
+msgid "January"
+msgstr "Urtarrila"
+
+msgid "February"
+msgstr "Otsaila"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "Apirila"
+
+msgid "May"
+msgstr "Maiatza"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "uztailean"
+
+msgid "August"
+msgstr "abuztua"
+
+msgid "September"
+msgstr "iraila"
+
+msgid "October"
+msgstr "Urria"
+
+msgid "November"
+msgstr "azaroa"
+
+msgid "December"
+msgstr "abendua"
+
+msgid "Expenses projected/actual"
+msgstr "Gastuak proiektatzen / benetako"
+
+msgid "Net Income projected/actual"
+msgstr "Proiektatzen / Benetako Errenta garbia"
+
+msgid "New budget"
+msgstr "aurrekontu berria"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Diru-sarrerak eta gastuak Chart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Kontu pare bera eta kategoria batera Aurrekontu lehendik dago"
+
+msgid "Budget is empty"
+msgstr "Aurrekontu hutsik dago"
+
+msgid "Budget"
+msgstr "Aurrekontua"
+
+msgid "plan"
+msgstr "plan"
+
+msgid "fact"
+msgstr "Izan ere,"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "Erakutsi gehiago"
+
+msgid "Cancel"
+msgstr "Utzi"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "Nire salmenten"
+
+msgid "Time spent"
+msgstr "denbora igaro"
+
+msgid "Total time spent"
+msgstr "Denbora Guztira igarotako"
+
+msgid "Earnings per hour"
+msgstr "Orduko irabaziak"
+
+msgid "Total earnings"
+msgstr "Guztira irabaziak"
+
+msgid "Call"
+msgstr "Deia"
+
+msgid "Phone call"
+msgstr "Telefono dei"
+
+msgid "Telephone calls"
+msgstr "Telefono deiak"
+
+msgid "Send email"
+msgstr "Bidali email"
+
+msgid "Emails"
+msgstr "postak"
+
+msgid "Meeting"
+msgstr "Topaketa"
+
+msgid "Meetings"
+msgstr "Topaketak"
+
+msgid "All events"
+msgstr "Ekitaldi guztiak"
+
+msgid "Task"
+msgstr "Zeregin"
+
+msgid "Event"
+msgstr "gertaera"
+
+msgid "Events"
+msgstr "Ekitaldiak"
+
+msgid "Time"
+msgstr "Ordua"
+
+msgid "Events statistics"
+msgstr "Ekitaldi estatistika"
+
+msgid "days"
+msgstr "egun"
+
+msgid "hours"
+msgstr "ordu"
+
+msgid "minutes"
+msgstr "minutu"
+
+msgid "Income & expense"
+msgstr "Errenta eta gastu"
+
+msgid "Show chart"
+msgstr "Erakutsi taula"
+
+msgid "Hide chart"
+msgstr "ezkutatu taula"
+
+msgid "Add event"
+msgstr "Gehitu gertaera"
+
+msgid "Add financial data"
+msgstr "Gehitu finantza-datuak"
+
+msgid "Select contractor"
+msgstr "aukeratu kontratistak"
+
+msgid "Net Income"
+msgstr "Irabazi garbia"
+
+msgid "Revenue"
+msgstr "Diru-bilketa"
+
+msgid "Taxes"
+msgstr "zergak"
+
+msgid "Amount planned"
+msgstr "Kopuru aurreikusita"
+
+msgid "Amount"
+msgstr "Zenbateko"
+
+msgid "Period"
+msgstr "Epea"
+
+msgid "Are you sure to close this task?"
+msgstr "Ziur Zeregin hori itxi nahi duzula ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "talde guztiak"
+
+msgid "added from task"
+msgstr "Zeregin gehitutakoa"
+
+msgid "Monthly repeat"
+msgstr "Astea errepikatu"
+
+msgid "Select category"
+msgstr "kategoria aukeratu"
+
+msgid "Event type"
+msgstr "Ekitaldi mota"
+
+msgid "Margin"
+msgstr "Margin"
+
+msgid "Use finance project"
+msgstr "Erabili finantzaketa proiektua"
+
+msgid "New investment project"
+msgstr "Inbertsio proiektu berria"
+
+msgid "Investment project settings"
+msgstr "Inbertsio proiektuaren ezarpenak"
+
+msgid "Picture, for the announcement project"
+msgstr "Irudia, iragarkiaren proiekturako"
+
+msgid "Announcement project"
+msgstr "iragarkiaren proiektua"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Photos or videos gallery"
+msgstr "Argazkiak edo bideoak galeria"
+
+msgid "required amount"
+msgstr "eskatutako zenbatekoa"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Proiektuaren iraupena ( 60 egun gehienez )"
+
+msgid "Project duration"
+msgstr "Proiektuaren iraupena"
+
+msgid "Add reward"
+msgstr "Gehitu saririk"
+
+msgid "Delivery date"
+msgstr "entregatzeko epea"
+
+msgid "Payment systems"
+msgstr "Ordainketa Sistemak"
+
+msgid "Terms of service"
+msgstr "Zerbitzu-baldintzak"
+
+msgid "Agreement"
+msgstr "Hitzarmena"
+
+msgid "Payment"
+msgstr "Ordainketa"
+
+msgid "My projects"
+msgstr "Nire proiektuak"
+
+msgid "Search result"
+msgstr "Bilaketaren emaitza"
+
+msgid "Nothing not found"
+msgstr "Ezer ez da aurkitu"
+
+msgid "The project has no sponsors"
+msgstr "Proiektua babesleek ez"
+
+msgid "Design"
+msgstr "Diseinua"
+
+msgid "Food"
+msgstr "Elikadura"
+
+msgid "Journalism"
+msgstr "Kazetaritza"
+
+msgid "Games"
+msgstr "Jokoak"
+
+msgid "Art"
+msgstr "Art"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "musika"
+
+msgid "Handicrafts"
+msgstr "Eskulanak"
+
+msgid "Publishing"
+msgstr "Argitaletxe"
+
+msgid "Theater"
+msgstr "Antzerkia"
+
+msgid "Technology"
+msgstr "Teknologia"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "argazki"
+
+msgid "Dance"
+msgstr "Dantza"
+
+msgid "Invalid youtube video"
+msgstr "Youtube video baliogabea"
+
+msgid "is required"
+msgstr "beharrezkoa da"
+
+msgid "User"
+msgstr "Erabiltzaileak"
+
+msgid "Date"
+msgstr "data"
+
+msgid "Collected"
+msgstr "bildutako"
+
+msgid "Choose period"
+msgstr "aukeratu aldian"
+
+msgid "Choose region"
+msgstr "aukeratu eskualdea"
+
+msgid "Country"
+msgstr "Herriko"
+
+msgid "Today"
+msgstr "Gaur"
+
+msgid "Week"
+msgstr "Astea"
+
+msgid "Month"
+msgstr "hilabetea"
+
+msgid "Year"
+msgstr "Urtea"
+
+msgid "Free registration"
+msgstr "Izen-ematea doan"
+
+msgid "Join"
+msgstr "Parte hartu"
+
+msgid "Log in using"
+msgstr "Sartu erabiliz"
+
+msgid "Vacancies"
+msgstr "Lan-poltsa"
+
+msgid "About Us"
+msgstr "Guri buruz"
+
+msgid "You will need email to log in"
+msgstr "Saioa hasteko email beharko duzu"
+
+msgid "A combination of 6 digits and characters"
+msgstr "6 digitu eta konbinazio A"
+
+msgid "Search users, groups, articles..."
+msgstr "Bilaketa erabiltzaile , talde , artikuluak ..."
+
+msgid "Cloud"
+msgstr "Cloud"
+
+msgid "Sunday"
+msgstr "Igandea"
+
+msgid "Monday"
+msgstr "Astelehena"
+
+msgid "Tuesday"
+msgstr "Asteartea"
+
+msgid "Wednesday"
+msgstr "Asteazkena"
+
+msgid "Thursday"
+msgstr "Osteguna"
+
+msgid "Friday"
+msgstr "Ostirala"
+
+msgid "Saturday"
+msgstr "larunbat"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Create group"
+msgstr "Taldea sortu"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Ziur al zaude orri hau utzi nahi duzula ?"
+
+msgid "More"
+msgstr "gehiago"
+
+msgid "Less"
+msgstr "gutxiago"
+
+msgid "Pending"
+msgstr "pendiente"
+
+msgid "Approved"
+msgstr "onartutakoa"
+
+msgid "Rejected"
+msgstr "Baztertuta"
+
+msgid "Subprojects"
+msgstr "azpiproiektuak"
+
+msgid "Group edit"
+msgstr "Taldea editatu"
+
+msgid "Startup"
+msgstr "Hasi"
+
+msgid "Tattoo"
+msgstr "Tattoo"
+
+msgid "Health"
+msgstr "Osasun"
+
+msgid "Weapon"
+msgstr "arma"
+
+msgid "Astronomy"
+msgstr "Astronomia"
+
+msgid "All articles"
+msgstr "artikulu guztiak"
+
+msgid "Article editor"
+msgstr "editore artikuluan"
+
+msgid "Document editor"
+msgstr "dokumentu editore"
+
+msgid "Apply changes"
+msgstr "aldaketak ezarri"
+
+msgid "Save changes?"
+msgstr "Aldaketak gorde?"
+
+msgid "published an article"
+msgstr "artikulu bat argitaratu"
+
+msgid "Users"
+msgstr "Erabiltzaileak"
+
+msgid "Shared With Me"
+msgstr "Nirekin partekatutako"
+
+msgid "share"
+msgstr "share"
+
+msgid "Select Group Responsible"
+msgstr "Aukeratu Taldea Arduratsuaren"
+
+msgid "Create folder"
+msgstr "Sortu karpeta"
+
+msgid "Title must be at least 3 characters"
+msgstr "Izenburua gutxienez 3 karaktere izan behar ditu"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Free 10 GB , finantza zuzendaria, inbertitzeko modulua , eta doan eta betiko , beste hainbat"
+
+msgid "Best regards"
+msgstr "Agur bero bat"
+
+msgid "Updates in last 12 hours:"
+msgstr "Azken 12 orduetan media:"
+
+msgid "expense"
+msgstr "gastu"
+
+msgid "Commentary on the event:"
+msgstr "Comentario Ekitaldiaren :"
+
+msgid "Event place"
+msgstr "gertaera lekua"
+
+msgid "Project was updated"
+msgstr "Project eguneratu da"
+
+msgid "Project was created"
+msgstr "Proiektua sortu zen"
+
+msgid "Project was closed"
+msgstr "Proiektua itxi da"
+
+msgid "account"
+msgstr "kontua"
+
+msgid "removed task"
+msgstr "kendu zeregin"
+
+msgid "removed subproject"
+msgstr "kendu subproject"
+
+msgid "Title can not be empty"
+msgstr "Izenburua ezin da hutsik egon"
+
+msgid "Do not select the type of event"
+msgstr "Ez gertaera mota hautatu"
+
+msgid "Error while saving comment"
+msgstr "Errorea iruzkin aurreztea"
+
+msgid "Save error: access denied"
+msgstr "Save the error : sarrera ukatu"
+
+msgid "Remains"
+msgstr "aztarnak"
+
+msgid "Time spent, h."
+msgstr "Denbora igaro , h ."
+
+msgid "Emails"
+msgstr "postak"
+
+msgid "Meetings"
+msgstr "Topaketak"
+
+msgid "All users"
+msgstr "erabiltzaile guztiak"
+
+msgid "Category"
+msgstr "Kategoria"
+
+msgid "Finance project"
+msgstr "Finantza proiektua"
+
+msgid "Investment project"
+msgstr "Inbertsio proiektu"
+
+msgid "Nature"
+msgstr "Natura"
+
+msgid "Data is empty"
+msgstr "Datu hutsik dago"
+
+msgid "Visitors"
+msgstr "Bisitariak"
+
+msgid "My profile"
+msgstr "Nire Profil"
+
+msgid "Sponsors"
+msgstr "Babesle"
+
+msgid "Prior to completion"
+msgstr "Aurretik amaitzean"
+
+msgid "Select"
+msgstr "Aukeratu"
+
+msgid "My groups"
+msgstr "Nire talde"
+
+msgid "The invitation has been sent successfully"
+msgstr "Gonbidapena bidali da"
+
+msgid "Username has already been invited to this project"
+msgstr "Erabiltzaile izena jadanik proiektu honetan parte hartzera gonbidatu"
+
+msgid "The user is the creator of the project"
+msgstr "Erabiltzaileak proiektuaren sortzailea da"
+
+msgid "Provide full access"
+msgstr "Sarbide osoa ematen"
+
+msgid "Select elements to provide access"
+msgstr "Aukeratu elementu sarbidea emateko"
+
+msgid "Select all"
+msgstr "Hautatu guztiak"
+
+msgid "User E-mail"
+msgstr "Erabiltzaile E - mail"
+
+msgid "Click on the field to select a category"
+msgstr "Egin klik eremuan, kategoria bat hautatzeko"
+
+msgid "Invitation was deleted"
+msgstr "Gonbit ezabatu da"
+
+msgid "Permission denied"
+msgstr "baimen ukatua"
+
+msgid "Printed"
+msgstr "inprimatutako"
+
+msgid "Incorrect Contractor email"
+msgstr "Kontratatzailearen email Incorrecto"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Ez proiektu gehitzeko manager finantzatzeko nahi duzu?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Izena emateko prozesua burutzeko bete behera zure trebetasunak"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Argibide gehiago mail bat zure helbide elektronikora bidali zen"
+
+msgid "Submit"
+msgstr "Bidali"
+
+msgid "Cars"
+msgstr "autoak"
+
+msgid "Science"
+msgstr "Zientzia"
+
+msgid "Donation"
+msgstr "dohaintza"
+
+msgid "Interests"
+msgstr "Interesa"
+
+msgid "Driver"
+msgstr "driver"
+
+msgid "Sportsman"
+msgstr "kirolari"
+
+msgid "Businessman"
+msgstr "enpresaburua"
+
+msgid "Accountant"
+msgstr "kontulari"
+
+msgid "Engineer"
+msgstr "Ingeniari"
+
+msgid "Soldier"
+msgstr "Soldado"
+
+msgid "Next"
+msgstr "hurrengo"
+
+msgid "Hide group"
+msgstr "ezkutatu grupo"
+
+msgid "groups created"
+msgstr "sortutako talde"
+
+msgid "articles written"
+msgstr "artikulu idatzi"
+
+msgid "These groups may be interesting for you"
+msgstr "Talde hauek zuretzat interesgarri izan daitezkeen"
+
+msgid "About Group"
+msgstr "Group buruz"
+
+msgid "view(s)"
+msgstr "Ikuspegi (k )"
+
+msgid "Favorite users"
+msgstr "gogokoenak erabiltzaile"
+
+msgid "No accounts"
+msgstr "No kontuak"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook Huts egin du baimenak ."
+
+msgid "Authorization Required"
+msgstr "Baimena behar da"
+
+msgid "You have to make a call:"
+msgstr "Dei bat egiteko aukera izango duzu :"
+
+msgid "You have to send an email:"
+msgstr "Mezu elektroniko bat bidali behar duzu :"
+
+msgid "You have a meetup:"
+msgstr "Euren bat daukazu :"
+
+msgid "You event :"
+msgstr "You Ekitaldia :"
+
+msgid "Participants:"
+msgstr "Parte-hartzaileak :"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "News"
+msgstr "Berriak"
+
+msgid "Investments"
+msgstr "Inbertsioak"
+
+msgid "Back to Cloud"
+msgstr "Cloud to Back"
+
+msgid "Documents"
+msgstr "Dokumentuak"
+
+msgid "Planet"
+msgstr "Planet"
+
+msgid "Group url"
+msgstr "Group URL"
+
+msgid "Profile url"
+msgstr "Profile URL"
+
+msgid "Already taken"
+msgstr "Hartuta"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Gutxienez 1 gutun eta 3 karakteretan luzera beharrezko"
+
+msgid "Digit can not be the first character"
+msgstr "Digit ezin lehenengo pertsonaia izan"
+
+msgid "Enter valid email address"
+msgstr "Sartu baliozko helbide elektronikoa"
+
+msgid "Enter your skills"
+msgstr "Sartu zure trebetasunak"
+
+msgid "Enter your first name"
+msgstr "Sartu zure izena"
+
+msgid "Enter your last name"
+msgstr "Sartu zure deitura"
+
+msgid "Enter your first name and last name"
+msgstr "Sartu zure lehenengo abizena eta izena"
+
+msgid "Your first name?"
+msgstr "? Zure izena"
+
+msgid "Your last name?"
+msgstr "Zure abizena ?"
+
+msgid "What are your proficiencies?"
+msgstr "Zeintzuk dira zure gaitasun ?"
+
+msgid "Select country"
+msgstr "aukeratu herrialde"
+
+msgid "Select user"
+msgstr "aukeratu erabiltzaile"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Betetzeko zure ametsa ! Sortu eta laguntzea ."
+
+msgid "date moved from"
+msgstr "datatik mugitu"
+
+msgid "work"
+msgstr "lan"
+
+msgid "Conference"
+msgstr "Biltzarra"
+
+msgid "personal"
+msgstr "pertsonala"
+
+msgid "Holiday"
+msgstr "Holiday"
+
+msgid "Past"
+msgstr "Past"
+
+msgid "Future"
+msgstr "Etorkizuna"
+
+msgid "Purchase"
+msgstr "Erosteko"
+
+msgid "Personal events"
+msgstr "Gertakari Pribatua"
+
+msgid "Conferences"
+msgstr "Topaketa"
+
+msgid "Holidays"
+msgstr "Oporrak"
+
+msgid "Sport events"
+msgstr "Kirol ekitaldiak"
+
+msgid "Tasks"
+msgstr "Zereginak"
+
+msgid "Other events"
+msgstr "Beste ekitaldi batzuk"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Deferred"
+
+msgid "Time management"
+msgstr "Denbora kudeaketa"
+
+msgid "Delayed events"
+msgstr "Geroratutako ekitaldiak"
+
+msgid "Delayed"
+msgstr "Deferred"
+
+msgid "Bind to"
+msgstr "Esleitu"
+
+msgid "answered your comment to"
+msgstr "Esan nuen (a) artikuluan komentatu"
+
+msgid "commented your article"
+msgstr "Zure artikulua komentarioa I"
+
+msgid "You\'ve answered on comment to"
+msgstr "Erantzun duzu artikulu iruzkin izateko"
+
+msgid "You\'ve commented an article"
+msgstr "Artikulu iruzkindu duzu"
+
+msgid "Terms and Conditions"
+msgstr "Baldintzak eta baldintzak"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Klik eginda \"saioa hasi\" gure ados dituzu eta aitortu irakurri izanaz"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Parte hartu sormen pertsonen komunitate mundu osoko! Jasoko duzu: inbertitzea zure ideiak ere, bere taldeak biltzeko aukera bat, talde bat, finantza-kudeatzailearen 2 biltegiratze eta gehiagotan gigabyte lanean, euren denbora kudeatzeko. Eta doakoa da!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Sentitzen dugu, baina bilatzen ari zaren orria ez da existitzen. Horretara errua uste baduzu gurekin harremanetan"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "COMMON"
+msgstr "Guztizko"
+
+msgid "My events"
+msgstr "Nire Ekitaldiak"
+
+msgid "Job opening"
+msgstr "Lanpostu berri"
+
+msgid "Employment"
+msgstr "Enplegu-mota"
+
+msgid "Working hours"
+msgstr "Ordutegiak kontsulta"
+
+msgid "City"
+msgstr "Herriaren"
+
+msgid "Wages"
+msgstr "Soldata"
+
+msgid "Currency"
+msgstr "Moneta"
+
+msgid "Experience"
+msgstr "Esperientzia"
+
+msgid "Full-time"
+msgstr "Enplegu betea"
+
+msgid "Part-time"
+msgstr "Denbora partzialean"
+
+msgid "Project employment"
+msgstr "Project / Temporary"
+
+msgid "Volunteer"
+msgstr "Boluntarioak"
+
+msgid "Internship"
+msgstr "Praktikak"
+
+msgid "Full day"
+msgstr "Denbora osoa"
+
+msgid "Shifts"
+msgstr "Ordezko ordutegia"
+
+msgid "Flexible shifts"
+msgstr "Ordutegi malgutasuna"
+
+msgid "Remote work"
+msgstr "Urrutiko lan"
+
+msgid "Rotational basis"
+msgstr "Shift metodoa"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Ziur asko iruzkina ezabatu nahi duzula?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Ziur zaude zeregin hau ezabatu nahi duzula?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Ziur zaude azpi-proiektu hau ezabatu nahi duzula?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Enpresari ezarri diozu posizioa. Mesedez, ziurtatu duzula"
+
+msgid "Your request to for job has been rejected"
+msgstr "Zure enpresaren eskaera posizioan da onartu"
+
+msgid "Your request to for job has been accepted"
+msgstr "Zure posizio enpresaren eskaera onartu zen"
+
+msgid "profile is completed"
+msgstr "Zure profila da"
+
+msgid "Use account"
+msgstr "Erabili kontuarekin"
+
+msgid "$/hr"
+msgstr "$ / Orduko"
+
+msgid "Finance category"
+msgstr "Finantza kategorian"
+
+msgid "No projects"
+msgstr "No-proiektuak"
+
+msgid "Bind to finances"
+msgstr "Esleitu finantza proiektua"
+
+msgid "Preview"
+msgstr "Ikusi"
+
+msgid "Download"
+msgstr "Deskargatu"
+
+msgid "Save to my cloud"
+msgstr "Kopiatu da biltegian"
+
+msgid "File successfully saved to your cloud"
+msgstr "Fitxategia behar bezala zure biltegian gordeta"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Gorde fitxategi hau zure biltegian?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Aukeratu kategoria artikuluko a"
+
+msgid "Type something"
+msgstr "Zerbait idatzi"
+
+msgid "Founded users"
+msgstr "Aurkitutako erabiltzaile"
+
+msgid "Founded articles"
+msgstr "Aurkitutako artikulu"
+
+msgid "Founded groups"
+msgstr "Sortu den talde"
+
+msgid "What are your skills?"
+msgstr "Zeintzuk dira zure gaitasunak?"
+
+msgid "Select at least 2 interests"
+msgstr "Aukeratu gutxienez 2 interes"
+
+msgid "Need more interests"
+msgstr "Ez da nahikoa interes hautatutako"
+
+msgid "What are you interesting in?"
+msgstr "Zer Interesaturik?"
+
+msgid "You have no dialogs"
+msgstr "Ez daukazu elkarrizketak"
+
+msgid "Usage Stats"
+msgstr "Egoerari"
+
+msgid "Founded files"
+msgstr "Fitxategi aurkitu"
+
+msgid "Big tiles"
+msgstr "Fitxak handiak"
+
+msgid "Small tiles"
+msgstr "Teila Small"
+
+msgid "Table view"
+msgstr "Mahai ikuspegia"
+
+msgid "Root folder"
+msgstr "Erro direktorioa"
+
+msgid "My files"
+msgstr "Nire fitxategiak"
+
+msgid "Save as draft"
+msgstr "Gorde zirriborroa gisa"
+
+msgid "Buy More Space"
+msgstr "Erosi leku gehiago"
+
+msgid "Buy"
+msgstr "Erosi"
+
+msgid "You have been invited to group as"
+msgstr "Izan zara taldera gonbidatu gisa"
+
+msgid "User wants to join your group"
+msgstr "Erabiltzaileak zure taldean sartu nahi ditu"
+
+msgid "Section is coming soon!"
+msgstr "Artikulua eraikitzen ari!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Views azken 24 orduetan:"
+
+msgid "Task was updated"
+msgstr "Zeregin eguneratu da"
+
+msgid "Task was closed"
+msgstr "Erronka itxi egin da"
+
+msgid "Task was created"
+msgstr "Zeregin ezarri zen"
+
+msgid "Current balance"
+msgstr "Oraingo oreka"
+
+msgid "Add funds"
+msgstr "Gehitu"
+
+msgid "Pay"
+msgstr "Eskaera egin"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Login saiakera kopurua gainditu duzu. 15 minutuz blokeatuta daude"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Berretsi e-mail. Zuri bidalitako posta elektroniko bidez gutuna."
+
+msgid "Resend confirmation email"
+msgstr "Bidali berrespena berriro"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Hilean Disc 2 GB"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Drive 10 GB urte bakoitzeko"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disko 100 urte bakoitzeko GB"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disko 1TB hilero"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Drive 1 TB urte bakoitzeko"
+
+msgid "Project members monthly"
+msgstr "Proiektuaren parte-hartzaileek hilero"
+
+msgid "Project members yearly"
+msgstr "Project urtero parte-hartzaile"
+
+msgid "Member(s) yearly"
+msgstr "Urte bakoitzeko kide (s)"
+
+msgid "Member(s) monthly"
+msgstr "Kide (s) hilero"
+
+msgid "Authorized"
+msgstr "Baimendutako"
+
+msgid "Authorization expired"
+msgstr "Baimen iraungi"
+
+msgid "Processor declined"
+msgstr "Baztertuta prozesatzeko sistema"
+
+msgid "Gateway rejected"
+msgstr "Baztertuta ordainketa pasabidea"
+
+msgid "Failed"
+msgstr "Akatsa"
+
+msgid "Voided"
+msgstr "Baliogabetzeko"
+
+msgid "Submitted for settlement"
+msgstr "Honi bidalia matrikulatu"
+
+msgid "Settlement declined"
+msgstr "Partaide-ez da onartu"
+
+msgid "Settlement pending"
+msgstr "Matrikulazio pendiente"
+
+msgid "Verified"
+msgstr "Checked"
+
+msgid "Pending"
+msgstr "Pendiente"
+
+msgid "Active"
+msgstr "Aktiboak"
+
+msgid "Past Due"
+msgstr "Iraungita"
+
+msgid "Expired"
+msgstr "Amaitu"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "India"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Thailand"
+msgstr "Tailandiako"
+
+msgid "South Korea"
+msgstr "Hego Korea"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Ukraine"
+msgstr "Ukrainako"
+
+msgid "Belarus"
+msgstr "Bielorrusiako"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Turkey"
+msgstr "Turkia"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Poland"
+msgstr "Polonia"
+
+msgid "Germany"
+msgstr "Alemanian"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Netherlands"
+msgstr "Herbehereak"
+
+msgid "Ireland"
+msgstr "Irlanda"
+
+msgid "United Kingdom"
+msgstr "Britainia Handia"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Norway"
+msgstr "Norvegian"
+
+msgid "United States"
+msgstr "United States"
+
+msgid "Canada"
+msgstr "Kanadan"
+
+msgid "Brazil"
+msgstr "Brasilen"
+
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+msgid "Canada"
+msgstr "Egipto"
+
+msgid "Russia"
+msgstr "Errusia"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Momentu honetan, ez zen transakzio bakar bat"
+
+msgid "Fulfill your dream"
+msgstr "Betetzeko zure ametsetako"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Sartu gure mundu osoko sormenezko norbanakoen komunitatea."
+
+msgid "Create and Collaborate"
+msgstr "Sortu eta Elkarlana"
+
+msgid "Start Dreaming"
+msgstr "Betetzeko DREAM ORAIN"
+
+msgid "or"
+msgstr "edo"
+
+msgid "Our mission:"
+msgstr "Gure egitekoa:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Sortzaile eta aktiboa pertsona elkartu nahi sinple eta sinestezina eta fantasiazko eskaria ideiak ezartzeko, gure etorkizuna moldatzeko."
+
+msgid "What is Konstruktor?"
+msgstr "Zer da Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - gure bizitza errealean, eta horrek nabarmen erraztu eta sinplifikatu zati bat da"
+
+msgid "*business processes"
+msgstr "* Negozio-prozesuak"
+
+msgid "*materialization of creative ideas"
+msgstr "* Ideia sortzaileak gauzatzea"
+
+msgid "*constructive cooperation"
+msgstr "* Konstruktiboa lankidetza"
+
+msgid "Make your dream!"
+msgstr "Egin zure ametsa!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Aholkulari Berezia"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Kudeatzaile, Software Development"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Senior abokatua"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Diseinatzaile"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Hurrengoa botoian klik eginez, onartuz duzun dira eta gure Arauak eta baldintzak hitzartu, eta aitortu ari zaren irakurri izanaz Privacy Policy."
+
+msgid "Incorrect login or password."
+msgstr "Erabiltzaile edo pasahitz okerra."
+
+msgid "Password must be at least 6 characters"
+msgstr "Pasahitza gutxienez 6 karaktere izan behar du"
+
+msgid "January"
+msgstr "Urtarrila"
+
+msgid "February"
+msgstr "Otsaila"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "Apirila"
+
+msgid "May"
+msgstr "Maiatza"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "Uztailean"
+
+msgid "August"
+msgstr "Abuztua"
+
+msgid "September"
+msgstr "Iraila"
+
+msgid "October"
+msgstr "Urria"
+
+msgid "November"
+msgstr "Azaroa"
+
+msgid "December"
+msgstr "Abendua"
+
+msgid "Chat"
+msgstr "Txata"
+
+msgid "Files"
+msgstr "Fitxategiak"
+
+msgid "Statistic"
+msgstr "Estatistika"
+
+msgid "Support"
+msgstr "Euskarria"
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Bielorrusiako"
+
+msgid "Marketing specialist"
+msgstr "Marketing espezialista"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Shared with me"
+msgstr "Nirekin partekatutako"
+
+msgid "File Sharing"
+msgstr "File Sharing"
+
+msgid "Provide access by link"
+msgstr "Lotura sarbidea ematen"
+
+msgid "Provide Individual access"
+msgstr "Ematen Bakoitzaren sarbidea"
+
+msgid "Provide edit access"
+msgstr "Ematen editatu sarbidea"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Files will be available only for selected users"
+msgstr "Artxibo erabilgarriak izango bakarrik hautatutako erabiltzaile"
+
+msgid "With this link everyone can access to the files"
+msgstr "Rekin lotzen denek fitxategietan sar daitezke"
+
+msgid "Search users, groups, articles..."
+msgstr "Bilaketa erabiltzaile, talde, artikuluak ..."
+
+msgid "My Group"
+msgstr "Nire Group"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Dugu"
+
+msgid "Th"
+msgstr "Garren"
+
+msgid "Fr"
+msgstr "Fr."
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Fitxategia ez dago hautatuta"
+
+msgid "Set aside"
+msgstr "Albo batera"
+
+msgid "Event time"
+msgstr "Gertaera denbora"
+
+msgid "Work"
+msgstr "Lana"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Time spent for work:"
+msgstr "Time lanagatik eman zituen:"
+
+msgid "Personal time spent:"
+msgstr "Denbora igaro Personal:"
+
+msgid "Present"
+msgstr "Present"
+
+msgid "Common"
+msgstr "Common"
+
+msgid "Sport"
+msgstr "Kirola"
+
+msgid "Entertainment"
+msgstr "Aisialdia"
+
+msgid "Select:"
+msgstr "Aukeratu:"
+
+msgid "Invalid username or password."
+msgstr "Erabiltzaile edo pasahitz okerra."
+
+msgid "Try again."
+msgstr "Saiatu berriro."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "ZER Interesaturik IN?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Aukeratu gutxienez 2 trebetasunak: dirau 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Aukeratu gutxienez 2 trebetasunak: dirau 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Aukeratu gutxienez 2 trebetasunak: aztarnak"
+
+msgid "Active life"
+msgstr "Bizitza aktiboa"
+
+msgid "Arts and culture"
+msgstr "Arteen eta kultura"
+
+msgid "Business"
+msgstr "Business"
+
+msgid "Cinema"
+msgstr "Zinema"
+
+msgid "Communications"
+msgstr "Komunikazioak"
+
+msgid "Construction and repair"
+msgstr "Eraikuntza eta konponketa"
+
+msgid "Cooking"
+msgstr "Sukaldaritza"
+
+msgid "Education"
+msgstr "Hezkuntza"
+
+msgid "Electronics"
+msgstr "Elektronika"
+
+msgid "Finances"
+msgstr "Finantzak"
+
+msgid "Graphics and design"
+msgstr "Grafiko eta diseinua"
+
+msgid "Health"
+msgstr "Osasun"
+
+msgid "Home and family"
+msgstr "Etxea eta familia"
+
+msgid "Humor"
+msgstr "Umorea"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Industria"
+
+msgid "Insurance"
+msgstr "Aseguru"
+
+msgid "Literature"
+msgstr "Literatura"
+
+msgid "Mobile communications and internet"
+msgstr "Mobile komunikazioak eta internet"
+
+msgid "News and Media"
+msgstr "Komunikabideak eta"
+
+msgid "Pets"
+msgstr "Animaliak"
+
+msgid "Products and service"
+msgstr "Produktu eta zerbitzu"
+
+msgid "Real Estate"
+msgstr "Higiezinen"
+
+msgid "Religion"
+msgstr "Erlijioa"
+
+msgid "Science and techs"
+msgstr "Zientzia eta teknologien"
+
+msgid "Security"
+msgstr "Zaintza"
+
+msgid "Society"
+msgstr "Gizartea"
+
+msgid "Television"
+msgstr "Television"
+
+msgid "Travel"
+msgstr "Bidaia"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Belarus"
+msgstr "Bielorrusiako"
+
+msgid "Belgium"
+msgstr "Belgikan"
+
+msgid "Brazil"
+msgstr "Brasilen"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Canada"
+msgstr "Kanadan"
+
+msgid "Chile"
+msgstr "Txile"
+
+msgid "Denmark"
+msgstr "Danimarka"
+
+msgid "France"
+msgstr "Frantzian"
+
+msgid "Germany"
+msgstr "Alemanian"
+
+msgid "Greece"
+msgstr "Grezian"
+
+msgid "Hungary"
+msgstr "Hungaria"
+
+msgid "Iceland"
+msgstr "Islandiako"
+
+msgid "Ireland"
+msgstr "Irlanda"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Japan"
+msgstr "Japonian"
+
+msgid "Mexico"
+msgstr "Mexikon"
+
+msgid "Netherlands"
+msgstr "Herbehereak"
+
+msgid "New Zealand"
+msgstr "Zeelanda Berria"
+
+msgid "Norway"
+msgstr "Norvegian"
+
+msgid "Poland"
+msgstr "Polonia"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Russia"
+msgstr "Errusia"
+
+msgid "Slovakia"
+msgstr "Eslovakia"
+
+msgid "South Africa"
+msgstr "Hegoafrika"
+
+msgid "South Korea"
+msgstr "Hego Korea"
+
+msgid "Spain"
+msgstr "Espainia"
+
+msgid "Sweden"
+msgstr "Suedia"
+
+msgid "Switzerland"
+msgstr "Suitza"
+
+msgid "Turkey"
+msgstr "Turkia"
+
+msgid "Ukraine"
+msgstr "Ukrainako"
+
+msgid "United Arab Emirates"
+msgstr "Arabiar Emirerri Batuak"
+
+msgid "United Kingdom"
+msgstr "Erresuma Batua"
+
+msgid "United States"
+msgstr "Ameriketako Estatu Batuak"
+
+msgid "achievements"
+msgstr "lorpenak"
+
+msgid "Investment management"
+msgstr "Inbertsioa kudeaketa"
+
+msgid "Select..."
+msgstr "Aukeratu ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "Inbertsioa kudeaketa"
+
+msgid "Investors list"
+msgstr "Investors zerrenda"
+
+msgid "My investments"
+msgstr "Nire inbertsioak"
+
+msgid "Create date"
+msgstr "Sortu data"
+
+msgid "Author of the project"
+msgstr "Proiektuaren Egilea"
+
+msgid "Date and time"
+msgstr "Data eta ordua"
+
+msgid "Status"
+msgstr "Egoera"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+msgid "Next"
+msgstr "Hurrengo"
+
+msgid "Apply"
+msgstr "Aplikatu"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Zientzia"
+
+msgid "Architecture"
+msgstr "Arkitektura"
+
+msgid "Photography"
+msgstr "Argazkia"
+
+msgid "Designer"
+msgstr "Diseinatzaile"
+
+msgid "IT specialist"
+msgstr "IT espezialista"
+
+msgid "Agronomist"
+msgstr "Agronomist"
+
+msgid "Architect"
+msgstr "Arkitektoa"
+
+msgid "Lawyer"
+msgstr "Abokatu"
+
+msgid "Writer"
+msgstr "Idazlea"
+
+msgid "Doctor"
+msgstr "Doctor"
+
+msgid "Scientist"
+msgstr "Zientzialari"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Irakasleen"
+
+msgid "Cook"
+msgstr "Cook"
+
+msgid "Artist"
+msgstr "Artista"
+
+msgid "Photographer"
+msgstr "Argazkilaria"
+
+msgid "Ecologist"
+msgstr "Ekologista"
+
+msgid "Economist"
+msgstr "Economist"
+
+msgid "Logistician"
+msgstr "Logistika"
+
+msgid "Journalist"
+msgstr "Kazetaria"
+
+msgid "Builder"
+msgstr "Eraikitzailea"
+
+msgid "These users may be interesting for you"
+msgstr "Erabiltzaile hauek zuretzat interesgarri izan daitezkeen"
+
+msgid "These articles may be interesting for you"
+msgstr "Artikulu horiek zuretzat interesgarri izan daitezkeen"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Talde honen fitxatu Аdministrator gisa"
+
+msgid "articles written."
+msgstr "artikulu idatzi."
+
+msgid "groups created."
+msgstr "sortutako taldeak."
+
+msgid "Creation"
+msgstr "Sorkuntza"
+
+msgid "Build a dream"
+msgstr "Eraiki amets bat"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Irakurri artikulu interesgarri gehiago - free erregistroa joan"
+
+

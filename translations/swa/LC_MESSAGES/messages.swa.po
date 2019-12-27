@@ -1,0 +1,3344 @@
+# Kiswahili (Суахили) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Kiswahili (Суахили) <support@konstruktor.com>\n"
+"Language: Kiswahili (Суахили)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "username"
+
+msgid "Invalid username or password, try again"
+msgstr "Jina la mtumiaji au nenosiri sio sahihi . Jaribu tena."
+
+msgid "Settings"
+msgstr "mipangilio"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "You must log in to access this page"
+msgstr "Lazima kuingia kwenye upatikanaji ukurasa huu"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Kikao yako imekuwa muda wake. Tafadhali, ingia tena kufanya hili tendo"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Head Office"
+msgstr "ofisi ya Mkuu"
+
+msgid "Address"
+msgstr "mitaani"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Apply"
+msgstr "kuomba"
+
+msgid "Upload files…"
+msgstr "Pakia faili ..."
+
+msgid "Set as main"
+msgstr "Kuweka kama kuu"
+
+msgid "Delete"
+msgstr "kufuta"
+
+msgid "Original image"
+msgstr "Original picha"
+
+msgid "Uploaded"
+msgstr "uploaded"
+
+msgid "File name"
+msgstr "jina la faili"
+
+msgid "File size"
+msgstr "ukubwa wa faili"
+
+msgid "Resolution"
+msgstr "azimio"
+
+msgid "Enlarge"
+msgstr "kupanua"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Original size"
+msgstr "Original ukubwa"
+
+msgid "For editor"
+msgstr "kwa mhariri"
+
+msgid "Resize"
+msgstr "resize"
+
+msgid "Width"
+msgstr "upana"
+
+msgid "Height"
+msgstr "urefu"
+
+msgid "Media URL"
+msgstr "Media URL"
+
+msgid "Add record"
+msgstr "kuongeza rekodi"
+
+msgid "Show filter settings"
+msgstr "Onyesha mipangilio filter"
+
+msgid "Edit record"
+msgstr "Edit rekodi"
+
+msgid "Delete record"
+msgstr "Futa rekodi"
+
+msgid "Delete checked records"
+msgstr "Futa rekodi checked"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Password"
+msgstr "password"
+
+msgid "Remember me"
+msgstr "Kumbuka mimi"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Clean image cache"
+msgstr "Safi picha cache"
+
+msgid "Processing query..."
+msgstr "Shirikisho swala ..."
+
+msgid "CMS Development"
+msgstr "Maendeleo CMS"
+
+msgid "Admin Home Page"
+msgstr "Admin Home Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Open Home ukurasa wa Front -mwisho katika tabo mpya"
+
+msgid "Go to Site"
+msgstr "Kwenda kwenye tovuti"
+
+msgid "Log out"
+msgstr "logi nje"
+
+msgid "Send"
+msgstr "kutuma"
+
+msgid "General"
+msgstr "Mkuu"
+
+msgid "Title"
+msgstr "cheo"
+
+msgid "Teaser"
+msgstr "Teaser"
+
+msgid "Published"
+msgstr "kuchapishwa"
+
+msgid "Featured"
+msgstr "Matukio ya"
+
+msgid "Active"
+msgstr "kazi"
+
+msgid "Field is mandatory"
+msgstr "Uwanja ni lazima"
+
+msgid "Sort Order"
+msgstr "aina Amri"
+
+msgid "Upload"
+msgstr "Pakia"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Februari"
+
+msgid "Mar"
+msgstr "Machi"
+
+msgid "Apr"
+msgstr "Aprili"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "Jun"
+msgstr "Juni"
+
+msgid "Jul"
+msgstr "Julai"
+
+msgid "Aug"
+msgstr "Agosti"
+
+msgid "Sep"
+msgstr "Septemba"
+
+msgid "Oct"
+msgstr "Oktoba"
+
+msgid "Nov"
+msgstr "Novemba"
+
+msgid "Dec"
+msgstr "Desemba"
+
+msgid "Product already exists in the order"
+msgstr "Bidhaa tayari ipo katika utaratibu"
+
+msgid "Product does not exist"
+msgstr "Bidhaa haipo"
+
+msgid "Incorrect request"
+msgstr "ombi sahihi"
+
+msgid "Products"
+msgstr "bidhaa"
+
+msgid "Product types"
+msgstr "aina bidhaa"
+
+msgid "Contractors"
+msgstr "makandarasi"
+
+msgid "Contractor"
+msgstr "Mkandarasi"
+
+msgid "Orders"
+msgstr "amri"
+
+msgid "FAQ"
+msgstr "Maswali"
+
+msgid "New order"
+msgstr "utaratibu mpya"
+
+msgid "My orders"
+msgstr "maagizo yangu"
+
+msgid "Recharge balance"
+msgstr "recharge usawa"
+
+msgid "Administrator"
+msgstr "msimamizi"
+
+msgid "Incorrect event ID"
+msgstr "Sahihi tukio ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "hariri mkandarasi"
+
+msgid "Create contractor"
+msgstr "kujenga mkandarasi"
+
+msgid "Edit question"
+msgstr "hariri swali"
+
+msgid "Create question"
+msgstr "kujenga swali"
+
+msgid "Edit order"
+msgstr "hariri ili"
+
+msgid "Create order"
+msgstr "kujenga ili"
+
+msgid "Edit product"
+msgstr "hariri bidhaa"
+
+msgid "Create product"
+msgstr "kujenga bidhaa"
+
+msgid "Edit product type"
+msgstr "Hariri aina ya bidhaa"
+
+msgid "Create product type"
+msgstr "Kujenga aina ya bidhaa"
+
+msgid "You have received a file"
+msgstr "Umepokea faili"
+
+msgid "You received a file from"
+msgstr "Wewe kupokea faili kutoka"
+
+msgid "File has been uploaded"
+msgstr "Faili imekuwa kupakiwa"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "wingi ndogo"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "vitu"
+
+msgid "Remove"
+msgstr "kuondoa"
+
+msgid "Contact person"
+msgstr "kuwasiliana na mtu"
+
+msgid "Email"
+msgstr "email"
+
+msgid "Contractor phone"
+msgstr "Mkandarasi simu"
+
+msgid "Contractor name"
+msgstr "Mkandarasi jina"
+
+msgid "Contractor details"
+msgstr "Mkandarasi maelezo"
+
+msgid "Order ID"
+msgstr "ili ID"
+
+msgid "Sum"
+msgstr "Jumla"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Kuchagua mfumo wa malipo ya kufaa kuongeza muda wa maongezi mizani yako"
+
+msgid "Recharge amount"
+msgstr "recharge kiasi"
+
+msgid "Paid"
+msgstr "kulipwa"
+
+msgid "Shipped"
+msgstr "kusafirishwa"
+
+msgid "- No products in this order -"
+msgstr "- No bidhaa katika utaratibu huu -"
+
+msgid "month"
+msgstr "mwezi"
+
+msgid "No user found"
+msgstr "Hakuna mtumiaji kupatikana"
+
+msgid "Achievement"
+msgstr "mafanikio"
+
+msgid "Confirmed accomplishments"
+msgstr "mafanikio alithibitisha"
+
+msgid "Remove achievement"
+msgstr "kuondoa mafanikio"
+
+msgid "Headquaters"
+msgstr "makao makuu"
+
+msgid "Phone"
+msgstr "Simu"
+
+msgid "Site URL and email"
+msgstr "Tovuti URL na email"
+
+msgid "Remove address"
+msgstr "kuondoa anwani"
+
+msgid "Members"
+msgstr "wanachama"
+
+msgid "Requires a payment"
+msgstr "inahitaji malipo"
+
+msgid "Shipping"
+msgstr "meli"
+
+msgid "Ready"
+msgstr "tayari"
+
+msgid "Find user..."
+msgstr "Kupata user ..."
+
+msgid "Order it"
+msgstr "ili ni"
+
+msgid "Find group..."
+msgstr "Kupata kundi ..."
+
+msgid "Find user or community..."
+msgstr "Kupata mtumiaji au jamii ..."
+
+msgid "No item found"
+msgstr "Hakuna bidhaa kupatikana"
+
+msgid "years"
+msgstr "miaka"
+
+msgid "Send message"
+msgstr "kutuma ujumbe"
+
+msgid "Message"
+msgstr "ujumbe"
+
+msgid "To send message press Enter"
+msgstr "Kutuma ujumbe waandishi wa habari kuingia"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Kutuma ujumbe wa waandishi wa habari Ctrl + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Matayarisho file (s) ..."
+
+msgid "Group settings"
+msgstr "mazingira Group"
+
+msgid "Create group"
+msgstr "kuunda kikundi"
+
+msgid "Group has been successfully saved"
+msgstr "Kundi imekuwa mafanikio kuokolewa"
+
+msgid "Group title"
+msgstr "cheo Group"
+
+msgid "Group video"
+msgstr "kundi video"
+
+msgid "Description"
+msgstr "maelezo"
+
+msgid "Your role in group"
+msgstr "Jukumu lako katika kundi"
+
+msgid "Role"
+msgstr "jukumu"
+
+msgid "Photo or video gallery"
+msgstr "Picha au video nyumba ya sanaa"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Pakia video"
+
+msgid "Add group address"
+msgstr "Kuongeza kundi anwani"
+
+msgid "Group articles"
+msgstr "makala Group"
+
+msgid "No addresses yet"
+msgstr "Hakuna anwani bado"
+
+msgid "Add group achievement"
+msgstr "Kuongeza kundi mafanikio"
+
+msgid "No achivements yet"
+msgstr "Hakuna achivements bado"
+
+msgid "Are you sure to delete this user"
+msgstr "Una uhakika kufuta mtumiaji huyu"
+
+msgid "Add member"
+msgstr "kuongeza mwanachama"
+
+msgid "Are you sure to delete this record?"
+msgstr "Una uhakika kufuta rekodi hii ?"
+
+msgid "Join this group"
+msgstr "Kujiunga na kikundi hiki"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Mwaliko wako alitumwa msimamizi wa kikundi"
+
+msgid "All addresses"
+msgstr "anwani zote"
+
+msgid "Collapse"
+msgstr "kuanguka"
+
+msgid "Achievements"
+msgstr "mafanikio"
+
+msgid "Show more"
+msgstr "kuonyesha zaidi"
+
+msgid "Team"
+msgstr "timu"
+
+msgid "Projects"
+msgstr "miradi"
+
+msgid "New project"
+msgstr "New mradi"
+
+msgid "Project has not been created yet"
+msgstr "Mradi haijawahi kuundwa bado"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "mizani"
+
+msgid "Main page"
+msgstr "kuu ya ukurasa"
+
+msgid "Upload image"
+msgstr "Pakia picha"
+
+msgid "My time"
+msgstr "muda wangu"
+
+msgid "Day"
+msgstr "siku"
+
+msgid "Week"
+msgstr "wiki"
+
+msgid "Project settings"
+msgstr "mazingira ya mradi"
+
+msgid "Create project"
+msgstr "kujenga mradi"
+
+msgid "Project has been successfully saved"
+msgstr "Mradi imekuwa mafanikio kuokolewa"
+
+msgid "Project name"
+msgstr "jina la mradi"
+
+msgid "Deadline"
+msgstr "tarehe ya mwisho"
+
+msgid "Close"
+msgstr "karibu"
+
+msgid "Manager"
+msgstr "meneja"
+
+msgid "Assigned to"
+msgstr "kwa ajili ya"
+
+msgid "Discussion"
+msgstr "majadiliano"
+
+msgid "Task was created"
+msgstr "Kazi iliundwa"
+
+msgid "Task was closed"
+msgstr "Kazi ilikuwa imefungwa"
+
+msgid "Go to Group"
+msgstr "Kwenda Group"
+
+msgid "Closed"
+msgstr "kufungwa"
+
+msgid "Last updates"
+msgstr "mwisho updates"
+
+msgid "Project is closed"
+msgstr "Mradi imefungwa"
+
+msgid "No open tasks"
+msgstr "Hakuna kazi wazi"
+
+msgid "New task"
+msgstr "kazi mpya"
+
+msgid "Closed tasks"
+msgstr "imefungwa majukumu"
+
+msgid "Add subproject"
+msgstr "kuongeza subproject"
+
+msgid "Add task"
+msgstr "kuongeza kazi"
+
+msgid "Sun"
+msgstr "Jumapili"
+
+msgid "Mon"
+msgstr "Jumatatu"
+
+msgid "Tue"
+msgstr "Jumanne"
+
+msgid "Wed"
+msgstr "Jumatano"
+
+msgid "Thur"
+msgstr "Alhamisi"
+
+msgid "Fri"
+msgstr "Ijumaa"
+
+msgid "Sat"
+msgstr "Jumamosi"
+
+msgid "Event title"
+msgstr "kichwa cha tukio"
+
+msgid "Event description"
+msgstr "tukio maelezo"
+
+msgid "I registered on this site"
+msgstr "Mimi kusajiliwa kwenye tovuti hii"
+
+msgid "Last created groups"
+msgstr "Makundi iliyopita umba"
+
+msgid "You joined this group as"
+msgstr "Wewe kujiunga na kundi hili kama"
+
+msgid "You received a request to join the group"
+msgstr "Wewe kupokea ombi kujiunga na kikundi"
+
+msgid "Updated site"
+msgstr "updated tovuti"
+
+msgid "Site is under construction"
+msgstr "Tovuti ni chini ya ujenzi"
+
+msgid "Last registered users"
+msgstr "Watumiaji wa mwisho kusajiliwa"
+
+msgid "User settings"
+msgstr "mazingira ya mtumiaji"
+
+msgid "Technical support"
+msgstr "msaada wa kiufundi"
+
+msgid "Change email"
+msgstr "mabadiliko email"
+
+msgid "Change password"
+msgstr "mabadiliko password"
+
+msgid "User has been successfully saved"
+msgstr "User imekuwa mafanikio kuokolewa"
+
+msgid "Full name"
+msgstr "jina kamili"
+
+msgid "My video"
+msgstr "video yangu"
+
+msgid "Skills"
+msgstr "ujuzi"
+
+msgid "Birthday"
+msgstr "Kuzaliwa"
+
+msgid "Country of residence"
+msgstr "Nchi ya makazi"
+
+msgid "Country"
+msgstr "nchi"
+
+msgid "Zip Code"
+msgstr "Zip Code"
+
+msgid "City/town of residence"
+msgstr "Jiji / mji wa makazi"
+
+msgid "University/college"
+msgstr "Chuo Kikuu / chuo"
+
+msgid "University/college photo"
+msgstr "Chuo Kikuu / chuo picha"
+
+msgid "Add user\'s accomplishments"
+msgstr "Kuongeza mafanikio mtumiaji"
+
+msgid "Interface language"
+msgstr "lugha interface"
+
+msgid "How other people see this page"
+msgstr "Jinsi watu wengine kuona ukurasa huu"
+
+msgid "Video with me"
+msgstr "Video na mimi"
+
+msgid "Groups"
+msgstr "vikundi"
+
+msgid "Registered today"
+msgstr "usajili leo"
+
+msgid "Qty"
+msgstr "Uchina"
+
+msgid "No registered users yet"
+msgstr "Hakuna watumiaji waliojiandikisha bado"
+
+msgid "Total"
+msgstr "Jumla ya"
+
+msgid "Registered total"
+msgstr "usajili jumla"
+
+msgid "You received a file"
+msgstr "Umepokea faili"
+
+msgid "You were invited into this room"
+msgstr "Wewe walialikwa katika chumba hiki"
+
+msgid "Request is being processed"
+msgstr "Ombi ni zinashughulikiwa"
+
+msgid "Fax"
+msgstr "fax"
+
+msgid "Messenger"
+msgstr "mjumbe"
+
+msgid "New subproject"
+msgstr "New subproject"
+
+msgid "messages written."
+msgstr "ujumbe wa maandishi ."
+
+msgid "projects created based on groups."
+msgstr "miradi kuundwa kwa kuzingatia makundi ."
+
+msgid "users registered on website."
+msgstr "watumiaji waliojiandikisha kwenye tovuti ."
+
+msgid "New email"
+msgstr "New barua pepe"
+
+msgid "Confirm email"
+msgstr "kuthibitisha barua pepe"
+
+msgid "New password"
+msgstr "nywila mpya"
+
+msgid "Confirm password"
+msgstr "kuthibitisha password"
+
+msgid "Occupation"
+msgstr "Speciality"
+
+msgid "Timezone"
+msgstr "Ukanda"
+
+msgid "Answer"
+msgstr "jibu"
+
+msgid "Articles"
+msgstr "makala"
+
+msgid "Article"
+msgstr "Ibara"
+
+msgid "Video-article"
+msgstr "Makala video-"
+
+msgid "Find article..."
+msgstr "Kupata makala ..."
+
+msgid "Politics"
+msgstr "siasa"
+
+msgid "Economics"
+msgstr "uchumi"
+
+msgid "Community"
+msgstr "jumuiya"
+
+msgid "Culture"
+msgstr "Utamaduni"
+
+msgid "Sports"
+msgstr "Michezo"
+
+msgid "Hi-tech"
+msgstr "Hi-tech"
+
+msgid "Cars"
+msgstr "Magari"
+
+msgid "Fashion"
+msgstr "mtindo"
+
+msgid "Games"
+msgstr "Michezo"
+
+msgid "Other"
+msgstr "Nyingine"
+
+msgid "Invalid mediafile"
+msgstr "mediafile batili"
+
+msgid "No articles in this category yet"
+msgstr "Hakuna makala katika jamii hii bado"
+
+msgid "Back to profile"
+msgstr "Nyuma ya wasifu"
+
+msgid "View article"
+msgstr "View makala"
+
+msgid "Edit article"
+msgstr "Edit makala"
+
+msgid "Create article"
+msgstr "kujenga makala"
+
+msgid "Article title"
+msgstr "cheo makala"
+
+msgid "Article section"
+msgstr "Ibara sehemu"
+
+msgid "Choose image"
+msgstr "kuchagua picha"
+
+msgid "Save and upload"
+msgstr "Ila na kupakia"
+
+msgid "Show more..."
+msgstr "Kuonyesha zaidi ..."
+
+msgid "Create"
+msgstr "kujenga"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Project"
+msgstr "mradi"
+
+msgid "Team"
+msgstr "timu"
+
+msgid "A new article was published"
+msgstr "Makala mpya ilichapishwa"
+
+msgid "You joined this project"
+msgstr "Wewe kujiunga na mradi huu"
+
+msgid "Enter your information in the User settings"
+msgstr "Kuingia habari yako katika mazingira ya mtumiaji"
+
+msgid "Communities"
+msgstr "jamii"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Sehemu kuwasilisha mafanikio yangu"
+
+msgid "My articles"
+msgstr "makala yangu"
+
+msgid "User"
+msgstr "user"
+
+msgid "Users"
+msgstr "watumiaji"
+
+msgid "Add new list"
+msgstr "Kuongeza orodha mpya"
+
+msgid "List title"
+msgstr "orodha kichwa"
+
+msgid "Add"
+msgstr "kuongeza"
+
+msgid "Add to favorites"
+msgstr "Kuongeza favorites"
+
+msgid "Delete from favorites"
+msgstr "Kufuta kutoka favorites"
+
+msgid "Select list"
+msgstr "Teule orodha"
+
+msgid "Subscriptions"
+msgstr "uteja"
+
+msgid "Subscribe"
+msgstr "Kujiunga"
+
+msgid "Unsubscribe"
+msgstr "kujitoa"
+
+msgid "General list"
+msgstr "Mkuu orodha"
+
+msgid "No users in this list"
+msgstr "Hakuna watumiaji katika orodha hii"
+
+msgid "Publish"
+msgstr "kuchapisha"
+
+msgid "Unpublish"
+msgstr "Batilisha uchapishaji"
+
+msgid "Add user"
+msgstr "kuongeza mtumiaji"
+
+msgid "Create document"
+msgstr "kutengeneza hati"
+
+msgid "Edit document"
+msgstr "Edit hati"
+
+msgid "View"
+msgstr "View"
+
+msgid "Document title"
+msgstr "jina hati"
+
+msgid "Find document..."
+msgstr "Kupata hati ..."
+
+msgid "Share your thoughts"
+msgstr "Kubadilishana mawazo yako"
+
+msgid "Leave your comment"
+msgstr "Acha maoni yako"
+
+msgid "Accept"
+msgstr "kukubali"
+
+msgid "Decline"
+msgstr "kushuka"
+
+msgid "Add article"
+msgstr "kuongeza makala"
+
+msgid "Link to verified accomplishments"
+msgstr "Kiungo kwa mafanikio kuthibitishwa"
+
+msgid "No articles here yet..."
+msgstr "Hakuna makala hapa bado"
+
+msgid "Find file or folder..."
+msgstr "Kupata faili au folda ..."
+
+msgid "Sort"
+msgstr "aina"
+
+msgid "By name"
+msgstr "kwa jina"
+
+msgid "By date"
+msgstr "By tarehe"
+
+msgid "By updated date"
+msgstr "By updated tarehe"
+
+msgid "By size"
+msgstr "kwa ukubwa"
+
+msgid "By type"
+msgstr "kwa aina"
+
+msgid "Move"
+msgstr "hoja"
+
+msgid "File Manager"
+msgstr "Picha Meneja"
+
+msgid "Share link"
+msgstr "Kushiriki kiungo"
+
+msgid "Responsible"
+msgstr "wajibu"
+
+msgid "Performer"
+msgstr "Performer"
+
+msgid "New Folder"
+msgstr "Folder New"
+
+msgid "Folder name"
+msgstr "jina folder"
+
+msgid "By default"
+msgstr "By default"
+
+msgid "Back to group"
+msgstr "Kwenye kikundi"
+
+msgid "year(s)"
+msgstr "mwaka (s)"
+
+msgid "January"
+msgstr "Januari"
+
+msgid "February"
+msgstr "Februari"
+
+msgid "March"
+msgstr "Machi"
+
+msgid "April"
+msgstr "Aprili"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "July"
+msgstr "Julai"
+
+msgid "August"
+msgstr "Agosti"
+
+msgid "September"
+msgstr "Septemba"
+
+msgid "October"
+msgstr "Oktoba"
+
+msgid "November"
+msgstr "Novemba"
+
+msgid "December"
+msgstr "Desemba"
+
+msgid "Password Reminder"
+msgstr "mawaidha nywila"
+
+msgid "Log In"
+msgstr "Ingia"
+
+msgid "Sign in"
+msgstr "Ingia katika"
+
+msgid "Register"
+msgstr "Daftari"
+
+msgid "First name"
+msgstr "Jina la kwanza"
+
+msgid "Last name"
+msgstr "jina la mwisho"
+
+msgid "I agree with rules"
+msgstr "Mimi kukubaliana na sheria"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Barua pepe ya uthibitisho alitumwa barua pepe yako."
+
+msgid "Thanks"
+msgstr "shukrani"
+
+msgid "Password must be at least 6 characters"
+msgstr "Nywila lazima angalau 6 wahusika"
+
+msgid "Creative Environment"
+msgstr "ubunifu Mazingira"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Unahitaji kuwa angalau miaka kumi na tatu ya umri kutumia huduma hii"
+
+msgid "Order status"
+msgstr "ili hali"
+
+msgid "Processing order"
+msgstr "Matayarisho ili"
+
+msgid "Requires a payment"
+msgstr "inahitaji malipo"
+
+msgid "Shipping"
+msgstr "meli"
+
+msgid "Ready"
+msgstr "tayari"
+
+msgid "Thank you for your payment"
+msgstr "Asante kwa ajili ya malipo yako"
+
+msgid "Your payment has been cancelled"
+msgstr "Malipo yako imekuwa kufutwa"
+
+msgid "page"
+msgstr "ukurasa"
+
+msgid "Rent period"
+msgstr "kipindi kodi"
+
+msgid "Total, month"
+msgstr "Jumla mwezi"
+
+msgid "Order items"
+msgstr "vitu ili"
+
+msgid "No records found"
+msgstr "Hakuna rekodi kupatikana"
+
+msgid "User with this email is already exist"
+msgstr "User kwa barua pepe hii ni tayari zipo"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Folder au faili kwa jina vile ni tayari zipo katika marudio folder"
+
+msgid "Minimal quantity"
+msgstr "wingi ndogo"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "nakala ya magazeti"
+
+msgid "Terms of Use"
+msgstr "Masharti ya matumizi"
+
+msgid "Privacy Policy"
+msgstr "Sera ya faragha"
+
+msgid "Find project..."
+msgstr "Kupata mradi ..."
+
+msgid "New Project"
+msgstr "Mradi mpya"
+
+msgid "Accounts"
+msgstr "hesabu za"
+
+msgid "Operations"
+msgstr "shughuli"
+
+msgid "All accounts"
+msgstr "akaunti zote"
+
+msgid "All categories"
+msgstr "makundi yote"
+
+msgid "Expense"
+msgstr "gharama"
+
+msgid "Income"
+msgstr "mapato"
+
+msgid "Transfer"
+msgstr "uhamisho"
+
+msgid "Expense"
+msgstr "gharama"
+
+msgid "income"
+msgstr "mapato"
+
+msgid "tax"
+msgstr "kodi"
+
+msgid "percent"
+msgstr "asilimia"
+
+msgid "transfer"
+msgstr "uhamisho"
+
+msgid "Make operation"
+msgstr "kufanya operesheni"
+
+msgid "Select date"
+msgstr "Teule tarehe"
+
+msgid "Select account"
+msgstr "Teule ya akaunti"
+
+msgid "Month"
+msgstr "mwezi"
+
+msgid "Quarter"
+msgstr "robo"
+
+msgid "Year"
+msgstr "mwaka"
+
+msgid "From"
+msgstr "kutoka"
+
+msgid "To"
+msgstr "kwa"
+
+msgid "Expense amount"
+msgstr "gharama kiasi"
+
+msgid "Categories"
+msgstr "Jamii"
+
+msgid "Comments"
+msgstr "maoni"
+
+msgid "Income amount"
+msgstr "kiasi mapato"
+
+msgid "Transfer amount"
+msgstr "uhamisho kiasi"
+
+msgid "From account"
+msgstr "kutoka akaunti"
+
+msgid "To account"
+msgstr "akaunti"
+
+msgid "New Account"
+msgstr "Akaunti mpya"
+
+msgid "New Category"
+msgstr "New Jamii"
+
+msgid "All"
+msgstr "wote"
+
+msgid "Name"
+msgstr "jina"
+
+msgid "Enter category name"
+msgstr "Kuingia jamii jina"
+
+msgid "Select type"
+msgstr "Teule ya aina"
+
+msgid "Credit card"
+msgstr "kadi"
+
+msgid "Debit card"
+msgstr "kadi ya matumizi"
+
+msgid "Bank account"
+msgstr "akaunti ya benki"
+
+msgid "Cash"
+msgstr "Cash"
+
+msgid "Balance is empty"
+msgstr "Mizani ni tupu"
+
+msgid "Statistic is empty"
+msgstr "Takwimu ni tupu"
+
+msgid "Regular payments"
+msgstr "malipo ya mara kwa mara"
+
+msgid "Are you sure ?"
+msgstr "Una uhakika ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Una uhakika kwa karibu mradi huu?"
+
+msgid "Project was deleted successfully"
+msgstr "Mradi huo kufutwa kwa mafanikio"
+
+msgid "Select currency"
+msgstr "Teule ya fedha"
+
+msgid "Account"
+msgstr "akaunti"
+
+msgid "Orders list"
+msgstr "maagizo orodha"
+
+msgid "Order payments"
+msgstr "malipo ili"
+
+msgid "View order"
+msgstr "View utaratibu"
+
+msgid "No response from Printer API"
+msgstr "Hakuna majibu kutoka kwa Printer API"
+
+msgid "Bad response from Printer API"
+msgstr "Bad majibu kutoka kwa Printer API"
+
+msgid "User ID"
+msgstr "user ID"
+
+msgid "Contact Person"
+msgstr "Mtu wa kuwasiliana"
+
+msgid "No orders to process"
+msgstr "Hakuna amri ya mchakato"
+
+msgid "Article announce image"
+msgstr "Ibara kutangaza picha"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Video url batili. Acha tupu au kuingiza halali youtube url"
+
+msgid "Please, enter Contractor data"
+msgstr "Tafadhali , kuingia Mkandarasi wa data"
+
+msgid "Distribute devices"
+msgstr "kusambaza vifaa"
+
+msgid "Quantity"
+msgstr "kiasi"
+
+msgid "Devices left"
+msgstr "vifaa kushoto"
+
+msgid "Distributed devices"
+msgstr "vifaa kusambazwa"
+
+msgid "You must enter quantity"
+msgstr "Lazima kuingia wingi"
+
+msgid "All devices are distributed"
+msgstr "Vifaa vyote ni kusambazwa"
+
+msgid "IP address"
+msgstr "IP"
+
+msgid "Only for printer"
+msgstr "Tu kwa ajili ya mashine"
+
+msgid "Counter"
+msgstr "kukabiliana na"
+
+msgid "You was excluded from this room"
+msgstr "Wewe alikuwa kutengwa na chumba hiki"
+
+msgid "Compare"
+msgstr "kulinganisha"
+
+msgid "Scheduled transaction"
+msgstr "uliopangwa kufanyika shughuli"
+
+msgid "Select transfer account"
+msgstr "Teule ya akaunti ya uhamisho"
+
+msgid "Select income account"
+msgstr "Teule akaunti ya mapato"
+
+msgid "Reports"
+msgstr "ripoti"
+
+msgid "Goals"
+msgstr "malengo"
+
+msgid "Budgets"
+msgstr "bajeti"
+
+msgid "Enter user name or email..."
+msgstr "Kuingia jina la mtumiaji au barua pepe ..."
+
+msgid "Invite had been sended"
+msgstr "Kukaribisha alikuwa sended"
+
+msgid "Statistics"
+msgstr "takwimu ya"
+
+msgid "Updated site began to work"
+msgstr "Updated tovuti alianza kufanya kazi"
+
+msgid "City of residence"
+msgstr "Mji wa makazi"
+
+msgid "Edit favourites list"
+msgstr "Edit favorites orodha"
+
+msgid "Add favourites list"
+msgstr "Kuongeza favorites orodha"
+
+msgid "Categories is required"
+msgstr "Jamii anahitajika"
+
+msgid "Type new category name and hit Enter"
+msgstr "Aina mpya jamii jina na hit Enter"
+
+msgid "You created an order"
+msgstr "Wewe uliumba ili"
+
+msgid "You received a device due to this order"
+msgstr "Umepokea kifaa kutokana na utaratibu huu"
+
+msgid "%s attached %s to task %s"
+msgstr "%s masharti %s na kazi %s"
+
+msgid "member(s)"
+msgstr "mwanachama (s)"
+
+msgid "%s commented task %s"
+msgstr "%s Kazi maoni %s"
+
+msgid "%s closed task %s"
+msgstr "%s Kazi imefungwa %s"
+
+msgid "%s created task %s"
+msgstr "%s Kazi umba %s"
+
+msgid "%s created this project"
+msgstr "%s umba mradi huu"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s umba subproject \" %s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s kufungwa mradi wa \" %s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s imefungwa subproject \" %s\""
+
+msgid "This field must not be blank"
+msgstr "Uwanja huu lazima kuwa tupu"
+
+msgid "Document with such name is already exist"
+msgstr "Hati kwa jina vile ni tayari zipo"
+
+msgid "Wait until image upload"
+msgstr "Kusubiri hadi picha upload"
+
+msgid "Video"
+msgstr "Sehemu"
+
+msgid "Message can not be empty"
+msgstr "Ujumbe haiwezi kuwa tupu"
+
+msgid "Yes"
+msgstr "Ndiyo"
+
+msgid "No"
+msgstr "hakuna"
+
+msgid "Created"
+msgstr "kuundwa"
+
+msgid "Compare is empty"
+msgstr "Kulinganisha ni tupu"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Una uhakika unataka kufuta operesheni"
+
+msgid "Do you really want to delete transaction"
+msgstr "Je, kweli unataka kufuta shughuli"
+
+msgid "Project with same name already exists"
+msgstr "Mradi kwa jina moja tayari ipo"
+
+msgid "Account is not found"
+msgstr "Akaunti haupatikani"
+
+msgid "Currency is required"
+msgstr "Fedha inahitajika"
+
+msgid "error while deleting document"
+msgstr "hitilafu wakati wa kufuta hati"
+
+msgid "Expences"
+msgstr "expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Wewe walioalikwa mtumiaji \" %s\" katika chumba hiki"
+
+msgid "User \"%s\" joined this room"
+msgstr "User \" %s\" alijiunga chumba hiki"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Wewe kutengwa mtumiaji \" %s\" kutoka chumba hii"
+
+msgid "User \"%s\" left this room"
+msgstr "User \" %s \" kushoto chumba hiki"
+
+msgid "Add account"
+msgstr "kuongeza akaunti"
+
+msgid "The requested page is not found"
+msgstr "Ukurasa aliomba haupatikani"
+
+msgid "Document"
+msgstr "hati"
+
+msgid "Table"
+msgstr "meza"
+
+msgid "file(s)"
+msgstr "file (s)"
+
+msgid "Residue"
+msgstr "mabaki"
+
+msgid "Result is empty"
+msgstr "Matokeo yake ni tupu"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Kiasi Jumla ya %s kwa mo %s"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Una %s kila mwezi kwa amana kwa akaunti kuhusiana na"
+
+msgid "Start"
+msgstr "mwanzo"
+
+msgid "finish"
+msgstr "kumaliza"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Akaunti kuchaguliwa tayari katika matumizi kwa lengo lingine"
+
+msgid "Amount required"
+msgstr "kiasi cha fedha kinachohitajika"
+
+msgid "New goal"
+msgstr "lengo mpya"
+
+msgid "Goal"
+msgstr "lengo"
+
+msgid "Goal name"
+msgstr "jina bao"
+
+msgid "Invalid date"
+msgstr "tarehe batili"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Muhimu kiasi lazima idadi chanya"
+
+msgid "Remain"
+msgstr "kubaki"
+
+msgid "Last day"
+msgstr "Siku ya mwisho"
+
+msgid "Accumulated"
+msgstr "kusanyiko"
+
+msgid "Put aside"
+msgstr "kuweka kando"
+
+msgid "January"
+msgstr "Januari"
+
+msgid "February"
+msgstr "Februari"
+
+msgid "March"
+msgstr "Machi"
+
+msgid "April"
+msgstr "Aprili"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "July"
+msgstr "Julai"
+
+msgid "August"
+msgstr "Agosti"
+
+msgid "September"
+msgstr "Septemba"
+
+msgid "October"
+msgstr "Oktoba"
+
+msgid "November"
+msgstr "Novemba"
+
+msgid "December"
+msgstr "Desemba"
+
+msgid "Expenses projected/actual"
+msgstr "Gharama ya makadirio / halisi"
+
+msgid "Net Income projected/actual"
+msgstr "Net Mapato makadirio / halisi"
+
+msgid "New budget"
+msgstr "New bajeti"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Chati ya Mapato na Gharama"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Bajeti kwa jozi moja ya akaunti na jamii tayari ipo"
+
+msgid "Budget is empty"
+msgstr "Bajeti ni tupu"
+
+msgid "Budget"
+msgstr "bajeti"
+
+msgid "plan"
+msgstr "mpango"
+
+msgid "fact"
+msgstr "ukweli"
+
+msgid "diff"
+msgstr "tofauti"
+
+msgid "Show More"
+msgstr "Onyesha Zaidi"
+
+msgid "Cancel"
+msgstr "kufuta"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "dk"
+
+msgid "My sales"
+msgstr "mauzo yangu"
+
+msgid "Time spent"
+msgstr "muda wa kutumika"
+
+msgid "Total time spent"
+msgstr "Jumla ya muda wa kutumika"
+
+msgid "Earnings per hour"
+msgstr "Mapato kwa saa"
+
+msgid "Total earnings"
+msgstr "Jumla ya mapato"
+
+msgid "Call"
+msgstr "wito"
+
+msgid "Phone call"
+msgstr "simu simu"
+
+msgid "Telephone calls"
+msgstr "kupiga simu"
+
+msgid "Send email"
+msgstr "Kutuma barua pepe"
+
+msgid "Emails"
+msgstr "barua pepe"
+
+msgid "Meeting"
+msgstr "mkutano"
+
+msgid "Meetings"
+msgstr "mikutano"
+
+msgid "All events"
+msgstr "matukio yote"
+
+msgid "Task"
+msgstr "kazi"
+
+msgid "Event"
+msgstr "tukio"
+
+msgid "Events"
+msgstr "matukio"
+
+msgid "Time"
+msgstr "muda"
+
+msgid "Events statistics"
+msgstr "matukio takwimu"
+
+msgid "days"
+msgstr "siku"
+
+msgid "hours"
+msgstr "masaa"
+
+msgid "minutes"
+msgstr "dakika"
+
+msgid "Income & expense"
+msgstr "Mapato & gharama"
+
+msgid "Show chart"
+msgstr "show chati"
+
+msgid "Hide chart"
+msgstr "kujificha chati"
+
+msgid "Add event"
+msgstr "kuongeza tukio"
+
+msgid "Add financial data"
+msgstr "Kuongeza takwimu za fedha"
+
+msgid "Select contractor"
+msgstr "Teule mkandarasi"
+
+msgid "Net Income"
+msgstr "Net Mapato"
+
+msgid "Revenue"
+msgstr "mapato"
+
+msgid "Taxes"
+msgstr "kodi"
+
+msgid "Amount planned"
+msgstr "kiasi iliyopangwa"
+
+msgid "Amount"
+msgstr "kiasi"
+
+msgid "Period"
+msgstr "kipindi"
+
+msgid "Are you sure to close this task?"
+msgstr "Una uhakika kuifunga kazi hii?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "makundi yote"
+
+msgid "added from task"
+msgstr "aliongeza kutoka kazi"
+
+msgid "Monthly repeat"
+msgstr "Kila mwezi kurudia"
+
+msgid "Select category"
+msgstr "Teule jamii"
+
+msgid "Event type"
+msgstr "tukio aina"
+
+msgid "Margin"
+msgstr "kiasi"
+
+msgid "Use finance project"
+msgstr "Kutumia mradi fedha"
+
+msgid "New investment project"
+msgstr "New uwekezaji mradi"
+
+msgid "Investment project settings"
+msgstr "Mazingira ya mradi wa uwekezaji"
+
+msgid "Picture, for the announcement project"
+msgstr "Picha , kwa ajili ya mradi tangazo"
+
+msgid "Announcement project"
+msgstr "tangazo mradi"
+
+msgid "Video"
+msgstr "Sehemu"
+
+msgid "Photos or videos gallery"
+msgstr "Picha au video gallery"
+
+msgid "required amount"
+msgstr "kiasi required"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Muda Project ( siku 60 ya kiwango cha juu )"
+
+msgid "Project duration"
+msgstr "mradi muda"
+
+msgid "Add reward"
+msgstr "kuongeza malipo"
+
+msgid "Delivery date"
+msgstr "utoaji tarehe"
+
+msgid "Payment systems"
+msgstr "malipo ya mifumo"
+
+msgid "Terms of service"
+msgstr "Masharti ya huduma"
+
+msgid "Agreement"
+msgstr "Mkataba"
+
+msgid "Payment"
+msgstr "malipo"
+
+msgid "My projects"
+msgstr "miradi yangu"
+
+msgid "Search result"
+msgstr "Search matokeo"
+
+msgid "Nothing not found"
+msgstr "Hakuna kitu hakuonekana"
+
+msgid "The project has no sponsors"
+msgstr "Mradi hana wadhamini"
+
+msgid "Design"
+msgstr "kubuni"
+
+msgid "Food"
+msgstr "chakula"
+
+msgid "Journalism"
+msgstr "Uandishi wa Habari"
+
+msgid "Games"
+msgstr "Michezo"
+
+msgid "Art"
+msgstr "sanaa"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "Music"
+
+msgid "Handicrafts"
+msgstr "kazi za mikono"
+
+msgid "Publishing"
+msgstr "kuchapisha"
+
+msgid "Theater"
+msgstr "ukumbi"
+
+msgid "Technology"
+msgstr "teknolojia"
+
+msgid "Film/Video"
+msgstr "Filamu / video"
+
+msgid "Photo"
+msgstr "picha"
+
+msgid "Dance"
+msgstr "ngoma"
+
+msgid "Invalid youtube video"
+msgstr "Video batili youtube"
+
+msgid "is required"
+msgstr "inahitajika"
+
+msgid "User"
+msgstr "user"
+
+msgid "Date"
+msgstr "tarehe"
+
+msgid "Collected"
+msgstr "zilizokusanywa"
+
+msgid "Choose period"
+msgstr "kuchagua kipindi"
+
+msgid "Choose region"
+msgstr "kuchagua mkoa"
+
+msgid "Country"
+msgstr "Nchi"
+
+msgid "Today"
+msgstr "leo"
+
+msgid "Week"
+msgstr "wiki"
+
+msgid "Month"
+msgstr "mwezi"
+
+msgid "Year"
+msgstr "mwaka"
+
+msgid "Free registration"
+msgstr "bure usajili"
+
+msgid "Join"
+msgstr "kujiunga"
+
+msgid "Log in using"
+msgstr "Kuingia katika kutumia"
+
+msgid "Vacancies"
+msgstr "fursa za ajira"
+
+msgid "About Us"
+msgstr "Kuhusu sisi"
+
+msgid "You will need email to log in"
+msgstr "Unahitaji kuingia kwenye email"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Mchanganyiko wa 6 tarakimu na wahusika"
+
+msgid "Search users, groups, articles..."
+msgstr "Search watumiaji , vikundi , makala ..."
+
+msgid "Cloud"
+msgstr "wingu"
+
+msgid "Sunday"
+msgstr "Jumapili"
+
+msgid "Monday"
+msgstr "Jumatatu"
+
+msgid "Tuesday"
+msgstr "Jumanne"
+
+msgid "Wednesday"
+msgstr "Jumatano"
+
+msgid "Thursday"
+msgstr "Alhamisi"
+
+msgid "Friday"
+msgstr "Ijumaa"
+
+msgid "Saturday"
+msgstr "Jumamosi"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Create group"
+msgstr "kuunda kikundi"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Una uhakika unataka kuondoka kwenye ukurasa huu ?"
+
+msgid "More"
+msgstr "zaidi"
+
+msgid "Less"
+msgstr "chini"
+
+msgid "Pending"
+msgstr "inasubiri"
+
+msgid "Approved"
+msgstr "kupitishwa"
+
+msgid "Rejected"
+msgstr "kukataliwa"
+
+msgid "Subprojects"
+msgstr "subprojects"
+
+msgid "Group edit"
+msgstr "Group hariri"
+
+msgid "Startup"
+msgstr "Anzisha"
+
+msgid "Tattoo"
+msgstr "tattoo"
+
+msgid "Health"
+msgstr "afya"
+
+msgid "Weapon"
+msgstr "silaha"
+
+msgid "Astronomy"
+msgstr "Astronomy"
+
+msgid "All articles"
+msgstr "makala yote"
+
+msgid "Article editor"
+msgstr "Ibara mhariri"
+
+msgid "Document editor"
+msgstr "hati mhariri"
+
+msgid "Apply changes"
+msgstr "kuomba mabadiliko"
+
+msgid "Save changes?"
+msgstr "Hifadhi mabadiliko ?"
+
+msgid "published an article"
+msgstr "kuchapishwa makala"
+
+msgid "Users"
+msgstr "watumiaji"
+
+msgid "Shared With Me"
+msgstr "Pamoja na mimi"
+
+msgid "share"
+msgstr "kushiriki"
+
+msgid "Select Group Responsible"
+msgstr "Kuchagua Group Responsible"
+
+msgid "Create folder"
+msgstr "kujenga folder"
+
+msgid "Title must be at least 3 characters"
+msgstr "Kichwa lazima angalau herufi 3"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Bure 10 GB , meneja fedha, kuwekeza moduli, na mengine mengi kwa ajili ya bure na hata milele"
+
+msgid "Best regards"
+msgstr "kuhusu bora"
+
+msgid "Updates in last 12 hours:"
+msgstr "Updates katika masaa 12 iliyopita :"
+
+msgid "expense"
+msgstr "gharama"
+
+msgid "Commentary on the event:"
+msgstr "Ufafanuzi juu ya tukio :"
+
+msgid "Event place"
+msgstr "tukio mahali"
+
+msgid "Project was updated"
+msgstr "Mradi huo updated"
+
+msgid "Project was created"
+msgstr "Mradi iliundwa"
+
+msgid "Project was closed"
+msgstr "Mradi ulifungwa"
+
+msgid "account"
+msgstr "akaunti"
+
+msgid "removed task"
+msgstr "kazi kuondolewa"
+
+msgid "removed subproject"
+msgstr "kuondolewa subproject"
+
+msgid "Title can not be empty"
+msgstr "Jina haliwezi kuwa tupu"
+
+msgid "Do not select the type of event"
+msgstr "Je, si kuchagua aina ya tukio"
+
+msgid "Error while saving comment"
+msgstr "Makosa wakati kuokoa maoni"
+
+msgid "Save error: access denied"
+msgstr "Ila kosa: upatikanaji alikanusha"
+
+msgid "Remains"
+msgstr "mabaki"
+
+msgid "Time spent, h."
+msgstr "Muda wa kutumika , h."
+
+msgid "Emails"
+msgstr "barua pepe"
+
+msgid "Meetings"
+msgstr "mikutano"
+
+msgid "All users"
+msgstr "watumiaji wote"
+
+msgid "Category"
+msgstr "jamii"
+
+msgid "Finance project"
+msgstr "mradi wa Fedha"
+
+msgid "Investment project"
+msgstr "mradi wa uwekezaji"
+
+msgid "Nature"
+msgstr "Hali"
+
+msgid "Data is empty"
+msgstr "Takwimu ni tupu"
+
+msgid "Visitors"
+msgstr "wageni"
+
+msgid "My profile"
+msgstr "maelezo yangu"
+
+msgid "Sponsors"
+msgstr "wadhamini"
+
+msgid "Prior to completion"
+msgstr "Kabla ya kukamilika"
+
+msgid "Select"
+msgstr "Kuchagua"
+
+msgid "My groups"
+msgstr "makundi wangu"
+
+msgid "The invitation has been sent successfully"
+msgstr "Mwaliko ametumwa kwa mafanikio"
+
+msgid "Username has already been invited to this project"
+msgstr "Jina la mtumiaji tayari wamealikwa mradi huu"
+
+msgid "The user is the creator of the project"
+msgstr "User ni Muumba wa mradi"
+
+msgid "Provide full access"
+msgstr "Kutoa kupata picha kamili"
+
+msgid "Select elements to provide access"
+msgstr "Kuchagua mambo ya kutoa huduma"
+
+msgid "Select all"
+msgstr "kuchagua wote"
+
+msgid "User E-mail"
+msgstr "Maoni ya E-mail"
+
+msgid "Click on the field to select a category"
+msgstr "Click kwenye uwanja kuchagua jamii"
+
+msgid "Invitation was deleted"
+msgstr "Mwaliko ilikuwa imefutwa"
+
+msgid "Permission denied"
+msgstr "ruhusa alikanusha"
+
+msgid "Printed"
+msgstr "kuchapishwa"
+
+msgid "Incorrect Contractor email"
+msgstr "Mkandarasi sahihi email"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Je, unataka kuongeza mradi kufadhili meneja ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Kukamilisha mchakato wa usajili tafadhali kujaza chini ujuzi wako"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Barua pepe kwa maelekezo zaidi alitumwa barua pepe yako"
+
+msgid "Submit"
+msgstr "kuwasilisha"
+
+msgid "Cars"
+msgstr "Magari"
+
+msgid "Science"
+msgstr "Sayansi"
+
+msgid "Donation"
+msgstr "mchango"
+
+msgid "Interests"
+msgstr "maslahi"
+
+msgid "Driver"
+msgstr "dereva"
+
+msgid "Sportsman"
+msgstr "Mwanaspoti"
+
+msgid "Businessman"
+msgstr "mfanyabiashara"
+
+msgid "Accountant"
+msgstr "mhasibu"
+
+msgid "Engineer"
+msgstr "mhandisi"
+
+msgid "Soldier"
+msgstr "askari"
+
+msgid "Next"
+msgstr "ijayo"
+
+msgid "Hide group"
+msgstr "kujificha kundi"
+
+msgid "groups created"
+msgstr "makundi umba"
+
+msgid "articles written"
+msgstr "makala zilizoandikwa"
+
+msgid "These groups may be interesting for you"
+msgstr "Makundi haya inaweza kuwa na kuvutia kwa ajili yenu"
+
+msgid "About Group"
+msgstr "kuhusu Group"
+
+msgid "view(s)"
+msgstr "Mtazamo (s)"
+
+msgid "Favorite users"
+msgstr "watumiaji favorite"
+
+msgid "No accounts"
+msgstr "hakuna akaunti"
+
+msgid "Facebook authorization failed."
+msgstr "Idhini Picha alishindwa."
+
+msgid "Authorization Required"
+msgstr "idhini Inahitajika"
+
+msgid "You have to make a call:"
+msgstr "Una kupiga simu :"
+
+msgid "You have to send an email:"
+msgstr "Una kutuma barua pepe :"
+
+msgid "You have a meetup:"
+msgstr "Una meetup :"
+
+msgid "You event :"
+msgstr "Wewe tukio :"
+
+msgid "Participants:"
+msgstr "washiriki:"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "News"
+msgstr "Habari"
+
+msgid "Investments"
+msgstr "Uwekezaji"
+
+msgid "Back to Cloud"
+msgstr "Nyuma ya wingu"
+
+msgid "Documents"
+msgstr "hati"
+
+msgid "Planet"
+msgstr "Planet"
+
+msgid "Group url"
+msgstr "Group url"
+
+msgid "Profile url"
+msgstr "profile url"
+
+msgid "Already taken"
+msgstr "Imeshachukuliwa"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Angalau 1 barua na 3 chars urefu required"
+
+msgid "Digit can not be the first character"
+msgstr "Tarakimu hawezi kuwa tabia ya kwanza"
+
+msgid "Enter valid email address"
+msgstr "Kuingia halali ya barua pepe"
+
+msgid "Enter your skills"
+msgstr "Kuingia ujuzi wako"
+
+msgid "Enter your first name"
+msgstr "Kuingia jina lako kwanza"
+
+msgid "Enter your last name"
+msgstr "Kuingia jina lako la ukoo"
+
+msgid "Enter your first name and last name"
+msgstr "Kuingia jina lako la kwanza na jina la mwisho"
+
+msgid "Your first name?"
+msgstr "Jina lako la kwanza?"
+
+msgid "Your last name?"
+msgstr "Jina lako la ukoo ?"
+
+msgid "What are your proficiencies?"
+msgstr "Ni proficiencies yako ni nini?"
+
+msgid "Select country"
+msgstr "Teule nchi"
+
+msgid "Select user"
+msgstr "Teule ya mtumiaji"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Kutimiza ndoto yako! Kujenga na Kushirikiana ."
+
+msgid "date moved from"
+msgstr "tarehe wakiongozwa kutoka"
+
+msgid "work"
+msgstr "kazi"
+
+msgid "Conference"
+msgstr "mkutano"
+
+msgid "personal"
+msgstr "binafsi"
+
+msgid "Holiday"
+msgstr "likizo"
+
+msgid "Past"
+msgstr "Zamani"
+
+msgid "Future"
+msgstr "Baadaye"
+
+msgid "Purchase"
+msgstr "Ununuzi"
+
+msgid "Personal events"
+msgstr "Matukio Binafsi"
+
+msgid "Conferences"
+msgstr "Mkutano"
+
+msgid "Holidays"
+msgstr "Likizo"
+
+msgid "Sport events"
+msgstr "Matukio ya michezo"
+
+msgid "Tasks"
+msgstr "Kazi"
+
+msgid "Other events"
+msgstr "Matukio mengine"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Aliahirisha kesi"
+
+msgid "Time management"
+msgstr "Usimamizi wakati"
+
+msgid "Delayed events"
+msgstr "Matukio aliahirisha kesi"
+
+msgid "Delayed"
+msgstr "Aliahirisha kesi"
+
+msgid "Bind to"
+msgstr "Kuwapa"
+
+msgid "answered your comment to"
+msgstr "Nilisema (a) Maoni juu ya makala"
+
+msgid "commented your article"
+msgstr "Mimi maoni juu ya makala yako"
+
+msgid "You\'ve answered on comment to"
+msgstr "Wewe waliitikia maoni juu ya makala"
+
+msgid "You\'ve commented an article"
+msgstr "Wewe maoni juu ya makala"
+
+msgid "Terms and Conditions"
+msgstr "Kanuni na Masharti"
+
+msgid "Privacy Policy"
+msgstr "Sera ya faragha"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Kwa kubonyeza \"ishara ya juu\" unakubaliana na yetu na kukiri kwamba una kusoma yetu"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Kujiunga na jamii ya watu wabunifu kutoka duniani kote! Utapokea: Kuwekeza katika mawazo yako, nafasi ya kukusanya timu yake, kufanya kazi katika kundi hilo, meneja wa fedha, kusimamia muda wao, 2 gigabytes katika kuhifadhi na zaidi. Na ni bure!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Samahani, lakini ukurasa wewe ni kuangalia kwa haipo. Kama unafikiri kwamba lawama kwetu wasiliana nasi"
+
+msgid "Return"
+msgstr "Kurudi"
+
+msgid "COMMON"
+msgstr "Total"
+
+msgid "My events"
+msgstr "Matukio yangu"
+
+msgid "Job opening"
+msgstr "New nafasi"
+
+msgid "Employment"
+msgstr "Aina ya ajira"
+
+msgid "Working hours"
+msgstr "Ufunguzi masaa"
+
+msgid "City"
+msgstr "Mji"
+
+msgid "Wages"
+msgstr "Mshahara"
+
+msgid "Currency"
+msgstr "Fedha"
+
+msgid "Experience"
+msgstr "Uzoefu"
+
+msgid "Full-time"
+msgstr "Ajira kamili"
+
+msgid "Part-time"
+msgstr "Sehemu ya muda"
+
+msgid "Project employment"
+msgstr "Mradi / Muda"
+
+msgid "Volunteer"
+msgstr "Kujitolea"
+
+msgid "Internship"
+msgstr "Mafunzo ya"
+
+msgid "Full day"
+msgstr "Kamili Muda"
+
+msgid "Shifts"
+msgstr "Badala ratiba"
+
+msgid "Flexible shifts"
+msgstr "Rahisi ratiba"
+
+msgid "Remote work"
+msgstr "Kazi kijijini"
+
+msgid "Rotational basis"
+msgstr "Mabadiliko mbinu"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Una uhakika unataka kufuta maoni?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Una uhakika unataka kufuta jukumu hili?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Una uhakika unataka kufuta hii ndogo mradi?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Una kutumika kwa kampuni katika nafasi. Tafadhali kuhakikisha kwamba"
+
+msgid "Your request to for job has been rejected"
+msgstr "Ombi lako la kampuni na msimamo limekataliwa"
+
+msgid "Your request to for job has been accepted"
+msgstr "Ombi lako la kampuni na msimamo ilipitishwa"
+
+msgid "profile is completed"
+msgstr "Maelezo yako ni kamili"
+
+msgid "Use account"
+msgstr "Kutumia akaunti"
+
+msgid "$/hr"
+msgstr "$ / Saa"
+
+msgid "Finance category"
+msgstr "Financial jamii"
+
+msgid "No projects"
+msgstr "Hakuna miradi"
+
+msgid "Bind to finances"
+msgstr "Kuwapa mradi fedha"
+
+msgid "Preview"
+msgstr "View"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Save to my cloud"
+msgstr "Nakala there"
+
+msgid "File successfully saved to your cloud"
+msgstr "Faili mafanikio kuhifadhiwa katika there yako"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Ila faili hili katika there yako?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Kuchagua jamii Ibara"
+
+msgid "Type something"
+msgstr "Kuandika kitu"
+
+msgid "Founded users"
+msgstr "Watumiaji kupatikana"
+
+msgid "Founded articles"
+msgstr "Makala kupatikana"
+
+msgid "Founded groups"
+msgstr "Ilianzishwa kundi"
+
+msgid "What are your skills?"
+msgstr "Ni ujuzi wako ni nini?"
+
+msgid "Select at least 2 interests"
+msgstr "Kuchagua angalau 2 maslahi"
+
+msgid "Need more interests"
+msgstr "Si maslahi ya kutosha kuchaguliwa"
+
+msgid "What are you interesting in?"
+msgstr "Je, ni wewe nia?"
+
+msgid "You have no dialogs"
+msgstr "Huna majadiliano"
+
+msgid "Usage Stats"
+msgstr "Hali ya"
+
+msgid "Founded files"
+msgstr "Mafaili Kupatikana"
+
+msgid "Big tiles"
+msgstr "Matofali kubwa"
+
+msgid "Small tiles"
+msgstr "Matofali ndogo"
+
+msgid "Table view"
+msgstr "Meza mtazamo"
+
+msgid "Root folder"
+msgstr "Orodha mizizi"
+
+msgid "My files"
+msgstr "Files yangu"
+
+msgid "Save as draft"
+msgstr "Ila kama rasimu"
+
+msgid "Buy More Space"
+msgstr "Kununua nafasi zaidi"
+
+msgid "Buy"
+msgstr "Kununua"
+
+msgid "You have been invited to group as"
+msgstr "Umealikwa kwa kundi kama"
+
+msgid "User wants to join your group"
+msgstr "Mtumiaji anataka kujiunga na kundi lako"
+
+msgid "Section is coming soon!"
+msgstr "Sehemu ya chini ya ujenzi!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Maoni katika masaa 24 iliyopita:"
+
+msgid "Task was updated"
+msgstr "Kazi imekuwa updated"
+
+msgid "Task was closed"
+msgstr "Changamoto imekuwa imefungwa"
+
+msgid "Task was created"
+msgstr "Kazi ilianzishwa"
+
+msgid "Current balance"
+msgstr "Sasa usawa"
+
+msgid "Add funds"
+msgstr "Kuongeza"
+
+msgid "Pay"
+msgstr "Malipo"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Una ilizidi idadi ya majaribio ya kuingia. Wewe ni imefungwa kwa muda wa dakika 15"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Tafadhali kuthibitisha barua pepe yako. Barua kutumwa kwa njia ya barua."
+
+msgid "Resend confirmation email"
+msgstr "Kutuma uthibitisho tena"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB kwa mwezi"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Gari 10 GB kwa mwaka"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB kila mwaka"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1TB kila mwezi"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Gari 1 kifua kikuu kila mwaka"
+
+msgid "Project members monthly"
+msgstr "Washiriki wa mradi kila mwezi"
+
+msgid "Project members yearly"
+msgstr "Washiriki wa mradi kila mwaka"
+
+msgid "Member(s) yearly"
+msgstr "Mwanachama (s) kwa mwaka"
+
+msgid "Member(s) monthly"
+msgstr "Mwanachama (s) kila mwezi"
+
+msgid "Authorized"
+msgstr "Zilizoidhinishwa"
+
+msgid "Authorization expired"
+msgstr "Idhini muda wake"
+
+msgid "Processor declined"
+msgstr "Kukataliwa mfumo usindikaji"
+
+msgid "Gateway rejected"
+msgstr "Kukataliwa malipo ya lango"
+
+msgid "Failed"
+msgstr "Makosa"
+
+msgid "Voided"
+msgstr "Kutangua"
+
+msgid "Submitted for settlement"
+msgstr "Kupelekwa kujiandikisha"
+
+msgid "Settlement declined"
+msgstr "Uandikishaji limekataliwa"
+
+msgid "Settlement pending"
+msgstr "Uandikishaji inasubiri"
+
+msgid "Verified"
+msgstr "Kuchunguzwa"
+
+msgid "Pending"
+msgstr "Inasubiri"
+
+msgid "Active"
+msgstr "Kazi"
+
+msgid "Past Due"
+msgstr "Muda wake"
+
+msgid "Expired"
+msgstr "Kumalizika"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "India"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "South Korea"
+msgstr "Korea ya Kusini"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Turkey"
+msgstr "Uturuki"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Germany"
+msgstr "Ujerumani"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Netherlands"
+msgstr "Uholanzi"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "United Kingdom"
+msgstr "Mkuu wa Uingereza"
+
+msgid "Portugal"
+msgstr "Ureno"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "United States"
+msgstr "Marekani"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Brazil"
+msgstr "Brazili"
+
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+msgid "Canada"
+msgstr "Misri"
+
+msgid "Russia"
+msgstr "Urusi"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Kwa sasa, hapakuwa na shughuli moja"
+
+msgid "Fulfill your dream"
+msgstr "TIMIZA DREAM YAKO"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Kujiunga na jamii yetu ya watu binafsi ubunifu kutoka duniani kote."
+
+msgid "Create and Collaborate"
+msgstr "Kujenga na Kushirikiana"
+
+msgid "Fulfill your dream"
+msgstr "TIMIZA DREAM sasa"
+
+msgid "or"
+msgstr "au"
+
+msgid "Our mission:"
+msgstr "Dhamira yetu:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Kuunganisha watu ubunifu na kazi ya kutekeleza mawazo kutoka rahisi na mahitaji ya ajabu na ya ajabu, ambayo inaweza sura ya baadaye yetu."
+
+msgid "What is Konstruktor?"
+msgstr "Konstruktor ni nini?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor- ni sehemu ya maisha yetu halisi, ambayo kwa kiasi kikubwa kuwezesha na simplifies"
+
+msgid "*business processes"
+msgstr "* biashara michakato"
+
+msgid "*materialization of creative ideas"
+msgstr "* materialization ya mawazo ya ubunifu"
+
+msgid "*constructive cooperation"
+msgstr "* kujenga ushirikiano"
+
+msgid "Make your dream!"
+msgstr "Kufanya ndoto yako!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "Mkurugenzi Mtendaji"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Mshauri Maalum"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Meneja, Programu za"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Mwanasheria mwandamizi"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Designer"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Kwa kubonyeza \"Next\" button, wewe ni kukubali na kukubaliana na Masharti yetu na Masharti, na wewe ni kutambua kwamba una kusoma yetu Sera ya faragha."
+
+msgid "Incorrect login or password."
+msgstr "Sahihi ya kuingia au password."
+
+msgid "Password must be at least 6 characters"
+msgstr "Nywila lazima angalau 6 wahusika"
+
+msgid "January"
+msgstr "Januari"
+
+msgid "February"
+msgstr "Februari"
+
+msgid "March"
+msgstr "Machi"
+
+msgid "April"
+msgstr "Aprili"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "July"
+msgstr "Julai"
+
+msgid "August"
+msgstr "Agosti"
+
+msgid "September"
+msgstr "Septemba"
+
+msgid "October"
+msgstr "Oktoba"
+
+msgid "November"
+msgstr "Novemba"
+
+msgid "December"
+msgstr "Desemba"
+
+msgid "Chat"
+msgstr "Ongea"
+
+msgid "Files"
+msgstr "Mafaili"
+
+msgid "Statistic"
+msgstr "Takwimu"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Exit"
+msgstr "Toka"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Marketing specialist"
+msgstr "Wataalamu wa masoko"
+
+msgid "Administrator"
+msgstr "Msimamizi"
+
+msgid "Shared with me"
+msgstr "Pamoja na mimi"
+
+msgid "File Sharing"
+msgstr "Picha Sharing"
+
+msgid "Provide access by link"
+msgstr "Kutoa huduma na kiungo"
+
+msgid "Provide Individual access"
+msgstr "Kutoa huduma binafsi"
+
+msgid "Provide edit access"
+msgstr "Kutoa hariri upatikanaji"
+
+msgid "Share"
+msgstr "Kushiriki"
+
+msgid "Files will be available only for selected users"
+msgstr "Mafaili itakuwa inapatikana tu kwa watumiaji kuchaguliwa"
+
+msgid "With this link everyone can access to the files"
+msgstr "Na hili viungo kila mmoja anaweza kupata mafaili"
+
+msgid "Search users, groups, articles..."
+msgstr "Search watumiaji, vikundi, makala ..."
+
+msgid "My Group"
+msgstr "Kundi yangu"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Sisi"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Padre"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Faili ni si kuchaguliwa"
+
+msgid "Set aside"
+msgstr "Tenga"
+
+msgid "Event time"
+msgstr "Tukio wakati"
+
+msgid "Work"
+msgstr "Kazi"
+
+msgid "Personal"
+msgstr "Binafsi"
+
+msgid "Time spent for work:"
+msgstr "Muda wa kutumika kwa kazi:"
+
+msgid "Personal time spent:"
+msgstr "Muda binafsi alitumia:"
+
+msgid "Present"
+msgstr "Sasa"
+
+msgid "Common"
+msgstr "Kawaida"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "Entertainment"
+msgstr "Burudani"
+
+msgid "Select:"
+msgstr "Kuchagua:"
+
+msgid "Invalid username or password."
+msgstr "Jina batili la mtumiaji au password."
+
+msgid "Try again."
+msgstr "Jaribu tena."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "NINI YOU nia ya?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Kuchagua angalau 2 ujuzi: unabakia 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Kuchagua angalau 2 ujuzi: 1 unabakia"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Kuchagua angalau 2 ujuzi: mabaki"
+
+msgid "Active life"
+msgstr "Maisha ya kazi"
+
+msgid "Arts and culture"
+msgstr "Sanaa na utamaduni"
+
+msgid "Business"
+msgstr "Biashara"
+
+msgid "Cinema"
+msgstr "Cinema"
+
+msgid "Communications"
+msgstr "Mawasiliano"
+
+msgid "Construction and repair"
+msgstr "Ujenzi na ukarabati"
+
+msgid "Cooking"
+msgstr "Kupikia"
+
+msgid "Education"
+msgstr "Elimu"
+
+msgid "Electronics"
+msgstr "Duka"
+
+msgid "Finances"
+msgstr "Fedha"
+
+msgid "Graphics and design"
+msgstr "Graphics na kubuni"
+
+msgid "Health"
+msgstr "Afya"
+
+msgid "Home and family"
+msgstr "Nyumba na familia"
+
+msgid "Humor"
+msgstr "Humor"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Viwanda"
+
+msgid "Insurance"
+msgstr "Bima"
+
+msgid "Literature"
+msgstr "Fasihi"
+
+msgid "Mobile communications and internet"
+msgstr "Mawasiliano ya simu na internet"
+
+msgid "News and Media"
+msgstr "Habari na Vyombo vya Habari"
+
+msgid "Pets"
+msgstr "Pets"
+
+msgid "Products and service"
+msgstr "Bidhaa na huduma"
+
+msgid "Real Estate"
+msgstr "Majengo"
+
+msgid "Religion"
+msgstr "Dini"
+
+msgid "Science and techs"
+msgstr "Sayansi na techs"
+
+msgid "Security"
+msgstr "Usalama"
+
+msgid "Society"
+msgstr "Society"
+
+msgid "Television"
+msgstr "Televisheni"
+
+msgid "Travel"
+msgstr "Travel"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belgium"
+msgstr "Ubelgiji"
+
+msgid "Brazil"
+msgstr "Brazili"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Denmark"
+
+msgid "France"
+msgstr "Ufaransa"
+
+msgid "Germany"
+msgstr "Ujerumani"
+
+msgid "Greece"
+msgstr "Ugiriki"
+
+msgid "Hungary"
+msgstr "Hungary"
+
+msgid "Iceland"
+msgstr "Iceland"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Netherlands"
+msgstr "Uholanzi"
+
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Portugal"
+msgstr "Ureno"
+
+msgid "Russia"
+msgstr "Urusi"
+
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgid "South Africa"
+msgstr "Africa Kusini"
+
+msgid "South Korea"
+msgstr "Korea kusini"
+
+msgid "Spain"
+msgstr "Hispania"
+
+msgid "Sweden"
+msgstr "Sweden"
+
+msgid "Switzerland"
+msgstr "Uswisi"
+
+msgid "Turkey"
+msgstr "Uturuki"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "United Arab Emirates"
+msgstr "Umoja wa Falme za Kiarabu"
+
+msgid "United Kingdom"
+msgstr "Uingereza"
+
+msgid "United States"
+msgstr "Marekani"
+
+msgid "achievements"
+msgstr "Mafanikio"
+
+msgid "Investment management"
+msgstr "Usimamizi wa uwekezaji"
+
+msgid "Select..."
+msgstr "Kuchagua ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "UWEKEZAJI USIMAMIZI"
+
+msgid "Investors list"
+msgstr "Wawekezaji orodha"
+
+msgid "My investments"
+msgstr "Uwekezaji yangu"
+
+msgid "Create date"
+msgstr "Kujenga tarehe"
+
+msgid "Author of the project"
+msgstr "Mwandishi wa mradi"
+
+msgid "Date and time"
+msgstr "Tarehe na wakati"
+
+msgid "Status"
+msgstr "Hali"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+msgid "Next"
+msgstr "Ijayo"
+
+msgid "Apply"
+msgstr "Kuomba"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Sayansi"
+
+msgid "Architecture"
+msgstr "Usanifu"
+
+msgid "Photography"
+msgstr "Picha"
+
+msgid "Designer"
+msgstr "Designer"
+
+msgid "IT specialist"
+msgstr "IT mtaalamu"
+
+msgid "Agronomist"
+msgstr "Kilimo"
+
+msgid "Architect"
+msgstr "Architector"
+
+msgid "Lawyer"
+msgstr "Mwanasheria"
+
+msgid "Writer"
+msgstr "Mwandishi"
+
+msgid "Doctor"
+msgstr "Daktari"
+
+msgid "Scientist"
+msgstr "Mwanasayansi"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Mwalimu"
+
+msgid "Cook"
+msgstr "Mpishi"
+
+msgid "Artist"
+msgstr "Msanii"
+
+msgid "Photographer"
+msgstr "Mpiga picha"
+
+msgid "Ecologist"
+msgstr "Viumbe"
+
+msgid "Economist"
+msgstr "Mchumi"
+
+msgid "Logistician"
+msgstr "Vifaa wa"
+
+msgid "Journalist"
+msgstr "Mwandishi wa habari"
+
+msgid "Builder"
+msgstr "Wajenzi"
+
+msgid "These users may be interesting for you"
+msgstr "Watumiaji hawa inaweza kuwa ya kuvutia kwa ajili yenu"
+
+msgid "These articles may be interesting for you"
+msgstr "Makala hizi inaweza kuwa ya kuvutia kwa ajili yenu"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Wewe kujiunga na kundi hili kama Аdministrator"
+
+msgid "articles written."
+msgstr "makala zilizoandikwa."
+
+msgid "groups created."
+msgstr "makundi kuundwa."
+
+msgid "Creation"
+msgstr "Viumbe"
+
+msgid "Build a dream"
+msgstr "kujenga ndoto"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Kusoma makala ya kuvutia zaidi - kwenda bure usajili"
+

@@ -1,0 +1,3344 @@
+# Malagasy (Малагасийский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Malagasy (Малагасийский) <support@konstruktor.com>\n"
+"Language: Malagasy (Малагасийский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "Solonanarana"
+
+msgid "Invalid username or password, try again"
+msgstr "Solonanarana diso na ny tenimiafina . Andramo indray mandeha."
+
+msgid "Settings"
+msgstr "toe-javatra"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "You must log in to access this page"
+msgstr "Tsy maintsy miditra ao ny mahazo ity pejy ity"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Ny fivoriana dia afaka ny ainy . Azafady , relogin hanatanteraka izany asa"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Head Office"
+msgstr "Birao Foibe"
+
+msgid "Address"
+msgstr "Address"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Apply"
+msgstr "Ampiharo"
+
+msgid "Upload files…"
+msgstr "Mampakatra antontan-taratasy ..."
+
+msgid "Set as main"
+msgstr "Mametraha ho lehibe"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Original image"
+msgstr "Original sary"
+
+msgid "Uploaded"
+msgstr "Uploaded"
+
+msgid "File name"
+msgstr "anaran\'ny fisie"
+
+msgid "File size"
+msgstr "File size"
+
+msgid "Resolution"
+msgstr "Fanapahan-kevitra"
+
+msgid "Enlarge"
+msgstr "Halalaho"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Original size"
+msgstr "Original habeny"
+
+msgid "For editor"
+msgstr "ny tonian-dahatsoratra"
+
+msgid "Resize"
+msgstr "Resize"
+
+msgid "Width"
+msgstr "sakany"
+
+msgid "Height"
+msgstr "Haavo"
+
+msgid "Media URL"
+msgstr "Media URL"
+
+msgid "Add record"
+msgstr "Add firaketana"
+
+msgid "Show filter settings"
+msgstr "Show sivana Settings"
+
+msgid "Edit record"
+msgstr "Edit firaketana"
+
+msgid "Delete record"
+msgstr "Delete firaketana"
+
+msgid "Delete checked records"
+msgstr "Delete teny firaketana"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Remember me"
+msgstr "Tsarovy aho"
+
+msgid "Login"
+msgstr "Hiditra"
+
+msgid "Clean image cache"
+msgstr "Clean sary cache"
+
+msgid "Processing query..."
+msgstr "Fikarakarana fangataham-panazavana ..."
+
+msgid "CMS Development"
+msgstr "CMS Development"
+
+msgid "Admin Home Page"
+msgstr "Admin Home Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Open Home pejy ny Front - mandrakizay ao amin\'ny vakizoro vaovao"
+
+msgid "Go to Site"
+msgstr "Mandehana any Site"
+
+msgid "Log out"
+msgstr "midira avy"
+
+msgid "Send"
+msgstr "Alefaso"
+
+msgid "General"
+msgstr "General"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Teaser"
+msgstr "Teaser"
+
+msgid "Published"
+msgstr "Published"
+
+msgid "Featured"
+msgstr "asongadina"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Field is mandatory"
+msgstr "Field no tsy maintsy"
+
+msgid "Sort Order"
+msgstr "Sort Order"
+
+msgid "Upload"
+msgstr "Upload"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "Martsa"
+
+msgid "Apr"
+msgstr "Aprily"
+
+msgid "May"
+msgstr "May"
+
+msgid "Jun"
+msgstr "Jona"
+
+msgid "Jul"
+msgstr "Jolay"
+
+msgid "Aug"
+msgstr "Aogositra"
+
+msgid "Sep"
+msgstr "Septambra"
+
+msgid "Oct"
+msgstr "Oktobra"
+
+msgid "Nov"
+msgstr "Novambra"
+
+msgid "Dec"
+msgstr "Desambra"
+
+msgid "Product already exists in the order"
+msgstr "Vokatra efa misy ao amin\'ny lamina"
+
+msgid "Product does not exist"
+msgstr "Vokatra tsy misy"
+
+msgid "Incorrect request"
+msgstr "diso fangatahana"
+
+msgid "Products"
+msgstr "Products"
+
+msgid "Product types"
+msgstr "Product karazana"
+
+msgid "Contractors"
+msgstr "Contractors"
+
+msgid "Contractor"
+msgstr "mpiantoka"
+
+msgid "Orders"
+msgstr "Filaharana"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "New mba"
+
+msgid "My orders"
+msgstr "ny baiko"
+
+msgid "Recharge balance"
+msgstr "Recharge mizana"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Incorrect event ID"
+msgstr "Hetsika diso ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Edit mpiantoka"
+
+msgid "Create contractor"
+msgstr "Pejy mpiantoka"
+
+msgid "Edit question"
+msgstr "Edit fanontaniana"
+
+msgid "Create question"
+msgstr "Pejy fanontaniana"
+
+msgid "Edit order"
+msgstr "Edit mba"
+
+msgid "Create order"
+msgstr "Pejy filaminana"
+
+msgid "Edit product"
+msgstr "Hanova ny vokatra"
+
+msgid "Create product"
+msgstr "Pejy vokatra"
+
+msgid "Edit product type"
+msgstr "Edit vokatra karazana"
+
+msgid "Create product type"
+msgstr "Pejy vokatra karazana"
+
+msgid "You have received a file"
+msgstr "Efa nahazo rakitra"
+
+msgid "You received a file from"
+msgstr "Nahazo rakitra ianao avy"
+
+msgid "File has been uploaded"
+msgstr "File no nampakatra"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "zara be"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "zavatra"
+
+msgid "Remove"
+msgstr "Esory"
+
+msgid "Contact person"
+msgstr "olona ifandraisana"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Contractor phone"
+msgstr "mpiantoka finday"
+
+msgid "Contractor name"
+msgstr "mpiantoka anarana"
+
+msgid "Contractor details"
+msgstr "mpiantoka antsipirihany"
+
+msgid "Order ID"
+msgstr "Order ID"
+
+msgid "Sum"
+msgstr "Sum"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Fidio izay mety rafitra fandoavam-bola ny recharge ny fifandanjana"
+
+msgid "Recharge amount"
+msgstr "Recharge vola"
+
+msgid "Paid"
+msgstr "Paid"
+
+msgid "Shipped"
+msgstr "alefa"
+
+msgid "- No products in this order -"
+msgstr "- Tsy misy vokatra ao amin\'ity lamin\'ny -"
+
+msgid "month"
+msgstr "volana"
+
+msgid "No user found"
+msgstr "Tsy misy mpampiasa hita"
+
+msgid "Achievement"
+msgstr "zava-bitany"
+
+msgid "Confirmed accomplishments"
+msgstr "voamarina zava-bita"
+
+msgid "Remove achievement"
+msgstr "Esory zava-bitany"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "Phone"
+
+msgid "Site URL and email"
+msgstr "Site URL sy ny mailaka"
+
+msgid "Remove address"
+msgstr "Esory adiresy"
+
+msgid "Members"
+msgstr "Members"
+
+msgid "Requires a payment"
+msgstr "Mitaky fandoavam-bola"
+
+msgid "Shipping"
+msgstr "fandefasana"
+
+msgid "Ready"
+msgstr "vonona"
+
+msgid "Find user..."
+msgstr "Find mpampiasa ..."
+
+msgid "Order it"
+msgstr "levitra izany"
+
+msgid "Find group..."
+msgstr "Find vondrona ..."
+
+msgid "Find user or community..."
+msgstr "Mitadiava mpampiasa na ny fiaraha-monina ..."
+
+msgid "No item found"
+msgstr "Tsy misy zavatra hita"
+
+msgid "years"
+msgstr "taona"
+
+msgid "Send message"
+msgstr "Alefaso hafatra"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "To send message press Enter"
+msgstr "Ny handefa hafatra gazety Enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Ny handefa hafatra gazety Ctrl + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Fikarakarana rakitra ( s) ..."
+
+msgid "Group settings"
+msgstr "Group Fikirana"
+
+msgid "Create group"
+msgstr "Pejy vondrona"
+
+msgid "Group has been successfully saved"
+msgstr "Group no soa aman-tsara voavonjy"
+
+msgid "Group title"
+msgstr "Group Lohateny"
+
+msgid "Group video"
+msgstr "Group Video"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Your role in group"
+msgstr "Ny anjara asany eo amin\'ny vondrona"
+
+msgid "Role"
+msgstr "anjara asan\'ny"
+
+msgid "Photo or video gallery"
+msgstr "Photo na lahatsary Gallery"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Upload Video"
+
+msgid "Add group address"
+msgstr "Add vondrona adiresy"
+
+msgid "Group articles"
+msgstr "Group lahatsoratra"
+
+msgid "No addresses yet"
+msgstr "Tsy misy adiresy mbola"
+
+msgid "Add group achievement"
+msgstr "Add vondrona zava-bitany"
+
+msgid "No achivements yet"
+msgstr "No achivements mbola"
+
+msgid "Are you sure to delete this user"
+msgstr "Azonao antoka hamafa mpampiasa ity"
+
+msgid "Add member"
+msgstr "Add mpikambana"
+
+msgid "Are you sure to delete this record?"
+msgstr "Azonao antoka hamafa ity rakitsoratra ity ?"
+
+msgid "Join this group"
+msgstr "Join ity vondrona ity"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Ny fanasana nalefa tany amin\'ny vondrona mpandrindra"
+
+msgid "All addresses"
+msgstr "adiresy rehetra"
+
+msgid "Collapse"
+msgstr "Collapse"
+
+msgid "Achievements"
+msgstr "zava-bita"
+
+msgid "Show more"
+msgstr "Asehoy more"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "Projects"
+msgstr "Projects"
+
+msgid "New project"
+msgstr "New tetikasa"
+
+msgid "Project has not been created yet"
+msgstr "Tetikasa dia tsy noforonina mbola"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "Balance"
+
+msgid "Main page"
+msgstr "Main pejy"
+
+msgid "Upload image"
+msgstr "Upload sary"
+
+msgid "My time"
+msgstr "ny fotoana"
+
+msgid "Day"
+msgstr "Day"
+
+msgid "Week"
+msgstr "Week"
+
+msgid "Project settings"
+msgstr "Project Fikirana"
+
+msgid "Create project"
+msgstr "Pejy tetikasa"
+
+msgid "Project has been successfully saved"
+msgstr "Tetikasa no soa aman-tsara voavonjy"
+
+msgid "Project name"
+msgstr "Tetikasa anarana"
+
+msgid "Deadline"
+msgstr "fe-Potoana"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Assigned to"
+msgstr "notendrena ho"
+
+msgid "Discussion"
+msgstr "Discussion"
+
+msgid "Task was created"
+msgstr "Task noforonina"
+
+msgid "Task was closed"
+msgstr "Task nakatona"
+
+msgid "Go to Group"
+msgstr "Mandehana any Group"
+
+msgid "Closed"
+msgstr "nakatona"
+
+msgid "Last updates"
+msgstr "Last vaovao farany"
+
+msgid "Project is closed"
+msgstr "Project no mihidy"
+
+msgid "No open tasks"
+msgstr "Tsy misy asa misokatra"
+
+msgid "New task"
+msgstr "New asa"
+
+msgid "Closed tasks"
+msgstr "mihidy asa"
+
+msgid "Add subproject"
+msgstr "Add subproject"
+
+msgid "Add task"
+msgstr "Add asa"
+
+msgid "Sun"
+msgstr "Alahady"
+
+msgid "Mon"
+msgstr "Alatsinainy"
+
+msgid "Tue"
+msgstr "Talata"
+
+msgid "Wed"
+msgstr "Alarobia"
+
+msgid "Thur"
+msgstr "Alakamisy"
+
+msgid "Fri"
+msgstr "Zoma"
+
+msgid "Sat"
+msgstr "Asabotsy"
+
+msgid "Event title"
+msgstr "Event anaram-boninahitra"
+
+msgid "Event description"
+msgstr "Event famaritana"
+
+msgid "I registered on this site"
+msgstr "Aho, voasoratra an- toerana"
+
+msgid "Last created groups"
+msgstr "Last namorona vondrona"
+
+msgid "You joined this group as"
+msgstr "Ianao niaraka ity vondrona ity ho toy"
+
+msgid "You received a request to join the group"
+msgstr "Efa nahazo fangatahana mba hanatevin-daharana ny vondrona"
+
+msgid "Updated site"
+msgstr "Nohavaozina toerana"
+
+msgid "Site is under construction"
+msgstr "Site dia -dalam-panorenana"
+
+msgid "Last registered users"
+msgstr "Last voasoratra anarana mpampiasa"
+
+msgid "User settings"
+msgstr "User toe-javatra"
+
+msgid "Technical support"
+msgstr "tohana ara-teknika"
+
+msgid "Change email"
+msgstr "Change mailaka"
+
+msgid "Change password"
+msgstr "hanova tenimiafina"
+
+msgid "User has been successfully saved"
+msgstr "Mpampiasa no soa aman-tsara voavonjy"
+
+msgid "Full name"
+msgstr "Anarana feno"
+
+msgid "My video"
+msgstr "My Video"
+
+msgid "Skills"
+msgstr "Skills"
+
+msgid "Birthday"
+msgstr "Birthday"
+
+msgid "Country of residence"
+msgstr "Firenena onenana"
+
+msgid "Country"
+msgstr "Firenena"
+
+msgid "Zip Code"
+msgstr "Kaody positaly"
+
+msgid "City/town of residence"
+msgstr "City / town -ponenana"
+
+msgid "University/college"
+msgstr "University / oniversite"
+
+msgid "University/college photo"
+msgstr "University / oniversite sary"
+
+msgid "Add user\'s accomplishments"
+msgstr "Add mpampiasa ny zava-bita"
+
+msgid "Interface language"
+msgstr "Interface teny"
+
+msgid "How other people see this page"
+msgstr "Ahoana ny olon-kafa nahita ity pejy ity"
+
+msgid "Video with me"
+msgstr "Video amiko"
+
+msgid "Groups"
+msgstr "Groups"
+
+msgid "Registered today"
+msgstr "Registered ankehitriny"
+
+msgid "Qty"
+msgstr "Qty"
+
+msgid "No registered users yet"
+msgstr "Tsy mbola voasoratra mpampiasa"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Registered total"
+msgstr "Registered sokajy"
+
+msgid "You received a file"
+msgstr "Ianao Nahazo rakitra"
+
+msgid "You were invited into this room"
+msgstr "Ianao Nasaina ho amin\'izany efitrano"
+
+msgid "Request is being processed"
+msgstr "Fangatahana no ho ampiasaina"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Messenger"
+msgstr "Messenger"
+
+msgid "New subproject"
+msgstr "New subproject"
+
+msgid "messages written."
+msgstr "hafatra voasoratra ."
+
+msgid "projects created based on groups."
+msgstr "Noforonina tetikasa mifototra amin\'ny vondrona ."
+
+msgid "users registered on website."
+msgstr "mpampiasa voasoratra ao amin\'ny tranonkala ."
+
+msgid "New email"
+msgstr "New mailaka"
+
+msgid "Confirm email"
+msgstr "Hamarino ny mailaka"
+
+msgid "New password"
+msgstr "Tenimiafina vaovao"
+
+msgid "Confirm password"
+msgstr "Hamafiso ny tenimiafina"
+
+msgid "Occupation"
+msgstr "Speciality"
+
+msgid "Timezone"
+msgstr "Timezone"
+
+msgid "Answer"
+msgstr "valiny"
+
+msgid "Articles"
+msgstr "Articles"
+
+msgid "Article"
+msgstr "Article"
+
+msgid "Video-article"
+msgstr "Video - lahatsoratra"
+
+msgid "Find article..."
+msgstr "Find lahatsoratra ..."
+
+msgid "Politics"
+msgstr "politika"
+
+msgid "Economics"
+msgstr "toekarena"
+
+msgid "Community"
+msgstr "Community"
+
+msgid "Culture"
+msgstr "Kolontsaina"
+
+msgid "Sports"
+msgstr "Sports"
+
+msgid "Hi-tech"
+msgstr "Hi - Tech"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Fashion"
+msgstr "Fashion"
+
+msgid "Games"
+msgstr "Games"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Invalid mediafile"
+msgstr "tsy mety mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Tsy misy lahatsoratra ao amin\'ny sokajy ity mbola"
+
+msgid "Back to profile"
+msgstr "Back to profile"
+
+msgid "View article"
+msgstr "View lahatsoratra"
+
+msgid "Edit article"
+msgstr "Edit lahatsoratra"
+
+msgid "Create article"
+msgstr "Create lahatsoratra"
+
+msgid "Article title"
+msgstr "Article anaram-boninahitra"
+
+msgid "Article section"
+msgstr "Article section"
+
+msgid "Choose image"
+msgstr "Mifidiana sary"
+
+msgid "Save and upload"
+msgstr "Vonjeo ka mampakatra"
+
+msgid "Show more..."
+msgstr "Asehoy more ..."
+
+msgid "Create"
+msgstr "mamorona"
+
+msgid "Edit"
+msgstr "Ovay"
+
+msgid "Project"
+msgstr "tetikasa"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "A new article was published"
+msgstr "Lahatsoratra vaovao Navoaka"
+
+msgid "You joined this project"
+msgstr "Ianao nanatevin-daharana ity tetikasa ity"
+
+msgid "Enter your information in the User settings"
+msgstr "Ampidiro ny vaovao ao amin\'ny User toe-javatra"
+
+msgid "Communities"
+msgstr "fiaraha-monina"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Video fanolorana ny zava-bitany"
+
+msgid "My articles"
+msgstr "My lahatsoratra"
+
+msgid "User"
+msgstr "User"
+
+msgid "Users"
+msgstr "Users"
+
+msgid "Add new list"
+msgstr "Add new lisitra"
+
+msgid "List title"
+msgstr "List anaram-boninahitra"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Add to favorites"
+msgstr "Manampy ny favoris"
+
+msgid "Delete from favorites"
+msgstr "Delete avy amin\'ny favoris"
+
+msgid "Select list"
+msgstr "Select lisitra"
+
+msgid "Subscriptions"
+msgstr "famandrihana"
+
+msgid "Subscribe"
+msgstr "Subscribe"
+
+msgid "Unsubscribe"
+msgstr "Unsubscribe"
+
+msgid "General list"
+msgstr "General lisitra"
+
+msgid "No users in this list"
+msgstr "Tsy misy mpampiasa ao amin\'io lisitra"
+
+msgid "Publish"
+msgstr "Publish"
+
+msgid "Unpublish"
+msgstr "Unpublish"
+
+msgid "Add user"
+msgstr "Add mpampiasa"
+
+msgid "Create document"
+msgstr "hamorona antontan-taratasy"
+
+msgid "Edit document"
+msgstr "Hanova ny antontan-taratasy"
+
+msgid "View"
+msgstr "View"
+
+msgid "Document title"
+msgstr "Document anaram-boninahitra"
+
+msgid "Find document..."
+msgstr "Find taratasy ..."
+
+msgid "Share your thoughts"
+msgstr "Zarao ny hevitrao"
+
+msgid "Leave your comment"
+msgstr "Leave ny fanehoan-kevitra"
+
+msgid "Accept"
+msgstr "Ekeo"
+
+msgid "Decline"
+msgstr "fihenan\'ny"
+
+msgid "Add article"
+msgstr "Add lahatsoratra"
+
+msgid "Link to verified accomplishments"
+msgstr "Link ho voamarina zava-bita"
+
+msgid "No articles here yet..."
+msgstr "Tsy misy lahatsoratra eto mbola ..."
+
+msgid "Find file or folder..."
+msgstr "Hita ilay rakitra na fampirimana ..."
+
+msgid "Sort"
+msgstr "Sort"
+
+msgid "By name"
+msgstr "amin\'ny anarany"
+
+msgid "By date"
+msgstr "araka ny daty"
+
+msgid "By updated date"
+msgstr "By nohavaozina daty"
+
+msgid "By size"
+msgstr "araka ny habeny"
+
+msgid "By type"
+msgstr "By karazana"
+
+msgid "Move"
+msgstr "Move"
+
+msgid "File Manager"
+msgstr "File Manager"
+
+msgid "Share link"
+msgstr "Share rohy"
+
+msgid "Responsible"
+msgstr "tompon\'andraikitra"
+
+msgid "Performer"
+msgstr "mpanakanto"
+
+msgid "New Folder"
+msgstr "New Folder"
+
+msgid "Folder name"
+msgstr "fampirimana anarana"
+
+msgid "By default"
+msgstr "By toerana misy anao"
+
+msgid "Back to group"
+msgstr "Back to vondrona"
+
+msgid "year(s)"
+msgstr "taona (s)"
+
+msgid "January"
+msgstr "janvier"
+
+msgid "February"
+msgstr "février"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "Aprily"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "Jona"
+
+msgid "July"
+msgstr "Jolay"
+
+msgid "August"
+msgstr "Aogositra"
+
+msgid "September"
+msgstr "Septambra"
+
+msgid "October"
+msgstr "Oktobra"
+
+msgid "November"
+msgstr "Novambra"
+
+msgid "December"
+msgstr "Desambra"
+
+msgid "Password Reminder"
+msgstr "Fampahatsiahivana tenimiafina"
+
+msgid "Log In"
+msgstr "Hiditra"
+
+msgid "Sign in"
+msgstr "Hiditra"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "First name"
+msgstr "Fanampin\'anarana"
+
+msgid "Last name"
+msgstr "Anarana"
+
+msgid "I agree with rules"
+msgstr "I miombon-kevitra amin\'ny fitsipika"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Nisy fanamarinana namany Sary nalefa tany ny adiresy mailaka."
+
+msgid "Thanks"
+msgstr "misaotra"
+
+msgid "Password must be at least 6 characters"
+msgstr "Password dia tsy maintsy ho farafahakeliny 6 endri-tsoratra"
+
+msgid "Creative Environment"
+msgstr "famoronana Tontolo iainana"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Mila ho telo ambin\'ny folo taona, fara fahakeliny, ny taona mba hampiasa izany fanompoana izany"
+
+msgid "Order status"
+msgstr "Order sata"
+
+msgid "Processing order"
+msgstr "fikarakarana mba"
+
+msgid "Requires a payment"
+msgstr "Dia mitaky ny fandoavam-bola"
+
+msgid "Shipping"
+msgstr "Fandefasana"
+
+msgid "Ready"
+msgstr "vonona"
+
+msgid "Thank you for your payment"
+msgstr "Misaotra anao noho ny fandoavam-bola"
+
+msgid "Your payment has been cancelled"
+msgstr "Ny fandoavam-bola dia nofoanana"
+
+msgid "page"
+msgstr "pejy"
+
+msgid "Rent period"
+msgstr "hofan-trano fe-potoana"
+
+msgid "Total, month"
+msgstr "Total, volana"
+
+msgid "Order items"
+msgstr "Order entana"
+
+msgid "No records found"
+msgstr "No rakitsoratra hita"
+
+msgid "User with this email is already exist"
+msgstr "User amin\'ny mailaka ity dia efa misy"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Fampirimana na ny rakitra anarana toy izany dia efa misy amin\'ny toerana fampirimana"
+
+msgid "Minimal quantity"
+msgstr "kely dia kely be"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "printy dika mitovy"
+
+msgid "Terms of Use"
+msgstr "Fepetra fampiasana"
+
+msgid "Privacy Policy"
+msgstr "politika fiarovana fiainan\'olona"
+
+msgid "Find project..."
+msgstr "Find tetikasa ..."
+
+msgid "New Project"
+msgstr "Tetikasa vaovao"
+
+msgid "Accounts"
+msgstr "kaonty"
+
+msgid "Operations"
+msgstr "asa"
+
+msgid "All accounts"
+msgstr "rehetra tantara"
+
+msgid "All categories"
+msgstr "Sokajy rehetra"
+
+msgid "Expense"
+msgstr "vola"
+
+msgid "Income"
+msgstr "Fidiram-bola"
+
+msgid "Transfer"
+msgstr "famindrana"
+
+msgid "Expense"
+msgstr "vola"
+
+msgid "income"
+msgstr "fidiram-bola"
+
+msgid "tax"
+msgstr "hetra"
+
+msgid "percent"
+msgstr "isan-jato"
+
+msgid "transfer"
+msgstr "famindrana"
+
+msgid "Make operation"
+msgstr "manao hetsika"
+
+msgid "Select date"
+msgstr "Select daty"
+
+msgid "Select account"
+msgstr "Select tantara"
+
+msgid "Month"
+msgstr "volana"
+
+msgid "Quarter"
+msgstr "Quarter"
+
+msgid "Year"
+msgstr "taona"
+
+msgid "From"
+msgstr "From"
+
+msgid "To"
+msgstr "To"
+
+msgid "Expense amount"
+msgstr "vola vola"
+
+msgid "Categories"
+msgstr "Categories"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "Income amount"
+msgstr "fidiram-bola vola"
+
+msgid "Transfer amount"
+msgstr "Transfer vola"
+
+msgid "From account"
+msgstr "avy tantara"
+
+msgid "To account"
+msgstr "To kaonty"
+
+msgid "New Account"
+msgstr "New Account"
+
+msgid "New Category"
+msgstr "New Category"
+
+msgid "All"
+msgstr "rehetra"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Enter category name"
+msgstr "Enter teny anarana"
+
+msgid "Select type"
+msgstr "Select karazana"
+
+msgid "Credit card"
+msgstr "Carte de crédit"
+
+msgid "Debit card"
+msgstr "Debit karatra"
+
+msgid "Bank account"
+msgstr "Bank kaonty"
+
+msgid "Cash"
+msgstr "Cash"
+
+msgid "Balance is empty"
+msgstr "Mila mahay mandanjalanja dia foana tsy mitondra fanatitra"
+
+msgid "Statistic is empty"
+msgstr "Antontan\'isa dia foana tsy mitondra fanatitra"
+
+msgid "Regular payments"
+msgstr "fandoavam-bola tsy tapaka"
+
+msgid "Are you sure ?"
+msgstr "Azonao antoka ve izany ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Azonao antoka hanakatona ity tetikasa ity ?"
+
+msgid "Project was deleted successfully"
+msgstr "Tetikasa dia voafafa soa aman-tsara"
+
+msgid "Select currency"
+msgstr "Select vola"
+
+msgid "Account"
+msgstr "Account"
+
+msgid "Orders list"
+msgstr "baiko list"
+
+msgid "Order payments"
+msgstr "Order vola"
+
+msgid "View order"
+msgstr "View mba"
+
+msgid "No response from Printer API"
+msgstr "Tsy misy valinteny avy Printer API"
+
+msgid "Bad response from Printer API"
+msgstr "Bad valinteny avy Printer API"
+
+msgid "User ID"
+msgstr "Anara-mpampiasa"
+
+msgid "Contact Person"
+msgstr "Olona ifandraisana"
+
+msgid "No orders to process"
+msgstr "Tsy misy didy mba fandraisana"
+
+msgid "Article announce image"
+msgstr "Article manambara sary"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Tsy mety lahatsary Url . Handao banga na ampidiro kery YouTube Url"
+
+msgid "Please, enter Contractor data"
+msgstr "Azafady , miditra Contractor antontan-kevitra"
+
+msgid "Distribute devices"
+msgstr "zarao fitaovana"
+
+msgid "Quantity"
+msgstr "habetsahana"
+
+msgid "Devices left"
+msgstr "fitaovana sisa"
+
+msgid "Distributed devices"
+msgstr "nizara fitaovana"
+
+msgid "You must enter quantity"
+msgstr "Tsy maintsy miditra habetsahana"
+
+msgid "All devices are distributed"
+msgstr "Fitaovana rehetra dia zaraina"
+
+msgid "IP address"
+msgstr "IP adiresy"
+
+msgid "Only for printer"
+msgstr "Afa-tsy noho ny mpanonta"
+
+msgid "Counter"
+msgstr "Counter"
+
+msgid "You was excluded from this room"
+msgstr "Ianao no nesorina amin\'ity efitrano ity"
+
+msgid "Compare"
+msgstr "Ampitahao"
+
+msgid "Scheduled transaction"
+msgstr "voalahatra raharaham-barotra"
+
+msgid "Select transfer account"
+msgstr "Select famindrana kaonty"
+
+msgid "Select income account"
+msgstr "Select fidiram-bola kaonty"
+
+msgid "Reports"
+msgstr "Reports"
+
+msgid "Goals"
+msgstr "tanjona"
+
+msgid "Budgets"
+msgstr "teti-bola"
+
+msgid "Enter user name or email..."
+msgstr "Ampidiro mpampiasa anarana na mailaka ..."
+
+msgid "Invite had been sended"
+msgstr "Asao efa sended"
+
+msgid "Statistics"
+msgstr "antontan\'isa"
+
+msgid "Updated site began to work"
+msgstr "Nohavaozina toerana nanomboka niasa"
+
+msgid "City of residence"
+msgstr "City -ponenana"
+
+msgid "Edit favourites list"
+msgstr "Hanova ny favoris list"
+
+msgid "Add favourites list"
+msgstr "Add favoris list"
+
+msgid "Categories is required"
+msgstr "Categories dia takiana"
+
+msgid "Type new category name and hit Enter"
+msgstr "Anarana nitendry sokajy vaovao dia tsindrio Enter"
+
+msgid "You created an order"
+msgstr "Hianao no nahary ny baiko"
+
+msgid "You received a device due to this order"
+msgstr "Efa nahazo ny fitaovana noho ny amin\'ity lamin\'ny"
+
+msgid "%s attached %s to task %s"
+msgstr "%s miraikitra %s ny asa %s"
+
+msgid "member(s)"
+msgstr "mpikambana ( s)"
+
+msgid "%s commented task %s"
+msgstr "%s naneho hevitra asa %s"
+
+msgid "%s closed task %s"
+msgstr "%s mihidy asa %s"
+
+msgid "%s created task %s"
+msgstr "%s namorona ny asa %s"
+
+msgid "%s created this project"
+msgstr "%s namorona ity tetikasa ity"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s namorona ny subproject \" %s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s mihidy tetikasa \" %s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s mihidy subproject \" %s\""
+
+msgid "This field must not be blank"
+msgstr "Amin\'io sehatra io dia tsy tokony ho banga"
+
+msgid "Document with such name is already exist"
+msgstr "Taratasy amin\'ny anarana toy izany dia efa misy"
+
+msgid "Wait until image upload"
+msgstr "Miandry sary Upload"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Message can not be empty"
+msgstr "Message tsy ho foana"
+
+msgid "Yes"
+msgstr "Eny"
+
+msgid "No"
+msgstr "tsy misy"
+
+msgid "Created"
+msgstr "namorona"
+
+msgid "Compare is empty"
+msgstr "Ampitahao dia foana tsy mitondra fanatitra"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Azonao antoka te- hamafa asa"
+
+msgid "Do you really want to delete transaction"
+msgstr "Tena ve ianao te- hamafa raharaham-barotra"
+
+msgid "Project with same name already exists"
+msgstr "Tetikasa amin\'ny anarana iray ihany efa misy"
+
+msgid "Account is not found"
+msgstr "Account dia tsy hita"
+
+msgid "Currency is required"
+msgstr "Vola dia takiana"
+
+msgid "error while deleting document"
+msgstr "fahadisoana raha hamonoany taratasy"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Ianao nanasa mpampiasa \" %s\" ao amin\'ny efitra ity"
+
+msgid "User \"%s\" joined this room"
+msgstr "User \" %s\" nanatevin-daharana efitra ity"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Ianao mpampiasa voahilika \" %s\" avy amin\'ity efitrano ity"
+
+msgid "User \"%s\" left this room"
+msgstr "User \" %s\" nandao efitra ity"
+
+msgid "Add account"
+msgstr "Add tantara"
+
+msgid "The requested page is not found"
+msgstr "Ny nangataka pejy dia tsy hita"
+
+msgid "Document"
+msgstr "Document"
+
+msgid "Table"
+msgstr "latabatra"
+
+msgid "file(s)"
+msgstr "rakitra ( s)"
+
+msgid "Residue"
+msgstr "sisa"
+
+msgid "Result is empty"
+msgstr "Vokany foana tsy mitondra fanatitra"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Ny tontalin\'ny no %s ho an\'ny %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Tsy maintsy hametraka %s isam-bolana ny mifandray tantara"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "finish"
+msgstr "farany"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Voafantina tantara dia efa in -pampiasana ho an\'ny tanjona hafa"
+
+msgid "Amount required"
+msgstr "vola ilaina"
+
+msgid "New goal"
+msgstr "New tanjona"
+
+msgid "Goal"
+msgstr "tanjona"
+
+msgid "Goal name"
+msgstr "tanjona anarana"
+
+msgid "Invalid date"
+msgstr "tsy mety daty"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Ilaina vola dia tsy maintsy ho tsara isa"
+
+msgid "Remain"
+msgstr "mitoetra"
+
+msgid "Last day"
+msgstr "Andro farany"
+
+msgid "Accumulated"
+msgstr "nanangona"
+
+msgid "Put aside"
+msgstr "ataovy kely"
+
+msgid "January"
+msgstr "janvier"
+
+msgid "February"
+msgstr "février"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "Aprily"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "Jona"
+
+msgid "July"
+msgstr "Jolay"
+
+msgid "August"
+msgstr "Aogositra"
+
+msgid "September"
+msgstr "Septambra"
+
+msgid "October"
+msgstr "Oktobra"
+
+msgid "November"
+msgstr "Novambra"
+
+msgid "December"
+msgstr "Desambra"
+
+msgid "Expenses projected/actual"
+msgstr "Lany kasaina / tena"
+
+msgid "Net Income projected/actual"
+msgstr "Net Fidiram-bola kasaina / tena"
+
+msgid "New budget"
+msgstr "teti-bola vaovao"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Fidiram-bola sy ny fandaniana Chart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Budget amin\'ny mpivady ihany ny tantara sy ny sokajy efa misy"
+
+msgid "Budget is empty"
+msgstr "Budget dia foana tsy mitondra fanatitra"
+
+msgid "Budget"
+msgstr "Budget"
+
+msgid "plan"
+msgstr "drafitra"
+
+msgid "fact"
+msgstr "zava-misy"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "Asehoy More"
+
+msgid "Cancel"
+msgstr "hanafoanana"
+
+msgid "d"
+msgstr "D"
+
+msgid "h"
+msgstr "dag"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "ny varotra"
+
+msgid "Time spent"
+msgstr "ny fotoana lany"
+
+msgid "Total time spent"
+msgstr "Total ny fotoana lany"
+
+msgid "Earnings per hour"
+msgstr "Vola miditra isaky ny ora"
+
+msgid "Total earnings"
+msgstr "Total vola miditra"
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Phone call"
+msgstr "Antso"
+
+msgid "Telephone calls"
+msgstr "antso an-telefaonina"
+
+msgid "Send email"
+msgstr "Alefaso mailaka"
+
+msgid "Emails"
+msgstr "mailaka"
+
+msgid "Meeting"
+msgstr "Meeting"
+
+msgid "Meetings"
+msgstr "fivoriana"
+
+msgid "All events"
+msgstr "zava-nitranga rehetra"
+
+msgid "Task"
+msgstr "Task"
+
+msgid "Event"
+msgstr "Event"
+
+msgid "Events"
+msgstr "Events"
+
+msgid "Time"
+msgstr "Time"
+
+msgid "Events statistics"
+msgstr "Events antontan\'isa"
+
+msgid "days"
+msgstr "andro"
+
+msgid "hours"
+msgstr "ora"
+
+msgid "minutes"
+msgstr "minitra"
+
+msgid "Income & expense"
+msgstr "Vola miditra & vola"
+
+msgid "Show chart"
+msgstr "Show tabilao"
+
+msgid "Hide chart"
+msgstr "afeno ny tabilao"
+
+msgid "Add event"
+msgstr "Add hetsika"
+
+msgid "Add financial data"
+msgstr "Manampy ara-bola tahirin-kevitra"
+
+msgid "Select contractor"
+msgstr "Select mpiantoka"
+
+msgid "Net Income"
+msgstr "Vola miditra afa-karatsaka"
+
+msgid "Revenue"
+msgstr "fidiram-bola"
+
+msgid "Taxes"
+msgstr "hetra"
+
+msgid "Amount planned"
+msgstr "vola nomanina"
+
+msgid "Amount"
+msgstr "vola"
+
+msgid "Period"
+msgstr "fe-potoana"
+
+msgid "Are you sure to close this task?"
+msgstr "Azonao antoka hanakatona io asa io ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "vondrona rehetra"
+
+msgid "added from task"
+msgstr "koa avy amin\'ny asa"
+
+msgid "Monthly repeat"
+msgstr "Isam-bolana Avereno"
+
+msgid "Select category"
+msgstr "Select sokajy"
+
+msgid "Event type"
+msgstr "Event karazana"
+
+msgid "Margin"
+msgstr "sisiny"
+
+msgid "Use finance project"
+msgstr "Ampiasao bola tetikasa"
+
+msgid "New investment project"
+msgstr "Tetikasa fampiasam-bola vaovao"
+
+msgid "Investment project settings"
+msgstr "Tetikasa fampiasam-bola toe-javatra"
+
+msgid "Picture, for the announcement project"
+msgstr "Sary , fa ny fanambarana tetikasa"
+
+msgid "Announcement project"
+msgstr "fanambarana tetikasa"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Photos or videos gallery"
+msgstr "Sary na horonan-tsary Gallery"
+
+msgid "required amount"
+msgstr "takiana vola"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Tetikasa faharetan\'ny ( 60 andro ambony indrindra )"
+
+msgid "Project duration"
+msgstr "Project Duration"
+
+msgid "Add reward"
+msgstr "Add valisoa"
+
+msgid "Delivery date"
+msgstr "Daty nanomezana"
+
+msgid "Payment systems"
+msgstr "rafitra fandoavam-bola"
+
+msgid "Terms of service"
+msgstr "Anarana iombonana amin\'ny fanompoana"
+
+msgid "Agreement"
+msgstr "fifanarahana"
+
+msgid "Payment"
+msgstr "fandoavam-bola"
+
+msgid "My projects"
+msgstr "My tetikasa"
+
+msgid "Search result"
+msgstr "Search vokatry"
+
+msgid "Nothing not found"
+msgstr "Tsy misy zavatra tsy hita"
+
+msgid "The project has no sponsors"
+msgstr "Ny tetikasa tsy misy mpanohana"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Food"
+msgstr "Food"
+
+msgid "Journalism"
+msgstr "fanaovan-gazety"
+
+msgid "Games"
+msgstr "Games"
+
+msgid "Art"
+msgstr "Art"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "Music"
+
+msgid "Handicrafts"
+msgstr "asa tanana"
+
+msgid "Publishing"
+msgstr "famoahana"
+
+msgid "Theater"
+msgstr "Theater"
+
+msgid "Technology"
+msgstr "teknolojia"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Dance"
+msgstr "Dance"
+
+msgid "Invalid youtube video"
+msgstr "Tsy mety YouTube Video"
+
+msgid "is required"
+msgstr "dia ilaina"
+
+msgid "User"
+msgstr "User"
+
+msgid "Date"
+msgstr "daty"
+
+msgid "Collected"
+msgstr "nanangona"
+
+msgid "Choose period"
+msgstr "Mifidiana fotoana"
+
+msgid "Choose region"
+msgstr "Mifidiana faritra"
+
+msgid "Country"
+msgstr "Firenena"
+
+msgid "Today"
+msgstr "amin\'izao fotoana izao"
+
+msgid "Week"
+msgstr "Week"
+
+msgid "Month"
+msgstr "volana"
+
+msgid "Year"
+msgstr "taona"
+
+msgid "Free registration"
+msgstr "Free fisoratana anarana"
+
+msgid "Join"
+msgstr "Join"
+
+msgid "Log in using"
+msgstr "HIDITRA fampiasana"
+
+msgid "Vacancies"
+msgstr "Employment fahafahana"
+
+msgid "About Us"
+msgstr "Momba anay"
+
+msgid "You will need email to log in"
+msgstr "Ilainao mailaka -mitsofoka amin\'ny"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Ny fitambaran\'ny 6 namerenana sy endri-tsoratra"
+
+msgid "Search users, groups, articles..."
+msgstr "Search mpampiasa , vondrona , lahatsoratra ..."
+
+msgid "Cloud"
+msgstr "Cloud"
+
+msgid "Sunday"
+msgstr "Alahady"
+
+msgid "Monday"
+msgstr "Alatsinainy"
+
+msgid "Tuesday"
+msgstr "Talata"
+
+msgid "Wednesday"
+msgstr "Alarobia"
+
+msgid "Thursday"
+msgstr "Alakamisy"
+
+msgid "Friday"
+msgstr "Zoma"
+
+msgid "Saturday"
+msgstr "Asabotsy"
+
+msgid "Edit"
+msgstr "Ovay"
+
+msgid "Create group"
+msgstr "Create vondrona"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Moa Tena tianao ny hiala ity pejy ity ?"
+
+msgid "More"
+msgstr "Bebe kokoa"
+
+msgid "Less"
+msgstr "Kely kokoa"
+
+msgid "Pending"
+msgstr "mbola miandry"
+
+msgid "Approved"
+msgstr "nankatoavina"
+
+msgid "Rejected"
+msgstr "nolavina"
+
+msgid "Subprojects"
+msgstr "Subprojects"
+
+msgid "Group edit"
+msgstr "Group Ovay"
+
+msgid "Startup"
+msgstr "Fiatombohana"
+
+msgid "Tattoo"
+msgstr "Tattoo"
+
+msgid "Health"
+msgstr "fahasalamana"
+
+msgid "Weapon"
+msgstr "fitaovam-piadiana"
+
+msgid "Astronomy"
+msgstr "astronomia"
+
+msgid "All articles"
+msgstr "Zavatra"
+
+msgid "Article editor"
+msgstr "Article mpamoaka lahatsoratra"
+
+msgid "Document editor"
+msgstr "Document mpamoaka lahatsoratra"
+
+msgid "Apply changes"
+msgstr "Ampiharo fanovana"
+
+msgid "Save changes?"
+msgstr "Vonjeo ny fanovana ?"
+
+msgid "published an article"
+msgstr "namoaka lahatsoratra"
+
+msgid "Users"
+msgstr "Users"
+
+msgid "Shared With Me"
+msgstr "Nizara tamiko"
+
+msgid "share"
+msgstr "anjara"
+
+msgid "Select Group Responsible"
+msgstr "Select Group Tompon\'andraikitra"
+
+msgid "Create folder"
+msgstr "Create fampirimana"
+
+msgid "Title must be at least 3 characters"
+msgstr "Anaram-boninahitra dia tsy maintsy ho farafahakeliny 3 endri-tsoratra"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Free 10 GB , mpitantana ara-bola , vola Module , sy ny maro hafa maimaim-poana sy mandrakizay"
+
+msgid "Best regards"
+msgstr "Veloma finaritra"
+
+msgid "Updates in last 12 hours:"
+msgstr "Vaovao farany amin\'ny farany 12 ora :"
+
+msgid "expense"
+msgstr "vola"
+
+msgid "Commentary on the event:"
+msgstr "Fanazavana ny zava-nitranga :"
+
+msgid "Event place"
+msgstr "Event toerana"
+
+msgid "Project was updated"
+msgstr "Tetikasa nohavaozina"
+
+msgid "Project was created"
+msgstr "Tetikasa noforonina"
+
+msgid "Project was closed"
+msgstr "Tetikasa nakatona"
+
+msgid "account"
+msgstr "tantara"
+
+msgid "removed task"
+msgstr "nesorina asa"
+
+msgid "removed subproject"
+msgstr "nesorina subproject"
+
+msgid "Title can not be empty"
+msgstr "Title tsy afaka ny ho foana"
+
+msgid "Do not select the type of event"
+msgstr "Aza mifidy ny karazana hetsika"
+
+msgid "Error while saving comment"
+msgstr "Error famonjena raha fanehoan-kevitra"
+
+msgid "Save error: access denied"
+msgstr "Vonjeo fahadisoana : fahafahana miditra nandà"
+
+msgid "Remains"
+msgstr "sisa tavela"
+
+msgid "Time spent, h."
+msgstr "Time lany , h."
+
+msgid "Emails"
+msgstr "mailaka"
+
+msgid "Meetings"
+msgstr "fivoriana"
+
+msgid "All users"
+msgstr "rehetra mpampiasa"
+
+msgid "Category"
+msgstr "Category"
+
+msgid "Finance project"
+msgstr "Finance tetikasa"
+
+msgid "Investment project"
+msgstr "tetikasa fampiasam-bola"
+
+msgid "Nature"
+msgstr "Nature"
+
+msgid "Data is empty"
+msgstr "Data dia foana tsy mitondra fanatitra"
+
+msgid "Visitors"
+msgstr "mpitsidika"
+
+msgid "My profile"
+msgstr "My Profile"
+
+msgid "Sponsors"
+msgstr "mpanohana"
+
+msgid "Prior to completion"
+msgstr "Talohan\'ny vita"
+
+msgid "Select"
+msgstr "Select"
+
+msgid "My groups"
+msgstr "My vondrona"
+
+msgid "The invitation has been sent successfully"
+msgstr "Ny fanasana nalefa soa aman-tsara"
+
+msgid "Username has already been invited to this project"
+msgstr "Solonanarana Efa nanasa ny tetikasa ity"
+
+msgid "The user is the creator of the project"
+msgstr "Ny mpampiasa dia ny mpamorona ny tetikasa"
+
+msgid "Provide full access"
+msgstr "Omeo fahafahana miditra feno"
+
+msgid "Select elements to provide access"
+msgstr "Mifidy singa mba dia manome fahafahana"
+
+msgid "Select all"
+msgstr "Select rehetra"
+
+msgid "User E-mail"
+msgstr "User E -mail"
+
+msgid "Click on the field to select a category"
+msgstr "Tsindrio eo an-tsaha mba mifidy ny sokajy"
+
+msgid "Invitation was deleted"
+msgstr "Fanasana dia nofafana"
+
+msgid "Permission denied"
+msgstr "Tsy nahazo fahazoan-dàlana"
+
+msgid "Printed"
+msgstr "pirinty"
+
+msgid "Incorrect Contractor email"
+msgstr "Diso Contractor mailaka"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Ve ianao te-hanampy ara-bola tetikasa ho tompon\'andraikitra ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Mba hamita ny fisoratana anarana azafady dingana midina fenoy ny fahaiza-manao"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Ny mailaka amin\'ny toromarika fanampiny nalefa tany ny adiresy mailaka"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Science"
+msgstr "siansa"
+
+msgid "Donation"
+msgstr "Donation"
+
+msgid "Interests"
+msgstr "Interests"
+
+msgid "Driver"
+msgstr "Driver"
+
+msgid "Sportsman"
+msgstr "Sportsman"
+
+msgid "Businessman"
+msgstr "mpandraharaha"
+
+msgid "Accountant"
+msgstr "kaonty"
+
+msgid "Engineer"
+msgstr "injeniera"
+
+msgid "Soldier"
+msgstr "miaramila"
+
+msgid "Next"
+msgstr "Manaraka"
+
+msgid "Hide group"
+msgstr "afeno ny vondrona"
+
+msgid "groups created"
+msgstr "vondrona namorona"
+
+msgid "articles written"
+msgstr "lahatsoratra nosoratana"
+
+msgid "These groups may be interesting for you"
+msgstr "Ireo vondrona ireo dia mety hahaliana ho anao"
+
+msgid "About Group"
+msgstr "About Group"
+
+msgid "view(s)"
+msgstr "Hijery ( s)"
+
+msgid "Favorite users"
+msgstr "Favorite mpampiasa"
+
+msgid "No accounts"
+msgstr "No tantara"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook alàlana tsy nahomby ."
+
+msgid "Authorization Required"
+msgstr "nahazo alalana Required"
+
+msgid "You have to make a call:"
+msgstr "Tsy maintsy manao antso :"
+
+msgid "You have to send an email:"
+msgstr "Tsy maintsy Takelaky ny serasera :"
+
+msgid "You have a meetup:"
+msgstr "Manana ny fihaonana :"
+
+msgid "You event :"
+msgstr "Azonao zava-nitranga :"
+
+msgid "Participants:"
+msgstr "Ireo mpandray anjara :"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "News"
+msgstr "News"
+
+msgid "Investments"
+msgstr "fampiasam-bola"
+
+msgid "Back to Cloud"
+msgstr "Back to Cloud"
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Planet"
+msgstr "Planet"
+
+msgid "Group url"
+msgstr "Group Url"
+
+msgid "Profile url"
+msgstr "Profile Url"
+
+msgid "Already taken"
+msgstr "Efa nisy naka"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Raha kely indrindra dia 1 taratasy sy 3 chars lavany ilaina"
+
+msgid "Digit can not be the first character"
+msgstr "Tarehimarika tsy afaka ny ho ilay toetra voalohany"
+
+msgid "Enter valid email address"
+msgstr "Midira manan-kery adiresy mailaka"
+
+msgid "Enter your skills"
+msgstr "Ampidiro ny fahaiza-manao"
+
+msgid "Enter your first name"
+msgstr "Ampidiro ny anaranao voalohany"
+
+msgid "Enter your last name"
+msgstr "Ampidiro ny anaranao farany"
+
+msgid "Enter your first name and last name"
+msgstr "Ampidiro ny anaranao voalohany sy ny farany anarana"
+
+msgid "Your first name?"
+msgstr "Ny voalohany anaranao ?"
+
+msgid "Your last name?"
+msgstr "Ny farany anaranao ?"
+
+msgid "What are your proficiencies?"
+msgstr "Inona avy ny proficiencies ?"
+
+msgid "Select country"
+msgstr "Select firenena"
+
+msgid "Select user"
+msgstr "Select mpampiasa"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Hahatanteraka ny nofy ! Mamorona sy hiara-hiasa ."
+
+msgid "date moved from"
+msgstr "daty nifindra avy"
+
+msgid "work"
+msgstr "asa"
+
+msgid "Conference"
+msgstr "Conference"
+
+msgid "personal"
+msgstr "manokana"
+
+msgid "Holiday"
+msgstr "Holiday"
+
+msgid "Past"
+msgstr "Endrika efa lasa"
+
+msgid "Future"
+msgstr "Future"
+
+msgid "Purchase"
+msgstr "Purchase"
+
+msgid "Personal events"
+msgstr "Private zava-nitranga"
+
+msgid "Conferences"
+msgstr "Meeting"
+
+msgid "Holidays"
+msgstr "Fety"
+
+msgid "Sport events"
+msgstr "Fanatanjahan-tena"
+
+msgid "Tasks"
+msgstr "Asa"
+
+msgid "Other events"
+msgstr "Zava-nitranga hafa"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Azo vetivety dia mankarary"
+
+msgid "Time management"
+msgstr "Time Management"
+
+msgid "Delayed events"
+msgstr "Azo vetivety dia mankarary zava-nitranga"
+
+msgid "Delayed"
+msgstr "Azo vetivety dia mankarary"
+
+msgid "Bind to"
+msgstr "Omeo"
+
+msgid "answered your comment to"
+msgstr "Hoy aho hoe (a) Comment eo amin\'ny lahatsoratra"
+
+msgid "commented your article"
+msgstr "Aho, naneho hevitra amin\'ny lahatsoratra"
+
+msgid "You\'ve answered on comment to"
+msgstr "Ianao namaly ny fanehoan-kevitra momba ny lahatsoratra"
+
+msgid "You\'ve commented an article"
+msgstr "Ianao naneho hevitra mikasika ny lahatsoratra"
+
+msgid "Terms and Conditions"
+msgstr "Terms sy ny Conditions"
+
+msgid "Privacy Policy"
+msgstr "Fitsipika"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Amin\'ny fipihana eo amin\'ny \"sonia\" ianao miombon-kevitra amin \'sy manaiky fa efa namaky ny"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Handray anjara amin\'ny fiaraha-monina ny mamorona olona avy amin\'ny manerana izao tontolo izao! Hahazo: mampiasa vola ao amin\'ny hevitra, fahafahana mba hanangona ny ekipany, miasa ao amin\'ny vondrona, ny ara-bola mpitantana, fitantanana ny fotoana, 2 gigabytes amin\'ny fitehirizana sy ny maro hafa. Ary izany maimaim-poana!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Miala tsiny, fa ny pejy izay tadiavinareo tsy misy. Raha ny hevitrao fa mba hanome tsiny anay hifandray aminay"
+
+msgid "Return"
+msgstr "Miverena"
+
+msgid "COMMON"
+msgstr "Total"
+
+msgid "My events"
+msgstr "My Events"
+
+msgid "Job opening"
+msgstr "New toerana banga"
+
+msgid "Employment"
+msgstr "Karazana asa"
+
+msgid "Working hours"
+msgstr "Fanokafana ora"
+
+msgid "City"
+msgstr "City"
+
+msgid "Wages"
+msgstr "Salary"
+
+msgid "Currency"
+msgstr "Vola"
+
+msgid "Experience"
+msgstr "Experience"
+
+msgid "Full-time"
+msgstr "Full asa"
+
+msgid "Part-time"
+msgstr "Tapa-potoana"
+
+msgid "Project employment"
+msgstr "Tetikasa / vonjimaika"
+
+msgid "Volunteer"
+msgstr "An-tsitrapo"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "Full Time"
+
+msgid "Shifts"
+msgstr "Fanoloana fandaharam-potoana"
+
+msgid "Flexible shifts"
+msgstr "Malefaka fandaharam-potoana"
+
+msgid "Remote work"
+msgstr "Remote asa"
+
+msgid "Rotational basis"
+msgstr "Fiovan\'ny fomba"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Antoka ve ianao te-hamafa ny fanehoan-kevitra?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Moa Tena tianao ny hamafa io asa io?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Moa Tena tianao hamafa zana-tetikasa ity?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Efa ampiharina amin\'ny ny orinasa ao an-toerana. Mba ho azo antoka fa ny"
+
+msgid "Your request to for job has been rejected"
+msgstr "Ny fangatahana ho an\'ny orinasa ny toerana no nolavina"
+
+msgid "Your request to for job has been accepted"
+msgstr "Ny fangatahana ho an\'ny orinasa ny toerana dia nandany"
+
+msgid "profile is completed"
+msgstr "Ny mombamomba azy Feno"
+
+msgid "Use account"
+msgstr "Ampiasao tantara"
+
+msgid "$/hr"
+msgstr "$ / Ora"
+
+msgid "Finance category"
+msgstr "Ara-bola sokajy"
+
+msgid "No projects"
+msgstr "No tetikasa"
+
+msgid "Bind to finances"
+msgstr "Omeo ara-bola tetikasa"
+
+msgid "Preview"
+msgstr "View"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Save to my cloud"
+msgstr "Handika ny repository"
+
+msgid "File successfully saved to your cloud"
+msgstr "File soa aman-tsara voatahiry ao amin\'ny repository"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Afa-tsy ity rakitra ao an-repository?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Mifidiana teny Article"
+
+msgid "Type something"
+msgstr "Hanoratra zavatra"
+
+msgid "Founded users"
+msgstr "Hita mpampiasa"
+
+msgid "Founded articles"
+msgstr "Hita lahatsoratra"
+
+msgid "Founded groups"
+msgstr "Nanangana vondrona"
+
+msgid "What are your skills?"
+msgstr "Inona avy ny fahaiza-manao?"
+
+msgid "Select at least 2 interests"
+msgstr "Mifidy, fara fahakeliny, 2 liana"
+
+msgid "Need more interests"
+msgstr "Tsy ampy ny fahalianana voafidy"
+
+msgid "What are you interesting in?"
+msgstr "Inona no liana ianao?"
+
+msgid "You have no dialogs"
+msgstr "Tsy manana ifampiresahana"
+
+msgid "Usage Stats"
+msgstr "State ny"
+
+msgid "Founded files"
+msgstr "Files Found"
+
+msgid "Big tiles"
+msgstr "Large tafo tanimanga"
+
+msgid "Small tiles"
+msgstr "Small tafo tanimanga"
+
+msgid "Table view"
+msgstr "Latabatra View"
+
+msgid "Root folder"
+msgstr "Ny faka Directory"
+
+msgid "My files"
+msgstr "My Files"
+
+msgid "Save as draft"
+msgstr "Afa-tsy toy ny Draft"
+
+msgid "Buy More Space"
+msgstr "Buy kokoa toerana"
+
+msgid "Buy"
+msgstr "Buy"
+
+msgid "You have been invited to group as"
+msgstr "Efa nasaina ho ny vondrona amin\'ny maha-"
+
+msgid "User wants to join your group"
+msgstr "Ny mpampiasa maniry ny hiaraka ny vondrona"
+
+msgid "Section is coming soon!"
+msgstr "Fizarana-dalam-panorenana!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Views ao amin\'ny farany 24 ora:"
+
+msgid "Task was updated"
+msgstr "Ny asa efa nohavaozina"
+
+msgid "Task was closed"
+msgstr "Ny fanamby dia nakatona"
+
+msgid "Task was created"
+msgstr "Ny asa natao teo"
+
+msgid "Current balance"
+msgstr "Current mandanjalanja"
+
+msgid "Add funds"
+msgstr "Add"
+
+msgid "Pay"
+msgstr "Checkout"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Efa nihoatra ny isan\'ny ezaka fidirana. Ianao dia voasakana ny 15 minitra"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Mba hanamarina ny e-mail. Ny taratasy nalefa tany aminareo an-taratasy."
+
+msgid "Resend confirmation email"
+msgstr "Alefaso ny fandraisana ho mpikambana indray"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Kapila 2 GB isam-bolana"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Fiara 10 GB isan-taona"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Kapila 100 GB isan-taona"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Kapila 1TB isam-bolana"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Fiara 1 TB isan-taona"
+
+msgid "Project members monthly"
+msgstr "Mpandray anjara amin\'ny tetikasa amin\'ny fototra isam-bolana"
+
+msgid "Project members yearly"
+msgstr "Tetikasa mpandray anjara isan-taona"
+
+msgid "Member(s) yearly"
+msgstr "Member (s) isan-taona"
+
+msgid "Member(s) monthly"
+msgstr "Member (s) amin\'ny isam-bolana fototra"
+
+msgid "Authorized"
+msgstr "Alalana"
+
+msgid "Authorization expired"
+msgstr "Alàlana niala aina"
+
+msgid "Processor declined"
+msgstr "Nolavina fikarakarana rafitra"
+
+msgid "Gateway rejected"
+msgstr "Nolavina fandoavam-bola vavahady"
+
+msgid "Failed"
+msgstr "Error"
+
+msgid "Voided"
+msgstr "Hanafoana"
+
+msgid "Submitted for settlement"
+msgstr "Sent mba hosoratana"
+
+msgid "Settlement declined"
+msgstr "Fisoratana anarana efa nolavina"
+
+msgid "Settlement pending"
+msgstr "Miandry fisoratana anarana"
+
+msgid "Verified"
+msgstr "Avy amin\'ny teny anglisy"
+
+msgid "Pending"
+msgstr "Mbola miandry"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Past Due"
+msgstr "Lany daty"
+
+msgid "Expired"
+msgstr "Tapitra"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "India"
+
+msgid "Malaysia"
+msgstr "Malezia"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "South Korea"
+msgstr "Korea Atsimo"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstana"
+
+msgid "Israel"
+msgstr "Isiraely"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Belarus"
+msgstr "Belarosia"
+
+msgid "Bulgaria"
+msgstr "Bolgaria"
+
+msgid "Turkey"
+msgstr "Vorontsiloza"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Aotrisy"
+
+msgid "Poland"
+msgstr "Polonina"
+
+msgid "Germany"
+msgstr "Alemaina"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Netherlands"
+msgstr "Pays-Bas"
+
+msgid "Ireland"
+msgstr "Irlandy"
+
+msgid "United Kingdom"
+msgstr "Grande-Bretagne"
+
+msgid "Portugal"
+msgstr "Portiogaly"
+
+msgid "Norway"
+msgstr "Norvezy"
+
+msgid "United States"
+msgstr "United States"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Brazil"
+msgstr "Brezila"
+
+msgid "Saudi Arabia"
+msgstr "Arabia Saodita"
+
+msgid "Canada"
+msgstr "Ejipta"
+
+msgid "Russia"
+msgstr "Rosia"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Amin\'izao fotoana izao, dia tsy nisy raharaham-barotra iray"
+
+msgid "Fulfill your dream"
+msgstr "Ataovy Tsara ny DREAM"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Miaraha ny fiaraha-monina ny famoronana olona avy any rehetra maneran-tany."
+
+msgid "Create and Collaborate"
+msgstr "Mamorona sy hiara-hiasa"
+
+msgid "Fulfill your dream"
+msgstr "Hahatanteraka ny DREAM ANKEHITRINY"
+
+msgid "or"
+msgstr "na"
+
+msgid "Our mission:"
+msgstr "Ny iraka:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Mba hikambana mamorona sy mavitrika ny olona ho fampiharana hevitra avy tsotra sy amin\'ny fitakiana ny tsy mampino sy mahafinaritra, fa afaka mamolavola ny hoavy."
+
+msgid "What is Konstruktor?"
+msgstr "Inona no atao hoe Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - dia ampahany amin\'ny tena fiainana, izay manamora be sy ny Manamora"
+
+msgid "*business processes"
+msgstr "* Dingana raharaham-barotra"
+
+msgid "*materialization of creative ideas"
+msgstr "* Materialization ny famoronana hevitra"
+
+msgid "*constructive cooperation"
+msgstr "* Mahasoa ny fiaraha-miasa"
+
+msgid "Make your dream!"
+msgstr "Ataovy ny nofy!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "PDG"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Special Mpanolotsaina"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Manager, Software Development"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Senior mpisolovava"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Endrika"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Amin\'ny fipihana eo amin\'ny \"Manaraka\" bokotra, ianareo aza mandray sy manaiky amin \'ny sy ny fanao, ary ianao no niaiky fa efa namaky ny Privacy Policy."
+
+msgid "Incorrect login or password."
+msgstr "Diso fidirana na ny tenimiafina."
+
+msgid "Password must be at least 6 characters"
+msgstr "Password dia tsy maintsy ho farafahakeliny 6 endri-tsoratra"
+
+msgid "January"
+msgstr "Janvier"
+
+msgid "February"
+msgstr "Février"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "Aprily"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "Jona"
+
+msgid "July"
+msgstr "Jolay"
+
+msgid "August"
+msgstr "Aogositra"
+
+msgid "September"
+msgstr "Septambra"
+
+msgid "October"
+msgstr "Oktobra"
+
+msgid "November"
+msgstr "Novambra"
+
+msgid "December"
+msgstr "Desambra"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Files"
+msgstr "Files"
+
+msgid "Statistic"
+msgstr "Antontan\'isa"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Exit"
+msgstr "Fivoahana"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belarosia"
+
+msgid "Marketing specialist"
+msgstr "Marketing manokana"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Shared with me"
+msgstr "Nizara tamiko"
+
+msgid "File Sharing"
+msgstr "File Fizarana"
+
+msgid "Provide access by link"
+msgstr "Dia manome fahafahana ny rohy"
+
+msgid "Provide Individual access"
+msgstr "Omeo fahafahana miditra tsirairay"
+
+msgid "Provide edit access"
+msgstr "Omeo fahafahana miditra Ovay"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Files will be available only for selected users"
+msgstr "Files ho hita ihany voafantina mpampiasa"
+
+msgid "With this link everyone can access to the files"
+msgstr "Miaraka rohy ity ny olona rehetra afaka miditra ny antontan-taratasy"
+
+msgid "Search users, groups, articles..."
+msgstr "Search mpampiasa, vondrona, lahatsoratra ..."
+
+msgid "My Group"
+msgstr "My Group"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Izahay"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Ny rakitra tsy voafantina"
+
+msgid "Set aside"
+msgstr "Manokana"
+
+msgid "Event time"
+msgstr "Event fotoana"
+
+msgid "Work"
+msgstr "Asa"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Time spent for work:"
+msgstr "Fotoana lany ny asa:"
+
+msgid "Personal time spent:"
+msgstr "Manokana fotoana lany:"
+
+msgid "Present"
+msgstr "Present"
+
+msgid "Common"
+msgstr "Common"
+
+msgid "Sport"
+msgstr "Fanatanjahantena"
+
+msgid "Entertainment"
+msgstr "Entertainment"
+
+msgid "Select:"
+msgstr "Select:"
+
+msgid "Invalid username or password."
+msgstr "Tsy mety solonanarana na tenimiafina."
+
+msgid "Try again."
+msgstr "Andramo indray mandeha."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "Inona no VE?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Mifidy, fara fahakeliny, 2 fahaiza-manao: mbola 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Mifidy, fara fahakeliny, 2 fahaiza-manao: mbola 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Mifidy, fara fahakeliny, 2 fahaiza-manao: sisa tavela"
+
+msgid "Active life"
+msgstr "Active fiainana"
+
+msgid "Arts and culture"
+msgstr "Zavakanto sy ny kolontsaina"
+
+msgid "Business"
+msgstr "Business"
+
+msgid "Cinema"
+msgstr "Cinema"
+
+msgid "Communications"
+msgstr "Fifandraisana"
+
+msgid "Construction and repair"
+msgstr "Construction sy ny repair"
+
+msgid "Cooking"
+msgstr "Cooking"
+
+msgid "Education"
+msgstr "Fanabeazana"
+
+msgid "Electronics"
+msgstr "Electronics"
+
+msgid "Finances"
+msgstr "Finances"
+
+msgid "Graphics and design"
+msgstr "Sary sy ny famolavolana"
+
+msgid "Health"
+msgstr "Fahasalamana"
+
+msgid "Home and family"
+msgstr "An-trano sy ny fianakaviana"
+
+msgid "Humor"
+msgstr "Hatsikana"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Industry"
+
+msgid "Insurance"
+msgstr "Insurance"
+
+msgid "Literature"
+msgstr "Haisoratra"
+
+msgid "Mobile communications and internet"
+msgstr "Fifandraisana finday sy ny aterineto"
+
+msgid "News and Media"
+msgstr "News sy ny Media"
+
+msgid "Pets"
+msgstr "Pets"
+
+msgid "Products and service"
+msgstr "Vokatra sy ny fanompoana"
+
+msgid "Real Estate"
+msgstr "Varotra sy hofa fananana mifaka"
+
+msgid "Religion"
+msgstr "Fivavahana"
+
+msgid "Science and techs"
+msgstr "Siansa sy techs"
+
+msgid "Security"
+msgstr "Security"
+
+msgid "Society"
+msgstr "Fiaraha-monina"
+
+msgid "Television"
+msgstr "Television"
+
+msgid "Travel"
+msgstr "Travel"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Arzantina"
+
+msgid "Australia"
+msgstr "Aostralia"
+
+msgid "Austria"
+msgstr "Aotrisy"
+
+msgid "Belarus"
+msgstr "Belarosia"
+
+msgid "Belgium"
+msgstr "Belzika"
+
+msgid "Brazil"
+msgstr "Brezila"
+
+msgid "Bulgaria"
+msgstr "Bolgaria"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Chile"
+msgstr "Shily"
+
+msgid "Denmark"
+msgstr "Danemark"
+
+msgid "France"
+msgstr "Frantsa"
+
+msgid "Germany"
+msgstr "Alemaina"
+
+msgid "Greece"
+msgstr "Gresy"
+
+msgid "Hungary"
+msgstr "Hongria"
+
+msgid "Iceland"
+msgstr "Islandy"
+
+msgid "Ireland"
+msgstr "Irlandy"
+
+msgid "Israel"
+msgstr "Isiraely"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Japan"
+msgstr "Japana"
+
+msgid "Mexico"
+msgstr "Meksika"
+
+msgid "Netherlands"
+msgstr "Pays-Bas"
+
+msgid "New Zealand"
+msgstr "Novely zelandy"
+
+msgid "Norway"
+msgstr "Norvezy"
+
+msgid "Poland"
+msgstr "Polonina"
+
+msgid "Portugal"
+msgstr "Portiogaly"
+
+msgid "Russia"
+msgstr "Rosia"
+
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgid "South Africa"
+msgstr "Afrika Atsimo"
+
+msgid "South Korea"
+msgstr "Korea Atsimo"
+
+msgid "Spain"
+msgstr "Espaina"
+
+msgid "Sweden"
+msgstr "Soeda"
+
+msgid "Switzerland"
+msgstr "Soisa"
+
+msgid "Turkey"
+msgstr "vorontsiloza"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "United Arab Emirates"
+msgstr "Emirà Arabo Mitambatra"
+
+msgid "United Kingdom"
+msgstr "fanjakana mitambatra"
+
+msgid "United States"
+msgstr "Etazonia"
+
+msgid "achievements"
+msgstr "zava-bita"
+
+msgid "Investment management"
+msgstr "Fampiasam-bola fitantanana"
+
+msgid "Select..."
+msgstr "Select ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "FAMPIASAM-BOLA MANAGEMENT"
+
+msgid "Investors list"
+msgstr "Mpampiasa vola list"
+
+msgid "My investments"
+msgstr "Ny fampiasam-bola"
+
+msgid "Create date"
+msgstr "Create daty"
+
+msgid "Author of the project"
+msgstr "Mpanoratra ny tetikasa"
+
+msgid "Date and time"
+msgstr "Daty sy ny fotoana"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "NEXT"
+msgstr "MANARAKA"
+
+msgid "Next"
+msgstr "Manaraka"
+
+msgid "Apply"
+msgstr "Ampiharo"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstana"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Siansa"
+
+msgid "Architecture"
+msgstr "Architecture"
+
+msgid "Photography"
+msgstr "Sary"
+
+msgid "Designer"
+msgstr "Endrika"
+
+msgid "IT specialist"
+msgstr "IT manokana"
+
+msgid "Agronomist"
+msgstr "Fambolena"
+
+msgid "Architect"
+msgstr "Architect"
+
+msgid "Lawyer"
+msgstr "Mpisolo vava"
+
+msgid "Writer"
+msgstr "Mpanoratra"
+
+msgid "Doctor"
+msgstr "Dokotera"
+
+msgid "Scientist"
+msgstr "Scientist"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Mpampianatra"
+
+msgid "Cook"
+msgstr "Cook"
+
+msgid "Artist"
+msgstr "Artist"
+
+msgid "Photographer"
+msgstr "Mpaka sary"
+
+msgid "Ecologist"
+msgstr "Ecologist"
+
+msgid "Economist"
+msgstr "Toe-karena"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Mpanao gazety"
+
+msgid "Builder"
+msgstr "Builder"
+
+msgid "These users may be interesting for you"
+msgstr "Ireo mpampiasa dia mety hahaliana ho anao"
+
+msgid "These articles may be interesting for you"
+msgstr "Ireo lahatsoratra ireo dia mety hahaliana ho anao"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Ianao niaraka ity vondrona ity ho Аdministrator"
+
+msgid "articles written."
+msgstr "lahatsoratra voasoratra."
+
+msgid "groups created."
+msgstr "vondrona noforonina."
+
+msgid "Creation"
+msgstr "Famoronana"
+
+msgid "Build a dream"
+msgstr "Manaova nofy"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Read more lahatsoratra mahaliana - ho afaka fisoratana anarana"
+

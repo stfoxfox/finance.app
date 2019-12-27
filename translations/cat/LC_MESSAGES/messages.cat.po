@@ -1,0 +1,3344 @@
+# Català (Каталанский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Català (Каталанский) <support@konstruktor.com>\n"
+"Language: Català (Каталанский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "nom d\'usuari"
+
+msgid "Invalid username or password, try again"
+msgstr "Nom d\'usuari o contrasenya incorrecta . Intenta-ho de nou ."
+
+msgid "Settings"
+msgstr "ajustos"
+
+msgid "Home"
+msgstr "casa"
+
+msgid "You must log in to access this page"
+msgstr "Vostè ha d\'ingressar per accedir a aquesta pàgina"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "La seva sessió ha expirat . Si us plau , relogin per realitzar aquesta acció"
+
+msgid "Save"
+msgstr "guardar"
+
+msgid "Head Office"
+msgstr "oficina Central"
+
+msgid "Address"
+msgstr "direcció"
+
+msgid "Back"
+msgstr "esquena"
+
+msgid "Apply"
+msgstr "aplicar"
+
+msgid "Upload files…"
+msgstr "Pujar arxius ..."
+
+msgid "Set as main"
+msgstr "Establir com a principal"
+
+msgid "Delete"
+msgstr "esborrar"
+
+msgid "Original image"
+msgstr "imatge original"
+
+msgid "Uploaded"
+msgstr "pujat"
+
+msgid "File name"
+msgstr "nom del fitxer"
+
+msgid "File size"
+msgstr "mida d\'arxiu"
+
+msgid "Resolution"
+msgstr "resolució"
+
+msgid "Enlarge"
+msgstr "ampliar"
+
+msgid "Links"
+msgstr "Enllaços"
+
+msgid "Original size"
+msgstr "mida original"
+
+msgid "For editor"
+msgstr "per editor"
+
+msgid "Resize"
+msgstr "canviar la mida"
+
+msgid "Width"
+msgstr "ample"
+
+msgid "Height"
+msgstr "alçada"
+
+msgid "Media URL"
+msgstr "URL de Mitjans"
+
+msgid "Add record"
+msgstr "Afegir rècord"
+
+msgid "Show filter settings"
+msgstr "Mostra ajustos de filtre"
+
+msgid "Edit record"
+msgstr "Edita registre"
+
+msgid "Delete record"
+msgstr "esborrar registre"
+
+msgid "Delete checked records"
+msgstr "Eliminar registres verificats"
+
+msgid "Dashboard"
+msgstr "Quadre de comandament"
+
+msgid "Password"
+msgstr "contrasenya"
+
+msgid "Remember me"
+msgstr "Recordar"
+
+msgid "Login"
+msgstr "iniciar Sessió"
+
+msgid "Clean image cache"
+msgstr "Memòria cau d\'imatges Clean"
+
+msgid "Processing query..."
+msgstr "Consulta Processament ..."
+
+msgid "CMS Development"
+msgstr "desenvolupament CMS"
+
+msgid "Admin Home Page"
+msgstr "Admin Home Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Inici oberta de Front - end en una nova pestanya"
+
+msgid "Go to Site"
+msgstr "Anar a la web"
+
+msgid "Log out"
+msgstr "finalitzar la sessió"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "General"
+msgstr "general"
+
+msgid "Title"
+msgstr "títol"
+
+msgid "Teaser"
+msgstr "trencaclosques"
+
+msgid "Published"
+msgstr "publicat"
+
+msgid "Featured"
+msgstr "destacat"
+
+msgid "Active"
+msgstr "actiu"
+
+msgid "Field is mandatory"
+msgstr "El camp és obligatori"
+
+msgid "Sort Order"
+msgstr "ordre de Classificació"
+
+msgid "Upload"
+msgstr "Pujar"
+
+msgid "Loading..."
+msgstr "Carregant ..."
+
+msgid "Jan"
+msgstr "Gen"
+
+msgid "Feb"
+msgstr "febrer"
+
+msgid "Mar"
+msgstr "març"
+
+msgid "Apr"
+msgstr "abril"
+
+msgid "May"
+msgstr "maig"
+
+msgid "Jun"
+msgstr "juny"
+
+msgid "Jul"
+msgstr "juliol"
+
+msgid "Aug"
+msgstr "agost"
+
+msgid "Sep"
+msgstr "setembre"
+
+msgid "Oct"
+msgstr "octubre"
+
+msgid "Nov"
+msgstr "novembre"
+
+msgid "Dec"
+msgstr "desembre"
+
+msgid "Product already exists in the order"
+msgstr "Producte ja existeix en l\'ordre"
+
+msgid "Product does not exist"
+msgstr "Producte no existeix"
+
+msgid "Incorrect request"
+msgstr "sol·licitud incorrecta"
+
+msgid "Products"
+msgstr "productes"
+
+msgid "Product types"
+msgstr "tipus de producte"
+
+msgid "Contractors"
+msgstr "contractistes"
+
+msgid "Contractor"
+msgstr "contractista"
+
+msgid "Orders"
+msgstr "ordres"
+
+msgid "FAQ"
+msgstr "PF"
+
+msgid "New order"
+msgstr "nou ordre"
+
+msgid "My orders"
+msgstr "Les meves comandes"
+
+msgid "Recharge balance"
+msgstr "balanç de Recàrrega"
+
+msgid "Administrator"
+msgstr "administrador"
+
+msgid "Incorrect event ID"
+msgstr "Esdeveniment incorrecta ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Edita contractista"
+
+msgid "Create contractor"
+msgstr "crear contractista"
+
+msgid "Edit question"
+msgstr "Edita pregunta"
+
+msgid "Create question"
+msgstr "crear pregunta"
+
+msgid "Edit order"
+msgstr "Edita fi"
+
+msgid "Create order"
+msgstr "crear demanat"
+
+msgid "Edit product"
+msgstr "Edita producte"
+
+msgid "Create product"
+msgstr "crear producte"
+
+msgid "Edit product type"
+msgstr "Edita el tipus de producte"
+
+msgid "Create product type"
+msgstr "Crear tipus de producte"
+
+msgid "You have received a file"
+msgstr "Vostè ha rebut un arxiu"
+
+msgid "You received a file from"
+msgstr "Vostè va rebre un arxiu de"
+
+msgid "File has been uploaded"
+msgstr "L\'arxiu ha estat pujat"
+
+msgid "Min.qty"
+msgstr "Min.Qty"
+
+msgid "Minimal quantity"
+msgstr "quantitat mínima"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "articles"
+
+msgid "Remove"
+msgstr "treure"
+
+msgid "Contact person"
+msgstr "persona de contacte"
+
+msgid "Email"
+msgstr "correu"
+
+msgid "Contractor phone"
+msgstr "telèfon Contractista"
+
+msgid "Contractor name"
+msgstr "nom del contractista"
+
+msgid "Contractor details"
+msgstr "detalls contractista"
+
+msgid "Order ID"
+msgstr "sol·licitar ID"
+
+msgid "Sum"
+msgstr "suma"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Triï el sistema de pagament adequat per recarregar el saldo"
+
+msgid "Recharge amount"
+msgstr "quantitat de recàrrega"
+
+msgid "Paid"
+msgstr "pagat"
+
+msgid "Shipped"
+msgstr "transportat"
+
+msgid "- No products in this order -"
+msgstr "- No productes en aquest ordre -"
+
+msgid "month"
+msgstr "mes"
+
+msgid "No user found"
+msgstr "No s\'ha trobat cap d\'usuari"
+
+msgid "Achievement"
+msgstr "assoliment"
+
+msgid "Confirmed accomplishments"
+msgstr "assoliments confirmats"
+
+msgid "Remove achievement"
+msgstr "Traieu assoliment"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "telèfon"
+
+msgid "Site URL and email"
+msgstr "URL del lloc i el correu electrònic"
+
+msgid "Remove address"
+msgstr "Traieu direcció"
+
+msgid "Members"
+msgstr "membres"
+
+msgid "Requires a payment"
+msgstr "Requereix un pagament"
+
+msgid "Shipping"
+msgstr "enviament"
+
+msgid "Ready"
+msgstr "A punt"
+
+msgid "Find user..."
+msgstr "Troba usuari ..."
+
+msgid "Order it"
+msgstr "paga"
+
+msgid "Find group..."
+msgstr "Troba grup ..."
+
+msgid "Find user or community..."
+msgstr "Troba usuari o comunitat ..."
+
+msgid "No item found"
+msgstr "Cap article trobat"
+
+msgid "years"
+msgstr "any"
+
+msgid "Send message"
+msgstr "Enviar missatge"
+
+msgid "Message"
+msgstr "missatge"
+
+msgid "To send message press Enter"
+msgstr "Per enviar el missatge premeu Intro"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Per enviar el missatge premeu CTRL + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Processament arxiu ( s ) ..."
+
+msgid "Group settings"
+msgstr "configuració del grup"
+
+msgid "Create group"
+msgstr "crea un grup"
+
+msgid "Group has been successfully saved"
+msgstr "Grup ha estat guardat amb èxit"
+
+msgid "Group title"
+msgstr "títol del Grup"
+
+msgid "Group video"
+msgstr "grup de vídeo"
+
+msgid "Description"
+msgstr "Descripció"
+
+msgid "Your role in group"
+msgstr "El seu paper en el grup"
+
+msgid "Role"
+msgstr "paper"
+
+msgid "Photo or video gallery"
+msgstr "Foto o vídeo galeria"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Pujar vídeo"
+
+msgid "Add group address"
+msgstr "Afegir adreça de grup"
+
+msgid "Group articles"
+msgstr "articles del grup"
+
+msgid "No addresses yet"
+msgstr "No hi ha encara adreces"
+
+msgid "Add group achievement"
+msgstr "Afegir assoliment grup"
+
+msgid "No achivements yet"
+msgstr "No hi ha encara ÈXITS"
+
+msgid "Are you sure to delete this user"
+msgstr "Esteu segur eliminar aquest usuari"
+
+msgid "Add member"
+msgstr "Afegir Membre"
+
+msgid "Are you sure to delete this record?"
+msgstr "Esteu segur eliminar aquest registre ?"
+
+msgid "Join this group"
+msgstr "Unir-se a aquest grup"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "La seva invitació va ser enviada a l\'administrador del grup"
+
+msgid "All addresses"
+msgstr "totes les adreces"
+
+msgid "Collapse"
+msgstr "col·lapse"
+
+msgid "Achievements"
+msgstr "assoliments"
+
+msgid "Show more"
+msgstr "Mostra més"
+
+msgid "Team"
+msgstr "equip"
+
+msgid "Projects"
+msgstr "projectes"
+
+msgid "New project"
+msgstr "nou projecte"
+
+msgid "Project has not been created yet"
+msgstr "Projecte no ha estat creada encara"
+
+msgid "Messanger"
+msgstr "messenger"
+
+msgid "Balance"
+msgstr "equilibri"
+
+msgid "Main page"
+msgstr "pàgina principal"
+
+msgid "Upload image"
+msgstr "carregar imatge"
+
+msgid "My time"
+msgstr "El meu temps"
+
+msgid "Day"
+msgstr "dia"
+
+msgid "Week"
+msgstr "setmana"
+
+msgid "Project settings"
+msgstr "configuració del projecte"
+
+msgid "Create project"
+msgstr "crear projecte"
+
+msgid "Project has been successfully saved"
+msgstr "Projecte ha desat amb èxit"
+
+msgid "Project name"
+msgstr "nom del projecte"
+
+msgid "Deadline"
+msgstr "data Topall"
+
+msgid "Close"
+msgstr "Tancar"
+
+msgid "Manager"
+msgstr "gerent"
+
+msgid "Assigned to"
+msgstr "assignat a"
+
+msgid "Discussion"
+msgstr "discussió"
+
+msgid "Task was created"
+msgstr "La tasca va ser creada"
+
+msgid "Task was closed"
+msgstr "Tasca es va tancar"
+
+msgid "Go to Group"
+msgstr "Anar al Grup"
+
+msgid "Closed"
+msgstr "tancat"
+
+msgid "Last updates"
+msgstr "últimes actualitzacions"
+
+msgid "Project is closed"
+msgstr "Projecte està tancat"
+
+msgid "No open tasks"
+msgstr "No hi ha tasques obertes"
+
+msgid "New task"
+msgstr "nova tasca"
+
+msgid "Closed tasks"
+msgstr "tasques tancades"
+
+msgid "Add subproject"
+msgstr "Afegir subprojecte"
+
+msgid "Add task"
+msgstr "Afegir tasca"
+
+msgid "Sun"
+msgstr "diumenge"
+
+msgid "Mon"
+msgstr "dilluns"
+
+msgid "Tue"
+msgstr "dimarts"
+
+msgid "Wed"
+msgstr "dimecres"
+
+msgid "Thur"
+msgstr "dijous"
+
+msgid "Fri"
+msgstr "divendres"
+
+msgid "Sat"
+msgstr "dissabte"
+
+msgid "Event title"
+msgstr "nom de l\'Esdeveniment"
+
+msgid "Event description"
+msgstr "Descripció de l\'esdeveniment"
+
+msgid "I registered on this site"
+msgstr "M\'he registrat en aquest lloc"
+
+msgid "Last created groups"
+msgstr "Últims grups creats"
+
+msgid "You joined this group as"
+msgstr "Et vas unir a aquest grup com"
+
+msgid "You received a request to join the group"
+msgstr "Vostè va rebre una sol·licitud per unir-se al grup"
+
+msgid "Updated site"
+msgstr "actualitzat lloc"
+
+msgid "Site is under construction"
+msgstr "Lloc en construcció"
+
+msgid "Last registered users"
+msgstr "Últims usuaris registrats"
+
+msgid "User settings"
+msgstr "configuració d\'usuari"
+
+msgid "Technical support"
+msgstr "suport tècnic"
+
+msgid "Change email"
+msgstr "canviar correu electrònic"
+
+msgid "Change password"
+msgstr "canviar la contrasenya"
+
+msgid "User has been successfully saved"
+msgstr "L\'usuari ha desat amb èxit"
+
+msgid "Full name"
+msgstr "Nom complet"
+
+msgid "My video"
+msgstr "El meu vídeo"
+
+msgid "Skills"
+msgstr "habilitats"
+
+msgid "Birthday"
+msgstr "aniversari"
+
+msgid "Country of residence"
+msgstr "País de residència"
+
+msgid "Country"
+msgstr "país"
+
+msgid "Zip Code"
+msgstr "Codi ZIP"
+
+msgid "City/town of residence"
+msgstr "Ciutat / poble de residència"
+
+msgid "University/college"
+msgstr "Universitat"
+
+msgid "University/college photo"
+msgstr "Universitat / foto universitat"
+
+msgid "Add user\'s accomplishments"
+msgstr "Afegir èxits d\'usuari"
+
+msgid "Interface language"
+msgstr "idioma d\'interfície"
+
+msgid "How other people see this page"
+msgstr "Com altres persones veuen aquesta pàgina"
+
+msgid "Video with me"
+msgstr "Vídeo amb mi"
+
+msgid "Groups"
+msgstr "grups"
+
+msgid "Registered today"
+msgstr "registrats avui"
+
+msgid "Qty"
+msgstr "quantitat"
+
+msgid "No registered users yet"
+msgstr "No hi ha usuaris registrats encara"
+
+msgid "Total"
+msgstr "total"
+
+msgid "Registered total"
+msgstr "registrat total"
+
+msgid "You received a file"
+msgstr "Vostè va rebre un arxiu"
+
+msgid "You were invited into this room"
+msgstr "Vostè va ser convidat a aquesta habitació"
+
+msgid "Request is being processed"
+msgstr "Sol·licitud s\'està processant"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Messenger"
+msgstr "missatger"
+
+msgid "New subproject"
+msgstr "nou subprojecte"
+
+msgid "messages written."
+msgstr "missatges escrits ."
+
+msgid "projects created based on groups."
+msgstr "Els projectes creats basats en grups ."
+
+msgid "users registered on website."
+msgstr "Els usuaris registrats en el lloc web ."
+
+msgid "New email"
+msgstr "nou correu electrònic"
+
+msgid "Confirm email"
+msgstr "Confirma el correu electrònic"
+
+msgid "New password"
+msgstr "Nova contrasenya"
+
+msgid "Confirm password"
+msgstr "Confirma la contrasenya"
+
+msgid "Occupation"
+msgstr "altres"
+
+msgid "Timezone"
+msgstr "Zona horària"
+
+msgid "Answer"
+msgstr "contestació"
+
+msgid "Articles"
+msgstr "articles"
+
+msgid "Article"
+msgstr "article"
+
+msgid "Video-article"
+msgstr "Video - article"
+
+msgid "Find article..."
+msgstr "Troba article ..."
+
+msgid "Politics"
+msgstr "política"
+
+msgid "Economics"
+msgstr "Economia"
+
+msgid "Community"
+msgstr "Comunitat"
+
+msgid "Culture"
+msgstr "cultura"
+
+msgid "Sports"
+msgstr "Esports"
+
+msgid "Hi-tech"
+msgstr "D\'alta tecnologia"
+
+msgid "Cars"
+msgstr "cotxes"
+
+msgid "Fashion"
+msgstr "moda"
+
+msgid "Games"
+msgstr "Jocs"
+
+msgid "Other"
+msgstr "altres"
+
+msgid "Invalid mediafile"
+msgstr "Mediafile vàlida"
+
+msgid "No articles in this category yet"
+msgstr "No hi ha articles en aquesta categoria"
+
+msgid "Back to profile"
+msgstr "Tornar al perfil"
+
+msgid "View article"
+msgstr "veure article"
+
+msgid "Edit article"
+msgstr "Edita article"
+
+msgid "Create article"
+msgstr "crear article"
+
+msgid "Article title"
+msgstr "títol de l\'article"
+
+msgid "Article section"
+msgstr "secció de l\'article"
+
+msgid "Choose image"
+msgstr "Tria la imatge"
+
+msgid "Save and upload"
+msgstr "Guardar i carregar"
+
+msgid "Show more..."
+msgstr "Veure més ..."
+
+msgid "Create"
+msgstr "crear"
+
+msgid "Edit"
+msgstr "Edita"
+
+msgid "Project"
+msgstr "projecte"
+
+msgid "Team"
+msgstr "equip"
+
+msgid "A new article was published"
+msgstr "Un nou article"
+
+msgid "You joined this project"
+msgstr "Et vas unir aquest projecte"
+
+msgid "Enter your information in the User settings"
+msgstr "Introduïu la seva informació en la configuració del usuari"
+
+msgid "Communities"
+msgstr "Comunitats"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Vídeo de presentació de les meves èxits"
+
+msgid "My articles"
+msgstr "Els meus articles"
+
+msgid "User"
+msgstr "usuari"
+
+msgid "Users"
+msgstr "usuaris"
+
+msgid "Add new list"
+msgstr "Afegeix nova llista"
+
+msgid "List title"
+msgstr "llista de títols"
+
+msgid "Add"
+msgstr "Afegir"
+
+msgid "Add to favorites"
+msgstr "Afegir a preferits"
+
+msgid "Delete from favorites"
+msgstr "Eliminar dels favorits"
+
+msgid "Select list"
+msgstr "Seleccioneu la llista"
+
+msgid "Subscriptions"
+msgstr "subscripcions"
+
+msgid "Subscribe"
+msgstr "Subscriure"
+
+msgid "Unsubscribe"
+msgstr "donar-se de baixa"
+
+msgid "General list"
+msgstr "llistat general"
+
+msgid "No users in this list"
+msgstr "No hi ha usuaris en aquesta llista"
+
+msgid "Publish"
+msgstr "publicar"
+
+msgid "Unpublish"
+msgstr "despublicar"
+
+msgid "Add user"
+msgstr "Afegir usuari"
+
+msgid "Create document"
+msgstr "crear document"
+
+msgid "Edit document"
+msgstr "Edita document"
+
+msgid "View"
+msgstr "veure"
+
+msgid "Document title"
+msgstr "títol del document"
+
+msgid "Find document..."
+msgstr "Troba document ..."
+
+msgid "Share your thoughts"
+msgstr "Comparteix els teus pensaments"
+
+msgid "Leave your comment"
+msgstr "Deixa el teu comentari"
+
+msgid "Accept"
+msgstr "acceptar"
+
+msgid "Decline"
+msgstr "decadència"
+
+msgid "Add article"
+msgstr "Afegir article"
+
+msgid "Link to verified accomplishments"
+msgstr "Enllaç a èxits verificats"
+
+msgid "No articles here yet..."
+msgstr "No hi ha articles aquí encara ..."
+
+msgid "Find file or folder..."
+msgstr "Troba arxiu o carpeta ..."
+
+msgid "Sort"
+msgstr "espècie"
+
+msgid "By name"
+msgstr "per nom"
+
+msgid "By date"
+msgstr "per data"
+
+msgid "By updated date"
+msgstr "La data d\'actualització"
+
+msgid "By size"
+msgstr "per grandària"
+
+msgid "By type"
+msgstr "per tipus de"
+
+msgid "Move"
+msgstr "moguda"
+
+msgid "File Manager"
+msgstr "gestor de fitxers"
+
+msgid "Share link"
+msgstr "compartir enllaç"
+
+msgid "Responsible"
+msgstr "responsable"
+
+msgid "Performer"
+msgstr "artista"
+
+msgid "New Folder"
+msgstr "Carpeta nova"
+
+msgid "Folder name"
+msgstr "nom de la carpeta"
+
+msgid "By default"
+msgstr "Per defecte"
+
+msgid "Back to group"
+msgstr "Tornar al grup"
+
+msgid "year(s)"
+msgstr "any (s)"
+
+msgid "January"
+msgstr "gener"
+
+msgid "February"
+msgstr "febrer"
+
+msgid "March"
+msgstr "març"
+
+msgid "April"
+msgstr "abril"
+
+msgid "May"
+msgstr "maig"
+
+msgid "June"
+msgstr "juny"
+
+msgid "July"
+msgstr "juliol"
+
+msgid "August"
+msgstr "Augusto"
+
+msgid "September"
+msgstr "setembre"
+
+msgid "October"
+msgstr "octubre"
+
+msgid "November"
+msgstr "de novembre"
+
+msgid "December"
+msgstr "desembre"
+
+msgid "Password Reminder"
+msgstr "recordatori de Contrasenya"
+
+msgid "Log In"
+msgstr "Entrada"
+
+msgid "Sign in"
+msgstr "Registra `t"
+
+msgid "Register"
+msgstr "Registre"
+
+msgid "First name"
+msgstr "Nom"
+
+msgid "Last name"
+msgstr "Cognom"
+
+msgid "I agree with rules"
+msgstr "Estic d\'acord amb les normes"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Un correu de confirmació va ser enviat a la seva adreça de correu electrònic."
+
+msgid "Thanks"
+msgstr "gràcies"
+
+msgid "Password must be at least 6 characters"
+msgstr "La contrasenya ha de tenir com a mínim 6 caràcters"
+
+msgid "Creative Environment"
+msgstr "entorn Creatiu"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Has de ser almenys tretze anys d\'edat per utilitzar aquest servei"
+
+msgid "Order status"
+msgstr "estat de l\'ordre"
+
+msgid "Processing order"
+msgstr "ordre de processament"
+
+msgid "Requires a payment"
+msgstr "Requereix un pagament"
+
+msgid "Shipping"
+msgstr "Enviament"
+
+msgid "Ready"
+msgstr "A punt"
+
+msgid "Thank you for your payment"
+msgstr "Gràcies per la seva pagament"
+
+msgid "Your payment has been cancelled"
+msgstr "El seu pagament s\'ha cancel·lat"
+
+msgid "page"
+msgstr "pàgina"
+
+msgid "Rent period"
+msgstr "període de Renda"
+
+msgid "Total, month"
+msgstr "Total, mesos"
+
+msgid "Order items"
+msgstr "articles de l\'ordre"
+
+msgid "No records found"
+msgstr "No s\'han trobat"
+
+msgid "User with this email is already exist"
+msgstr "Usuari amb aquest correu electrònic és ja existeixen"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Carpeta o arxiu amb aquest nom ja està existeixen a la carpeta de destinació"
+
+msgid "Minimal quantity"
+msgstr "quantitat mínima"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "còpies d\'impressió"
+
+msgid "Terms of Use"
+msgstr "Condicions d\'ús"
+
+msgid "Privacy Policy"
+msgstr "Política de privacitat"
+
+msgid "Find project..."
+msgstr "Troba projecte ..."
+
+msgid "New Project"
+msgstr "nou projecte"
+
+msgid "Accounts"
+msgstr "comptes"
+
+msgid "Operations"
+msgstr "operacions"
+
+msgid "All accounts"
+msgstr "tots els comptes"
+
+msgid "All categories"
+msgstr "totes les categories"
+
+msgid "Expense"
+msgstr "despesa"
+
+msgid "Income"
+msgstr "ingressos"
+
+msgid "Transfer"
+msgstr "transferència"
+
+msgid "Expense"
+msgstr "despesa"
+
+msgid "income"
+msgstr "ingressos"
+
+msgid "tax"
+msgstr "impost"
+
+msgid "percent"
+msgstr "per cent"
+
+msgid "transfer"
+msgstr "transferència"
+
+msgid "Make operation"
+msgstr "realitza l\'operació"
+
+msgid "Select date"
+msgstr "seleccionar data"
+
+msgid "Select account"
+msgstr "Seleccioneu el compte"
+
+msgid "Month"
+msgstr "mes"
+
+msgid "Quarter"
+msgstr "trimestre"
+
+msgid "Year"
+msgstr "any"
+
+msgid "From"
+msgstr "des"
+
+msgid "To"
+msgstr "A"
+
+msgid "Expense amount"
+msgstr "quantitat de despeses"
+
+msgid "Categories"
+msgstr "categories"
+
+msgid "Comments"
+msgstr "comentaris"
+
+msgid "Income amount"
+msgstr "quantitat d\'ingressos"
+
+msgid "Transfer amount"
+msgstr "quantitat de la transferència"
+
+msgid "From account"
+msgstr "des del compte"
+
+msgid "To account"
+msgstr "Al compte"
+
+msgid "New Account"
+msgstr "nova Compte"
+
+msgid "New Category"
+msgstr "nova categoria"
+
+msgid "All"
+msgstr "tot"
+
+msgid "Name"
+msgstr "nom"
+
+msgid "Enter category name"
+msgstr "Introduïu nom de la categoria"
+
+msgid "Select type"
+msgstr "Seleccioneu el tipus"
+
+msgid "Credit card"
+msgstr "Targeta de crèdit"
+
+msgid "Debit card"
+msgstr "Targeta de dèbit"
+
+msgid "Bank account"
+msgstr "compte bancari"
+
+msgid "Cash"
+msgstr "efectiu"
+
+msgid "Balance is empty"
+msgstr "L\'equilibri és buida"
+
+msgid "Statistic is empty"
+msgstr "Estadística està buida"
+
+msgid "Regular payments"
+msgstr "pagaments regulars"
+
+msgid "Are you sure ?"
+msgstr "Estàs segur ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Esteu segur de tancar aquest projecte ?"
+
+msgid "Project was deleted successfully"
+msgstr "Projecte s\'ha eliminat correctament"
+
+msgid "Select currency"
+msgstr "Seleccioneu la moneda"
+
+msgid "Account"
+msgstr "compte"
+
+msgid "Orders list"
+msgstr "llista d\'Ordres"
+
+msgid "Order payments"
+msgstr "pagaments Sol·licitar"
+
+msgid "View order"
+msgstr "veure comanda"
+
+msgid "No response from Printer API"
+msgstr "No hi ha resposta de l\'API d\'impressora"
+
+msgid "Bad response from Printer API"
+msgstr "Mala resposta d\'API impressora"
+
+msgid "User ID"
+msgstr "ID d\'usuari"
+
+msgid "Contact Person"
+msgstr "Persona de contacte"
+
+msgid "No orders to process"
+msgstr "No hi ha comandes per processar"
+
+msgid "Article announce image"
+msgstr "Article anunciar imatge"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "URL del vídeo no és vàlid. Deixar en blanc o inserir url youtube vàlida"
+
+msgid "Please, enter Contractor data"
+msgstr "Si us plau , introdueixi les dades contractista"
+
+msgid "Distribute devices"
+msgstr "distribuir dispositius"
+
+msgid "Quantity"
+msgstr "quantitat"
+
+msgid "Devices left"
+msgstr "dispositius van deixar"
+
+msgid "Distributed devices"
+msgstr "dispositius distribuïts"
+
+msgid "You must enter quantity"
+msgstr "Ha d\'ingressar la quantitat"
+
+msgid "All devices are distributed"
+msgstr "Tots els dispositius estan distribuïts"
+
+msgid "IP address"
+msgstr "adreça IP"
+
+msgid "Only for printer"
+msgstr "Només per a la impressora"
+
+msgid "Counter"
+msgstr "Contador"
+
+msgid "You was excluded from this room"
+msgstr "Vostè va ser exclòs d\'aquesta sala"
+
+msgid "Compare"
+msgstr "comparar"
+
+msgid "Scheduled transaction"
+msgstr "transacció programada"
+
+msgid "Select transfer account"
+msgstr "Seleccionar compte de transferència"
+
+msgid "Select income account"
+msgstr "Seleccioneu el compte d\'ingressos"
+
+msgid "Reports"
+msgstr "informes"
+
+msgid "Goals"
+msgstr "objectius"
+
+msgid "Budgets"
+msgstr "Pressupostos"
+
+msgid "Enter user name or email..."
+msgstr "Introduïu el nom d\'usuari o correu electrònic ..."
+
+msgid "Invite had been sended"
+msgstr "Convida havia sended"
+
+msgid "Statistics"
+msgstr "Estadístiques"
+
+msgid "Updated site began to work"
+msgstr "Actualitzat lloc va començar a treballar"
+
+msgid "City of residence"
+msgstr "Ciutat de residència"
+
+msgid "Edit favourites list"
+msgstr "Edita la llista de favorits"
+
+msgid "Add favourites list"
+msgstr "Afegeix llista de favorits"
+
+msgid "Categories is required"
+msgstr "Es requereix Categories"
+
+msgid "Type new category name and hit Enter"
+msgstr "Escriure un nou nom de la categoria i premeu Enter"
+
+msgid "You created an order"
+msgstr "Ha creat una comanda"
+
+msgid "You received a device due to this order"
+msgstr "Vostè va rebre un dispositiu a causa d\'aquest fi"
+
+msgid "%s attached %s to task %s"
+msgstr "%s%s adjunta a la tasca %s"
+
+msgid "member(s)"
+msgstr "membre (s )"
+
+msgid "%s commented task %s"
+msgstr "%s%s tasca comentat"
+
+msgid "%s closed task %s"
+msgstr "%s%s tasca tancada"
+
+msgid "%s created task %s"
+msgstr "%s%s tasca creada"
+
+msgid "%s created this project"
+msgstr "%s creat aquest projecte"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s subprojecte creat \" %s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s tancat projecte \" %s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s tancat subprojecte \" %s \""
+
+msgid "This field must not be blank"
+msgstr "Aquest camp no ha d\'estar en blanc"
+
+msgid "Document with such name is already exist"
+msgstr "Document amb tal nom és ja existeixen"
+
+msgid "Wait until image upload"
+msgstr "Espereu fins que la càrrega d\'imatges"
+
+msgid "Video"
+msgstr "vídeo"
+
+msgid "Message can not be empty"
+msgstr "El missatge no pot estar buit"
+
+msgid "Yes"
+msgstr "sí"
+
+msgid "No"
+msgstr "sense"
+
+msgid "Created"
+msgstr "creat"
+
+msgid "Compare is empty"
+msgstr "Compara està buit"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Segur que vols eliminar l\'operació"
+
+msgid "Do you really want to delete transaction"
+msgstr "De veritat vol eliminar la transacció"
+
+msgid "Project with same name already exists"
+msgstr "Projecte amb el mateix nom ja existeix"
+
+msgid "Account is not found"
+msgstr "Compte no troba"
+
+msgid "Currency is required"
+msgstr "Es requereix moneda"
+
+msgid "error while deleting document"
+msgstr "error en eliminar el document"
+
+msgid "Expences"
+msgstr "expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Has convidat a usuari \" %s \" en aquesta sala"
+
+msgid "User \"%s\" joined this room"
+msgstr "L\'usuari \"%s \" es van unir a aquesta sala"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Vostè exclosos per l\'usuari \" %s \" d\'aquesta sala"
+
+msgid "User \"%s\" left this room"
+msgstr "L\'usuari \"%s \" va deixar aquesta sala"
+
+msgid "Add account"
+msgstr "Afegir compte"
+
+msgid "The requested page is not found"
+msgstr "La pàgina sol·licitada no es troba"
+
+msgid "Document"
+msgstr "document"
+
+msgid "Table"
+msgstr "taula"
+
+msgid "file(s)"
+msgstr "arxiu ( s )"
+
+msgid "Residue"
+msgstr "residus"
+
+msgid "Result is empty"
+msgstr "El resultat és buida"
+
+msgid "The total amount is %s for %s mo"
+msgstr "L\' import total és de %s per %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Vostè ha de dipositar %s mensual al compte relacionada"
+
+msgid "Start"
+msgstr "Inici"
+
+msgid "finish"
+msgstr "acabat"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Compte seleccionat ja està en ús per un altre gol"
+
+msgid "Amount required"
+msgstr "quantitat necessària"
+
+msgid "New goal"
+msgstr "nova meta"
+
+msgid "Goal"
+msgstr "meta"
+
+msgid "Goal name"
+msgstr "nom del Meta"
+
+msgid "Invalid date"
+msgstr "data no vàlida"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Suma necessària ha de ser un nombre positiu"
+
+msgid "Remain"
+msgstr "romangui"
+
+msgid "Last day"
+msgstr "L\'últim dia"
+
+msgid "Accumulated"
+msgstr "acumulat"
+
+msgid "Put aside"
+msgstr "Deixar de banda"
+
+msgid "January"
+msgstr "gener"
+
+msgid "February"
+msgstr "febrer"
+
+msgid "March"
+msgstr "març"
+
+msgid "April"
+msgstr "abril"
+
+msgid "May"
+msgstr "maig"
+
+msgid "June"
+msgstr "juny"
+
+msgid "July"
+msgstr "juliol"
+
+msgid "August"
+msgstr "Augusto"
+
+msgid "September"
+msgstr "setembre"
+
+msgid "October"
+msgstr "octubre"
+
+msgid "November"
+msgstr "de novembre"
+
+msgid "December"
+msgstr "desembre"
+
+msgid "Expenses projected/actual"
+msgstr "Les despeses projectats / reals"
+
+msgid "Net Income projected/actual"
+msgstr "Ingrés net projectat / real"
+
+msgid "New budget"
+msgstr "nou pressupost"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Ingressos i Despeses Gràfic"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Pressupost amb mateix parell de compte i la categoria ja existeix"
+
+msgid "Budget is empty"
+msgstr "Pressupost està buit"
+
+msgid "Budget"
+msgstr "pressupost"
+
+msgid "plan"
+msgstr "pla"
+
+msgid "fact"
+msgstr "fet"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "mostrar Més"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "Els meus vendes"
+
+msgid "Time spent"
+msgstr "el temps dedicat"
+
+msgid "Total time spent"
+msgstr "Temps total consumit"
+
+msgid "Earnings per hour"
+msgstr "Els guanys per hora"
+
+msgid "Total earnings"
+msgstr "els ingressos totals"
+
+msgid "Call"
+msgstr "truqui"
+
+msgid "Phone call"
+msgstr "Trucada"
+
+msgid "Telephone calls"
+msgstr "les trucades telefòniques"
+
+msgid "Send email"
+msgstr "Envia un correu electrònic"
+
+msgid "Emails"
+msgstr "els correus electrònics"
+
+msgid "Meeting"
+msgstr "trobada"
+
+msgid "Meetings"
+msgstr "reunions"
+
+msgid "All events"
+msgstr "tots els esdeveniments"
+
+msgid "Task"
+msgstr "tasca"
+
+msgid "Event"
+msgstr "esdeveniment"
+
+msgid "Events"
+msgstr "esdeveniments"
+
+msgid "Time"
+msgstr "temps"
+
+msgid "Events statistics"
+msgstr "esdeveniments estadístiques"
+
+msgid "days"
+msgstr "dia"
+
+msgid "hours"
+msgstr "hores"
+
+msgid "minutes"
+msgstr "acta"
+
+msgid "Income & expense"
+msgstr "Ingressos i despeses"
+
+msgid "Show chart"
+msgstr "mostrar taula"
+
+msgid "Hide chart"
+msgstr "Amaga taula"
+
+msgid "Add event"
+msgstr "Afegir esdeveniment"
+
+msgid "Add financial data"
+msgstr "Afegir dades financeres"
+
+msgid "Select contractor"
+msgstr "Seleccioneu contractista"
+
+msgid "Net Income"
+msgstr "utilitat Neta"
+
+msgid "Revenue"
+msgstr "ingressos"
+
+msgid "Taxes"
+msgstr "impostos"
+
+msgid "Amount planned"
+msgstr "import previst"
+
+msgid "Amount"
+msgstr "quantitat"
+
+msgid "Period"
+msgstr "període"
+
+msgid "Are you sure to close this task?"
+msgstr "Esteu segur de tancar aquesta tasca ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "tots els grups"
+
+msgid "added from task"
+msgstr "afegida per tasca"
+
+msgid "Monthly repeat"
+msgstr "Repetiu mensual"
+
+msgid "Select category"
+msgstr "Tria categoria"
+
+msgid "Event type"
+msgstr "tipus d\'esdeveniment"
+
+msgid "Margin"
+msgstr "marge"
+
+msgid "Use finance project"
+msgstr "Utilitzeu Project Finance"
+
+msgid "New investment project"
+msgstr "Nou projecte d\'inversió"
+
+msgid "Investment project settings"
+msgstr "Configuració del projecte d\'inversió"
+
+msgid "Picture, for the announcement project"
+msgstr "Imatge, per al projecte d\'anunci"
+
+msgid "Announcement project"
+msgstr "projecte Anunci"
+
+msgid "Video"
+msgstr "vídeo"
+
+msgid "Photos or videos gallery"
+msgstr "Fotos o vídeos galeria"
+
+msgid "required amount"
+msgstr "quantitat requerida"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Durada del projecte ( 60 dies màxim )"
+
+msgid "Project duration"
+msgstr "durada del projecte"
+
+msgid "Add reward"
+msgstr "Afegir recompensa"
+
+msgid "Delivery date"
+msgstr "Data d\'entrega"
+
+msgid "Payment systems"
+msgstr "els sistemes de pagament"
+
+msgid "Terms of service"
+msgstr "Termes del servei"
+
+msgid "Agreement"
+msgstr "acord"
+
+msgid "Payment"
+msgstr "pagament"
+
+msgid "My projects"
+msgstr "Els meus projectes"
+
+msgid "Search result"
+msgstr "resultat de la recerca"
+
+msgid "Nothing not found"
+msgstr "Res que no es troba"
+
+msgid "The project has no sponsors"
+msgstr "El projecte no té patrocinadors"
+
+msgid "Design"
+msgstr "disseny"
+
+msgid "Food"
+msgstr "aliments"
+
+msgid "Journalism"
+msgstr "periodisme"
+
+msgid "Games"
+msgstr "Jocs"
+
+msgid "Art"
+msgstr "art"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "música"
+
+msgid "Handicrafts"
+msgstr "artesanies"
+
+msgid "Publishing"
+msgstr "publishing"
+
+msgid "Theater"
+msgstr "teatre"
+
+msgid "Technology"
+msgstr "tecnologia"
+
+msgid "Film/Video"
+msgstr "Cinema / Vídeo"
+
+msgid "Photo"
+msgstr "foto"
+
+msgid "Dance"
+msgstr "dansa"
+
+msgid "Invalid youtube video"
+msgstr "Invàlid vídeo de youtube"
+
+msgid "is required"
+msgstr "es requereix"
+
+msgid "User"
+msgstr "usuari"
+
+msgid "Date"
+msgstr "data"
+
+msgid "Collected"
+msgstr "recollits"
+
+msgid "Choose period"
+msgstr "Trieu període"
+
+msgid "Choose region"
+msgstr "Tria una regió"
+
+msgid "Country"
+msgstr "país"
+
+msgid "Today"
+msgstr "avui en dia"
+
+msgid "Week"
+msgstr "setmana"
+
+msgid "Month"
+msgstr "mes"
+
+msgid "Year"
+msgstr "any"
+
+msgid "Free registration"
+msgstr "inscripció gratuïta"
+
+msgid "Join"
+msgstr "Uneix-te"
+
+msgid "Log in using"
+msgstr "Entrar usant"
+
+msgid "Vacancies"
+msgstr "les oportunitats d\'ocupació"
+
+msgid "About Us"
+msgstr "Sobre nosaltres"
+
+msgid "You will need email to log in"
+msgstr "Vostè necessitarà de correu electrònic per iniciar sessió"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Una combinació de 6 dígits i caràcters"
+
+msgid "Search users, groups, articles..."
+msgstr "Cercar usuaris , grups , articles ..."
+
+msgid "Cloud"
+msgstr "núvol"
+
+msgid "Sunday"
+msgstr "diumenge"
+
+msgid "Monday"
+msgstr "dilluns"
+
+msgid "Tuesday"
+msgstr "dimarts"
+
+msgid "Wednesday"
+msgstr "dimecres"
+
+msgid "Thursday"
+msgstr "dijous"
+
+msgid "Friday"
+msgstr "divendres"
+
+msgid "Saturday"
+msgstr "dissabte"
+
+msgid "Edit"
+msgstr "Edita"
+
+msgid "Create group"
+msgstr "Crea un grup"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "¿ Segur que vols sortir d\'aquesta pàgina ?"
+
+msgid "More"
+msgstr "més"
+
+msgid "Less"
+msgstr "inferior"
+
+msgid "Pending"
+msgstr "A l\'espera de"
+
+msgid "Approved"
+msgstr "aprovat"
+
+msgid "Rejected"
+msgstr "No aprovat"
+
+msgid "Subprojects"
+msgstr "subprojectes"
+
+msgid "Group edit"
+msgstr "Edita Grup"
+
+msgid "Startup"
+msgstr "Inici"
+
+msgid "Tattoo"
+msgstr "tatuatge"
+
+msgid "Health"
+msgstr "salut"
+
+msgid "Weapon"
+msgstr "arma"
+
+msgid "Astronomy"
+msgstr "astronomia"
+
+msgid "All articles"
+msgstr "tots els articles"
+
+msgid "Article editor"
+msgstr "editor d\'article"
+
+msgid "Document editor"
+msgstr "redactor del document"
+
+msgid "Apply changes"
+msgstr "Aplica els canvis"
+
+msgid "Save changes?"
+msgstr "Guardar els canvis?"
+
+msgid "published an article"
+msgstr "publicar un article"
+
+msgid "Users"
+msgstr "usuaris"
+
+msgid "Shared With Me"
+msgstr "Va compartir amb mi"
+
+msgid "share"
+msgstr "quota"
+
+msgid "Select Group Responsible"
+msgstr "Seleccioneu Grup Responsable"
+
+msgid "Create folder"
+msgstr "crear carpeta"
+
+msgid "Title must be at least 3 characters"
+msgstr "El títol ha de ser almenys de 3"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Lliure de 10 GB , gerent de finances , invertir mòdul, i molts altres de forma gratuïta i per sempre"
+
+msgid "Best regards"
+msgstr "Records"
+
+msgid "Updates in last 12 hours:"
+msgstr "Actualitzacions en últimes 12 hores :"
+
+msgid "expense"
+msgstr "despesa"
+
+msgid "Commentary on the event:"
+msgstr "Comentari sobre l\'esdeveniment :"
+
+msgid "Event place"
+msgstr "lloc de l\'esdeveniment"
+
+msgid "Project was updated"
+msgstr "Projecte va ser actualitzat"
+
+msgid "Project was created"
+msgstr "Projecte va ser creat"
+
+msgid "Project was closed"
+msgstr "Projecte es va tancar"
+
+msgid "account"
+msgstr "compte"
+
+msgid "removed task"
+msgstr "tasca eliminat"
+
+msgid "removed subproject"
+msgstr "subprojecte eliminat"
+
+msgid "Title can not be empty"
+msgstr "El títol no pot estar buit"
+
+msgid "Do not select the type of event"
+msgstr "No seleccioneu el tipus d\'esdeveniment"
+
+msgid "Error while saving comment"
+msgstr "Error en desar comentari"
+
+msgid "Save error: access denied"
+msgstr "Estalviï error : accés denegat"
+
+msgid "Remains"
+msgstr "restes"
+
+msgid "Time spent, h."
+msgstr "El temps dedicat, h ."
+
+msgid "Emails"
+msgstr "els correus electrònics"
+
+msgid "Meetings"
+msgstr "reunions"
+
+msgid "All users"
+msgstr "Tots els usuaris"
+
+msgid "Category"
+msgstr "categoria"
+
+msgid "Finance project"
+msgstr "finançament de Projectes"
+
+msgid "Investment project"
+msgstr "projecte d\'inversió"
+
+msgid "Nature"
+msgstr "caràcter"
+
+msgid "Data is empty"
+msgstr "Dades està buida"
+
+msgid "Visitors"
+msgstr "visitants"
+
+msgid "My profile"
+msgstr "El meu perfil"
+
+msgid "Sponsors"
+msgstr "Patrocinadors"
+
+msgid "Prior to completion"
+msgstr "Abans de la finalització"
+
+msgid "Select"
+msgstr "seleccionar"
+
+msgid "My groups"
+msgstr "Els meus grups"
+
+msgid "The invitation has been sent successfully"
+msgstr "La invitació ha estat enviada correctament"
+
+msgid "Username has already been invited to this project"
+msgstr "Nom d\' usuari ja ha estat convidat a aquest projecte"
+
+msgid "The user is the creator of the project"
+msgstr "L\'usuari és el creador del projecte"
+
+msgid "Provide full access"
+msgstr "Proporcionar accés complet"
+
+msgid "Select elements to provide access"
+msgstr "Seleccionar elements per facilitar l\'accés"
+
+msgid "Select all"
+msgstr "Seleccionar Tot"
+
+msgid "User E-mail"
+msgstr "Usuari Correu electrònic"
+
+msgid "Click on the field to select a category"
+msgstr "Feu clic al camp per seleccionar una categoria"
+
+msgid "Invitation was deleted"
+msgstr "Es va suprimir la invitació"
+
+msgid "Permission denied"
+msgstr "Permís denegat"
+
+msgid "Printed"
+msgstr "imprés"
+
+msgid "Incorrect Contractor email"
+msgstr "Incorrecta de correu electrònic Contractista"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Vols afegir projecte per finançar gerent ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Per completar el procés de registre si us plau ompli les teves habilitats"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Un correu electrònic amb més instruccions va ser enviada al seu correu electrònic"
+
+msgid "Submit"
+msgstr "presentar"
+
+msgid "Cars"
+msgstr "cotxes"
+
+msgid "Science"
+msgstr "Ciència"
+
+msgid "Donation"
+msgstr "donació"
+
+msgid "Interests"
+msgstr "interessos"
+
+msgid "Driver"
+msgstr "conductor"
+
+msgid "Sportsman"
+msgstr "esportista"
+
+msgid "Businessman"
+msgstr "empresari"
+
+msgid "Accountant"
+msgstr "Contador"
+
+msgid "Engineer"
+msgstr "enginyer"
+
+msgid "Soldier"
+msgstr "militar"
+
+msgid "Next"
+msgstr "pròxim"
+
+msgid "Hide group"
+msgstr "ocultar grup"
+
+msgid "groups created"
+msgstr "grups creats"
+
+msgid "articles written"
+msgstr "articles escrits"
+
+msgid "These groups may be interesting for you"
+msgstr "Aquests grups poden ser d\'interès per a vostè"
+
+msgid "About Group"
+msgstr "sobre Grup"
+
+msgid "view(s)"
+msgstr "vista ( s )"
+
+msgid "Favorite users"
+msgstr "usuaris favorits"
+
+msgid "No accounts"
+msgstr "no hi ha comptes"
+
+msgid "Facebook authorization failed."
+msgstr "Autorització Facebook va fallar ."
+
+msgid "Authorization Required"
+msgstr "es requereix autorització"
+
+msgid "You have to make a call:"
+msgstr "Vostè ha de fer una crida :"
+
+msgid "You have to send an email:"
+msgstr "Vostè ha d\'enviar un correu electrònic :"
+
+msgid "You have a meetup:"
+msgstr "Vostè té un Meetup :"
+
+msgid "You event :"
+msgstr "Vostè esdeveniment :"
+
+msgid "Participants:"
+msgstr "participants :"
+
+msgid "Search"
+msgstr "busca"
+
+msgid "News"
+msgstr "notícia"
+
+msgid "Investments"
+msgstr "inversions"
+
+msgid "Back to Cloud"
+msgstr "Tornar al Núvol"
+
+msgid "Documents"
+msgstr "documents"
+
+msgid "Planet"
+msgstr "planet"
+
+msgid "Group url"
+msgstr "url Grup"
+
+msgid "Profile url"
+msgstr "perfil uRL"
+
+msgid "Already taken"
+msgstr "Ja agafat"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Almenys 1 lletra i 3 caràcters longitud requerida"
+
+msgid "Digit can not be the first character"
+msgstr "Dígit no pot ser el primer caràcter"
+
+msgid "Enter valid email address"
+msgstr "Introduïu l\'adreça de correu electrònic vàlida"
+
+msgid "Enter your skills"
+msgstr "Introdueixi les seves habilitats"
+
+msgid "Enter your first name"
+msgstr "Introdueix el teu nom"
+
+msgid "Enter your last name"
+msgstr "Introdueix el teu cognom"
+
+msgid "Enter your first name and last name"
+msgstr "Introdueix el teu nom i cognom"
+
+msgid "Your first name?"
+msgstr "El teu nom?"
+
+msgid "Your last name?"
+msgstr "El seu cognom ?"
+
+msgid "What are your proficiencies?"
+msgstr "Quines són les seves competències ?"
+
+msgid "Select country"
+msgstr "Seleccioneu el país"
+
+msgid "Select user"
+msgstr "seleccionar usuari"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Compleix el teu somni ! Crear i col·laborar."
+
+msgid "date moved from"
+msgstr "data es va traslladar des"
+
+msgid "work"
+msgstr "treball"
+
+msgid "Conference"
+msgstr "conferència"
+
+msgid "personal"
+msgstr "personal"
+
+msgid "Holiday"
+msgstr "lloguers"
+
+msgid "Past"
+msgstr "Passat"
+
+msgid "Future"
+msgstr "Futur"
+
+msgid "Purchase"
+msgstr "Compra"
+
+msgid "Personal events"
+msgstr "Esdeveniments privats"
+
+msgid "Conferences"
+msgstr "Trobada"
+
+msgid "Holidays"
+msgstr "Vacances"
+
+msgid "Sport events"
+msgstr "Esdeveniments esportius"
+
+msgid "Tasks"
+msgstr "Tasques"
+
+msgid "Other events"
+msgstr "Altres esdeveniments"
+
+msgid "Set aside"
+msgstr "Menjar per emportar"
+
+msgid "Set aside"
+msgstr "Diferit"
+
+msgid "Time management"
+msgstr "Gestió del Temps"
+
+msgid "Delayed events"
+msgstr "Esdeveniments diferits"
+
+msgid "Delayed"
+msgstr "Diferit"
+
+msgid "Bind to"
+msgstr "Assignar"
+
+msgid "answered your comment to"
+msgstr "Li vaig dir (a) Comentari sobre l\'article"
+
+msgid "commented your article"
+msgstr "Vaig fer un comentari sobre el teu article"
+
+msgid "You\'ve answered on comment to"
+msgstr "Vostè va respondre al comentari sobre l\'article"
+
+msgid "You\'ve commented an article"
+msgstr "Ha comentat sobre l\'article"
+
+msgid "Terms and Conditions"
+msgstr "Termes i Condicions"
+
+msgid "Privacy Policy"
+msgstr "Política de privacitat"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "En fer clic a \"Sign Up\" Vostè accepta la nostra i reconeix que ha llegit la nostra"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Uneix-te a la comunitat de persones creatives de tot el món! Vostè rebrà: Invertir en les seves idees, una oportunitat per reunir el seu equip, que treballa en un grup, el gerent financer, la gestió del seu temps, 2 gigabytes d\'emmagatzematge i molt més. I és gratis!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Ho sentim, però la pàgina que cerca no existeix. Si vostè pensa que la culpa ens en contacte amb nosaltres"
+
+msgid "Return"
+msgstr "Tornar"
+
+msgid "COMMON"
+msgstr "Total"
+
+msgid "My events"
+msgstr "Els meus esdeveniments"
+
+msgid "Job opening"
+msgstr "Oferta d\'ocupació"
+
+msgid "Employment"
+msgstr "Tipus d\'ocupació"
+
+msgid "Working hours"
+msgstr "L\'horari d\'obertura"
+
+msgid "City"
+msgstr "Ciutat"
+
+msgid "Wages"
+msgstr "Salari"
+
+msgid "Currency"
+msgstr "Moneda"
+
+msgid "Experience"
+msgstr "Experiència"
+
+msgid "Full-time"
+msgstr "La plena ocupació"
+
+msgid "Part-time"
+msgstr "A temps parcial"
+
+msgid "Project employment"
+msgstr "Projecte / Temporal"
+
+msgid "Volunteer"
+msgstr "Voluntariat"
+
+msgid "Internship"
+msgstr "Pràctiques"
+
+msgid "Full day"
+msgstr "Temps complet"
+
+msgid "Shifts"
+msgstr "Programa de reemplaçament"
+
+msgid "Flexible shifts"
+msgstr "Horari flexible"
+
+msgid "Remote work"
+msgstr "Treball a distància"
+
+msgid "Rotational basis"
+msgstr "Mètode Shift"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Segur que vols eliminar el comentari?"
+
+msgid "Do you really want to delete this task?"
+msgstr "¿Segur que vols eliminar aquesta tasca?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Segur que vols eliminar aquest sub-projecte?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Ha aplicat a l\'empresa en la posició. Si us plau, assegureu-vos que el"
+
+msgid "Your request to for job has been rejected"
+msgstr "La seva sol·licitud a l\'empresa a la posició ha estat rebutjada"
+
+msgid "Your request to for job has been accepted"
+msgstr "Es va aprovar la seva sol·licitud a l\'empresa a la posició"
+
+msgid "profile is completed"
+msgstr "El seu perfil és ple"
+
+msgid "Use account"
+msgstr "Utilitzeu el compte"
+
+msgid "$/hr"
+msgstr "$ / Hora"
+
+msgid "Finance category"
+msgstr "Categoria Financera"
+
+msgid "No projects"
+msgstr "No hi ha projectes"
+
+msgid "Bind to finances"
+msgstr "Assignar projecte financer"
+
+msgid "Preview"
+msgstr "Veure"
+
+msgid "Download"
+msgstr "Descarregar"
+
+msgid "Save to my cloud"
+msgstr "Copieu el repositori"
+
+msgid "File successfully saved to your cloud"
+msgstr "Arxiu emmagatzemat amb èxit en el seu repositori"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Deseu el fitxer al repositori?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Tria una categoria article"
+
+msgid "Type something"
+msgstr "Escrigui alguna cosa"
+
+msgid "Founded users"
+msgstr "Usuaris trobats"
+
+msgid "Founded articles"
+msgstr "Article trobat"
+
+msgid "Founded groups"
+msgstr "Grup fundat"
+
+msgid "What are your skills?"
+msgstr "Quines són les seves habilitats?"
+
+msgid "Select at least 2 interests"
+msgstr "Seleccioneu almenys 2 interès"
+
+msgid "Need more interests"
+msgstr "No hi ha prou interès seleccionat"
+
+msgid "What are you interesting in?"
+msgstr "Què li interessa?"
+
+msgid "You have no dialogs"
+msgstr "Vostè no té diàlegs"
+
+msgid "Usage Stats"
+msgstr "Estat de"
+
+msgid "Founded files"
+msgstr "Arxius trobats"
+
+msgid "Big tiles"
+msgstr "Rajoles grans"
+
+msgid "Small tiles"
+msgstr "Rajoles Petits"
+
+msgid "Table view"
+msgstr "Vista de taula"
+
+msgid "Root folder"
+msgstr "El directori arrel"
+
+msgid "My files"
+msgstr "Els meus arxius"
+
+msgid "Save as draft"
+msgstr "Desa com a esborrany"
+
+msgid "Buy More Space"
+msgstr "Comprar més espai"
+
+msgid "Buy"
+msgstr "Compra"
+
+msgid "You have been invited to group as"
+msgstr "Vostè ha estat convidat al grup com un"
+
+msgid "User wants to join your group"
+msgstr "L\'usuari vol unir-se al seu grup"
+
+msgid "Section is coming soon!"
+msgstr "Secció en construcció!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Vistes en les últimes 24 hores:"
+
+msgid "Task was updated"
+msgstr "La tasca s\'ha actualitzat"
+
+msgid "Task was closed"
+msgstr "El repte ha estat tancat"
+
+msgid "Task was created"
+msgstr "Es va fixar la tasca"
+
+msgid "Current balance"
+msgstr "Saldo actual"
+
+msgid "Add funds"
+msgstr "Afegir"
+
+msgid "Pay"
+msgstr "Comanda"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Has superat el nombre d\'intents de connexió. Vostè està bloquejat durant 15 minuts"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Si us plau confirmeu la vostra adreça de correu electrònic. La carta enviada a vostè per correu."
+
+msgid "Resend confirmation email"
+msgstr "Envia confirmació de nou"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB per mes"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Drive 10 GB per any"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Cada any en disc 100 GB"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disc d\'1 TB mensuals"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Drive 1 TB cada any"
+
+msgid "Project members monthly"
+msgstr "Els participants del projecte sobre una base mensual"
+
+msgid "Project members yearly"
+msgstr "Els participants del projecte a l\'any"
+
+msgid "Member(s) yearly"
+msgstr "Membre (s) per any"
+
+msgid "Member(s) monthly"
+msgstr "Membre (s) de forma mensual"
+
+msgid "Authorized"
+msgstr "Autoritzat"
+
+msgid "Authorization expired"
+msgstr "Autorització caducat"
+
+msgid "Processor declined"
+msgstr "Sistema de processament Rebutjat"
+
+msgid "Gateway rejected"
+msgstr "Passarel·la de pagament Rebutjat"
+
+msgid "Failed"
+msgstr "Error"
+
+msgid "Voided"
+msgstr "Que s\'anul·li"
+
+msgid "Submitted for settlement"
+msgstr "Enviat a inscriure"
+
+msgid "Settlement declined"
+msgstr "La inscripció ha estat rebutjada"
+
+msgid "Settlement pending"
+msgstr "A l\'espera de la inscripció"
+
+msgid "Verified"
+msgstr "Comprovat"
+
+msgid "Pending"
+msgstr "A l\'espera de"
+
+msgid "Active"
+msgstr "Viu"
+
+msgid "Past Due"
+msgstr "Expirat"
+
+msgid "Expired"
+msgstr "Finalitzat"
+
+msgid "Marketer"
+msgstr "Market"
+
+msgid "India"
+msgstr "Índia"
+
+msgid "Malaysia"
+msgstr "Malàisia"
+
+msgid "Thailand"
+msgstr "Tailàndia"
+
+msgid "South Korea"
+msgstr "Corea del Sud"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Ukraine"
+msgstr "Ucraïna"
+
+msgid "Belarus"
+msgstr "Bielorússia"
+
+msgid "Bulgaria"
+msgstr "Bulgària"
+
+msgid "Turkey"
+msgstr "Turquia"
+
+msgid "Armenia"
+msgstr "Armènia"
+
+msgid "Serbia"
+msgstr "Sèrbia"
+
+msgid "Austria"
+msgstr "Àustria"
+
+msgid "Poland"
+msgstr "Polònia"
+
+msgid "Germany"
+msgstr "Alemanya"
+
+msgid "Italy"
+msgstr "Itàlia"
+
+msgid "Netherlands"
+msgstr "Països Baixos"
+
+msgid "Ireland"
+msgstr "Irlanda"
+
+msgid "United Kingdom"
+msgstr "Gran Bretanya"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Norway"
+msgstr "Noruega"
+
+msgid "United States"
+msgstr "Estats Units"
+
+msgid "Canada"
+msgstr "Canadà"
+
+msgid "Brazil"
+msgstr "Brasil"
+
+msgid "Saudi Arabia"
+msgstr "Aràbia Saudita"
+
+msgid "Canada"
+msgstr "Egipte"
+
+msgid "Russia"
+msgstr "Rússia"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "De moment, no hi havia ni una sola transacció"
+
+msgid "Fulfill your dream"
+msgstr "Complir el seu somni"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Uneix-te a la nostra comunitat de persones creatives de tot el món."
+
+msgid "Create and Collaborate"
+msgstr "Crear i Col·laborar"
+
+msgid "Start Dreaming"
+msgstr "COMPLIR EL SOMNI AMB EMPRESA"
+
+msgid "or"
+msgstr "o"
+
+msgid "Our mission:"
+msgstr "La nostra missió:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Per unir les persones creatives i actives per posar en pràctica les idees del simple i en demanda increïble i fantàstic, que pot donar forma al nostre futur."
+
+msgid "What is Konstruktor?"
+msgstr "Quin és Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - és una part de la nostra vida real, el que facilita i simplifica significativament"
+
+msgid "*business processes"
+msgstr "* Processos de negoci"
+
+msgid "*materialization of creative ideas"
+msgstr "* Materialització d\'idees creatives"
+
+msgid "*constructive cooperation"
+msgstr "* Cooperació constructiva"
+
+msgid "Make your dream!"
+msgstr "Feu el seu somni!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Assessor Especial"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Gerent de Desenvolupament de Programari"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Advocat sènior"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Dissenyador"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "En fer clic al botó \"Següent\", vostè està acceptant i estant d\'acord amb els nostres termes i condicions, i vostè reconeix que ha llegit la nostra política de privacitat."
+
+msgid "Incorrect login or password."
+msgstr "Usuari o contrasenya incorrecta."
+
+msgid "Password must be at least 6 characters"
+msgstr "La contrasenya ha de tenir com a mínim 6 caràcters"
+
+msgid "January"
+msgstr "Gener"
+
+msgid "February"
+msgstr "Febrer"
+
+msgid "March"
+msgstr "Març"
+
+msgid "April"
+msgstr "Abril"
+
+msgid "May"
+msgstr "Maig"
+
+msgid "June"
+msgstr "Juny"
+
+msgid "July"
+msgstr "Juliol"
+
+msgid "August"
+msgstr "Augusto"
+
+msgid "September"
+msgstr "Setembre"
+
+msgid "October"
+msgstr "Octubre"
+
+msgid "November"
+msgstr "De novembre"
+
+msgid "December"
+msgstr "Desembre"
+
+msgid "Chat"
+msgstr "Xerrar"
+
+msgid "Files"
+msgstr "Arxius"
+
+msgid "Statistic"
+msgstr "Estadístiques"
+
+msgid "Support"
+msgstr "Suport"
+
+msgid "Exit"
+msgstr "Sortida"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Bielorússia"
+
+msgid "Marketing specialist"
+msgstr "Especialista en màrqueting"
+
+msgid "Administrator"
+msgstr "Administrador"
+
+msgid "Shared with me"
+msgstr "Compartit amb mi"
+
+msgid "File Sharing"
+msgstr "Intercanvi d\'arxius"
+
+msgid "Provide access by link"
+msgstr "Proporcionar accés d\'enllaç"
+
+msgid "Provide Individual access"
+msgstr "Proporcionar accés individual"
+
+msgid "Provide edit access"
+msgstr "Proporcionar accés d\'edició"
+
+msgid "Share"
+msgstr "Comparteix"
+
+msgid "Files will be available only for selected users"
+msgstr "Els arxius estaran disponibles només per als usuaris seleccionats"
+
+msgid "With this link everyone can access to the files"
+msgstr "Amb aquest vincula tothom pot accedir als arxius"
+
+msgid "Search users, groups, articles..."
+msgstr "Cercar usuaris, grups, articles ..."
+
+msgid "My Group"
+msgstr "El meu Grup"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "El teu"
+
+msgid "We"
+msgstr "Nosaltres"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "La seva"
+
+msgid "The file is not selected"
+msgstr "L\'arxiu no es selecciona"
+
+msgid "Set aside"
+msgstr "Deixar de banda"
+
+msgid "Event time"
+msgstr "Descripció de l\'esdeveniment"
+
+msgid "Work"
+msgstr "Treball"
+
+msgid "Personal"
+msgstr "Individual"
+
+msgid "Time spent for work:"
+msgstr "El temps emprat per al treball:"
+
+msgid "Personal time spent:"
+msgstr "Temps personal consumit:"
+
+msgid "Present"
+msgstr "Present"
+
+msgid "Common"
+msgstr "Comú"
+
+msgid "Sport"
+msgstr "Esport"
+
+msgid "Entertainment"
+msgstr "Entreteniment"
+
+msgid "Select:"
+msgstr "Seleccionar:"
+
+msgid "Invalid username or password."
+msgstr "Nom d\'usuari o contrasenya incorrectes."
+
+msgid "Try again."
+msgstr "Intenta-ho de nou."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "EN QUÈ ESTAS INTERESSAT?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Seleccioneu almenys 2 habilitats: roman 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Seleccioneu almenys 2 habilitats: queda 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Seleccioneu almenys 2 habilitats: restes"
+
+msgid "Active life"
+msgstr "La vida activa"
+
+msgid "Arts and culture"
+msgstr "Art i cultura"
+
+msgid "Business"
+msgstr "Negocis"
+
+msgid "Cinema"
+msgstr "Cinema"
+
+msgid "Communications"
+msgstr "Comunicacions"
+
+msgid "Construction and repair"
+msgstr "Construcció i reparació"
+
+msgid "Cooking"
+msgstr "Cuinar"
+
+msgid "Education"
+msgstr "Educació"
+
+msgid "Electronics"
+msgstr "Electrònica"
+
+msgid "Finances"
+msgstr "Finances"
+
+msgid "Graphics and design"
+msgstr "Gràfics i disseny"
+
+msgid "Health"
+msgstr "Salut"
+
+msgid "Home and family"
+msgstr "Llar i família"
+
+msgid "Humor"
+msgstr "Sentit de l\'humor"
+
+msgid "IT"
+msgstr "Informàtica"
+
+msgid "Industry"
+msgstr "Indústria"
+
+msgid "Insurance"
+msgstr "Assegurances"
+
+msgid "Literature"
+msgstr "Bibliografia"
+
+msgid "Mobile communications and internet"
+msgstr "Les comunicacions mòbils i Internet"
+
+msgid "News and Media"
+msgstr "Notícies i mitjans"
+
+msgid "Pets"
+msgstr "Mascotes"
+
+msgid "Products and service"
+msgstr "Productes i serveis"
+
+msgid "Real Estate"
+msgstr "Estat real"
+
+msgid "Religion"
+msgstr "Religió"
+
+msgid "Science and techs"
+msgstr "Ciència i tècnics"
+
+msgid "Security"
+msgstr "Seguretat"
+
+msgid "Society"
+msgstr "Societat"
+
+msgid "Television"
+msgstr "Televisió"
+
+msgid "Travel"
+msgstr "Viatges"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Austràlia"
+
+msgid "Austria"
+msgstr "Àustria"
+
+msgid "Belarus"
+msgstr "Bielorússia"
+
+msgid "Belgium"
+msgstr "Bèlgica"
+
+msgid "Brazil"
+msgstr "Brasil"
+
+msgid "Bulgaria"
+msgstr "Bulgària"
+
+msgid "Canada"
+msgstr "Canadà"
+
+msgid "Chile"
+msgstr "Xile"
+
+msgid "Denmark"
+msgstr "Dinamarca"
+
+msgid "France"
+msgstr "França"
+
+msgid "Germany"
+msgstr "Alemanya"
+
+msgid "Greece"
+msgstr "Grècia"
+
+msgid "Hungary"
+msgstr "Hongria"
+
+msgid "Iceland"
+msgstr "Islàndia"
+
+msgid "Ireland"
+msgstr "Irlanda"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Itàlia"
+
+msgid "Japan"
+msgstr "Japó"
+
+msgid "Mexico"
+msgstr "Mèxic"
+
+msgid "Netherlands"
+msgstr "Països Baixos"
+
+msgid "New Zealand"
+msgstr "Nova Zelanda"
+
+msgid "Norway"
+msgstr "Noruega"
+
+msgid "Poland"
+msgstr "Polònia"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Russia"
+msgstr "Rússia"
+
+msgid "Slovakia"
+msgstr "Eslovàquia"
+
+msgid "South Africa"
+msgstr "sud-Africa"
+
+msgid "South Korea"
+msgstr "Corea del Sud"
+
+msgid "Spain"
+msgstr "Espanya"
+
+msgid "Sweden"
+msgstr "Suècia"
+
+msgid "Switzerland"
+msgstr "Suïssa"
+
+msgid "Turkey"
+msgstr "Turquia"
+
+msgid "Ukraine"
+msgstr "Ucraïna"
+
+msgid "United Arab Emirates"
+msgstr "Emirats Àrabs Units"
+
+msgid "United Kingdom"
+msgstr "Regne Unit"
+
+msgid "United States"
+msgstr "Estats Units"
+
+msgid "achievements"
+msgstr "èxits"
+
+msgid "Investment management"
+msgstr "Gestió de les inversions"
+
+msgid "Select..."
+msgstr "Seleccionar ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "INVESTMENT MANAGEMENT"
+
+msgid "Investors list"
+msgstr "Llista d\'inversors"
+
+msgid "My investments"
+msgstr "Els meus inversions"
+
+msgid "Create date"
+msgstr "Crear data"
+
+msgid "Author of the project"
+msgstr "Autor del projecte"
+
+msgid "Date and time"
+msgstr "Data i hora"
+
+msgid "Status"
+msgstr "Estat"
+
+msgid "NEXT"
+msgstr "SEGÜENT"
+
+msgid "Next"
+msgstr "Pròxim"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Almaty"
+msgstr "Almati"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Ciència"
+
+msgid "Architecture"
+msgstr "Arquitectura"
+
+msgid "Photography"
+msgstr "Fotografia"
+
+msgid "Designer"
+msgstr "Dissenyador"
+
+msgid "IT specialist"
+msgstr "Especialista en TI"
+
+msgid "Agronomist"
+msgstr "Agrònom"
+
+msgid "Architect"
+msgstr "Arquitecte"
+
+msgid "Lawyer"
+msgstr "Advocat"
+
+msgid "Writer"
+msgstr "Autor"
+
+msgid "Doctor"
+msgstr "Metge"
+
+msgid "Scientist"
+msgstr "Científic"
+
+msgid "Marketer"
+msgstr "Market"
+
+msgid "Teacher"
+msgstr "Mestre"
+
+msgid "Cook"
+msgstr "Cuinar"
+
+msgid "Artist"
+msgstr "Artista"
+
+msgid "Photographer"
+msgstr "Fotògraf"
+
+msgid "Ecologist"
+msgstr "Ecologista"
+
+msgid "Economist"
+msgstr "Economista"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Periodista"
+
+msgid "Builder"
+msgstr "Constructor"
+
+msgid "These users may be interesting for you"
+msgstr "Aquests usuaris poden ser interessants per a vostè"
+
+msgid "These articles may be interesting for you"
+msgstr "Aquests articles poden ser interessants per a vostè"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Et vas unir a aquest grup com Аdministrator"
+
+msgid "articles written."
+msgstr "articles escrits."
+
+msgid "groups created."
+msgstr "grups creats."
+
+msgid "Creation"
+msgstr "Creació"
+
+msgid "Build a dream"
+msgstr "Construir un somni"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Llegir articles més interessants - anar inscripció gratuïta"
+

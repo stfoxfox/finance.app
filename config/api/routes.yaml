@@ -1,0 +1,4 @@
+private_api_endpoint:
+  path: /api/v1
+  defaults: { _controller: App\ApiController\ApiController:index }
+  methods: [POST]

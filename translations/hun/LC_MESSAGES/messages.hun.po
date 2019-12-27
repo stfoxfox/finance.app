@@ -1,0 +1,3345 @@
+# magyar (Венгерский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: magyar (Венгерский) <support@konstruktor.com>\n"
+"Language: magyar (Венгерский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "felhasználónév"
+
+msgid "Invalid username or password, try again"
+msgstr "Rossz felhasználónév vagy jelszó. Próbáld újra."
+
+msgid "Settings"
+msgstr "beállítások"
+
+msgid "Home"
+msgstr "otthon"
+
+msgid "You must log in to access this page"
+msgstr "Be kell jelentkeznie a lap eléréséhez"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "A munkamenet már lejárt . Kérjük , jelentkezzen be újra az ehhez a művelethez"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Head Office"
+msgstr "központ"
+
+msgid "Address"
+msgstr "cím"
+
+msgid "Back"
+msgstr "vissza"
+
+msgid "Apply"
+msgstr "alkalmaz"
+
+msgid "Upload files…"
+msgstr "Fájlok feltöltése ..."
+
+msgid "Set as main"
+msgstr "Beállítás fő"
+
+msgid "Delete"
+msgstr "töröl"
+
+msgid "Original image"
+msgstr "Az eredeti képet"
+
+msgid "Uploaded"
+msgstr "feltöltött"
+
+msgid "File name"
+msgstr "fájl név"
+
+msgid "File size"
+msgstr "fájl méret"
+
+msgid "Resolution"
+msgstr "felbontás"
+
+msgid "Enlarge"
+msgstr "nagyít"
+
+msgid "Links"
+msgstr "linkek"
+
+msgid "Original size"
+msgstr "eredeti méret"
+
+msgid "For editor"
+msgstr "a szerkesztő"
+
+msgid "Resize"
+msgstr "Átméretezés"
+
+msgid "Width"
+msgstr "szélesség"
+
+msgid "Height"
+msgstr "magasság"
+
+msgid "Media URL"
+msgstr "Media URL"
+
+msgid "Add record"
+msgstr "Add rekord"
+
+msgid "Show filter settings"
+msgstr "Mutasd szűrőbeállításokat"
+
+msgid "Edit record"
+msgstr "A rekord szerkesztése"
+
+msgid "Delete record"
+msgstr "rekord törlése"
+
+msgid "Delete checked records"
+msgstr "Törlés ellenőrzött nyilvántartások"
+
+msgid "Dashboard"
+msgstr "műszerfal"
+
+msgid "Password"
+msgstr "jelszó"
+
+msgid "Remember me"
+msgstr "Emlékezz rám"
+
+msgid "Login"
+msgstr "bejelentkezés"
+
+msgid "Clean image cache"
+msgstr "Clean image cache"
+
+msgid "Processing query..."
+msgstr "Feldolgozó query ..."
+
+msgid "CMS Development"
+msgstr "CMS Fejlesztési"
+
+msgid "Admin Home Page"
+msgstr "Admin Honlap"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Nyílt honlapja Front -end új lapon"
+
+msgid "Go to Site"
+msgstr "Ugrás a webhely"
+
+msgid "Log out"
+msgstr "kijelentkezés"
+
+msgid "Send"
+msgstr "küld"
+
+msgid "General"
+msgstr "általános"
+
+msgid "Title"
+msgstr "cím"
+
+msgid "Teaser"
+msgstr "teaser"
+
+msgid "Published"
+msgstr "közzétett"
+
+msgid "Featured"
+msgstr "Kiemelt"
+
+msgid "Active"
+msgstr "aktív"
+
+msgid "Field is mandatory"
+msgstr "Mező kitöltése kötelező"
+
+msgid "Sort Order"
+msgstr "Sort Order"
+
+msgid "Upload"
+msgstr "Feltöltés"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "január"
+
+msgid "Feb"
+msgstr "február"
+
+msgid "Mar"
+msgstr "március"
+
+msgid "Apr"
+msgstr "április"
+
+msgid "May"
+msgstr "május"
+
+msgid "Jun"
+msgstr "június"
+
+msgid "Jul"
+msgstr "július"
+
+msgid "Aug"
+msgstr "augusztus"
+
+msgid "Sep"
+msgstr "szeptember"
+
+msgid "Oct"
+msgstr "október"
+
+msgid "Nov"
+msgstr "november"
+
+msgid "Dec"
+msgstr "december"
+
+msgid "Product already exists in the order"
+msgstr "Termék már létezik a sorrendben"
+
+msgid "Product does not exist"
+msgstr "A termék nem létezik"
+
+msgid "Incorrect request"
+msgstr "Hibás kérés"
+
+msgid "Products"
+msgstr "termékek"
+
+msgid "Product types"
+msgstr "termék típusok"
+
+msgid "Contractors"
+msgstr "vállalkozók"
+
+msgid "Contractor"
+msgstr "vállalkozó"
+
+msgid "Orders"
+msgstr "rendelés"
+
+msgid "FAQ"
+msgstr "GYIK"
+
+msgid "New order"
+msgstr "új rend"
+
+msgid "My orders"
+msgstr "Saját rendelések"
+
+msgid "Recharge balance"
+msgstr "Töltse fel egyensúly"
+
+msgid "Administrator"
+msgstr "adminisztrátor"
+
+msgid "Incorrect event ID"
+msgstr "Hibás esemény ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Szerkesztés vállalkozó"
+
+msgid "Create contractor"
+msgstr "Hozzon létre vállalkozó"
+
+msgid "Edit question"
+msgstr "kérdés szerkesztése"
+
+msgid "Create question"
+msgstr "Készítse kérdés"
+
+msgid "Edit order"
+msgstr "Szerkesztés érdekében"
+
+msgid "Create order"
+msgstr "Hozzon létre annak érdekében,"
+
+msgid "Edit product"
+msgstr "Szerkesztés termék"
+
+msgid "Create product"
+msgstr "Készítse termék"
+
+msgid "Edit product type"
+msgstr "Szerkesztés terméktípus"
+
+msgid "Create product type"
+msgstr "Hozzon létre terméktípus"
+
+msgid "You have received a file"
+msgstr "Kaptál egy fájlt"
+
+msgid "You received a file from"
+msgstr "Ön kapott egy fájlt"
+
+msgid "File has been uploaded"
+msgstr "Fájl feltöltésre került"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "minimális mennyiség"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "tételek"
+
+msgid "Remove"
+msgstr "eltávolít"
+
+msgid "Contact person"
+msgstr "kapcsolattartó"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Contractor phone"
+msgstr "vállalkozó telefon"
+
+msgid "Contractor name"
+msgstr "vállalkozó neve"
+
+msgid "Contractor details"
+msgstr "vállalkozó részletek"
+
+msgid "Order ID"
+msgstr "Rendelési ID"
+
+msgid "Sum"
+msgstr "összeg"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Válassza ki a megfelelő fizetési rendszer , hogy töltse fel az egyensúlyt"
+
+msgid "Recharge amount"
+msgstr "Töltse fel összege"
+
+msgid "Paid"
+msgstr "fizetett"
+
+msgid "Shipped"
+msgstr "Hármas"
+
+msgid "- No products in this order -"
+msgstr "- Nincs termék ebben a sorrendben -"
+
+msgid "month"
+msgstr "hónap"
+
+msgid "No user found"
+msgstr "Nem található felhasználó"
+
+msgid "Achievement"
+msgstr "teljesítmény"
+
+msgid "Confirmed accomplishments"
+msgstr "megerősítette teljesítmények"
+
+msgid "Remove achievement"
+msgstr "Távolítsuk el a kitüntetést"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "telefon"
+
+msgid "Site URL and email"
+msgstr "Honlap URL és e-mail"
+
+msgid "Remove address"
+msgstr "Távolítsuk el a címet"
+
+msgid "Members"
+msgstr "tagok"
+
+msgid "Requires a payment"
+msgstr "Szükség van egy fizetési"
+
+msgid "Shipping"
+msgstr "szállítás"
+
+msgid "Ready"
+msgstr "kész"
+
+msgid "Find user..."
+msgstr "Keresse meg a felhasználó ..."
+
+msgid "Order it"
+msgstr "Rendelje meg"
+
+msgid "Find group..."
+msgstr "Keresse csoport ..."
+
+msgid "Find user or community..."
+msgstr "Keresse meg a felhasználó vagy a közösség ..."
+
+msgid "No item found"
+msgstr "Nincs találat"
+
+msgid "years"
+msgstr "év"
+
+msgid "Send message"
+msgstr "üzenet küldése"
+
+msgid "Message"
+msgstr "üzenet"
+
+msgid "To send message press Enter"
+msgstr "Üzenet elküldése nyomja meg az Entert"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Üzenet elküldése nyomjuk meg a CTRL + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Processing fájl (ok ) ..."
+
+msgid "Group settings"
+msgstr "Csoport beállítások"
+
+msgid "Create group"
+msgstr "Új csoport"
+
+msgid "Group has been successfully saved"
+msgstr "Csoport sikeresen mentette"
+
+msgid "Group title"
+msgstr "Csoport neve"
+
+msgid "Group video"
+msgstr "Csoport video"
+
+msgid "Description"
+msgstr "leírás"
+
+msgid "Your role in group"
+msgstr "Ön szerepe csoport"
+
+msgid "Role"
+msgstr "szerep"
+
+msgid "Photo or video gallery"
+msgstr "Fotó vagy videó galéria"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "videó feltöltése"
+
+msgid "Add group address"
+msgstr "Add csoport címét"
+
+msgid "Group articles"
+msgstr "Csoport cikkek"
+
+msgid "No addresses yet"
+msgstr "Nem címek még"
+
+msgid "Add group achievement"
+msgstr "Add csoport kitüntetést"
+
+msgid "No achivements yet"
+msgstr "Nem achivements még"
+
+msgid "Are you sure to delete this user"
+msgstr "Biztos benne, hogy törli a felhasználótól"
+
+msgid "Add member"
+msgstr "Új tag"
+
+msgid "Are you sure to delete this record?"
+msgstr "Biztos benne, hogy törli ezt a rekordot ?"
+
+msgid "Join this group"
+msgstr "Csatlakozás a csoporthoz"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Az Ön meghívót küldtek a csoport adminisztrátora"
+
+msgid "All addresses"
+msgstr "minden cím"
+
+msgid "Collapse"
+msgstr "összeomlás"
+
+msgid "Achievements"
+msgstr "Eredmények"
+
+msgid "Show more"
+msgstr "több megjelenítése"
+
+msgid "Team"
+msgstr "csapat"
+
+msgid "Projects"
+msgstr "projektek"
+
+msgid "New project"
+msgstr "új projekt"
+
+msgid "Project has not been created yet"
+msgstr "Projekt nem jött létre"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "egyensúly"
+
+msgid "Main page"
+msgstr "Főoldal"
+
+msgid "Upload image"
+msgstr "Feltöltés image"
+
+msgid "My time"
+msgstr "az időm"
+
+msgid "Day"
+msgstr "nap"
+
+msgid "Week"
+msgstr "hét"
+
+msgid "Project settings"
+msgstr "projekt beállítások"
+
+msgid "Create project"
+msgstr "projekt létrehozása"
+
+msgid "Project has been successfully saved"
+msgstr "A projekt sikeresen mentette"
+
+msgid "Project name"
+msgstr "projekt neve"
+
+msgid "Deadline"
+msgstr "határidő"
+
+msgid "Close"
+msgstr "közel"
+
+msgid "Manager"
+msgstr "menedzser"
+
+msgid "Assigned to"
+msgstr "rendelt"
+
+msgid "Discussion"
+msgstr "megbeszélés"
+
+msgid "Task was created"
+msgstr "Feladatot,"
+
+msgid "Task was closed"
+msgstr "Feladat volt zárva"
+
+msgid "Go to Group"
+msgstr "Tovább a Csoport"
+
+msgid "Closed"
+msgstr "zárva"
+
+msgid "Last updates"
+msgstr "utolsó frissítések"
+
+msgid "Project is closed"
+msgstr "Project zárva"
+
+msgid "No open tasks"
+msgstr "Nem nyitott feladatok"
+
+msgid "New task"
+msgstr "új feladat"
+
+msgid "Closed tasks"
+msgstr "zárt feladatok"
+
+msgid "Add subproject"
+msgstr "Add alprojekt"
+
+msgid "Add task"
+msgstr "feladat hozzáadása"
+
+msgid "Sun"
+msgstr "vasárnap"
+
+msgid "Mon"
+msgstr "hétfő"
+
+msgid "Tue"
+msgstr "kedd"
+
+msgid "Wed"
+msgstr "szerda"
+
+msgid "Thur"
+msgstr "csütörtök"
+
+msgid "Fri"
+msgstr "péntek"
+
+msgid "Sat"
+msgstr "szombat"
+
+msgid "Event title"
+msgstr "esemény címe"
+
+msgid "Event description"
+msgstr "esemény leírása"
+
+msgid "I registered on this site"
+msgstr "Regisztráltam magam ezen az oldalon"
+
+msgid "Last created groups"
+msgstr "Utolsó létrehozott csoportokat"
+
+msgid "You joined this group as"
+msgstr "Akkor csatlakozott ehhez a csoporthoz"
+
+msgid "You received a request to join the group"
+msgstr "Ön a felkérést kapta, hogy csatlakozzon a csoporthoz"
+
+msgid "Updated site"
+msgstr "Frissítve helyszínen"
+
+msgid "Site is under construction"
+msgstr "Oldal fejlesztés alatt áll"
+
+msgid "Last registered users"
+msgstr "Utolsó regisztrált felhasználó"
+
+msgid "User settings"
+msgstr "felhasználói beállítások"
+
+msgid "Technical support"
+msgstr "Technikai segítség"
+
+msgid "Change email"
+msgstr "E-mail megváltoztatása"
+
+msgid "Change password"
+msgstr "változtass jelszót"
+
+msgid "User has been successfully saved"
+msgstr "Felhasználói sikeresen mentette"
+
+msgid "Full name"
+msgstr "Teljes név"
+
+msgid "My video"
+msgstr "Saját videó"
+
+msgid "Skills"
+msgstr "szakértelem"
+
+msgid "Birthday"
+msgstr "születésnap"
+
+msgid "Country of residence"
+msgstr "A lakóhely szerinti ország"
+
+msgid "Country"
+msgstr "ország"
+
+msgid "Zip Code"
+msgstr "irányítószám"
+
+msgid "City/town of residence"
+msgstr "Város / falu tartózkodási"
+
+msgid "University/college"
+msgstr "Egyetemi / főiskolai"
+
+msgid "University/college photo"
+msgstr "Egyetemi / főiskolai fotó"
+
+msgid "Add user\'s accomplishments"
+msgstr "Add felhasználó teljesítmények"
+
+msgid "Interface language"
+msgstr "A kezelőfelület nyelve"
+
+msgid "How other people see this page"
+msgstr "Mások hogyan látja ezt az oldalt"
+
+msgid "Video with me"
+msgstr "Videó velem"
+
+msgid "Groups"
+msgstr "csoportok"
+
+msgid "Registered today"
+msgstr "regisztrált ma"
+
+msgid "Qty"
+msgstr "Mennyiség"
+
+msgid "No registered users yet"
+msgstr "Nem regisztrált felhasználó még"
+
+msgid "Total"
+msgstr "teljes"
+
+msgid "Registered total"
+msgstr "regisztrált összesen"
+
+msgid "You received a file"
+msgstr "Kapott fájl"
+
+msgid "You were invited into this room"
+msgstr "Ön meghívást kapott ebbe a szobába"
+
+msgid "Request is being processed"
+msgstr "Kérelem feldolgozása"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Messenger"
+msgstr "hírnök"
+
+msgid "New subproject"
+msgstr "új alprojekt"
+
+msgid "messages written."
+msgstr "üzeneteket írni ."
+
+msgid "projects created based on groups."
+msgstr "projektek alapján készített csoportok ."
+
+msgid "users registered on website."
+msgstr "regisztrált felhasználók a honlapon ."
+
+msgid "New email"
+msgstr "új e-mail"
+
+msgid "Confirm email"
+msgstr "Megerősítő E-mail"
+
+msgid "New password"
+msgstr "Új jelszó"
+
+msgid "Confirm password"
+msgstr "Jelszó megerősítése"
+
+msgid "Occupation"
+msgstr "Speciális"
+
+msgid "Timezone"
+msgstr "Időzóna"
+
+msgid "Answer"
+msgstr "válasz"
+
+msgid "Articles"
+msgstr "Cikkek"
+
+msgid "Article"
+msgstr "cikk"
+
+msgid "Video-article"
+msgstr "Videó - cikk"
+
+msgid "Find article..."
+msgstr "Keresse meg a cikket ..."
+
+msgid "Politics"
+msgstr "politika"
+
+msgid "Economics"
+msgstr "közgazdaságtan"
+
+msgid "Community"
+msgstr "Közösség"
+
+msgid "Culture"
+msgstr "kultúra"
+
+msgid "Sports"
+msgstr "sport"
+
+msgid "Hi-tech"
+msgstr "Hi - tech"
+
+msgid "Cars"
+msgstr "autók"
+
+msgid "Fashion"
+msgstr "divat"
+
+msgid "Games"
+msgstr "játékok"
+
+msgid "Other"
+msgstr "más"
+
+msgid "Invalid mediafile"
+msgstr "érvénytelen mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Nem cikkek ebben a kategóriában még"
+
+msgid "Back to profile"
+msgstr "Vissza az adatlapra"
+
+msgid "View article"
+msgstr "cikk megtekintése"
+
+msgid "Edit article"
+msgstr "cikk szerkesztése"
+
+msgid "Create article"
+msgstr "Hozzon létre cikk"
+
+msgid "Article title"
+msgstr "cikk címe"
+
+msgid "Article section"
+msgstr "cikk részén"
+
+msgid "Choose image"
+msgstr "Válasszon kép"
+
+msgid "Save and upload"
+msgstr "Mentse és töltse"
+
+msgid "Show more..."
+msgstr "Több megjelenítése ..."
+
+msgid "Create"
+msgstr "Hozzon"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "Project"
+msgstr "Project"
+
+msgid "Team"
+msgstr "csapat"
+
+msgid "A new article was published"
+msgstr "Egy új cikk megjelent"
+
+msgid "You joined this project"
+msgstr "Akkor csatlakozott a projekthez"
+
+msgid "Enter your information in the User settings"
+msgstr "Írja be az információkat a Felhasználói beállítások"
+
+msgid "Communities"
+msgstr "Közösségek"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Videó bemutatása én teljesítmények"
+
+msgid "My articles"
+msgstr "Saját cikkek"
+
+msgid "User"
+msgstr "felhasználó"
+
+msgid "Users"
+msgstr "felhasználók"
+
+msgid "Add new list"
+msgstr "Új lista"
+
+msgid "List title"
+msgstr "lista cím"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Add to favorites"
+msgstr "Add hozzá a kedvencekhez"
+
+msgid "Delete from favorites"
+msgstr "Törlés a kedvencek közül"
+
+msgid "Select list"
+msgstr "Válassza ki a listából"
+
+msgid "Subscriptions"
+msgstr "Előfizetői"
+
+msgid "Subscribe"
+msgstr "Feliratkozás"
+
+msgid "Unsubscribe"
+msgstr "Leiratkozás"
+
+msgid "General list"
+msgstr "általános lista"
+
+msgid "No users in this list"
+msgstr "Nem felhasználók ebben a listában"
+
+msgid "Publish"
+msgstr "Adja"
+
+msgid "Unpublish"
+msgstr "Elrejtve"
+
+msgid "Add user"
+msgstr "Add felhasználó"
+
+msgid "Create document"
+msgstr "dokumentum létrehozása"
+
+msgid "Edit document"
+msgstr "dokumentum szerkesztése"
+
+msgid "View"
+msgstr "Kilátás"
+
+msgid "Document title"
+msgstr "Dokumentum címe"
+
+msgid "Find document..."
+msgstr "Keresse meg a dokumentum ..."
+
+msgid "Share your thoughts"
+msgstr "Ossza meg gondolatait"
+
+msgid "Leave your comment"
+msgstr "Hagyjuk meg véleményét"
+
+msgid "Accept"
+msgstr "Fogadja"
+
+msgid "Decline"
+msgstr "hanyatlás"
+
+msgid "Add article"
+msgstr "Add a cikket"
+
+msgid "Link to verified accomplishments"
+msgstr "Link ellenőrzött teljesítmények"
+
+msgid "No articles here yet..."
+msgstr "Nem cikkeket itt még ..."
+
+msgid "Find file or folder..."
+msgstr "Keresse meg a fájlt vagy mappát ..."
+
+msgid "Sort"
+msgstr "Rendezés"
+
+msgid "By name"
+msgstr "név szerint"
+
+msgid "By date"
+msgstr "dátum szerint"
+
+msgid "By updated date"
+msgstr "Azzal frissülő dátum"
+
+msgid "By size"
+msgstr "méret szerint"
+
+msgid "By type"
+msgstr "típus szerint"
+
+msgid "Move"
+msgstr "Move"
+
+msgid "File Manager"
+msgstr "Fájl kezelő"
+
+msgid "Share link"
+msgstr "Hivatkozás megosztása"
+
+msgid "Responsible"
+msgstr "felelős"
+
+msgid "Performer"
+msgstr "Szereplő"
+
+msgid "New Folder"
+msgstr "Új mappa"
+
+msgid "Folder name"
+msgstr "mappa neve"
+
+msgid "By default"
+msgstr "Alapbeállításként"
+
+msgid "Back to group"
+msgstr "Vissza a csoporthoz"
+
+msgid "year(s)"
+msgstr "év (ek)"
+
+msgid "January"
+msgstr "január"
+
+msgid "February"
+msgstr "február"
+
+msgid "March"
+msgstr "március"
+
+msgid "April"
+msgstr "április"
+
+msgid "May"
+msgstr "május"
+
+msgid "June"
+msgstr "június"
+
+msgid "July"
+msgstr "július"
+
+msgid "August"
+msgstr "augusztus"
+
+msgid "September"
+msgstr "szeptember"
+
+msgid "October"
+msgstr "október"
+
+msgid "November"
+msgstr "november"
+
+msgid "December"
+msgstr "december"
+
+msgid "Password Reminder"
+msgstr "Jelszó Emlékeztető"
+
+msgid "Log In"
+msgstr "Bejelentkezés"
+
+msgid "Sign in"
+msgstr "Bejelentkezés"
+
+msgid "Register"
+msgstr "Regisztráció"
+
+msgid "First name"
+msgstr "Keresztnév"
+
+msgid "Last name"
+msgstr "Családnév"
+
+msgid "I agree with rules"
+msgstr "Egyetértek szabályok"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "A megerősítő e-mailt is küld a felhasználó e-mail címét."
+
+msgid "Thanks"
+msgstr "Kösz"
+
+msgid "Password must be at least 6 characters"
+msgstr "Jelszó legalább 6 karakter"
+
+msgid "Creative Environment"
+msgstr "kreatív Környezet"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Be kell, hogy legyen legalább tizenhárom éves szolgáltatás használatához"
+
+msgid "Order status"
+msgstr "Rendelés állapota"
+
+msgid "Processing order"
+msgstr "Feldolgozás érdekében"
+
+msgid "Requires a payment"
+msgstr "Szükség van egy fizetési"
+
+msgid "Shipping"
+msgstr "szállítás"
+
+msgid "Ready"
+msgstr "Kész"
+
+msgid "Thank you for your payment"
+msgstr "Köszönjük a fizetési"
+
+msgid "Your payment has been cancelled"
+msgstr "A fizetési törölték"
+
+msgid "page"
+msgstr "oldal"
+
+msgid "Rent period"
+msgstr "kiadó időszakban"
+
+msgid "Total, month"
+msgstr "Összesen, hó"
+
+msgid "Order items"
+msgstr "Rendelési tételek"
+
+msgid "No records found"
+msgstr "Nincs találat"
+
+msgid "User with this email is already exist"
+msgstr "Felhasználó e-mail címmel már létezik"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Mappa vagy fájl ilyen névvel már létezik célmappa"
+
+msgid "Minimal quantity"
+msgstr "minimális mennyiség"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "kinyomtathatja"
+
+msgid "Terms of Use"
+msgstr "Használati feltételek"
+
+msgid "Privacy Policy"
+msgstr "Adatvédelmi irányelvek"
+
+msgid "Find project..."
+msgstr "Találd meg a projekt ..."
+
+msgid "New Project"
+msgstr "Új projekt"
+
+msgid "Accounts"
+msgstr "számlák"
+
+msgid "Operations"
+msgstr "műveletek"
+
+msgid "All accounts"
+msgstr "minden számla"
+
+msgid "All categories"
+msgstr "Összes kategória"
+
+msgid "Expense"
+msgstr "költségén"
+
+msgid "Income"
+msgstr "jövedelem"
+
+msgid "Transfer"
+msgstr "transzfer"
+
+msgid "Expense"
+msgstr "költségén"
+
+msgid "income"
+msgstr "jövedelem"
+
+msgid "tax"
+msgstr "adó"
+
+msgid "percent"
+msgstr "százalék"
+
+msgid "transfer"
+msgstr "átutalás"
+
+msgid "Make operation"
+msgstr "győződjön meg működését"
+
+msgid "Select date"
+msgstr "Válassza ki a dátumot"
+
+msgid "Select account"
+msgstr "Válassza ki a fiókot"
+
+msgid "Month"
+msgstr "Hó"
+
+msgid "Quarter"
+msgstr "Negyed"
+
+msgid "Year"
+msgstr "Év"
+
+msgid "From"
+msgstr "Ból ből"
+
+msgid "To"
+msgstr "Nak nek"
+
+msgid "Expense amount"
+msgstr "ráfordítás összege"
+
+msgid "Categories"
+msgstr "Kategóriák"
+
+msgid "Comments"
+msgstr "Hozzászólások"
+
+msgid "Income amount"
+msgstr "jövedelem összege"
+
+msgid "Transfer amount"
+msgstr "Átutalás összege"
+
+msgid "From account"
+msgstr "Honnan veszi"
+
+msgid "To account"
+msgstr "Tart valaminek, tekint valaminek"
+
+msgid "New Account"
+msgstr "Új felhasználó"
+
+msgid "New Category"
+msgstr "új kategória"
+
+msgid "All"
+msgstr "Minden"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Enter category name"
+msgstr "Adja meg a kategória nevét"
+
+msgid "Select type"
+msgstr "Válasszon típust"
+
+msgid "Credit card"
+msgstr "Hitelkártya"
+
+msgid "Debit card"
+msgstr "betéti kártya"
+
+msgid "Bank account"
+msgstr "bankszámla"
+
+msgid "Cash"
+msgstr "Készpénz"
+
+msgid "Balance is empty"
+msgstr "Balance üres"
+
+msgid "Statistic is empty"
+msgstr "Statisztika üres"
+
+msgid "Regular payments"
+msgstr "rendszeres kifizetések"
+
+msgid "Are you sure ?"
+msgstr "Biztos benne ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Biztos benne, hogy bezárja ezt a projektet?"
+
+msgid "Project was deleted successfully"
+msgstr "A projekt sikeresen törlésre került"
+
+msgid "Select currency"
+msgstr "Válasszon pénznemet"
+
+msgid "Account"
+msgstr "Fiók"
+
+msgid "Orders list"
+msgstr "megbízások listáját"
+
+msgid "Order payments"
+msgstr "Megrendelni kifizetések"
+
+msgid "View order"
+msgstr "Megtekintési sorrend"
+
+msgid "No response from Printer API"
+msgstr "Nincs válasz a nyomtató API"
+
+msgid "Bad response from Printer API"
+msgstr "Rossz válasz Nyomtató API"
+
+msgid "User ID"
+msgstr "Felhasználói azonosító"
+
+msgid "Contact Person"
+msgstr "Kapcsolattartó"
+
+msgid "No orders to process"
+msgstr "Nem megrendelések feldolgozása"
+
+msgid "Article announce image"
+msgstr "Cikk bejelenti kép"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Érvénytelen videó URL . Hagyja üresen , vagy helyezze érvényes YouTube URL-"
+
+msgid "Please, enter Contractor data"
+msgstr "Kérjük , adja Vállalkozó adatok"
+
+msgid "Distribute devices"
+msgstr "Osszuk eszközök"
+
+msgid "Quantity"
+msgstr "Mennyiség"
+
+msgid "Devices left"
+msgstr "eszközök maradt"
+
+msgid "Distributed devices"
+msgstr "elosztott eszközök"
+
+msgid "You must enter quantity"
+msgstr "Meg kell adnia mennyiség"
+
+msgid "All devices are distributed"
+msgstr "Minden eszköz elosztott"
+
+msgid "IP address"
+msgstr "IP-cím"
+
+msgid "Only for printer"
+msgstr "Csak nyomtató"
+
+msgid "Counter"
+msgstr "pult"
+
+msgid "You was excluded from this room"
+msgstr "Ön kizárták a szobában"
+
+msgid "Compare"
+msgstr "Hasonlítsa"
+
+msgid "Scheduled transaction"
+msgstr "ütemezett tranzakció"
+
+msgid "Select transfer account"
+msgstr "Válasszuk átvezetési számla"
+
+msgid "Select income account"
+msgstr "Válassza a jövedelem számla"
+
+msgid "Reports"
+msgstr "jelentések"
+
+msgid "Goals"
+msgstr "gólok"
+
+msgid "Budgets"
+msgstr "Költségvetési"
+
+msgid "Enter user name or email..."
+msgstr "Írja be felhasználói nevét vagy e-mail ..."
+
+msgid "Invite had been sended"
+msgstr "Hívja már lett elküldve"
+
+msgid "Statistics"
+msgstr "Statisztika"
+
+msgid "Updated site began to work"
+msgstr "Frissítve helyén kezdett dolgozni"
+
+msgid "City of residence"
+msgstr "Város tartózkodási"
+
+msgid "Edit favourites list"
+msgstr "Szerkesztés kedvencek"
+
+msgid "Add favourites list"
+msgstr "Add kedvencek"
+
+msgid "Categories is required"
+msgstr "Kategóriák van szükség"
+
+msgid "Type new category name and hit Enter"
+msgstr "Írja új kategória nevét , és nyomd meg az Entert"
+
+msgid "You created an order"
+msgstr "Te alkottad rendelés"
+
+msgid "You received a device due to this order"
+msgstr "Kapott eszköz miatt ebben a sorrendben"
+
+msgid "%s attached %s to task %s"
+msgstr "%s csatolva %s %s feladat"
+
+msgid "member(s)"
+msgstr "tag (ok)"
+
+msgid "%s commented task %s"
+msgstr "%s megjegyezte %s feladat"
+
+msgid "%s closed task %s"
+msgstr "%s zárt %s feladat"
+
+msgid "%s created task %s"
+msgstr "%s létrehozott %s feladat"
+
+msgid "%s created this project"
+msgstr "%s létrehozta ezt a projektet"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s teremtett alprojekt \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s zárt projekt \"%s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s zárt alprojekt \"%s\""
+
+msgid "This field must not be blank"
+msgstr "Ez a mező nem lehet üres"
+
+msgid "Document with such name is already exist"
+msgstr "Dokumentum ilyen név létezik"
+
+msgid "Wait until image upload"
+msgstr "Várja meg, amíg képfeltöltés"
+
+msgid "Video"
+msgstr "videó"
+
+msgid "Message can not be empty"
+msgstr "Üzenet nem lehet üres"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "Created"
+msgstr "létrehozta"
+
+msgid "Compare is empty"
+msgstr "Hasonlítsa üres"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Biztosan törölni szeretné működése"
+
+msgid "Do you really want to delete transaction"
+msgstr "Tényleg azt akarja törölni tranzakciós"
+
+msgid "Project with same name already exists"
+msgstr "Projekt már létezik"
+
+msgid "Account is not found"
+msgstr "Számla nem található"
+
+msgid "Currency is required"
+msgstr "Árfolyam van szükség"
+
+msgid "error while deleting document"
+msgstr "Hiba törlés közben dokumentum"
+
+msgid "Expences"
+msgstr "Költségek"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Te meghívott felhasználó \"%s\" ebben a szobában"
+
+msgid "User \"%s\" joined this room"
+msgstr "Felhasználó \"%s\" csatlakozott a szobában"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Ön kizárt felhasználó \" %s\" ebből a szobából"
+
+msgid "User \"%s\" left this room"
+msgstr "Felhasználó \"%s\" elhagyta a szobában"
+
+msgid "Add account"
+msgstr "Fiók hozzáadása"
+
+msgid "The requested page is not found"
+msgstr "A kért oldal nem található"
+
+msgid "Document"
+msgstr "Dokumentum"
+
+msgid "Table"
+msgstr "táblázat"
+
+msgid "file(s)"
+msgstr "fájl (ok )"
+
+msgid "Residue"
+msgstr "maradékot"
+
+msgid "Result is empty"
+msgstr "Eredmény üres"
+
+msgid "The total amount is %s for %s mo"
+msgstr "A teljes összeg %s :%s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Meg kell befizetni %s havi kapcsolódó számla"
+
+msgid "Start"
+msgstr "rajt"
+
+msgid "finish"
+msgstr "befejezés"
+
+msgid "Selected account is already in use for another goal"
+msgstr "A kiválasztott fiók már használatban van egy másik cél"
+
+msgid "Amount required"
+msgstr "szükséges összeg"
+
+msgid "New goal"
+msgstr "új cél"
+
+msgid "Goal"
+msgstr "cél"
+
+msgid "Goal name"
+msgstr "cél neve"
+
+msgid "Invalid date"
+msgstr "érvénytelen dátum"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Szükséges összeget kell egy pozitív szám"
+
+msgid "Remain"
+msgstr "maradnak"
+
+msgid "Last day"
+msgstr "Utolsó nap"
+
+msgid "Accumulated"
+msgstr "Halmozott"
+
+msgid "Put aside"
+msgstr "Félre tenni"
+
+msgid "January"
+msgstr "január"
+
+msgid "February"
+msgstr "február"
+
+msgid "March"
+msgstr "március"
+
+msgid "April"
+msgstr "április"
+
+msgid "May"
+msgstr "május"
+
+msgid "June"
+msgstr "június"
+
+msgid "July"
+msgstr "július"
+
+msgid "August"
+msgstr "augusztus"
+
+msgid "September"
+msgstr "szeptember"
+
+msgid "October"
+msgstr "október"
+
+msgid "November"
+msgstr "november"
+
+msgid "December"
+msgstr "december"
+
+msgid "Expenses projected/actual"
+msgstr "Költségek tervezett / tényleges"
+
+msgid "Net Income projected/actual"
+msgstr "Nettó bevétel tervezett / tényleges"
+
+msgid "New budget"
+msgstr "új költségvetési"
+
+msgid "Revenue and Expenses Chart"
+msgstr "A bevételek és költségek kör"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Költségvetés és ugyanaz a pár elszámolási és kategória már létezik"
+
+msgid "Budget is empty"
+msgstr "Költségvetés üres"
+
+msgid "Budget"
+msgstr "Költségvetés"
+
+msgid "plan"
+msgstr "terv"
+
+msgid "fact"
+msgstr "tény"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "Mutasd Több"
+
+msgid "Cancel"
+msgstr "Mégsem"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "Saját értékesítési"
+
+msgid "Time spent"
+msgstr "Eltöltött idő"
+
+msgid "Total time spent"
+msgstr "Összesen töltött idő"
+
+msgid "Earnings per hour"
+msgstr "Órabér"
+
+msgid "Total earnings"
+msgstr "Az összes bevétel"
+
+msgid "Call"
+msgstr "hívás"
+
+msgid "Phone call"
+msgstr "Telefonhívás"
+
+msgid "Telephone calls"
+msgstr "telefonhívások"
+
+msgid "Send email"
+msgstr "Küldjön e-mailt"
+
+msgid "Emails"
+msgstr "E-maileket"
+
+msgid "Meeting"
+msgstr "Találkozó"
+
+msgid "Meetings"
+msgstr "találkozók"
+
+msgid "All events"
+msgstr "minden esemény"
+
+msgid "Task"
+msgstr "feladat"
+
+msgid "Event"
+msgstr "esemény"
+
+msgid "Events"
+msgstr "Események"
+
+msgid "Time"
+msgstr "Idő"
+
+msgid "Events statistics"
+msgstr "Események statisztikák"
+
+msgid "days"
+msgstr "nap"
+
+msgid "hours"
+msgstr "órával"
+
+msgid "minutes"
+msgstr "perc"
+
+msgid "Income & expense"
+msgstr "Jövedelem és költségére"
+
+msgid "Show chart"
+msgstr "diagram megjelenítése"
+
+msgid "Hide chart"
+msgstr "diagram elrejtése"
+
+msgid "Add event"
+msgstr "esemény hozzáadása"
+
+msgid "Add financial data"
+msgstr "Add pénzügyi adatok"
+
+msgid "Select contractor"
+msgstr "Válassza ki a nyertes ajánlattevő"
+
+msgid "Net Income"
+msgstr "Nettó jövedelem"
+
+msgid "Revenue"
+msgstr "bevétel"
+
+msgid "Taxes"
+msgstr "adók"
+
+msgid "Amount planned"
+msgstr "tervezett összeg"
+
+msgid "Amount"
+msgstr "Mennyiség"
+
+msgid "Period"
+msgstr "időszak"
+
+msgid "Are you sure to close this task?"
+msgstr "Biztos benne, hogy bezárja ezt a feladatot?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "minden csoport"
+
+msgid "added from task"
+msgstr "hozzáadott feladat"
+
+msgid "Monthly repeat"
+msgstr "havi ismétlés"
+
+msgid "Select category"
+msgstr "kategória kiválasztása"
+
+msgid "Event type"
+msgstr "A rendezvény típusa"
+
+msgid "Margin"
+msgstr "margó"
+
+msgid "Use finance project"
+msgstr "Használja finanszírozások"
+
+msgid "New investment project"
+msgstr "Új befektetési projekt"
+
+msgid "Investment project settings"
+msgstr "Beruházási projekt beállítások"
+
+msgid "Picture, for the announcement project"
+msgstr "Kép , a bejelentést projekt"
+
+msgid "Announcement project"
+msgstr "Hirdetmény projekt"
+
+msgid "Video"
+msgstr "videó"
+
+msgid "Photos or videos gallery"
+msgstr "Fotók és videók galéria"
+
+msgid "required amount"
+msgstr "szükséges mennyiségű"
+
+msgid "Project duration (60 days maximum)"
+msgstr "A projekt időtartama ( 60 nap maximum)"
+
+msgid "Project duration"
+msgstr "A projekt időtartama"
+
+msgid "Add reward"
+msgstr "Add jutalmat"
+
+msgid "Delivery date"
+msgstr "Kiszállítási dátum"
+
+msgid "Payment systems"
+msgstr "fizetési rendszerek"
+
+msgid "Terms of service"
+msgstr "Használati feltételek"
+
+msgid "Agreement"
+msgstr "megállapodás"
+
+msgid "Payment"
+msgstr "Fizetés"
+
+msgid "My projects"
+msgstr "Saját projektek"
+
+msgid "Search result"
+msgstr "Keresés eredménye"
+
+msgid "Nothing not found"
+msgstr "Semmi nem talált"
+
+msgid "The project has no sponsors"
+msgstr "A projekt nincs szponzorok"
+
+msgid "Design"
+msgstr "tervezés"
+
+msgid "Food"
+msgstr "Élelmiszer"
+
+msgid "Journalism"
+msgstr "újságírás"
+
+msgid "Games"
+msgstr "játékok"
+
+msgid "Art"
+msgstr "művészet"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "zene"
+
+msgid "Handicrafts"
+msgstr "kézművesség"
+
+msgid "Publishing"
+msgstr "Kiadó"
+
+msgid "Theater"
+msgstr "színház"
+
+msgid "Technology"
+msgstr "technológia"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "Fénykép"
+
+msgid "Dance"
+msgstr "tánc"
+
+msgid "Invalid youtube video"
+msgstr "Érvénytelen youtube video"
+
+msgid "is required"
+msgstr "van szükség"
+
+msgid "User"
+msgstr "felhasználó"
+
+msgid "Date"
+msgstr "Dátum"
+
+msgid "Collected"
+msgstr "összegyűjtött"
+
+msgid "Choose period"
+msgstr "Válasszon időszakot"
+
+msgid "Choose region"
+msgstr "Válasszon régiót"
+
+msgid "Country"
+msgstr "ország"
+
+msgid "Today"
+msgstr "Mai napon"
+
+msgid "Week"
+msgstr "Hét"
+
+msgid "Month"
+msgstr "Hó"
+
+msgid "Year"
+msgstr "év"
+
+msgid "Free registration"
+msgstr "ingyenes regisztráció"
+
+msgid "Join"
+msgstr "Csatlakozik"
+
+msgid "Log in using"
+msgstr "Jelentkezzen be"
+
+msgid "Vacancies"
+msgstr "Munkavállalási lehetőségek"
+
+msgid "About Us"
+msgstr "Rólunk"
+
+msgid "You will need email to log in"
+msgstr "Szükséged lesz az e-mail jelentkezni"
+
+msgid "A combination of 6 digits and characters"
+msgstr "A kombinációs 6 számjegy és karakter"
+
+msgid "Search users, groups, articles..."
+msgstr "Keresés a felhasználók , csoportok , cikkek ..."
+
+msgid "Cloud"
+msgstr "Felhő"
+
+msgid "Sunday"
+msgstr "vasárnap"
+
+msgid "Monday"
+msgstr "hétfő"
+
+msgid "Tuesday"
+msgstr "kedd"
+
+msgid "Wednesday"
+msgstr "szerda"
+
+msgid "Thursday"
+msgstr "csütörtök"
+
+msgid "Friday"
+msgstr "péntek"
+
+msgid "Saturday"
+msgstr "szombat"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "Create group"
+msgstr "Új csoport"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Biztos benne, hogy el szeretné hagyni ezt az oldalt ?"
+
+msgid "More"
+msgstr "Több"
+
+msgid "Less"
+msgstr "Kevésbé"
+
+msgid "Pending"
+msgstr "Függőben levő"
+
+msgid "Approved"
+msgstr "Jóváhagyott"
+
+msgid "Rejected"
+msgstr "Elutasított"
+
+msgid "Subprojects"
+msgstr "alprojektek"
+
+msgid "Group edit"
+msgstr "Csoport szerkesztés"
+
+msgid "Startup"
+msgstr "üzembe helyezés"
+
+msgid "Tattoo"
+msgstr "Tetoválás"
+
+msgid "Health"
+msgstr "Egészség"
+
+msgid "Weapon"
+msgstr "Fegyver"
+
+msgid "Astronomy"
+msgstr "Csillagászat"
+
+msgid "All articles"
+msgstr "Az összes cikk"
+
+msgid "Article editor"
+msgstr "cikk szerkesztője"
+
+msgid "Document editor"
+msgstr "Dokumentum szerkesztő"
+
+msgid "Apply changes"
+msgstr "A változtatások alkalmazása"
+
+msgid "Save changes?"
+msgstr "Változtatások mentése?"
+
+msgid "published an article"
+msgstr "megjelent egy cikk"
+
+msgid "Users"
+msgstr "felhasználók"
+
+msgid "Shared With Me"
+msgstr "Velem megosztott"
+
+msgid "share"
+msgstr "Ossza meg"
+
+msgid "Select Group Responsible"
+msgstr "Válassza Csoport Felelős"
+
+msgid "Create folder"
+msgstr "Mappa létrehozás"
+
+msgid "Title must be at least 3 characters"
+msgstr "Cím legalább 3 karakter"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Ingyenes 10 GB , pénzügyi vezető , a beruházás modul , és sok más ingyenes és örökre"
+
+msgid "Best regards"
+msgstr "Üdvözlettel"
+
+msgid "Updates in last 12 hours:"
+msgstr "Frissítés az elmúlt 12 órában :"
+
+msgid "expense"
+msgstr "költség"
+
+msgid "Commentary on the event:"
+msgstr "Kommentár a rendezvény :"
+
+msgid "Event place"
+msgstr "esemény helye"
+
+msgid "Project was updated"
+msgstr "Projekt frissítve"
+
+msgid "Project was created"
+msgstr "Projekt jött létre,"
+
+msgid "Project was closed"
+msgstr "Projekt lezárása"
+
+msgid "account"
+msgstr "számla"
+
+msgid "removed task"
+msgstr "távolítani feladat"
+
+msgid "removed subproject"
+msgstr "távolítani alprojekt"
+
+msgid "Title can not be empty"
+msgstr "A cím nem lehet üres"
+
+msgid "Do not select the type of event"
+msgstr "Ne válassza az esemény típusa"
+
+msgid "Error while saving comment"
+msgstr "Hiba történt a mentés megjegyzést"
+
+msgid "Save error: access denied"
+msgstr "Mentsd hiba : Hozzáférés megtagadva"
+
+msgid "Remains"
+msgstr "Maradványok"
+
+msgid "Time spent, h."
+msgstr "Töltött idő , h ."
+
+msgid "Emails"
+msgstr "E-maileket"
+
+msgid "Meetings"
+msgstr "találkozók"
+
+msgid "All users"
+msgstr "Minden felhasználó"
+
+msgid "Category"
+msgstr "Kategória"
+
+msgid "Finance project"
+msgstr "Pénzügy projekt"
+
+msgid "Investment project"
+msgstr "beruházási projekt"
+
+msgid "Nature"
+msgstr "Természet"
+
+msgid "Data is empty"
+msgstr "Az adatok üres"
+
+msgid "Visitors"
+msgstr "A látogatók"
+
+msgid "My profile"
+msgstr "A profilom"
+
+msgid "Sponsors"
+msgstr "Támogatóink"
+
+msgid "Prior to completion"
+msgstr "Elkészítése előtt"
+
+msgid "Select"
+msgstr "Válassza ki"
+
+msgid "My groups"
+msgstr "Saját csoportok"
+
+msgid "The invitation has been sent successfully"
+msgstr "A meghívó elküldése sikeres"
+
+msgid "Username has already been invited to this project"
+msgstr "Felhasználónév már meghívták a projekt"
+
+msgid "The user is the creator of the project"
+msgstr "A felhasználó az alkotója a projekt"
+
+msgid "Provide full access"
+msgstr "Teljes hozzáférést"
+
+msgid "Select elements to provide access"
+msgstr "Válassza elemként a hozzáférést"
+
+msgid "Select all"
+msgstr "Mindet kiválaszt"
+
+msgid "User E-mail"
+msgstr "Felhasználó E -mail"
+
+msgid "Click on the field to select a category"
+msgstr "Kattintson a pályán, hogy válasszon egy kategóriát"
+
+msgid "Invitation was deleted"
+msgstr "Meghívó törölve"
+
+msgid "Permission denied"
+msgstr "Hozzáférés megtagadva"
+
+msgid "Printed"
+msgstr "Nyomtatott"
+
+msgid "Incorrect Contractor email"
+msgstr "Hibás e-mail Vállalkozó"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Szeretné hozzáadni projekt finanszírozására menedzser ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Ahhoz, hogy a regisztrációs folyamat befejezéséhez kérjük, töltse le a készségek"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Egy mailt a további utasításokat is küld a felhasználó e-mail címét"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Cars"
+msgstr "autók"
+
+msgid "Science"
+msgstr "Tudomány"
+
+msgid "Donation"
+msgstr "Adomány"
+
+msgid "Interests"
+msgstr "Érdeklődési kör"
+
+msgid "Driver"
+msgstr "Pilóta"
+
+msgid "Sportsman"
+msgstr "Sportember"
+
+msgid "Businessman"
+msgstr "Üzletember"
+
+msgid "Accountant"
+msgstr "Könyvelő"
+
+msgid "Engineer"
+msgstr "Mérnök"
+
+msgid "Soldier"
+msgstr "Hivatásos katona"
+
+msgid "Next"
+msgstr "Következő"
+
+msgid "Hide group"
+msgstr "csoport elrejtése"
+
+msgid "groups created"
+msgstr "létrehozott csoportok"
+
+msgid "articles written"
+msgstr "cikkeket írt"
+
+msgid "These groups may be interesting for you"
+msgstr "Ezek a csoportok lehetnek érdekesek az Ön számára"
+
+msgid "About Group"
+msgstr "Körülbelül Csoport"
+
+msgid "view(s)"
+msgstr "néző (k )"
+
+msgid "Favorite users"
+msgstr "kedvenc felhasználók"
+
+msgid "No accounts"
+msgstr "Nem számlák"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook engedélyt nem sikerült."
+
+msgid "Authorization Required"
+msgstr "Felhatalmazás szükséges"
+
+msgid "You have to make a call:"
+msgstr "Van, hogy a hívás :"
+
+msgid "You have to send an email:"
+msgstr "Meg kell küldeni egy e-mailt :"
+
+msgid "You have a meetup:"
+msgstr "Van egy Meetup :"
+
+msgid "You event :"
+msgstr "Ön esetén :"
+
+msgid "Participants:"
+msgstr "résztvevők:"
+
+msgid "Search"
+msgstr "Keresés"
+
+msgid "News"
+msgstr "Hír"
+
+msgid "Investments"
+msgstr "beruházások"
+
+msgid "Back to Cloud"
+msgstr "Vissza a Cloud"
+
+msgid "Documents"
+msgstr "dokumentumok"
+
+msgid "Planet"
+msgstr "Bolygó"
+
+msgid "Group url"
+msgstr "Csoport url"
+
+msgid "Profile url"
+msgstr "profil url"
+
+msgid "Already taken"
+msgstr "már foglalt"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Legalább 1 betű és 3 karakter hosszúságú szükséges"
+
+msgid "Digit can not be the first character"
+msgstr "Jegyű nem lehet az első karakter"
+
+msgid "Enter valid email address"
+msgstr "Adja érvényes email címet"
+
+msgid "Enter your skills"
+msgstr "Írja be a készségek"
+
+msgid "Enter your first name"
+msgstr "Adja meg keresztnevét"
+
+msgid "Enter your last name"
+msgstr "Adja meg a vezetéknevét"
+
+msgid "Enter your first name and last name"
+msgstr "Adja meg keresztnevét és vezetéknevét"
+
+msgid "Your first name?"
+msgstr "A keresztneved?"
+
+msgid "Your last name?"
+msgstr "A vezetékneved?"
+
+msgid "What are your proficiencies?"
+msgstr "Mik a proficiencies ?"
+
+msgid "Select country"
+msgstr "Válassz országot"
+
+msgid "Select user"
+msgstr "Válassza ki a felhasználó"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Teljesíteni az álmod ! Hozzon létre és dolgozunk ."
+
+msgid "date moved from"
+msgstr "dátum költözött"
+
+msgid "work"
+msgstr "munka"
+
+msgid "Conference"
+msgstr "Konferencia"
+
+msgid "personal"
+msgstr "személyes"
+
+msgid "Holiday"
+msgstr "Ünnep"
+
+msgid "Past"
+msgstr "Elmúlt"
+
+msgid "Future"
+msgstr "Jövőbeli"
+
+msgid "Purchase"
+msgstr "Vásárlási"
+
+msgid "Personal events"
+msgstr "Privát események"
+
+msgid "Conferences"
+msgstr "Találkozó"
+
+msgid "Holidays"
+msgstr "Ünnepek"
+
+msgid "Sport events"
+msgstr "Sport események"
+
+msgid "Tasks"
+msgstr "Feladatok"
+
+msgid "Other events"
+msgstr "Egyéb események"
+
+msgid "Set aside"
+msgstr "Étel hazavitelre"
+
+msgid "Set aside"
+msgstr "Halasztott"
+
+msgid "Time management"
+msgstr "Time Management"
+
+msgid "Delayed events"
+msgstr "Halasztott események"
+
+msgid "Delayed"
+msgstr "Halasztott"
+
+msgid "Bind to"
+msgstr "Rendeljen"
+
+msgid "answered your comment to"
+msgstr "Azt mondta (a) Hozzászólás a cikket"
+
+msgid "commented your article"
+msgstr "Én kommentálta a cikket"
+
+msgid "You\'ve answered on comment to"
+msgstr "Ön válaszolt a megjegyzést a cikk"
+
+msgid "You\'ve commented an article"
+msgstr "Hozzászóló a cikk"
+
+msgid "Terms and Conditions"
+msgstr "Általános Szerződési Feltételek"
+
+msgid "Privacy Policy"
+msgstr "Adatvédelmi irányelvek"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Ha rákattint a \"Sign Up\" Egyetért-e Ön mi, és elismeri, hogy elolvasta a"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Csatlakozz a közösséghez kreatív emberek az egész világon! Ön kap: Befektetés a gondolatok, a lehetőséget, hogy összeszedje a csapat dolgozik egy csoportban, a pénzügyi igazgató, ügyvezető idejüket, 2 gigabájt tárolására és így tovább. És ez ingyenes!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Sajnáljuk, de az oldal amit keres, nem létezik. Ha úgy gondolja, hogy a hibás velünk kapcsolatba velünk"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "COMMON"
+msgstr "Teljes"
+
+msgid "My events"
+msgstr "Események"
+
+msgid "Job opening"
+msgstr "Új pályázati"
+
+msgid "Employment"
+msgstr "A foglalkoztatás módja"
+
+msgid "Working hours"
+msgstr "Nyitvatartás"
+
+msgid "City"
+msgstr "City"
+
+msgid "Wages"
+msgstr "Illetmény"
+
+msgid "Currency"
+msgstr "Valuta"
+
+msgid "Experience"
+msgstr "Tapasztalat"
+
+msgid "Full-time"
+msgstr "Teljes foglalkoztatottság"
+
+msgid "Part-time"
+msgstr "Részmunkaidős"
+
+msgid "Project employment"
+msgstr "Projekt / Ideiglenes"
+
+msgid "Volunteer"
+msgstr "Önkéntesség"
+
+msgid "Internship"
+msgstr "Szakmai gyakorlat"
+
+msgid "Full day"
+msgstr "Teljes munkaidős"
+
+msgid "Shifts"
+msgstr "Csere menetrend"
+
+msgid "Flexible shifts"
+msgstr "Rugalmas időbeosztás"
+
+msgid "Remote work"
+msgstr "Távmunka"
+
+msgid "Rotational basis"
+msgstr "Shift módszer"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Biztos benne, hogy törölni szeretné a megjegyzést?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Biztosan törölni szeretné ezt a feladatot?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Biztosan törölni szeretné ezt a alprojekt?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Ön kérte, hogy a cég a helyzetbe. Kérjük, győződjön meg arról, hogy a"
+
+msgid "Your request to for job has been rejected"
+msgstr "A kérését, hogy a cég a helyzetbe került elutasításra"
+
+msgid "Your request to for job has been accepted"
+msgstr "A kérését, hogy a cég álláspont elfogadása"
+
+msgid "profile is completed"
+msgstr "A profil teljes"
+
+msgid "Use account"
+msgstr "A fiók"
+
+msgid "$/hr"
+msgstr "$ / Óra"
+
+msgid "Finance category"
+msgstr "Pénzügyi kategóriában"
+
+msgid "No projects"
+msgstr "Nem projektek"
+
+msgid "Bind to finances"
+msgstr "Rendeljen pénzügyi projekt"
+
+msgid "Preview"
+msgstr "Kilátás"
+
+msgid "Download"
+msgstr "Letöltés"
+
+msgid "Save to my cloud"
+msgstr "Másolja az adattárban"
+
+msgid "File successfully saved to your cloud"
+msgstr "A fájl sikeresen tárolt adattár"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Mentse el a fájlt a tárolóból?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Válasszon egy kategóriát cikk"
+
+msgid "Type something"
+msgstr "Írj valamit"
+
+msgid "Founded users"
+msgstr "Talált felhasználók"
+
+msgid "Founded articles"
+msgstr "Talált cikk"
+
+msgid "Founded groups"
+msgstr "Megalapította csoport"
+
+msgid "What are your skills?"
+msgstr "Mik a képességek?"
+
+msgid "Select at least 2 interests"
+msgstr "Válasszon legalább 2 érdeke"
+
+msgid "Need more interests"
+msgstr "Nem elég érdeklődés a kiválasztott"
+
+msgid "What are you interesting in?"
+msgstr "Mi iránt érdeklődik?"
+
+msgid "You have no dialogs"
+msgstr "Nem kell párbeszédek"
+
+msgid "Usage Stats"
+msgstr "Állam"
+
+msgid "Founded files"
+msgstr "Fájlok talált"
+
+msgid "Big tiles"
+msgstr "Nagy csempe"
+
+msgid "Small tiles"
+msgstr "Kis csempe"
+
+msgid "Table view"
+msgstr "Táblázat nézet"
+
+msgid "Root folder"
+msgstr "A gyökér könyvtár"
+
+msgid "My files"
+msgstr "My Files"
+
+msgid "Save as draft"
+msgstr "Mentés tervezetként"
+
+msgid "Buy More Space"
+msgstr "Vásárolja több hely"
+
+msgid "Buy"
+msgstr "Keres"
+
+msgid "You have been invited to group as"
+msgstr "Ön meghívást kaptak a csoport"
+
+msgid "User wants to join your group"
+msgstr "A felhasználó nem akar csatlakozni a csoporthoz"
+
+msgid "Section is coming soon!"
+msgstr "§ alatt!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Nézetek az elmúlt 24 órában:"
+
+msgid "Task was updated"
+msgstr "A feladat frissült"
+
+msgid "Task was closed"
+msgstr "A kihívás lezárták"
+
+msgid "Task was created"
+msgstr "A feladatot állítva"
+
+msgid "Current balance"
+msgstr "Aktuális egyenleg"
+
+msgid "Add funds"
+msgstr "Add"
+
+msgid "Pay"
+msgstr "Fizetés"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Túllépte száma bejelentkezési kísérletek. Ön blokkolja a 15 perc"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Kérjük, erősítse meg e-mail. A levél elküldjük Önnek e-mailben."
+
+msgid "Resend confirmation email"
+msgstr "Küldje visszaigazolást újra"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB havi"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Hajt 10 GB évente"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB évente"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1TB havi"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Vezetés 1 TB minden évben"
+
+msgid "Project members monthly"
+msgstr "A projekt résztvevői havonta"
+
+msgid "Project members yearly"
+msgstr "A projekt résztvevői évente"
+
+msgid "Member(s) yearly"
+msgstr "Tagállam (ok) évente"
+
+msgid "Member(s) monthly"
+msgstr "Tagállam (ok) havonta"
+
+msgid "Authorized"
+msgstr "Felhatalmazott"
+
+msgid "Authorization expired"
+msgstr "Engedély lejárt"
+
+msgid "Processor declined"
+msgstr "Elutasított feldolgozó rendszer"
+
+msgid "Gateway rejected"
+msgstr "Visszautasított fizetési átjáró"
+
+msgid "Failed"
+msgstr "Hiba"
+
+msgid "Voided"
+msgstr "Az Elsőfokú Bíróság semmisítse"
+
+msgid "Submitted for settlement"
+msgstr "Elküldött, hogy beiratkozik"
+
+msgid "Settlement declined"
+msgstr "Beiratkozás elutasították"
+
+msgid "Settlement pending"
+msgstr "Függő beiratkozási"
+
+msgid "Verified"
+msgstr "Feladott"
+
+msgid "Pending"
+msgstr "Függőben levő"
+
+msgid "Active"
+msgstr "Aktív"
+
+msgid "Past Due"
+msgstr "Lejárt"
+
+msgid "Expired"
+msgstr "Véget ért"
+
+msgid "Marketer"
+msgstr "Forgalmazója"
+
+msgid "India"
+msgstr "India"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Thailand"
+msgstr "Thaiföld"
+
+msgid "South Korea"
+msgstr "Dél-Korea"
+
+msgid "Kazakhstan"
+msgstr "Kazahsztán"
+
+msgid "Israel"
+msgstr "Izrael"
+
+msgid "Ukraine"
+msgstr "Ukrajna"
+
+msgid "Belarus"
+msgstr "Belorusszia"
+
+msgid "Bulgaria"
+msgstr "Bulgária"
+
+msgid "Turkey"
+msgstr "Törökország"
+
+msgid "Armenia"
+msgstr "Örményország"
+
+msgid "Serbia"
+msgstr "Szerbia"
+
+msgid "Austria"
+msgstr "Ausztria"
+
+msgid "Poland"
+msgstr "Lengyelország"
+
+msgid "Germany"
+msgstr "Németország"
+
+msgid "Italy"
+msgstr "Olaszország"
+
+msgid "Netherlands"
+msgstr "Hollandia"
+
+msgid "Ireland"
+msgstr "Írország"
+
+msgid "United Kingdom"
+msgstr "Nagy-Britannia"
+
+msgid "Portugal"
+msgstr "Portugália"
+
+msgid "Norway"
+msgstr "Norvégia"
+
+msgid "United States"
+msgstr "Egyesült Államok"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Brazil"
+msgstr "Brazília"
+
+msgid "Saudi Arabia"
+msgstr "Szaúd-Arábia"
+
+msgid "Canada"
+msgstr "Egyiptom"
+
+msgid "Russia"
+msgstr "Oroszország"
+
+msgid "Hong Kong"
+msgstr "Hongkongban"
+
+msgid "There was no any transactions yet."
+msgstr "Abban a pillanatban, nem volt egyetlen tranzakció"
+
+msgid "Fulfill your dream"
+msgstr "Teljesíteni az álmod"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Csatlakozz hozzánk a kreatív egyének a világ minden tájáról."
+
+msgid "Create and Collaborate"
+msgstr "Hozzon létre és dolgozunk"
+
+msgid "Start Dreaming"
+msgstr "Teljesíti álom most"
+
+msgid "or"
+msgstr "vagy"
+
+msgid "Our mission:"
+msgstr "Küldetésünk:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Egyesíteni kreatív és aktív emberek végrehajtani ötleteket egyszerű és a kereslet, hogy hihetetlen és fantasztikus, hogy lehet alakítani a jövőnket."
+
+msgid "What is Konstruktor?"
+msgstr "Mi Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - egy része a valós életben, ami jelentősen megkönnyíti és egyszerűsíti"
+
+msgid "*business processes"
+msgstr "* üzleti folyamatok"
+
+msgid "*materialization of creative ideas"
+msgstr "* materializációját kreatív ötletek"
+
+msgid "*constructive cooperation"
+msgstr "* konstruktív együttműködés"
+
+msgid "Make your dream!"
+msgstr "Legyen az álmod!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "Vezérigazgatója"
+
+msgid "Yuriy Chekalenko"
+msgstr "Jurij Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Különleges tanácsadója"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Jaroszláv Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "A menedzser, Szoftverfejlesztés"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Vezető ügyvédje"
+
+msgid "Yuriy Himka"
+msgstr "Jurij Himka"
+
+msgid "Designer"
+msgstr "Tervező"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Ha rákattint a \"Tovább\" gombra, Ön elfogadja és egyetért az Általános Szerződési Feltételekben, valamint Ön elismeri, hogy elolvasta a Privacy Policy."
+
+msgid "Incorrect login or password."
+msgstr "Hibás név vagy jelszó."
+
+msgid "Password must be at least 6 characters"
+msgstr "Jelszó legalább 6 karakter"
+
+msgid "January"
+msgstr "január"
+
+msgid "February"
+msgstr "február"
+
+msgid "March"
+msgstr "március"
+
+msgid "April"
+msgstr "április"
+
+msgid "May"
+msgstr "május"
+
+msgid "June"
+msgstr "június"
+
+msgid "July"
+msgstr "július"
+
+msgid "August"
+msgstr "augusztus"
+
+msgid "September"
+msgstr "szeptember"
+
+msgid "October"
+msgstr "október"
+
+msgid "November"
+msgstr "november"
+
+msgid "December"
+msgstr "december"
+
+msgid "Chat"
+msgstr "Csevegés"
+
+msgid "Files"
+msgstr "Fájlok"
+
+msgid "Statistic"
+msgstr "Statisztikai"
+
+msgid "Support"
+msgstr "Támogatás"
+
+msgid "Exit"
+msgstr "Kijárat"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belorusszia"
+
+msgid "Marketing specialist"
+msgstr "Marketing szakember"
+
+msgid "Administrator"
+msgstr "Adminisztrátor"
+
+msgid "Shared with me"
+msgstr "Velem megosztott"
+
+msgid "File Sharing"
+msgstr "Fájlmegosztás"
+
+msgid "Provide access by link"
+msgstr "Hozzáférést biztosít a linket"
+
+msgid "Provide Individual access"
+msgstr "Adjon egyéni hozzáférési"
+
+msgid "Provide edit access"
+msgstr "Adjon szerkesztés hozzáférést"
+
+msgid "Share"
+msgstr "Ossza meg"
+
+msgid "Files will be available only for selected users"
+msgstr "Fájlok lesz csak a kiválasztott felhasználók"
+
+msgid "With this link everyone can access to the files"
+msgstr "Ezzel összekapcsolja mindenki elérheti a fájlokat"
+
+msgid "Search users, groups, articles..."
+msgstr "Keresés a felhasználók, csoportok, cikkek ..."
+
+msgid "My Group"
+msgstr "Saját Csoport"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Mi"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "A fájl nincs kiválasztva"
+
+msgid "Set aside"
+msgstr "Félretesz, mellőz"
+
+msgid "Event time"
+msgstr "Esemény ideje"
+
+msgid "Work"
+msgstr "Munka"
+
+msgid "Personal"
+msgstr "Személyes"
+
+msgid "Time spent for work:"
+msgstr "Töltött idő a munka:"
+
+msgid "Personal time spent:"
+msgstr "Személyes töltött idő:"
+
+msgid "Present"
+msgstr "Ajándék"
+
+msgid "Common"
+msgstr "Közös"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "Entertainment"
+msgstr "Szórakozás"
+
+msgid "Select:"
+msgstr "Kiválasztás:"
+
+msgid "Invalid username or password."
+msgstr "Helytelen felhasználónév vagy jelszó."
+
+msgid "Try again."
+msgstr "Próbáld újra."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "MI IRÁNT ÉRDEKLŐDIK?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Válasszon legalább 2 készségek: továbbra is 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Válasszon legalább 2 készségek: marad 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Válasszon legalább 2 készségek: marad"
+
+msgid "Active life"
+msgstr "Aktív élet"
+
+msgid "Arts and culture"
+msgstr "Művészet és kultúra"
+
+msgid "Business"
+msgstr "Üzleti"
+
+msgid "Cinema"
+msgstr "Mozi"
+
+msgid "Communications"
+msgstr "Kommunikáció"
+
+msgid "Construction and repair"
+msgstr "Építési és javítási"
+
+msgid "Cooking"
+msgstr "Főzés"
+
+msgid "Education"
+msgstr "Oktatás"
+
+msgid "Electronics"
+msgstr "Elektronika"
+
+msgid "Finances"
+msgstr "Pénzügyek"
+
+msgid "Graphics and design"
+msgstr "Grafika és tervezés"
+
+msgid "Health"
+msgstr "Egészség"
+
+msgid "Home and family"
+msgstr "Otthon és család"
+
+msgid "Humor"
+msgstr "Humor"
+
+msgid "IT"
+msgstr "AZT"
+
+msgid "Industry"
+msgstr "Ipar"
+
+msgid "Insurance"
+msgstr "Biztosítás"
+
+msgid "Literature"
+msgstr "Irodalom"
+
+msgid "Mobile communications and internet"
+msgstr "A mobil kommunikáció és az internet"
+
+msgid "News and Media"
+msgstr "Hírek és Média"
+
+msgid "Pets"
+msgstr "Háziállatok"
+
+msgid "Products and service"
+msgstr "Termékek és szolgáltatások"
+
+msgid "Real Estate"
+msgstr "Ingatlan"
+
+msgid "Religion"
+msgstr "Vallás"
+
+msgid "Science and techs"
+msgstr "Tudomány és technikusok"
+
+msgid "Security"
+msgstr "Biztonság"
+
+msgid "Society"
+msgstr "Társadalom"
+
+msgid "Television"
+msgstr "Televízió"
+
+msgid "Travel"
+msgstr "Utazási"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentína"
+
+msgid "Australia"
+msgstr "Ausztrália"
+
+msgid "Austria"
+msgstr "Ausztria"
+
+msgid "Belarus"
+msgstr "Belorusszia"
+
+msgid "Belgium"
+msgstr "Belgium"
+
+msgid "Brazil"
+msgstr "Brazília"
+
+msgid "Bulgaria"
+msgstr "Bulgária"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Dánia"
+
+msgid "France"
+msgstr "Franciaország"
+
+msgid "Germany"
+msgstr "Németország"
+
+msgid "Greece"
+msgstr "Görögország"
+
+msgid "Hungary"
+msgstr "Magyarország"
+
+msgid "Iceland"
+msgstr "Izland"
+
+msgid "Ireland"
+msgstr "Írország"
+
+msgid "Israel"
+msgstr "Izrael"
+
+msgid "Italy"
+msgstr "Olaszország"
+
+msgid "Japan"
+msgstr "Japán"
+
+msgid "Mexico"
+msgstr "Mexikó"
+
+msgid "Netherlands"
+msgstr "Hollandia"
+
+msgid "New Zealand"
+msgstr "Új Zéland"
+
+msgid "Norway"
+msgstr "Norvégia"
+
+msgid "Poland"
+msgstr "Lengyelország"
+
+msgid "Portugal"
+msgstr "Portugália"
+
+msgid "Russia"
+msgstr "Oroszország"
+
+msgid "Slovakia"
+msgstr "Szlovákia"
+
+msgid "South Africa"
+msgstr "Dél-Afrika"
+
+msgid "South Korea"
+msgstr "Dél-Korea"
+
+msgid "Spain"
+msgstr "Spanyolország"
+
+msgid "Sweden"
+msgstr "Svédország"
+
+msgid "Switzerland"
+msgstr "Svájc"
+
+msgid "Turkey"
+msgstr "Törökország"
+
+msgid "Ukraine"
+msgstr "Ukrajna"
+
+msgid "United Arab Emirates"
+msgstr "Egyesült Arab Emirátusok"
+
+msgid "United Kingdom"
+msgstr "Egyesült Királyság"
+
+msgid "United States"
+msgstr "Egyesült Államok"
+
+msgid "achievements"
+msgstr "eredmények"
+
+msgid "Investment management"
+msgstr "Befektetések kezelése"
+
+msgid "Select..."
+msgstr "Válassza ki ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "INVESTMENT MANAGEMENT"
+
+msgid "Investors list"
+msgstr "A befektetők listája"
+
+msgid "My investments"
+msgstr "Saját beruházások"
+
+msgid "Create date"
+msgstr "Készítsen dátum"
+
+msgid "Author of the project"
+msgstr "Szerző a projekt"
+
+msgid "Date and time"
+msgstr "Dátum és idő"
+
+msgid "Status"
+msgstr "Állapot"
+
+msgid "NEXT"
+msgstr "KÖVETKEZŐ"
+
+msgid "Next"
+msgstr "Következő"
+
+msgid "Apply"
+msgstr "Alkalmazza"
+
+msgid "Kazakhstan"
+msgstr "Kazahsztán"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Tudomány"
+
+msgid "Architecture"
+msgstr "Építészet"
+
+msgid "Photography"
+msgstr "Fényképezés"
+
+msgid "Designer"
+msgstr "Tervező"
+
+msgid "IT specialist"
+msgstr "IT szakértő"
+
+msgid "Agronomist"
+msgstr "Agronómus"
+
+msgid "Architect"
+msgstr "Építészmérnök"
+
+msgid "Lawyer"
+msgstr "Ügyvéd"
+
+msgid "Writer"
+msgstr "Író"
+
+msgid "Doctor"
+msgstr "Orvos"
+
+msgid "Scientist"
+msgstr "Tudós"
+
+msgid "Marketer"
+msgstr "Forgalmazója"
+
+msgid "Teacher"
+msgstr "Tanár"
+
+msgid "Cook"
+msgstr "Szakács"
+
+msgid "Artist"
+msgstr "Művész"
+
+msgid "Photographer"
+msgstr "Fényképész"
+
+msgid "Ecologist"
+msgstr "Ökológus"
+
+msgid "Economist"
+msgstr "Közgazdász"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Újságíró"
+
+msgid "Builder"
+msgstr "Építész"
+
+msgid "These users may be interesting for you"
+msgstr "Ezek a felhasználók szempontjából érdekes lehet az Ön számára"
+
+msgid "These articles may be interesting for you"
+msgstr "Ezek a cikkek érdekesek lehetnek az Ön számára"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Akkor csatlakozott a csoporthoz, mint Аdministrator"
+
+msgid "articles written."
+msgstr "cikkeket írt."
+
+msgid "groups created."
+msgstr "csoportokat hoz létre."
+
+msgid "Creation"
+msgstr "Teremtés"
+
+msgid "Build a dream"
+msgstr "Épít egy álom"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Bővebben érdekes cikkek - go ingyenes regisztráció"
+
+

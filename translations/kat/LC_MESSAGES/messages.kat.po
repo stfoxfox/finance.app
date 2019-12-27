@@ -1,0 +1,3344 @@
+# ქართული (Грузинский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: ქართული (Грузинский) <support@konstruktor.com>\n"
+"Language: ქართული (Грузинский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "სახელი   sakheli"
+
+msgid "Invalid username or password, try again"
+msgstr "მცდარი სახელი ან პაროლი . სცადეთ კიდევ ერთხელ."
+
+msgid "Settings"
+msgstr "პარამეტრები"
+
+msgid "Home"
+msgstr "მთავარი"
+
+msgid "You must log in to access this page"
+msgstr "თქვენ უნდა შეხვიდეთ ამ გვერდზე წვდომის"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "თქვენი სესია ამოწურულია . გთხოვთ , relogin შეასრულოს ეს ქმედება"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Head Office"
+msgstr "სათაო ოფისი"
+
+msgid "Address"
+msgstr "მისამართი"
+
+msgid "Back"
+msgstr "უკან"
+
+msgid "Apply"
+msgstr "ვრცელდება"
+
+msgid "Upload files…"
+msgstr "ატვირთეთ ფაილი ..."
+
+msgid "Set as main"
+msgstr "უცნობია, როგორც მთავარი"
+
+msgid "Delete"
+msgstr "წაშლა"
+
+msgid "Original image"
+msgstr "ორიგინალური იმიჯი"
+
+msgid "Uploaded"
+msgstr "ატვირთული"
+
+msgid "File name"
+msgstr "ფაილის სახელი"
+
+msgid "File size"
+msgstr "ფაილის ზომა"
+
+msgid "Resolution"
+msgstr "გარჩევადობა"
+
+msgid "Enlarge"
+msgstr "გასადიდებლად"
+
+msgid "Links"
+msgstr "ბმულები"
+
+msgid "Original size"
+msgstr "ორიგინალური ზომა"
+
+msgid "For editor"
+msgstr "რედაქტორის"
+
+msgid "Resize"
+msgstr "ზომის შეცვლა"
+
+msgid "Width"
+msgstr "სიგანე"
+
+msgid "Height"
+msgstr "სიმაღლე"
+
+msgid "Media URL"
+msgstr "მედია URL"
+
+msgid "Add record"
+msgstr "რჩეულებში ჩანაწერი"
+
+msgid "Show filter settings"
+msgstr "შოუ ფილტრის პარამეტრები"
+
+msgid "Edit record"
+msgstr "რედაქტირება ჩანაწერი"
+
+msgid "Delete record"
+msgstr "წაშლა ჩანაწერი"
+
+msgid "Delete checked records"
+msgstr "წაშლა გადამოწმებული ჩანაწერები"
+
+msgid "Dashboard"
+msgstr "დაფა"
+
+msgid "Password"
+msgstr "პაროლი"
+
+msgid "Remember me"
+msgstr "Remember me"
+
+msgid "Login"
+msgstr "შესვლა"
+
+msgid "Clean image cache"
+msgstr "სუფთა იმიჯი cache"
+
+msgid "Processing query..."
+msgstr "გენერაციის query ..."
+
+msgid "CMS Development"
+msgstr "CMS განვითარების"
+
+msgid "Admin Home Page"
+msgstr "Admin საწყისი გვერდი"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "ღია მთავარი გვერდი Front -end innew tab"
+
+msgid "Go to Site"
+msgstr "საიტზე გადასვლა"
+
+msgid "Log out"
+msgstr "შესვლა out"
+
+msgid "Send"
+msgstr "პირადი"
+
+msgid "General"
+msgstr "ზოგადი"
+
+msgid "Title"
+msgstr "სტატუსი:"
+
+msgid "Teaser"
+msgstr "Teaser"
+
+msgid "Published"
+msgstr "გამოქვეყნებულია"
+
+msgid "Featured"
+msgstr "მთავარი"
+
+msgid "Active"
+msgstr "აქტიური"
+
+msgid "Field is mandatory"
+msgstr "სფეროში სავალდებულოა"
+
+msgid "Sort Order"
+msgstr "დალაგების"
+
+msgid "Upload"
+msgstr "ატვირთვა"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "მარტი"
+
+msgid "Apr"
+msgstr "აპრილი"
+
+msgid "May"
+msgstr "მაისი"
+
+msgid "Jun"
+msgstr "ივნისი"
+
+msgid "Jul"
+msgstr "ივლისი"
+
+msgid "Aug"
+msgstr "აგვისტო"
+
+msgid "Sep"
+msgstr "სექტემბერი"
+
+msgid "Oct"
+msgstr "ოქტომბერი"
+
+msgid "Nov"
+msgstr "ნოემბერი"
+
+msgid "Dec"
+msgstr "დეკემბერი"
+
+msgid "Product already exists in the order"
+msgstr "პროდუქტის უკვე არსებობს , რათა"
+
+msgid "Product does not exist"
+msgstr "პროდუქტი არ არსებობს"
+
+msgid "Incorrect request"
+msgstr "არასწორი მოთხოვნით"
+
+msgid "Products"
+msgstr "პროდუქცია"
+
+msgid "Product types"
+msgstr "პროდუქტის ტიპის"
+
+msgid "Contractors"
+msgstr "კონტრაქტორებს"
+
+msgid "Contractor"
+msgstr "კონტრაქტორი"
+
+msgid "Orders"
+msgstr "ბრძანებები"
+
+msgid "FAQ"
+msgstr "კითხვა-პასუხი"
+
+msgid "New order"
+msgstr "ახალი წესრიგი"
+
+msgid "My orders"
+msgstr "ჩემი შეკვეთები"
+
+msgid "Recharge balance"
+msgstr "შეავსეთ ბალანსი"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Incorrect event ID"
+msgstr "არასწორი ღონისძიება ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "რედაქტირება კონტრაქტორი"
+
+msgid "Create contractor"
+msgstr "შექმნა კონტრაქტორი"
+
+msgid "Edit question"
+msgstr "რედაქტირება კითხვა"
+
+msgid "Create question"
+msgstr "შექმნა კითხვა"
+
+msgid "Edit order"
+msgstr "შესწორება , რათა"
+
+msgid "Create order"
+msgstr "შექმნა, რათა"
+
+msgid "Edit product"
+msgstr "რედაქტირება პროდუქტი"
+
+msgid "Create product"
+msgstr "შექმნა პროდუქტი"
+
+msgid "Edit product type"
+msgstr "რედაქტირება პროდუქცია პროდუქტის ტიპის მიხედვით"
+
+msgid "Create product type"
+msgstr "შექმნა პროდუქცია პროდუქტის ტიპის მიხედვით"
+
+msgid "You have received a file"
+msgstr "თქვენ არ მიიღო ფაილი"
+
+msgid "You received a file from"
+msgstr "თქვენ მიიღო ფაილი"
+
+msgid "File has been uploaded"
+msgstr "ფაილი აიტვირთა"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "მინიმალური რაოდენობა"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "ნივთები"
+
+msgid "Remove"
+msgstr "წაშლა"
+
+msgid "Contact person"
+msgstr "საკონტაქტო პირი"
+
+msgid "Email"
+msgstr "ელ"
+
+msgid "Contractor phone"
+msgstr "კონტრაქტორი ტელეფონი"
+
+msgid "Contractor name"
+msgstr "კონტრაქტორი სახელი"
+
+msgid "Contractor details"
+msgstr "კონტრაქტორი დეტალები"
+
+msgid "Order ID"
+msgstr "იმისათვის, ID"
+
+msgid "Sum"
+msgstr "Sum"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "ავირჩიოთ შესაფერისი გადახდის სისტემა გადაიხადოთ ბალანსი"
+
+msgid "Recharge amount"
+msgstr "Recharge თანხა"
+
+msgid "Paid"
+msgstr "გადახდა"
+
+msgid "Shipped"
+msgstr "გაიგზავნება"
+
+msgid "- No products in this order -"
+msgstr "- არ არის პროდუქცია ამ მიზნით, -"
+
+msgid "month"
+msgstr "კალენდარი"
+
+msgid "No user found"
+msgstr "არარის შესახებ გამოჩენას"
+
+msgid "Achievement"
+msgstr "Achievement"
+
+msgid "Confirmed accomplishments"
+msgstr "დაადასტურა მიღწევების"
+
+msgid "Remove achievement"
+msgstr "ამოიღონ მიღწევა"
+
+msgid "Headquaters"
+msgstr "headquaters"
+
+msgid "Phone"
+msgstr "ტელეფონი"
+
+msgid "Site URL and email"
+msgstr "საიტის URL და ელ"
+
+msgid "Remove address"
+msgstr "ამოიღონ მისამართი"
+
+msgid "Members"
+msgstr "წევრები"
+
+msgid "Requires a payment"
+msgstr "მოითხოვს გადახდის"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Ready"
+msgstr "Ready"
+
+msgid "Find user..."
+msgstr "მომხმარებლის მოძებნა ..."
+
+msgid "Order it"
+msgstr "შეუკვეთოს"
+
+msgid "Find group..."
+msgstr "მოძებნა ჯგუფი ..."
+
+msgid "Find user or community..."
+msgstr "მომხმარებლის მოძებნა და საზოგადოებას ..."
+
+msgid "No item found"
+msgstr "არარის პუნქტის ი"
+
+msgid "years"
+msgstr "ახალი"
+
+msgid "Send message"
+msgstr "შეტყობინების გაგზავნა"
+
+msgid "Message"
+msgstr "შეტყობინება"
+
+msgid "To send message press Enter"
+msgstr "იმისათვის, რომ გზავნილი დააჭირეთ Enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "გაგზავნის გაგზავნა Ctrl + Enter"
+
+msgid "Processing file(s)..."
+msgstr "გენერაციის ფაილი (s) ..."
+
+msgid "Group settings"
+msgstr "ჯგუფი პარამეტრები"
+
+msgid "Create group"
+msgstr "ჯგუფის შექმნა"
+
+msgid "Group has been successfully saved"
+msgstr "ჯგუფი წარმატებით იქნა შენახული"
+
+msgid "Group title"
+msgstr "ჯგუფი სათაური"
+
+msgid "Group video"
+msgstr "ჯგუფი ვიდეო"
+
+msgid "Description"
+msgstr "აღწერა"
+
+msgid "Your role in group"
+msgstr "თქვენი როლი ჯგუფი"
+
+msgid "Role"
+msgstr "როლი"
+
+msgid "Photo or video gallery"
+msgstr "ფოტო და ვიდეო გალერეა"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "ატვირთე ვიდეო"
+
+msgid "Add group address"
+msgstr "სანიშნეს ჯგუფს"
+
+msgid "Group articles"
+msgstr "ჯგუფი სტატიები"
+
+msgid "No addresses yet"
+msgstr "არარის მისამართები ჯერ"
+
+msgid "Add group achievement"
+msgstr "სანიშნეს ჯგუფი მიღწევა"
+
+msgid "No achivements yet"
+msgstr "არარის achivements ჯერ"
+
+msgid "Are you sure to delete this user"
+msgstr "დარწმუნებული ხართ ამ მომხმარებლის წაშლა"
+
+msgid "Add member"
+msgstr "სანიშნეს წევრი"
+
+msgid "Are you sure to delete this record?"
+msgstr "დარწმუნებული ხართ, რომ წაშალოთ ეს ჩანაწერი?"
+
+msgid "Join this group"
+msgstr "ამ ჯგუფში გასაწევრიანებლად"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "თქვენი მოწვევა გაეგზავნა ჯგუფის ადმინისტრატორი"
+
+msgid "All addresses"
+msgstr "ყველა მისამართები"
+
+msgid "Collapse"
+msgstr "Collapse"
+
+msgid "Achievements"
+msgstr "მიღწევები"
+
+msgid "Show more"
+msgstr "აჩვენეთ მეტი"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "Projects"
+msgstr "პროექტები"
+
+msgid "New project"
+msgstr "ახალი პროექტი"
+
+msgid "Project has not been created yet"
+msgstr "პროექტი არ შექმნილა"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "ბალანსი"
+
+msgid "Main page"
+msgstr "მთავარი გვერდი"
+
+msgid "Upload image"
+msgstr "ატვირთე სურათი"
+
+msgid "My time"
+msgstr "ჩემი დრო"
+
+msgid "Day"
+msgstr "დღეს"
+
+msgid "Week"
+msgstr "კვირა"
+
+msgid "Project settings"
+msgstr "პროექტის პარამეტრები"
+
+msgid "Create project"
+msgstr "შექმენით პროექტის"
+
+msgid "Project has been successfully saved"
+msgstr "პროექტის წარმატებით იქნა შენახული"
+
+msgid "Project name"
+msgstr "პროექტის სახელი"
+
+msgid "Deadline"
+msgstr "ბოლო ვადა"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Assigned to"
+msgstr "ენიჭება"
+
+msgid "Discussion"
+msgstr "დისკუსია"
+
+msgid "Task was created"
+msgstr "სამუშაო შეიქმნა"
+
+msgid "Task was closed"
+msgstr "სამუშაო დაიხურა"
+
+msgid "Go to Group"
+msgstr "გადადით ჯგუფი"
+
+msgid "Closed"
+msgstr "დახურვის"
+
+msgid "Last updates"
+msgstr "ბოლო განახლებები"
+
+msgid "Project is closed"
+msgstr "პროექტი დახურულია"
+
+msgid "No open tasks"
+msgstr "ღია ამოცანები"
+
+msgid "New task"
+msgstr "ახალი დავალება"
+
+msgid "Closed tasks"
+msgstr "დახურული ამოცანები"
+
+msgid "Add subproject"
+msgstr "სანიშნეს ქვეპროექტის"
+
+msgid "Add task"
+msgstr "რჩეულებში ამოცანა"
+
+msgid "Sun"
+msgstr "კვირა"
+
+msgid "Mon"
+msgstr "ორშაბათი"
+
+msgid "Tue"
+msgstr "სამშაბათი"
+
+msgid "Wed"
+msgstr "ოთხშაბათი"
+
+msgid "Thur"
+msgstr "ხუთშაბათი"
+
+msgid "Fri"
+msgstr "პარასკევი"
+
+msgid "Sat"
+msgstr "შაბათი"
+
+msgid "Event title"
+msgstr "ღონისძიების დასახელება"
+
+msgid "Event description"
+msgstr "ღონისძიების აღწერა"
+
+msgid "I registered on this site"
+msgstr "მე ვიყავი დარეგისტრირებული ამ საიტზე"
+
+msgid "Last created groups"
+msgstr "ბოლო ის ჯგუფები"
+
+msgid "You joined this group as"
+msgstr "თქვენ შეუერთდა ამ ჯგუფს , როგორც"
+
+msgid "You received a request to join the group"
+msgstr "თქვენ მიიღო თხოვნა შეუერთდეს ჯგუფი"
+
+msgid "Updated site"
+msgstr "განახლებულია საიტი"
+
+msgid "Site is under construction"
+msgstr "საიტი მზადების პროცესშია"
+
+msgid "Last registered users"
+msgstr "ბოლო რეგისტრირებული"
+
+msgid "User settings"
+msgstr "მომხმარებლის პარამეტრები"
+
+msgid "Technical support"
+msgstr "ტექნიკური მხარდაჭერა"
+
+msgid "Change email"
+msgstr "ფოსტის შეცვლა"
+
+msgid "Change password"
+msgstr "პაროლის შეცვლა"
+
+msgid "User has been successfully saved"
+msgstr "მომხმარებელი წარმატებით იქნა შენახული"
+
+msgid "Full name"
+msgstr "სრული სახელი და გვარი"
+
+msgid "My video"
+msgstr "ჩემი ვიდეო"
+
+msgid "Skills"
+msgstr "უნარ-ჩვევები"
+
+msgid "Birthday"
+msgstr "დაბადების დღე"
+
+msgid "Country of residence"
+msgstr "ქვეყანა საცხოვრებელი"
+
+msgid "Country"
+msgstr "ქვეყანა"
+
+msgid "Zip Code"
+msgstr "Zip კოდი"
+
+msgid "City/town of residence"
+msgstr "ქალაქი / დაბა საცხოვრებელი"
+
+msgid "University/college"
+msgstr "უნივერსიტეტი / კოლეჯი"
+
+msgid "University/college photo"
+msgstr "უნივერსიტეტი / კოლეჯი ფოტო"
+
+msgid "Add user\'s accomplishments"
+msgstr "რჩეულებში მომხმარებლის მიღწევების"
+
+msgid "Interface language"
+msgstr "ინტერფეისის ენა"
+
+msgid "How other people see this page"
+msgstr "როგორ სხვა ადამიანი ნახოთ ამ გვერდზე"
+
+msgid "Video with me"
+msgstr "ვიდეო თვალი"
+
+msgid "Groups"
+msgstr "ჯგუფები"
+
+msgid "Registered today"
+msgstr "დარეგისტრირებული დღეს"
+
+msgid "Qty"
+msgstr "Qty"
+
+msgid "No registered users yet"
+msgstr "არარის დარეგისტრირებულ მომხმარებლებს ჯერ"
+
+msgid "Total"
+msgstr "სულ"
+
+msgid "Registered total"
+msgstr "დარეგისტრირებული სულ"
+
+msgid "You received a file"
+msgstr "თქვენ მიიღო ფაილი"
+
+msgid "You were invited into this room"
+msgstr "თქვენ მოწვეულნი იყვნენ ოთახში"
+
+msgid "Request is being processed"
+msgstr "მოთხოვნა მუშავდება"
+
+msgid "Fax"
+msgstr "ფაქსი"
+
+msgid "Messenger"
+msgstr "მესენჯერი"
+
+msgid "New subproject"
+msgstr "ახალი ქვეპროექტის"
+
+msgid "messages written."
+msgstr "შეტყობინებები დაწერილი ."
+
+msgid "projects created based on groups."
+msgstr "პროექტების შექმნა ეფუძნება ჯგუფები."
+
+msgid "users registered on website."
+msgstr "მომხმარებლის რეგისტრირებული საიტზე."
+
+msgid "New email"
+msgstr "new ელ"
+
+msgid "Confirm email"
+msgstr "დასტური ელექტრონული ფოსტის"
+
+msgid "New password"
+msgstr "ახალი პაროლი"
+
+msgid "Confirm password"
+msgstr "დაადასტურეთ პაროლი"
+
+msgid "Occupation"
+msgstr "სპეციალობა"
+
+msgid "Timezone"
+msgstr "დროის სარტყელი"
+
+msgid "Answer"
+msgstr "პასუხი"
+
+msgid "Articles"
+msgstr "სტატიები"
+
+msgid "Article"
+msgstr "მუხლი"
+
+msgid "Video-article"
+msgstr "ვიდეო - ე მუხლის"
+
+msgid "Find article..."
+msgstr "ძებნა სტატია ..."
+
+msgid "Politics"
+msgstr "პოლიტიკა"
+
+msgid "Economics"
+msgstr "ეკონომიკა"
+
+msgid "Community"
+msgstr "Community"
+
+msgid "Culture"
+msgstr "კულტურა"
+
+msgid "Sports"
+msgstr "სპორტი"
+
+msgid "Hi-tech"
+msgstr "Hi-tech"
+
+msgid "Cars"
+msgstr "ავტო"
+
+msgid "Fashion"
+msgstr "მოდა"
+
+msgid "Games"
+msgstr "თამაშები"
+
+msgid "Other"
+msgstr "სხვა"
+
+msgid "Invalid mediafile"
+msgstr "არასწორი mediafile"
+
+msgid "No articles in this category yet"
+msgstr "სტატიები ამ კატეგორიაში ჯერ"
+
+msgid "Back to profile"
+msgstr "უკან დაბრუნება"
+
+msgid "View article"
+msgstr "დაათვალიერე სტატია"
+
+msgid "Edit article"
+msgstr "რედაქტირება სტატია"
+
+msgid "Create article"
+msgstr "შექმნა სტატია"
+
+msgid "Article title"
+msgstr "სტატიის სათაური"
+
+msgid "Article section"
+msgstr "მუხლი განყოფილებაში"
+
+msgid "Choose image"
+msgstr "აირჩიეთ სურათის"
+
+msgid "Save and upload"
+msgstr "შენახვა და ატვირთეთ"
+
+msgid "Show more..."
+msgstr "აჩვენეთ მეტი ..."
+
+msgid "Create"
+msgstr "შექმნა"
+
+msgid "Edit"
+msgstr "რედაქტირება"
+
+msgid "Project"
+msgstr "პროექტი"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "A new article was published"
+msgstr "ახალი სტატია გამოქვეყნდა"
+
+msgid "You joined this project"
+msgstr "თქვენ ამ პროექტში გაერთიანებულია"
+
+msgid "Enter your information in the User settings"
+msgstr "შეიყვანეთ თქვენი ინფორმაცია მომხმარებლის პარამეტრები"
+
+msgid "Communities"
+msgstr "საზოგადოებები"
+
+msgid "Video presentation of my accomplishments"
+msgstr "ვიდეო პრეზენტაცია ჩემი მიღწევების"
+
+msgid "My articles"
+msgstr "ჩემი სტატიები"
+
+msgid "User"
+msgstr "მომხმარებელი"
+
+msgid "Users"
+msgstr "მომხმარებელი"
+
+msgid "Add new list"
+msgstr "ახალი სია"
+
+msgid "List title"
+msgstr "სია სათაური"
+
+msgid "Add"
+msgstr "რჩეულებში"
+
+msgid "Add to favorites"
+msgstr "სანიშნეს ჩადება"
+
+msgid "Delete from favorites"
+msgstr "წაშლა დამატება"
+
+msgid "Select list"
+msgstr "აირჩიეთ სია"
+
+msgid "Subscriptions"
+msgstr "გამოწერა"
+
+msgid "Subscribe"
+msgstr "გამოწერა"
+
+msgid "Unsubscribe"
+msgstr "გაუქმება"
+
+msgid "General list"
+msgstr "ერთიანი სია"
+
+msgid "No users in this list"
+msgstr "არარის მომხმარებლები ამ სიაში"
+
+msgid "Publish"
+msgstr "გამოქვეყნება"
+
+msgid "Unpublish"
+msgstr "გამოქვეყნების"
+
+msgid "Add user"
+msgstr "რჩეულებში პროფაილი"
+
+msgid "Create document"
+msgstr "შექმენით დოკუმენტი"
+
+msgid "Edit document"
+msgstr "რედაქტირება დოკუმენტი"
+
+msgid "View"
+msgstr "ნახვა"
+
+msgid "Document title"
+msgstr "დოკუმენტის დასახელება"
+
+msgid "Find document..."
+msgstr "ძებნა დოკუმენტი ..."
+
+msgid "Share your thoughts"
+msgstr "გაუზიარეთ თქვენი აზრები"
+
+msgid "Leave your comment"
+msgstr "დატოვეთ თქვენი კომენტარი"
+
+msgid "Accept"
+msgstr "მიღება"
+
+msgid "Decline"
+msgstr "უარყოფა"
+
+msgid "Add article"
+msgstr "რჩეულებში სტატია"
+
+msgid "Link to verified accomplishments"
+msgstr "ბმული დავადგინე, მიღწევების"
+
+msgid "No articles here yet..."
+msgstr "სტატიები აქ ჯერ კიდევ ..."
+
+msgid "Find file or folder..."
+msgstr "ძებნა ფაილი ან საქაღალდე ..."
+
+msgid "Sort"
+msgstr "Sort"
+
+msgid "By name"
+msgstr "სახელი"
+
+msgid "By date"
+msgstr "თარიღი"
+
+msgid "By updated date"
+msgstr "By მხრიდან თარიღი"
+
+msgid "By size"
+msgstr "By ზომა"
+
+msgid "By type"
+msgstr "ტიპის"
+
+msgid "Move"
+msgstr "Move"
+
+msgid "File Manager"
+msgstr "ფაილის მენეჯერი"
+
+msgid "Share link"
+msgstr "Share ლინკი"
+
+msgid "Responsible"
+msgstr "პასუხისმგებელი"
+
+msgid "Performer"
+msgstr "შემსრულებელი"
+
+msgid "New Folder"
+msgstr "new Folder"
+
+msgid "Folder name"
+msgstr "ფოლდერის სახელი"
+
+msgid "By default"
+msgstr "სტანდარტულად"
+
+msgid "Back to group"
+msgstr "თავში ჯგუფი"
+
+msgid "year(s)"
+msgstr "წელი (s)"
+
+msgid "January"
+msgstr "იანვარი"
+
+msgid "February"
+msgstr "თებერვალი"
+
+msgid "March"
+msgstr "მარტი"
+
+msgid "April"
+msgstr "აპრილი"
+
+msgid "May"
+msgstr "მაისი"
+
+msgid "June"
+msgstr "ივნისი"
+
+msgid "July"
+msgstr "ივლისი"
+
+msgid "August"
+msgstr "აგვისტო"
+
+msgid "September"
+msgstr "სექტემბერი"
+
+msgid "October"
+msgstr "ოქტომბერი"
+
+msgid "November"
+msgstr "ნოემბერი"
+
+msgid "December"
+msgstr "დეკემბერი"
+
+msgid "Password Reminder"
+msgstr "პაროლის შეხსენება"
+
+msgid "Log In"
+msgstr "შესვლა"
+
+msgid "Sign in"
+msgstr "შესვლა"
+
+msgid "Register"
+msgstr "რეგისტრაცია"
+
+msgid "First name"
+msgstr "სახელი"
+
+msgid "Last name"
+msgstr "გვარი"
+
+msgid "I agree with rules"
+msgstr "მე ვეთანხმები წესებს"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "დასტური ფოსტა გაიგზავნა თქვენი ელექტრონული ფოსტის მისამართი."
+
+msgid "Thanks"
+msgstr "მადლობა"
+
+msgid "Password must be at least 6 characters"
+msgstr "პაროლი უნდა იყოს მინიმუმ 6 სიმბოლო"
+
+msgid "Creative Environment"
+msgstr "შემოქმედებითი გარემო"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "თქვენ უნდა იყოს მინიმუმ ცამეტი წლის ასაკიდან, რომ გამოიყენოთ ეს მომსახურება"
+
+msgid "Order status"
+msgstr "შეკვეთის სტატუსი"
+
+msgid "Processing order"
+msgstr "გენერაციის რათა"
+
+msgid "Requires a payment"
+msgstr "მოითხოვს გადახდის"
+
+msgid "Shipping"
+msgstr "გადაზიდვის"
+
+msgid "Ready"
+msgstr "მზად"
+
+msgid "Thank you for your payment"
+msgstr "გმადლობთ, თქვენი გადახდის"
+
+msgid "Your payment has been cancelled"
+msgstr "შენი გადახდის გაუქმდა"
+
+msgid "page"
+msgstr "გვერდი"
+
+msgid "Rent period"
+msgstr "ქირავდება ვადა"
+
+msgid "Total, month"
+msgstr "სულ, თვე"
+
+msgid "Order items"
+msgstr "დაალაგე ნივთები"
+
+msgid "No records found"
+msgstr "ჩანაწერები არ მოიძებნა"
+
+msgid "User with this email is already exist"
+msgstr "მომხმარებელი ამ წერილს უკვე არსებობს"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "საქაღალდე ან ფაილი ასეთი სახელი უკვე არსებობს საქაღალდე"
+
+msgid "Minimal quantity"
+msgstr "მინიმალური რაოდენობა"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "ბეჭდვითი ასლები"
+
+msgid "Terms of Use"
+msgstr "გამოყენების პირობები"
+
+msgid "Privacy Policy"
+msgstr "კონფიდენციალურობის პოლიტიკა"
+
+msgid "Find project..."
+msgstr "ს პროექტის ..."
+
+msgid "New Project"
+msgstr "ახალი პროექტი"
+
+msgid "Accounts"
+msgstr "ანგარიშები"
+
+msgid "Operations"
+msgstr "ოპერაციების"
+
+msgid "All accounts"
+msgstr "ყველა ანგარიშები"
+
+msgid "All categories"
+msgstr "ყველა კატეგორია"
+
+msgid "Expense"
+msgstr "ხარჯები"
+
+msgid "Income"
+msgstr "შემოსავალი"
+
+msgid "Transfer"
+msgstr "გადაცემა"
+
+msgid "Expense"
+msgstr "ხარჯები"
+
+msgid "income"
+msgstr "შემოსავალი"
+
+msgid "tax"
+msgstr "საგადასახადო"
+
+msgid "percent"
+msgstr "პროცენტი"
+
+msgid "transfer"
+msgstr "გადაცემა"
+
+msgid "Make operation"
+msgstr "ოპერაციის"
+
+msgid "Select date"
+msgstr "აირჩიეთ თარიღი"
+
+msgid "Select account"
+msgstr "ანგარიშის არჩევა"
+
+msgid "Month"
+msgstr "თვე"
+
+msgid "Quarter"
+msgstr "Quarter"
+
+msgid "Year"
+msgstr "წელი"
+
+msgid "From"
+msgstr "მდებარეობა"
+
+msgid "To"
+msgstr "იმისათვის, რომ"
+
+msgid "Expense amount"
+msgstr "ხარჯები თანხა"
+
+msgid "Categories"
+msgstr "კატეგორიები"
+
+msgid "Comments"
+msgstr "კომენტარები"
+
+msgid "Income amount"
+msgstr "შემოსავლის მოცულობა"
+
+msgid "Transfer amount"
+msgstr "თანხის ოდენობა"
+
+msgid "From account"
+msgstr "ანგარიშიდან"
+
+msgid "To account"
+msgstr "ანგარიშზე"
+
+msgid "New Account"
+msgstr "ახალი ანგარიში"
+
+msgid "New Category"
+msgstr "ახალი კატეგორია"
+
+msgid "All"
+msgstr "ყველა"
+
+msgid "Name"
+msgstr "სახელი"
+
+msgid "Enter category name"
+msgstr "შეიყვანეთ კატეგორიის სახელი"
+
+msgid "Select type"
+msgstr "აირჩიეთ ტიპი"
+
+msgid "Credit card"
+msgstr "საკრედიტო ბარათი"
+
+msgid "Debit card"
+msgstr "სადებეტო ბარათი"
+
+msgid "Bank account"
+msgstr "საბანკო ანგარიშის"
+
+msgid "Cash"
+msgstr "Cash"
+
+msgid "Balance is empty"
+msgstr "ბალანსი ცარიელია"
+
+msgid "Statistic is empty"
+msgstr "ჩატში ცარიელია"
+
+msgid "Regular payments"
+msgstr "რეგულარული გადახდები"
+
+msgid "Are you sure ?"
+msgstr "დარწმუნებული ხართ?"
+
+msgid "Are you sure to close this project?"
+msgstr "დარწმუნებული ხართ, რომ დახუროს ეს პროექტი?"
+
+msgid "Project was deleted successfully"
+msgstr "პროექტი წაშლილია"
+
+msgid "Select currency"
+msgstr "აირჩიეთ ვალუტა"
+
+msgid "Account"
+msgstr "რეგისტრაცია"
+
+msgid "Orders list"
+msgstr "ბრძანებები სია"
+
+msgid "Order payments"
+msgstr "დაალაგე გადასახადები"
+
+msgid "View order"
+msgstr "ნახვა მიზნით"
+
+msgid "No response from Printer API"
+msgstr "პასუხი არ პრინტერი API"
+
+msgid "Bad response from Printer API"
+msgstr "Bad პასუხი პრინტერი API"
+
+msgid "User ID"
+msgstr "მომხმარებლის ID"
+
+msgid "Contact Person"
+msgstr "საკონტაქტო პირი"
+
+msgid "No orders to process"
+msgstr "არარის ბრძანებებს დამუშავება"
+
+msgid "Article announce image"
+msgstr "მუხლი აცხადებს სურათი"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "არასწორი ვიდეო url. დატოვეთ ცარიელი ან ჩადეთ მოქმედებს youtube url"
+
+msgid "Please, enter Contractor data"
+msgstr "გთხოვთ შეიყვანოთ კონტრაქტორი მონაცემები"
+
+msgid "Distribute devices"
+msgstr "გავრცელება მოწყობილობები"
+
+msgid "Quantity"
+msgstr "რაოდენობა"
+
+msgid "Devices left"
+msgstr "მოწყობილობები დატოვა"
+
+msgid "Distributed devices"
+msgstr "განაწილებული მოწყობილობები"
+
+msgid "You must enter quantity"
+msgstr "თქვენ უნდა შეიყვანოთ რაოდენობა"
+
+msgid "All devices are distributed"
+msgstr "ყველა მოწყობილობა ნაწილდება"
+
+msgid "IP address"
+msgstr "IP მისამართი"
+
+msgid "Only for printer"
+msgstr "მხოლოდ პრინტერი"
+
+msgid "Counter"
+msgstr "Counter"
+
+msgid "You was excluded from this room"
+msgstr "თქვენ გამოირიცხა ამ ოთახში"
+
+msgid "Compare"
+msgstr "შეადარეთ"
+
+msgid "Scheduled transaction"
+msgstr "დაგეგმილი გარიგება"
+
+msgid "Select transfer account"
+msgstr "აირჩიეთ გადაცემის ანგარიში"
+
+msgid "Select income account"
+msgstr "აირჩიეთ შემოსავლის ანგარიში"
+
+msgid "Reports"
+msgstr "ანგარიშები"
+
+msgid "Goals"
+msgstr "მიზნები"
+
+msgid "Budgets"
+msgstr "ბიუჯეტის"
+
+msgid "Enter user name or email..."
+msgstr "შეიყვანეთ მომხმარებლის სახელი ან ელ ..."
+
+msgid "Invite had been sended"
+msgstr "მოიწვიე უკვე გაიგზავნა"
+
+msgid "Statistics"
+msgstr "სტატისტიკა"
+
+msgid "Updated site began to work"
+msgstr "განახლებულია საიტზე მუშაობა დაიწყო"
+
+msgid "City of residence"
+msgstr "ქალაქის საცხოვრებელი"
+
+msgid "Edit favourites list"
+msgstr "რედაქტირება დამატება სია"
+
+msgid "Add favourites list"
+msgstr "რჩეულებში დამატება სია"
+
+msgid "Categories is required"
+msgstr "კატეგორიები საჭირო"
+
+msgid "Type new category name and hit Enter"
+msgstr "ტიპი new კატეგორია სახელი და დააჭიროთ"
+
+msgid "You created an order"
+msgstr "თქვენ შეიქმნა იმისათვის,"
+
+msgid "You received a device due to this order"
+msgstr "თქვენ მიიღო მოწყობილობის გამო ამ მიზნით"
+
+msgid "%s attached %s to task %s"
+msgstr "%s ერთვის %s ამოცანა %s"
+
+msgid "member(s)"
+msgstr "member (s)"
+
+msgid "%s commented task %s"
+msgstr "%s კომენტარი ამოცანა %s"
+
+msgid "%s closed task %s"
+msgstr "%s დახურულ ამოცანა %s"
+
+msgid "%s created task %s"
+msgstr "%s ის ამოცანა %s"
+
+msgid "%s created this project"
+msgstr "%s შექმნილი ეს პროექტი"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s ის ქვეპროექტის \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s დახურულ პროექტის \"%s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s დახურულ ქვეპროექტის \"%s\""
+
+msgid "This field must not be blank"
+msgstr "ეს ველი არ უნდა იყოს ცარიელი"
+
+msgid "Document with such name is already exist"
+msgstr "დოკუმენტი ასეთი სახელი უკვე არსებობს"
+
+msgid "Wait until image upload"
+msgstr "დაველოდოთ სურათის ატვირთვა"
+
+msgid "Video"
+msgstr "ვიდეო"
+
+msgid "Message can not be empty"
+msgstr "შეტყობინება არ უნდა იყოს ცარიელი"
+
+msgid "Yes"
+msgstr "დიახ"
+
+msgid "No"
+msgstr "არარის"
+
+msgid "Created"
+msgstr "შექმნილია"
+
+msgid "Compare is empty"
+msgstr "შეადარეთ ცარიელია"
+
+msgid "Are you sure you want to delete operation"
+msgstr "დარწმუნებული ხართ, რომ გსურთ წაშალოთ ოპერაცია"
+
+msgid "Do you really want to delete transaction"
+msgstr "ნამდვილად გსურთ წაშლა გარიგება"
+
+msgid "Project with same name already exists"
+msgstr "პროექტის იგივე სახელით უკვე არსებობს"
+
+msgid "Account is not found"
+msgstr "ანგარიშის არ არის ნაპოვნი"
+
+msgid "Currency is required"
+msgstr "ვალუტა არის საჭირო"
+
+msgid "error while deleting document"
+msgstr "შეცდომა წაშლის დოკუმენტი"
+
+msgid "Expences"
+msgstr "ხარჯები"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "თქვენ მიწვეული შესახებ \"%s\" ამ ოთახში"
+
+msgid "User \"%s\" joined this room"
+msgstr "მომხმარებელი \" %s \" შეუერთდა ოთახი"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "თქვენ გამორიცხული შესახებ \"%s\" ამ ოთახში"
+
+msgid "User \"%s\" left this room"
+msgstr "მომხმარებელი \"%s\" დატოვა ოთახი"
+
+msgid "Add account"
+msgstr "ანგარიშის დამატება"
+
+msgid "The requested page is not found"
+msgstr "მოთხოვნილი გვერდი არ არის ნაპოვნი"
+
+msgid "Document"
+msgstr "დოკუმენტი"
+
+msgid "Table"
+msgstr "მაგიდა"
+
+msgid "file(s)"
+msgstr "ფაილ (ებ)"
+
+msgid "Residue"
+msgstr "ნარჩენების"
+
+msgid "Result is empty"
+msgstr "შედეგი ცარიელია"
+
+msgid "The total amount is %s for %s mo"
+msgstr "სულ თანხა %s %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "თქვენ უნდა შეიტანოს %s ყოველთვიური დაკავშირებული ანგარიში"
+
+msgid "Start"
+msgstr "დაწყება"
+
+msgid "finish"
+msgstr "ფერი"
+
+msgid "Selected account is already in use for another goal"
+msgstr "შერჩეული ანგარიში უკვე გამოიყენება კიდევ ერთი გოლი"
+
+msgid "Amount required"
+msgstr "თანხა საჭირო"
+
+msgid "New goal"
+msgstr "ახალი მიზანი"
+
+msgid "Goal"
+msgstr "მიზანი"
+
+msgid "Goal name"
+msgstr "მიზანი სახელი"
+
+msgid "Invalid date"
+msgstr "არასწორი თარიღი"
+
+msgid "Necessary sum must be a positive number"
+msgstr "საჭირო თანხა უნდა იყოს პოზიტიური ნომერი"
+
+msgid "Remain"
+msgstr "რჩება"
+
+msgid "Last day"
+msgstr "ბოლო დღე"
+
+msgid "Accumulated"
+msgstr "დაგროვილი"
+
+msgid "Put aside"
+msgstr "გადადე"
+
+msgid "January"
+msgstr "იანვარი"
+
+msgid "February"
+msgstr "თებერვალი"
+
+msgid "March"
+msgstr "მარტი"
+
+msgid "April"
+msgstr "აპრილი"
+
+msgid "May"
+msgstr "მაისი"
+
+msgid "June"
+msgstr "ივნისი"
+
+msgid "July"
+msgstr "ივლისი"
+
+msgid "August"
+msgstr "აგვისტო"
+
+msgid "September"
+msgstr "სექტემბერი"
+
+msgid "October"
+msgstr "ოქტომბერი"
+
+msgid "November"
+msgstr "ნოემბერი"
+
+msgid "December"
+msgstr "დეკემბერი"
+
+msgid "Expenses projected/actual"
+msgstr "ხარჯები დაპროექტებული / ფაქტობრივი"
+
+msgid "Net Income projected/actual"
+msgstr "წმინდა მოგება დაპროექტებული / ფაქტობრივი"
+
+msgid "New budget"
+msgstr "ახალი ბიუჯეტი"
+
+msgid "Revenue and Expenses Chart"
+msgstr "შემოსავლების და ხარჯები გრაფიკი"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "ბიუჯეტი იგივე წყვილი ანგარიში და გარეშე უკვე არსებობს"
+
+msgid "Budget is empty"
+msgstr "ბიუჯეტი ცარიელია"
+
+msgid "Budget"
+msgstr "ბიუჯეტი"
+
+msgid "plan"
+msgstr "გეგმა"
+
+msgid "fact"
+msgstr "ის ფაქტი,"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "აჩვენეთ მეტი"
+
+msgid "Cancel"
+msgstr "გაუქმება"
+
+msgid "d"
+msgstr "დ"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "ჩემი გაყიდვების"
+
+msgid "Time spent"
+msgstr "გატარებული დრო"
+
+msgid "Total time spent"
+msgstr "სულ გატარებული დრო"
+
+msgid "Earnings per hour"
+msgstr "მოგება საათში"
+
+msgid "Total earnings"
+msgstr "სულ მოგება"
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Phone call"
+msgstr "სატელეფონო ზარი"
+
+msgid "Telephone calls"
+msgstr "სატელეფონო ზარები"
+
+msgid "Send email"
+msgstr "ელფოსტის გაგზავნა"
+
+msgid "Emails"
+msgstr "ელ"
+
+msgid "Meeting"
+msgstr "შეხვედრა"
+
+msgid "Meetings"
+msgstr "შეხვედრები"
+
+msgid "All events"
+msgstr "ყველა მოვლენა"
+
+msgid "Task"
+msgstr "სამუშაო"
+
+msgid "Event"
+msgstr "ღონისძიებები"
+
+msgid "Events"
+msgstr "თარიღები"
+
+msgid "Time"
+msgstr "დრო"
+
+msgid "Events statistics"
+msgstr "თარიღები სტატისტიკა"
+
+msgid "days"
+msgstr "დღის"
+
+msgid "hours"
+msgstr "საათი"
+
+msgid "minutes"
+msgstr "-ე"
+
+msgid "Income & expense"
+msgstr "შემოსავალი და ხარჯი"
+
+msgid "Show chart"
+msgstr "შოუ გრაფიკი"
+
+msgid "Hide chart"
+msgstr "დამალე გრაფიკი"
+
+msgid "Add event"
+msgstr "თარიღის დამატება"
+
+msgid "Add financial data"
+msgstr "რჩეულებში ფინანსური მონაცემები"
+
+msgid "Select contractor"
+msgstr "აირჩიეთ კონტრაქტორი"
+
+msgid "Net Income"
+msgstr "წმინდა მოგება"
+
+msgid "Revenue"
+msgstr "შემოსავლების"
+
+msgid "Taxes"
+msgstr "გადასახადები"
+
+msgid "Amount planned"
+msgstr "სახეობა დაგეგმილი"
+
+msgid "Amount"
+msgstr "სახეობა"
+
+msgid "Period"
+msgstr "პერიოდი"
+
+msgid "Are you sure to close this task?"
+msgstr "დარწმუნებული ხართ, რომ დახუროს ეს ამოცანა?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "ყველა ჯგუფი"
+
+msgid "added from task"
+msgstr "დამატებული ამოცანა"
+
+msgid "Monthly repeat"
+msgstr "ყოველთვიური განმეორებითი"
+
+msgid "Select category"
+msgstr "აირჩიეთ კატეგორია"
+
+msgid "Event type"
+msgstr "ღონისძიების სახეობა"
+
+msgid "Margin"
+msgstr "Margin"
+
+msgid "Use finance project"
+msgstr "გამოიყენეთ ფინანსთა პროექტი"
+
+msgid "New investment project"
+msgstr "ახალი საინვესტიციო პროექტი"
+
+msgid "Investment project settings"
+msgstr "პროექტის საინვესტიციო პარამეტრები"
+
+msgid "Picture, for the announcement project"
+msgstr "სურათი, განცხადების პროექტი"
+
+msgid "Announcement project"
+msgstr "განცხადების პროექტი"
+
+msgid "Video"
+msgstr "ვიდეო"
+
+msgid "Photos or videos gallery"
+msgstr "ფოტო და ვიდეო გალერეა"
+
+msgid "required amount"
+msgstr "საჭირო თანხა"
+
+msgid "Project duration (60 days maximum)"
+msgstr "პროექტის ხანგრძლივობა (60 დღე მაქსიმალური)"
+
+msgid "Project duration"
+msgstr "პროექტის ხანგრძლივობა"
+
+msgid "Add reward"
+msgstr "რჩეულებში ჯილდო"
+
+msgid "Delivery date"
+msgstr "მიწოდების თარიღი"
+
+msgid "Payment systems"
+msgstr "გადახდის სისტემები"
+
+msgid "Terms of service"
+msgstr "მომსახურების პირობები"
+
+msgid "Agreement"
+msgstr "შეთანხმება"
+
+msgid "Payment"
+msgstr "გადახდა"
+
+msgid "My projects"
+msgstr "ჩემი პროექტები"
+
+msgid "Search result"
+msgstr "ძიების შედეგი"
+
+msgid "Nothing not found"
+msgstr "არაფერი არ არის ნაპოვნი"
+
+msgid "The project has no sponsors"
+msgstr "პროექტის სპონსორები"
+
+msgid "Design"
+msgstr "დიზაინი"
+
+msgid "Food"
+msgstr "სურსათის"
+
+msgid "Journalism"
+msgstr "ჟურნალისტიკა"
+
+msgid "Games"
+msgstr "თამაშები"
+
+msgid "Art"
+msgstr "ხელოვნება"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "მუსიკა"
+
+msgid "Handicrafts"
+msgstr "ხელნაკეთობების"
+
+msgid "Publishing"
+msgstr "გამომცემლობა"
+
+msgid "Theater"
+msgstr "თეატრი"
+
+msgid "Technology"
+msgstr "ტექნიკა"
+
+msgid "Film/Video"
+msgstr "ფილმი / ვიდეო"
+
+msgid "Photo"
+msgstr "სურათი"
+
+msgid "Dance"
+msgstr "Dance"
+
+msgid "Invalid youtube video"
+msgstr "არასწორი youtube video"
+
+msgid "is required"
+msgstr "არ არის საჭირო"
+
+msgid "User"
+msgstr "მომხმარებელი"
+
+msgid "Date"
+msgstr "თარიღი"
+
+msgid "Collected"
+msgstr "კრებული"
+
+msgid "Choose period"
+msgstr "არჩევა ვადა"
+
+msgid "Choose region"
+msgstr "აირჩიეთ რეგიონი"
+
+msgid "Country"
+msgstr "ქვეყანა"
+
+msgid "Today"
+msgstr "დღეს"
+
+msgid "Week"
+msgstr "კვირა"
+
+msgid "Month"
+msgstr "თვე"
+
+msgid "Year"
+msgstr "წელი"
+
+msgid "Free registration"
+msgstr "უფასო რეგისტრაცია"
+
+msgid "Join"
+msgstr "რეგ"
+
+msgid "Log in using"
+msgstr "შესვლა გამოყენებით"
+
+msgid "Vacancies"
+msgstr "დასაქმების შესაძლებლობები"
+
+msgid "About Us"
+msgstr "ჩვენს შესახებ"
+
+msgid "You will need email to log in"
+msgstr "თქვენ უნდა ელ შესვლა"
+
+msgid "A combination of 6 digits and characters"
+msgstr "კომბინაცია 6 ციფრები და სიმბოლოები"
+
+msgid "Search users, groups, articles..."
+msgstr "ძებნა წევრებს, ჯგუფები, სტატიები ..."
+
+msgid "Cloud"
+msgstr "Cloud"
+
+msgid "Sunday"
+msgstr "კვირა"
+
+msgid "Monday"
+msgstr "ორშაბათი"
+
+msgid "Tuesday"
+msgstr "სამშაბათი"
+
+msgid "Wednesday"
+msgstr "ოთხშაბათი"
+
+msgid "Thursday"
+msgstr "ხუთშაბათი"
+
+msgid "Friday"
+msgstr "პარასკევი"
+
+msgid "Saturday"
+msgstr "შაბათი"
+
+msgid "Edit"
+msgstr "რედაქტირება"
+
+msgid "Create group"
+msgstr "ჯგუფის შექმნა"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "დარწმუნებული ხართ სურს დატოვოს ეს გვერდი ?"
+
+msgid "More"
+msgstr "სხვა"
+
+msgid "Less"
+msgstr "ნაკლებია,"
+
+msgid "Pending"
+msgstr "მოლოდინში"
+
+msgid "Approved"
+msgstr "დამტკიცებულია"
+
+msgid "Rejected"
+msgstr "უარყოფილი"
+
+msgid "Subprojects"
+msgstr "ქვეპროექტების"
+
+msgid "Group edit"
+msgstr "ჯგუფი რედაქტირება"
+
+msgid "Startup"
+msgstr "Startup"
+
+msgid "Tattoo"
+msgstr "tattoo"
+
+msgid "Health"
+msgstr "ჯანმრთელობა"
+
+msgid "Weapon"
+msgstr "Weapon"
+
+msgid "Astronomy"
+msgstr "ასტრონომია"
+
+msgid "All articles"
+msgstr "ყველა სტატია"
+
+msgid "Article editor"
+msgstr "მუხლი რედაქტორი"
+
+msgid "Document editor"
+msgstr "დოკუმენტის რედაქტორი"
+
+msgid "Apply changes"
+msgstr "მიმართვა ცვლილებები"
+
+msgid "Save changes?"
+msgstr "ცვლილებების შენახვა ?"
+
+msgid "published an article"
+msgstr "გამოაქვეყნა სტატია"
+
+msgid "Users"
+msgstr "მომხმარებელი"
+
+msgid "Shared With Me"
+msgstr "გაიზიარა ჩემთან ერთად"
+
+msgid "share"
+msgstr "წილი"
+
+msgid "Select Group Responsible"
+msgstr "აირჩიეთ ჯგუფი პასუხისმგებელი"
+
+msgid "Create folder"
+msgstr "შექმენით ფოლდერი"
+
+msgid "Title must be at least 3 characters"
+msgstr "სათაური უნდა იყოს მინიმუმ 3 სიმბოლო"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "უფასო 10 GB , ფინანსური მენეჯერის, ინვესტირებას მოდული, და ბევრი სხვა თავისუფალი და სამუდამოდ"
+
+msgid "Best regards"
+msgstr "საუკეთესო სურვილებით"
+
+msgid "Updates in last 12 hours:"
+msgstr "ჩემ ბოლო 12 საათი :"
+
+msgid "expense"
+msgstr "ხარჯი"
+
+msgid "Commentary on the event:"
+msgstr "კომენტარი ღონისძიება:"
+
+msgid "Event place"
+msgstr "ღონისძიების ადგილი"
+
+msgid "Project was updated"
+msgstr "პროექტის განახლება"
+
+msgid "Project was created"
+msgstr "პროექტი შეიქმნა"
+
+msgid "Project was closed"
+msgstr "პროექტი დაიხურა"
+
+msgid "account"
+msgstr "ანგარიშის"
+
+msgid "removed task"
+msgstr "მოხსნა ამოცანა"
+
+msgid "removed subproject"
+msgstr "მოხსნა ქვეპროექტის"
+
+msgid "Title can not be empty"
+msgstr "სათაური არ უნდა იყოს ცარიელი"
+
+msgid "Do not select the type of event"
+msgstr "ნუ აირჩიეთ ტიპის ღონისძიება"
+
+msgid "Error while saving comment"
+msgstr "შეცდომა გადარჩენის კომენტარის დამატება"
+
+msgid "Save error: access denied"
+msgstr "გადავარჩინოთ შეცდომა: წვდომა აკრძალულია"
+
+msgid "Remains"
+msgstr "ნარჩენები"
+
+msgid "Time spent, h."
+msgstr "გატარებული დრო , სთ."
+
+msgid "Emails"
+msgstr "ელ"
+
+msgid "Meetings"
+msgstr "შეხვედრები"
+
+msgid "All users"
+msgstr "ყველა მომხმარებელი"
+
+msgid "Category"
+msgstr "კატეგორია"
+
+msgid "Finance project"
+msgstr "ფინანსთა პროექტი"
+
+msgid "Investment project"
+msgstr "პროექტის საინვესტიციო"
+
+msgid "Nature"
+msgstr "ბუნება"
+
+msgid "Data is empty"
+msgstr "მონაცემთა ცარიელია"
+
+msgid "Visitors"
+msgstr "სტუმრები"
+
+msgid "My profile"
+msgstr "ჩემი პროფაილი"
+
+msgid "Sponsors"
+msgstr "პარტნიორები"
+
+msgid "Prior to completion"
+msgstr "ადრე დასრულების"
+
+msgid "Select"
+msgstr "აირჩიეთ"
+
+msgid "My groups"
+msgstr "ჩემი ჯგუფები"
+
+msgid "The invitation has been sent successfully"
+msgstr "მოწვევა წარმატებით გაიგზავნა"
+
+msgid "Username has already been invited to this project"
+msgstr "ნიკი უკვე მიწვეული ამ პროექტის"
+
+msgid "The user is the creator of the project"
+msgstr "მომხმარებელი შემოქმედი პროექტი"
+
+msgid "Provide full access"
+msgstr "გთავაზობთ სრულ ხელმისაწვდომობას"
+
+msgid "Select elements to provide access"
+msgstr "აირჩიეთ ელემენტები , რათა უზრუნველყოს"
+
+msgid "Select all"
+msgstr "მონიშნეთ ყველა"
+
+msgid "User E-mail"
+msgstr "მომხმარებელი E-mail"
+
+msgid "Click on the field to select a category"
+msgstr "დააკლიკეთ ველი აირჩიეთ კატეგორია"
+
+msgid "Invitation was deleted"
+msgstr "მოწვევა წაშლილია"
+
+msgid "Permission denied"
+msgstr "ნებართვა უარყო"
+
+msgid "Printed"
+msgstr "ნაბეჭდი"
+
+msgid "Incorrect Contractor email"
+msgstr "არასწორი კონტრაქტორი ელ"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "გსურთ დაამატოთ პროექტის დასაფინანსებლად მენეჯერი?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "იმისათვის, რომ შეავსოთ სარეგისტრაციო პროცესს გთხოვთ შეავსოთ ქვემოთ თქვენი ცოდნა"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "ფოსტის შემდგომი ინსტრუქციები გაიგზავნა თქვენი ელექტრონული ფოსტის მისამართი"
+
+msgid "Submit"
+msgstr "წარადგინეთ"
+
+msgid "Cars"
+msgstr "ავტო"
+
+msgid "Science"
+msgstr "მეცნიერება"
+
+msgid "Donation"
+msgstr "შემოწირულობა"
+
+msgid "Interests"
+msgstr "ინტერესები"
+
+msgid "Driver"
+msgstr "მძღოლი"
+
+msgid "Sportsman"
+msgstr "სპორტსმენი"
+
+msgid "Businessman"
+msgstr "ბიზნესმენი"
+
+msgid "Accountant"
+msgstr "ბუღალტერი"
+
+msgid "Engineer"
+msgstr "ინჟინერი"
+
+msgid "Soldier"
+msgstr "ჯარისკაცი"
+
+msgid "Next"
+msgstr "შემდეგი"
+
+msgid "Hide group"
+msgstr "დამალე ჯგუფი"
+
+msgid "groups created"
+msgstr "ჯგუფების შექმნა"
+
+msgid "articles written"
+msgstr "დაწერილი სტატიები"
+
+msgid "These groups may be interesting for you"
+msgstr "ეს ჯგუფები შეიძლება იყოს საინტერესო თქვენთვის"
+
+msgid "About Group"
+msgstr "ჯგუფის შესახებ"
+
+msgid "view(s)"
+msgstr "კალენდარი (s)"
+
+msgid "Favorite users"
+msgstr "საყვარელი მომხმარებლები"
+
+msgid "No accounts"
+msgstr "არარის ანგარიშები"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook ავტორიზაციის ვერ მოხერხდა."
+
+msgid "Authorization Required"
+msgstr "ავტორიზაციას ითხოვს"
+
+msgid "You have to make a call:"
+msgstr "თქვენ უნდა მიიღოს ზარი :"
+
+msgid "You have to send an email:"
+msgstr "თქვენ უნდა გამოგვიგზავნოთ ელ-ფოსტა:"
+
+msgid "You have a meetup:"
+msgstr "თქვენ გაქვთ meetup :"
+
+msgid "You event :"
+msgstr "თქვენ ღონისძიება:"
+
+msgid "Participants:"
+msgstr "მონაწილეები:"
+
+msgid "Search"
+msgstr "ძებნა"
+
+msgid "News"
+msgstr "ახალი ამბები"
+
+msgid "Investments"
+msgstr "ინვესტიციები"
+
+msgid "Back to Cloud"
+msgstr "თავში Cloud"
+
+msgid "Documents"
+msgstr "დოკუმენტები"
+
+msgid "Planet"
+msgstr "Planet"
+
+msgid "Group url"
+msgstr "ჯგუფი url"
+
+msgid "Profile url"
+msgstr "მომხმარებლის url"
+
+msgid "Already taken"
+msgstr "დაკავებულია"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "მინიმუმ 1 წერილი და 3 chars სიგრძე აუცილებელია"
+
+msgid "Digit can not be the first character"
+msgstr "Digit არ შეიძლება იყოს პირველი ხასიათი"
+
+msgid "Enter valid email address"
+msgstr "შეიყვანეთ მოქმედი ელექტრონული ფოსტის მისამართი"
+
+msgid "Enter your skills"
+msgstr "შეიყვანეთ თქვენი ცოდნა"
+
+msgid "Enter your first name"
+msgstr "შეიყვანეთ თქვენი სახელი"
+
+msgid "Enter your last name"
+msgstr "შეიყვანეთ თქვენი გვარი"
+
+msgid "Enter your first name and last name"
+msgstr "შეიყვანეთ თქვენი სახელი და გვარი"
+
+msgid "Your first name?"
+msgstr "თქვენი სახელი?"
+
+msgid "Your last name?"
+msgstr "შენი გვარი?"
+
+msgid "What are your proficiencies?"
+msgstr "რა proficiencies ?"
+
+msgid "Select country"
+msgstr "აირჩიე ქვეყანა"
+
+msgid "Select user"
+msgstr "აირჩიეთ შესახებ"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "შეასრულოს თქვენი ოცნება ! შექმნა და ითანამშრომლოს ."
+
+msgid "date moved from"
+msgstr "თარიღი გადაინაცვლა"
+
+msgid "work"
+msgstr "მუშაობა"
+
+msgid "Conference"
+msgstr "კონფერენცია"
+
+msgid "personal"
+msgstr "პირადი"
+
+msgid "Holiday"
+msgstr "დასვენება"
+
+msgid "Past"
+msgstr "Past"
+
+msgid "Future"
+msgstr "მომავალი"
+
+msgid "Purchase"
+msgstr "ნასყიდობის"
+
+msgid "Personal events"
+msgstr "პირადი მოვლენები"
+
+msgid "Conferences"
+msgstr "შეხვედრა"
+
+msgid "Holidays"
+msgstr "დღესასწაულები"
+
+msgid "Sport events"
+msgstr "სპორტული ღონისძიებები"
+
+msgid "Tasks"
+msgstr "ამოცანები"
+
+msgid "Other events"
+msgstr "სხვა ღონისძიებები"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "გადავადებული"
+
+msgid "Time management"
+msgstr "დროის მენეჯმენტი"
+
+msgid "Delayed events"
+msgstr "გადავადებული მოვლენები"
+
+msgid "Delayed"
+msgstr "გადავადებული"
+
+msgid "Bind to"
+msgstr "მიანიჭეთ"
+
+msgid "answered your comment to"
+msgstr "მე ვთქვი (ა) კომენტარები სტატიის"
+
+msgid "commented your article"
+msgstr "მე კომენტარი თქვენი სტატია"
+
+msgid "You\'ve answered on comment to"
+msgstr "თქვენ გამოეხმაურა სტატიაზე კომენტარის"
+
+msgid "You\'ve commented an article"
+msgstr "თქვენ გამოეხმაურა სტატია"
+
+msgid "Terms and Conditions"
+msgstr "წესები და პირობები"
+
+msgid "Privacy Policy"
+msgstr "კონფიდენციალურობის პოლიტიკა"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "დაწკაპვით \"იწერთ\" თანახმა ხართ თუ არა ჩვენი და აღიარებთ, რომ თქვენ წაიკითხოთ ჩვენს"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "შეუერთდი იმ საზოგადოებას, შემოქმედებითი ადამიანი მთელ მსოფლიოში! თქვენ მიიღებთ: ინვესტირება თქვენი იდეები, შესაძლებლობა შევიკრიბოთ მისი გუნდი, სამუშაო ჯგუფი, ფინანსური მენეჯერი, მართვის დროს, 2 გბ შენახვისა და სხვა. და ეს არის უფასო!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "უკაცრავად, მაგრამ გვერდზე თქვენ ეძებთ არ არსებობს. თუ ფიქრობთ, რომ დამნაშავე დაგვიკავშირდით"
+
+msgid "Return"
+msgstr "დაბრუნება"
+
+msgid "COMMON"
+msgstr "სულ"
+
+msgid "My events"
+msgstr "ჩემი თარიღები"
+
+msgid "Job opening"
+msgstr "ახალი ვაკანსიის"
+
+msgid "Employment"
+msgstr "გაცნობის დასაქმების"
+
+msgid "Working hours"
+msgstr "სამუშაო საათები"
+
+msgid "City"
+msgstr "ქალაქი"
+
+msgid "Wages"
+msgstr "Salary"
+
+msgid "Currency"
+msgstr "ვალუტა"
+
+msgid "Experience"
+msgstr "გამოცდილება"
+
+msgid "Full-time"
+msgstr "სრული დასაქმების"
+
+msgid "Part-time"
+msgstr "ნახევარ განაკვეთზე"
+
+msgid "Project employment"
+msgstr "პროექტის / დროებითი"
+
+msgid "Volunteer"
+msgstr "Volunteering"
+
+msgid "Internship"
+msgstr "სტაჟირება"
+
+msgid "Full day"
+msgstr "სრული"
+
+msgid "Shifts"
+msgstr "გამოცვლა გრაფიკი"
+
+msgid "Flexible shifts"
+msgstr "მოქნილი გრაფიკი"
+
+msgid "Remote work"
+msgstr "დისტანციური მუშაობა"
+
+msgid "Rotational basis"
+msgstr "Shift მეთოდი"
+
+msgid "Do you really want to delete this comment?"
+msgstr "დარწმუნებული ხართ, რომ გსურთ წაშალოთ კომენტარი?"
+
+msgid "Do you really want to delete this task?"
+msgstr "დარწმუნებული ხართ, რომ გსურთ წაშალოთ ეს ამოცანა?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "დარწმუნებული ხართ, რომ გსურთ წაშალოთ ეს sub-პროექტი?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "თქვენ არ მიმართა კომპანია პოზიცია. გთხოვთ, დარწმუნდით, რომ"
+
+msgid "Your request to for job has been rejected"
+msgstr "თქვენი მოთხოვნა კომპანია პოზიცია უკვე უარყო"
+
+msgid "Your request to for job has been accepted"
+msgstr "თქვენი მოთხოვნა კომპანია პოზიცია იქნა მიღებული"
+
+msgid "profile is completed"
+msgstr "თქვენი პროფილი სავსეა"
+
+msgid "Use account"
+msgstr "გამოიყენეთ ანგარიში"
+
+msgid "$/hr"
+msgstr "$ / საათში"
+
+msgid "Finance category"
+msgstr "ფინანსური მიხედვით"
+
+msgid "No projects"
+msgstr "არარის პროექტები"
+
+msgid "Bind to finances"
+msgstr "მიანიჭეთ ფინანსური პროექტი"
+
+msgid "Preview"
+msgstr "ნახვა"
+
+msgid "Download"
+msgstr "გადმოწერა"
+
+msgid "Save to my cloud"
+msgstr "დააკოპირეთ საცავი"
+
+msgid "File successfully saved to your cloud"
+msgstr "ფაილი წარმატებით ინახება თქვენი საცავი"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "შენახვა ფაილი თქვენს საცავი?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "აირჩიეთ კატეგორია მუხლი"
+
+msgid "Type something"
+msgstr "დაწერეთ რამე"
+
+msgid "Founded users"
+msgstr "ნაპოვნია მომხმარებლები"
+
+msgid "Founded articles"
+msgstr "ნაპოვნია სტატია"
+
+msgid "Founded groups"
+msgstr "დაარსდა ჯგუფი"
+
+msgid "What are your skills?"
+msgstr "რა არის თქვენი ცოდნა?"
+
+msgid "Select at least 2 interests"
+msgstr "აირჩიეთ მინიმუმ 2 ინტერესი"
+
+msgid "Need more interests"
+msgstr "არ არის საკმარისი ინტერესი შერჩეული"
+
+msgid "What are you interesting in?"
+msgstr "რა გაინტერესებთ?"
+
+msgid "You have no dialogs"
+msgstr "თქვენ არ გაქვთ დიალოგები"
+
+msgid "Usage Stats"
+msgstr "სახელმწიფო"
+
+msgid "Founded files"
+msgstr "ფაილები ნაპოვნია"
+
+msgid "Big tiles"
+msgstr "დიდი ფილები"
+
+msgid "Small tiles"
+msgstr "მცირე ფილები"
+
+msgid "Table view"
+msgstr "მაგიდის კალენდარი"
+
+msgid "Root folder"
+msgstr "Root დირექტორია"
+
+msgid "My files"
+msgstr "ჩემი ფაილები"
+
+msgid "Save as draft"
+msgstr "შენახვა როგორც პროექტი"
+
+msgid "Buy More Space"
+msgstr "მეტი სივრცე"
+
+msgid "Buy"
+msgstr "ყიდვა"
+
+msgid "You have been invited to group as"
+msgstr "თქვენ მიწვეული ჯგუფი, როგორც"
+
+msgid "User wants to join your group"
+msgstr "მომხმარებელს სურს შეუერთდება თქვენი ჯგუფი"
+
+msgid "Section is coming soon!"
+msgstr "განყოფილება მშენებარე!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "ნახვები ბოლო 24 საათის განმავლობაში:"
+
+msgid "Task was updated"
+msgstr "ამოცანა უკვე განახლება"
+
+msgid "Task was closed"
+msgstr "გამოწვევა უკვე დაიხურა"
+
+msgid "Task was created"
+msgstr "ამოცანა შეიქმნა"
+
+msgid "Current balance"
+msgstr "აქტუალური ბალანსი"
+
+msgid "Add funds"
+msgstr "რჩეულებში"
+
+msgid "Pay"
+msgstr "გადახდა"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "თქვენ არ აღემატებოდა ნომერი შესვლის მცდელობა. თქვენ დაბლოკილია 15 წუთი"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "გთხოვთ დაადასტუროთ თქვენი e-mail. გაგზავნილი წერილი, თქვენ მიერ mail."
+
+msgid "Resend confirmation email"
+msgstr "პირადი დადასტურება ერთხელ"
+
+msgid "Disk 2Gb Monthly"
+msgstr "დისკი 2 GB თვეში"
+
+msgid "Disk 10Gb Monthly"
+msgstr "გამგზავრება 10 GB წელიწადში"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB ყოველწლიურად"
+
+msgid "Disk 1Tb Monthly"
+msgstr "დისკის 1TB ყოველთვიური"
+
+msgid "Disk 1Tb Yearly"
+msgstr "გამგზავრება 1 TB ყოველწლიურად"
+
+msgid "Project members monthly"
+msgstr "პროექტის მონაწილეებს ყოველთვიურად"
+
+msgid "Project members yearly"
+msgstr "პროექტის მონაწილეები ყოველწლიურად"
+
+msgid "Member(s) yearly"
+msgstr "წევრი (s) წელიწადში"
+
+msgid "Member(s) monthly"
+msgstr "წევრი (s) ყოველთვიურად"
+
+msgid "Authorized"
+msgstr "ავტორიზებული"
+
+msgid "Authorization expired"
+msgstr "ავტორიზაცია ამოიწურა"
+
+msgid "Processor declined"
+msgstr "უარყოფილი დამუშავების სისტემის"
+
+msgid "Gateway rejected"
+msgstr "უარყოფილი გადახდის კარიბჭე"
+
+msgid "Failed"
+msgstr "შეცდომა"
+
+msgid "Voided"
+msgstr "გაუქმებას"
+
+msgid "Submitted for settlement"
+msgstr "გაგზავნილი ჩარიცხვა"
+
+msgid "Settlement declined"
+msgstr "ჩარიცხვის უკვე უარყო"
+
+msgid "Settlement pending"
+msgstr "მოლოდინში ჩარიცხვის"
+
+msgid "Verified"
+msgstr "შემოწმებულები"
+
+msgid "Pending"
+msgstr "მოლოდინში"
+
+msgid "Active"
+msgstr "აქტიურია"
+
+msgid "Past Due"
+msgstr "ამოიწურა"
+
+msgid "Expired"
+msgstr "დასრულდა"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "ინდოეთი"
+
+msgid "Malaysia"
+msgstr "მალაიზია"
+
+msgid "Thailand"
+msgstr "ტაილანდი"
+
+msgid "South Korea"
+msgstr "სამხრეთ კორეა"
+
+msgid "Kazakhstan"
+msgstr "ყაზახეთის"
+
+msgid "Israel"
+msgstr "ისრაელის"
+
+msgid "Ukraine"
+msgstr "უკრაინა"
+
+msgid "Belarus"
+msgstr "ბელორუსია"
+
+msgid "Bulgaria"
+msgstr "ბულგარეთი"
+
+msgid "Turkey"
+msgstr "თურქეთში"
+
+msgid "Armenia"
+msgstr "სომხეთში"
+
+msgid "Serbia"
+msgstr "სერბეთი"
+
+msgid "Austria"
+msgstr "ავსტრიაში"
+
+msgid "Poland"
+msgstr "პოლონეთი"
+
+msgid "Germany"
+msgstr "გერმანია"
+
+msgid "Italy"
+msgstr "იტალიაში"
+
+msgid "Netherlands"
+msgstr "ნიდერლანდები"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "United Kingdom"
+msgstr "დიდი ბრიტანეთი"
+
+msgid "Portugal"
+msgstr "პორტუგალიის"
+
+msgid "Norway"
+msgstr "ნორვეგია"
+
+msgid "United States"
+msgstr "შეერთებული შტატები"
+
+msgid "Canada"
+msgstr "კანადაში"
+
+msgid "Brazil"
+msgstr "ბრაზილია"
+
+msgid "Saudi Arabia"
+msgstr "საუდის არაბეთი"
+
+msgid "Canada"
+msgstr "ეგვიპტეში"
+
+msgid "Russia"
+msgstr "რუსეთი"
+
+msgid "Hong Kong"
+msgstr "ჰონკონგი"
+
+msgid "There was no any transactions yet."
+msgstr "ამ ეტაპზე, არ იყო ერთი გარიგება"
+
+msgid "Fulfill your dream"
+msgstr "შეასრულოს თქვენი ოცნება"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "შემოუერთდით ჩვენს საზოგადოებას შემოქმედებითი პირების მთელი მსოფლიოს მასშტაბით."
+
+msgid "Create and Collaborate"
+msgstr "შექმნა და ითანამშრომლოს"
+
+msgid "Fulfill your dream"
+msgstr "შეასრულოს ოცნება"
+
+msgid "or"
+msgstr "ან"
+
+msgid "Our mission:"
+msgstr "ჩვენი მისია:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "გაერთიანება შემოქმედებითი და აქტიური ადამიანი განახორციელოს იდეები მარტივი და მოთხოვნა წარმოუდგენელი და ფანტასტიკური, რომელიც შეიძლება განსაზღვრავენ ჩვენი მომავალი."
+
+msgid "What is Konstruktor?"
+msgstr "რა არის Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - არის ნაწილი ჩვენი რეალური ცხოვრება, რომელიც მნიშვნელოვნად ხელს უწყობს და აადვილებს"
+
+msgid "*business processes"
+msgstr "* ბიზნეს პროცესების"
+
+msgid "*materialization of creative ideas"
+msgstr "* მატერიალიზაცია შემოქმედებითი იდეები"
+
+msgid "*constructive cooperation"
+msgstr "* კონსტრუქციული თანამშრომლობა"
+
+msgid "Make your dream!"
+msgstr "გაახარეთ თქვენი ოცნება!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "აღმასრულებელი დირექტორი"
+
+msgid "Yuriy Chekalenko"
+msgstr "იური Chekalenko"
+
+msgid "Special Advisor"
+msgstr "სპეციალური მრჩეველი"
+
+msgid "Yaroslav Eroshenko"
+msgstr "იაროსლავ Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "მენეჯერი, პროგრამული უზრუნველყოფის დამუშავება"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "სვეტლანა Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "უფროსი იურისტი"
+
+msgid "Yuriy Himka"
+msgstr "იური himka"
+
+msgid "Designer"
+msgstr "დიზაინერი"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "დაწკაპვით \"შემდეგი\" ღილაკს, თქვენ მიღების და შეთანხმების ჩვენი ვადები და პირობები, და თქვენ აღიარებით, რომ თქვენ წაიკითხეთ ჩვენი კონფიდენციალურობის პოლიტიკა."
+
+msgid "Incorrect login or password."
+msgstr "არასწორი შესვლა ან პაროლი."
+
+msgid "Password must be at least 6 characters"
+msgstr "პაროლი უნდა იყოს მინიმუმ 6 სიმბოლო"
+
+msgid "January"
+msgstr "იანვარი"
+
+msgid "February"
+msgstr "თებერვალი"
+
+msgid "March"
+msgstr "მარტი"
+
+msgid "April"
+msgstr "აპრილი"
+
+msgid "May"
+msgstr "მაისი"
+
+msgid "June"
+msgstr "ივნისი"
+
+msgid "July"
+msgstr "ივლისი"
+
+msgid "August"
+msgstr "აგვისტო"
+
+msgid "September"
+msgstr "სექტემბერი"
+
+msgid "October"
+msgstr "ოქტომბერი"
+
+msgid "November"
+msgstr "ნოემბერი"
+
+msgid "December"
+msgstr "დეკემბერი"
+
+msgid "Chat"
+msgstr "ჩატი"
+
+msgid "Files"
+msgstr "ფაილები"
+
+msgid "Statistic"
+msgstr "ჩატში"
+
+msgid "Support"
+msgstr "მხარდაჭერა"
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "ბელორუსია"
+
+msgid "Marketing specialist"
+msgstr "მარკეტინგის სპეციალისტი"
+
+msgid "Administrator"
+msgstr "ადმინისტრატორი"
+
+msgid "Shared with me"
+msgstr "გაიზიარა ჩემთან ერთად"
+
+msgid "File Sharing"
+msgstr "ფაილი გაზიარება"
+
+msgid "Provide access by link"
+msgstr "ხელმისაწვდომობის უზრუნველყოფა მიერ ბმული"
+
+msgid "Provide Individual access"
+msgstr "გთავაზობთ ინდივიდუალური"
+
+msgid "Provide edit access"
+msgstr "გთავაზობთ რედაქტირება ხელმისაწვდომობა"
+
+msgid "Share"
+msgstr "გაზიარება"
+
+msgid "Files will be available only for selected users"
+msgstr "ფაილი ხელმისაწვდომი იქნება მხოლოდ შერჩეულ მომხმარებლები"
+
+msgid "With this link everyone can access to the files"
+msgstr "ამ აკავშირებს ყველას შეგიძლიათ თქვათ ფაილი"
+
+msgid "Search users, groups, articles..."
+msgstr "ძებნა წევრებს, ჯგუფები, სტატიები ..."
+
+msgid "My Group"
+msgstr "ჩემი ჯგუფი"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "ჩვენ"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "სუ"
+
+msgid "The file is not selected"
+msgstr "ფაილი არ არის არჩეული"
+
+msgid "Set aside"
+msgstr "გათვალისწინებულია"
+
+msgid "Event time"
+msgstr "თარიღის დრო"
+
+msgid "Work"
+msgstr "სამუშაო"
+
+msgid "Personal"
+msgstr "პირადი"
+
+msgid "Time spent for work:"
+msgstr "გატარებული დრო მუშაობა:"
+
+msgid "Personal time spent:"
+msgstr "პირადი გატარებული დრო:"
+
+msgid "Present"
+msgstr "დღევანდელი"
+
+msgid "Common"
+msgstr "საერთო"
+
+msgid "Sport"
+msgstr "სპორტი"
+
+msgid "Entertainment"
+msgstr "გასართობი"
+
+msgid "Select:"
+msgstr "აირჩიეთ:"
+
+msgid "Invalid username or password."
+msgstr "არასწორი მომხმარებლის სახელი ან პაროლი."
+
+msgid "Try again."
+msgstr "კიდევ სცადე."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "რა გაინტერესებთ?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "აირჩიეთ მინიმუმ 2 უნარები: რჩება 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "აირჩიეთ მინიმუმ 2 უნარები: რჩება 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "აირჩიეთ მინიმუმ 2 უნარები: ნაშთები"
+
+msgid "Active life"
+msgstr "აქტიური ცხოვრება"
+
+msgid "Arts and culture"
+msgstr "ხელოვნება და კულტურა"
+
+msgid "Business"
+msgstr "ბიზნეს"
+
+msgid "Cinema"
+msgstr "კინო"
+
+msgid "Communications"
+msgstr "კომუნიკაციები"
+
+msgid "Construction and repair"
+msgstr "მშენებლობა და რემონტი"
+
+msgid "Cooking"
+msgstr "სამზარეულო"
+
+msgid "Education"
+msgstr "განათლება"
+
+msgid "Electronics"
+msgstr "ელექტრონიკა"
+
+msgid "Finances"
+msgstr "ფინანსები"
+
+msgid "Graphics and design"
+msgstr "გრაფიკა და დიზაინი"
+
+msgid "Health"
+msgstr "ჯანმრთელობა"
+
+msgid "Home and family"
+msgstr "სახლი და ოჯახი"
+
+msgid "Humor"
+msgstr "იუმორი"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "მრეწველობა"
+
+msgid "Insurance"
+msgstr "სადაზღვევო"
+
+msgid "Literature"
+msgstr "ლიტერატურა"
+
+msgid "Mobile communications and internet"
+msgstr "მობილური საკომუნიკაციო და ინტერნეტ"
+
+msgid "News and Media"
+msgstr "სიახლეები და მასმედია"
+
+msgid "Pets"
+msgstr "ცხოველები"
+
+msgid "Products and service"
+msgstr "პროდუქტები და მომსახურება"
+
+msgid "Real Estate"
+msgstr "უძრავი ქონება"
+
+msgid "Religion"
+msgstr "რელიგია"
+
+msgid "Science and techs"
+msgstr "მეცნიერება და techs"
+
+msgid "Security"
+msgstr "უსაფრთხოების"
+
+msgid "Society"
+msgstr "საზოგადოება"
+
+msgid "Television"
+msgstr "ტელევიზია"
+
+msgid "Travel"
+msgstr "მოგზაურობა"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "არგენტინის"
+
+msgid "Australia"
+msgstr "ავსტრალიაში"
+
+msgid "Austria"
+msgstr "ავსტრიაში"
+
+msgid "Belarus"
+msgstr "ბელორუსია"
+
+msgid "Belgium"
+msgstr "ბელგია"
+
+msgid "Brazil"
+msgstr "ბრაზილია"
+
+msgid "Bulgaria"
+msgstr "ბულგარეთი"
+
+msgid "Canada"
+msgstr "კანადაში"
+
+msgid "Chile"
+msgstr "ჩილეში"
+
+msgid "Denmark"
+msgstr "დანია"
+
+msgid "France"
+msgstr "საფრანგეთი"
+
+msgid "Germany"
+msgstr "გერმანია"
+
+msgid "Greece"
+msgstr "საბერძნეთი"
+
+msgid "Hungary"
+msgstr "უნგრეთი"
+
+msgid "Iceland"
+msgstr "ისლანდია"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "Israel"
+msgstr "ისრაელის"
+
+msgid "Italy"
+msgstr "იტალიაში"
+
+msgid "Japan"
+msgstr "იაპონია"
+
+msgid "Mexico"
+msgstr "მექსიკაში"
+
+msgid "Netherlands"
+msgstr "ნიდერლანდები"
+
+msgid "New Zealand"
+msgstr "ახალი ზელანდია"
+
+msgid "Norway"
+msgstr "ნორვეგია"
+
+msgid "Poland"
+msgstr "პოლონეთი"
+
+msgid "Portugal"
+msgstr "პორტუგალიის"
+
+msgid "Russia"
+msgstr "რუსეთი"
+
+msgid "Slovakia"
+msgstr "სლოვაკეთი"
+
+msgid "South Africa"
+msgstr "სამხრეთ აფრიკა"
+
+msgid "South Korea"
+msgstr "სამხრეთ კორეა"
+
+msgid "Spain"
+msgstr "ესპანეთი"
+
+msgid "Sweden"
+msgstr "შვედეთი"
+
+msgid "Switzerland"
+msgstr "შვეიცარიაში"
+
+msgid "Turkey"
+msgstr "თურქეთში"
+
+msgid "Ukraine"
+msgstr "უკრაინა"
+
+msgid "United Arab Emirates"
+msgstr "არაბეთის გაერთიანებულ საემიროებში"
+
+msgid "United Kingdom"
+msgstr "გაერთიანებული სამეფო"
+
+msgid "United States"
+msgstr "შეერთებული შტატები"
+
+msgid "achievements"
+msgstr "მიღწევები"
+
+msgid "Investment management"
+msgstr "საინვესტიციო მენეჯმენტი"
+
+msgid "Select..."
+msgstr "აირჩიეთ ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "ინვესტიციების მართვის"
+
+msgid "Investors list"
+msgstr "ინვესტორები სია"
+
+msgid "My investments"
+msgstr "ჩემი ინვესტიციების"
+
+msgid "Create date"
+msgstr "შექმნის თარიღი"
+
+msgid "Author of the project"
+msgstr "პროექტის ავტორი"
+
+msgid "Date and time"
+msgstr "თარიღი და დრო"
+
+msgid "Status"
+msgstr "სტატუსი"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+msgid "Next"
+msgstr "შემდეგი"
+
+msgid "Apply"
+msgstr "მიმართვა"
+
+msgid "Kazakhstan"
+msgstr "ყაზახეთის"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "ჰონგ კონგი"
+
+msgid "Science"
+msgstr "მეცნიერება"
+
+msgid "Architecture"
+msgstr "არქიტექტურა"
+
+msgid "Photography"
+msgstr "ფოტოგრაფია"
+
+msgid "Designer"
+msgstr "დიზაინერი"
+
+msgid "IT specialist"
+msgstr "IT სპეციალისტი"
+
+msgid "Agronomist"
+msgstr "აგრონომი"
+
+msgid "Architect"
+msgstr "არქიტექტორი"
+
+msgid "Lawyer"
+msgstr "ადვოკატი"
+
+msgid "Writer"
+msgstr "მწერალი"
+
+msgid "Doctor"
+msgstr "დოქტორი"
+
+msgid "Scientist"
+msgstr "მეცნიერი"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "მასწავლებელი"
+
+msgid "Cook"
+msgstr "Cook"
+
+msgid "Artist"
+msgstr "შემსრულებელი"
+
+msgid "Photographer"
+msgstr "ფოტოგრაფი"
+
+msgid "Ecologist"
+msgstr "ეკოლოგი"
+
+msgid "Economist"
+msgstr "ეკონომისტი"
+
+msgid "Logistician"
+msgstr "ლოგისტიკოსი"
+
+msgid "Journalist"
+msgstr "ჟურნალისტი"
+
+msgid "Builder"
+msgstr "აღმაშენებლის"
+
+msgid "These users may be interesting for you"
+msgstr "ეს წევრებს შეიძლება იყოს საინტერესო თქვენთვის"
+
+msgid "These articles may be interesting for you"
+msgstr "ეს სტატია შეიძლება იყოს საინტერესო თქვენთვის"
+
+msgid "You joined this group as Аdministrator"
+msgstr "თქვენ შეუერთდა ამ ჯგუფს, როგორც Аdministrator"
+
+msgid "articles written."
+msgstr "დაწერილი სტატიები."
+
+msgid "groups created."
+msgstr "ჯგუფების შექმნა."
+
+msgid "Creation"
+msgstr "შექმნა"
+
+msgid "Build a dream"
+msgstr "აშენების ოცნება"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "ვრცლად საინტერესო სტატიები - წავიდეთ უფასო რეგისტრაცია"
+

@@ -1,0 +1,2768 @@
+# ไทย translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: ไทย <support@konstruktor.com>\n"
+"Language: ไทย\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "ชื่อผู้ใช้  Chụ̄̀x p̄hū̂ chı̂"
+
+msgid "Invalid username or password, try again"
+msgstr "ชื่อผู้ใช้ หรือรหัสผ่าน ไม่ถูกต้อง ลองใหม่อีกครั้ง"
+
+msgid "Settings"
+msgstr "การตั้งค่า"
+
+msgid "Home"
+msgstr "บ้าน"
+
+msgid "You must log in to access this page"
+msgstr "คุณต้อง เข้าสู่ระบบเพื่อ ใช้งานส่วนนี้"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "เซสชั่น ของคุณ ได้หมดอายุแล้ว กรุณา ลงชื่อ การดำเนินการนี้"
+
+msgid "Save"
+msgstr "บันทึก"
+
+msgid "Head Office"
+msgstr "สำนักงานใหญ่"
+
+msgid "Address"
+msgstr "ที่อยู่"
+
+msgid "Back"
+msgstr "กลับ"
+
+msgid "Apply"
+msgstr "ใช้"
+
+msgid "Upload files…"
+msgstr "อัปโหลดไฟล์ ..."
+
+msgid "Set as main"
+msgstr "ตั้งเป็น หลัก"
+
+msgid "Delete"
+msgstr "ลบ"
+
+msgid "Original image"
+msgstr "ภาพต้นฉบับ"
+
+msgid "Uploaded"
+msgstr "อัปโหลด"
+
+msgid "File name"
+msgstr "ชื่อไฟล์"
+
+msgid "File size"
+msgstr "ขนาดไฟล์"
+
+msgid "Resolution"
+msgstr "ความละเอียด"
+
+msgid "Enlarge"
+msgstr "ขยายใหญ่"
+
+msgid "Links"
+msgstr "ลิงค์"
+
+msgid "Original size"
+msgstr "ขนาดเดิม"
+
+msgid "For editor"
+msgstr "สำหรับ บรรณาธิการ"
+
+msgid "Resize"
+msgstr "ปรับขนาด"
+
+msgid "Width"
+msgstr "ความกว้าง"
+
+msgid "Height"
+msgstr "ความสูง"
+
+msgid "Media URL"
+msgstr "URL สื่อ"
+
+msgid "Add record"
+msgstr "เพิ่มบันทึก"
+
+msgid "Show filter settings"
+msgstr "แสดงการตั้งค่า ตัวกรอง"
+
+msgid "Edit record"
+msgstr "บันทึก แก้ไข"
+
+msgid "Delete record"
+msgstr "ลบ บันทึก"
+
+msgid "Delete checked records"
+msgstr "ลบ บันทึก การตรวจสอบ"
+
+msgid "Dashboard"
+msgstr "หน้าปัด"
+
+msgid "Password"
+msgstr "รหัสผ่าน"
+
+msgid "Remember me"
+msgstr "จำข้อมูลไว้"
+
+msgid "Login"
+msgstr "เข้าสู่ระบบ"
+
+msgid "Clean image cache"
+msgstr "แคช ภาพ ที่สะอาด"
+
+msgid "Processing query..."
+msgstr "แบบสอบถาม ประมวลผล ..."
+
+msgid "CMS Development"
+msgstr "CMS พัฒนา"
+
+msgid "Admin Home Page"
+msgstr "ผู้ดูแลระบบ หน้าแรก"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "โฮมเพจ เปิด Front-end ในแท็บใหม่"
+
+msgid "Go to Site"
+msgstr "ไปที่ เว็บไซต์"
+
+msgid "Log out"
+msgstr "ออกจากระบบ"
+
+msgid "Send"
+msgstr "ส่ง"
+
+msgid "General"
+msgstr "ทั่วไป"
+
+msgid "Title"
+msgstr "ชื่อเรื่อง"
+
+msgid "Teaser"
+msgstr "ทีเซอร์"
+
+msgid "Published"
+msgstr "เผยแพร่"
+
+msgid "Featured"
+msgstr "แนะนำ"
+
+msgid "Active"
+msgstr "กระตือรือร้น"
+
+msgid "Field is mandatory"
+msgstr "สนาม มีผลบังคับใช้"
+
+msgid "Sort Order"
+msgstr "เรียง"
+
+msgid "Upload"
+msgstr "อัปโหลด"
+
+msgid "Loading..."
+msgstr "กำลังโหลด ..."
+
+msgid "Jan"
+msgstr "ม.ค."
+
+msgid "Feb"
+msgstr "กุมภาพันธ์"
+
+msgid "Mar"
+msgstr "มีนาคม"
+
+msgid "Apr"
+msgstr "เมษายน"
+
+msgid "May"
+msgstr "พฤษภาคม"
+
+msgid "Jun"
+msgstr "มิถุนายน"
+
+msgid "Jul"
+msgstr "กรกฎาคม"
+
+msgid "Aug"
+msgstr "สิงหาคม"
+
+msgid "Sep"
+msgstr "กันยายน"
+
+msgid "Oct"
+msgstr "ตุลาคม"
+
+msgid "Nov"
+msgstr "พฤศจิกายน"
+
+msgid "Dec"
+msgstr "ธันวาคม"
+
+msgid "Product already exists in the order"
+msgstr "สินค้า ที่มีอยู่แล้ว ในการสั่งซื้อ"
+
+msgid "Product does not exist"
+msgstr "สินค้า ไม่ได้อยู่"
+
+msgid "Incorrect request"
+msgstr "คำขอ ที่ไม่ถูกต้อง"
+
+msgid "Products"
+msgstr "ผลิตภัณฑ์"
+
+msgid "Product types"
+msgstr "ประเภท สินค้า"
+
+msgid "Contractors"
+msgstr "ผู้รับเหมา"
+
+msgid "Contractor"
+msgstr "ผู้รับเหมา"
+
+msgid "Orders"
+msgstr "คำสั่งซื้อ"
+
+msgid "FAQ"
+msgstr "คำถามที่พบบ่อย"
+
+msgid "New order"
+msgstr "คำสั่งซื้อใหม่"
+
+msgid "My orders"
+msgstr "คำสั่ง ของฉัน"
+
+msgid "Recharge balance"
+msgstr "เติม ความสมดุล"
+
+msgid "Administrator"
+msgstr "ผู้บริหาร"
+
+msgid "Incorrect event ID"
+msgstr "ID เหตุการณ์ ที่ไม่ถูกต้อง"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "ผู้รับเหมา แก้ไข"
+
+msgid "Create contractor"
+msgstr "สร้าง ผู้รับเหมา"
+
+msgid "Edit question"
+msgstr "แก้ไข คำถาม"
+
+msgid "Create question"
+msgstr "สร้าง คำถาม"
+
+msgid "Edit order"
+msgstr "แก้ไข คำสั่ง"
+
+msgid "Create order"
+msgstr "สร้างใบสั่ง"
+
+msgid "Edit product"
+msgstr "แก้ไข สินค้า"
+
+msgid "Create product"
+msgstr "สร้างผลิตภัณฑ์"
+
+msgid "Edit product type"
+msgstr "แก้ไข ประเภทของผลิตภัณฑ์"
+
+msgid "Create product type"
+msgstr "สร้าง ประเภทของผลิตภัณฑ์"
+
+msgid "You have received a file"
+msgstr "คุณได้รับ ไฟล์"
+
+msgid "You received a file from"
+msgstr "คุณได้รับ แฟ้มจาก"
+
+msgid "File has been uploaded"
+msgstr "ไฟล์ ที่ได้รับการ อัปโหลด"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "ปริมาณ ที่น้อยที่สุด"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "รายการ"
+
+msgid "Remove"
+msgstr "เอาออก"
+
+msgid "Contact person"
+msgstr "ชื่อผู้ติดต่อ"
+
+msgid "Email"
+msgstr "อีเมล์"
+
+msgid "Contractor phone"
+msgstr "โทรศัพท์ เหมา"
+
+msgid "Contractor name"
+msgstr "ชื่อ ผู้รับเหมา"
+
+msgid "Contractor details"
+msgstr "รายละเอียด ผู้รับเหมา"
+
+msgid "Order ID"
+msgstr "รหัส การสั่งซื้อ"
+
+msgid "Sum"
+msgstr "รวม"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "เลือก ระบบการชำระเงิน ที่เหมาะสม ในการชาร์จ ยอดเงินของคุณ"
+
+msgid "Recharge amount"
+msgstr "จำนวนเงินที่ เติมเงิน"
+
+msgid "Paid"
+msgstr "ต้องจ่าย"
+
+msgid "Shipped"
+msgstr "จัดส่ง"
+
+msgid "- No products in this order -"
+msgstr "- ไม่มีสินค้าใน คำสั่งนี้ -"
+
+msgid "month"
+msgstr "เดือน"
+
+msgid "No user found"
+msgstr "ผู้ใช้ ไม่พบ"
+
+msgid "Achievement"
+msgstr "ความสำเร็จ"
+
+msgid "Confirmed accomplishments"
+msgstr "ได้รับการยืนยัน ความสำเร็จ"
+
+msgid "Remove achievement"
+msgstr "ลบ ความสำเร็จ"
+
+msgid "Headquaters"
+msgstr "สำนักงานใหญ่"
+
+msgid "Phone"
+msgstr "โทรศัพท์"
+
+msgid "Site URL and email"
+msgstr "URL ของเว็บไซต์ และอีเมล์"
+
+msgid "Remove address"
+msgstr "ลบที่อยู่"
+
+msgid "Members"
+msgstr "สมาชิก"
+
+msgid "Requires a payment"
+msgstr "ต้อง ชำระเงิน"
+
+msgid "Shipping"
+msgstr "การส่งสินค้า"
+
+msgid "Ready"
+msgstr "พร้อมแล้ว"
+
+msgid "Find user..."
+msgstr "ค้นหา ผู้ใช้ ..."
+
+msgid "Order it"
+msgstr "สั่งซื้อได้"
+
+msgid "Find group..."
+msgstr "ค้นหา กลุ่ม ..."
+
+msgid "Find user or community..."
+msgstr "ค้นหา ผู้ใช้ หรือชุมชน ..."
+
+msgid "No item found"
+msgstr "รายการ ไม่พบ"
+
+msgid "years"
+msgstr "ปี"
+
+msgid "Send message"
+msgstr "ส่งข้อความ"
+
+msgid "Message"
+msgstr "ข่าวสาร"
+
+msgid "To send message press Enter"
+msgstr "การส่ง ข้อความ กด Enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "เพื่อส่งข้อความ กด CTRL + Enter"
+
+msgid "Processing file(s)..."
+msgstr "การประมวลผล ไฟล์ (s) ..."
+
+msgid "Group settings"
+msgstr "การตั้งค่า กลุ่ม"
+
+msgid "Create group"
+msgstr "สร้างกลุ่ม"
+
+msgid "Group has been successfully saved"
+msgstr "กลุ่ม ที่ได้รับการ บันทึกเรียบร้อยแล้ว"
+
+msgid "Group title"
+msgstr "ชื่อ กลุ่ม"
+
+msgid "Group video"
+msgstr "วิดีโอ กลุ่ม"
+
+msgid "Description"
+msgstr "ลักษณะ"
+
+msgid "Your role in group"
+msgstr "บทบาทของคุณ ในกลุ่ม"
+
+msgid "Role"
+msgstr "บทบาท"
+
+msgid "Photo or video gallery"
+msgstr "แกลเลอรี่ ภาพหรือ วิดีโอ"
+
+msgid "Youtube.com URL"
+msgstr "URL Youtube.com"
+
+msgid "Upload video"
+msgstr "อัปโหลด วิดีโอ"
+
+msgid "Add group address"
+msgstr "เพิ่มที่อยู่ ในกลุ่ม"
+
+msgid "Group articles"
+msgstr "บทความ กลุ่ม"
+
+msgid "No addresses yet"
+msgstr "ยังไม่มี ที่อยู่"
+
+msgid "Add group achievement"
+msgstr "เพิ่ม ผลสัมฤทธิ์ทางการเรียน กลุ่ม"
+
+msgid "No achivements yet"
+msgstr "ไม่มี achivements ยัง"
+
+msgid "Are you sure to delete this user"
+msgstr "คุณแน่ใจ ที่จะลบ ผู้ใช้นี้"
+
+msgid "Add member"
+msgstr "เพิ่ม สมาชิก"
+
+msgid "Are you sure to delete this record?"
+msgstr "คุณแน่ใจที่จะ ลบระเบียน นี้หรือไม่?"
+
+msgid "Join this group"
+msgstr "เข้าร่วมกลุ่มนี้"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "คำเชิญของคุณ ถูกส่งไปยัง ผู้ดูแลกลุ่ม"
+
+msgid "All addresses"
+msgstr "ที่อยู่ทั้งหมด"
+
+msgid "Collapse"
+msgstr "ล่มสลาย"
+
+msgid "Achievements"
+msgstr "ความสำเร็จ"
+
+msgid "Show more"
+msgstr "แสดงมากขึ้น"
+
+msgid "Team"
+msgstr "ทีม"
+
+msgid "Projects"
+msgstr "โครงการ"
+
+msgid "New project"
+msgstr "โครงการใหม่"
+
+msgid "Project has not been created yet"
+msgstr "โครงการ ยังไม่ได้ รับการสร้างขึ้น ยัง"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "สมดุล"
+
+msgid "Main page"
+msgstr "หน้าหลัก"
+
+msgid "Upload image"
+msgstr "การอัปโหลดภาพ"
+
+msgid "My time"
+msgstr "เวลาของฉัน"
+
+msgid "Day"
+msgstr "วัน"
+
+msgid "Week"
+msgstr "สัปดาห์"
+
+msgid "Project settings"
+msgstr "การตั้งค่า โครงการ"
+
+msgid "Create project"
+msgstr "สร้างโครงการ"
+
+msgid "Project has been successfully saved"
+msgstr "โครงการ ที่ได้รับการ บันทึกเรียบร้อยแล้ว"
+
+msgid "Project name"
+msgstr "ชื่อ โครงการ"
+
+msgid "Deadline"
+msgstr "เส้นตาย"
+
+msgid "Close"
+msgstr "ปิด"
+
+msgid "Manager"
+msgstr "ผู้จัดการ"
+
+msgid "Assigned to"
+msgstr "ได้รับมอบหมายให้"
+
+msgid "Discussion"
+msgstr "การสนทนา"
+
+msgid "Task was created"
+msgstr "งาน ที่ถูกสร้างขึ้น"
+
+msgid "Task was closed"
+msgstr "งาน ถูกปิด"
+
+msgid "Go to Group"
+msgstr "ไปที่ กลุ่ม"
+
+msgid "Closed"
+msgstr "ปิด"
+
+msgid "Last updates"
+msgstr "ปรับปรุง ล่าสุด"
+
+msgid "Project is closed"
+msgstr "โครงการ นี้ปิดให้บริการ"
+
+msgid "No open tasks"
+msgstr "ไม่มี งาน เปิด"
+
+msgid "New task"
+msgstr "งานใหม่"
+
+msgid "Closed tasks"
+msgstr "งาน ปิด"
+
+msgid "Add subproject"
+msgstr "เพิ่ม โครงการย่อย"
+
+msgid "Add task"
+msgstr "เพิ่มงาน"
+
+msgid "Sun"
+msgstr "วันอาทิตย์"
+
+msgid "Mon"
+msgstr "วันจันทร์"
+
+msgid "Tue"
+msgstr "วันอังคาร"
+
+msgid "Wed"
+msgstr "วันพุธ"
+
+msgid "Thur"
+msgstr "วันพฤหัสบดี"
+
+msgid "Fri"
+msgstr "วันศุกร์"
+
+msgid "Sat"
+msgstr "วันเสาร์"
+
+msgid "Event title"
+msgstr "ชื่อเหตุการณ์"
+
+msgid "Event description"
+msgstr "คำอธิบายของเหตุการณ์"
+
+msgid "I registered on this site"
+msgstr "ผมลงทะเบียน ในเว็บไซต์นี้"
+
+msgid "Last created groups"
+msgstr "กลุ่ม ที่สร้างขึ้น ล่าสุด"
+
+msgid "You joined this group as"
+msgstr "คุณ เข้าร่วม กลุ่มนี้ เป็น"
+
+msgid "You received a request to join the group"
+msgstr "คุณ ได้รับการร้องขอ ให้เข้าร่วมกลุ่ม"
+
+msgid "Updated site"
+msgstr "การปรับปรุง เว็บไซต์"
+
+msgid "Site is under construction"
+msgstr "เว็บไซต์ อยู่ระหว่างการก่อสร้าง"
+
+msgid "Last registered users"
+msgstr "ผู้ใช้งาน ที่ลงทะเบียน ล่าสุด"
+
+msgid "User settings"
+msgstr "การตั้งค่า ผู้ใช้"
+
+msgid "Technical support"
+msgstr "การสนับสนุนทางเทคนิค"
+
+msgid "Change email"
+msgstr "เปลียนอีเมล์"
+
+msgid "Change password"
+msgstr "เปลี่ยนรหัสผ่าน"
+
+msgid "User has been successfully saved"
+msgstr "ผู้ใช้ ที่ได้รับการ บันทึกเรียบร้อยแล้ว"
+
+msgid "Full name"
+msgstr "ชื่อเต็ม"
+
+msgid "My video"
+msgstr "วิดีโอของฉัน"
+
+msgid "Skills"
+msgstr "ทักษะ"
+
+msgid "Birthday"
+msgstr "วันเกิด"
+
+msgid "Country of residence"
+msgstr "ประเทศที่พำนัก"
+
+msgid "Country"
+msgstr "ประเทศ"
+
+msgid "Zip Code"
+msgstr "รหัสไปรษณีย์"
+
+msgid "City/town of residence"
+msgstr "เมือง / เมือง ของที่อยู่อาศัย"
+
+msgid "University/college"
+msgstr "มหาวิทยาลัย / วิทยาลัย"
+
+msgid "University/college photo"
+msgstr "มหาวิทยาลัย / ภาพ วิทยาลัย"
+
+msgid "Add user\'s accomplishments"
+msgstr "เพิ่ม ความสำเร็จ ของผู้ใช้"
+
+msgid "Interface language"
+msgstr "อินเตอร์เฟซ ภาษา"
+
+msgid "How other people see this page"
+msgstr "วิธีการที่คน อื่น ๆ ดูหน้า นี้"
+
+msgid "Video with me"
+msgstr "วิดีโอ กับฉัน"
+
+msgid "Groups"
+msgstr "กลุ่ม"
+
+msgid "Registered today"
+msgstr "สมัครสมาชิก วันนี้"
+
+msgid "Qty"
+msgstr "จำนวน"
+
+msgid "No registered users yet"
+msgstr "ไม่มี คน เลย"
+
+msgid "Total"
+msgstr "ทั้งหมด"
+
+msgid "Registered total"
+msgstr "รวม ที่สมัครสมาชิก"
+
+msgid "You received a file"
+msgstr "คุณได้รับ ไฟล์"
+
+msgid "You were invited into this room"
+msgstr "คุณ ได้รับเชิญ เข้ามาในห้อง นี้"
+
+msgid "Request is being processed"
+msgstr "การร้องขอ จะถูกประมวลผล"
+
+msgid "Fax"
+msgstr "แฟกซ์"
+
+msgid "Messenger"
+msgstr "Messenger ได้"
+
+msgid "New subproject"
+msgstr "โครงการย่อย ใหม่"
+
+msgid "messages written."
+msgstr "เขียนข้อความ"
+
+msgid "projects created based on groups."
+msgstr "โครงการที่ สร้างขึ้นบนพื้นฐาน กลุ่ม"
+
+msgid "users registered on website."
+msgstr "ผู้ใช้งาน ที่ลงทะเบียน ในเว็บไซต์"
+
+msgid "New email"
+msgstr "อีเมลใหม่"
+
+msgid "Confirm email"
+msgstr "ยืนยันอีเมล์"
+
+msgid "New password"
+msgstr "รหัสผ่านใหม่"
+
+msgid "Confirm password"
+msgstr "ยืนยันรหัสผ่าน"
+
+msgid "Occupation"
+msgstr "พิเศษ"
+
+msgid "Timezone"
+msgstr "เขตเวลา"
+
+msgid "Answer"
+msgstr "คำตอบ"
+
+msgid "Articles"
+msgstr "บทความ"
+
+msgid "Article"
+msgstr "บทความ"
+
+msgid "Video-article"
+msgstr "วิดีโอ บทความ"
+
+msgid "Find article..."
+msgstr "บทความ หา ..."
+
+msgid "Politics"
+msgstr "การเมือง"
+
+msgid "Economics"
+msgstr "เศรษฐศาสตร์"
+
+msgid "Community"
+msgstr "ชุมชน"
+
+msgid "Culture"
+msgstr "วัฒนธรรม"
+
+msgid "Sports"
+msgstr "กีฬา"
+
+msgid "Hi-tech"
+msgstr "ไฮเทค"
+
+msgid "Cars"
+msgstr "รถยนต์"
+
+msgid "Fashion"
+msgstr "แฟชั่น"
+
+msgid "Games"
+msgstr "เกม"
+
+msgid "Other"
+msgstr "คนอื่น ๆ"
+
+msgid "Invalid mediafile"
+msgstr "mediafile ไม่ถูกต้อง"
+
+msgid "No articles in this category yet"
+msgstr "บทความที่ ไม่มี ในหมวดหมู่นี้ ยัง"
+
+msgid "Back to profile"
+msgstr "กลับไป ที่รายละเอียด"
+
+msgid "View article"
+msgstr "ดู บทความ"
+
+msgid "Edit article"
+msgstr "บทความ แก้ไข"
+
+msgid "Create article"
+msgstr "สร้าง บทความ"
+
+msgid "Article title"
+msgstr "ชื่อบทความ"
+
+msgid "Article section"
+msgstr "ส่วน บทความ"
+
+msgid "Choose image"
+msgstr "เลือกภาพ"
+
+msgid "Save and upload"
+msgstr "บันทึกและ อัพโหลด"
+
+msgid "Show more..."
+msgstr "แสดงมากขึ้น..."
+
+msgid "Create"
+msgstr "สร้าง"
+
+msgid "Edit"
+msgstr "แก้ไข"
+
+msgid "Project"
+msgstr "โครงการ"
+
+msgid "Team"
+msgstr "ทีม"
+
+msgid "A new article was published"
+msgstr "บทความใหม่ ที่ถูกตีพิมพ์"
+
+msgid "You joined this project"
+msgstr "คุณ ได้เข้าร่วม โครงการ นี้"
+
+msgid "Enter your information in the User settings"
+msgstr "ป้อนข้อมูล ของคุณ ในการตั้งค่า ผู้ใช้"
+
+msgid "Communities"
+msgstr "ชุมชน"
+
+msgid "Video presentation of my accomplishments"
+msgstr "นำเสนอวิดีโอ ของความสำเร็จ ของฉัน"
+
+msgid "My articles"
+msgstr "บทความของฉัน"
+
+msgid "User"
+msgstr "ผู้ใช้"
+
+msgid "Users"
+msgstr "ผู้ใช้"
+
+msgid "Add new list"
+msgstr "เพิ่ม รายชื่อใหม่"
+
+msgid "List title"
+msgstr "ชื่อ รายการ"
+
+msgid "Add"
+msgstr "เพิ่ม"
+
+msgid "Add to favorites"
+msgstr "เพิ่มในรายการโปรด"
+
+msgid "Delete from favorites"
+msgstr "ลบ ออกจากรายการโปรด"
+
+msgid "Select list"
+msgstr "เลือก รายการ"
+
+msgid "Subscriptions"
+msgstr "การสมัครรับข้อมูล"
+
+msgid "Subscribe"
+msgstr "สมัครสมาชิก"
+
+msgid "Unsubscribe"
+msgstr "ยกเลิก"
+
+msgid "General list"
+msgstr "รายการ ทั่วไป"
+
+msgid "No users in this list"
+msgstr "ไม่มีผู้ใช้ ในรายการนี้"
+
+msgid "Publish"
+msgstr "ตีพิมพ์"
+
+msgid "Unpublish"
+msgstr "ยกเลิกการเผยแพร่"
+
+msgid "Add user"
+msgstr "เพิ่มผู้ใช้"
+
+msgid "Create document"
+msgstr "สร้างเอกสาร"
+
+msgid "Edit document"
+msgstr "แก้ไข เอกสาร"
+
+msgid "View"
+msgstr "ดู"
+
+msgid "Document title"
+msgstr "ชื่อเรื่องของเอกสาร"
+
+msgid "Find document..."
+msgstr "ค้นหา เอกสาร ..."
+
+msgid "Share your thoughts"
+msgstr "แบ่งปันความคิดของคุณ"
+
+msgid "Leave your comment"
+msgstr "แสดงความคิดเห็นของคุณ"
+
+msgid "Accept"
+msgstr "ยอมรับ"
+
+msgid "Decline"
+msgstr "ลดลง"
+
+msgid "Add article"
+msgstr "เพิ่มบทความ"
+
+msgid "Link to verified accomplishments"
+msgstr "เชื่อมโยงไปยังความสำเร็จของการตรวจสอบแล้ว"
+
+msgid "No articles here yet..."
+msgstr "บทความที่ไม่มีที่นี่ยัง"
+
+msgid "Find file or folder..."
+msgstr "ค้นหาไฟล์หรือโฟลเดอร์ ..."
+
+msgid "Sort"
+msgstr "การเรียงลำดับ"
+
+msgid "By name"
+msgstr "โดยใช้ชื่อ"
+
+msgid "By date"
+msgstr "ตามวันที่"
+
+msgid "By updated date"
+msgstr "โดยวันที่มีการปรับปรุง"
+
+msgid "By size"
+msgstr "ตามขนาด"
+
+msgid "By type"
+msgstr "ตามประเภท"
+
+msgid "Move"
+msgstr "ย้าย"
+
+msgid "File Manager"
+msgstr "ตัวจัดการไฟล์"
+
+msgid "Share link"
+msgstr "แบ่งปันลิงค์"
+
+msgid "Responsible"
+msgstr "ที่มีความรับผิดชอบ"
+
+msgid "Performer"
+msgstr "นักแสดง"
+
+msgid "New Folder"
+msgstr "แฟ้มใหม่"
+
+msgid "Folder name"
+msgstr "ชื่อโฟลเดอร์"
+
+msgid "By default"
+msgstr "ตามปกติ"
+
+msgid "Back to group"
+msgstr "กลับไปยังกลุ่ม"
+
+msgid "year(s)"
+msgstr "ปี (s)"
+
+msgid "January"
+msgstr "มกราคม"
+
+msgid "February"
+msgstr "กุมภาพันธ์"
+
+msgid "March"
+msgstr "มีนาคม"
+
+msgid "April"
+msgstr "เมษายน"
+
+msgid "May"
+msgstr "อาจ"
+
+msgid "June"
+msgstr "มิถุนายน"
+
+msgid "July"
+msgstr "กรกฎาคม"
+
+msgid "August"
+msgstr "สิงหาคม"
+
+msgid "September"
+msgstr "กันยายน"
+
+msgid "October"
+msgstr "ตุลาคม"
+
+msgid "November"
+msgstr "พฤศจิกายน"
+
+msgid "December"
+msgstr "ธันวาคม"
+
+msgid "Password Reminder"
+msgstr "เตือนรหัสผ่าน"
+
+msgid "Log In"
+msgstr "เข้าสู่ระบบ"
+
+msgid "Sign in"
+msgstr "ลงชื่อเข้าใช้"
+
+msgid "Register"
+msgstr "สมัครสมาชิก"
+
+msgid "First name"
+msgstr "ชื่อจริง"
+
+msgid "Last name"
+msgstr "นามสกุล"
+
+msgid "I agree with rules"
+msgstr "ผมเห็นด้วยกับกฎ"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "อีเมลยืนยันถูกส่งไปยังที่อยู่อีเมลของคุณ"
+
+msgid "Thanks"
+msgstr "ขอบคุณ"
+
+msgid "Password must be at least 6 characters"
+msgstr "รหัสผ่านต้องมีอย่างน้อย 6 ตัวอักษร"
+
+msgid "Creative Environment"
+msgstr "สร้างสรรค์สิ่งแวดล้อม"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "คุณจะต้องไม่น้อยกว่าสิบสามปีที่จะใช้บริการนี้"
+
+msgid "Order status"
+msgstr "สถานะการสั่งซื้อ"
+
+msgid "Processing order"
+msgstr "เพื่อประมวลผล"
+
+msgid "Requires a payment"
+msgstr "ต้องชำระเงิน"
+
+msgid "Shipping"
+msgstr "การนำเข้าส่งออกสินค้า"
+
+msgid "Ready"
+msgstr "พร้อม"
+
+msgid "Thank you for your payment"
+msgstr "ขอบคุณสำหรับการชำระเงินของคุณ"
+
+msgid "Your payment has been cancelled"
+msgstr "ชำระเงินของคุณได้ถูกยกเลิก"
+
+msgid "page"
+msgstr "หน้า"
+
+msgid "Rent period"
+msgstr "ระยะเวลาการเช่า"
+
+msgid "Total, month"
+msgstr "รวมเดือน"
+
+msgid "Order items"
+msgstr "รายการสั่งซื้อ"
+
+msgid "No records found"
+msgstr "บันทึกไม่พบ"
+
+msgid "User with this email is already exist"
+msgstr "ผู้ใช้ที่มีอีเมลนี้มีอยู่แล้ว"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "โฟลเดอร์หรือแฟ้มที่มีชื่อดังกล่าวจะมีอยู่แล้วในโฟลเดอร์ปลายทาง"
+
+msgid "Minimal quantity"
+msgstr "ปริมาณที่น้อยที่สุด"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "พิมพ์สำเนา"
+
+msgid "Terms of Use"
+msgstr "ข้อกำหนดการใช้งาน"
+
+msgid "Privacy Policy"
+msgstr "นโยบายความเป็นส่วนตัว"
+
+msgid "Find project..."
+msgstr "พบโครงการ ..."
+
+msgid "New Project"
+msgstr "โครงการใหม่"
+
+msgid "Accounts"
+msgstr "บัญชี"
+
+msgid "Operations"
+msgstr "การดำเนินงาน"
+
+msgid "All accounts"
+msgstr "บัญชีทั้งหมด"
+
+msgid "All categories"
+msgstr "ทุกประเภท"
+
+msgid "Expense"
+msgstr "ค่าใช้จ่าย"
+
+msgid "Income"
+msgstr "รายได้"
+
+msgid "Transfer"
+msgstr "บริการรถรับส่ง"
+
+msgid "Expense"
+msgstr "ค่าใช้จ่าย"
+
+msgid "income"
+msgstr "รายได้"
+
+msgid "tax"
+msgstr "ภาษี"
+
+msgid "percent"
+msgstr "เปอร์เซ็นต์"
+
+msgid "transfer"
+msgstr "โอน"
+
+msgid "Make operation"
+msgstr "ทำให้การดำเนินงาน"
+
+msgid "Select date"
+msgstr "เลือกวันที่"
+
+msgid "Select account"
+msgstr "เลือกบัญชี"
+
+msgid "Month"
+msgstr "เดือน"
+
+msgid "Quarter"
+msgstr "ไตรมาสที่"
+
+msgid "Year"
+msgstr "ปี"
+
+msgid "From"
+msgstr "จาก"
+
+msgid "To"
+msgstr "ไปยัง"
+
+msgid "Expense amount"
+msgstr "จำนวนเงิน ค่าใช้จ่าย"
+
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+msgid "Comments"
+msgstr "ความคิดเห็น"
+
+msgid "Income amount"
+msgstr "จำนวนเงิน รายได้"
+
+msgid "Transfer amount"
+msgstr "จำนวนเงินที่ โอน"
+
+msgid "From account"
+msgstr "จากบัญชี"
+
+msgid "To account"
+msgstr "บัญชี"
+
+msgid "New Account"
+msgstr "บัญชีใหม่"
+
+msgid "New Category"
+msgstr "หมวดหมู่ ใหม่"
+
+msgid "All"
+msgstr "ทั้งหมด"
+
+msgid "Name"
+msgstr "ชื่อ"
+
+msgid "Enter category name"
+msgstr "ใส่ ชื่อหมวดหมู่"
+
+msgid "Select type"
+msgstr "เลือกประเภท"
+
+msgid "Credit card"
+msgstr "บัตรเครดิต"
+
+msgid "Debit card"
+msgstr "บัตรเดบิต"
+
+msgid "Bank account"
+msgstr "บัญชีธนาคาร"
+
+msgid "Cash"
+msgstr "เงินสด"
+
+msgid "Balance is empty"
+msgstr "คงเหลือ เป็นที่ว่างเปล่า"
+
+msgid "Statistic is empty"
+msgstr "สถิติ เป็นที่ว่างเปล่า"
+
+msgid "Regular payments"
+msgstr "ชำระเงินตามปกติ"
+
+msgid "Are you sure ?"
+msgstr "คุณแน่ใจไหม ?"
+
+msgid "Are you sure to close this project?"
+msgstr "คุณแน่ใจว่าจะ ปิด โครงการนี้หรือไม่"
+
+msgid "Project was deleted successfully"
+msgstr "โครงการ ถูกลบ ประสบความสำเร็จ"
+
+msgid "Select currency"
+msgstr "เลือกสกุลเงิน"
+
+msgid "Account"
+msgstr "บัญชี"
+
+msgid "Orders list"
+msgstr "รายการ สั่งซื้อ"
+
+msgid "Order payments"
+msgstr "การสั่งซื้อ การชำระเงิน"
+
+msgid "View order"
+msgstr "ดู การสั่งซื้อ"
+
+msgid "No response from Printer API"
+msgstr "ไม่มีการตอบสนอง จาก เครื่องพิมพ์ API"
+
+msgid "Bad response from Printer API"
+msgstr "การตอบสนอง ที่ไม่ดี จาก เครื่องพิมพ์ API"
+
+msgid "User ID"
+msgstr "รหัสผู้ใช้"
+
+msgid "Contact Person"
+msgstr "ติดต่อ"
+
+msgid "No orders to process"
+msgstr "คำสั่งซื้อที่ ยังไม่ได้ ดำเนินการ"
+
+msgid "Article announce image"
+msgstr "บทความ ประกาศ ภาพ"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "url ของ วิดีโอ ไม่ถูกต้อง ปล่อยว่าง หรือใส่ URL ของ YouTube ที่ถูกต้อง"
+
+msgid "Please, enter Contractor data"
+msgstr "กรุณา ป้อนข้อมูล เหมา"
+
+msgid "Distribute devices"
+msgstr "จำหน่าย อุปกรณ์"
+
+msgid "Quantity"
+msgstr "จำนวน"
+
+msgid "Devices left"
+msgstr "อุปกรณ์ ที่เหลือ"
+
+msgid "Distributed devices"
+msgstr "อุปกรณ์ กระจาย"
+
+msgid "You must enter quantity"
+msgstr "คุณต้องใส่ ปริมาณ"
+
+msgid "All devices are distributed"
+msgstr "อุปกรณ์ทั้งหมดที่ มีการกระจาย"
+
+msgid "IP address"
+msgstr "ที่อยู่ IP"
+
+msgid "Only for printer"
+msgstr "เฉพาะ สำหรับเครื่องพิมพ์"
+
+msgid "Counter"
+msgstr "เคาน์เตอร์"
+
+msgid "You was excluded from this room"
+msgstr "คุณ ได้รับการยกเว้น จากห้อง นี้"
+
+msgid "Compare"
+msgstr "เปรียบเทียบ"
+
+msgid "Scheduled transaction"
+msgstr "การทำธุรกรรม ตามเวลาที่กำหนด"
+
+msgid "Select transfer account"
+msgstr "เลือก บัญชี โอน"
+
+msgid "Select income account"
+msgstr "เลือก บัญชี รายได้"
+
+msgid "Reports"
+msgstr "รายงาน"
+
+msgid "Goals"
+msgstr "เป้าหมาย"
+
+msgid "Budgets"
+msgstr "งบประมาณ"
+
+msgid "Enter user name or email..."
+msgstr "ป้อนชื่อผู้ใช้ หรืออีเมล ..."
+
+msgid "Invite had been sended"
+msgstr "เชิญ ได้รับการ sended"
+
+msgid "Statistics"
+msgstr "สถิติ"
+
+msgid "Updated site began to work"
+msgstr "เว็บไซต์ การปรับปรุง เริ่มทำงาน"
+
+msgid "City of residence"
+msgstr "เมืองของที่อยู่อาศัย"
+
+msgid "Edit favourites list"
+msgstr "แก้ไข รายการโปรด"
+
+msgid "Add favourites list"
+msgstr "เพิ่ม รายการโปรด"
+
+msgid "Categories is required"
+msgstr "หมวดหมู่ จะต้อง"
+
+msgid "Type new category name and hit Enter"
+msgstr "พิมพ์ชื่อ หมวดหมู่ใหม่ และกด Enter"
+
+msgid "You created an order"
+msgstr "คุณสร้าง การสั่งซื้อสินค้า"
+
+msgid "You received a device due to this order"
+msgstr "คุณได้รับ อุปกรณ์ อันเนื่องมาจาก คำสั่งนี้"
+
+msgid "%s attached %s to task %s"
+msgstr "%s แนบ %s %s งาน"
+
+msgid "member(s)"
+msgstr "สมาชิก (s)"
+
+msgid "%s commented task %s"
+msgstr "แสดงความคิดเห็น %s %s งาน"
+
+msgid "%s closed task %s"
+msgstr "ปิด %s %s งาน"
+
+msgid "%s created task %s"
+msgstr "%s สร้าง งาน %s"
+
+msgid "%s created this project"
+msgstr "%s สร้าง โครงการ นี้"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s สร้าง โครงการย่อย \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s ปิด โครงการ \"%s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s ปิด โครงการย่อย \"%s\""
+
+msgid "This field must not be blank"
+msgstr "ข้อมูลนี้ จะต้องไม่ ว่างเปล่า"
+
+msgid "Document with such name is already exist"
+msgstr "เอกสาร ที่มีชื่อ ดังกล่าวเป็น อยู่แล้ว"
+
+msgid "Wait until image upload"
+msgstr "รอจนกว่า การอัปโหลด ภาพ"
+
+msgid "Video"
+msgstr "วิดีโอ"
+
+msgid "Message can not be empty"
+msgstr "ข้อความ ต้องไม่ว่างเปล่า"
+
+msgid "Yes"
+msgstr "ใช่"
+
+msgid "No"
+msgstr "ไม่มี"
+
+msgid "Created"
+msgstr "ที่สร้าง"
+
+msgid "Compare is empty"
+msgstr "เปรียบเทียบ เป็นที่ว่างเปล่า"
+
+msgid "Are you sure you want to delete operation"
+msgstr "คุณแน่ใจหรือว่า ต้องการลบ การดำเนินงาน"
+
+msgid "Do you really want to delete transaction"
+msgstr "คุณ ต้องการที่จะ ลบ การทำธุรกรรม"
+
+msgid "Project with same name already exists"
+msgstr "โครงการ ที่มีชื่อเดียวกัน อยู่แล้ว"
+
+msgid "Account is not found"
+msgstr "บัญชี ไม่พบ"
+
+msgid "Currency is required"
+msgstr "สกุลเงิน ที่จะต้อง"
+
+msgid "error while deleting document"
+msgstr "ข้อผิดพลาด ในขณะที่ลบ เอกสาร"
+
+msgid "Expences"
+msgstr "expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "คุณ ได้รับเชิญ ผู้ใช้ \" %s\" ในห้องนี้"
+
+msgid "User \"%s\" joined this room"
+msgstr "ผู้ใช้ \" %s\" เข้าร่วม ห้อง นี้"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "คุณ ได้รับการยกเว้น ผู้ใช้ \" %s\" จากห้อง นี้"
+
+msgid "User \"%s\" left this room"
+msgstr "ผู้ใช้ \" %s\" ออกจากห้อง นี้"
+
+msgid "Add account"
+msgstr "เพิ่มบัญชี"
+
+msgid "The requested page is not found"
+msgstr "หน้า ร้องขอ ไม่พบ"
+
+msgid "Document"
+msgstr "เอกสาร"
+
+msgid "Table"
+msgstr "ตาราง"
+
+msgid "file(s)"
+msgstr "ไฟล์ (s)"
+
+msgid "Residue"
+msgstr "สารตกค้าง"
+
+msgid "Result is empty"
+msgstr "ผลที่ได้คือ ความว่างเปล่า"
+
+msgid "The total amount is %s for %s mo"
+msgstr "จํานวนเงิน %s %s มิสซูรี่"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "คุณจะต้อง ฝากเงิน %s รายเดือนให้กับ บัญชีที่เกี่ยวข้อง"
+
+msgid "Start"
+msgstr "การเริ่มต้น"
+
+msgid "finish"
+msgstr "เสร็จ"
+
+msgid "Selected account is already in use for another goal"
+msgstr "บัญชีที่เลือก อยู่แล้วใน การใช้งานสำหรับ เป้าหมายอื่น"
+
+msgid "Amount required"
+msgstr "จำนวนเงินที่ต้อง"
+
+msgid "New goal"
+msgstr "เป้าหมาย ใหม่"
+
+msgid "Goal"
+msgstr "เป้าหมาย"
+
+msgid "Goal name"
+msgstr "ชื่อเป้าหมาย"
+
+msgid "Invalid date"
+msgstr "วันที่ไม่ถูกต้อง"
+
+msgid "Necessary sum must be a positive number"
+msgstr "ผลรวม ที่จำเป็น จะต้องเป็น จำนวนบวก"
+
+msgid "Remain"
+msgstr "คงอยู่"
+
+msgid "Last day"
+msgstr "วันสุดท้าย"
+
+msgid "Accumulated"
+msgstr "สะสม"
+
+msgid "Put aside"
+msgstr "วางไว้ข้างๆ"
+
+msgid "January"
+msgstr "มกราคม"
+
+msgid "February"
+msgstr "กุมภาพันธ์"
+
+msgid "March"
+msgstr "มีนาคม"
+
+msgid "April"
+msgstr "เมษายน"
+
+msgid "May"
+msgstr "อาจ"
+
+msgid "June"
+msgstr "มิถุนายน"
+
+msgid "July"
+msgstr "กรกฎาคม"
+
+msgid "August"
+msgstr "สิงหาคม"
+
+msgid "September"
+msgstr "กันยายน"
+
+msgid "October"
+msgstr "ตุลาคม"
+
+msgid "November"
+msgstr "พฤศจิกายน"
+
+msgid "December"
+msgstr "ธันวาคม"
+
+msgid "Expenses projected/actual"
+msgstr "ค่าใช้จ่าย ที่คาดการณ์ / ที่เกิดขึ้นจริง"
+
+msgid "Net Income projected/actual"
+msgstr "คาดการณ์ กำไรสุทธิ / ที่เกิดขึ้นจริง"
+
+msgid "New budget"
+msgstr "งบประมาณใหม่"
+
+msgid "Revenue and Expenses Chart"
+msgstr "รายได้ และค่าใช้จ่าย แผนภูมิ"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "งบประมาณ กับคู่ เดียวกันของ บัญชี และประเภท ที่มีอยู่แล้ว"
+
+msgid "Budget is empty"
+msgstr "งบประมาณ เป็นที่ว่างเปล่า"
+
+msgid "Budget"
+msgstr "งบประมาณ"
+
+msgid "plan"
+msgstr "แผนการ"
+
+msgid "fact"
+msgstr "ความจริง"
+
+msgid "diff"
+msgstr "ต่าง"
+
+msgid "Show More"
+msgstr "แสดงมากขึ้น"
+
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "ชั่วโมง"
+
+msgid "min"
+msgstr "นาที"
+
+msgid "My sales"
+msgstr "ขายของฉัน"
+
+msgid "Time spent"
+msgstr "ใช้เวลา"
+
+msgid "Total time spent"
+msgstr "เวลา ทั้งหมดที่ใช้"
+
+msgid "Earnings per hour"
+msgstr "กำไรต่อ ชั่วโมง"
+
+msgid "Total earnings"
+msgstr "รายได้ทั้งหมด"
+
+msgid "Call"
+msgstr "เรียก"
+
+msgid "Phone call"
+msgstr "สายเข้า"
+
+msgid "Telephone calls"
+msgstr "โทรศัพท์ สาย"
+
+msgid "Send email"
+msgstr "ส่งอีเมล"
+
+msgid "Emails"
+msgstr "อีเมล์"
+
+msgid "Meeting"
+msgstr "ประชุม"
+
+msgid "Meetings"
+msgstr "การประชุม"
+
+msgid "All events"
+msgstr "เหตุการณ์ทั้งหมด"
+
+msgid "Task"
+msgstr "งาน"
+
+msgid "Event"
+msgstr "เหตุการณ์"
+
+msgid "Events"
+msgstr "เหตุการณ์ที่เกิดขึ้น"
+
+msgid "Time"
+msgstr "เวลา"
+
+msgid "Events statistics"
+msgstr "สถิติ เหตุการณ์"
+
+msgid "days"
+msgstr "วัน"
+
+msgid "hours"
+msgstr "ชั่วโมง"
+
+msgid "minutes"
+msgstr "นาที"
+
+msgid "Income & expense"
+msgstr "รายได้ และ ค่าใช้จ่าย"
+
+msgid "Show chart"
+msgstr "แสดงกราฟ"
+
+msgid "Hide chart"
+msgstr "ซ่อน แผนภูมิ"
+
+msgid "Add event"
+msgstr "เพิ่มเหตุการณ์"
+
+msgid "Add financial data"
+msgstr "เพิ่ม ข้อมูลทางการเงิน"
+
+msgid "Select contractor"
+msgstr "เลือก ผู้รับเหมา"
+
+msgid "Net Income"
+msgstr "รายได้สุทธิ"
+
+msgid "Revenue"
+msgstr "รายได้"
+
+msgid "Taxes"
+msgstr "ภาษี"
+
+msgid "Amount planned"
+msgstr "จำนวนเงิน ที่วางแผนไว้"
+
+msgid "Amount"
+msgstr "จํานวนเงิน"
+
+msgid "Period"
+msgstr "ระยะเวลา"
+
+msgid "Are you sure to close this task?"
+msgstr "คุณแน่ใจแล้วหรือ ที่จะปิด งานนี้ ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "ทุกกลุ่ม"
+
+msgid "added from task"
+msgstr "เพิ่ม จาก งาน"
+
+msgid "Monthly repeat"
+msgstr "ซ้ำ รายเดือน"
+
+msgid "Select category"
+msgstr "เลือกประเภท"
+
+msgid "Event type"
+msgstr "ประเภทเหตุการณ์"
+
+msgid "Margin"
+msgstr "อัตรากำไรขั้นต้น"
+
+msgid "Use finance project"
+msgstr "โครงการ ใช้ เงินทุน"
+
+msgid "New investment project"
+msgstr "โครงการ ลงทุน ใหม่"
+
+msgid "Investment project settings"
+msgstr "ตั้งค่าโครงการ ลงทุน"
+
+msgid "Picture, for the announcement project"
+msgstr "รูปภาพ สำหรับโครงการ ประกาศ"
+
+msgid "Announcement project"
+msgstr "โครงการ ประกาศ"
+
+msgid "Video"
+msgstr "วิดีโอ"
+
+msgid "Photos or videos gallery"
+msgstr "ภาพถ่าย หรือวิดีโอ แกลเลอรี่"
+
+msgid "required amount"
+msgstr "จำนวนเงินที่ต้อง"
+
+msgid "Project duration (60 days maximum)"
+msgstr "ระยะเวลา โครงการ ( 60 วัน สูงสุด)"
+
+msgid "Project duration"
+msgstr "ระยะเวลา โครงการ"
+
+msgid "Add reward"
+msgstr "เพิ่ม รางวัล"
+
+msgid "Delivery date"
+msgstr "วันที่ส่งมอบ"
+
+msgid "Payment systems"
+msgstr "ระบบการชำระเงิน"
+
+msgid "Terms of service"
+msgstr "เงื่อนไขการให้บริการ"
+
+msgid "Agreement"
+msgstr "ข้อตกลง"
+
+msgid "Payment"
+msgstr "วิธีการชำระเงิน"
+
+msgid "My projects"
+msgstr "โครงการของฉัน"
+
+msgid "Search result"
+msgstr "ผลการค้นหา"
+
+msgid "Nothing not found"
+msgstr "ไม่มีอะไรที่ ไม่พบ"
+
+msgid "The project has no sponsors"
+msgstr "โครงการมี สปอนเซอร์ ไม่"
+
+msgid "Design"
+msgstr "การออกแบบ"
+
+msgid "Food"
+msgstr "อาหาร"
+
+msgid "Journalism"
+msgstr "การเขียนข่าว"
+
+msgid "Games"
+msgstr "เกม"
+
+msgid "Art"
+msgstr "ศิลปะ"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "เพลง"
+
+msgid "Handicrafts"
+msgstr "หัตถกรรม"
+
+msgid "Publishing"
+msgstr "สำนักพิมพ์"
+
+msgid "Theater"
+msgstr "โรงละคร"
+
+msgid "Technology"
+msgstr "เทคโนโลยี"
+
+msgid "Film/Video"
+msgstr "ภาพยนตร์ / วิดีโอ"
+
+msgid "Photo"
+msgstr "ภาพถ่าย"
+
+msgid "Dance"
+msgstr "เต้นรำ"
+
+msgid "Invalid youtube video"
+msgstr "วิดีโอ youtube ที่ไม่ถูกต้อง"
+
+msgid "is required"
+msgstr "จำเป็น"
+
+msgid "User"
+msgstr "ผู้ใช้"
+
+msgid "Date"
+msgstr "วันที่"
+
+msgid "Collected"
+msgstr "ที่เก็บรวบรวม"
+
+msgid "Choose period"
+msgstr "เลือกวันที่"
+
+msgid "Choose region"
+msgstr "เลือกภูมิภาค"
+
+msgid "Country"
+msgstr "ประเทศ"
+
+msgid "Today"
+msgstr "วันนี้"
+
+msgid "Week"
+msgstr "สัปดาห์"
+
+msgid "Month"
+msgstr "เดือน"
+
+msgid "Year"
+msgstr "ปี"
+
+msgid "Free registration"
+msgstr "ลงทะเบียน ฟรี"
+
+msgid "Join"
+msgstr "เข้าร่วมกับ"
+
+msgid "Log in using"
+msgstr "เข้าสู่ระบบ โดยใช้"
+
+msgid "Vacancies"
+msgstr "โอกาสการจ้างงาน"
+
+msgid "About Us"
+msgstr "เกี่ยวกับเรา"
+
+msgid "You will need email to log in"
+msgstr "คุณจะต้อง อีเมล เพื่อเข้าสู่ระบบ"
+
+msgid "A combination of 6 digits and characters"
+msgstr "การรวมกันของ 6 หลัก และตัวอักษร"
+
+msgid "Search users, groups, articles..."
+msgstr "ค้นหาผู้ใช้ กลุ่ม บทความ ..."
+
+msgid "Cloud"
+msgstr "เมฆ"
+
+msgid "Sunday"
+msgstr "วันอาทิตย์"
+
+msgid "Monday"
+msgstr "วันจันทร์"
+
+msgid "Tuesday"
+msgstr "วันอังคาร"
+
+msgid "Wednesday"
+msgstr "วันพุธ"
+
+msgid "Thursday"
+msgstr "วันพฤหัสบดี"
+
+msgid "Friday"
+msgstr "วันศุกร์"
+
+msgid "Saturday"
+msgstr "วันเสาร์"
+
+msgid "Edit"
+msgstr "แก้ไข"
+
+msgid "Create group"
+msgstr "สร้างกลุ่ม"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "คุณ แน่ใจว่าคุณ ต้องการที่จะ ออกจากหน้านี้"
+
+msgid "More"
+msgstr "มากกว่า"
+
+msgid "Less"
+msgstr "น้อยกว่า"
+
+msgid "Pending"
+msgstr "ที่รอดำเนินการ"
+
+msgid "Approved"
+msgstr "ได้รับการอนุมัติ"
+
+msgid "Rejected"
+msgstr "ปฏิเสธ"
+
+msgid "Subprojects"
+msgstr "โครงการย่อย"
+
+msgid "Group edit"
+msgstr "กลุ่ม แก้ไข"
+
+msgid "Startup"
+msgstr "การเริ่มต้น"
+
+msgid "Tattoo"
+msgstr "สัก"
+
+msgid "Health"
+msgstr "สุขภาพ"
+
+msgid "Weapon"
+msgstr "อาวุธ"
+
+msgid "Astronomy"
+msgstr "ดาราศาสตร์"
+
+msgid "All articles"
+msgstr "บทความทั้งหมด"
+
+msgid "Article editor"
+msgstr "บรรณาธิการ บทความ"
+
+msgid "Document editor"
+msgstr "แก้ไขเอกสาร"
+
+msgid "Apply changes"
+msgstr "ใช้การเปลี่ยนแปลง"
+
+msgid "Save changes?"
+msgstr "บันทึกการเปลี่ยนแปลง?"
+
+msgid "published an article"
+msgstr "ตีพิมพ์บทความ"
+
+msgid "Users"
+msgstr "ผู้ใช้"
+
+msgid "Shared With Me"
+msgstr "แบ่งปันกับฉัน"
+
+msgid "share"
+msgstr "หุ้น"
+
+msgid "Select Group Responsible"
+msgstr "เลือก กลุ่ม ที่มีความรับผิดชอบ"
+
+msgid "Create folder"
+msgstr "สร้างที่เก็บเอกสาร"
+
+msgid "Title must be at least 3 characters"
+msgstr "ชื่อ ต้องมีอย่างน้อย 3 ตัวอักษร"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "ฟรี 10 GB, ผู้จัดการฝ่ายการเงิน , การลงทุน ของโมดูลและ อื่น ๆ อีกมากมาย ฟรี และตลอดไป"
+
+msgid "Best regards"
+msgstr "ขอแสดงความนับถือ"
+
+msgid "Updates in last 12 hours:"
+msgstr "ปรับปรุงใน 12 ชั่วโมง ที่ผ่านมา :"
+
+msgid "expense"
+msgstr "ค่าใช้จ่าย"
+
+msgid "Commentary on the event:"
+msgstr "ความเห็น เกี่ยวกับเหตุการณ์ที่ :"
+
+msgid "Event place"
+msgstr "สถานที่ จัดกิจกรรม"
+
+msgid "Project was updated"
+msgstr "โครงการ ได้รับการปรับปรุง"
+
+msgid "Project was created"
+msgstr "โครงการ ที่ถูกสร้างขึ้น"
+
+msgid "Project was closed"
+msgstr "โครงการ ที่ถูกปิด"
+
+msgid "account"
+msgstr "บัญชี"
+
+msgid "removed task"
+msgstr "งาน ลบออก"
+
+msgid "removed subproject"
+msgstr "ลบออก โครงการย่อย"
+
+msgid "Title can not be empty"
+msgstr "ชื่อ ไม่ว่างเปล่า"
+
+msgid "Do not select the type of event"
+msgstr "อย่า เลือกชนิดของ เหตุการณ์ที่เกิดขึ้น"
+
+msgid "Error while saving comment"
+msgstr "ข้อผิดพลาด ในขณะที่ประหยัด ความคิดเห็น"
+
+msgid "Save error: access denied"
+msgstr "ข้อผิดพลาด ประหยัด การเข้าถึงถูกปฏิเสธ"
+
+msgid "Remains"
+msgstr "ยังคงอยู่"
+
+msgid "Time spent, h."
+msgstr "เวลาที่ใช้ เอช"
+
+msgid "Emails"
+msgstr "อีเมล์"
+
+msgid "Meetings"
+msgstr "การประชุม"
+
+msgid "All users"
+msgstr "ผู้ใช้ทั้งหมด"
+
+msgid "Category"
+msgstr "ประเภท"
+
+msgid "Finance project"
+msgstr "โครงการ การเงิน"
+
+msgid "Investment project"
+msgstr "โครงการ ลงทุน"
+
+msgid "Nature"
+msgstr "ธรรมชาติ"
+
+msgid "Data is empty"
+msgstr "ข้อมูลเป็น ที่ว่างเปล่า"
+
+msgid "Visitors"
+msgstr "คนที่เข้ามา"
+
+msgid "My profile"
+msgstr "ประวัติของฉัน"
+
+msgid "Sponsors"
+msgstr "ผู้ให้การสนับสนุน"
+
+msgid "Prior to completion"
+msgstr "ก่อนที่จะ เสร็จสิ้น"
+
+msgid "Select"
+msgstr "เลือก"
+
+msgid "My groups"
+msgstr "กลุ่ม ของฉัน"
+
+msgid "The invitation has been sent successfully"
+msgstr "เชิญ ได้ ถูกส่งไปเรียบร้อย"
+
+msgid "Username has already been invited to this project"
+msgstr "ชื่อผู้ ได้รับการ เชิญ ให้กับโครงการ นี้"
+
+msgid "The user is the creator of the project"
+msgstr "ผู้ใช้ เป็นผู้สร้าง ของโครงการ"
+
+msgid "Provide full access"
+msgstr "ให้ การเข้าถึงแบบเต็ม"
+
+msgid "Select elements to provide access"
+msgstr "เลือก องค์ประกอบ เพื่อให้เข้าถึง"
+
+msgid "Select all"
+msgstr "เลือกทั้งหมด"
+
+msgid "User E-mail"
+msgstr "ผู้ใช้ อีเมล"
+
+msgid "Click on the field to select a category"
+msgstr "คลิกที่ สนาม เลือกหมวดหมู่"
+
+msgid "Invitation was deleted"
+msgstr "ขอเชิญ ถูกลบ"
+
+msgid "Permission denied"
+msgstr "อนุญาต"
+
+msgid "Printed"
+msgstr "พิมพ์"
+
+msgid "Incorrect Contractor email"
+msgstr "อีเมล ผู้รับเหมา ที่ไม่ถูกต้อง"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "คุณต้องการที่จะ เพิ่ม โครงการ เพื่อเป็นเงินทุน ผู้จัดการ ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "ให้เสร็จสิ้นกระบวนการ ลงทะเบียน โดยกรอกรายละเอียด ลง ทักษะของคุณ"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "อีเมลที่มี คำแนะนำเพิ่มเติม ถูก ส่งไปยัง ที่อยู่ อีเมลของคุณ"
+
+msgid "Submit"
+msgstr "ส่ง"
+
+msgid "Cars"
+msgstr "รถยนต์"
+
+msgid "Science"
+msgstr "วิทยาศาสตร์"
+
+msgid "Donation"
+msgstr "เงินบริจาค"
+
+msgid "Interests"
+msgstr "สนใจ"
+
+msgid "Driver"
+msgstr "ไดร์เวอร์"
+
+msgid "Sportsman"
+msgstr "นักกีฬา"
+
+msgid "Businessman"
+msgstr "ธุรกิจ"
+
+msgid "Accountant"
+msgstr "นักบัญชี"
+
+msgid "Engineer"
+msgstr "วิศวกร"
+
+msgid "Soldier"
+msgstr "ทหาร"
+
+msgid "Next"
+msgstr "ถัดไป"
+
+msgid "Hide group"
+msgstr "ซ่อน กลุ่ม"
+
+msgid "groups created"
+msgstr "กลุ่ม ที่สร้างขึ้น"
+
+msgid "articles written"
+msgstr "บทความที่เขียน"
+
+msgid "These groups may be interesting for you"
+msgstr "กลุ่มคนเหล่านี้ อาจจะเป็น ที่น่าสนใจ สำหรับคุณ"
+
+msgid "About Group"
+msgstr "เกี่ยวกับกลุ่ม"
+
+msgid "view(s)"
+msgstr "มุมมอง (s)"
+
+msgid "Favorite users"
+msgstr "ผู้ใช้งาน ที่ชื่นชอบ"
+
+msgid "No accounts"
+msgstr "ไม่มี บัญชี"
+
+msgid "Facebook authorization failed."
+msgstr "อนุญาต Facebook ล้มเหลว"
+
+msgid "Authorization Required"
+msgstr "ต้องการการอนุมัติ"
+
+msgid "You have to make a call:"
+msgstr "คุณต้อง โทร :"
+
+msgid "You have to send an email:"
+msgstr "คุณจะต้อง ส่งอีเมล :"
+
+msgid "You have a meetup:"
+msgstr "คุณมี Meetup :"
+
+msgid "You event :"
+msgstr "เหตุการณ์ที่คุณ :"
+
+msgid "Participants:"
+msgstr "ผู้เข้าร่วม :"
+
+msgid "Search"
+msgstr "ค้นหา"
+
+msgid "News"
+msgstr "ข่าว"
+
+msgid "Investments"
+msgstr "เงินลงทุน"
+
+msgid "Back to Cloud"
+msgstr "กลับไป เมฆ"
+
+msgid "Documents"
+msgstr "เอกสาร"
+
+msgid "Planet"
+msgstr "แพลนเน็ต"
+
+msgid "Group url"
+msgstr "สมาชิก กลุ่ม"
+
+msgid "Profile url"
+msgstr "URL โปรไฟล์"
+
+msgid "Already taken"
+msgstr "ดำเนินการแล้ว"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "อย่างน้อย 1 ตัวอักษรและ ความยาว 3 ตัวอักษร ที่ต้องการ"
+
+msgid "Digit can not be the first character"
+msgstr "หลัก ไม่สามารถเป็น ตัวอักษรตัวแรก"
+
+msgid "Enter valid email address"
+msgstr "ป้อนที่อยู่ อีเมลที่ถูกต้อง"
+
+msgid "Enter your skills"
+msgstr "ใส่ ทักษะของคุณ"
+
+msgid "Enter your first name"
+msgstr "ป้อนชื่อ ครั้งแรกของคุณ"
+
+msgid "Enter your last name"
+msgstr "ใส่ นามสกุลของคุณ"
+
+msgid "Enter your first name and last name"
+msgstr "ใส่ ชื่อของคุณ และนามสกุล"
+
+msgid "Your first name?"
+msgstr "ชื่อจริงของคุณ?"
+
+msgid "Your last name?"
+msgstr "นามสกุลของคุณ?"
+
+msgid "What are your proficiencies?"
+msgstr "สิ่งที่เป็น ความช่ำชอง ของคุณ ?"
+
+msgid "Select country"
+msgstr "เลือกประเทศ"
+
+msgid "Select user"
+msgstr "ผู้ใช้ เลือก"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "เติมเต็มความ ฝันของคุณ! และ การทำงานร่วมกัน สร้าง"
+
+msgid "date moved from"
+msgstr "วันที่ ย้ายมาจาก"
+
+msgid "work"
+msgstr "งาน"
+
+msgid "Conference"
+msgstr "การประชุม"
+
+msgid "personal"
+msgstr "ส่วนบุคคล"
+
+msgid "Holiday"
+msgstr "ฮอลิเดย์"
+
+msgid "Past"
+msgstr "ที่ผ่านมา"
+
+msgid "Future"
+msgstr "อนาคต"
+
+msgid "Purchase"
+msgstr "ซื้อ"
+
+msgid "Personal events"
+msgstr "กิจกรรมส่วนตัว"
+
+msgid "Conferences"
+msgstr "ประชุม"
+
+msgid "Holidays"
+msgstr "วันหยุด"
+
+msgid "Sport events"
+msgstr "การแข่งขันกีฬา"
+
+msgid "Tasks"
+msgstr "งาน"
+
+msgid "Other events"
+msgstr "กิจกรรมอื่น ๆ"
+
+msgid "Set aside"
+msgstr "เบเกอรี่"
+
+msgid "Set aside"
+msgstr "รอตัดบัญชี"
+
+msgid "Time management"
+msgstr "การบริหารเวลา"
+
+msgid "Delayed events"
+msgstr "เหตุการณ์ที่เกิดขึ้นรอการตัดบัญชี"
+
+msgid "Delayed"
+msgstr "รอตัดบัญชี"
+
+msgid "Bind to"
+msgstr "กําหนด"
+
+msgid "answered your comment to"
+msgstr "ผมบอกว่า (ก) ความคิดเห็นเกี่ยวกับบทความ"
+
+msgid "commented your article"
+msgstr "ผมแสดงความคิดเห็นในบทความของคุณ"
+
+msgid "You\'ve answered on comment to"
+msgstr "คุณตอบสนองต่อการแสดงความคิดเห็นในบทความนี้"
+
+msgid "You\'ve commented an article"
+msgstr "คุณความเห็นเกี่ยวกับบทความ"
+
+msgid "Terms and Conditions"
+msgstr "ข้อตกลงและเงื่อนไข"
+
+msgid "Privacy Policy"
+msgstr "นโยบายความเป็นส่วนตัว"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "โดยคลิกที่ \"ลงทะเบียน\" คุณเห็นด้วยกับและรับทราบว่าคุณได้อ่านของเรา"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "เข้าร่วมกับชุมชนของคนที่มีความคิดสร้างสรรค์จากทั่วโลก! คุณจะได้รับ: การลงทุนในความคิดของคุณมีโอกาสที่จะรวบรวมทีมงานของเขาทำงานในกลุ่มที่ผู้จัดการการเงินการจัดการเวลาของพวกเขา 2 กิกะไบต์ในการจัดเก็บและอื่น ๆ และได้ฟรี!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "ขออภัยหน้าเว็บที่คุณกำลังมองหาไม่อยู่ ถ้าคุณคิดว่าจะตำหนิเราติดต่อเรา"
+
+msgid "Return"
+msgstr "ย้อนกลับ"
+
+msgid "COMMON"
+msgstr "ทั้งสิ้น"
+
+msgid "My events"
+msgstr "เหตุการณ์"
+
+msgid "Job opening"
+msgstr "ว่างใหม่"
+
+msgid "Employment"
+msgstr "ประเภทของการจ้างงาน"
+
+msgid "Working hours"
+msgstr "เวลาเปิดบริการ"
+
+msgid "City"
+msgstr "เมือง"
+
+msgid "Wages"
+msgstr "เงินเดือนที่ต้องการ"
+
+msgid "Currency"
+msgstr "สกุลเงิน"
+
+msgid "Experience"
+msgstr "ประสบการณ์การทำงาน"
+
+msgid "Full-time"
+msgstr "การจ้างงานเต็ม"
+
+msgid "Part-time"
+msgstr "Part-time"
+
+msgid "Project emplyment (опечатка на сайте)"
+msgstr "โครงการ / ชั่วคราว"
+
+msgid "Volunteer"
+msgstr "อาสาสมัคร"
+
+msgid "Internship"
+msgstr "ฝึกงาน"
+
+msgid "Full day"
+msgstr "เต็มเวลา"
+
+msgid "Shifts"
+msgstr "กำหนดการเปลี่ยน"
+
+msgid "Flexible shifts"
+msgstr "ตารางเวลาที่ยืดหยุ่น"
+
+msgid "Remote work"
+msgstr "การทำงานระยะไกล"
+
+msgid "Rotational basis"
+msgstr "วิธีการเปลี่ยนแปลง"
+
+msgid "Do you really want to delete this comment?"
+msgstr "คุณแน่ใจหรือว่าต้องการลบความคิดเห็นหรือไม่"
+
+msgid "Do you really want to delete this task?"
+msgstr "คุณแน่ใจหรือว่าต้องการลบงานนี้?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "คุณแน่ใจหรือว่าต้องการลบย่อยโครงการนี​​้หรือไม่"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "คุณได้นำไปใช้กับ บริษัท ในตำแหน่ง กรุณาตรวจสอบให้แน่ใจว่า"
+
+msgid "Your request to for job has been rejected"
+msgstr "คำขอของคุณให้กับ บริษัท ไปยังตำแหน่งที่ได้รับการปฏิเสธ"
+
+msgid "Your request to for job has been accepted"
+msgstr "คำขอของคุณให้กับ บริษัท ไปยังตำแหน่งที่ถูกนำมาใช้"
+
+msgid "profile is completed"
+msgstr "รายละเอียดของคุณเต็ม"
+
+msgid "Use account"
+msgstr "ใช้บัญชีผู้ใช้"
+
+msgid "$/hr"
+msgstr "$ / ชั่วโมง"
+
+msgid "Finance category"
+msgstr "หมวดหมู่ทางการเงิน"
+
+msgid "No projects"
+msgstr "โครงการไม่มี"
+
+msgid "Bind to finances"
+msgstr "กำหนดโครงการทางการเงิน"
+
+msgid "Preview"
+msgstr "ดู"
+
+msgid "Download"
+msgstr "ดาวน์โหลด"
+
+msgid "Save to my cloud"
+msgstr "คัดลอกพื้นที่เก็บข้อมูล"
+
+msgid "File successfully saved to your cloud"
+msgstr "ประสบความสำเร็จในการจัดเก็บไฟล์ในพื้นที่เก็บข้อมูลของคุณ"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "บันทึกไฟล์ในพื้นที่เก็บข้อมูลของคุณ?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "เลือกหมวดหมู่บทความ"
+
+msgid "Type something"
+msgstr "เขียนบางสิ่งบางอย่าง"
+
+msgid "Founded users"
+msgstr "ผู้ใช้พบว่า"
+
+msgid "Founded articles"
+msgstr "บทความที่ค้นพบ"
+
+msgid "Founded groups"
+msgstr "ก่อตั้งกลุ่ม"
+
+msgid "What are your skills?"
+msgstr "อะไรคือทักษะของคุณ?"
+
+msgid "Select at least 2 interests"
+msgstr "เลือกที่น่าสนใจอย่างน้อย 2"
+
+msgid "Need more interests"
+msgstr "ไม่ได้สนใจมากพอที่เลือก"
+
+msgid "What are you interesting in?"
+msgstr "สิ่งที่คุณมีความสนใจ?"
+
+msgid "You have no dialogs"
+msgstr "คุณไม่ได้มีการหารือ"
+
+msgid "Usage Stats"
+msgstr "ของรัฐ"
+
+msgid "Founded files"
+msgstr "ไฟล์ที่พบ"
+
+msgid "Big tiles"
+msgstr "กระเบื้องขนาดใหญ่"
+
+msgid "Small tiles"
+msgstr "กระเบื้องขนาดเล็ก"
+
+msgid "Table view"
+msgstr "มุมมองตาราง"
+
+msgid "Root folder"
+msgstr "ไดเรกทอรีราก"
+
+msgid "My files"
+msgstr "ไฟล์ของฉัน"
+
+msgid "Save as draft"
+msgstr "บันทึกเป็นร่าง"
+
+msgid "Buy More Space"
+msgstr "ซื้อพื้นที่มากขึ้น"
+
+msgid "Buy"
+msgstr "ซื้อ"
+
+msgid "You have been invited to group as"
+msgstr "คุณได้รับเชิญไปยังกลุ่มเป็น"
+
+msgid "User wants to join your group"
+msgstr "ผู้ใช้ที่มีความประสงค์ที่จะเข้าร่วมกลุ่มของคุณ"
+
+msgid "Section is coming soon!"
+msgstr "มาตราภายใต้การก่อสร้าง!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "เข้าชมในช่วง 24 ชั่วโมง:"
+
+msgid "Task was updated"
+msgstr "งานที่ได้รับการปรับปรุง"
+
+msgid "Task was closed"
+msgstr "ความท้าทายที่ได้รับการปิด"
+
+msgid "Task was created"
+msgstr "งานที่ได้รับการตั้งค่า"
+
+msgid "Current balance"
+msgstr "ยอดเงินปัจจุบัน"
+
+msgid "Add funds"
+msgstr "เพิ่ม"
+
+msgid "Pay"
+msgstr "ชำระเงิน"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "คุณได้เกินจำนวนครั้งการเข้าสู่ระบบ คุณจะถูกบล็อกเป็นเวลา 15 นาที"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "โปรดยืนยันอีเมลของคุณ จดหมายที่ส่งถึงคุณโดยทางไปรษณีย์"
+
+msgid "Resend confirmation email"
+msgstr "ส่งการยืนยันอีกครั้ง"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB ต่อเดือน"
+
+msgid "Disk 10Gb Monthly"
+msgstr "ไดรฟ์ 10 GB ต่อปี"
+
+msgid "Disk 100Gb Yearly"
+msgstr "ดิสก์ 100 GB ในแต่ละปี"
+
+msgid "Disk 1Tb Monthly"
+msgstr "ดิสก์ 1TB รายเดือน"
+
+msgid "Disk 1Tb Yearly"
+msgstr "ไดรฟ์ 1 TB ในแต่ละปี"
+
+msgid "Project members monthly"
+msgstr "ผู้เข้าร่วมกิจกรรมของโครงการเป็นประจำทุกเดือน"
+
+msgid "Project members yearly"
+msgstr "ผู้เข้าร่วมโครงการเป็นประจำทุกปี"
+
+msgid "Member(s) yearly"
+msgstr "สมาชิก (s) ต่อปี"
+
+msgid "Member(s) monthly"
+msgstr "สมาชิก (s) เป็นประจำทุกเดือน"
+
+msgid "Authorized"
+msgstr "ผู้มีอำนาจ"
+
+msgid "Authorization expired"
+msgstr "หมดอายุการอนุญาต"
+
+msgid "Processor declined"
+msgstr "ระบบการประมวลผลที่ถูกปฏิเสธ"
+
+msgid "Gateway rejected"
+msgstr "ช่องทางการชำระเงินที่ถูกปฏิเสธ"
+
+msgid "Failed"
+msgstr "ข้อผิดพลาด"
+
+msgid "Voided"
+msgstr "ยกเลิก"
+
+msgid "Submitted for settlement"
+msgstr "ส่งไปลงทะเบียนเรียน"
+
+msgid "Settlement declined"
+msgstr "ลงทะเบียนได้รับการปฏิเสธ"
+
+msgid "Settlement pending"
+msgstr "ที่รอดำเนินการลงทะเบียน"
+
+msgid "Verified"
+msgstr "การตรวจสอบ"
+
+msgid "Pending"
+msgstr "ที่รอดำเนินการ"
+
+msgid "Active"
+msgstr "ที่ใช้งาน"
+
+msgid "Past Due"
+msgstr "หมดอายุ"
+
+msgid "Expired"
+msgstr "สิ้นสุดวันที่"
+
+msgid "Marketer"
+msgstr "นักการตลาด"
+
+msgid "India"
+msgstr "อินเดีย"
+
+msgid "Malaysia"
+msgstr "ประเทศมาเลเซีย"
+
+msgid "Thailand"
+msgstr "ประเทศไทย"
+
+msgid "South Korea"
+msgstr "เกาหลีใต้"
+
+msgid "Kazakhstan"
+msgstr "คาซัคสถาน"
+
+msgid "Israel"
+msgstr "อิสราเอล"
+
+msgid "Ukraine"
+msgstr "ยูเครน"
+
+msgid "Belarus"
+msgstr "เบลารุส"
+
+msgid "Bulgaria"
+msgstr "บัลแกเรีย"
+
+msgid "Turkey"
+msgstr "ตุรกี"
+
+msgid "Armenia"
+msgstr "อาร์เมเนีย"
+
+msgid "Serbia"
+msgstr "เซอร์เบีย"
+
+msgid "Austria"
+msgstr "ออสเตรีย"
+
+msgid "Poland"
+msgstr "โปแลนด์"
+
+msgid "Germany"
+msgstr "ประเทศเยอรมัน"
+
+msgid "Italy"
+msgstr "อิตาลี"
+
+msgid "Netherlands"
+msgstr "เนเธอร์แลนด์"
+
+msgid "Ireland"
+msgstr "ไอร์แลนด์"
+
+msgid "United Kingdom"
+msgstr "บริเตนใหญ่"
+
+msgid "Portugal"
+msgstr "โปรตุเกส"
+
+msgid "Norway"
+msgstr "นอร์เวย์"
+
+msgid "United States"
+msgstr "ประเทศสหรัฐอเมริกา"
+
+msgid "Canada"
+msgstr "แคนาดา"
+
+msgid "Brazil"
+msgstr "บราซิล"
+
+msgid "Saudi Arabia"
+msgstr "ประเทศซาอุดีอาระเบีย"
+
+msgid "Canada"
+msgstr "อียิปต์"
+
+msgid "Russia"
+msgstr "รัสเซีย"
+
+msgid "Hong Kong"
+msgstr "ฮ่องกง"
+
+msgid "There was no any transactions yet."
+msgstr "ในขณะที่ไม่มีการทำรายการเดียว"
+
+msgid "Build a dream"
+msgstr "สร้างความฝัน"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "อ่านบทความที่น่าสนใจมากขึ้น - ไปลงทะเบียนฟรี"
+

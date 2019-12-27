@@ -1,0 +1,3344 @@
+# čeština (Чешский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: čeština (Чешский) <support@konstruktor.com>\n"
+"Language: čeština (Чешский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "uživatelské jméno"
+
+msgid "Invalid username or password, try again"
+msgstr "Nesprávné uživatelské jméno nebo heslo. Zkuste znovu."
+
+msgid "Settings"
+msgstr "Nastavení"
+
+msgid "Home"
+msgstr "domácí"
+
+msgid "You must log in to access this page"
+msgstr "Musíte se přihlásit pro přístup na tuto stránku"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Vaše relace byla vypršela. Prosím , znovu přihlásíte k provedení této akce"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Head Office"
+msgstr "Hlavní Kancelář"
+
+msgid "Address"
+msgstr "adresa"
+
+msgid "Back"
+msgstr "zpět"
+
+msgid "Apply"
+msgstr "platit"
+
+msgid "Upload files…"
+msgstr "Nahrát soubory ..."
+
+msgid "Set as main"
+msgstr "Nastavit jako hlavní"
+
+msgid "Delete"
+msgstr "vymazat"
+
+msgid "Original image"
+msgstr "původní obraz"
+
+msgid "Uploaded"
+msgstr "Nahráno"
+
+msgid "File name"
+msgstr "název souboru"
+
+msgid "File size"
+msgstr "velikost souboru"
+
+msgid "Resolution"
+msgstr "řešení"
+
+msgid "Enlarge"
+msgstr "zvětšit"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Original size"
+msgstr "původní velikost"
+
+msgid "For editor"
+msgstr "Pro editor"
+
+msgid "Resize"
+msgstr "Změna velikosti"
+
+msgid "Width"
+msgstr "šířka"
+
+msgid "Height"
+msgstr "výška"
+
+msgid "Media URL"
+msgstr "Media URL"
+
+msgid "Add record"
+msgstr "Přidat záznam"
+
+msgid "Show filter settings"
+msgstr "Zobrazit nastavení filtru"
+
+msgid "Edit record"
+msgstr "Upravit záznam"
+
+msgid "Delete record"
+msgstr "Smazat záznam"
+
+msgid "Delete checked records"
+msgstr "Smazat zkontrolovat záznamy"
+
+msgid "Dashboard"
+msgstr "palubní deska"
+
+msgid "Password"
+msgstr "heslo"
+
+msgid "Remember me"
+msgstr "Zapamatuj si mě"
+
+msgid "Login"
+msgstr "Přihlásit Se"
+
+msgid "Clean image cache"
+msgstr "Clean image mezipaměti"
+
+msgid "Processing query..."
+msgstr "Zpracování dotaz ..."
+
+msgid "CMS Development"
+msgstr "Vývoj CMS"
+
+msgid "Admin Home Page"
+msgstr "Správce Home Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Open Home stránka Front -end v nové záložce"
+
+msgid "Go to Site"
+msgstr "Přejít na web"
+
+msgid "Log out"
+msgstr "odhlásit se"
+
+msgid "Send"
+msgstr "odeslat"
+
+msgid "General"
+msgstr "obecný"
+
+msgid "Title"
+msgstr "název"
+
+msgid "Teaser"
+msgstr "hlavolam"
+
+msgid "Published"
+msgstr "Zveřejněno"
+
+msgid "Featured"
+msgstr "Nejlepší"
+
+msgid "Active"
+msgstr "aktivní"
+
+msgid "Field is mandatory"
+msgstr "Pole je povinné"
+
+msgid "Sort Order"
+msgstr "Pořadí řazení"
+
+msgid "Upload"
+msgstr "Nahrát"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "leden"
+
+msgid "Feb"
+msgstr "únor"
+
+msgid "Mar"
+msgstr "březen"
+
+msgid "Apr"
+msgstr "duben"
+
+msgid "May"
+msgstr "květen"
+
+msgid "Jun"
+msgstr "červen"
+
+msgid "Jul"
+msgstr "červenec"
+
+msgid "Aug"
+msgstr "srpen"
+
+msgid "Sep"
+msgstr "září"
+
+msgid "Oct"
+msgstr "říjen"
+
+msgid "Nov"
+msgstr "listopad"
+
+msgid "Dec"
+msgstr "prosinec"
+
+msgid "Product already exists in the order"
+msgstr "Produkt již v pořadí existuje"
+
+msgid "Product does not exist"
+msgstr "Produkt neexistuje"
+
+msgid "Incorrect request"
+msgstr "Nesprávný požadavek"
+
+msgid "Products"
+msgstr "Produkty"
+
+msgid "Product types"
+msgstr "typy výrobků"
+
+msgid "Contractors"
+msgstr "dodavatelé"
+
+msgid "Contractor"
+msgstr "dodavatel"
+
+msgid "Orders"
+msgstr "Objednávky"
+
+msgid "FAQ"
+msgstr "Nejčastější dotazy"
+
+msgid "New order"
+msgstr "nová objednávka"
+
+msgid "My orders"
+msgstr "Moje objednávky"
+
+msgid "Recharge balance"
+msgstr "nabíjení zůstatek"
+
+msgid "Administrator"
+msgstr "správce"
+
+msgid "Incorrect event ID"
+msgstr "Nesprávná ID události"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Upravit zhotovitele"
+
+msgid "Create contractor"
+msgstr "Vytvořit dodavatele"
+
+msgid "Edit question"
+msgstr "Upravit otázka"
+
+msgid "Create question"
+msgstr "Vytvořit otázku"
+
+msgid "Edit order"
+msgstr "Upravit objednávka"
+
+msgid "Create order"
+msgstr "Vytvořit objednávku"
+
+msgid "Edit product"
+msgstr "Upravit produkt"
+
+msgid "Create product"
+msgstr "vytvoření produktu"
+
+msgid "Edit product type"
+msgstr "Upravit typ výrobku"
+
+msgid "Create product type"
+msgstr "Vytvořit typ produktu"
+
+msgid "You have received a file"
+msgstr "Obdrželi jste soubor"
+
+msgid "You received a file from"
+msgstr "Obdrželi jste soubor z"
+
+msgid "File has been uploaded"
+msgstr "Soubor byl nahrán"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "minimální množství"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "položky"
+
+msgid "Remove"
+msgstr "odstranit"
+
+msgid "Contact person"
+msgstr "kontaktní osoba"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Contractor phone"
+msgstr "Dodavatel telefon"
+
+msgid "Contractor name"
+msgstr "Název Dodavatel"
+
+msgid "Contractor details"
+msgstr "podrobnosti dodavatele"
+
+msgid "Order ID"
+msgstr "ID zakázky"
+
+msgid "Sum"
+msgstr "součet"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Vyberte si vhodný platební systém pro dobití rovnováhu"
+
+msgid "Recharge amount"
+msgstr "nabíjení částka"
+
+msgid "Paid"
+msgstr "placený"
+
+msgid "Shipped"
+msgstr "Posíláme"
+
+msgid "- No products in this order -"
+msgstr "- Žádné produkty v tomto pořadí -"
+
+msgid "month"
+msgstr "měsíc"
+
+msgid "No user found"
+msgstr "Žádný uživatel nalezen"
+
+msgid "Achievement"
+msgstr "úspěch"
+
+msgid "Confirmed accomplishments"
+msgstr "potvrzené úspěchy"
+
+msgid "Remove achievement"
+msgstr "Odstranit úspěch"
+
+msgid "Headquaters"
+msgstr "Pobočka"
+
+msgid "Phone"
+msgstr "telefon"
+
+msgid "Site URL and email"
+msgstr "URL stránek a e-mail"
+
+msgid "Remove address"
+msgstr "Odstranit adresu"
+
+msgid "Members"
+msgstr "Členové"
+
+msgid "Requires a payment"
+msgstr "Vyžaduje platbu"
+
+msgid "Shipping"
+msgstr "lodní"
+
+msgid "Ready"
+msgstr "připravený"
+
+msgid "Find user..."
+msgstr "Najít uživatele ..."
+
+msgid "Order it"
+msgstr "objednat"
+
+msgid "Find group..."
+msgstr "Najděte skupinu ..."
+
+msgid "Find user or community..."
+msgstr "Najít uživatele nebo společenství ..."
+
+msgid "No item found"
+msgstr "Žádná položka nalezeno"
+
+msgid "years"
+msgstr "léta"
+
+msgid "Send message"
+msgstr "poslat zprávu"
+
+msgid "Message"
+msgstr "zpráva"
+
+msgid "To send message press Enter"
+msgstr "Chcete-li poslat zprávu stiskněte klávesu Enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Chcete-li poslat zprávu stiskněte Ctrl + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Zpracování soubor (y ) ..."
+
+msgid "Group settings"
+msgstr "nastavení skupiny"
+
+msgid "Create group"
+msgstr "Vytvořit skupinu"
+
+msgid "Group has been successfully saved"
+msgstr "Skupina byla úspěšně uložena"
+
+msgid "Group title"
+msgstr "název skupiny"
+
+msgid "Group video"
+msgstr "group video"
+
+msgid "Description"
+msgstr "popis"
+
+msgid "Your role in group"
+msgstr "Vaše role ve skupině"
+
+msgid "Role"
+msgstr "role"
+
+msgid "Photo or video gallery"
+msgstr "Foto nebo video galerie"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Nahrát video"
+
+msgid "Add group address"
+msgstr "Přidat skupinu adresu"
+
+msgid "Group articles"
+msgstr "Skupina články"
+
+msgid "No addresses yet"
+msgstr "Zatím žádné adresy"
+
+msgid "Add group achievement"
+msgstr "Přidat skupinu úspěch"
+
+msgid "No achivements yet"
+msgstr "Zatím žádné achivements"
+
+msgid "Are you sure to delete this user"
+msgstr "Opravdu chcete smazat tohoto uživatele"
+
+msgid "Add member"
+msgstr "Přidat člena"
+
+msgid "Are you sure to delete this record?"
+msgstr "Opravdu chcete smazat tento záznam ?"
+
+msgid "Join this group"
+msgstr "Připojte se k této skupině"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Vaše pozvánka byla odeslána na správce skupiny"
+
+msgid "All addresses"
+msgstr "Všechny adresy"
+
+msgid "Collapse"
+msgstr "kolaps"
+
+msgid "Achievements"
+msgstr "úspěchy"
+
+msgid "Show more"
+msgstr "zobrazit více"
+
+msgid "Team"
+msgstr "tým"
+
+msgid "Projects"
+msgstr "Projekty"
+
+msgid "New project"
+msgstr "Nový projekt"
+
+msgid "Project has not been created yet"
+msgstr "Projekt dosud nebyl vytvořen"
+
+msgid "Messanger"
+msgstr "Messenger"
+
+msgid "Balance"
+msgstr "zůstatek"
+
+msgid "Main page"
+msgstr "hlavní strana"
+
+msgid "Upload image"
+msgstr "Nahrát obrázek"
+
+msgid "My time"
+msgstr "Můj čas"
+
+msgid "Day"
+msgstr "den"
+
+msgid "Week"
+msgstr "týden"
+
+msgid "Project settings"
+msgstr "nastavení projektu"
+
+msgid "Create project"
+msgstr "Vytvořit projekt"
+
+msgid "Project has been successfully saved"
+msgstr "Projekt byl úspěšně uložen"
+
+msgid "Project name"
+msgstr "Název projektu"
+
+msgid "Deadline"
+msgstr "uzávěrka"
+
+msgid "Close"
+msgstr "zavřít"
+
+msgid "Manager"
+msgstr "Manažer"
+
+msgid "Assigned to"
+msgstr "přiřazen"
+
+msgid "Discussion"
+msgstr "diskuse"
+
+msgid "Task was created"
+msgstr "Úkol byl vytvořen"
+
+msgid "Task was closed"
+msgstr "Úkol byl uzavřen"
+
+msgid "Go to Group"
+msgstr "Přejděte do skupiny"
+
+msgid "Closed"
+msgstr "zavřeno"
+
+msgid "Last updates"
+msgstr "Poslední aktualizace"
+
+msgid "Project is closed"
+msgstr "Projekt je uzavřen"
+
+msgid "No open tasks"
+msgstr "Žádné otevřené úkoly"
+
+msgid "New task"
+msgstr "Nový úkol"
+
+msgid "Closed tasks"
+msgstr "uzavřené úkoly"
+
+msgid "Add subproject"
+msgstr "Přidat dílčí projekt"
+
+msgid "Add task"
+msgstr "Přidat úkol"
+
+msgid "Sun"
+msgstr "neděle"
+
+msgid "Mon"
+msgstr "pondělí"
+
+msgid "Tue"
+msgstr "úterý"
+
+msgid "Wed"
+msgstr "středa"
+
+msgid "Thur"
+msgstr "čtvrtek"
+
+msgid "Fri"
+msgstr "pátek"
+
+msgid "Sat"
+msgstr "sobota"
+
+msgid "Event title"
+msgstr "název akce"
+
+msgid "Event description"
+msgstr "popis události"
+
+msgid "I registered on this site"
+msgstr "Zaregistroval jsem se na tomto webu"
+
+msgid "Last created groups"
+msgstr "Poslední vytvořené skupiny"
+
+msgid "You joined this group as"
+msgstr "Připojili jste se tuto skupinu jako"
+
+msgid "You received a request to join the group"
+msgstr "Obdrželi jste žádost , aby se připojil ke skupině"
+
+msgid "Updated site"
+msgstr "Aktualizováno site"
+
+msgid "Site is under construction"
+msgstr "Stránky jsou ve výstavbě"
+
+msgid "Last registered users"
+msgstr "Posledních registrovaných uživatelů"
+
+msgid "User settings"
+msgstr "Uživatelské nastavení"
+
+msgid "Technical support"
+msgstr "Technická podpora"
+
+msgid "Change email"
+msgstr "změnit email"
+
+msgid "Change password"
+msgstr "změnit heslo"
+
+msgid "User has been successfully saved"
+msgstr "Uživatel byl úspěšně uložen"
+
+msgid "Full name"
+msgstr "Celé jméno"
+
+msgid "My video"
+msgstr "moje video"
+
+msgid "Skills"
+msgstr "dovednosti"
+
+msgid "Birthday"
+msgstr "narozeniny"
+
+msgid "Country of residence"
+msgstr "Země trvalého pobytu"
+
+msgid "Country"
+msgstr "země"
+
+msgid "Zip Code"
+msgstr "Psč"
+
+msgid "City/town of residence"
+msgstr "Město / obec trvalého pobytu"
+
+msgid "University/college"
+msgstr "Univerzita / škola"
+
+msgid "University/college photo"
+msgstr "Univerzita / škola fotografie"
+
+msgid "Add user\'s accomplishments"
+msgstr "Přidejte úspěchy uživatele"
+
+msgid "Interface language"
+msgstr "jazyk rozhraní"
+
+msgid "How other people see this page"
+msgstr "Jak jiní lidé vidí tuto stránku"
+
+msgid "Video with me"
+msgstr "Video se mnou"
+
+msgid "Groups"
+msgstr "skupiny"
+
+msgid "Registered today"
+msgstr "dnes registrováno"
+
+msgid "Qty"
+msgstr "Množství"
+
+msgid "No registered users yet"
+msgstr "Zatím žádné registrovaní uživatelé"
+
+msgid "Total"
+msgstr "celkem"
+
+msgid "Registered total"
+msgstr "Registrované celkem"
+
+msgid "You received a file"
+msgstr "Obdrželi jste soubor"
+
+msgid "You were invited into this room"
+msgstr "Jste byli pozváni do této místnosti"
+
+msgid "Request is being processed"
+msgstr "Požadavek se zpracovává"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Messenger"
+msgstr "Messenger"
+
+msgid "New subproject"
+msgstr "Nový podprojekt"
+
+msgid "messages written."
+msgstr "zprávy napsané."
+
+msgid "projects created based on groups."
+msgstr "projekty vytvořené na základě skupiny."
+
+msgid "users registered on website."
+msgstr "uživatelů registrovaných na internetových stránkách ."
+
+msgid "New email"
+msgstr "Nový e-mail"
+
+msgid "Confirm email"
+msgstr "Potvrdit email"
+
+msgid "New password"
+msgstr "Nové heslo"
+
+msgid "Confirm password"
+msgstr "Potvrďte heslo"
+
+msgid "Occupation"
+msgstr "Speciality"
+
+msgid "Timezone"
+msgstr "Časová zóna"
+
+msgid "Answer"
+msgstr "odpovědět"
+
+msgid "Articles"
+msgstr "Články"
+
+msgid "Article"
+msgstr "výrobek"
+
+msgid "Video-article"
+msgstr "Video - článek"
+
+msgid "Find article..."
+msgstr "Najít článek ..."
+
+msgid "Politics"
+msgstr "Politika"
+
+msgid "Economics"
+msgstr "Ekonomika"
+
+msgid "Community"
+msgstr "obec"
+
+msgid "Culture"
+msgstr "Kultura"
+
+msgid "Sports"
+msgstr "Sportovní"
+
+msgid "Hi-tech"
+msgstr "Hi-tech"
+
+msgid "Cars"
+msgstr "auta"
+
+msgid "Fashion"
+msgstr "Móda"
+
+msgid "Games"
+msgstr "hry"
+
+msgid "Other"
+msgstr "jiný"
+
+msgid "Invalid mediafile"
+msgstr "Neplatný mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Žádné články v této kategorii není dosud"
+
+msgid "Back to profile"
+msgstr "Zpět na profil"
+
+msgid "View article"
+msgstr "Zobrazit článek"
+
+msgid "Edit article"
+msgstr "Upravit článek"
+
+msgid "Create article"
+msgstr "Vytvořit článek"
+
+msgid "Article title"
+msgstr "název článku"
+
+msgid "Article section"
+msgstr "Článek sekce"
+
+msgid "Choose image"
+msgstr "Vyberte si obrázek"
+
+msgid "Save and upload"
+msgstr "Uložit a nahrát"
+
+msgid "Show more..."
+msgstr "Zobrazit více..."
+
+msgid "Create"
+msgstr "vytvořit"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Project"
+msgstr "Project"
+
+msgid "Team"
+msgstr "družstvo"
+
+msgid "A new article was published"
+msgstr "Nový článek byl publikován"
+
+msgid "You joined this project"
+msgstr "Připojili jste se tohoto projektu"
+
+msgid "Enter your information in the User settings"
+msgstr "Zadejte informace v Uživatelské nastavení"
+
+msgid "Communities"
+msgstr "Komunity"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Video prezentace své úspěchy"
+
+msgid "My articles"
+msgstr "Moje články"
+
+msgid "User"
+msgstr "uživatel"
+
+msgid "Users"
+msgstr "uživatelé"
+
+msgid "Add new list"
+msgstr "Přidat nový seznam"
+
+msgid "List title"
+msgstr "nadpis Seznam"
+
+msgid "Add"
+msgstr "Přidat"
+
+msgid "Add to favorites"
+msgstr "Přidat k oblíbeným"
+
+msgid "Delete from favorites"
+msgstr "Smazat z oblíbených"
+
+msgid "Select list"
+msgstr "Volba seznamu"
+
+msgid "Subscriptions"
+msgstr "Předplatné"
+
+msgid "Subscribe"
+msgstr "předplatit"
+
+msgid "Unsubscribe"
+msgstr "Odhlásit"
+
+msgid "General list"
+msgstr "General seznam"
+
+msgid "No users in this list"
+msgstr "Žádní uživatelé v tomto seznamu"
+
+msgid "Publish"
+msgstr "uveřejnit"
+
+msgid "Unpublish"
+msgstr "Zrušit publikování"
+
+msgid "Add user"
+msgstr "Přidat uživatele"
+
+msgid "Create document"
+msgstr "vytvoření dokumentu"
+
+msgid "Edit document"
+msgstr "Upravit dokument"
+
+msgid "View"
+msgstr "pohled"
+
+msgid "Document title"
+msgstr "název dokumentu"
+
+msgid "Find document..."
+msgstr "Najít dokument ..."
+
+msgid "Share your thoughts"
+msgstr "Podělte se o své myšlenky"
+
+msgid "Leave your comment"
+msgstr "Zanechte svůj komentář"
+
+msgid "Accept"
+msgstr "akceptovat"
+
+msgid "Decline"
+msgstr "pokles"
+
+msgid "Add article"
+msgstr "Přidat článek"
+
+msgid "Link to verified accomplishments"
+msgstr "Odkaz na ověřených úspěchy"
+
+msgid "No articles here yet..."
+msgstr "Žádné články Zde zatím"
+
+msgid "Find file or folder..."
+msgstr "Vyhledejte soubor nebo složku ..."
+
+msgid "Sort"
+msgstr "Třídit"
+
+msgid "By name"
+msgstr "podle názvu"
+
+msgid "By date"
+msgstr "podle data"
+
+msgid "By updated date"
+msgstr "Podle aktualizovaného data"
+
+msgid "By size"
+msgstr "podle velikosti"
+
+msgid "By type"
+msgstr "podle typu"
+
+msgid "Move"
+msgstr "Přesunout"
+
+msgid "File Manager"
+msgstr "Správce souborů"
+
+msgid "Share link"
+msgstr "Sdílet odkaz"
+
+msgid "Responsible"
+msgstr "Odpovědný"
+
+msgid "Performer"
+msgstr "Performer"
+
+msgid "New Folder"
+msgstr "Nová složka"
+
+msgid "Folder name"
+msgstr "název složky"
+
+msgid "By default"
+msgstr "Ve výchozím stavu"
+
+msgid "Back to group"
+msgstr "Zpět do skupiny"
+
+msgid "year(s)"
+msgstr "year (s)"
+
+msgid "January"
+msgstr "ledna"
+
+msgid "February"
+msgstr "únor"
+
+msgid "March"
+msgstr "březen"
+
+msgid "April"
+msgstr "dubna"
+
+msgid "May"
+msgstr "Květen"
+
+msgid "June"
+msgstr "června"
+
+msgid "July"
+msgstr "července"
+
+msgid "August"
+msgstr "vznešený"
+
+msgid "September"
+msgstr "září"
+
+msgid "October"
+msgstr "říjen"
+
+msgid "November"
+msgstr "listopadu"
+
+msgid "December"
+msgstr "prosince"
+
+msgid "Password Reminder"
+msgstr "Připomenutí hesla"
+
+msgid "Log In"
+msgstr "Přihlásit se"
+
+msgid "Sign in"
+msgstr "Podepiš"
+
+msgid "Register"
+msgstr "Registrovat"
+
+msgid "First name"
+msgstr "Jméno"
+
+msgid "Last name"
+msgstr "Příjmení"
+
+msgid "I agree with rules"
+msgstr "Souhlasím s pravidly"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Potvrzující email byl odeslán na vaši e-mailovou adresu."
+
+msgid "Thanks"
+msgstr "poděkování"
+
+msgid "Password must be at least 6 characters"
+msgstr "Heslo musí být alespoň 6 znaků"
+
+msgid "Creative Environment"
+msgstr "Creative Environment"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Musíte být nejméně třináct let používat tuto službu"
+
+msgid "Order status"
+msgstr "Stav objednávky"
+
+msgid "Processing order"
+msgstr "zpracování objednávek"
+
+msgid "Requires a payment"
+msgstr "Vyžaduje platbu"
+
+msgid "Shipping"
+msgstr "Lodní doprava"
+
+msgid "Ready"
+msgstr "Ready"
+
+msgid "Thank you for your payment"
+msgstr "Děkujeme vám za vaši platbu"
+
+msgid "Your payment has been cancelled"
+msgstr "Vaše platba byla zrušena"
+
+msgid "page"
+msgstr "strana"
+
+msgid "Rent period"
+msgstr "Rent období"
+
+msgid "Total, month"
+msgstr "Total, měsíc"
+
+msgid "Order items"
+msgstr "Order items"
+
+msgid "No records found"
+msgstr "Nenalezeny žádné záznamy"
+
+msgid "User with this email is already exist"
+msgstr "Uživatel s tímto emailem je již existují"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Složka nebo soubor s tímto názvem již existují v cílové složky"
+
+msgid "Minimal quantity"
+msgstr "minimální množství"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "tisk Výtisky"
+
+msgid "Terms of Use"
+msgstr "Podmínky použití"
+
+msgid "Privacy Policy"
+msgstr "Zásady ochrany osobních údajů"
+
+msgid "Find project..."
+msgstr "Najít projektu ..."
+
+msgid "New Project"
+msgstr "Nový projekt"
+
+msgid "Accounts"
+msgstr "účty"
+
+msgid "Operations"
+msgstr "operace"
+
+msgid "All accounts"
+msgstr "Všechny účty"
+
+msgid "All categories"
+msgstr "Všechny kategorie"
+
+msgid "Expense"
+msgstr "výdaj"
+
+msgid "Income"
+msgstr "příjem"
+
+msgid "Transfer"
+msgstr "Přenos"
+
+msgid "Expense"
+msgstr "výdaj"
+
+msgid "income"
+msgstr "příjem"
+
+msgid "tax"
+msgstr "daň"
+
+msgid "percent"
+msgstr "procento"
+
+msgid "transfer"
+msgstr "převod"
+
+msgid "Make operation"
+msgstr "Proveďte operaci"
+
+msgid "Select date"
+msgstr "Vyberte datum"
+
+msgid "Select account"
+msgstr "Vybrat účet"
+
+msgid "Month"
+msgstr "Měsíc"
+
+msgid "Quarter"
+msgstr "čtvrtina"
+
+msgid "Year"
+msgstr "Rok"
+
+msgid "From"
+msgstr "Z"
+
+msgid "To"
+msgstr "k"
+
+msgid "Expense amount"
+msgstr "výše výdajů"
+
+msgid "Categories"
+msgstr "kategorie"
+
+msgid "Comments"
+msgstr "Komentáře"
+
+msgid "Income amount"
+msgstr "výše příjmů"
+
+msgid "Transfer amount"
+msgstr "převáděná částka"
+
+msgid "From account"
+msgstr "z účtu"
+
+msgid "To account"
+msgstr "Na účet"
+
+msgid "New Account"
+msgstr "Nový účet"
+
+msgid "New Category"
+msgstr "Nová kategorie"
+
+msgid "All"
+msgstr "Vše"
+
+msgid "Name"
+msgstr "Jméno"
+
+msgid "Enter category name"
+msgstr "Zadejte název kategorie"
+
+msgid "Select type"
+msgstr "Vyberte typ"
+
+msgid "Credit card"
+msgstr "Kreditní karta"
+
+msgid "Debit card"
+msgstr "Debetní karta"
+
+msgid "Bank account"
+msgstr "bankovní účet"
+
+msgid "Cash"
+msgstr "Hotovost"
+
+msgid "Balance is empty"
+msgstr "Rovnováha je prázdný"
+
+msgid "Statistic is empty"
+msgstr "Statistika je prázdný"
+
+msgid "Regular payments"
+msgstr "Pravidelné platby"
+
+msgid "Are you sure ?"
+msgstr "Jste si jisti ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Opravdu chcete zavřít tento projekt ?"
+
+msgid "Project was deleted successfully"
+msgstr "Projekt byl úspěšně smazán"
+
+msgid "Select currency"
+msgstr "Vyberte měnu"
+
+msgid "Account"
+msgstr "Účet"
+
+msgid "Orders list"
+msgstr "seznam Objednávky"
+
+msgid "Order payments"
+msgstr "Objednat platby"
+
+msgid "View order"
+msgstr "Zobrazit objednávka"
+
+msgid "No response from Printer API"
+msgstr "Žádná odezva z tiskárny API"
+
+msgid "Bad response from Printer API"
+msgstr "Neplatná odpověď z tiskárny API"
+
+msgid "User ID"
+msgstr "uživatelské ID"
+
+msgid "Contact Person"
+msgstr "Kontaktní osoba"
+
+msgid "No orders to process"
+msgstr "Žádné objednávky ke zpracování"
+
+msgid "Article announce image"
+msgstr "Článek oznámit image"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Neplatné Adresa URL videa . Ponechte prázdné nebo vložte platný URL YouTube"
+
+msgid "Please, enter Contractor data"
+msgstr "Prosím , zadejte údaje Zhotovitel"
+
+msgid "Distribute devices"
+msgstr "distribuovat zařízení"
+
+msgid "Quantity"
+msgstr "množství"
+
+msgid "Devices left"
+msgstr "levý zařízení"
+
+msgid "Distributed devices"
+msgstr "Distribuované zařízení"
+
+msgid "You must enter quantity"
+msgstr "Musíte zadat množství"
+
+msgid "All devices are distributed"
+msgstr "Všechna zařízení jsou distribuovány"
+
+msgid "IP address"
+msgstr "IP adresa"
+
+msgid "Only for printer"
+msgstr "Pouze pro tiskárnu"
+
+msgid "Counter"
+msgstr "Counter"
+
+msgid "You was excluded from this room"
+msgstr "Jste byl vyloučen z této místnosti"
+
+msgid "Compare"
+msgstr "Porovnejte"
+
+msgid "Scheduled transaction"
+msgstr "Plánované transakce"
+
+msgid "Select transfer account"
+msgstr "Vybrat převodem na účet"
+
+msgid "Select income account"
+msgstr "Zvolte Účet příjmů"
+
+msgid "Reports"
+msgstr "Zprávy"
+
+msgid "Goals"
+msgstr "Cíle"
+
+msgid "Budgets"
+msgstr "rozpočty"
+
+msgid "Enter user name or email..."
+msgstr "Zadejte uživatelské jméno nebo e-mail ..."
+
+msgid "Invite had been sended"
+msgstr "Pozvěte byl odeslán"
+
+msgid "Statistics"
+msgstr "Statistics"
+
+msgid "Updated site began to work"
+msgstr "Aktualizováno web začal pracovat"
+
+msgid "City of residence"
+msgstr "Město pobytu"
+
+msgid "Edit favourites list"
+msgstr "Seznam Upravit oblíbené"
+
+msgid "Add favourites list"
+msgstr "Přidat seznam oblíbených položek"
+
+msgid "Categories is required"
+msgstr "Kategorie je nutná"
+
+msgid "Type new category name and hit Enter"
+msgstr "Zadejte nový název kategorie a stiskněte klávesu Enter"
+
+msgid "You created an order"
+msgstr "Vytvořili jste objednávku"
+
+msgid "You received a device due to this order"
+msgstr "Obdrželi jste zařízení v důsledku této objednávce"
+
+msgid "%s attached %s to task %s"
+msgstr "%s připojený %s k úkolu %s"
+
+msgid "member(s)"
+msgstr "uživatel (ů)"
+
+msgid "%s commented task %s"
+msgstr "%s komentoval úkol %s"
+
+msgid "%s closed task %s"
+msgstr "%s uzavřeným úkol %s"
+
+msgid "%s created task %s"
+msgstr "%s vytvářená úloha %s"
+
+msgid "%s created this project"
+msgstr "%s vytvořil tento projekt"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s vytvořený subproject \" %s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s uzavřený projekt \" %s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s uzavřeným subproject \" %s \""
+
+msgid "This field must not be blank"
+msgstr "Toto pole nesmí být prázdné"
+
+msgid "Document with such name is already exist"
+msgstr "Dokument s takovým názvem již existuje"
+
+msgid "Wait until image upload"
+msgstr "Počkejte, až se obraz nahrát"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Message can not be empty"
+msgstr "Zpráva nemůže být prázdná"
+
+msgid "Yes"
+msgstr "Ano,"
+
+msgid "No"
+msgstr "žádný"
+
+msgid "Created"
+msgstr "Vytvořeno"
+
+msgid "Compare is empty"
+msgstr "Porovnejte je prázdný"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Jste si jisti, že chcete odstranit operace"
+
+msgid "Do you really want to delete transaction"
+msgstr "Opravdu chcete smazat transakce"
+
+msgid "Project with same name already exists"
+msgstr "Projekt se stejným názvem již existuje"
+
+msgid "Account is not found"
+msgstr "Účet není nalezen"
+
+msgid "Currency is required"
+msgstr "Je zapotřebí Měna"
+
+msgid "error while deleting document"
+msgstr "chyba při mazání dokumentu"
+
+msgid "Expences"
+msgstr "výlohy"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Pozval jste uživatel \" %s\" v této místnosti"
+
+msgid "User \"%s\" joined this room"
+msgstr "Uživatel \" %s \" připojil tuto místnost"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Vyloučeny jste uživatel \" %s\" z této místnosti"
+
+msgid "User \"%s\" left this room"
+msgstr "Uživatel \" %s \" opustil tuto místnost"
+
+msgid "Add account"
+msgstr "Přidat účet"
+
+msgid "The requested page is not found"
+msgstr "Požadovaná stránka nebyla nalezena"
+
+msgid "Document"
+msgstr "doklad"
+
+msgid "Table"
+msgstr "Tabulka"
+
+msgid "file(s)"
+msgstr "soubor (y )"
+
+msgid "Residue"
+msgstr "zbytek"
+
+msgid "Result is empty"
+msgstr "Výsledek je prázdný"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Celková částka je%s pro %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Musíte uložit %s měsíčně na související účet"
+
+msgid "Start"
+msgstr "Začátek"
+
+msgid "finish"
+msgstr "úprava"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Vybraný účet je již používán pro jiný cíl"
+
+msgid "Amount required"
+msgstr "požadovaná částka"
+
+msgid "New goal"
+msgstr "Nový cíl"
+
+msgid "Goal"
+msgstr "Fotbalová branka"
+
+msgid "Goal name"
+msgstr "název cíle"
+
+msgid "Invalid date"
+msgstr "Neplatné datum"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Nezbytná částka musí být kladné číslo"
+
+msgid "Remain"
+msgstr "zůstat"
+
+msgid "Last day"
+msgstr "Poslední den"
+
+msgid "Accumulated"
+msgstr "nahromaděný"
+
+msgid "Put aside"
+msgstr "Dát stranou"
+
+msgid "January"
+msgstr "ledna"
+
+msgid "February"
+msgstr "únor"
+
+msgid "March"
+msgstr "březen"
+
+msgid "April"
+msgstr "dubna"
+
+msgid "May"
+msgstr "Květen"
+
+msgid "June"
+msgstr "června"
+
+msgid "July"
+msgstr "července"
+
+msgid "August"
+msgstr "vznešený"
+
+msgid "September"
+msgstr "září"
+
+msgid "October"
+msgstr "říjen"
+
+msgid "November"
+msgstr "listopadu"
+
+msgid "December"
+msgstr "prosince"
+
+msgid "Expenses projected/actual"
+msgstr "Náklady plánované / skutečné"
+
+msgid "Net Income projected/actual"
+msgstr "Čistý zisk plánované / skutečné"
+
+msgid "New budget"
+msgstr "Nový rozpočet"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Příjmy a výdaje Chart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Rozpočet se stejným párem účtu a kategorie již existuje"
+
+msgid "Budget is empty"
+msgstr "Rozpočet je prázdný"
+
+msgid "Budget"
+msgstr "Rozpočet"
+
+msgid "plan"
+msgstr "plán"
+
+msgid "fact"
+msgstr "skutečnost"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "Zobrazit více"
+
+msgid "Cancel"
+msgstr "zrušit"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "hod"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "Moje prodeje"
+
+msgid "Time spent"
+msgstr "Strávený čas"
+
+msgid "Total time spent"
+msgstr "Celkový čas strávený"
+
+msgid "Earnings per hour"
+msgstr "Zisk za hodinu"
+
+msgid "Total earnings"
+msgstr "celkové příjmy"
+
+msgid "Call"
+msgstr "Nazývat se"
+
+msgid "Phone call"
+msgstr "Telefonní hovor"
+
+msgid "Telephone calls"
+msgstr "Telefonní hovory"
+
+msgid "Send email"
+msgstr "Poslat e-mailem"
+
+msgid "Emails"
+msgstr "E-maily"
+
+msgid "Meeting"
+msgstr "Setkání"
+
+msgid "Meetings"
+msgstr "Schůze"
+
+msgid "All events"
+msgstr "Všechny akce"
+
+msgid "Task"
+msgstr "úkol"
+
+msgid "Event"
+msgstr "událost"
+
+msgid "Events"
+msgstr "Události"
+
+msgid "Time"
+msgstr "doba"
+
+msgid "Events statistics"
+msgstr "Události statistika"
+
+msgid "days"
+msgstr "dnů"
+
+msgid "hours"
+msgstr "hodiny"
+
+msgid "minutes"
+msgstr "minuty"
+
+msgid "Income & expense"
+msgstr "Příjmy a výdaje"
+
+msgid "Show chart"
+msgstr "Zobrazit graf"
+
+msgid "Hide chart"
+msgstr "Skrýt graf"
+
+msgid "Add event"
+msgstr "Přidat událost"
+
+msgid "Add financial data"
+msgstr "Přidejte finanční údaje"
+
+msgid "Select contractor"
+msgstr "Výběr zhotovitele"
+
+msgid "Net Income"
+msgstr "Čistý příjem"
+
+msgid "Revenue"
+msgstr "příjmy"
+
+msgid "Taxes"
+msgstr "Daně"
+
+msgid "Amount planned"
+msgstr "částka plánovaná"
+
+msgid "Amount"
+msgstr "částka"
+
+msgid "Period"
+msgstr "lhůta"
+
+msgid "Are you sure to close this task?"
+msgstr "Opravdu chcete zavřít tento úkol ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "Všechny skupiny"
+
+msgid "added from task"
+msgstr "přidal od úkolu"
+
+msgid "Monthly repeat"
+msgstr "Měsíční opakovat"
+
+msgid "Select category"
+msgstr "Vyberte kategorii"
+
+msgid "Event type"
+msgstr "Typ akce"
+
+msgid "Margin"
+msgstr "Margin"
+
+msgid "Use finance project"
+msgstr "Používejte projektové financování"
+
+msgid "New investment project"
+msgstr "Nový investiční projekt"
+
+msgid "Investment project settings"
+msgstr "Nastavení investiční projekt"
+
+msgid "Picture, for the announcement project"
+msgstr "Obrázek pro oznámení projektu"
+
+msgid "Announcement project"
+msgstr "oznámení projekt"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Photos or videos gallery"
+msgstr "Fotografie a videa galerie"
+
+msgid "required amount"
+msgstr "požadovaná částka"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Doba trvání projektu ( 60 dnů maximum)"
+
+msgid "Project duration"
+msgstr "doba trvání projektu"
+
+msgid "Add reward"
+msgstr "Přidat odměnu"
+
+msgid "Delivery date"
+msgstr "Datum doručení"
+
+msgid "Payment systems"
+msgstr "Platební systémy"
+
+msgid "Terms of service"
+msgstr "Podmínky služby"
+
+msgid "Agreement"
+msgstr "smlouva"
+
+msgid "Payment"
+msgstr "splátka"
+
+msgid "My projects"
+msgstr "Moje projekty"
+
+msgid "Search result"
+msgstr "výsledek hledání"
+
+msgid "Nothing not found"
+msgstr "Nic nebyl nalezen"
+
+msgid "The project has no sponsors"
+msgstr "Tento projekt nemá žádné sponzory"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Food"
+msgstr "Jídlo"
+
+msgid "Journalism"
+msgstr "novinářství"
+
+msgid "Games"
+msgstr "hry"
+
+msgid "Art"
+msgstr "Art"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "muzika"
+
+msgid "Handicrafts"
+msgstr "Ruční práce"
+
+msgid "Publishing"
+msgstr "Vydavatelství"
+
+msgid "Theater"
+msgstr "Theater"
+
+msgid "Technology"
+msgstr "technologie"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "fotografie"
+
+msgid "Dance"
+msgstr "tancovat"
+
+msgid "Invalid youtube video"
+msgstr "Neplatné youtube video"
+
+msgid "is required"
+msgstr "je požadováno"
+
+msgid "User"
+msgstr "uživatel"
+
+msgid "Date"
+msgstr "datum"
+
+msgid "Collected"
+msgstr "Sebrané"
+
+msgid "Choose period"
+msgstr "Vyberte období"
+
+msgid "Choose region"
+msgstr "Zvolte oblast"
+
+msgid "Country"
+msgstr "Země"
+
+msgid "Today"
+msgstr "Dnes"
+
+msgid "Week"
+msgstr "týden"
+
+msgid "Month"
+msgstr "Měsíc"
+
+msgid "Year"
+msgstr "Rok"
+
+msgid "Free registration"
+msgstr "registrace zdarma"
+
+msgid "Join"
+msgstr "Připojit"
+
+msgid "Log in using"
+msgstr "Přihlaste se pomocí"
+
+msgid "Vacancies"
+msgstr "Pracovní příležitosti"
+
+msgid "About Us"
+msgstr "O nás"
+
+msgid "You will need email to log in"
+msgstr "Budete potřebovat e-mail přihlásit"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Kombinace 6 číslic a znaků"
+
+msgid "Search users, groups, articles..."
+msgstr "Hledat uživatele , skupiny , články ..."
+
+msgid "Cloud"
+msgstr "Mrak"
+
+msgid "Sunday"
+msgstr "neděle"
+
+msgid "Monday"
+msgstr "pondělí"
+
+msgid "Tuesday"
+msgstr "úterý"
+
+msgid "Wednesday"
+msgstr "středa"
+
+msgid "Thursday"
+msgstr "čtvrtek"
+
+msgid "Friday"
+msgstr "pátek"
+
+msgid "Saturday"
+msgstr "sobota"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Create group"
+msgstr "Vytvořit skupinu"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Jste si jisti, že chcete opustit tuto stránku ?"
+
+msgid "More"
+msgstr "Více"
+
+msgid "Less"
+msgstr "Méně"
+
+msgid "Pending"
+msgstr "Čekající"
+
+msgid "Approved"
+msgstr "Schválený"
+
+msgid "Rejected"
+msgstr "Odmítnuto"
+
+msgid "Subprojects"
+msgstr "Podprojekty"
+
+msgid "Group edit"
+msgstr "Skupina editovat"
+
+msgid "Startup"
+msgstr "Uvedení do provozu"
+
+msgid "Tattoo"
+msgstr "Tetování"
+
+msgid "Health"
+msgstr "Zdraví"
+
+msgid "Weapon"
+msgstr "Zbraň"
+
+msgid "Astronomy"
+msgstr "Astronomie"
+
+msgid "All articles"
+msgstr "Všechny články"
+
+msgid "Article editor"
+msgstr "Článek editor"
+
+msgid "Document editor"
+msgstr "editor dokumentů"
+
+msgid "Apply changes"
+msgstr "Použít změny"
+
+msgid "Save changes?"
+msgstr "Uložit změny?"
+
+msgid "published an article"
+msgstr "publikoval článek"
+
+msgid "Users"
+msgstr "uživatelé"
+
+msgid "Shared With Me"
+msgstr "Sdílené se mnou"
+
+msgid "share"
+msgstr "Sdílet"
+
+msgid "Select Group Responsible"
+msgstr "Vyberte Group Odpovědná"
+
+msgid "Create folder"
+msgstr "Vytvořit složku"
+
+msgid "Title must be at least 3 characters"
+msgstr "Název musí být minimálně 3 znaky"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Zdarma 10 GB , finanční manažer , investovat modul , a mnoho dalších zdarma a navždy"
+
+msgid "Best regards"
+msgstr "S pozdravem"
+
+msgid "Updates in last 12 hours:"
+msgstr "Aktualizace za posledních 12 hodin :"
+
+msgid "expense"
+msgstr "výdaj"
+
+msgid "Commentary on the event:"
+msgstr "Komentář k události :"
+
+msgid "Event place"
+msgstr "místo konání"
+
+msgid "Project was updated"
+msgstr "Projekt byl aktualizován"
+
+msgid "Project was created"
+msgstr "Projekt byl vytvořen"
+
+msgid "Project was closed"
+msgstr "Projekt byl uzavřen"
+
+msgid "account"
+msgstr "účet"
+
+msgid "removed task"
+msgstr "odstraněny úkol"
+
+msgid "removed subproject"
+msgstr "odstraněny podprojekt"
+
+msgid "Title can not be empty"
+msgstr "Název nemůže být prázdný"
+
+msgid "Do not select the type of event"
+msgstr "Nevybírejte typ události"
+
+msgid "Error while saving comment"
+msgstr "Chyba při ukládání komentář"
+
+msgid "Save error: access denied"
+msgstr "Ušetříte Chyba : Přístup byl odepřen"
+
+msgid "Remains"
+msgstr "Zbytky"
+
+msgid "Time spent, h."
+msgstr "Čas strávený , h."
+
+msgid "Emails"
+msgstr "E-maily"
+
+msgid "Meetings"
+msgstr "Schůze"
+
+msgid "All users"
+msgstr "Všichni uživatelé"
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "Finance project"
+msgstr "Finance projektu"
+
+msgid "Investment project"
+msgstr "Investiční projekt"
+
+msgid "Nature"
+msgstr "Příroda"
+
+msgid "Data is empty"
+msgstr "Data je prázdný"
+
+msgid "Visitors"
+msgstr "Návštěvníci"
+
+msgid "My profile"
+msgstr "Můj profil"
+
+msgid "Sponsors"
+msgstr "Sponzoři"
+
+msgid "Prior to completion"
+msgstr "Před dokončením"
+
+msgid "Select"
+msgstr "Vybrat"
+
+msgid "My groups"
+msgstr "Moje skupiny"
+
+msgid "The invitation has been sent successfully"
+msgstr "Pozvánka byla úspěšně odeslána"
+
+msgid "Username has already been invited to this project"
+msgstr "Uživatelské jméno již byl vyzván, aby tento projekt"
+
+msgid "The user is the creator of the project"
+msgstr "Uživatel je tvůrcem projektu"
+
+msgid "Provide full access"
+msgstr "Poskytovat plný přístup"
+
+msgid "Select elements to provide access"
+msgstr "Aktivace elementů pro zajištění přístupu"
+
+msgid "Select all"
+msgstr "Vybrat vše"
+
+msgid "User E-mail"
+msgstr "Uživatel E-mail"
+
+msgid "Click on the field to select a category"
+msgstr "Klikněte na poli vyberte kategorii"
+
+msgid "Invitation was deleted"
+msgstr "Pozvánka byla smazána"
+
+msgid "Permission denied"
+msgstr "Přístup odepřen"
+
+msgid "Printed"
+msgstr "tištěný"
+
+msgid "Incorrect Contractor email"
+msgstr "Nesprávná dodavatel e-mail"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Chcete přidat projekt financovat manažer ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Chcete-li dokončit proces registrace prosím vyplňte dolů své dovednosti"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Mailu s dalšími pokyny byl odeslán na vaši e-mailovou adresu"
+
+msgid "Submit"
+msgstr "Předložit"
+
+msgid "Cars"
+msgstr "auta"
+
+msgid "Science"
+msgstr "Věda"
+
+msgid "Donation"
+msgstr "Dar"
+
+msgid "Interests"
+msgstr "zájmy"
+
+msgid "Driver"
+msgstr "Řidič"
+
+msgid "Sportsman"
+msgstr "Sportovec"
+
+msgid "Businessman"
+msgstr "Podnikatel"
+
+msgid "Accountant"
+msgstr "Účetní"
+
+msgid "Engineer"
+msgstr "Inženýr"
+
+msgid "Soldier"
+msgstr "Voják"
+
+msgid "Next"
+msgstr "Další"
+
+msgid "Hide group"
+msgstr "Hide group"
+
+msgid "groups created"
+msgstr "skupiny vytvořil"
+
+msgid "articles written"
+msgstr "články napsané"
+
+msgid "These groups may be interesting for you"
+msgstr "Tyto skupiny mohou být zajímavé pro vás"
+
+msgid "About Group"
+msgstr "o skupině"
+
+msgid "view(s)"
+msgstr "Pohled ( y)"
+
+msgid "Favorite users"
+msgstr "Oblíbené uživatelů"
+
+msgid "No accounts"
+msgstr "Žádné účty"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook oprávnění se nezdařilo."
+
+msgid "Authorization Required"
+msgstr "Povolení požadované"
+
+msgid "You have to make a call:"
+msgstr "Musíte volat :"
+
+msgid "You have to send an email:"
+msgstr "Musíte poslat e-mail :"
+
+msgid "You have a meetup:"
+msgstr "Máte Setkání se :"
+
+msgid "You event :"
+msgstr "Ty akce :"
+
+msgid "Participants:"
+msgstr "Účastníci:"
+
+msgid "Search"
+msgstr "Vyhledávání"
+
+msgid "News"
+msgstr "Zprávy"
+
+msgid "Investments"
+msgstr "Investice"
+
+msgid "Back to Cloud"
+msgstr "Zpět na Cloud"
+
+msgid "Documents"
+msgstr "Dokumenty"
+
+msgid "Planet"
+msgstr "Planeta"
+
+msgid "Group url"
+msgstr "Skupina url"
+
+msgid "Profile url"
+msgstr "Profil url"
+
+msgid "Already taken"
+msgstr "která již byla přijata"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Alespoň 1 písmeno a 3 znaky požadovaná délka"
+
+msgid "Digit can not be the first character"
+msgstr "Digit nemůže být první znak"
+
+msgid "Enter valid email address"
+msgstr "Zadejte platnou e-mailovou adresu"
+
+msgid "Enter your skills"
+msgstr "Zadejte své dovednosti"
+
+msgid "Enter your first name"
+msgstr "Zadejte své křestní jméno"
+
+msgid "Enter your last name"
+msgstr "Zadejte své příjmení"
+
+msgid "Enter your first name and last name"
+msgstr "Zadejte své křestní jméno a příjmení"
+
+msgid "Your first name?"
+msgstr "Vaše jméno?"
+
+msgid "Your last name?"
+msgstr "Tvoje příjmení?"
+
+msgid "What are your proficiencies?"
+msgstr "Jaké jsou vaše kompetence ?"
+
+msgid "Select country"
+msgstr "Vyber zemi"
+
+msgid "Select user"
+msgstr "Vybrat uživatel"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Splnit svůj sen ! Vytvoření a spolupracovat ."
+
+msgid "date moved from"
+msgstr "datum přestěhoval z"
+
+msgid "work"
+msgstr "práce"
+
+msgid "Conference"
+msgstr "Konference"
+
+msgid "personal"
+msgstr "osobní"
+
+msgid "Holiday"
+msgstr "Dovolená"
+
+msgid "Past"
+msgstr "Past"
+
+msgid "Future"
+msgstr "Budoucí"
+
+msgid "Purchase"
+msgstr "Nákup"
+
+msgid "Personal events"
+msgstr "Soukromé události"
+
+msgid "Conferences"
+msgstr "Setkání"
+
+msgid "Holidays"
+msgstr "Prázdniny"
+
+msgid "Sport events"
+msgstr "Sportovní akce"
+
+msgid "Tasks"
+msgstr "Úkoly"
+
+msgid "Other events"
+msgstr "Další akce"
+
+msgid "Set aside"
+msgstr "Export dat"
+
+msgid "Set aside"
+msgstr "Odložené"
+
+msgid "Time management"
+msgstr "Time Management"
+
+msgid "Delayed events"
+msgstr "Odložené události"
+
+msgid "Delayed"
+msgstr "Odložené"
+
+msgid "Bind to"
+msgstr "Přiřadit"
+
+msgid "answered your comment to"
+msgstr "Řekl jsem (a) Komentovat článek"
+
+msgid "commented your article"
+msgstr "I komentoval svůj článek"
+
+msgid "You\'ve answered on comment to"
+msgstr "Reagoval jste na příspěvek na článek"
+
+msgid "You\'ve commented an article"
+msgstr "Komentoval jste na článek"
+
+msgid "Terms and Conditions"
+msgstr "Podmínky"
+
+msgid "Privacy Policy"
+msgstr "Ochrana osobních údajů"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Kliknutím na \"zaregistrovat\" souhlasíte s našimi a uznáváte, že jste si přečetli naše"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Připojte se ke komunitě kreativních lidí z celého světa! Obdržíte: Investice do vaší nápady, příležitost ke shromažďování jeho tým, pracující ve skupině, finanční manažer, řízení jejich čas, 2 GB na skladování a další. A je to zdarma!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Omlouváme se, ale stránka, kterou hledáte, neexistuje. Pokud si myslíte, že na vině nás kontaktujte nás"
+
+msgid "Return"
+msgstr "Zpáteční"
+
+msgid "COMMON"
+msgstr "Celkem"
+
+msgid "My events"
+msgstr "Moje události"
+
+msgid "Job opening"
+msgstr "Nová volné pracovní místo"
+
+msgid "Employment"
+msgstr "Druh pracovního poměru"
+
+msgid "Working hours"
+msgstr "Otevírací doba"
+
+msgid "City"
+msgstr "Velkoměsto"
+
+msgid "Wages"
+msgstr "Plat"
+
+msgid "Currency"
+msgstr "Měna"
+
+msgid "Experience"
+msgstr "Zážitek"
+
+msgid "Full-time"
+msgstr "Plná zaměstnanost"
+
+msgid "Part-time"
+msgstr "Částečný úvazek"
+
+msgid "Project employment"
+msgstr "Projekt / Dočasný"
+
+msgid "Volunteer"
+msgstr "Dobrovolnictví"
+
+msgid "Internship"
+msgstr "Stáž"
+
+msgid "Full day"
+msgstr "Full Time"
+
+msgid "Shifts"
+msgstr "Náhradní plán"
+
+msgid "Flexible shifts"
+msgstr "Flexibilní rozvrh"
+
+msgid "Remote work"
+msgstr "Vzdálená práce"
+
+msgid "Rotational basis"
+msgstr "Metoda Shift"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Jste si jisti, že chcete smazat komentář?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Jste si jisti, že chcete smazat tento úkol?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Jste si jisti, že chcete smazat tohoto dílčího projektu?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Jste použili na společnost v pozici. Prosím, ujistěte se, že"
+
+msgid "Your request to for job has been rejected"
+msgstr "Váš požadavek na společnosti, na pozici byla zamítnuta"
+
+msgid "Your request to for job has been accepted"
+msgstr "Byl přijat Váš požadavek na společnosti na pozici"
+
+msgid "profile is completed"
+msgstr "Váš profil je plná"
+
+msgid "Use account"
+msgstr "Použít účet"
+
+msgid "$/hr"
+msgstr "$ / Hod"
+
+msgid "Finance category"
+msgstr "Finanční kategorie"
+
+msgid "No projects"
+msgstr "Žádné projekty"
+
+msgid "Bind to finances"
+msgstr "Přiřadit finanční projekt"
+
+msgid "Preview"
+msgstr "Pohled"
+
+msgid "Download"
+msgstr "Ke stažení"
+
+msgid "Save to my cloud"
+msgstr "Zkopírujte úložiště"
+
+msgid "File successfully saved to your cloud"
+msgstr "Soubor byl úspěšně uložené v úložišti"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Uložte tento soubor v repozitáři?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Vyberte kategorii článek"
+
+msgid "Type something"
+msgstr "Napište něco"
+
+msgid "Founded users"
+msgstr "Nalezené uživatelů"
+
+msgid "Founded articles"
+msgstr "Nalezeno článek"
+
+msgid "Founded groups"
+msgstr "Společnost byla založena skupina"
+
+msgid "What are your skills?"
+msgstr "Jaké jsou vaše dovednosti?"
+
+msgid "Select at least 2 interests"
+msgstr "Vyberte alespoň 2 Úroky"
+
+msgid "Need more interests"
+msgstr "Nedostatek zájmu vybraný"
+
+msgid "What are you interesting in?"
+msgstr "Co vás zajímá?"
+
+msgid "You have no dialogs"
+msgstr "Nemáte dialogy"
+
+msgid "Usage Stats"
+msgstr "Stav"
+
+msgid "Founded files"
+msgstr "Nalezených souborů"
+
+msgid "Big tiles"
+msgstr "Velké dlaždice"
+
+msgid "Small tiles"
+msgstr "Malé Dlaždice"
+
+msgid "Table view"
+msgstr "Tabulkový výpis"
+
+msgid "Root folder"
+msgstr "Kořenový adresář"
+
+msgid "My files"
+msgstr "Moje soubory"
+
+msgid "Save as draft"
+msgstr "Uložit jako koncept"
+
+msgid "Buy More Space"
+msgstr "Koupit více prostoru"
+
+msgid "Buy"
+msgstr "Koupit"
+
+msgid "You have been invited to group as"
+msgstr "Byli jste pozváni do skupiny jako"
+
+msgid "User wants to join your group"
+msgstr "Uživatel si přeje, aby se připojili k vaší skupině"
+
+msgid "Section is coming soon!"
+msgstr "Sekce ve výstavbě!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Zobrazení za posledních 24 hodin:"
+
+msgid "Task was updated"
+msgstr "Úkol byl aktualizován"
+
+msgid "Task was closed"
+msgstr "Problémem byl uzavřen"
+
+msgid "Task was created"
+msgstr "Úkol byl nastaven"
+
+msgid "Current balance"
+msgstr "Běžný zůstatek"
+
+msgid "Add funds"
+msgstr "Přidat"
+
+msgid "Pay"
+msgstr "Pokladna"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Překročili jste počet pokusů o přihlášení. Ty jsou blokovány po dobu 15 minut"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Potvrďte prosím Váš e-mail. Dopis vám zaslán poštou."
+
+msgid "Resend confirmation email"
+msgstr "Odeslat potvrzení znovu"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disk 2 GB za měsíc"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Pohon 10 GB za rok"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB každý rok"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1TB měsíčně"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Pohon 1 TB každý rok"
+
+msgid "Project members monthly"
+msgstr "Účastníci projektu na měsíční bázi"
+
+msgid "Project members yearly"
+msgstr "Účastníci projektu ročně"
+
+msgid "Member(s) yearly"
+msgstr "Člen (y) za rok"
+
+msgid "Member(s) monthly"
+msgstr "Člen (y) na měsíční bázi"
+
+msgid "Authorized"
+msgstr "Autorizovaný"
+
+msgid "Authorization expired"
+msgstr "Skončila platnost povolení"
+
+msgid "Processor declined"
+msgstr "Zamítnuto Systém zpracování"
+
+msgid "Gateway rejected"
+msgstr "Zamítnuto platební brána"
+
+msgid "Failed"
+msgstr "Error"
+
+msgid "Voided"
+msgstr "Anulovat"
+
+msgid "Submitted for settlement"
+msgstr "Odesláno zapsat"
+
+msgid "Settlement declined"
+msgstr "Zápis byl odmítnut"
+
+msgid "Settlement pending"
+msgstr "Čekající zápis"
+
+msgid "Verified"
+msgstr "Zkontrolováno"
+
+msgid "Pending"
+msgstr "Čekající"
+
+msgid "Active"
+msgstr "Aktivní"
+
+msgid "Past Due"
+msgstr "Vypršela"
+
+msgid "Expired"
+msgstr "Ukončeno"
+
+msgid "Marketer"
+msgstr "Marketér"
+
+msgid "India"
+msgstr "Indie"
+
+msgid "Malaysia"
+msgstr "Malajsie"
+
+msgid "Thailand"
+msgstr "Thajsko"
+
+msgid "South Korea"
+msgstr "Jižní Korea"
+
+msgid "Kazakhstan"
+msgstr "Kazachstán"
+
+msgid "Israel"
+msgstr "Izrael"
+
+msgid "Ukraine"
+msgstr "Ukrajina"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Bulgaria"
+msgstr "Bulharsko"
+
+msgid "Turkey"
+msgstr "Turecko"
+
+msgid "Armenia"
+msgstr "Arménie"
+
+msgid "Serbia"
+msgstr "Srbsko"
+
+msgid "Austria"
+msgstr "Rakousko"
+
+msgid "Poland"
+msgstr "Polsko"
+
+msgid "Germany"
+msgstr "Německo"
+
+msgid "Italy"
+msgstr "Itálie"
+
+msgid "Netherlands"
+msgstr "Nizozemsko"
+
+msgid "Ireland"
+msgstr "Irsko"
+
+msgid "United Kingdom"
+msgstr "Velká Británie"
+
+msgid "Portugal"
+msgstr "Portugalsko"
+
+msgid "Norway"
+msgstr "Norsko"
+
+msgid "United States"
+msgstr "Spojené státy americké"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Brazil"
+msgstr "Brazílie"
+
+msgid "Saudi Arabia"
+msgstr "Saúdská Arábie"
+
+msgid "Canada"
+msgstr "Egypt"
+
+msgid "Russia"
+msgstr "Rusko"
+
+msgid "Hong Kong"
+msgstr "Hongkong"
+
+msgid "There was no any transactions yet."
+msgstr "V současné době, tam nebyla jediná transakce"
+
+msgid "Fulfill your dream"
+msgstr "Splnit svůj sen"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Připojte se k naší komunitě tvůrčích osobností z celého světa."
+
+msgid "Create and Collaborate"
+msgstr "Vytvoření a spolupracujte"
+
+msgid "Start Dreaming"
+msgstr "SPLNIT DREAM TEĎ"
+
+msgid "or"
+msgstr "nebo"
+
+msgid "Our mission:"
+msgstr "Naše mise:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Sjednotit kreativní a aktivní lidi realizovat nápady z jednoduché a poptávky na neuvěřitelné a fantastické, že mohou utvářet naši budoucnost."
+
+msgid "What is Konstruktor?"
+msgstr "Co je to Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor- je součástí našeho skutečného života, což významně usnadňuje a zjednodušuje"
+
+msgid "*business processes"
+msgstr "* obchodní procesy"
+
+msgid "*materialization of creative ideas"
+msgstr "* zhmotněním kreativních nápadů"
+
+msgid "*constructive cooperation"
+msgstr "* konstruktivní spolupráce"
+
+msgid "Make your dream!"
+msgstr "Udělej si svůj sen!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "výkonný ředitel"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Zvláštní poradce"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Manager Software Development"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Senior právník"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Návrhář"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Kliknutím na tlačítko \"Next\", přijímáte a souhlasí s našimi podmínkami, a jste uznává, že jste si přečetli naše Zásady ochrany osobních údajů."
+
+msgid "Incorrect login or password."
+msgstr "Nesprávné přístupové jméno nebo heslo."
+
+msgid "Password must be at least 6 characters"
+msgstr "Heslo musí být alespoň 6 znaků"
+
+msgid "January"
+msgstr "leden"
+
+msgid "February"
+msgstr "únor"
+
+msgid "March"
+msgstr "Pochod"
+
+msgid "April"
+msgstr "duben"
+
+msgid "May"
+msgstr "Smět"
+
+msgid "June"
+msgstr "červen"
+
+msgid "July"
+msgstr "červenec"
+
+msgid "August"
+msgstr "srpen"
+
+msgid "September"
+msgstr "září"
+
+msgid "October"
+msgstr "říjen"
+
+msgid "November"
+msgstr "listopad"
+
+msgid "December"
+msgstr "prosinec"
+
+msgid "Chat"
+msgstr "Povídat si"
+
+msgid "Files"
+msgstr "Soubory"
+
+msgid "Statistic"
+msgstr "Statistický"
+
+msgid "Support"
+msgstr "Podpora"
+
+msgid "Exit"
+msgstr "Výstup"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Bělorusko"
+
+msgid "Marketing specialist"
+msgstr "Marketingový specialista"
+
+msgid "Administrator"
+msgstr "Správce"
+
+msgid "Shared with me"
+msgstr "Sdílené se mnou"
+
+msgid "File Sharing"
+msgstr "Sdílení souborů"
+
+msgid "Provide access by link"
+msgstr "Poskytnout přístup odkaz"
+
+msgid "Provide Individual access"
+msgstr "Poskytujeme individuální přístup"
+
+msgid "Provide edit access"
+msgstr "Poskytněte přístup pro úpravy"
+
+msgid "Share"
+msgstr "Sdílet"
+
+msgid "Files will be available only for selected users"
+msgstr "Soubory budou k dispozici pouze pro vybrané uživatele"
+
+msgid "With this link everyone can access to the files"
+msgstr "S tímto spojuje každý může přístup k souborům"
+
+msgid "Search users, groups, articles..."
+msgstr "Hledat uživatele, skupiny, články ..."
+
+msgid "My Group"
+msgstr "Moje skupina"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "My"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Soubor není vybrán"
+
+msgid "Set aside"
+msgstr "Dát stranou"
+
+msgid "Event time"
+msgstr "Čas Událost"
+
+msgid "Work"
+msgstr "Práce"
+
+msgid "Personal"
+msgstr "Osobní"
+
+msgid "Time spent for work:"
+msgstr "Čas strávený při práci:"
+
+msgid "Personal time spent:"
+msgstr "Osobní doba strávená:"
+
+msgid "Present"
+msgstr "Současnost"
+
+msgid "Common"
+msgstr "Běžný"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "Entertainment"
+msgstr "Zábava"
+
+msgid "Select:"
+msgstr "Vybrat:"
+
+msgid "Invalid username or password."
+msgstr "Neplatné uživatelské jméno či heslo."
+
+msgid "Try again."
+msgstr "Zkuste znovu."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "O CO SE ZAJÍMÁŠ?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Vyberte minimálně 2 dovedností: zůstává 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Vyberte minimálně 2 dovedností: zůstává 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Vyberte minimálně 2 dovedností: zbytky"
+
+msgid "Active life"
+msgstr "Aktivní život"
+
+msgid "Arts and culture"
+msgstr "Umění a kultura"
+
+msgid "Business"
+msgstr "Obchodní"
+
+msgid "Cinema"
+msgstr "Kino"
+
+msgid "Communications"
+msgstr "Komunikace"
+
+msgid "Construction and repair"
+msgstr "Stavebnictví a oprava"
+
+msgid "Cooking"
+msgstr "Vaření"
+
+msgid "Education"
+msgstr "Školství"
+
+msgid "Electronics"
+msgstr "Elektronika"
+
+msgid "Finances"
+msgstr "Finance"
+
+msgid "Graphics and design"
+msgstr "Grafika a design"
+
+msgid "Health"
+msgstr "Zdraví"
+
+msgid "Home and family"
+msgstr "Domov a rodina"
+
+msgid "Humor"
+msgstr "Humor"
+
+msgid "IT"
+msgstr "TO"
+
+msgid "Industry"
+msgstr "Průmysl"
+
+msgid "Insurance"
+msgstr "Pojištění"
+
+msgid "Literature"
+msgstr "Literatura"
+
+msgid "Mobile communications and internet"
+msgstr "Mobilní komunikace a internet"
+
+msgid "News and Media"
+msgstr "Zprávy a média"
+
+msgid "Pets"
+msgstr "Domácí zvířata"
+
+msgid "Products and service"
+msgstr "Produkty a služby"
+
+msgid "Real Estate"
+msgstr "Nemovitost"
+
+msgid "Religion"
+msgstr "Náboženství"
+
+msgid "Science and techs"
+msgstr "Věda a technici"
+
+msgid "Security"
+msgstr "Zabezpečení"
+
+msgid "Society"
+msgstr "Společnost"
+
+msgid "Television"
+msgstr "Televize"
+
+msgid "Travel"
+msgstr "Cestovat"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Austrálie"
+
+msgid "Austria"
+msgstr "Rakousko"
+
+msgid "Belarus"
+msgstr "Bělorusko"
+
+msgid "Belgium"
+msgstr "Belgie"
+
+msgid "Brazil"
+msgstr "Brazílie"
+
+msgid "Bulgaria"
+msgstr "Bulharsko"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Dánsko"
+
+msgid "France"
+msgstr "Francie"
+
+msgid "Germany"
+msgstr "Německo"
+
+msgid "Greece"
+msgstr "Řecko"
+
+msgid "Hungary"
+msgstr "Maďarsko"
+
+msgid "Iceland"
+msgstr "Island"
+
+msgid "Ireland"
+msgstr "Irsko"
+
+msgid "Israel"
+msgstr "Izrael"
+
+msgid "Italy"
+msgstr "Itálie"
+
+msgid "Japan"
+msgstr "Japonsko"
+
+msgid "Mexico"
+msgstr "Mexiko"
+
+msgid "Netherlands"
+msgstr "Nizozemí"
+
+msgid "New Zealand"
+msgstr "Nový Zéland"
+
+msgid "Norway"
+msgstr "Norsko"
+
+msgid "Poland"
+msgstr "Polsko"
+
+msgid "Portugal"
+msgstr "Portugalsko"
+
+msgid "Russia"
+msgstr "Rusko"
+
+msgid "Slovakia"
+msgstr "Slovensko"
+
+msgid "South Africa"
+msgstr "Jižní Afrika"
+
+msgid "South Korea"
+msgstr "Jižní Korea"
+
+msgid "Spain"
+msgstr "Španělsko"
+
+msgid "Sweden"
+msgstr "Švédsko"
+
+msgid "Switzerland"
+msgstr "Švýcarsko"
+
+msgid "Turkey"
+msgstr "krocan"
+
+msgid "Ukraine"
+msgstr "Ukrajina"
+
+msgid "United Arab Emirates"
+msgstr "Spojené arabské emiráty"
+
+msgid "United Kingdom"
+msgstr "Spojené království"
+
+msgid "United States"
+msgstr "Spojené státy"
+
+msgid "achievements"
+msgstr "úspěchy"
+
+msgid "Investment management"
+msgstr "Správu investic"
+
+msgid "Select..."
+msgstr "Vybrat..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "INVESTMENT MANAGEMENT"
+
+msgid "Investors list"
+msgstr "Seznam Investoři"
+
+msgid "My investments"
+msgstr "Moje investice"
+
+msgid "Create date"
+msgstr "Datum Vytvoření"
+
+msgid "Author of the project"
+msgstr "Autor projektu"
+
+msgid "Date and time"
+msgstr "Datum a čas"
+
+msgid "Status"
+msgstr "Postavení"
+
+msgid "NEXT"
+msgstr "DALŠÍ"
+
+msgid "Next"
+msgstr "Další"
+
+msgid "Apply"
+msgstr "Aplikovat"
+
+msgid "Kazakhstan"
+msgstr "Kazachstán"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hongkong"
+
+msgid "Science"
+msgstr "Věda"
+
+msgid "Architecture"
+msgstr "Architektura"
+
+msgid "Photography"
+msgstr "Fotografování"
+
+msgid "Designer"
+msgstr "Návrhář"
+
+msgid "IT specialist"
+msgstr "IT specialista"
+
+msgid "Agronomist"
+msgstr "Agronom"
+
+msgid "Architect"
+msgstr "Architector"
+
+msgid "Lawyer"
+msgstr "Právník"
+
+msgid "Writer"
+msgstr "Spisovatel"
+
+msgid "Doctor"
+msgstr "Doktor"
+
+msgid "Scientist"
+msgstr "Vědec"
+
+msgid "Marketer"
+msgstr "Marketér"
+
+msgid "Teacher"
+msgstr "Učitel"
+
+msgid "Cook"
+msgstr "Vařit"
+
+msgid "Artist"
+msgstr "Umělec"
+
+msgid "Photographer"
+msgstr "Fotograf"
+
+msgid "Ecologist"
+msgstr "Ekolog"
+
+msgid "Economist"
+msgstr "Ekonom"
+
+msgid "Logistician"
+msgstr "Logistik"
+
+msgid "Journalist"
+msgstr "Novinář"
+
+msgid "Builder"
+msgstr "Stavitel"
+
+msgid "These users may be interesting for you"
+msgstr "Tito uživatelé mohou být zajímavé pro vás"
+
+msgid "These articles may be interesting for you"
+msgstr "Tyto výrobky mohou být zajímavé pro vás"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Připojili jste se tuto skupinu jako Аdministrator"
+
+msgid "articles written."
+msgstr "články napsané."
+
+msgid "groups created."
+msgstr "skupiny vytvořen."
+
+msgid "Creation"
+msgstr "Stvoření"
+
+msgid "Build a dream"
+msgstr "Staví sen"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Čtěte více zajímavé články - jít bezplatnou registraci"
+

@@ -1,0 +1,9 @@
+snc_redis:
+    clients:
+        default:
+            type: predis
+            alias: default
+            dsn: '%env(resolve:REDIS_DNS)%'
+            options:
+                parameters:
+                    database: '%env(resolve:REDIS_DATABASE)%'

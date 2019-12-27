@@ -1,0 +1,3344 @@
+# hmong (Хмонг) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: hmong (Хмонг) <support@konstruktor.com>\n"
+"Language: hmong (Хмонг)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "username"
+
+msgid "Invalid username or password, try again"
+msgstr "Tsis yog tus username los yog lo lus zais. Sim dua."
+
+msgid "Settings"
+msgstr "chaw"
+
+msgid "Home"
+msgstr "Tsev"
+
+msgid "You must log in to access this page"
+msgstr "Koj yuav tsum tau teev nyob rau hauv mus saib tau cov nplooj ntawv no"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Koj sib ntsib tau tso cai . Thov, relogin ua qhov kev txiav txim"
+
+msgid "Save"
+msgstr "Txuag"
+
+msgid "Head Office"
+msgstr "lub taub hau Office"
+
+msgid "Address"
+msgstr "chaw nyob"
+
+msgid "Back"
+msgstr "rov qab"
+
+msgid "Apply"
+msgstr "thov"
+
+msgid "Upload files…"
+msgstr "Upload ntaub ntawv ..."
+
+msgid "Set as main"
+msgstr "Koj muab ua ntsiab"
+
+msgid "Delete"
+msgstr "rho tawm"
+
+msgid "Original image"
+msgstr "thawj daim duab"
+
+msgid "Uploaded"
+msgstr "uploaded"
+
+msgid "File name"
+msgstr "cov ntaub ntawv npe"
+
+msgid "File size"
+msgstr "cov ntaub ntawv loj"
+
+msgid "Resolution"
+msgstr "kev daws teeb meem"
+
+msgid "Enlarge"
+msgstr "ntug"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Original size"
+msgstr "thawj loj"
+
+msgid "For editor"
+msgstr "rau editor"
+
+msgid "Resize"
+msgstr "resize"
+
+msgid "Width"
+msgstr "dav"
+
+msgid "Height"
+msgstr "qhov siab"
+
+msgid "Media URL"
+msgstr "Media URL"
+
+msgid "Add record"
+msgstr "ntxiv cov ntaub ntawv"
+
+msgid "Show filter settings"
+msgstr "Qhia lim chaw"
+
+msgid "Edit record"
+msgstr "Kho kom raug neeg cov ntaub ntawv"
+
+msgid "Delete record"
+msgstr "rho tawm cov ntaub ntawv"
+
+msgid "Delete checked records"
+msgstr "Rho tawm mus soj ntsuam cov ntaub ntawv"
+
+msgid "Dashboard"
+msgstr "dashboard"
+
+msgid "Password"
+msgstr "Lo lus zais"
+
+msgid "Remember me"
+msgstr "Nco ntsoov kuv"
+
+msgid "Login"
+msgstr "ID nkag mus"
+
+msgid "Clean image cache"
+msgstr "Huv duab cache"
+
+msgid "Processing query..."
+msgstr "Ua query ..."
+
+msgid "CMS Development"
+msgstr "CMS Development"
+
+msgid "Admin Home Page"
+msgstr "Admin Home Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Qhib Tsev page ntawm Pem Hauv Ntej- kawg nyob rau hauv ib tug tshiab tab"
+
+msgid "Go to Site"
+msgstr "Mus rau Site"
+
+msgid "Log out"
+msgstr "nkag mus tawm"
+
+msgid "Send"
+msgstr "Xa"
+
+msgid "General"
+msgstr "General"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Teaser"
+msgstr "teaser"
+
+msgid "Published"
+msgstr "Luam tawm"
+
+msgid "Featured"
+msgstr "Featured"
+
+msgid "Active"
+msgstr "active"
+
+msgid "Field is mandatory"
+msgstr "Teb yog yuav tsum tau"
+
+msgid "Sort Order"
+msgstr "tsi Order"
+
+msgid "Upload"
+msgstr "upload"
+
+msgid "Loading..."
+msgstr "Chaw thau khoom ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "FEB"
+
+msgid "Mar"
+msgstr "Lub peb hlis ntuj"
+
+msgid "Apr"
+msgstr "Plaub Hlis Ntuj"
+
+msgid "May"
+msgstr "Tej zaum"
+
+msgid "Jun"
+msgstr "Lub rau hli ntuj"
+
+msgid "Jul"
+msgstr "Lub Xya hli ntuj"
+
+msgid "Aug"
+msgstr "Lub yim hli ntuj"
+
+msgid "Sep"
+msgstr "Cuaj hlis"
+
+msgid "Oct"
+msgstr "Lub kaum hli ntuj"
+
+msgid "Nov"
+msgstr "Kaum ib hlis"
+
+msgid "Dec"
+msgstr "Hlis ntuj nqeg"
+
+msgid "Product already exists in the order"
+msgstr "Khoom twb tshwm sim nyob rau hauv qhov kev txiav txim"
+
+msgid "Product does not exist"
+msgstr "Khoom tsis muaj nyob"
+
+msgid "Incorrect request"
+msgstr "tsis yog thov"
+
+msgid "Products"
+msgstr "khoom"
+
+msgid "Product types"
+msgstr "khoom hom"
+
+msgid "Contractors"
+msgstr "lag luam"
+
+msgid "Contractor"
+msgstr "ntawv cog lus"
+
+msgid "Orders"
+msgstr "txiav txim"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "Tshiab thiaj"
+
+msgid "My orders"
+msgstr "kuv txiav txim"
+
+msgid "Recharge balance"
+msgstr "recharge tshuav nyiaj li cas"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Incorrect event ID"
+msgstr "Tsis yog kev tshwm sim ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Kho kom raug neeg ntawv cog lus"
+
+msgid "Create contractor"
+msgstr "tsim ntawv cog lus"
+
+msgid "Edit question"
+msgstr "Kho kom raug neeg lo lus nug"
+
+msgid "Create question"
+msgstr "tsim lo lus nug"
+
+msgid "Edit order"
+msgstr "Kho kom raug neeg thiaj"
+
+msgid "Create order"
+msgstr "tsim kev txiav txim"
+
+msgid "Edit product"
+msgstr "Kho kom raug neeg cov khoom"
+
+msgid "Create product"
+msgstr "tsim khoom"
+
+msgid "Edit product type"
+msgstr "Kho kom raug neeg cov khoom hom"
+
+msgid "Create product type"
+msgstr "Tsim khoom hom"
+
+msgid "You have received a file"
+msgstr "Koj tau txais ib cov ntaub ntawv"
+
+msgid "You received a file from"
+msgstr "Koj tau txais ib cov ntaub ntawv los ntawm"
+
+msgid "File has been uploaded"
+msgstr "Cov ntaub ntawv tau raug uploaded"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "tsawg heev kom muaj nuj nqis"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "khoom"
+
+msgid "Remove"
+msgstr "tshem tawm"
+
+msgid "Contact person"
+msgstr "Tus neeg"
+
+msgid "Email"
+msgstr "email"
+
+msgid "Contractor phone"
+msgstr "ntawv cog lus xov"
+
+msgid "Contractor name"
+msgstr "ntawv cog lus npe"
+
+msgid "Contractor details"
+msgstr "ntawv cog lus kom paub meej"
+
+msgid "Order ID"
+msgstr "Kev txiav txim ID"
+
+msgid "Sum"
+msgstr "sum"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Xaiv lub haum them nqi system rau recharge koj tshuav nyiaj li cas"
+
+msgid "Recharge amount"
+msgstr "recharge nqi"
+
+msgid "Paid"
+msgstr "them"
+
+msgid "Shipped"
+msgstr "shipped"
+
+msgid "- No products in this order -"
+msgstr "- Tsis muaj cov khoom nyob rau hauv kev txiav txim no -"
+
+msgid "month"
+msgstr "hlis"
+
+msgid "No user found"
+msgstr "Tsis neeg siv pom"
+
+msgid "Achievement"
+msgstr "Achievement"
+
+msgid "Confirmed accomplishments"
+msgstr "paub tseeb hais tias kev ua tiav"
+
+msgid "Remove achievement"
+msgstr "tshem tawm kev kawm"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "xov tooj"
+
+msgid "Site URL and email"
+msgstr "Site URL thiab email"
+
+msgid "Remove address"
+msgstr "tshem tawm qhov chaw nyob"
+
+msgid "Members"
+msgstr "Cov neeg"
+
+msgid "Requires a payment"
+msgstr "Yuav tsum tau ib tug them"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Ready"
+msgstr "npaj"
+
+msgid "Find user..."
+msgstr "Nrhiav neeg siv ..."
+
+msgid "Order it"
+msgstr "kom nws nyob"
+
+msgid "Find group..."
+msgstr "Nrhiav cov pab pawg neeg ..."
+
+msgid "Find user or community..."
+msgstr "Nrhiav neeg siv los yog lub zej lub zos ..."
+
+msgid "No item found"
+msgstr "Tsis yam khoom nyob"
+
+msgid "years"
+msgstr "xyoo"
+
+msgid "Send message"
+msgstr "Xa lus"
+
+msgid "Message"
+msgstr "lus"
+
+msgid "To send message press Enter"
+msgstr "Yuav kom xa cov lus xovxwm Sau"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Yuav kom xa cov lus xovxwm CTRL + Sau"
+
+msgid "Processing file(s)..."
+msgstr "Ua cov ntaub ntawv ( s ) ..."
+
+msgid "Group settings"
+msgstr "Group chaw"
+
+msgid "Create group"
+msgstr "tsim pab pawg neeg"
+
+msgid "Group has been successfully saved"
+msgstr "Group twb tau ntse cawm dim"
+
+msgid "Group title"
+msgstr "Group title"
+
+msgid "Group video"
+msgstr "Group video"
+
+msgid "Description"
+msgstr "hauj lwm"
+
+msgid "Your role in group"
+msgstr "Koj lub luag hauj lwm nyob rau hauv pab pawg neeg"
+
+msgid "Role"
+msgstr "luag hauj lwm"
+
+msgid "Photo or video gallery"
+msgstr "Duab los yog video gallery"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "upload video"
+
+msgid "Add group address"
+msgstr "Ntxiv pab pawg neeg qhov chaw nyob"
+
+msgid "Group articles"
+msgstr "Group cov khoom"
+
+msgid "No addresses yet"
+msgstr "Tsis chaw nyob tsis tau"
+
+msgid "Add group achievement"
+msgstr "Ntxiv pab pawg neeg kawm tau ntawv zoo"
+
+msgid "No achivements yet"
+msgstr "Tsis achivements tsis tau"
+
+msgid "Are you sure to delete this user"
+msgstr "Yog koj paub tseeb tias mus rho tawm no neeg siv"
+
+msgid "Add member"
+msgstr "Ntxiv neeg"
+
+msgid "Are you sure to delete this record?"
+msgstr "Yog koj paub tseeb tias mus rho tawm no cov ntaub ntawv ?"
+
+msgid "Join this group"
+msgstr "Koom nrog pab pawg neeg no"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Koj caw tau xa mus rau cov pab pawg neeg khiav dej num"
+
+msgid "All addresses"
+msgstr "Tag nrho cov chaw nyob"
+
+msgid "Collapse"
+msgstr "collapse"
+
+msgid "Achievements"
+msgstr "Achievements"
+
+msgid "Show more"
+msgstr "Qhia ntxiv"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "Projects"
+msgstr "Tej yaam num"
+
+msgid "New project"
+msgstr "Tshiab project"
+
+msgid "Project has not been created yet"
+msgstr "Project tsis tau tsim tsis tau"
+
+msgid "Messanger"
+msgstr "messanger"
+
+msgid "Balance"
+msgstr "Tshuav"
+
+msgid "Main page"
+msgstr "nplooj ntawv lub ntsiab"
+
+msgid "Upload image"
+msgstr "upload duab"
+
+msgid "My time"
+msgstr "kuv lub sij hawm"
+
+msgid "Day"
+msgstr "hnub"
+
+msgid "Week"
+msgstr "lub lim tiam"
+
+msgid "Project settings"
+msgstr "project chaw"
+
+msgid "Create project"
+msgstr "tsim project"
+
+msgid "Project has been successfully saved"
+msgstr "Project tau tau ​​ntse cawm dim"
+
+msgid "Project name"
+msgstr "project npe"
+
+msgid "Deadline"
+msgstr "Hnub Kawg"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Assigned to"
+msgstr "muab rau"
+
+msgid "Discussion"
+msgstr "sib tham"
+
+msgid "Task was created"
+msgstr "Ua hauj lwm twb tsim"
+
+msgid "Task was closed"
+msgstr "Ua hauj lwm twb kaw"
+
+msgid "Go to Group"
+msgstr "Mus rau Group"
+
+msgid "Closed"
+msgstr "kaw"
+
+msgid "Last updates"
+msgstr "Xeem tshiab"
+
+msgid "Project is closed"
+msgstr "Project yog kaw"
+
+msgid "No open tasks"
+msgstr "Tsis qhib kev pab raws qib"
+
+msgid "New task"
+msgstr "Tshiab ua hauj lwm"
+
+msgid "Closed tasks"
+msgstr "kaw kev pab raws qib"
+
+msgid "Add subproject"
+msgstr "Ntxiv subproject"
+
+msgid "Add task"
+msgstr "Ntxiv hauj lwm"
+
+msgid "Sun"
+msgstr "Sunday"
+
+msgid "Mon"
+msgstr "Monday"
+
+msgid "Tue"
+msgstr "Tuesday"
+
+msgid "Wed"
+msgstr "Wednesday"
+
+msgid "Thur"
+msgstr "Thursday"
+
+msgid "Fri"
+msgstr "Friday"
+
+msgid "Sat"
+msgstr "Saturday"
+
+msgid "Event title"
+msgstr "Cov kev tshwm sim title"
+
+msgid "Event description"
+msgstr "Cov kev tshwm sim piav qhia"
+
+msgid "I registered on this site"
+msgstr "Kuv sau npe rau ntawm qhov chaw"
+
+msgid "Last created groups"
+msgstr "Xeem tsim pawg"
+
+msgid "You joined this group as"
+msgstr "Koj tuaj koom no pab pawg neeg raws li"
+
+msgid "You received a request to join the group"
+msgstr "Koj tau txais ib daim ntawv thov mus koom cov pab pawg neeg"
+
+msgid "Updated site"
+msgstr "tshiab qhov chaw"
+
+msgid "Site is under construction"
+msgstr "Ntawm qhov chaw yog nyob rau hauv kev tsim kho"
+
+msgid "Last registered users"
+msgstr "Cuv npe tas los cov neeg siv"
+
+msgid "User settings"
+msgstr "Tus neeg siv chaw"
+
+msgid "Technical support"
+msgstr "Kev them nyiaj yug"
+
+msgid "Change email"
+msgstr "hloov email"
+
+msgid "Change password"
+msgstr "hloov lo lus zais"
+
+msgid "User has been successfully saved"
+msgstr "Tus neeg siv twb tau ntse rua"
+
+msgid "Full name"
+msgstr "lub npe tag nrho"
+
+msgid "My video"
+msgstr "kuv video"
+
+msgid "Skills"
+msgstr "txawj"
+
+msgid "Birthday"
+msgstr "Hnub yug"
+
+msgid "Country of residence"
+msgstr "Lub teb chaws ntawm qhov chaw nyob"
+
+msgid "Country"
+msgstr "Lub teb chaws"
+
+msgid "Zip Code"
+msgstr "Zip Code"
+
+msgid "City/town of residence"
+msgstr "Lub nroog / Hauv lub zos ntawm qhov chaw nyob"
+
+msgid "University/college"
+msgstr "University / kawm ntawv qib siab"
+
+msgid "University/college photo"
+msgstr "University / kawm ntawv qib siab yees duab"
+
+msgid "Add user\'s accomplishments"
+msgstr "Ntxiv tus ua tiav"
+
+msgid "Interface language"
+msgstr "interface lus"
+
+msgid "How other people see this page"
+msgstr "Yuav ua li cas lwm cov neeg pom tau cov nplooj ntawv no"
+
+msgid "Video with me"
+msgstr "Video nrog kuv"
+
+msgid "Groups"
+msgstr "Pawg"
+
+msgid "Registered today"
+msgstr "Sau npe hnub no"
+
+msgid "Qty"
+msgstr "Qty"
+
+msgid "No registered users yet"
+msgstr "Tsis sau npe cov neeg siv tsis tau"
+
+msgid "Total"
+msgstr "Tag nrho cov"
+
+msgid "Registered total"
+msgstr "Sau npe tag nrho"
+
+msgid "You received a file"
+msgstr "Koj tau txais ib cov ntaub ntawv"
+
+msgid "You were invited into this room"
+msgstr "Koj raug caw mus rau hauv cov chav no"
+
+msgid "Request is being processed"
+msgstr "Thov yog tau tiav"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Messenger"
+msgstr "cov tub txib"
+
+msgid "New subproject"
+msgstr "Tshiab subproject"
+
+msgid "messages written."
+msgstr "lus sau ."
+
+msgid "projects created based on groups."
+msgstr "tej yaam num tsim raws li cov pab pawg neeg ."
+
+msgid "users registered on website."
+msgstr "cov neeg siv sau npe rau lub website ."
+
+msgid "New email"
+msgstr "Tshiab email"
+
+msgid "Confirm email"
+msgstr "Paub meej tias email"
+
+msgid "New password"
+msgstr "lo lus zais tshiab"
+
+msgid "Confirm password"
+msgstr "Paub meej tias lo lus zais"
+
+msgid "Occupation"
+msgstr "Speciality"
+
+msgid "Timezone"
+msgstr "timezone"
+
+msgid "Answer"
+msgstr "teb"
+
+msgid "Articles"
+msgstr "Cov khoom"
+
+msgid "Article"
+msgstr "tsab xov xwm"
+
+msgid "Video-article"
+msgstr "Video - tsab xov xwm"
+
+msgid "Find article..."
+msgstr "Nrhiav tsab xov xwm ..."
+
+msgid "Politics"
+msgstr "Txoj"
+
+msgid "Economics"
+msgstr "Economics"
+
+msgid "Community"
+msgstr "Community"
+
+msgid "Culture"
+msgstr "kab lis kev cai"
+
+msgid "Sports"
+msgstr "Cov kev ua si"
+
+msgid "Hi-tech"
+msgstr "Hi- tech"
+
+msgid "Cars"
+msgstr "tsheb"
+
+msgid "Fashion"
+msgstr "zam"
+
+msgid "Games"
+msgstr "ua si"
+
+msgid "Other"
+msgstr "lwm yam"
+
+msgid "Invalid mediafile"
+msgstr "invalid mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Tsis khoom nyob rau hauv pawg no tsis tau"
+
+msgid "Back to profile"
+msgstr "Rov qab mus rau profile"
+
+msgid "View article"
+msgstr "Saib tsab xov xwm"
+
+msgid "Edit article"
+msgstr "Kho kom raug neeg tsab xov xwm"
+
+msgid "Create article"
+msgstr "tsim tsab xov xwm"
+
+msgid "Article title"
+msgstr "tsab xov xwm title"
+
+msgid "Article section"
+msgstr "tsab xov xwm seem"
+
+msgid "Choose image"
+msgstr "xaiv cov duab"
+
+msgid "Save and upload"
+msgstr "Txuag thiab upload"
+
+msgid "Show more..."
+msgstr "Qhia ntxiv ..."
+
+msgid "Create"
+msgstr "tsim"
+
+msgid "Edit"
+msgstr "Kho kom raug neeg"
+
+msgid "Project"
+msgstr "Project"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "A new article was published"
+msgstr "Ib tug tshiab hauv tsab xov xwm luam tawm"
+
+msgid "You joined this project"
+msgstr "Koj tuaj koom no peb tes num"
+
+msgid "Enter your information in the User settings"
+msgstr "Sau koj cov ntaub ntawv nyob rau hauv tus neeg siv cov chaw"
+
+msgid "Communities"
+msgstr "Cov zej zog"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Video kev nthuav qhia ntawm kuv ua tiav"
+
+msgid "My articles"
+msgstr "kuv cov khoom"
+
+msgid "User"
+msgstr "Tus neeg siv"
+
+msgid "Users"
+msgstr "Cov neeg siv"
+
+msgid "Add new list"
+msgstr "Ntxiv daim ntawv tshiab"
+
+msgid "List title"
+msgstr "Daim ntawv teev cov npe"
+
+msgid "Add"
+msgstr "Ntxiv"
+
+msgid "Add to favorites"
+msgstr "Ntxiv rau favorites"
+
+msgid "Delete from favorites"
+msgstr "Rho tawm los ntawm favorites"
+
+msgid "Select list"
+msgstr "Xaiv daim ntawv teev"
+
+msgid "Subscriptions"
+msgstr "subscriptions"
+
+msgid "Subscribe"
+msgstr "Sau npe yuav ua"
+
+msgid "Unsubscribe"
+msgstr "tsis tso npe"
+
+msgid "General list"
+msgstr "General daim ntawv teev"
+
+msgid "No users in this list"
+msgstr "Tsis neeg siv nyob rau hauv daim ntawv no"
+
+msgid "Publish"
+msgstr "Luam tawm"
+
+msgid "Unpublish"
+msgstr "Unpublish"
+
+msgid "Add user"
+msgstr "Ntxiv neeg siv"
+
+msgid "Create document"
+msgstr "tsim daim ntawv"
+
+msgid "Edit document"
+msgstr "Kho kom raug neeg ntawv"
+
+msgid "View"
+msgstr "Saib"
+
+msgid "Document title"
+msgstr "daim ntawv title"
+
+msgid "Find document..."
+msgstr "Nrhiav daim ntawv ..."
+
+msgid "Share your thoughts"
+msgstr "Qhia koj kev xav"
+
+msgid "Leave your comment"
+msgstr "Cia koj saib"
+
+msgid "Accept"
+msgstr "txais"
+
+msgid "Decline"
+msgstr "poob"
+
+msgid "Add article"
+msgstr "Ntxiv tsab xov xwm"
+
+msgid "Link to verified accomplishments"
+msgstr "Txuas mus rau qhia tau tseeb ntawm kev ua tiav"
+
+msgid "No articles here yet..."
+msgstr "Tsis khoom no tsis tau"
+
+msgid "Find file or folder..."
+msgstr "Nrhiav cov ntaub ntawv los yog ntawv tais ceev tseg ..."
+
+msgid "Sort"
+msgstr "tsi"
+
+msgid "By name"
+msgstr "Los ntawm lub npe"
+
+msgid "By date"
+msgstr "Los ntawm hnub"
+
+msgid "By updated date"
+msgstr "By tshiab hnub"
+
+msgid "By size"
+msgstr "Los ntawm loj"
+
+msgid "By type"
+msgstr "Los ntawm hom"
+
+msgid "Move"
+msgstr "Tsiv mus nyob rau"
+
+msgid "File Manager"
+msgstr "Cov ntaub ntawv Manager"
+
+msgid "Share link"
+msgstr "Qhia txuas"
+
+msgid "Responsible"
+msgstr "Lub luag hauj lwm"
+
+msgid "Performer"
+msgstr "performer"
+
+msgid "New Folder"
+msgstr "Tshiab nplaub tshev"
+
+msgid "Folder name"
+msgstr "nplaub tshev npe"
+
+msgid "By default"
+msgstr "By neej ntawd hais"
+
+msgid "Back to group"
+msgstr "Rov qab mus rau cov pab pawg neeg"
+
+msgid "year(s)"
+msgstr "xyoo (s)"
+
+msgid "January"
+msgstr "Lub ib hlis ntuj"
+
+msgid "February"
+msgstr "Lub ob hlis ntuj"
+
+msgid "March"
+msgstr "Lub peb hlis ntuj"
+
+msgid "April"
+msgstr "Plaub Hlis Ntuj"
+
+msgid "May"
+msgstr "Tej zaum"
+
+msgid "June"
+msgstr "Lub rau hli ntuj"
+
+msgid "July"
+msgstr "Lub Xya hli ntuj"
+
+msgid "August"
+msgstr "Lub yim hli ntuj"
+
+msgid "September"
+msgstr "Cuaj hlis"
+
+msgid "October"
+msgstr "Lub kaum hli ntuj"
+
+msgid "November"
+msgstr "Kaum ib hlis"
+
+msgid "December"
+msgstr "Hlis ntuj nqeg"
+
+msgid "Password Reminder"
+msgstr "Lo lus zais Nco ntsoov"
+
+msgid "Log In"
+msgstr "nkag mus"
+
+msgid "Sign in"
+msgstr "Sau npe"
+
+msgid "Register"
+msgstr "Rau npe"
+
+msgid "First name"
+msgstr "thawj lub npe"
+
+msgid "Last name"
+msgstr "lub xeem lub npe"
+
+msgid "I agree with rules"
+msgstr "Kuv pom zoo nrog cov kev cai"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Ib tug kev paub mail tau xa mus rau koj email chaw nyob."
+
+msgid "Thanks"
+msgstr "tsaug"
+
+msgid "Password must be at least 6 characters"
+msgstr "Lo lus zais yuav tsum muaj tsawg kawg yog 6 cim"
+
+msgid "Creative Environment"
+msgstr "Creative Cheeb tsam"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Koj yuav tsum muaj tsawg kawg kaum peb xyoos ntawm hnub nyoog mus siv qhov kev pab no"
+
+msgid "Order status"
+msgstr "Kev txiav txim raws li txoj cai"
+
+msgid "Processing order"
+msgstr "ua kom"
+
+msgid "Requires a payment"
+msgstr "Yuav tsum tau tus nqi them"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Ready"
+msgstr "npaj"
+
+msgid "Thank you for your payment"
+msgstr "Ua tsaug rau koj rau qhov koj them"
+
+msgid "Your payment has been cancelled"
+msgstr "Koj cov nyiaj them tau muab tso tseg"
+
+msgid "page"
+msgstr "nplooj"
+
+msgid "Rent period"
+msgstr "Cia ntiav sij hawm"
+
+msgid "Total, month"
+msgstr "Tag nrho cov, lub hli"
+
+msgid "Order items"
+msgstr "Kev txiav txim cov khoom"
+
+msgid "No records found"
+msgstr "Tsis ntaub ntawv pom"
+
+msgid "User with this email is already exist"
+msgstr "Neeg nrog no email yog twb muaj nyob"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Nplaub tshev los sis cov ntaub ntawv nrog xws li lub npe yog twb muaj nyob rau hauv lo lus uas peb nplaub tshev"
+
+msgid "Minimal quantity"
+msgstr "tsawg heev kom muaj nuj nqis"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "sau ntawv luam"
+
+msgid "Terms of Use"
+msgstr "Ntsiab lus uas siv"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "Find project..."
+msgstr "Nrhiav project ..."
+
+msgid "New Project"
+msgstr "Tshiab Project"
+
+msgid "Accounts"
+msgstr "accounts"
+
+msgid "Operations"
+msgstr "Operations"
+
+msgid "All accounts"
+msgstr "tag nrho cov nyiaj"
+
+msgid "All categories"
+msgstr "Txhua pawg"
+
+msgid "Expense"
+msgstr "Kev Siv Nyiaj"
+
+msgid "Income"
+msgstr "nyiaj khwv tau los"
+
+msgid "Transfer"
+msgstr "Hloov"
+
+msgid "Expense"
+msgstr "Kev Siv Nyiaj"
+
+msgid "income"
+msgstr "nyiaj khwv tau los"
+
+msgid "tax"
+msgstr "nyiaj ua se"
+
+msgid "percent"
+msgstr "feem pua"
+
+msgid "transfer"
+msgstr "hloov lwm lub tsev"
+
+msgid "Make operation"
+msgstr "ua lag luam"
+
+msgid "Select date"
+msgstr "Xaiv hnub"
+
+msgid "Select account"
+msgstr "Xaiv account"
+
+msgid "Month"
+msgstr "Hlis"
+
+msgid "Quarter"
+msgstr "Quarter"
+
+msgid "Year"
+msgstr "xyoo"
+
+msgid "From"
+msgstr "Los ntawm"
+
+msgid "To"
+msgstr "Yuav kom"
+
+msgid "Expense amount"
+msgstr "Kev Siv Nyiaj nyiaj"
+
+msgid "Categories"
+msgstr "Pawg"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "Income amount"
+msgstr "nyiaj"
+
+msgid "Transfer amount"
+msgstr "Hloov nqi"
+
+msgid "From account"
+msgstr "Los ntawm account"
+
+msgid "To account"
+msgstr "Yuav kom tus account"
+
+msgid "New Account"
+msgstr "Tshiab account"
+
+msgid "New Category"
+msgstr "Tshiab Qeb"
+
+msgid "All"
+msgstr "Tag nrho"
+
+msgid "Name"
+msgstr "Lub npe"
+
+msgid "Enter category name"
+msgstr "Sau qeb npe"
+
+msgid "Select type"
+msgstr "Xaiv hom"
+
+msgid "Credit card"
+msgstr "credit card"
+
+msgid "Debit card"
+msgstr "daim debit card"
+
+msgid "Bank account"
+msgstr "bank account"
+
+msgid "Cash"
+msgstr "Nyiaj"
+
+msgid "Balance is empty"
+msgstr "Tshuav nyiaj li cas npliag"
+
+msgid "Statistic is empty"
+msgstr "Statistic yog npliag"
+
+msgid "Regular payments"
+msgstr "Tsis tu ncua nyiaj them"
+
+msgid "Are you sure ?"
+msgstr "Yog koj paub hais tias?"
+
+msgid "Are you sure to close this project?"
+msgstr "Yog koj paub tseeb tias mus kaw qhov project no ?"
+
+msgid "Project was deleted successfully"
+msgstr "Project tau deleted ntse"
+
+msgid "Select currency"
+msgstr "Xaiv txiaj"
+
+msgid "Account"
+msgstr "account"
+
+msgid "Orders list"
+msgstr "kev txiav txim daim ntawv teev"
+
+msgid "Order payments"
+msgstr "Kev txiav txim cov nyiaj them"
+
+msgid "View order"
+msgstr "Saib thiaj"
+
+msgid "No response from Printer API"
+msgstr "Tsis muaj lus teb los ntawm Luam API"
+
+msgid "Bad response from Printer API"
+msgstr "Phem teb los ntawm Luam API"
+
+msgid "User ID"
+msgstr "Tus neeg siv ID"
+
+msgid "Contact Person"
+msgstr "Tus Neeg Hu Cuag"
+
+msgid "No orders to process"
+msgstr "Tsis txiav txim rau cov txheej txheem"
+
+msgid "Article announce image"
+msgstr "Tsab xov xwm tshaj tawm duab"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Invalid video url . Cia dawb paug los yog ntxig siv tau youtube url"
+
+msgid "Please, enter Contractor data"
+msgstr "Thov , sau ntawv cog lus ntaub ntawv"
+
+msgid "Distribute devices"
+msgstr "faib pab kiag li lawm"
+
+msgid "Quantity"
+msgstr "kom muaj nuj nqis"
+
+msgid "Devices left"
+msgstr "Devices tshuav"
+
+msgid "Distributed devices"
+msgstr "faib pab kiag li lawm"
+
+msgid "You must enter quantity"
+msgstr "Koj yuav tsum nkag mus rau kom muaj nuj nqis"
+
+msgid "All devices are distributed"
+msgstr "Tag nrho li yog faib"
+
+msgid "IP address"
+msgstr "IP chaw nyob"
+
+msgid "Only for printer"
+msgstr "Tsuas yog rau lub tshuab luam ntawv"
+
+msgid "Counter"
+msgstr "Txee"
+
+msgid "You was excluded from this room"
+msgstr "Koj twb cais los ntawm cov chav no"
+
+msgid "Compare"
+msgstr "Muab piv rau"
+
+msgid "Scheduled transaction"
+msgstr "Teem lw"
+
+msgid "Select transfer account"
+msgstr "Xaiv hloov lwm lub tsev tus account"
+
+msgid "Select income account"
+msgstr "Xaiv cov nyiaj khwv tau nyiaj"
+
+msgid "Reports"
+msgstr "Cov ntaub ntawv"
+
+msgid "Goals"
+msgstr "cov hom phiaj"
+
+msgid "Budgets"
+msgstr "pob nyiaj siv"
+
+msgid "Enter user name or email..."
+msgstr "Sau neeg siv lub npe los yog email ..."
+
+msgid "Invite had been sended"
+msgstr "Caw tau sended"
+
+msgid "Statistics"
+msgstr "Txheeb cais"
+
+msgid "Updated site began to work"
+msgstr "Tshiab qhov chaw pib mus ua hauj lwm"
+
+msgid "City of residence"
+msgstr "Lub nroog ntawm qhov chaw nyob"
+
+msgid "Edit favourites list"
+msgstr "Kho kom raug neeg favorites daim ntawv teev"
+
+msgid "Add favourites list"
+msgstr "Ntxiv favorites daim ntawv teev"
+
+msgid "Categories is required"
+msgstr "Pawg yog yuav tsum tau"
+
+msgid "Type new category name and hit Enter"
+msgstr "Ntaus tshiab qeb npe thiab ntaus Sau"
+
+msgid "You created an order"
+msgstr "Koj tsim ib tug thiaj"
+
+msgid "You received a device due to this order"
+msgstr "Koj tau txais ib tug ntaus ntawv vim kev txiav txim no"
+
+msgid "%s attached %s to task %s"
+msgstr "%s txuas %s rau neeg ua hauj lwm %s"
+
+msgid "member(s)"
+msgstr "neeg ( s )"
+
+msgid "%s commented task %s"
+msgstr "%s commented hauj lwm %s"
+
+msgid "%s closed task %s"
+msgstr "%s kaw hauj lwm %s"
+
+msgid "%s created task %s"
+msgstr "%s tsim ua hauj lwm %s"
+
+msgid "%s created this project"
+msgstr "%s tsim qhov project no"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s tsim subproject \" %s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s kaw project \" %s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s kaw subproject \" %s \""
+
+msgid "This field must not be blank"
+msgstr "Daim teb no yuav tsum tsis txhob yuav dawb paug"
+
+msgid "Document with such name is already exist"
+msgstr "Daim ntawv nrog xws li lub npe yog twb muaj nyob"
+
+msgid "Wait until image upload"
+msgstr "Tos kom txog thaum duab upload"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Message can not be empty"
+msgstr "Lus yuav tsis tau npliag"
+
+msgid "Yes"
+msgstr "Yog"
+
+msgid "No"
+msgstr "Tsis"
+
+msgid "Created"
+msgstr "tsim"
+
+msgid "Compare is empty"
+msgstr "Muab piv rau yog npliag"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Yog koj paub tseeb tias koj xav rho tawm lag luam"
+
+msgid "Do you really want to delete transaction"
+msgstr "Koj yeej xav rho tawm lw"
+
+msgid "Project with same name already exists"
+msgstr "Project nrog tib lub npe twb tshwm sim"
+
+msgid "Account is not found"
+msgstr "Account yog tsis pom"
+
+msgid "Currency is required"
+msgstr "Txiaj yog yuav tsum tau"
+
+msgid "error while deleting document"
+msgstr "yuam kev thaum Hmong ntawv"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Koj caw neeg siv \" %s \" nyob rau hauv cov chav no"
+
+msgid "User \"%s\" joined this room"
+msgstr "Tus neeg siv \" %s \" tuaj koom cov chav no"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Koj cais neeg siv \" %s \" los ntawm cov chav no"
+
+msgid "User \"%s\" left this room"
+msgstr "Tus neeg siv \" %s \" tshuav qhov chav tsev"
+
+msgid "Add account"
+msgstr "Ntxiv account"
+
+msgid "The requested page is not found"
+msgstr "Cov thov nplooj ntawv yog tsis pom"
+
+msgid "Document"
+msgstr "daim ntawv"
+
+msgid "Table"
+msgstr "rooj"
+
+msgid "file(s)"
+msgstr "cov ntaub ntawv ( s )"
+
+msgid "Residue"
+msgstr "residue"
+
+msgid "Result is empty"
+msgstr "Tshwm yog npliag"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Tag nrho tus nqi yog%s rau %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Koj yuav tsum tso %s txhua hli rau lwm yam account"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "finish"
+msgstr "finish"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Xaiv account yog twb nyob rau hauv kev siv rau lwm hom phiaj"
+
+msgid "Amount required"
+msgstr "Cov nqi yuav tsum tau"
+
+msgid "New goal"
+msgstr "Tshiab lub hom phiaj"
+
+msgid "Goal"
+msgstr "Lub hom phiaj"
+
+msgid "Goal name"
+msgstr "Lub hom phiaj lub npe"
+
+msgid "Invalid date"
+msgstr "invalid hnub"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Tsim nyog sum yuav tsum ua ib tug xov tooj"
+
+msgid "Remain"
+msgstr "nyob twj ywm"
+
+msgid "Last day"
+msgstr "hnub kawg"
+
+msgid "Accumulated"
+msgstr "sau"
+
+msgid "Put aside"
+msgstr "muab ib sab"
+
+msgid "January"
+msgstr "Lub ib hlis ntuj"
+
+msgid "February"
+msgstr "Lub ob hlis ntuj"
+
+msgid "March"
+msgstr "Lub peb hlis ntuj"
+
+msgid "April"
+msgstr "Plaub Hlis Ntuj"
+
+msgid "May"
+msgstr "Tej zaum"
+
+msgid "June"
+msgstr "Lub rau hli ntuj"
+
+msgid "July"
+msgstr "Lub Xya hli ntuj"
+
+msgid "August"
+msgstr "Lub yim hli ntuj"
+
+msgid "September"
+msgstr "Cuaj hlis"
+
+msgid "October"
+msgstr "Lub kaum hli ntuj"
+
+msgid "November"
+msgstr "Kaum ib hlis"
+
+msgid "December"
+msgstr "Hlis ntuj nqeg"
+
+msgid "Expenses projected/actual"
+msgstr "Kev siv nyiaj npaj / tiag tiag"
+
+msgid "Net Income projected/actual"
+msgstr "Net Nyiaj Tau npaj / tiag tiag"
+
+msgid "New budget"
+msgstr "Tshiab nyiaj txiag"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Revenue thiab siv nyiaj Daim ntawv"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Nyiaj txiag uas muaj tib khub ntawm account thiab qeb twb tshwm sim"
+
+msgid "Budget is empty"
+msgstr "Cov nyiaj yog npliag"
+
+msgid "Budget"
+msgstr "nyiaj txiag"
+
+msgid "plan"
+msgstr "txoj kev npaj"
+
+msgid "fact"
+msgstr "qhov tseeb"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "Qhia Ntau"
+
+msgid "Cancel"
+msgstr "Ncua tseg"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "kuv muag khoom"
+
+msgid "Time spent"
+msgstr "Lub sij hawm siv"
+
+msgid "Total time spent"
+msgstr "Tag nrho cov sij hawm siv"
+
+msgid "Earnings per hour"
+msgstr "Nnyiaj tau los ib teev"
+
+msgid "Total earnings"
+msgstr "tag nrho cov nyiaj"
+
+msgid "Call"
+msgstr "hu rau"
+
+msgid "Phone call"
+msgstr "Xov tooj"
+
+msgid "Telephone calls"
+msgstr "hu xov tooj"
+
+msgid "Send email"
+msgstr "Xa email"
+
+msgid "Emails"
+msgstr "emails"
+
+msgid "Meeting"
+msgstr "lub rooj sib tham"
+
+msgid "Meetings"
+msgstr "Cov rooj sib tham"
+
+msgid "All events"
+msgstr "Tag nrho cov txheej xwm"
+
+msgid "Task"
+msgstr "ua hauj lwm"
+
+msgid "Event"
+msgstr "Cov kev tshwm sim"
+
+msgid "Events"
+msgstr "Txheej xwm"
+
+msgid "Time"
+msgstr "Lub sij hawm"
+
+msgid "Events statistics"
+msgstr "Txheej xwm txheeb cais"
+
+msgid "days"
+msgstr "hnub"
+
+msgid "hours"
+msgstr "teev"
+
+msgid "minutes"
+msgstr "feeb"
+
+msgid "Income & expense"
+msgstr "Nyiaj & cov nyiaj them"
+
+msgid "Show chart"
+msgstr "Qhia daim ntawv"
+
+msgid "Hide chart"
+msgstr "hide daim ntawv"
+
+msgid "Add event"
+msgstr "Ntxiv cov kev tshwm sim"
+
+msgid "Add financial data"
+msgstr "Ntxiv nyiaj txiag cov ntaub ntawv"
+
+msgid "Select contractor"
+msgstr "Xaiv ua huaj lwm"
+
+msgid "Net Income"
+msgstr "Net nyiaj Tau"
+
+msgid "Revenue"
+msgstr "Revenue"
+
+msgid "Taxes"
+msgstr "Nqi Se"
+
+msgid "Amount planned"
+msgstr "Cov nqi npaj"
+
+msgid "Amount"
+msgstr "Cov nqi"
+
+msgid "Period"
+msgstr "lub sij hawm"
+
+msgid "Are you sure to close this task?"
+msgstr "Yog koj paub tseeb tias mus kaw no ua hauj lwm ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "Tag nrho cov pab pawg"
+
+msgid "added from task"
+msgstr "ntxiv los ntawm ua hauj lwm"
+
+msgid "Monthly repeat"
+msgstr "Txhua Hli rov"
+
+msgid "Select category"
+msgstr "Xaiv cov qeb"
+
+msgid "Event type"
+msgstr "Cov kev tshwm sim hom"
+
+msgid "Margin"
+msgstr "Paj tau paj"
+
+msgid "Use finance project"
+msgstr "Siv nyiaj txiag project"
+
+msgid "New investment project"
+msgstr "Tshiab peev project"
+
+msgid "Investment project settings"
+msgstr "Peev project chaw"
+
+msgid "Picture, for the announcement project"
+msgstr "Duab , rau cov ntawv tshaj tawm peb tes num"
+
+msgid "Announcement project"
+msgstr "Tshaj tawm project"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Photos or videos gallery"
+msgstr "Cov duab los yog yeeb yaj duab gallery"
+
+msgid "required amount"
+msgstr "yuav tsum tau ntau npaum li cas"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Project ntev ( 60 hnub nyiaj pab ntau tshaj )"
+
+msgid "Project duration"
+msgstr "Project ntev"
+
+msgid "Add reward"
+msgstr "Ntxiv nqi zog"
+
+msgid "Delivery date"
+msgstr "tus me nyuam hnub"
+
+msgid "Payment systems"
+msgstr "Payment tshuab"
+
+msgid "Terms of service"
+msgstr "Cov ntsiab lus uas cov kev pab"
+
+msgid "Agreement"
+msgstr "Daim ntawv cog lus"
+
+msgid "Payment"
+msgstr "Payment"
+
+msgid "My projects"
+msgstr "kuv tej yaam num"
+
+msgid "Search result"
+msgstr "Nrhiav tshwm sim"
+
+msgid "Nothing not found"
+msgstr "Tsis muaj dab tsi tsis pom"
+
+msgid "The project has no sponsors"
+msgstr "Peb tes num twb tsis muaj neeg pab txhawb nqa"
+
+msgid "Design"
+msgstr "tsim"
+
+msgid "Food"
+msgstr "Khoom noj khoom haus"
+
+msgid "Journalism"
+msgstr "journalism"
+
+msgid "Games"
+msgstr "ua si"
+
+msgid "Art"
+msgstr "Art"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "Music"
+
+msgid "Handicrafts"
+msgstr "Handicrafts"
+
+msgid "Publishing"
+msgstr "publishing"
+
+msgid "Theater"
+msgstr "Tsev ua yeeb yam"
+
+msgid "Technology"
+msgstr "technology"
+
+msgid "Film/Video"
+msgstr "Zaj duab xis / Video"
+
+msgid "Photo"
+msgstr "Diam duab"
+
+msgid "Dance"
+msgstr "Dance"
+
+msgid "Invalid youtube video"
+msgstr "Invalid youtube video"
+
+msgid "is required"
+msgstr "yog yuav tsum tau"
+
+msgid "User"
+msgstr "Tus neeg siv"
+
+msgid "Date"
+msgstr "Hnub"
+
+msgid "Collected"
+msgstr "sau"
+
+msgid "Choose period"
+msgstr "xaiv lub sij hawm"
+
+msgid "Choose region"
+msgstr "xaiv cheeb tsam"
+
+msgid "Country"
+msgstr "Lub teb chaws"
+
+msgid "Today"
+msgstr "Niaj hnub no"
+
+msgid "Week"
+msgstr "limtiam"
+
+msgid "Month"
+msgstr "Hlis"
+
+msgid "Year"
+msgstr "xyoo"
+
+msgid "Free registration"
+msgstr "dawb sau npe"
+
+msgid "Join"
+msgstr "koom"
+
+msgid "Log in using"
+msgstr "Teev nyob rau hauv kev siv"
+
+msgid "Vacancies"
+msgstr "Kev ua hauj lwm lub sij hawm"
+
+msgid "About Us"
+msgstr "hais txog wb"
+
+msgid "You will need email to log in"
+msgstr "Koj yuav tsum tau email rau teev nyob rau hauv"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Ib tug ua ke ntawm 6 tus lej tom thiab cim"
+
+msgid "Search users, groups, articles..."
+msgstr "Nrhiav cov neeg siv , tej pawg neeg, cov khoom ..."
+
+msgid "Cloud"
+msgstr "huab"
+
+msgid "Sunday"
+msgstr "Sunday"
+
+msgid "Monday"
+msgstr "Monday"
+
+msgid "Tuesday"
+msgstr "Tuesday"
+
+msgid "Wednesday"
+msgstr "Wednesday"
+
+msgid "Thursday"
+msgstr "Thursday"
+
+msgid "Friday"
+msgstr "Friday"
+
+msgid "Saturday"
+msgstr "Saturday"
+
+msgid "Edit"
+msgstr "Kho kom raug neeg"
+
+msgid "Create group"
+msgstr "tsim pab pawg neeg"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Yog koj paub tseeb tias koj xav tawm cov nplooj ntawv no ?"
+
+msgid "More"
+msgstr "ntau"
+
+msgid "Less"
+msgstr "tsawg"
+
+msgid "Pending"
+msgstr "thaum tseem"
+
+msgid "Approved"
+msgstr "Pom zoo"
+
+msgid "Rejected"
+msgstr "tso tseg"
+
+msgid "Subprojects"
+msgstr "Subprojects"
+
+msgid "Group edit"
+msgstr "Pab Pawg Neeg kho kom raug"
+
+msgid "Startup"
+msgstr "startup"
+
+msgid "Tattoo"
+msgstr "Tattoo"
+
+msgid "Health"
+msgstr "Health"
+
+msgid "Weapon"
+msgstr "riam phom"
+
+msgid "Astronomy"
+msgstr "Astronomy"
+
+msgid "All articles"
+msgstr "Tag nrho cov khoom"
+
+msgid "Article editor"
+msgstr "tsab xov xwm editor"
+
+msgid "Document editor"
+msgstr "daim ntawv editor"
+
+msgid "Apply changes"
+msgstr "Thov hloov"
+
+msgid "Save changes?"
+msgstr "Txuag kev hloov?"
+
+msgid "published an article"
+msgstr "luam tawm ib tsab xov xwm"
+
+msgid "Users"
+msgstr "Cov neeg siv"
+
+msgid "Shared With Me"
+msgstr "Sib Nrog Kuv"
+
+msgid "share"
+msgstr "qhia"
+
+msgid "Select Group Responsible"
+msgstr "Xaiv pab pawg neeg luag hauj lwm"
+
+msgid "Create folder"
+msgstr "tsim nplaub tshev"
+
+msgid "Title must be at least 3 characters"
+msgstr "Title yuav tsum muaj tsawg kawg yog 3 cim"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Dawb 10 GB , nyiaj txiag saib xyuas , sib piv cov nqi module , thiab ntau lwm yam rau cov dawb thiab mus ib txhis"
+
+msgid "Best regards"
+msgstr "Qhov zoo tshaj plaws regards"
+
+msgid "Updates in last 12 hours:"
+msgstr "Tshiab nyob rau hauv lub xeem 12 sij hawm :"
+
+msgid "expense"
+msgstr "them rau cov nqi"
+
+msgid "Commentary on the event:"
+msgstr "Tawm tswv yim rau cov kev tshwm sim :"
+
+msgid "Event place"
+msgstr "Cov kev tshwm sim qhov chaw"
+
+msgid "Project was updated"
+msgstr "Project twb tshiab"
+
+msgid "Project was created"
+msgstr "Project twb tsim"
+
+msgid "Project was closed"
+msgstr "Project twb kaw"
+
+msgid "account"
+msgstr "account"
+
+msgid "removed task"
+msgstr "tshem tawm hauj lwm"
+
+msgid "removed subproject"
+msgstr "muab tshem tawm subproject"
+
+msgid "Title can not be empty"
+msgstr "Title yuav tsis tau npliag"
+
+msgid "Do not select the type of event"
+msgstr "Tsis txhob xaiv cov hom ntawm cov kev tshwm sim"
+
+msgid "Error while saving comment"
+msgstr "Yuam kev thaum txuag saib"
+
+msgid "Save error: access denied"
+msgstr "Txuag yuam kev: nkag tsis kam muab"
+
+msgid "Remains"
+msgstr "nyob"
+
+msgid "Time spent, h."
+msgstr "Lub sij hawm siv , h ."
+
+msgid "Emails"
+msgstr "emails"
+
+msgid "Meetings"
+msgstr "Cov rooj sib tham"
+
+msgid "All users"
+msgstr "Tag nrho cov neeg siv"
+
+msgid "Category"
+msgstr "Qeb"
+
+msgid "Finance project"
+msgstr "Hais txog nyiaj txiag project"
+
+msgid "Investment project"
+msgstr "peev project"
+
+msgid "Nature"
+msgstr "xwm"
+
+msgid "Data is empty"
+msgstr "Cov ntaub ntawv yog npliag"
+
+msgid "Visitors"
+msgstr "Cov neeg tuaj xyuas"
+
+msgid "My profile"
+msgstr "kuv profile"
+
+msgid "Sponsors"
+msgstr "sponsors"
+
+msgid "Prior to completion"
+msgstr "Ua ntej yuav kawm tiav"
+
+msgid "Select"
+msgstr "xaiv"
+
+msgid "My groups"
+msgstr "kuv pawg"
+
+msgid "The invitation has been sent successfully"
+msgstr "Txoj kev caw tau raug xa ntse"
+
+msgid "Username has already been invited to this project"
+msgstr "Username twb raug caw mus koom no peb tes num"
+
+msgid "The user is the creator of the project"
+msgstr "Tus neeg siv yog cov creator ntawm peb tes num"
+
+msgid "Provide full access"
+msgstr "Muab tag nrho cov kev nkag"
+
+msgid "Select elements to provide access"
+msgstr "Xaiv ntsiab los muab kev nkag tau"
+
+msgid "Select all"
+msgstr "xaiv tag nrho cov"
+
+msgid "User E-mail"
+msgstr "Tus neeg siv E - mail"
+
+msgid "Click on the field to select a category"
+msgstr "Nyem rau ntawm lub teb rau xaiv ib qeb"
+
+msgid "Invitation was deleted"
+msgstr "Caw tau deleted"
+
+msgid "Permission denied"
+msgstr "Tso Cai tsis kam muab"
+
+msgid "Printed"
+msgstr "luam"
+
+msgid "Incorrect Contractor email"
+msgstr "Tsis yog ntawv cog lus email"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Koj puas xav mus ntxiv project rau nyiaj txiag saib xyuas ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Mus ua kom tiav txoj kev sau npe thov sau cia koj cov kev txawj"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Ib mail nrog ntxiv lus qhia tau xa mus rau koj email chaw nyob"
+
+msgid "Submit"
+msgstr "Xa"
+
+msgid "Cars"
+msgstr "tsheb"
+
+msgid "Science"
+msgstr "Science"
+
+msgid "Donation"
+msgstr "Pub dawb"
+
+msgid "Interests"
+msgstr "kev txaus siab"
+
+msgid "Driver"
+msgstr "neeg tsav tsheb"
+
+msgid "Sportsman"
+msgstr "neeg ua ncaj thaum ua si"
+
+msgid "Businessman"
+msgstr "businessman"
+
+msgid "Accountant"
+msgstr "accountant"
+
+msgid "Engineer"
+msgstr "engineer"
+
+msgid "Soldier"
+msgstr "Soldier"
+
+msgid "Next"
+msgstr "Tom ntej no"
+
+msgid "Hide group"
+msgstr "hide pab pawg neeg"
+
+msgid "groups created"
+msgstr "pawg tsim"
+
+msgid "articles written"
+msgstr "khoom sau"
+
+msgid "These groups may be interesting for you"
+msgstr "Cov pawg tej zaum yuav nthuav rau koj"
+
+msgid "About Group"
+msgstr "Hais txog pab pawg neeg"
+
+msgid "view(s)"
+msgstr "saib ( s )"
+
+msgid "Favorite users"
+msgstr "Favorite neeg siv"
+
+msgid "No accounts"
+msgstr "Tsis nyiaj"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook tso cai ua tsis tau tejyam ."
+
+msgid "Authorization Required"
+msgstr "Tso Cai Yuav tsum tau"
+
+msgid "You have to make a call:"
+msgstr "Koj yuav tsum ua ib tug hu rau:"
+
+msgid "You have to send an email:"
+msgstr "Koj yuav tsum xa ib lub email :"
+
+msgid "You have a meetup:"
+msgstr "Koj muaj ib tug Meetup :"
+
+msgid "You event :"
+msgstr "Koj tshwm sim :"
+
+msgid "Participants:"
+msgstr "Neeg:"
+
+msgid "Search"
+msgstr "Nrhiav"
+
+msgid "News"
+msgstr "Xov xwm"
+
+msgid "Investments"
+msgstr "kev nqis peev uas"
+
+msgid "Back to Cloud"
+msgstr "Rov qab mus rau huab"
+
+msgid "Documents"
+msgstr "Cov ntaub ntawv"
+
+msgid "Planet"
+msgstr "ntiaj chaw"
+
+msgid "Group url"
+msgstr "Pab pawg neeg url"
+
+msgid "Profile url"
+msgstr "profile url"
+
+msgid "Already taken"
+msgstr "twb coj"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Thaum kawg 1 tsab ntawv thiab 3 chars ntev yuav tsum tau"
+
+msgid "Digit can not be the first character"
+msgstr "Lej yuav tsis ua tus thawj cim"
+
+msgid "Enter valid email address"
+msgstr "Sau siv tau email chaw nyob"
+
+msgid "Enter your skills"
+msgstr "Sau koj cov kev txawj"
+
+msgid "Enter your first name"
+msgstr "Sau koj lub npe"
+
+msgid "Enter your last name"
+msgstr "Sau koj lub xeem lub npe"
+
+msgid "Enter your first name and last name"
+msgstr "Sau koj lub npe thiab lub xeem lub npe"
+
+msgid "Your first name?"
+msgstr "Koj lub npe ?"
+
+msgid "Your last name?"
+msgstr "Koj lub xeem lub npe ?"
+
+msgid "What are your proficiencies?"
+msgstr "Yuav ua li cas yog koj proficiencies ?"
+
+msgid "Select country"
+msgstr "Xaiv lub teb chaws"
+
+msgid "Select user"
+msgstr "Xaiv neeg siv"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Ua kom tau tej koj tus npau suav ! Tsim thiab koom tes ."
+
+msgid "date moved from"
+msgstr "hnub tsiv ntawm"
+
+msgid "work"
+msgstr "ua hauj lwm"
+
+msgid "Conference"
+msgstr "rooj sab laj"
+
+msgid "personal"
+msgstr "tus kheej"
+
+msgid "Holiday"
+msgstr "Nyiaj so koobtsheej"
+
+msgid "Past"
+msgstr "Yav tag los"
+
+msgid "Future"
+msgstr "Yav tom ntej"
+
+msgid "Purchase"
+msgstr "Purchase"
+
+msgid "Personal events"
+msgstr "Lwm yam xwm"
+
+msgid "Conferences"
+msgstr "Lub rooj sib tham"
+
+msgid "Holidays"
+msgstr "Nyiaj so koobtsheej"
+
+msgid "Sport events"
+msgstr "Cov kev ua si cov txheej xwm"
+
+msgid "Tasks"
+msgstr "Paub tab"
+
+msgid "Other events"
+msgstr "Lwm yam xwm txheej"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Kob Nyiaj Kho Tsev"
+
+msgid "Time management"
+msgstr "Lub sij hawm los xyuas dua"
+
+msgid "Delayed events"
+msgstr "Profit txheej xwm"
+
+msgid "Delayed"
+msgstr "Kob Nyiaj Kho Tsev"
+
+msgid "Bind to"
+msgstr "Muab"
+
+msgid "answered your comment to"
+msgstr "Kuv hais tias (a) Saib nyob rau hauv tsab xov xwm"
+
+msgid "commented your article"
+msgstr "Kuv commented rau koj tsab xov xwm"
+
+msgid "You\'ve answered on comment to"
+msgstr "Koj teb rau cov saib nyob rau hauv tsab xov xwm"
+
+msgid "You\'ve commented an article"
+msgstr "Koj commented rau hauv tsab xov xwm"
+
+msgid "Terms and Conditions"
+msgstr "Cov ntsiab lus uas thiab yam kev mob"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Yog txhaj rau \"zwm npe\" koj pom zoo nrog peb thiab lees paub tias koj tau nyeem peb cov"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Koom nrog cov zej zog uas muaj tswv yim neeg los ntawm thoob plaws lub ntiaj teb no! Koj yuav tau txais: Investing nyob rau hauv koj lub tswv yim, ib lub sij hawm los sau cov nws pab neeg, ua hauj lwm nyob rau hauv ib tug pab pawg neeg, cov nyiaj txiag saib xyuas, tswj lawv lub sij hawm, 2 gigabytes nyob rau hauv cia thiab tshaj. Thiab nws yog dawb xwb!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Thov txim, tab sis cov nplooj ntawv koj tab tom nrhiav rau tsis muaj nyob. Yog hais tias koj xav hais tias yuav kiam rau peb hu rau peb"
+
+msgid "Return"
+msgstr "Rov qab"
+
+msgid "COMMON"
+msgstr "Tag nrho"
+
+msgid "My events"
+msgstr "Kuv Txheej xwm"
+
+msgid "Job opening"
+msgstr "Tshiab vacancy"
+
+msgid "Employment"
+msgstr "Hom ntawm kev ua hauj lwm"
+
+msgid "Working hours"
+msgstr "Qhib teev"
+
+msgid "City"
+msgstr "Lub nroog"
+
+msgid "Wages"
+msgstr "Nyiaj Hli"
+
+msgid "Currency"
+msgstr "Txiaj"
+
+msgid "Experience"
+msgstr "Kev"
+
+msgid "Full-time"
+msgstr "Tag nrho cov kev ua hauj lwm"
+
+msgid "Part-time"
+msgstr "Part-lub sij hawm"
+
+msgid "Project employment"
+msgstr "Project / Temporary"
+
+msgid "Volunteer"
+msgstr "Txoj kev pab"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "Full Time"
+
+msgid "Shifts"
+msgstr "Hloov lub sij hawm"
+
+msgid "Flexible shifts"
+msgstr "Saj zawg zog lub sij hawm"
+
+msgid "Remote work"
+msgstr "Tej thaj chaw deb ua hauj lwm"
+
+msgid "Rotational basis"
+msgstr "Ua haujlwm txoj kev"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Yog koj paub tseeb tias koj xav rho tawm tus saib?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Yog koj paub tseeb tias koj xav rho tawm no ua hauj lwm?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Yog koj paub tseeb tias koj xav rho tawm no sub-project?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Koj tau mus thov lub tuam txhab nyob rau hauv txoj hauj lwm. Thov nco ntsoov tias lub"
+
+msgid "Your request to for job has been rejected"
+msgstr "Koj daim ntawv thov mus rau lub tuam txhab mus rau txoj hauj lwm tau raug tsis lees txais"
+
+msgid "Your request to for job has been accepted"
+msgstr "Koj daim ntawv thov mus rau lub tuam txhab mus rau txoj hauj lwm tau txais"
+
+msgid "profile is completed"
+msgstr "Koj profile yog tag nrho"
+
+msgid "Use account"
+msgstr "Siv account"
+
+msgid "$/hr"
+msgstr "$ / Teev"
+
+msgid "Finance category"
+msgstr "Nyiaj txiag qeb"
+
+msgid "No projects"
+msgstr "Tsis tej yaam num"
+
+msgid "Bind to finances"
+msgstr "Muab nyiaj txiag project"
+
+msgid "Preview"
+msgstr "Saib"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Save to my cloud"
+msgstr "Luam cov repository"
+
+msgid "File successfully saved to your cloud"
+msgstr "Cov ntaub ntawv ntse muab cia rau hauv koj lub repository"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Txuag cov ntaub ntawv no nyob rau hauv koj lub repository?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Xaiv ib qeb tsab xov xwm"
+
+msgid "Type something"
+msgstr "Sau ib yam dab tsi"
+
+msgid "Founded users"
+msgstr "Pom cov neeg siv"
+
+msgid "Founded articles"
+msgstr "Pom tsab xov xwm"
+
+msgid "Founded groups"
+msgstr "Founded pab pawg neeg"
+
+msgid "What are your skills?"
+msgstr "Yuav ua li cas yog koj cov kev txawj?"
+
+msgid "Select at least 2 interests"
+msgstr "Xaiv tsawg kawg yog 2 paj"
+
+msgid "Need more interests"
+msgstr "Tsis txaus paj xaiv"
+
+msgid "What are you interesting in?"
+msgstr "Yuav ua li cas yog koj xav?"
+
+msgid "You have no dialogs"
+msgstr "Koj tsis muaj dialogues"
+
+msgid "Usage Stats"
+msgstr "Xeev"
+
+msgid "Founded files"
+msgstr "Cov ntaub ntawv uas pom"
+
+msgid "Big tiles"
+msgstr "Loj vuas"
+
+msgid "Small tiles"
+msgstr "Me Vuas"
+
+msgid "Table view"
+msgstr "Rooj saib"
+
+msgid "Root folder"
+msgstr "Lub hauv paus directory"
+
+msgid "My files"
+msgstr "Kuv ntaub ntawv"
+
+msgid "Save as draft"
+msgstr "Txuag li cua ntsawj ntshab"
+
+msgid "Buy More Space"
+msgstr "Yuav chaw sau ntau ntxiv"
+
+msgid "Buy"
+msgstr "Yuav"
+
+msgid "You have been invited to group as"
+msgstr "Koj tau raug caw mus rau lub pab pawg neeg raws li ib tug"
+
+msgid "User wants to join your group"
+msgstr "Tus neeg siv xav mus koom koj pab pawg neeg"
+
+msgid "Section is coming soon!"
+msgstr "Section nyob rau hauv kev tsim kho!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Views nyob rau hauv lub xeem 24 sij hawm:"
+
+msgid "Task was updated"
+msgstr "Cov hauj lwm tau tshiab"
+
+msgid "Task was closed"
+msgstr "Cov kev sib tw tau raug kaw"
+
+msgid "Task was created"
+msgstr "Cov hauj lwm twb teem"
+
+msgid "Current balance"
+msgstr "Tam sim no tshuav nyiaj li cas"
+
+msgid "Add funds"
+msgstr "Ntxiv"
+
+msgid "Pay"
+msgstr "Checkout"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Koj tau dhau tshaj ntawm lub xov tooj ntawm tus ID nkag mus npaj siab. Koj yog sim rau 15 feeb"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Thov paub meej tias koj e-mail. Cov tsab ntawv xa tuaj rau koj los ntawm mail."
+
+msgid "Resend confirmation email"
+msgstr "Xa cov kabke dua"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB ib hlis"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Tsav 10 GB ib xyoo"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB txhua xyoo"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1 kab mob TB txhua hli"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Tsav 1 TB txhua xyoo"
+
+msgid "Project members monthly"
+msgstr "Cov neeg tuaj koom ntawm peb tes num rau txhua lub hlis"
+
+msgid "Project members yearly"
+msgstr "Project koom txhua xyoo"
+
+msgid "Member(s) yearly"
+msgstr "Tug (s) ib xyoos"
+
+msgid "Member(s) monthly"
+msgstr "Tug (s) nyob rau hauv txhua lub hlis"
+
+msgid "Authorized"
+msgstr "Tso Cai"
+
+msgid "Authorization expired"
+msgstr "Tso Cai tso cai"
+
+msgid "Processor declined"
+msgstr "Tso tseg ua system"
+
+msgid "Gateway rejected"
+msgstr "Tso tseg them nqi rooj vag"
+
+msgid "Failed"
+msgstr "Kev ua yuam kev"
+
+msgid "Voided"
+msgstr "Lwv"
+
+msgid "Submitted for settlement"
+msgstr "Xa mus rau npe kawm rau"
+
+msgid "Settlement declined"
+msgstr "Cuv Npe tau tso tseg"
+
+msgid "Settlement pending"
+msgstr "Thaum tseem tuaj sau npe kawm"
+
+msgid "Verified"
+msgstr "Soj ntsuam"
+
+msgid "Pending"
+msgstr "Thaum tseem"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Past Due"
+msgstr "Tso cai"
+
+msgid "Expired"
+msgstr "Twb"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "Is Nrias teb"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Thailand"
+msgstr "Thaib teb"
+
+msgid "South Korea"
+msgstr "South Kauslim"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Israel"
+msgstr "Ixayees"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Turkey"
+msgstr "Qaib ntxhw"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Germany"
+msgstr "Lub teb chaws Yelemees"
+
+msgid "Italy"
+msgstr "Ltalis"
+
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "United Kingdom"
+msgstr "Great teb chaws Aas Kiv"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "United States"
+msgstr "United States"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+msgid "Canada"
+msgstr "Tim lyiv teb chaws"
+
+msgid "Russia"
+msgstr "Zog ntawm Guj kuj"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Thaum lub caij, muaj yog tsis muaj ib tug lw"
+
+msgid "Fulfill your dream"
+msgstr "Txaus siab rau koj npau suav"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Tuaj koom nrog peb lub zej lub zos uas muaj tswv yim neeg ntawm tag nrho cov nyob ib ncig ntawm lub ntiaj teb."
+
+msgid "Create and Collaborate"
+msgstr "Tsim thiab koom tes"
+
+msgid "Start Dreaming"
+msgstr "Ua kom tau tej npau suav TAM SIM NO"
+
+msgid "or"
+msgstr "los yog"
+
+msgid "Our mission:"
+msgstr "Peb lub hom phiaj:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Sib sau ua ke muaj tswv yim thiab nquag cov neeg los mus siv cov tswv yim los ntawm yooj yim thiab nyob rau hauv coob rau zoo kawg thiab zoo heev, uas yuav hloov peb lub neej yav tom ntej."
+
+msgid "What is Konstruktor?"
+msgstr "Yuav ua li cas yog Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor- yog ib feem ntawm peb lub neej tiag tiag, uas ho tswj thiab simplifies"
+
+msgid "*business processes"
+msgstr "* ua lag ua luam dab"
+
+msgid "*materialization of creative ideas"
+msgstr "* materialization uas muaj tswv yim lub tswv yim"
+
+msgid "*constructive cooperation"
+msgstr "* constructive kev koom tes"
+
+msgid "Make your dream!"
+msgstr "Ua koj tus npau suav!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Tshwj xeeb Advisor"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Tus thawj tswj, Software kev loj hlob"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Senior kws lij choj"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Designer"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Yog txhaj rau cov \"Tom ntej\" khawm, koj yog txais thiab pom zoo nrog peb cov ntsiab lus thiab yam kev mob, thiab koj yog lees paub hais tias koj tau nyeem peb Tsis pub twg paub Txoj cai."
+
+msgid "Incorrect login or password."
+msgstr "Tsis yog tus ID nkag mus los yog lo lus zais."
+
+msgid "Password must be at least 6 characters"
+msgstr "Lo lus zais yuav tsum muaj tsawg kawg yog 6 cim"
+
+msgid "January"
+msgstr "Lub ib hlis ntuj"
+
+msgid "February"
+msgstr "Lub ob hlis ntuj"
+
+msgid "March"
+msgstr "Lub peb hlis ntuj"
+
+msgid "April"
+msgstr "Plaub Hlis Ntuj"
+
+msgid "May"
+msgstr "Tej zaum"
+
+msgid "June"
+msgstr "Lub rau hli ntuj"
+
+msgid "July"
+msgstr "Lub Xya hli ntuj"
+
+msgid "August"
+msgstr "Lub yim hli ntuj"
+
+msgid "September"
+msgstr "Cuaj hlis"
+
+msgid "October"
+msgstr "Lub kaum hli ntuj"
+
+msgid "November"
+msgstr "Kaum ib hlis"
+
+msgid "December"
+msgstr "Hlis ntuj nqeg"
+
+msgid "Chat"
+msgstr "Sib tham"
+
+msgid "Files"
+msgstr "Cov ntaub ntawv"
+
+msgid "Statistic"
+msgstr "Statistic"
+
+msgid "Support"
+msgstr "Them nyiaj yug"
+
+msgid "Exit"
+msgstr "Tawm"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Marketing specialist"
+msgstr "Marketing tus kws"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Shared with me"
+msgstr "Sib nrog kuv"
+
+msgid "File Sharing"
+msgstr "Ntaub ntawv sib qhia"
+
+msgid "Provide access by link"
+msgstr "Muab kev nkag tau los ntawm txuas"
+
+msgid "Provide Individual access"
+msgstr "Muab Cov kev nkag tau"
+
+msgid "Provide edit access"
+msgstr "Muab Kho kom raug nkag"
+
+msgid "Share"
+msgstr "Qhia"
+
+msgid "Files will be available only for selected users"
+msgstr "Cov ntaub ntawv yuav tsum muaj nyob rau xaiv cov neeg siv"
+
+msgid "With this link everyone can access to the files"
+msgstr "Nrog rau qhov no mus txhua leej txhua tus yuav nkag mus rau cov ntaub ntawv"
+
+msgid "Search users, groups, articles..."
+msgstr "Nrhiav cov neeg siv, tej pawg neeg, cov khoom ..."
+
+msgid "My Group"
+msgstr "Kuv pab pawg neeg"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Peb"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Cov ntaub ntawv yog tsis xaiv"
+
+msgid "Set aside"
+msgstr "Teem ib sab"
+
+msgid "Event time"
+msgstr "Cov kev tshwm sim lub sij hawm"
+
+msgid "Work"
+msgstr "Ua hauj lwm"
+
+msgid "Personal"
+msgstr "Tej"
+
+msgid "Time spent for work:"
+msgstr "Lub sij hawm siv rau kev ua hauj lwm:"
+
+msgid "Personal time spent:"
+msgstr "Tej lub sij hawm siv:"
+
+msgid "Present"
+msgstr "Tam sim no"
+
+msgid "Common"
+msgstr "Common"
+
+msgid "Sport"
+msgstr "Kev ua si nawv"
+
+msgid "Entertainment"
+msgstr "Lom ze"
+
+msgid "Select:"
+msgstr "Xaiv:"
+
+msgid "Invalid username or password."
+msgstr "Invalid username los yog lo lus zais."
+
+msgid "Try again."
+msgstr "Sim dua."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "YOG DAB TSI KOJ txaus siab rau?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Xaiv tsawg kawg yog 2 kev txawj ntse: tseem 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Xaiv tsawg kawg yog 2 kev txawj ntse: tseem 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Xaiv tsawg kawg yog 2 kev txawj ntse: seem"
+
+msgid "Active life"
+msgstr "Lub neej"
+
+msgid "Arts and culture"
+msgstr "Arts thiab kab lis kev cai"
+
+msgid "Business"
+msgstr "Ua lag ua luam"
+
+msgid "Cinema"
+msgstr "Xinesmas"
+
+msgid "Communications"
+msgstr "Kev sib txuas lus"
+
+msgid "Construction and repair"
+msgstr "Siv cov kev faib thiab kho"
+
+msgid "Cooking"
+msgstr "Ua noj ua haus"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Electronics"
+msgstr "Electronics"
+
+msgid "Finances"
+msgstr "Nyiaj Txiag"
+
+msgid "Graphics and design"
+msgstr "Graphics thiab tsim"
+
+msgid "Health"
+msgstr "Health"
+
+msgid "Home and family"
+msgstr "Tsev thiab tsev neeg"
+
+msgid "Humor"
+msgstr "Lom zem"
+
+msgid "IT"
+msgstr "NWS"
+
+msgid "Industry"
+msgstr "Kev lag luam"
+
+msgid "Insurance"
+msgstr "Insurance"
+
+msgid "Literature"
+msgstr "Literature"
+
+msgid "Mobile communications and internet"
+msgstr "Mobile kev sib txuas lus thiab internet"
+
+msgid "News and Media"
+msgstr "Xov xwm thiab Media"
+
+msgid "Pets"
+msgstr "Cov tsiaj"
+
+msgid "Products and service"
+msgstr "Cov khoom thiab cov kev pab"
+
+msgid "Real Estate"
+msgstr "Av"
+
+msgid "Religion"
+msgstr "Kev cai dab qhuas"
+
+msgid "Science and techs"
+msgstr "Science thiab techs"
+
+msgid "Security"
+msgstr "Security"
+
+msgid "Society"
+msgstr "Society"
+
+msgid "Television"
+msgstr "TV"
+
+msgid "Travel"
+msgstr "Mus ncig teb chaws"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belgium"
+msgstr "Belgium"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Denmark"
+
+msgid "France"
+msgstr "Fabkis"
+
+msgid "Germany"
+msgstr "Lub teb chaws Yelemees"
+
+msgid "Greece"
+msgstr "Tim Nkij teb chaws"
+
+msgid "Hungary"
+msgstr "Hungary"
+
+msgid "Iceland"
+msgstr "Iceland"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "Israel"
+msgstr "Ixayees"
+
+msgid "Italy"
+msgstr "Ltalis"
+
+msgid "Japan"
+msgstr "Nyiv"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Russia"
+msgstr "Zog ntawm Guj kuj"
+
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgid "South Africa"
+msgstr "South Africa"
+
+msgid "South Korea"
+msgstr "South Kauslim"
+
+msgid "Spain"
+msgstr "Spain"
+
+msgid "Sweden"
+msgstr "Sweden"
+
+msgid "Switzerland"
+msgstr "Switzerland"
+
+msgid "Turkey"
+msgstr "Qaib ntxhw"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "United Arab Emirates"
+msgstr "As-lam kuj Emirates United"
+
+msgid "United Kingdom"
+msgstr "United Kingdom"
+
+msgid "United States"
+msgstr "United States"
+
+msgid "achievements"
+msgstr "tau"
+
+msgid "Investment management"
+msgstr "Peev tswj"
+
+msgid "Select..."
+msgstr "Xaiv ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "Peev THAWJ TSWJ"
+
+msgid "Investors list"
+msgstr "Tub ua lag luam daim ntawv teev"
+
+msgid "My investments"
+msgstr "Kuv nqis peev uas"
+
+msgid "Create date"
+msgstr "Tsim hnub"
+
+msgid "Author of the project"
+msgstr "Sau ntawm peb tes num"
+
+msgid "Date and time"
+msgstr "Hnub thiab sij hawm"
+
+msgid "Status"
+msgstr "Raws li txoj cai"
+
+msgid "NEXT"
+msgstr "TOM NTEJ"
+
+msgid "Next"
+msgstr "Tom ntej no"
+
+msgid "Apply"
+msgstr "Thov"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Science"
+
+msgid "Architecture"
+msgstr "Architecture"
+
+msgid "Photography"
+msgstr "Photography"
+
+msgid "Designer"
+msgstr "Designer"
+
+msgid "IT specialist"
+msgstr "NWS tus kws"
+
+msgid "Agronomist"
+msgstr "Agronomist"
+
+msgid "Architect"
+msgstr "Architector"
+
+msgid "Lawyer"
+msgstr "Tus kws lij choj"
+
+msgid "Writer"
+msgstr "Txawj sau ntawv"
+
+msgid "Doctor"
+msgstr "Tus kws kho mob"
+
+msgid "Scientist"
+msgstr "Tus paub txog"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Xib Fwb"
+
+msgid "Cook"
+msgstr "Ua noj"
+
+msgid "Artist"
+msgstr "Artist"
+
+msgid "Photographer"
+msgstr "Tus tub yees duab"
+
+msgid "Ecologist"
+msgstr "Ecologist"
+
+msgid "Economist"
+msgstr "Kws xam nyiaj txiag"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Sau xov xwm"
+
+msgid "Builder"
+msgstr "Builder"
+
+msgid "These users may be interesting for you"
+msgstr "Cov neeg siv cov tej zaum yuav nthuav rau koj"
+
+msgid "These articles may be interesting for you"
+msgstr "Cov khoom tej zaum yuav nthuav rau koj"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Koj tuaj koom no pab pawg neeg raws li Аdministrator"
+
+msgid "articles written."
+msgstr "khoom sau."
+
+msgid "groups created."
+msgstr "pawg tsim."
+
+msgid "Creation"
+msgstr "Tsim"
+
+msgid "Build a dream"
+msgstr "Tsim kom muaj ib tug npau suav"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Nyeem ntxiv nthuav cov khoom - mus dawb rau npe"
+

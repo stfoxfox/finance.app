@@ -1,0 +1,3345 @@
+# suomi (Финский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: suomi (Финский) <support@konstruktor.com>\n"
+"Language: suomi (Финский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "käyttäjätunnus"
+
+msgid "Invalid username or password, try again"
+msgstr "Väärä käyttäjätunnus tai salasana . Yritä uudelleen."
+
+msgid "Settings"
+msgstr "Asetukset"
+
+msgid "Home"
+msgstr "koti"
+
+msgid "You must log in to access this page"
+msgstr "Sinun täytyy kirjautua sisään päästä tälle sivulle"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Istunto on vanhentunut . Ole hyvä , relogin Toiminnon suorittamiseen"
+
+msgid "Save"
+msgstr "Tallenna"
+
+msgid "Head Office"
+msgstr "pääkonttori"
+
+msgid "Address"
+msgstr "osoite"
+
+msgid "Back"
+msgstr "takaisin"
+
+msgid "Apply"
+msgstr "käyttää"
+
+msgid "Upload files…"
+msgstr "Lataa tiedostoja ..."
+
+msgid "Set as main"
+msgstr "Aseta tärkein"
+
+msgid "Delete"
+msgstr "poistaa"
+
+msgid "Original image"
+msgstr "alkuperäinen kuva"
+
+msgid "Uploaded"
+msgstr "Ladattu"
+
+msgid "File name"
+msgstr "Tiedoston nimi"
+
+msgid "File size"
+msgstr "Tiedoston koko"
+
+msgid "Resolution"
+msgstr "päätöslauselma"
+
+msgid "Enlarge"
+msgstr "suurentaa"
+
+msgid "Links"
+msgstr "Linkit"
+
+msgid "Original size"
+msgstr "alkuperäinen koko"
+
+msgid "For editor"
+msgstr "editor"
+
+msgid "Resize"
+msgstr "Asua"
+
+msgid "Width"
+msgstr "leveys"
+
+msgid "Height"
+msgstr "korkeus"
+
+msgid "Media URL"
+msgstr "Media URL"
+
+msgid "Add record"
+msgstr "Lisää ennätys"
+
+msgid "Show filter settings"
+msgstr "Näytä asetukset"
+
+msgid "Edit record"
+msgstr "Muokkaa ennätys"
+
+msgid "Delete record"
+msgstr "Poista levy"
+
+msgid "Delete checked records"
+msgstr "Poista valitut tietueet"
+
+msgid "Dashboard"
+msgstr "kojelauta"
+
+msgid "Password"
+msgstr "salasana"
+
+msgid "Remember me"
+msgstr "muista minut"
+
+msgid "Login"
+msgstr "Kirjaudu Sisään"
+
+msgid "Clean image cache"
+msgstr "Puhdista kuvavälimuistia"
+
+msgid "Processing query..."
+msgstr "Processing kysely ..."
+
+msgid "CMS Development"
+msgstr "CMS Development"
+
+msgid "Admin Home Page"
+msgstr "Admin Kotisivu"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Avoin Etusivu Front - end uudessa välilehdessä"
+
+msgid "Go to Site"
+msgstr "Mene Site"
+
+msgid "Log out"
+msgstr "Kirjaudu ulos"
+
+msgid "Send"
+msgstr "lähettää"
+
+msgid "General"
+msgstr "yleinen"
+
+msgid "Title"
+msgstr "otsikko"
+
+msgid "Teaser"
+msgstr "härnääjä"
+
+msgid "Published"
+msgstr "julkaistu"
+
+msgid "Featured"
+msgstr "Kiinnostavat"
+
+msgid "Active"
+msgstr "aktiivinen"
+
+msgid "Field is mandatory"
+msgstr "Kenttä on pakollinen"
+
+msgid "Sort Order"
+msgstr "järjestys"
+
+msgid "Upload"
+msgstr "Lataa"
+
+msgid "Loading..."
+msgstr "Ladataan ..."
+
+msgid "Jan"
+msgstr "tammikuu"
+
+msgid "Feb"
+msgstr "helmikuu"
+
+msgid "Mar"
+msgstr "maaliskuu"
+
+msgid "Apr"
+msgstr "huhtikuu"
+
+msgid "May"
+msgstr "toukokuu"
+
+msgid "Jun"
+msgstr "kesäkuu"
+
+msgid "Jul"
+msgstr "heinäkuu"
+
+msgid "Aug"
+msgstr "elokuu"
+
+msgid "Sep"
+msgstr "syyskuu"
+
+msgid "Oct"
+msgstr "lokakuu"
+
+msgid "Nov"
+msgstr "marraskuu"
+
+msgid "Dec"
+msgstr "joulukuu"
+
+msgid "Product already exists in the order"
+msgstr "Tuote on jojärjestyksessä"
+
+msgid "Product does not exist"
+msgstr "Tuote ei ole olemassa"
+
+msgid "Incorrect request"
+msgstr "virheellinen pyyntö"
+
+msgid "Products"
+msgstr "tuotteet"
+
+msgid "Product types"
+msgstr "Tuotetyypit"
+
+msgid "Contractors"
+msgstr "urakoitsijat"
+
+msgid "Contractor"
+msgstr "urakoitsija"
+
+msgid "Orders"
+msgstr "tilaukset"
+
+msgid "FAQ"
+msgstr "UKK"
+
+msgid "New order"
+msgstr "uusi tilaus"
+
+msgid "My orders"
+msgstr "tilaukset"
+
+msgid "Recharge balance"
+msgstr "lataa tasapaino"
+
+msgid "Administrator"
+msgstr "hallintomies"
+
+msgid "Incorrect event ID"
+msgstr "Virheellinen tapahtuma ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Muokkaa urakoitsija"
+
+msgid "Create contractor"
+msgstr "Luo urakoitsijan"
+
+msgid "Edit question"
+msgstr "Edit kysymys"
+
+msgid "Create question"
+msgstr "Luo kysymys"
+
+msgid "Edit order"
+msgstr "Edit järjestys"
+
+msgid "Create order"
+msgstr "Luo tilaus"
+
+msgid "Edit product"
+msgstr "Muokkaa tuotetta"
+
+msgid "Create product"
+msgstr "Luo tuote"
+
+msgid "Edit product type"
+msgstr "Edit tuotetyyppi"
+
+msgid "Create product type"
+msgstr "Luo tuotetyyppi"
+
+msgid "You have received a file"
+msgstr "Olet saanuttiedosto"
+
+msgid "You received a file from"
+msgstr "Olet saanuttiedosto"
+
+msgid "File has been uploaded"
+msgstr "Tiedosto on ladattu"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "vähäinen määrä"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "kohdetta"
+
+msgid "Remove"
+msgstr "poistaa"
+
+msgid "Contact person"
+msgstr "Yhteyshenkilö"
+
+msgid "Email"
+msgstr "Sähköposti"
+
+msgid "Contractor phone"
+msgstr "urakoitsija puhelin"
+
+msgid "Contractor name"
+msgstr "urakoitsija name"
+
+msgid "Contractor details"
+msgstr "urakoitsija yksityiskohdat"
+
+msgid "Order ID"
+msgstr "Order ID"
+
+msgid "Sum"
+msgstr "summa"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Valitsesopiva maksujärjestelmää ladata saldosi"
+
+msgid "Recharge amount"
+msgstr "lataa määrä"
+
+msgid "Paid"
+msgstr "maksettu"
+
+msgid "Shipped"
+msgstr "lähetetty"
+
+msgid "- No products in this order -"
+msgstr "- Ei tuotteita tässä järjestyksessä -"
+
+msgid "month"
+msgstr "kuukausi"
+
+msgid "No user found"
+msgstr "Ei käyttäjä löytynyt"
+
+msgid "Achievement"
+msgstr "saavutus"
+
+msgid "Confirmed accomplishments"
+msgstr "vahvistettu saavutuksia"
+
+msgid "Remove achievement"
+msgstr "Poista saavutus"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "puhelin"
+
+msgid "Site URL and email"
+msgstr "Sivuston URL-osoite ja sähköposti"
+
+msgid "Remove address"
+msgstr "Poista osoite"
+
+msgid "Members"
+msgstr "jäsenet"
+
+msgid "Requires a payment"
+msgstr "Vaatiimaksu"
+
+msgid "Shipping"
+msgstr "merenkulku"
+
+msgid "Ready"
+msgstr "valmis"
+
+msgid "Find user..."
+msgstr "Etsi käyttäjä ..."
+
+msgid "Order it"
+msgstr "Tilaa se"
+
+msgid "Find group..."
+msgstr "Etsi ryhmä ..."
+
+msgid "Find user or community..."
+msgstr "Etsi käyttäjä tai yhteisö ..."
+
+msgid "No item found"
+msgstr "Ei tuotetta löytyi"
+
+msgid "years"
+msgstr "vuotta"
+
+msgid "Send message"
+msgstr "Lähetä viesti"
+
+msgid "Message"
+msgstr "viesti"
+
+msgid "To send message press Enter"
+msgstr "Kun haluat lähettää viestin paina Enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Kun haluat lähettää viestin painamalla CTRL + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Käsittely file ( s ) ..."
+
+msgid "Group settings"
+msgstr "Ryhmäasetukset"
+
+msgid "Create group"
+msgstr "Luo ryhmä"
+
+msgid "Group has been successfully saved"
+msgstr "Ryhmä on tallennettu"
+
+msgid "Group title"
+msgstr "ryhmä otsikko"
+
+msgid "Group video"
+msgstr "Group video"
+
+msgid "Description"
+msgstr "kuvaus"
+
+msgid "Your role in group"
+msgstr "Roolisi ryhmässä"
+
+msgid "Role"
+msgstr "rooli"
+
+msgid "Photo or video gallery"
+msgstr "Valokuva tai video gallery"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Lataa video"
+
+msgid "Add group address"
+msgstr "Lisää ryhmä osoite"
+
+msgid "Group articles"
+msgstr "Kaikki artikkelit"
+
+msgid "No addresses yet"
+msgstr "Ei osoitteet vielä"
+
+msgid "Add group achievement"
+msgstr "Lisää ryhmä saavutus"
+
+msgid "No achivements yet"
+msgstr "Ei achivements vielä"
+
+msgid "Are you sure to delete this user"
+msgstr "Oletko varma, että haluat poistaa tämän käyttäjän"
+
+msgid "Add member"
+msgstr "Lisää jäsen"
+
+msgid "Are you sure to delete this record?"
+msgstr "Oletko varma, että haluat poistaa tämän tietueen ?"
+
+msgid "Join this group"
+msgstr "Liity tähän ryhmään"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Kutsu lähetettiinryhmään ylläpitäjälle"
+
+msgid "All addresses"
+msgstr "kaikki osoitteet"
+
+msgid "Collapse"
+msgstr "romahdus"
+
+msgid "Achievements"
+msgstr "saavutukset"
+
+msgid "Show more"
+msgstr "Näytä lisää"
+
+msgid "Team"
+msgstr "joukkue"
+
+msgid "Projects"
+msgstr "Projektit"
+
+msgid "New project"
+msgstr "uusi projekti"
+
+msgid "Project has not been created yet"
+msgstr "Hanke ei ole vielä luotu"
+
+msgid "Messanger"
+msgstr "Messenger"
+
+msgid "Balance"
+msgstr "tasapaino"
+
+msgid "Main page"
+msgstr "Pääsivu"
+
+msgid "Upload image"
+msgstr "Lisää kuva"
+
+msgid "My time"
+msgstr "aikani"
+
+msgid "Day"
+msgstr "päivä"
+
+msgid "Week"
+msgstr "viikko"
+
+msgid "Project settings"
+msgstr "projekti asetukset"
+
+msgid "Create project"
+msgstr "Luo projekti"
+
+msgid "Project has been successfully saved"
+msgstr "Hanke on tallennettu"
+
+msgid "Project name"
+msgstr "Hankkeen nimi"
+
+msgid "Deadline"
+msgstr "määräaika"
+
+msgid "Close"
+msgstr "lähellä"
+
+msgid "Manager"
+msgstr "johtaja"
+
+msgid "Assigned to"
+msgstr "sidotut"
+
+msgid "Discussion"
+msgstr "keskustelu"
+
+msgid "Task was created"
+msgstr "Tehtävä on luotu"
+
+msgid "Task was closed"
+msgstr "Tehtävä päättyi"
+
+msgid "Go to Group"
+msgstr "Mene Group"
+
+msgid "Closed"
+msgstr "suljettu"
+
+msgid "Last updates"
+msgstr "viimeksi päivitykset"
+
+msgid "Project is closed"
+msgstr "Projekti on suljettu"
+
+msgid "No open tasks"
+msgstr "Ei avoimia tehtäviä"
+
+msgid "New task"
+msgstr "uusi tehtävä"
+
+msgid "Closed tasks"
+msgstr "Suljettu tehtävät"
+
+msgid "Add subproject"
+msgstr "Lisää osaprojektin"
+
+msgid "Add task"
+msgstr "Lisää tehtävä"
+
+msgid "Sun"
+msgstr "sunnuntai"
+
+msgid "Mon"
+msgstr "maanantai"
+
+msgid "Tue"
+msgstr "tiistai"
+
+msgid "Wed"
+msgstr "keskiviikko"
+
+msgid "Thur"
+msgstr "torstai"
+
+msgid "Fri"
+msgstr "perjantai"
+
+msgid "Sat"
+msgstr "lauantai"
+
+msgid "Event title"
+msgstr "Tapahtuman otsikko"
+
+msgid "Event description"
+msgstr "Tapahtuman kuvaus"
+
+msgid "I registered on this site"
+msgstr "Olen rekisteröitynyt tällä sivustolla"
+
+msgid "Last created groups"
+msgstr "Viimeisin kirjoittaja ryhmät"
+
+msgid "You joined this group as"
+msgstr "Olet liittynyt tähän ryhmään"
+
+msgid "You received a request to join the group"
+msgstr "Olet saanutpyynnön liittyä ryhmään"
+
+msgid "Updated site"
+msgstr "Päivitetty sivusto"
+
+msgid "Site is under construction"
+msgstr "Sivusto on rakenteilla"
+
+msgid "Last registered users"
+msgstr "Viimeiset rekisteröitynyttä käyttäjää"
+
+msgid "User settings"
+msgstr "käyttäjän asetukset"
+
+msgid "Technical support"
+msgstr "Tekninen tuki"
+
+msgid "Change email"
+msgstr "Muuta sähköpostiosoitetta"
+
+msgid "Change password"
+msgstr "Muuta salasana"
+
+msgid "User has been successfully saved"
+msgstr "Käyttäjän on tallennettu"
+
+msgid "Full name"
+msgstr "Koko nimi"
+
+msgid "My video"
+msgstr "My video"
+
+msgid "Skills"
+msgstr "taidot"
+
+msgid "Birthday"
+msgstr "syntymäpäivä"
+
+msgid "Country of residence"
+msgstr "Asuinmaa"
+
+msgid "Country"
+msgstr "maa"
+
+msgid "Zip Code"
+msgstr "postinumero"
+
+msgid "City/town of residence"
+msgstr "Kaupunki / kaupungin asumisen"
+
+msgid "University/college"
+msgstr "Yliopisto / korkeakoulu"
+
+msgid "University/college photo"
+msgstr "Yliopisto / korkeakoulu valokuva"
+
+msgid "Add user\'s accomplishments"
+msgstr "Lisää käyttäjä saavutukset"
+
+msgid "Interface language"
+msgstr "käyttöliittymän kieli"
+
+msgid "How other people see this page"
+msgstr "Miten muut ihmiset näkevät tämän sivun"
+
+msgid "Video with me"
+msgstr "Video minut"
+
+msgid "Groups"
+msgstr "Ryhmät"
+
+msgid "Registered today"
+msgstr "rekisteröity tänään"
+
+msgid "Qty"
+msgstr "Määrä"
+
+msgid "No registered users yet"
+msgstr "Ei rekisteröityneitä käyttäjiä vielä"
+
+msgid "Total"
+msgstr "koko"
+
+msgid "Registered total"
+msgstr "rekisteröity kokonaismäärä"
+
+msgid "You received a file"
+msgstr "Saittiedosto"
+
+msgid "You were invited into this room"
+msgstr "Voit kutsuttiin tähän huoneeseen"
+
+msgid "Request is being processed"
+msgstr "Pyyntö käsitellään parhaillaan"
+
+msgid "Fax"
+msgstr "faksi"
+
+msgid "Messenger"
+msgstr "sanansaattaja"
+
+msgid "New subproject"
+msgstr "uusi osahanke"
+
+msgid "messages written."
+msgstr "kirjoitetut viestit ."
+
+msgid "projects created based on groups."
+msgstr "hankkeiden perusteella luotuja ryhmiä ."
+
+msgid "users registered on website."
+msgstr "Käyttäjät rekisteröity sivusto ."
+
+msgid "New email"
+msgstr "uusi sähköpostiosoite"
+
+msgid "Confirm email"
+msgstr "Vahvista sähköposti"
+
+msgid "New password"
+msgstr "Uusi salasana"
+
+msgid "Confirm password"
+msgstr "Vahvista Salasana"
+
+msgid "Occupation"
+msgstr "Erikoisuus"
+
+msgid "Timezone"
+msgstr "Aikavyöhyke"
+
+msgid "Answer"
+msgstr "vastaus"
+
+msgid "Articles"
+msgstr "Artikkelit"
+
+msgid "Article"
+msgstr "artikkeli"
+
+msgid "Video-article"
+msgstr "Video - artikkeli"
+
+msgid "Find article..."
+msgstr "Etsi artikkeli ..."
+
+msgid "Politics"
+msgstr "politiikka"
+
+msgid "Economics"
+msgstr "taloustiede"
+
+msgid "Community"
+msgstr "yhteisö"
+
+msgid "Culture"
+msgstr "kulttuuri"
+
+msgid "Sports"
+msgstr "urheilu"
+
+msgid "Hi-tech"
+msgstr "Hi - tech"
+
+msgid "Cars"
+msgstr "autot"
+
+msgid "Fashion"
+msgstr "muoti"
+
+msgid "Games"
+msgstr "Pelit"
+
+msgid "Other"
+msgstr "muut"
+
+msgid "Invalid mediafile"
+msgstr "Virheellinen mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Ei artikkeleita tässä kategoriassa vielä"
+
+msgid "Back to profile"
+msgstr "Takaisin profiiliin"
+
+msgid "View article"
+msgstr "Katso artikkeli"
+
+msgid "Edit article"
+msgstr "muokkaa artikkeli"
+
+msgid "Create article"
+msgstr "Luo artikkeli"
+
+msgid "Article title"
+msgstr "artikkelin otsikko"
+
+msgid "Article section"
+msgstr "artikla jakso"
+
+msgid "Choose image"
+msgstr "Valitse kuva"
+
+msgid "Save and upload"
+msgstr "Tallenna ja lataa"
+
+msgid "Show more..."
+msgstr "Näytä lisää..."
+
+msgid "Create"
+msgstr "luoda"
+
+msgid "Edit"
+msgstr "muokata"
+
+msgid "Project"
+msgstr "hanke"
+
+msgid "Team"
+msgstr "joukkue"
+
+msgid "A new article was published"
+msgstr "Uusi artikkeli on julkaistu"
+
+msgid "You joined this project"
+msgstr "Olet liittynyt tähän hankkeeseen"
+
+msgid "Enter your information in the User settings"
+msgstr "Kirjoita tiedotKäyttäjän asetukset"
+
+msgid "Communities"
+msgstr "yhteisöjen"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Videoesitys minun saavutuksia"
+
+msgid "My articles"
+msgstr "artikkelini"
+
+msgid "User"
+msgstr "käyttäjä"
+
+msgid "Users"
+msgstr "käyttäjät"
+
+msgid "Add new list"
+msgstr "Lisää lista"
+
+msgid "List title"
+msgstr "Luettelo otsikko"
+
+msgid "Add"
+msgstr "lisätä"
+
+msgid "Add to favorites"
+msgstr "Lisää suosikkeihin"
+
+msgid "Delete from favorites"
+msgstr "Poista suosikeista"
+
+msgid "Select list"
+msgstr "Valitse lista"
+
+msgid "Subscriptions"
+msgstr "Tilaukset"
+
+msgid "Subscribe"
+msgstr "merkitä"
+
+msgid "Unsubscribe"
+msgstr "Lopeta tilaus"
+
+msgid "General list"
+msgstr "yleinen luettelo"
+
+msgid "No users in this list"
+msgstr "Ei käyttäjien tähän listaan"
+
+msgid "Publish"
+msgstr "julkaista"
+
+msgid "Unpublish"
+msgstr "Lopeta julkaiseminen"
+
+msgid "Add user"
+msgstr "Lisää käyttäjä"
+
+msgid "Create document"
+msgstr "Luo asiakirja"
+
+msgid "Edit document"
+msgstr "Muokkaa dokumenttia"
+
+msgid "View"
+msgstr "näkymä"
+
+msgid "Document title"
+msgstr "asiakirjan otsikko"
+
+msgid "Find document..."
+msgstr "Etsi asiakirja ..."
+
+msgid "Share your thoughts"
+msgstr "Jaa ajatuksesi"
+
+msgid "Leave your comment"
+msgstr "Jätä kommentti"
+
+msgid "Accept"
+msgstr "hyväksyä"
+
+msgid "Decline"
+msgstr "aleneminen"
+
+msgid "Add article"
+msgstr "Lisää artikkeli"
+
+msgid "Link to verified accomplishments"
+msgstr "Linkki todennettujen saavutuksia"
+
+msgid "No articles here yet..."
+msgstr "Ei artikkeleita tässä vielä"
+
+msgid "Find file or folder..."
+msgstr "Etsi tiedosto tai kansio ..."
+
+msgid "Sort"
+msgstr "lajitella"
+
+msgid "By name"
+msgstr "nimen"
+
+msgid "By date"
+msgstr "päivämäärän"
+
+msgid "By updated date"
+msgstr "By päivitetty päivämäärä"
+
+msgid "By size"
+msgstr "koon"
+
+msgid "By type"
+msgstr "tyypin"
+
+msgid "Move"
+msgstr "liikkua"
+
+msgid "File Manager"
+msgstr "Tiedostonhallinta"
+
+msgid "Share link"
+msgstr "Jaa linkki"
+
+msgid "Responsible"
+msgstr "vastuullinen"
+
+msgid "Performer"
+msgstr "esiintyjä"
+
+msgid "New Folder"
+msgstr "Uusi kansio"
+
+msgid "Folder name"
+msgstr "kansion nimi"
+
+msgid "By default"
+msgstr "Oletuksena"
+
+msgid "Back to group"
+msgstr "Takaisin ryhmään"
+
+msgid "year(s)"
+msgstr "year (s)"
+
+msgid "January"
+msgstr "tammikuu"
+
+msgid "February"
+msgstr "helmikuu"
+
+msgid "March"
+msgstr "maaliskuu"
+
+msgid "April"
+msgstr "huhtikuu"
+
+msgid "May"
+msgstr "Toukokuu"
+
+msgid "June"
+msgstr "kesäkuu"
+
+msgid "July"
+msgstr "heinäkuu"
+
+msgid "August"
+msgstr "elokuu"
+
+msgid "September"
+msgstr "syyskuu"
+
+msgid "October"
+msgstr "lokakuu"
+
+msgid "November"
+msgstr "marraskuu"
+
+msgid "December"
+msgstr "joulukuu"
+
+msgid "Password Reminder"
+msgstr "Salasanamuistutin"
+
+msgid "Log In"
+msgstr "Kirjaudu sisään"
+
+msgid "Sign in"
+msgstr "Kirjaudu sisään"
+
+msgid "Register"
+msgstr "Rekisteröidy"
+
+msgid "First name"
+msgstr "Etunimi"
+
+msgid "Last name"
+msgstr "Sukunimi"
+
+msgid "I agree with rules"
+msgstr "Hyväksyn säännöt"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Vahvistus lähetys lähetetty sähköpostiosoitteesi."
+
+msgid "Thanks"
+msgstr "kiitos"
+
+msgid "Password must be at least 6 characters"
+msgstr "Salasanan on oltava vähintään 6 merkkiä"
+
+msgid "Creative Environment"
+msgstr "Creative Ympäristö"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Sinun täytyy olla vähintään kolmentoista vuoden iässä käyttää tätä palvelua"
+
+msgid "Order status"
+msgstr "Tilauksen tila"
+
+msgid "Processing order"
+msgstr "käsittelyjärjestyksessä"
+
+msgid "Requires a payment"
+msgstr "Vaatii maksu"
+
+msgid "Shipping"
+msgstr "kuljetus"
+
+msgid "Ready"
+msgstr "valmis"
+
+msgid "Thank you for your payment"
+msgstr "Kiitos maksustasi"
+
+msgid "Your payment has been cancelled"
+msgstr "Maksu on peruutettu"
+
+msgid "page"
+msgstr "sivu"
+
+msgid "Rent period"
+msgstr "vuokra aikana"
+
+msgid "Total, month"
+msgstr "Yhteensä, kuukausi"
+
+msgid "Order items"
+msgstr "Tilaa kohdetta"
+
+msgid "No records found"
+msgstr "Merkintöjä ei löydy"
+
+msgid "User with this email is already exist"
+msgstr "Käyttäjälle tämä sähköpostiosoite on jo olemassa"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Kansio tai tiedosto tällainen nimi on jo olemassa kohdekansiossa"
+
+msgid "Minimal quantity"
+msgstr "vähäinen määrä"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "tulostaa kopioita"
+
+msgid "Terms of Use"
+msgstr "Käyttöehdot"
+
+msgid "Privacy Policy"
+msgstr "Tietosuojakäytäntö"
+
+msgid "Find project..."
+msgstr "Etsi projekti ..."
+
+msgid "New Project"
+msgstr "uusi projekti"
+
+msgid "Accounts"
+msgstr "tilit"
+
+msgid "Operations"
+msgstr "toiminnot"
+
+msgid "All accounts"
+msgstr "kaikki tilit"
+
+msgid "All categories"
+msgstr "Kaikki kategoriat"
+
+msgid "Expense"
+msgstr "kulu"
+
+msgid "Income"
+msgstr "tulo"
+
+msgid "Transfer"
+msgstr "siirto"
+
+msgid "Expense"
+msgstr "kulu"
+
+msgid "income"
+msgstr "tulo"
+
+msgid "tax"
+msgstr "vero"
+
+msgid "percent"
+msgstr "prosentti"
+
+msgid "transfer"
+msgstr "siirto"
+
+msgid "Make operation"
+msgstr "tee toiminta"
+
+msgid "Select date"
+msgstr "Valitse päivä"
+
+msgid "Select account"
+msgstr "Valitse tili"
+
+msgid "Month"
+msgstr "Kuukausi"
+
+msgid "Quarter"
+msgstr "neljännes"
+
+msgid "Year"
+msgstr "vuosi"
+
+msgid "From"
+msgstr "alkaen"
+
+msgid "To"
+msgstr "jotta"
+
+msgid "Expense amount"
+msgstr "kustannuksella määrä"
+
+msgid "Categories"
+msgstr "Luokat"
+
+msgid "Comments"
+msgstr "Kommentit"
+
+msgid "Income amount"
+msgstr "tulot määrä"
+
+msgid "Transfer amount"
+msgstr "siirto määrä"
+
+msgid "From account"
+msgstr "tililtä"
+
+msgid "To account"
+msgstr "Tilille"
+
+msgid "New Account"
+msgstr "Uusi tili"
+
+msgid "New Category"
+msgstr "uusi luokka"
+
+msgid "All"
+msgstr "Kaikki"
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "Enter category name"
+msgstr "Anna luokan nimi"
+
+msgid "Select type"
+msgstr "Valitse tyyppi"
+
+msgid "Credit card"
+msgstr "Luottokortti"
+
+msgid "Debit card"
+msgstr "Luottokortti"
+
+msgid "Bank account"
+msgstr "pankkitili"
+
+msgid "Cash"
+msgstr "käteinen"
+
+msgid "Balance is empty"
+msgstr "Tasapaino on tyhjä"
+
+msgid "Statistic is empty"
+msgstr "Tilasto on tyhjä"
+
+msgid "Regular payments"
+msgstr "säännöllisiä maksuja"
+
+msgid "Are you sure ?"
+msgstr "Oletko varma ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Haluatko varmasti sulkea tämän hankkeen ?"
+
+msgid "Project was deleted successfully"
+msgstr "Hanke poistaminen onnistui"
+
+msgid "Select currency"
+msgstr "Valitse valuutta"
+
+msgid "Account"
+msgstr "Tili"
+
+msgid "Orders list"
+msgstr "tilaukset lista"
+
+msgid "Order payments"
+msgstr "Tilaa maksut"
+
+msgid "View order"
+msgstr "Näytä tilaus"
+
+msgid "No response from Printer API"
+msgstr "Ei vastaa Kirjoitin API"
+
+msgid "Bad response from Printer API"
+msgstr "Huono vastaus Tulostimen API"
+
+msgid "User ID"
+msgstr "käyttäjätunnus"
+
+msgid "Contact Person"
+msgstr "Yhteyshenkilö"
+
+msgid "No orders to process"
+msgstr "Tilauksia ei käsitellä"
+
+msgid "Article announce image"
+msgstr "Artikla ilmoittaa kuva"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Virheellinen videon URL-osoite . Jätä tyhjäksi tai lisätä voimassa YOUTUBE URL"
+
+msgid "Please, enter Contractor data"
+msgstr "Ole hyvä , anna urakoitsija tiedot"
+
+msgid "Distribute devices"
+msgstr "jakaa laitteita"
+
+msgid "Quantity"
+msgstr "määrä"
+
+msgid "Devices left"
+msgstr "laitteet vasen"
+
+msgid "Distributed devices"
+msgstr "hajautettu laitteet"
+
+msgid "You must enter quantity"
+msgstr "Sinun täytyy syöttää määrä"
+
+msgid "All devices are distributed"
+msgstr "Kaikki laitteet jaetaan"
+
+msgid "IP address"
+msgstr "IP-osoite"
+
+msgid "Only for printer"
+msgstr "Vain tulostimen"
+
+msgid "Counter"
+msgstr "laskuri"
+
+msgid "You was excluded from this room"
+msgstr "Voit jätettiin tästä huoneesta"
+
+msgid "Compare"
+msgstr "vertailla"
+
+msgid "Scheduled transaction"
+msgstr "Reittiliikenne kauppa"
+
+msgid "Select transfer account"
+msgstr "Valitse siirto tili"
+
+msgid "Select income account"
+msgstr "Valitse Tulonmuodostustili"
+
+msgid "Reports"
+msgstr "raportit"
+
+msgid "Goals"
+msgstr "tavoitteet"
+
+msgid "Budgets"
+msgstr "talousarviot"
+
+msgid "Enter user name or email..."
+msgstr "Anna käyttäjätunnus tai sähköpostiosoite ..."
+
+msgid "Invite had been sended"
+msgstr "Kutsu oli lähetetty"
+
+msgid "Statistics"
+msgstr "tilasto"
+
+msgid "Updated site began to work"
+msgstr "Päivitetty sivusto alkoi työskennellä"
+
+msgid "City of residence"
+msgstr "City of Residence"
+
+msgid "Edit favourites list"
+msgstr "Muokkaa suosikkiluettelo"
+
+msgid "Add favourites list"
+msgstr "Lisää suosikkeihin lista"
+
+msgid "Categories is required"
+msgstr "Kategoriat tarvitaan"
+
+msgid "Type new category name and hit Enter"
+msgstr "Kirjoita uusi luokan nimi ja paina Enter"
+
+msgid "You created an order"
+msgstr "Loittilaus"
+
+msgid "You received a device due to this order"
+msgstr "Olet saanutlaite takia tämän määräyksen"
+
+msgid "%s attached %s to task %s"
+msgstr "%s liitetty %s Tehtävää %s"
+
+msgid "member(s)"
+msgstr "jäsen ( s )"
+
+msgid "%s commented task %s"
+msgstr "%s kommentoi tehtävä %s"
+
+msgid "%s closed task %s"
+msgstr "%s suljettu tehtävä %s"
+
+msgid "%s created task %s"
+msgstr "%s luotu tehtävä %s"
+
+msgid "%s created this project"
+msgstr "%s loi tämän projektin"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s luotu osahanke \" %s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s suljettu projekti \" %s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s suljettu osahanke \" %s \""
+
+msgid "This field must not be blank"
+msgstr "Tämä kenttä ei voi olla tyhjä"
+
+msgid "Document with such name is already exist"
+msgstr "Asiakirjan tällaisia ​​nimi on jo olemassa"
+
+msgid "Wait until image upload"
+msgstr "Odota kuva upload"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Message can not be empty"
+msgstr "Ilmoitus ei voi olla tyhjä"
+
+msgid "Yes"
+msgstr "kyllä"
+
+msgid "No"
+msgstr "ei"
+
+msgid "Created"
+msgstr "Luotu"
+
+msgid "Compare is empty"
+msgstr "Vertaile on tyhjä"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Oletko varma että haluat poistaa toiminnan"
+
+msgid "Do you really want to delete transaction"
+msgstr "Haluatko todella poistaa kauppa"
+
+msgid "Project with same name already exists"
+msgstr "Projekti jo samanniminen"
+
+msgid "Account is not found"
+msgstr "Tiliä ei ole löytynyt"
+
+msgid "Currency is required"
+msgstr "Valuutta vaaditaan"
+
+msgid "error while deleting document"
+msgstr "Virhe poistettaessa asiakirja"
+
+msgid "Expences"
+msgstr "Ylläpitokulut"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Kutsuit käyttäjä \" %s \" tässä huoneessa"
+
+msgid "User \"%s\" joined this room"
+msgstr "Käyttäjän \" %s \" liittyi tämä huone"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Voit sulkea käyttäjän \" %s \" tästä huoneesta"
+
+msgid "User \"%s\" left this room"
+msgstr "Käyttäjän \" %s \" vasen tämä huone"
+
+msgid "Add account"
+msgstr "Lisää tili"
+
+msgid "The requested page is not found"
+msgstr "Pyydetty sivu ei löytynyt"
+
+msgid "Document"
+msgstr "asiakirja"
+
+msgid "Table"
+msgstr "taulukko"
+
+msgid "file(s)"
+msgstr "tiedosto ( t )"
+
+msgid "Residue"
+msgstr "jäännös"
+
+msgid "Result is empty"
+msgstr "Tulos on tyhjä"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Kokonaismäärä on %s %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Sinun täytyy tallettaa %s kuukausittain liittyvä tili"
+
+msgid "Start"
+msgstr "alku"
+
+msgid "finish"
+msgstr "saada valmiiksi"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Valittu tili on jo käytössä toinen tavoite"
+
+msgid "Amount required"
+msgstr "tarvittava määrä"
+
+msgid "New goal"
+msgstr "uusi tavoite"
+
+msgid "Goal"
+msgstr "tavoite"
+
+msgid "Goal name"
+msgstr "Tavoitteen nimi"
+
+msgid "Invalid date"
+msgstr "Virheellinen päivämäärä"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Välttämätön summa on oltava positiivinen numero"
+
+msgid "Remain"
+msgstr "jäädä"
+
+msgid "Last day"
+msgstr "Viimeinen päivä"
+
+msgid "Accumulated"
+msgstr "kertyneet"
+
+msgid "Put aside"
+msgstr "Laittaa sivuun"
+
+msgid "January"
+msgstr "tammikuu"
+
+msgid "February"
+msgstr "helmikuu"
+
+msgid "March"
+msgstr "maaliskuu"
+
+msgid "April"
+msgstr "huhtikuu"
+
+msgid "May"
+msgstr "Toukokuu"
+
+msgid "June"
+msgstr "kesäkuu"
+
+msgid "July"
+msgstr "heinäkuu"
+
+msgid "August"
+msgstr "elokuu"
+
+msgid "September"
+msgstr "syyskuu"
+
+msgid "October"
+msgstr "lokakuu"
+
+msgid "November"
+msgstr "marraskuu"
+
+msgid "December"
+msgstr "joulukuu"
+
+msgid "Expenses projected/actual"
+msgstr "Kulut ennustetaan / todellinen"
+
+msgid "Net Income projected/actual"
+msgstr "Nettotulos ennustetaan / todellinen"
+
+msgid "New budget"
+msgstr "uusi talousarvio"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Tulot ja kulut Chart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Talousarvio saman parin tilin ja luokan on jo olemassa"
+
+msgid "Budget is empty"
+msgstr "Budjetti on tyhjä"
+
+msgid "Budget"
+msgstr "talousarvio"
+
+msgid "plan"
+msgstr "suunnitelma"
+
+msgid "fact"
+msgstr "tosiasia"
+
+msgid "diff"
+msgstr "JM"
+
+msgid "Show More"
+msgstr "Näytä lisää"
+
+msgid "Cancel"
+msgstr "peruuttaa"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "Oma myynti"
+
+msgid "Time spent"
+msgstr "Käytetty aika"
+
+msgid "Total time spent"
+msgstr "Yhteensä aika"
+
+msgid "Earnings per hour"
+msgstr "Tulos tunnissa"
+
+msgid "Total earnings"
+msgstr "kokonaistulot"
+
+msgid "Call"
+msgstr "Puhelu"
+
+msgid "Phone call"
+msgstr "Puhelinsoitto"
+
+msgid "Telephone calls"
+msgstr "puhelut"
+
+msgid "Send email"
+msgstr "Lähetä sähköposti"
+
+msgid "Emails"
+msgstr "sähköpostit"
+
+msgid "Meeting"
+msgstr "kokous"
+
+msgid "Meetings"
+msgstr "kokoukset"
+
+msgid "All events"
+msgstr "kaikki tapahtumat"
+
+msgid "Task"
+msgstr "tehtävä"
+
+msgid "Event"
+msgstr "tapahtuma"
+
+msgid "Events"
+msgstr "Tapahtumat"
+
+msgid "Time"
+msgstr "aika"
+
+msgid "Events statistics"
+msgstr "Tapahtumat tilastot"
+
+msgid "days"
+msgstr "päivää"
+
+msgid "hours"
+msgstr "tuntia"
+
+msgid "minutes"
+msgstr "minuuttia"
+
+msgid "Income & expense"
+msgstr "Tuotoista ja kuluista"
+
+msgid "Show chart"
+msgstr "Näytä kaavio"
+
+msgid "Hide chart"
+msgstr "Piilota kaavio"
+
+msgid "Add event"
+msgstr "Lisää tapahtuma"
+
+msgid "Add financial data"
+msgstr "Lisää taloudelliset tiedot"
+
+msgid "Select contractor"
+msgstr "Valitse urakoitsija"
+
+msgid "Net Income"
+msgstr "Nettotulot"
+
+msgid "Revenue"
+msgstr "Tulot"
+
+msgid "Taxes"
+msgstr "verot"
+
+msgid "Amount planned"
+msgstr "määrä suunnitellut"
+
+msgid "Amount"
+msgstr "määrä"
+
+msgid "Period"
+msgstr "aika"
+
+msgid "Are you sure to close this task?"
+msgstr "Haluatko varmasti sulkea tämän tehtävän ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "kaikki ryhmät"
+
+msgid "added from task"
+msgstr "lisätään tehtävästä"
+
+msgid "Monthly repeat"
+msgstr "Kuukauden toista"
+
+msgid "Select category"
+msgstr "Valitse luokka"
+
+msgid "Event type"
+msgstr "Tapahtuman tyyppi"
+
+msgid "Margin"
+msgstr "marginaali"
+
+msgid "Use finance project"
+msgstr "Käytä rahoittaa hanketta"
+
+msgid "New investment project"
+msgstr "Uusi investointihanke"
+
+msgid "Investment project settings"
+msgstr "Investointihanke asetukset"
+
+msgid "Picture, for the announcement project"
+msgstr "Kuva , että ilmoitus hankkeen"
+
+msgid "Announcement project"
+msgstr "ilmoitus hanke"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Photos or videos gallery"
+msgstr "Kuvia tai videoita galleriassa"
+
+msgid "required amount"
+msgstr "tarvittava määrä"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Hankkeen kesto ( 60 päivää maksimi )"
+
+msgid "Project duration"
+msgstr "hankkeen kesto"
+
+msgid "Add reward"
+msgstr "Lisää palkita"
+
+msgid "Delivery date"
+msgstr "Toimituspäivä"
+
+msgid "Payment systems"
+msgstr "maksujärjestelmät"
+
+msgid "Terms of service"
+msgstr "Käyttöehdot"
+
+msgid "Agreement"
+msgstr "sopimus"
+
+msgid "Payment"
+msgstr "maksu"
+
+msgid "My projects"
+msgstr "Omat hankkeet"
+
+msgid "Search result"
+msgstr "Hakutulos"
+
+msgid "Nothing not found"
+msgstr "Mitään ei löytynyt"
+
+msgid "The project has no sponsors"
+msgstr "Hankkeella ei ole sponsoreita"
+
+msgid "Design"
+msgstr "suunnittelu"
+
+msgid "Food"
+msgstr "ruoka"
+
+msgid "Journalism"
+msgstr "journalismi"
+
+msgid "Games"
+msgstr "Pelit"
+
+msgid "Art"
+msgstr "taide"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "musiikki"
+
+msgid "Handicrafts"
+msgstr "käsityöt"
+
+msgid "Publishing"
+msgstr "kustannustoiminta"
+
+msgid "Theater"
+msgstr "teatteri"
+
+msgid "Technology"
+msgstr "teknologia"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "kuva"
+
+msgid "Dance"
+msgstr "tanssi"
+
+msgid "Invalid youtube video"
+msgstr "Virheellinen youtube video"
+
+msgid "is required"
+msgstr "vaaditaan"
+
+msgid "User"
+msgstr "käyttäjä"
+
+msgid "Date"
+msgstr "päivämäärä"
+
+msgid "Collected"
+msgstr "koottu"
+
+msgid "Choose period"
+msgstr "Valitse ajanjakso"
+
+msgid "Choose region"
+msgstr "Valitse alue"
+
+msgid "Country"
+msgstr "maa"
+
+msgid "Today"
+msgstr "tänään"
+
+msgid "Week"
+msgstr "viikko"
+
+msgid "Month"
+msgstr "kuukausi"
+
+msgid "Year"
+msgstr "vuosi"
+
+msgid "Free registration"
+msgstr "ilmainen rekisteröinti"
+
+msgid "Join"
+msgstr "liittää"
+
+msgid "Log in using"
+msgstr "Kirjautua sisään"
+
+msgid "Vacancies"
+msgstr "Työllistymismahdollisuudet"
+
+msgid "About Us"
+msgstr "Meistä"
+
+msgid "You will need email to log in"
+msgstr "Tarvitset sähköpostin kirjautua"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Yhdistelmä 6 numeroa ja merkkiä"
+
+msgid "Search users, groups, articles..."
+msgstr "Etsi käyttäjiä , ryhmiä , artikkeleita ..."
+
+msgid "Cloud"
+msgstr "Pilvi"
+
+msgid "Sunday"
+msgstr "sunnuntai"
+
+msgid "Monday"
+msgstr "maanantai"
+
+msgid "Tuesday"
+msgstr "tiistai"
+
+msgid "Wednesday"
+msgstr "keskiviikko"
+
+msgid "Thursday"
+msgstr "torstai"
+
+msgid "Friday"
+msgstr "perjantai"
+
+msgid "Saturday"
+msgstr "lauantai"
+
+msgid "Edit"
+msgstr "Muokata"
+
+msgid "Create group"
+msgstr "Luo ryhmä"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Oletko varma, että haluat poistua tältä sivulta ?"
+
+msgid "More"
+msgstr "Lisää"
+
+msgid "Less"
+msgstr "Vähemmän"
+
+msgid "Pending"
+msgstr "odotettaessa"
+
+msgid "Approved"
+msgstr "hyväksytty"
+
+msgid "Rejected"
+msgstr "hylätty"
+
+msgid "Subprojects"
+msgstr "Osahankkeet"
+
+msgid "Group edit"
+msgstr "ryhmä muokkaa"
+
+msgid "Startup"
+msgstr "Aloittaa"
+
+msgid "Tattoo"
+msgstr "Tatuointi"
+
+msgid "Health"
+msgstr "terveys"
+
+msgid "Weapon"
+msgstr "Ase"
+
+msgid "Astronomy"
+msgstr "Tähtitiede"
+
+msgid "All articles"
+msgstr "kaikki artikkelit"
+
+msgid "Article editor"
+msgstr "artikla toimittaja"
+
+msgid "Document editor"
+msgstr "dokumenttieditori"
+
+msgid "Apply changes"
+msgstr "Ota muutokset käyttöön"
+
+msgid "Save changes?"
+msgstr "Tallenna muutokset?"
+
+msgid "published an article"
+msgstr "julkaisi artikkelin"
+
+msgid "Users"
+msgstr "käyttäjät"
+
+msgid "Shared With Me"
+msgstr "Jaettu With Me"
+
+msgid "share"
+msgstr "jakaa"
+
+msgid "Select Group Responsible"
+msgstr "Valitse Ryhmä vastaava"
+
+msgid "Create folder"
+msgstr "Luo kansio"
+
+msgid "Title must be at least 3 characters"
+msgstr "Otsikko on oltava vähintään 3 merkkiä"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Ilmainen 10 Gt , talouspäällikkö , investoida moduuli , ja monet muut ilmaiseksi ja ikuisesti"
+
+msgid "Best regards"
+msgstr "Parhain terveisin"
+
+msgid "Updates in last 12 hours:"
+msgstr "Päivitykset viimeisten 12 tunnin :"
+
+msgid "expense"
+msgstr "kulu"
+
+msgid "Commentary on the event:"
+msgstr "Kommentaari tapahtuma :"
+
+msgid "Event place"
+msgstr "Tapahtuman paikka"
+
+msgid "Project was updated"
+msgstr "Projekti on päivitetty"
+
+msgid "Project was created"
+msgstr "Projekti luotiin"
+
+msgid "Project was closed"
+msgstr "Projekti päättyi"
+
+msgid "account"
+msgstr "tili"
+
+msgid "removed task"
+msgstr "poistetaan tehtävä"
+
+msgid "removed subproject"
+msgstr "poistetaan osaprojektin"
+
+msgid "Title can not be empty"
+msgstr "Otsikko ei voi olla tyhjä"
+
+msgid "Do not select the type of event"
+msgstr "Älä valitsetapahtuman tyyppi"
+
+msgid "Error while saving comment"
+msgstr "Virhe säästää kommentti"
+
+msgid "Save error: access denied"
+msgstr "Säästä virhe : access denied"
+
+msgid "Remains"
+msgstr "Remains"
+
+msgid "Time spent, h."
+msgstr "Aika , h ."
+
+msgid "Emails"
+msgstr "sähköpostit"
+
+msgid "Meetings"
+msgstr "kokoukset"
+
+msgid "All users"
+msgstr "Kaikki käyttäjät"
+
+msgid "Category"
+msgstr "luokka"
+
+msgid "Finance project"
+msgstr "rahoitus hanke"
+
+msgid "Investment project"
+msgstr "investointihanke"
+
+msgid "Nature"
+msgstr "luonto"
+
+msgid "Data is empty"
+msgstr "Tiedot on tyhjä"
+
+msgid "Visitors"
+msgstr "Vierailijat"
+
+msgid "My profile"
+msgstr "Minun profiilini"
+
+msgid "Sponsors"
+msgstr "Sponsorit"
+
+msgid "Prior to completion"
+msgstr "Ennen loppuun"
+
+msgid "Select"
+msgstr "valita"
+
+msgid "My groups"
+msgstr "Omat ryhmät"
+
+msgid "The invitation has been sent successfully"
+msgstr "Kutsu on lähetetty onnistuneesti"
+
+msgid "Username has already been invited to this project"
+msgstr "Käyttäjätunnus on jo kutsuttu tähän hankkeeseen"
+
+msgid "The user is the creator of the project"
+msgstr "Käyttäjä onluoja hankkeen"
+
+msgid "Provide full access"
+msgstr "Antaa täyden pääsyn"
+
+msgid "Select elements to provide access"
+msgstr "Valitse elementit tarjota pääsy"
+
+msgid "Select all"
+msgstr "Valitse kaikki"
+
+msgid "User E-mail"
+msgstr "Käyttäjän Sähköposti"
+
+msgid "Click on the field to select a category"
+msgstr "Klikkaa kentän Valitse luokka"
+
+msgid "Invitation was deleted"
+msgstr "Kutsu poistettiin"
+
+msgid "Permission denied"
+msgstr "Lupa kielletty"
+
+msgid "Printed"
+msgstr "Painettu"
+
+msgid "Incorrect Contractor email"
+msgstr "Virheellinen urakoitsija sähköpostia"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Haluatko lisätä hankkeen rahoittamiseksi johtaja ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Viimeistele rekisteröinti prosessi täytä alas taitojasi"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Mail lisäohjeita on lähetetty sähköpostiosoitteesi"
+
+msgid "Submit"
+msgstr "esittää"
+
+msgid "Cars"
+msgstr "autot"
+
+msgid "Science"
+msgstr "tiede"
+
+msgid "Donation"
+msgstr "lahjoitus"
+
+msgid "Interests"
+msgstr "etu"
+
+msgid "Driver"
+msgstr "kuljettaja"
+
+msgid "Sportsman"
+msgstr "Urheilija"
+
+msgid "Businessman"
+msgstr "Liikemies"
+
+msgid "Accountant"
+msgstr "Kirjanpitäjä"
+
+msgid "Engineer"
+msgstr "Insinööri"
+
+msgid "Soldier"
+msgstr "Sotilas"
+
+msgid "Next"
+msgstr "seuraava"
+
+msgid "Hide group"
+msgstr "Piilota ryhmä"
+
+msgid "groups created"
+msgstr "jotka on luotu"
+
+msgid "articles written"
+msgstr "artikkelit on kirjoittanut"
+
+msgid "These groups may be interesting for you"
+msgstr "Nämä ryhmät voivat kiinnostaa sinua"
+
+msgid "About Group"
+msgstr "Tietoja Group"
+
+msgid "view(s)"
+msgstr "näkymä ( s )"
+
+msgid "Favorite users"
+msgstr "suosikki käyttäjät"
+
+msgid "No accounts"
+msgstr "ei tilit"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook Valtuutus epäonnistui ."
+
+msgid "Authorization Required"
+msgstr "vaadittavaa lupaa"
+
+msgid "You have to make a call:"
+msgstr "Sinun täytyy soittaa :"
+
+msgid "You have to send an email:"
+msgstr "Sinun täytyy lähettää sähköpostia :"
+
+msgid "You have a meetup:"
+msgstr "Sinulla on Meetup :"
+
+msgid "You event :"
+msgstr "Olet tapahtuma :"
+
+msgid "Participants:"
+msgstr "osallistujat :"
+
+msgid "Search"
+msgstr "Haku"
+
+msgid "News"
+msgstr "Uutiset"
+
+msgid "Investments"
+msgstr "Investoinnit"
+
+msgid "Back to Cloud"
+msgstr "Takaisin Cloud"
+
+msgid "Documents"
+msgstr "asiakirjat"
+
+msgid "Planet"
+msgstr "planeetta"
+
+msgid "Group url"
+msgstr "ryhmä url"
+
+msgid "Profile url"
+msgstr "profiili url"
+
+msgid "Already taken"
+msgstr "Jo otettu"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Ainakin 1 kirjain ja 3 merkkiä pitkä vaaditaan"
+
+msgid "Digit can not be the first character"
+msgstr "Numeroinen voi olla ensimmäinen merkki"
+
+msgid "Enter valid email address"
+msgstr "Anna voimassa oleva sähköpostiosoite"
+
+msgid "Enter your skills"
+msgstr "Anna taitosi"
+
+msgid "Enter your first name"
+msgstr "Anna etunimesi"
+
+msgid "Enter your last name"
+msgstr "Anna sukunimi"
+
+msgid "Enter your first name and last name"
+msgstr "Anna etunimesi ja sukunimi"
+
+msgid "Your first name?"
+msgstr "Etunimesi?"
+
+msgid "Your last name?"
+msgstr "Sukunimesi?"
+
+msgid "What are your proficiencies?"
+msgstr "Mitkä ovat sinun proficiencies ?"
+
+msgid "Select country"
+msgstr "Valitse maa"
+
+msgid "Select user"
+msgstr "Valitse käyttäjä"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Täyttää unelmiesi ! Luo ja tehdä yhteistyötä ."
+
+msgid "date moved from"
+msgstr "päivämäärä siirrettiin"
+
+msgid "work"
+msgstr "työ"
+
+msgid "Conference"
+msgstr "konferenssi"
+
+msgid "personal"
+msgstr "henkilökohtainen"
+
+msgid "Holiday"
+msgstr "Loma"
+
+msgid "Past"
+msgstr "Viimeiset"
+
+msgid "Future"
+msgstr "Tulevat"
+
+msgid "Purchase"
+msgstr "Osto"
+
+msgid "Personal events"
+msgstr "Henkilötapahtumia"
+
+msgid "Conferences"
+msgstr "Kokoukset"
+
+msgid "Holidays"
+msgstr "Juhlapäivät"
+
+msgid "Sport events"
+msgstr "Urheiluun liittyvät tapahtumat"
+
+msgid "Tasks"
+msgstr "Tehtävät"
+
+msgid "Other events"
+msgstr "Muut tapahtumat"
+
+msgid "Set aside"
+msgstr "Lykätä"
+
+msgid "Set aside"
+msgstr "Kesannoituja"
+
+msgid "Time management"
+msgstr "Half liikehallinto"
+
+msgid "Delayed events"
+msgstr "Lykätyt tapahtumat"
+
+msgid "Delayed"
+msgstr "Kesannoituja"
+
+msgid "Bind to"
+msgstr "Linkitä"
+
+msgid "answered your comment to"
+msgstr "vastasi (a) sinun artikkelikommentti"
+
+msgid "commented your article"
+msgstr "Artikkelisi ecasinjohtaja"
+
+msgid "You\'ve answered on comment to"
+msgstr "Te olette vastanneet artikkelikommentti"
+
+msgid "You\'ve commented an article"
+msgstr "Olette huomannut sen"
+
+msgid "Terms and Conditions"
+msgstr "Käyttöehdot"
+
+msgid "Privacy Policy"
+msgstr "Tietosuojakäytäntö"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Painamalla tästä \"liittyä\" hyväksyt meidän ja tutustui vahvistavan, että meidän"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Liity yhteisöön luovia ihmisiä koko planeetalta! Saat: investoinnit voidaan kerätä esittämiänne ajatuksia tiimiäni työtä, rahoitus, ryhmän johtaja, Hallitse aikaasi, 2 gigatavua holviin ja paljon muuta. Ja kaikki tämä ilmaiseksi!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Anteeksi, mutta etsimääsi sivua ei ole olemassa. Jos epäilet, että kaikkeen syyllinen olemme kirjoittakaa meille"
+
+msgid "Return"
+msgstr "Takaisin"
+
+msgid "COMMON"
+msgstr "Yleistä"
+
+msgid "My events"
+msgstr "Tapahtumiani"
+
+msgid "Job opening"
+msgstr "Uusi paikka"
+
+msgid "Employment"
+msgstr "Työn luonne"
+
+msgid "Working hours"
+msgstr "Aikataulu"
+
+msgid "City"
+msgstr "Kaupunki"
+
+msgid "Wages"
+msgstr "Ansio"
+
+msgid "Currency"
+msgstr "Valja"
+
+msgid "Experience"
+msgstr "Näk"
+
+msgid "Full-time"
+msgstr "Täystyöllisyys"
+
+msgid "Part-time"
+msgstr "Osa-aikainen"
+
+msgid "Project employment"
+msgstr "Taiteellinen / vuokratyö"
+
+msgid "Volunteer"
+msgstr "Vapaaehtoistyö ovat"
+
+msgid "Internship"
+msgstr "Työharjoittelu"
+
+msgid "Full day"
+msgstr "Koko päivän"
+
+msgid "Shifts"
+msgstr "Irrotettava aikataulu"
+
+msgid "Flexible shifts"
+msgstr "Joustava työaika"
+
+msgid "Remote work"
+msgstr "Etätyö"
+
+msgid "Rotational basis"
+msgstr "Rotaatio menetelmä"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Haluatko varmasti poistaa kommentin?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Haluatko varmasti poistaa tämän tehtävän?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Haluatko varmasti poistaa tämän osahanke?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Yrityksen anoit hakemuksen pöytäkirjan mukaisesti. Kiitos varmista, että"
+
+msgid "Your request to for job has been rejected"
+msgstr "Teidän luetelmakohta avoimen työpaikan yrityksen hylättiin"
+
+msgid "Your request to for job has been accepted"
+msgstr "Teidän luetelmakohta avoimen työpaikan yrityksen hyväksyttiin"
+
+msgid "profile is completed"
+msgstr "Profiilisiasi on täynnä"
+
+msgid "Use account"
+msgstr "Käyttää lasku"
+
+msgid "$/hr"
+msgstr "$/ tunti"
+
+msgid "Finance category"
+msgstr "Taloudellinen luokka"
+
+msgid "No projects"
+msgstr "Ei ole hankkeita"
+
+msgid "Bind to finances"
+msgstr "Linkitä taloudellinen hanke"
+
+msgid "Preview"
+msgstr "Tarkastella"
+
+msgid "Download"
+msgstr "Lataa"
+
+msgid "Save to my cloud"
+msgstr "Kopioida ilmakanavissa"
+
+msgid "File successfully saved to your cloud"
+msgstr "Tiedosto on tallennettu holvisi"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Tallenna tiedosto holvisi?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Valitse luokka artiklan"
+
+msgid "Type something"
+msgstr "Kirjoita mitään"
+
+msgid "Founded users"
+msgstr "Hakutulokset"
+
+msgid "Founded articles"
+msgstr "Löydetyt artiklan"
+
+msgid "Founded groups"
+msgstr "Ryhmän löydetyt"
+
+msgid "What are your skills?"
+msgstr "Mitä sinulla ammattitaitoisiako?"
+
+msgid "Select at least 2 interests"
+msgstr "Valitse vähintään 2 edun"
+
+msgid "Need more interests"
+msgstr "Valittujen etujen ei riitä"
+
+msgid "What are you interesting in?"
+msgstr "Että olet kiinnostunut?"
+
+msgid "You have no dialogs"
+msgstr "Sinulla ei ole vuoropuheluiden"
+
+msgid "Usage Stats"
+msgstr "Tila"
+
+msgid "Founded files"
+msgstr "Löydetyt tiedostot"
+
+msgid "Big tiles"
+msgstr "Suuri ruutu"
+
+msgid "Small tiles"
+msgstr "Pieni rinnakkaisnäkymä"
+
+msgid "Table view"
+msgstr "Taulukoituva näkymä"
+
+msgid "Root folder"
+msgstr "Päähakemistoa"
+
+msgid "My files"
+msgstr "Omat tiedostot"
+
+msgid "Save as draft"
+msgstr "Tallenna luonnoksena"
+
+msgid "Buy More Space"
+msgstr "Ostaa enemmän tilaa"
+
+msgid "Buy"
+msgstr "Ostaa"
+
+msgid "You have been invited to group as"
+msgstr "Sinut on kutsuttu ryhmään roolissa"
+
+msgid "User wants to join your group"
+msgstr "Käyttäjä haluaa tulla ryhmään"
+
+msgid "Section is coming soon!"
+msgstr "Kohta suunnitteluun!"
+
+msgid "Shared"
+msgstr "Jakaminen"
+
+msgid "Views in last 24 hours:"
+msgstr "Sivun tarkastelukertoja viimeisen 24 tunnin aikana:"
+
+msgid "Task was updated"
+msgstr "Tehtävä on päivitetty"
+
+msgid "Task was closed"
+msgstr "Tehtävä on suljettu"
+
+msgid "Task was created"
+msgstr "Tehtävä luotiin"
+
+msgid "Current balance"
+msgstr "Nykyinen tasapaino"
+
+msgid "Add funds"
+msgstr "Kompletoida"
+
+msgid "Pay"
+msgstr "Maksaa"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Virtuaaliporttien kirjautumisyrityksiä. Sinut on estetty 15 minuuttia"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Kiitos vahvista sähköpostin. Kirje on lähetetty sinulle postissa."
+
+msgid "Resend confirmation email"
+msgstr "Lähetä vahvistussähköposti uudelleen"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Levy 2 Gt kuukausittain"
+
+msgid "Disk 10Gb Monthly"
+msgstr "10gb:n vuosittain levy"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Vuosittain levy 100 gt:uun"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Levy 1 Tt kuukausittain"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Levy 1 Tt vuosittain"
+
+msgid "Project members monthly"
+msgstr "Hankkeiden osallistujien kuukausittain"
+
+msgid "Project members yearly"
+msgstr "Vuosittain hankkeiden osallistujien"
+
+msgid "Member(s) yearly"
+msgstr "Vuosittain jäsen (-numeroiden)"
+
+msgid "Member(s) monthly"
+msgstr "Jäsen (-menetelmien) Kuukausittain"
+
+msgid "Authorized"
+msgstr "Valtuutus"
+
+msgid "Authorization expired"
+msgstr "Valtuutus raukesi"
+
+msgid "Processor declined"
+msgstr "Hylätty jalostus järjestelmällä"
+
+msgid "Gateway rejected"
+msgstr "Hylätty yhdyskäytävän tukioikeuksia"
+
+msgid "Failed"
+msgstr "Erehdys"
+
+msgid "Voided"
+msgstr "Kumottu"
+
+msgid "Submitted for settlement"
+msgstr "Ilmoittautumiset pakollista"
+
+msgid "Settlement declined"
+msgstr "Ilmoittautumiset hylätty"
+
+msgid "Settlement pending"
+msgstr "Pankki odottaa"
+
+msgid "Verified"
+msgstr "Tarkastettu"
+
+msgid "Pending"
+msgstr "Odottaa"
+
+msgid "Active"
+msgstr "Aktiivinen"
+
+msgid "Past Due"
+msgstr "Myöhässä"
+
+msgid "Expired"
+msgstr "Päättyi"
+
+msgid "Marketer"
+msgstr "Markkinointiammattilainen"
+
+msgid "India"
+msgstr "Intia"
+
+msgid "Malaysia"
+msgstr "Malesia"
+
+msgid "Thailand"
+msgstr "Thaimaa"
+
+msgid "South Korea"
+msgstr "Etelä-Korea"
+
+msgid "Kazakhstan"
+msgstr "Kazakstan"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "Belarus"
+msgstr "Valkoinen"
+
+msgid "Bulgaria"
+msgstr "Enemmän"
+
+msgid "Turkey"
+msgstr "Turkki"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Itävalta"
+
+msgid "Poland"
+msgstr "Puola"
+
+msgid "Germany"
+msgstr "Saksa"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Netherlands"
+msgstr "Alankomaat"
+
+msgid "Ireland"
+msgstr "Irlanti"
+
+msgid "United Kingdom"
+msgstr "Yhdistynyt kuningaskunta"
+
+msgid "Portugal"
+msgstr "Portugali"
+
+msgid "Norway"
+msgstr "Norja"
+
+msgid "United States"
+msgstr "Yhdysvallat"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Brazil"
+msgstr "Brasilia"
+
+msgid "Saudi Arabia"
+msgstr "Saudi-Arabia"
+
+msgid "Canada"
+msgstr "Egypti"
+
+msgid "Russia"
+msgstr "Venäjä"
+
+msgid "Hong Kong"
+msgstr "Hongkong"
+
+msgid "There was no any transactions yet."
+msgstr "Tällä hetkellä ei ollut ainoatakaan tapahtuman"
+
+msgid "Fulfill your dream"
+msgstr "Täyttää unelmiesi"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Liity yhteisöömme luovia yksilöitä eri puolilta maailmaa."
+
+msgid "Create and Collaborate"
+msgstr "Luo ja tehdä yhteistyötä"
+
+msgid "Start Dreaming"
+msgstr "TÄYTTÄMÄÄN DREAM NYT"
+
+msgid "or"
+msgstr "tai"
+
+msgid "Our mission:"
+msgstr "Meidän tehtävä:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Yhdistää luovia ja aktiivisia ihmisiä toteuttamaan ideoita yksinkertaisia ​​ja kysynnän uskomatonta ja fantastinen, että voi rakentaa tulevaisuuttamme."
+
+msgid "What is Konstruktor?"
+msgstr "Mikä on Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor- on osa tosielämässä, joka merkittävästi helpottaa ja yksinkertaistaa"
+
+msgid "*business processes"
+msgstr "* Liiketoimintaprosesseja"
+
+msgid "*materialization of creative ideas"
+msgstr "* Materialization luovia ideoita"
+
+msgid "*constructive cooperation"
+msgstr "* Rakentavaan yhteistyöhön"
+
+msgid "Make your dream!"
+msgstr "Tee unelma!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "toimitusjohtaja"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Erityisneuvonantaja"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Manager, Software Development"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Varatuomari"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Suunnittelija"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Klikkaamalla \"Seuraava\" -painiketta, käyttäjä hyväksyy ja sopimalla meidän käyttöehdot, ja olet tunnustaa, että olet lukenut meidän Privacy Policy."
+
+msgid "Incorrect login or password."
+msgstr "Virheellinen tai salasana."
+
+msgid "Password must be at least 6 characters"
+msgstr "Salasanan on oltava vähintään 6 merkkiä"
+
+msgid "January"
+msgstr "tammikuu"
+
+msgid "February"
+msgstr "helmikuu"
+
+msgid "March"
+msgstr "Maaliskuu"
+
+msgid "April"
+msgstr "huhtikuu"
+
+msgid "May"
+msgstr "Toukokuu"
+
+msgid "June"
+msgstr "Kesäkuu"
+
+msgid "July"
+msgstr "heinäkuu"
+
+msgid "August"
+msgstr "elokuu"
+
+msgid "September"
+msgstr "syyskuu"
+
+msgid "October"
+msgstr "lokakuu"
+
+msgid "November"
+msgstr "marraskuu"
+
+msgid "December"
+msgstr "joulukuu"
+
+msgid "Chat"
+msgstr "Jutella"
+
+msgid "Files"
+msgstr "Tiedostot"
+
+msgid "Statistic"
+msgstr "Tilastollinen"
+
+msgid "Support"
+msgstr "Tuki"
+
+msgid "Exit"
+msgstr "Poistua"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Valko-Venäjä"
+
+msgid "Marketing specialist"
+msgstr "Markkinoinnin asiantuntija"
+
+msgid "Administrator"
+msgstr "Hallintomies"
+
+msgid "Shared with me"
+msgstr "Jaettu kanssani"
+
+msgid "File Sharing"
+msgstr "Tiedostonjako"
+
+msgid "Provide access by link"
+msgstr "Tarjota pääsy linkki"
+
+msgid "Provide Individual access"
+msgstr "Tarjota Yksittäiset pääsy"
+
+msgid "Provide edit access"
+msgstr "Tarjota muokkaa pääsy"
+
+msgid "Share"
+msgstr "Jakaa"
+
+msgid "Files will be available only for selected users"
+msgstr "Tiedostosi ovat saatavilla vain valituille käyttäjille"
+
+msgid "With this link everyone can access to the files"
+msgstr "Tämän linkkejä jokainen voi tutustua asiakirjoihin"
+
+msgid "Search users, groups, articles..."
+msgstr "Etsi käyttäjiä, ryhmiä, artikkeleita ..."
+
+msgid "My Group"
+msgstr "Ryhmäni"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Me"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Tiedosto ei ole valittu"
+
+msgid "Set aside"
+msgstr "Varata"
+
+msgid "Event time"
+msgstr "Tapahtuma aika"
+
+msgid "Work"
+msgstr "Tehdä työtä"
+
+msgid "Personal"
+msgstr "Henkilökohtainen"
+
+msgid "Time spent for work:"
+msgstr "Aika työtä:"
+
+msgid "Personal time spent:"
+msgstr "Henkilökohtainen aika:"
+
+msgid "Present"
+msgstr "Esittää"
+
+msgid "Common"
+msgstr "Yhteinen"
+
+msgid "Sport"
+msgstr "Urheilu"
+
+msgid "Entertainment"
+msgstr "Viihde"
+
+msgid "Select:"
+msgstr "Valitse:"
+
+msgid "Invalid username or password."
+msgstr "Väärä käyttäjänimi tai salasana."
+
+msgid "Try again."
+msgstr "Yritä uudelleen."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "MISTÄ OLET KIINNOSTUNUT?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Valitse ainakin 2 taidot: edelleen 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Valitse ainakin 2 taidot: edelleen 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Valitse ainakin 2 taidot: jäännökset"
+
+msgid "Active life"
+msgstr "Aktiivinen elämä"
+
+msgid "Arts and culture"
+msgstr "Taide ja kulttuuri"
+
+msgid "Business"
+msgstr "Liike"
+
+msgid "Cinema"
+msgstr "Elokuva"
+
+msgid "Communications"
+msgstr "Viestintä"
+
+msgid "Construction and repair"
+msgstr "Rakentaminen ja korjaus"
+
+msgid "Cooking"
+msgstr "Ruoanlaitto"
+
+msgid "Education"
+msgstr "Koulutus"
+
+msgid "Electronics"
+msgstr "Elektroniikka"
+
+msgid "Finances"
+msgstr "Raha-asiat"
+
+msgid "Graphics and design"
+msgstr "Grafiikka ja suunnittelu"
+
+msgid "Health"
+msgstr "Terveys"
+
+msgid "Home and family"
+msgstr "Koti ja perhe"
+
+msgid "Humor"
+msgstr "Huumori"
+
+msgid "IT"
+msgstr "SE"
+
+msgid "Industry"
+msgstr "Teollisuus"
+
+msgid "Insurance"
+msgstr "Vakuutus"
+
+msgid "Literature"
+msgstr "Kirjallisuus"
+
+msgid "Mobile communications and internet"
+msgstr "Matkaviestintä ja Internet"
+
+msgid "News and Media"
+msgstr "Uutiset ja Media"
+
+msgid "Pets"
+msgstr "Lemmikkieläimet"
+
+msgid "Products and service"
+msgstr "Tuotteet ja palvelut"
+
+msgid "Real Estate"
+msgstr "Kiinteistöt"
+
+msgid "Religion"
+msgstr "Uskonto"
+
+msgid "Science and techs"
+msgstr "Tiede ja techs"
+
+msgid "Security"
+msgstr "Turvallisuus"
+
+msgid "Society"
+msgstr "Yhteiskunta"
+
+msgid "Television"
+msgstr "Televisio"
+
+msgid "Travel"
+msgstr "Matkustaa"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentiina"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Itävalta"
+
+msgid "Belarus"
+msgstr "Valko-Venäjä"
+
+msgid "Belgium"
+msgstr "Belgia"
+
+msgid "Brazil"
+msgstr "Brasilia"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Tanska"
+
+msgid "France"
+msgstr "Ranska"
+
+msgid "Germany"
+msgstr "Saksa"
+
+msgid "Greece"
+msgstr "Kreikka"
+
+msgid "Hungary"
+msgstr "Unkari"
+
+msgid "Iceland"
+msgstr "Islanti"
+
+msgid "Ireland"
+msgstr "Irlanti"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Japan"
+msgstr "Japani"
+
+msgid "Mexico"
+msgstr "Meksiko"
+
+msgid "Netherlands"
+msgstr "Alankomaat"
+
+msgid "New Zealand"
+msgstr "Uusi Seelanti"
+
+msgid "Norway"
+msgstr "Norja"
+
+msgid "Poland"
+msgstr "Puola"
+
+msgid "Portugal"
+msgstr "Portugali"
+
+msgid "Russia"
+msgstr "Venäjä"
+
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgid "South Africa"
+msgstr "Etelä-Afrikka"
+
+msgid "South Korea"
+msgstr "Etelä-Korea"
+
+msgid "Spain"
+msgstr "Espanja"
+
+msgid "Sweden"
+msgstr "Ruotsi"
+
+msgid "Switzerland"
+msgstr "Sveitsi"
+
+msgid "Turkey"
+msgstr "Turkki"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "United Arab Emirates"
+msgstr "Yhdistyneet Arabiemiirikunnat"
+
+msgid "United Kingdom"
+msgstr "Iso-Britannia"
+
+msgid "United States"
+msgstr "Yhdysvallat"
+
+msgid "achievements"
+msgstr "saavutuksia"
+
+msgid "Investment management"
+msgstr "Sijoitusten hoito"
+
+msgid "Select..."
+msgstr "Valitse ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "VARAINHOITOPALVELUISTA"
+
+msgid "Investors list"
+msgstr "Sijoittajat lista"
+
+msgid "My investments"
+msgstr "Oma investoinnit"
+
+msgid "Create date"
+msgstr "Luo päivämäärä"
+
+msgid "Author of the project"
+msgstr "Tekijä Hankkeen"
+
+msgid "Date and time"
+msgstr "Päivämäärä ja aika"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "NEXT"
+msgstr "SEURAAVA"
+
+msgid "Next"
+msgstr "Seuraava"
+
+msgid "Apply"
+msgstr "Käyttää"
+
+msgid "Kazakhstan"
+msgstr "Kazakstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hongkong"
+
+msgid "Science"
+msgstr "Tiede"
+
+msgid "Architecture"
+msgstr "Arkkitehtuuri"
+
+msgid "Photography"
+msgstr "Valokuvaus"
+
+msgid "Designer"
+msgstr "Suunnittelija"
+
+msgid "IT specialist"
+msgstr "IT-asiantuntija"
+
+msgid "Agronomist"
+msgstr "Agronomi"
+
+msgid "Architect"
+msgstr "Architector"
+
+msgid "Lawyer"
+msgstr "Lakimies"
+
+msgid "Writer"
+msgstr "Kirjailija"
+
+msgid "Doctor"
+msgstr "Lääkäri"
+
+msgid "Scientist"
+msgstr "Tiedemies"
+
+msgid "Marketer"
+msgstr "Markkinoija"
+
+msgid "Teacher"
+msgstr "Opettaja"
+
+msgid "Cook"
+msgstr "Kokki"
+
+msgid "Artist"
+msgstr "Taiteilija"
+
+msgid "Photographer"
+msgstr "Valokuvaaja"
+
+msgid "Ecologist"
+msgstr "Ekologi"
+
+msgid "Economist"
+msgstr "Ekonomisti"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Toimittaja"
+
+msgid "Builder"
+msgstr "Rakentaja"
+
+msgid "These users may be interesting for you"
+msgstr "Nämä käyttäjät voivat kiinnostaa sinua"
+
+msgid "These articles may be interesting for you"
+msgstr "Nämä artikkelit voivat kiinnostaa sinua"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Olet liittynyt tähän ryhmään Аdministrator"
+
+msgid "articles written."
+msgstr "artikkelit on kirjoittanut."
+
+msgid "groups created."
+msgstr "jotka on luotu."
+
+msgid "Creation"
+msgstr "Luominen"
+
+msgid "Build a dream"
+msgstr "Rakenna unelma"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Lue lisää mielenkiintoisia artikkeleita - vapaaksi rekisteröinti"
+
+

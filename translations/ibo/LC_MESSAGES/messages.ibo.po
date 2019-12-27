@@ -1,0 +1,3344 @@
+# Igbo (Игбо) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Igbo (Игбо) <support@konstruktor.com>\n"
+"Language: Igbo (Игбо)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "aha njirimara"
+
+msgid "Invalid username or password, try again"
+msgstr "Ezughị oke aha njirimara ma ọ bụ paswọọdụ. Nwaa ọzọ."
+
+msgid "Settings"
+msgstr "Ntọala"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "You must log in to access this page"
+msgstr "Ị ga- abanye na iji nweta a na peeji nke"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Gị nnọkọ e kubie ume. Biko, relogin ịrụ a edinam"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Head Office"
+msgstr "isi Ụlọ Ọrụ"
+
+msgid "Address"
+msgstr "Address"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Apply"
+msgstr "Mee"
+
+msgid "Upload files…"
+msgstr "Bulite faịlụ ..."
+
+msgid "Set as main"
+msgstr "Nịm dị ka isi"
+
+msgid "Delete"
+msgstr "hichapụ"
+
+msgid "Original image"
+msgstr "Original image"
+
+msgid "Uploaded"
+msgstr "uploaded"
+
+msgid "File name"
+msgstr "aha faịlụ"
+
+msgid "File size"
+msgstr "File size"
+
+msgid "Resolution"
+msgstr "mkpebi"
+
+msgid "Enlarge"
+msgstr "Me"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Original size"
+msgstr "Original size"
+
+msgid "For editor"
+msgstr "n\'ihi na nchịkọta akụkọ"
+
+msgid "Resize"
+msgstr "Resize"
+
+msgid "Width"
+msgstr "obosara"
+
+msgid "Height"
+msgstr "elu"
+
+msgid "Media URL"
+msgstr "Media URL"
+
+msgid "Add record"
+msgstr "Tinye ndekọ"
+
+msgid "Show filter settings"
+msgstr "Gosi nyo ntọala"
+
+msgid "Edit record"
+msgstr "Dezie ndekọ"
+
+msgid "Delete record"
+msgstr "hichapụ ndekọ"
+
+msgid "Delete checked records"
+msgstr "Hichapụ enyocha ihe ndekọ"
+
+msgid "Dashboard"
+msgstr "dashboard"
+
+msgid "Password"
+msgstr "Paswọdu"
+
+msgid "Remember me"
+msgstr "cheta m"
+
+msgid "Login"
+msgstr "Banye"
+
+msgid "Clean image cache"
+msgstr "Clean image cache"
+
+msgid "Processing query..."
+msgstr "Nhazi query ..."
+
+msgid "CMS Development"
+msgstr "CMS Development"
+
+msgid "Admin Home Page"
+msgstr "Admin Home Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Open Home peeji nke ihu -ọgwụgwụ na a ọhụrụ taabụ"
+
+msgid "Go to Site"
+msgstr "Gaa Site"
+
+msgid "Log out"
+msgstr "na-apụ"
+
+msgid "Send"
+msgstr "Send"
+
+msgid "General"
+msgstr "General"
+
+msgid "Title"
+msgstr "Mbụ"
+
+msgid "Teaser"
+msgstr "Teaser"
+
+msgid "Published"
+msgstr "bipụtara"
+
+msgid "Featured"
+msgstr "na-apụta"
+
+msgid "Active"
+msgstr "arụsi ọrụ ike"
+
+msgid "Field is mandatory"
+msgstr "Ubi amanyere bụ iwu"
+
+msgid "Sort Order"
+msgstr "ụdị Order"
+
+msgid "Upload"
+msgstr "bulite"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "na-ahụ"
+
+msgid "Mar"
+msgstr "March"
+
+msgid "Apr"
+msgstr "April"
+
+msgid "May"
+msgstr "nwere ike"
+
+msgid "Jun"
+msgstr "June"
+
+msgid "Jul"
+msgstr "July"
+
+msgid "Aug"
+msgstr "August"
+
+msgid "Sep"
+msgstr "September"
+
+msgid "Oct"
+msgstr "October"
+
+msgid "Nov"
+msgstr "November"
+
+msgid "Dec"
+msgstr "December"
+
+msgid "Product already exists in the order"
+msgstr "Product ugbua dị na iji"
+
+msgid "Product does not exist"
+msgstr "Product adịghị adị"
+
+msgid "Incorrect request"
+msgstr "ezughị oke arịrịọ"
+
+msgid "Products"
+msgstr "ngwaahịa"
+
+msgid "Product types"
+msgstr "Product ụdị"
+
+msgid "Contractors"
+msgstr "ngo"
+
+msgid "Contractor"
+msgstr "ngo"
+
+msgid "Orders"
+msgstr "iwu"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "New iji"
+
+msgid "My orders"
+msgstr "My iwu"
+
+msgid "Recharge balance"
+msgstr "fanye itule"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Incorrect event ID"
+msgstr "Ezughị oke omume ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Dezie ngo"
+
+msgid "Create contractor"
+msgstr "Mepụta ngo"
+
+msgid "Edit question"
+msgstr "Dezie ajụjụ"
+
+msgid "Create question"
+msgstr "Mepụta ajụjụ"
+
+msgid "Edit order"
+msgstr "Dezie iji"
+
+msgid "Create order"
+msgstr "Mepụta iji"
+
+msgid "Edit product"
+msgstr "Dezie ngwaahịa"
+
+msgid "Create product"
+msgstr "Mepụta ngwaahịa"
+
+msgid "Edit product type"
+msgstr "Dezie ngwaahịa ụdị"
+
+msgid "Create product type"
+msgstr "Mepụta ngwaahịa ụdị"
+
+msgid "You have received a file"
+msgstr "Ị natara a faịlụ"
+
+msgid "You received a file from"
+msgstr "Unu natara a faịlụ site na"
+
+msgid "File has been uploaded"
+msgstr "File e uploaded"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "ntakiri ukwu"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "ihe"
+
+msgid "Remove"
+msgstr "wepụ"
+
+msgid "Contact person"
+msgstr "onye Mkpọtụrụ"
+
+msgid "Email"
+msgstr "email"
+
+msgid "Contractor phone"
+msgstr "ngo ekwentị"
+
+msgid "Contractor name"
+msgstr "ngo aha"
+
+msgid "Contractor details"
+msgstr "ngo nkọwa"
+
+msgid "Order ID"
+msgstr "Order ID"
+
+msgid "Sum"
+msgstr "nchikota"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Họrọ ndị kwesịrị ekwesị ugwo usoro fanye gị itule"
+
+msgid "Recharge amount"
+msgstr "fanye ego"
+
+msgid "Paid"
+msgstr "ugwo"
+
+msgid "Shipped"
+msgstr "Ẹnam ekese"
+
+msgid "- No products in this order -"
+msgstr "- Ọ dịghị ngwaahịa na a iji -"
+
+msgid "month"
+msgstr "ọnwa"
+
+msgid "No user found"
+msgstr "Ọ dịghị ọrụ hụrụ"
+
+msgid "Achievement"
+msgstr "nweta"
+
+msgid "Confirmed accomplishments"
+msgstr "enen rụzuru"
+
+msgid "Remove achievement"
+msgstr "wepụ ihe nweta"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "ekwentị"
+
+msgid "Site URL and email"
+msgstr "Site URL na email"
+
+msgid "Remove address"
+msgstr "wepụ adreesị"
+
+msgid "Members"
+msgstr "òtù"
+
+msgid "Requires a payment"
+msgstr "Na-achọ a ugwo"
+
+msgid "Shipping"
+msgstr "Mbupu"
+
+msgid "Ready"
+msgstr "njikere"
+
+msgid "Find user..."
+msgstr "Chọta ọrụ ..."
+
+msgid "Order it"
+msgstr "ka o"
+
+msgid "Find group..."
+msgstr "Chọta otu ..."
+
+msgid "Find user or community..."
+msgstr "Chọta ọrụ ma ọ bụ obodo ..."
+
+msgid "No item found"
+msgstr "Ọ dịghị ihe hụrụ"
+
+msgid "years"
+msgstr "afọ"
+
+msgid "Send message"
+msgstr "Send ozi"
+
+msgid "Message"
+msgstr "ozi"
+
+msgid "To send message press Enter"
+msgstr "Ka izipu ozi pịa Tinye"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Ka izipu ozi pịa Ctrl + Tinye"
+
+msgid "Processing file(s)..."
+msgstr "Nhazi faịlụ (s) ..."
+
+msgid "Group settings"
+msgstr "Group ntọala"
+
+msgid "Create group"
+msgstr "Mepụta otu"
+
+msgid "Group has been successfully saved"
+msgstr "Group e ọma azọpụta"
+
+msgid "Group title"
+msgstr "Group aha"
+
+msgid "Group video"
+msgstr "Group video"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Your role in group"
+msgstr "Gị ọrụ na otu"
+
+msgid "Role"
+msgstr "ọrụ"
+
+msgid "Photo or video gallery"
+msgstr "Foto ma ọ bụ vidiyo gallery"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "bulite video"
+
+msgid "Add group address"
+msgstr "Tinye otu adreesị"
+
+msgid "Group articles"
+msgstr "Group isiokwu"
+
+msgid "No addresses yet"
+msgstr "Ọ dịghị adreesị ma"
+
+msgid "Add group achievement"
+msgstr "Tinye otu nweta"
+
+msgid "No achivements yet"
+msgstr "Ọ dịghị achivements ma"
+
+msgid "Are you sure to delete this user"
+msgstr "Ì ji n\'aka na ihichapụ a onye ọrụ"
+
+msgid "Add member"
+msgstr "Tinye so"
+
+msgid "Are you sure to delete this record?"
+msgstr "Ì ji n\'aka na ihichapụ ihe ndekọ a ?"
+
+msgid "Join this group"
+msgstr "Jikọọ otu a"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Ịkpọ òkù gị e zigara ìgwè nchịkwa"
+
+msgid "All addresses"
+msgstr "All adreesị"
+
+msgid "Collapse"
+msgstr "Collapse"
+
+msgid "Achievements"
+msgstr "rụzuru"
+
+msgid "Show more"
+msgstr "Gosi ndị ọzọ"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "Projects"
+msgstr "oru"
+
+msgid "New project"
+msgstr "New oru ngo"
+
+msgid "Project has not been created yet"
+msgstr "Project bụghị e kere ma"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "Balance"
+
+msgid "Main page"
+msgstr "isi na peeji nke"
+
+msgid "Upload image"
+msgstr "bulite image"
+
+msgid "My time"
+msgstr "My oge"
+
+msgid "Day"
+msgstr "Day"
+
+msgid "Week"
+msgstr "Week"
+
+msgid "Project settings"
+msgstr "Project ntọala"
+
+msgid "Create project"
+msgstr "Mepụta oru ngo"
+
+msgid "Project has been successfully saved"
+msgstr "Project e ọma azọpụta"
+
+msgid "Project name"
+msgstr "Project aha"
+
+msgid "Deadline"
+msgstr "imecha"
+
+msgid "Close"
+msgstr "nso"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Assigned to"
+msgstr "kenyere"
+
+msgid "Discussion"
+msgstr "Discussion"
+
+msgid "Task was created"
+msgstr "Task e kere"
+
+msgid "Task was closed"
+msgstr "Task e mechiri"
+
+msgid "Go to Group"
+msgstr "Gaa Group"
+
+msgid "Closed"
+msgstr "Emechiela"
+
+msgid "Last updates"
+msgstr "ikpeazụ mmelite"
+
+msgid "Project is closed"
+msgstr "Project a na-emechi"
+
+msgid "No open tasks"
+msgstr "Ọ dịghị oghe aga-eme"
+
+msgid "New task"
+msgstr "New ọrụ"
+
+msgid "Closed tasks"
+msgstr "mechiri emechi ihe aga-eme"
+
+msgid "Add subproject"
+msgstr "Tinye subproject"
+
+msgid "Add task"
+msgstr "Tinye ozi"
+
+msgid "Sun"
+msgstr "Sunday"
+
+msgid "Mon"
+msgstr "Monday"
+
+msgid "Tue"
+msgstr "Tuesday"
+
+msgid "Wed"
+msgstr "Wednesday"
+
+msgid "Thur"
+msgstr "Thursday"
+
+msgid "Fri"
+msgstr "Friday"
+
+msgid "Sat"
+msgstr "Saturday"
+
+msgid "Event title"
+msgstr "omume aha"
+
+msgid "Event description"
+msgstr "omume nkọwa"
+
+msgid "I registered on this site"
+msgstr "M aha m na saịtị a"
+
+msgid "Last created groups"
+msgstr "Ikpeazụ kere iche iche"
+
+msgid "You joined this group as"
+msgstr "Ị sonyeere ìgwè a dị ka"
+
+msgid "You received a request to join the group"
+msgstr "Unu natara a arịrịọ iji sonyere ìgwè"
+
+msgid "Updated site"
+msgstr "emelitere saịtị"
+
+msgid "Site is under construction"
+msgstr "Site bụ n\'okpuru ewu"
+
+msgid "Last registered users"
+msgstr "Ikpeazụ aha ọrụ"
+
+msgid "User settings"
+msgstr "onye ọrụ ntọala"
+
+msgid "Technical support"
+msgstr "Nkwado ndị teknuzu"
+
+msgid "Change email"
+msgstr "Change email"
+
+msgid "Change password"
+msgstr "gbanwee okwuntughe"
+
+msgid "User has been successfully saved"
+msgstr "Onye ọrụ e ọma zọpụta"
+
+msgid "Full name"
+msgstr "Aha n\'uju"
+
+msgid "My video"
+msgstr "My video"
+
+msgid "Skills"
+msgstr "nkà"
+
+msgid "Birthday"
+msgstr "ụbọchị ọmụmụ"
+
+msgid "Country of residence"
+msgstr "Mba nke Obibi"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Zip Code"
+msgstr "Koodu mpaghara"
+
+msgid "City/town of residence"
+msgstr "City / obodo nke obibi"
+
+msgid "University/college"
+msgstr "University / mahadum"
+
+msgid "University/college photo"
+msgstr "University / mahadum foto"
+
+msgid "Add user\'s accomplishments"
+msgstr "Tinye ọrụ rụzuru"
+
+msgid "Interface language"
+msgstr "interface asụsụ"
+
+msgid "How other people see this page"
+msgstr "Olee otú ndị ọzọ ahụ na peeji a"
+
+msgid "Video with me"
+msgstr "Video na m"
+
+msgid "Groups"
+msgstr "iche iche"
+
+msgid "Registered today"
+msgstr "aha taa"
+
+msgid "Qty"
+msgstr "Qty"
+
+msgid "No registered users yet"
+msgstr "Ọ dịghị ụghalaahia ọrụ, ma"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Registered total"
+msgstr "aha ngụkọta"
+
+msgid "You received a file"
+msgstr "Unu natara a faịlụ"
+
+msgid "You were invited into this room"
+msgstr "A kpọrọ gị òkù n\'ime ụlọ a"
+
+msgid "Request is being processed"
+msgstr "Arịrịọ a na- esichara"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Messenger"
+msgstr "ozi"
+
+msgid "New subproject"
+msgstr "New subproject"
+
+msgid "messages written."
+msgstr "ozi dere."
+
+msgid "projects created based on groups."
+msgstr "oru ngo kere dabeere iche iche."
+
+msgid "users registered on website."
+msgstr "ọrụ aha na website."
+
+msgid "New email"
+msgstr "New email"
+
+msgid "Confirm email"
+msgstr "Kwenye Ozi Ịntanetị"
+
+msgid "New password"
+msgstr "Okwuntughe Ọhụrụ"
+
+msgid "Confirm password"
+msgstr "Kwenye Na Okwuntughe"
+
+msgid "Occupation"
+msgstr "Ọpụrụiche"
+
+msgid "Timezone"
+msgstr "Timezone"
+
+msgid "Answer"
+msgstr "Azịza"
+
+msgid "Articles"
+msgstr "Isiokwu"
+
+msgid "Article"
+msgstr "Nkeji edemede"
+
+msgid "Video-article"
+msgstr "Video - isiokwu"
+
+msgid "Find article..."
+msgstr "Chọta isiokwu ..."
+
+msgid "Politics"
+msgstr "Politics"
+
+msgid "Economics"
+msgstr "Economics"
+
+msgid "Community"
+msgstr "Community"
+
+msgid "Culture"
+msgstr "Culture"
+
+msgid "Sports"
+msgstr "egwuregwu"
+
+msgid "Hi-tech"
+msgstr "Hi- tech"
+
+msgid "Cars"
+msgstr "Obere ụgbọala"
+
+msgid "Fashion"
+msgstr "ejiji"
+
+msgid "Games"
+msgstr "Games"
+
+msgid "Other"
+msgstr "ndị ọzọ"
+
+msgid "Invalid mediafile"
+msgstr "ghara ịdị irè mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Ọ dịghị isiokwu a, Atiya ma"
+
+msgid "Back to profile"
+msgstr "Back to profaịlụ"
+
+msgid "View article"
+msgstr "View isiokwu"
+
+msgid "Edit article"
+msgstr "Dezie isiokwu"
+
+msgid "Create article"
+msgstr "Mepụta isiokwu"
+
+msgid "Article title"
+msgstr "Nkeji edemede aha"
+
+msgid "Article section"
+msgstr "Nkeji edemede ngalaba"
+
+msgid "Choose image"
+msgstr "họrọ image"
+
+msgid "Save and upload"
+msgstr "Zọpụta na bulite"
+
+msgid "Show more..."
+msgstr "Gosi ihe ..."
+
+msgid "Create"
+msgstr "Mepụta"
+
+msgid "Edit"
+msgstr "Dezie"
+
+msgid "Project"
+msgstr "Project"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "A new article was published"
+msgstr "A ọhụrụ Isiokwu e bipụtara"
+
+msgid "You joined this project"
+msgstr "Ị sonyeere a na oru ngo"
+
+msgid "Enter your information in the User settings"
+msgstr "Tinye ozi gị na User ntọala"
+
+msgid "Communities"
+msgstr "obodo"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Video ngosi nke m rụzuru"
+
+msgid "My articles"
+msgstr "My isiokwu"
+
+msgid "User"
+msgstr "onye ọrụ"
+
+msgid "Users"
+msgstr "ọrụ"
+
+msgid "Add new list"
+msgstr "Tinye ọhụrụ ndepụta"
+
+msgid "List title"
+msgstr "List aha"
+
+msgid "Add"
+msgstr "Tinye"
+
+msgid "Add to favorites"
+msgstr "Tinye ka ọkacha mmasị"
+
+msgid "Delete from favorites"
+msgstr "Hichapụ si ọkacha mmasị"
+
+msgid "Select list"
+msgstr "Họrọ ndepụta"
+
+msgid "Subscriptions"
+msgstr "ndebanye aha"
+
+msgid "Subscribe"
+msgstr "denye aha"
+
+msgid "Unsubscribe"
+msgstr "wepu aha"
+
+msgid "General list"
+msgstr "General ndepụta"
+
+msgid "No users in this list"
+msgstr "Ọ dịghị ọrụ, na nke a na ndepụta"
+
+msgid "Publish"
+msgstr "ebipụta"
+
+msgid "Unpublish"
+msgstr "Unpublish"
+
+msgid "Add user"
+msgstr "Tinye onye ọrụ"
+
+msgid "Create document"
+msgstr "Mepụta akwụkwọ"
+
+msgid "Edit document"
+msgstr "Dezie akwụkwọ"
+
+msgid "View"
+msgstr "View"
+
+msgid "Document title"
+msgstr "Panèl aha"
+
+msgid "Find document..."
+msgstr "Chọta akwụkwọ ..."
+
+msgid "Share your thoughts"
+msgstr "Kerịta echiche gị"
+
+msgid "Leave your comment"
+msgstr "Nkume gị ikwu"
+
+msgid "Accept"
+msgstr "Nabata"
+
+msgid "Decline"
+msgstr "Decline"
+
+msgid "Add article"
+msgstr "Tinye isiokwu"
+
+msgid "Link to verified accomplishments"
+msgstr "Njikọ kwupụtara rụzuru"
+
+msgid "No articles here yet..."
+msgstr "Ọ dịghị isiokwu ebe a ma ..."
+
+msgid "Find file or folder..."
+msgstr "Chọta faịlụ ma ọ bụ nchekwa ..."
+
+msgid "Sort"
+msgstr "ụdị"
+
+msgid "By name"
+msgstr "site aha"
+
+msgid "By date"
+msgstr "site ụbọchị"
+
+msgid "By updated date"
+msgstr "Site emelitere Ụbọchị"
+
+msgid "By size"
+msgstr "site size"
+
+msgid "By type"
+msgstr "site ụdị"
+
+msgid "Move"
+msgstr "Paghaa"
+
+msgid "File Manager"
+msgstr "File Manager"
+
+msgid "Share link"
+msgstr "Share njikọ"
+
+msgid "Responsible"
+msgstr "Ịrụ Ọrụ Dịịrị"
+
+msgid "Performer"
+msgstr "ngosi"
+
+msgid "New Folder"
+msgstr "New nchekwa"
+
+msgid "Folder name"
+msgstr "nchekwa aha"
+
+msgid "By default"
+msgstr "site na ndabara"
+
+msgid "Back to group"
+msgstr "Back to ìgwè"
+
+msgid "year(s)"
+msgstr "afọ (s)"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "February"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Ka"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "July"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "October"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Password Reminder"
+msgstr "paswọọdụ Ncheta"
+
+msgid "Log In"
+msgstr "Banye"
+
+msgid "Sign in"
+msgstr "banye"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "First name"
+msgstr "Aha mbụ"
+
+msgid "Last name"
+msgstr "Aha ikpeazụ"
+
+msgid "I agree with rules"
+msgstr "Ekwenyere m na iwu"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "A nkwenye mail e zigara gị adreesị email gị."
+
+msgid "Thanks"
+msgstr "ekele"
+
+msgid "Password must be at least 6 characters"
+msgstr "Paswọọdụ ga-dịkarịa ala 6 odide"
+
+msgid "Creative Environment"
+msgstr "Creative Environment"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Mkpa ka ị-dịkarịa ala afọ iri na atọ nke afọ iji ọrụ a"
+
+msgid "Order status"
+msgstr "Order ọnọdụ"
+
+msgid "Processing order"
+msgstr "nhazi iji"
+
+msgid "Requires a payment"
+msgstr "Na-achọ a ugwo"
+
+msgid "Shipping"
+msgstr "mbupu"
+
+msgid "Ready"
+msgstr "njikere"
+
+msgid "Thank you for your payment"
+msgstr "Daalụ maka ịkwụ ụgwọ gị"
+
+msgid "Your payment has been cancelled"
+msgstr "Ịkwụ ụgwọ gị e kagbuo"
+
+msgid "page"
+msgstr "peeji"
+
+msgid "Rent period"
+msgstr "mgbazinye oge"
+
+msgid "Total, month"
+msgstr "Total, ọnwa"
+
+msgid "Order items"
+msgstr "Order ihe"
+
+msgid "No records found"
+msgstr "Ọ dịghị ndia hụrụ"
+
+msgid "User with this email is already exist"
+msgstr "Onye ọrụ na nke a email bụ ugbua adị"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Nchekwa ma ọ bụ faịlụ na aha dị otú ahụ na-ama adị ke ebe nchekwa"
+
+msgid "Minimal quantity"
+msgstr "ntakiri ukwu"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "ebipụta mbipụta"
+
+msgid "Terms of Use"
+msgstr "Usoro ojiji"
+
+msgid "Privacy Policy"
+msgstr "amụma nzuzo"
+
+msgid "Find project..."
+msgstr "Chọta oru ngo ..."
+
+msgid "New Project"
+msgstr "New Project"
+
+msgid "Accounts"
+msgstr "Accounts"
+
+msgid "Operations"
+msgstr "Operations"
+
+msgid "All accounts"
+msgstr "All akaụntụ"
+
+msgid "All categories"
+msgstr "All edemede"
+
+msgid "Expense"
+msgstr "efu"
+
+msgid "Income"
+msgstr "Income"
+
+msgid "Transfer"
+msgstr "Nyefee"
+
+msgid "Expense"
+msgstr "efu"
+
+msgid "income"
+msgstr "ego"
+
+msgid "tax"
+msgstr "tax"
+
+msgid "percent"
+msgstr "percent"
+
+msgid "transfer"
+msgstr "transfer"
+
+msgid "Make operation"
+msgstr "Mee ime"
+
+msgid "Select date"
+msgstr "Họrọ ụbọchị"
+
+msgid "Select account"
+msgstr "Họrọ akaụntụ"
+
+msgid "Month"
+msgstr "ọnwa"
+
+msgid "Quarter"
+msgstr "nkeji iri na ise"
+
+msgid "Year"
+msgstr "Year"
+
+msgid "From"
+msgstr "site"
+
+msgid "To"
+msgstr "iji"
+
+msgid "Expense amount"
+msgstr "efu ego"
+
+msgid "Categories"
+msgstr "Categories"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "Income amount"
+msgstr "Income ego"
+
+msgid "Transfer amount"
+msgstr "Nyefee ego"
+
+msgid "From account"
+msgstr "site akaụntụ"
+
+msgid "To account"
+msgstr "na akaụntụ"
+
+msgid "New Account"
+msgstr "New Akaụntụ"
+
+msgid "New Category"
+msgstr "New Category"
+
+msgid "All"
+msgstr "All"
+
+msgid "Name"
+msgstr "aha"
+
+msgid "Enter category name"
+msgstr "Tinye Atiya aha"
+
+msgid "Select type"
+msgstr "Họrọ ụdị"
+
+msgid "Credit card"
+msgstr "Kaadị akwụmụgwọ"
+
+msgid "Debit card"
+msgstr "debit kaadị"
+
+msgid "Bank account"
+msgstr "Bank akaụntụ"
+
+msgid "Cash"
+msgstr "ego"
+
+msgid "Balance is empty"
+msgstr "Balance bụ efu"
+
+msgid "Statistic is empty"
+msgstr "Na ọnụ ọgụgụ bụ efu"
+
+msgid "Regular payments"
+msgstr "Ịgachi ịkwụ ụgwọ"
+
+msgid "Are you sure ?"
+msgstr "O doro gị anya ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Ì ji n\'aka na-emechi a na oru ngo ?"
+
+msgid "Project was deleted successfully"
+msgstr "Project ehichapụ ọma"
+
+msgid "Select currency"
+msgstr "Họrọ Ego"
+
+msgid "Account"
+msgstr "akaụntụ"
+
+msgid "Orders list"
+msgstr "iwu ndepụta"
+
+msgid "Order payments"
+msgstr "Order ịkwụ ụgwọ"
+
+msgid "View order"
+msgstr "View iji"
+
+msgid "No response from Printer API"
+msgstr "Ọ dịghị omume na Printer API"
+
+msgid "Bad response from Printer API"
+msgstr "Bad omume na Printer API"
+
+msgid "User ID"
+msgstr "Njirimara Onye Ọrụ"
+
+msgid "Contact Person"
+msgstr "Onye Mkpọtụrụ"
+
+msgid "No orders to process"
+msgstr "Ọ dịghị iwu hazie"
+
+msgid "Article announce image"
+msgstr "Nkeji edemede ịkpọsa image"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Ghara ịdị irè video URL. Nkume ide ma ọ bụ itinye irè youtube url"
+
+msgid "Please, enter Contractor data"
+msgstr "Biko , tinye ngo data"
+
+msgid "Distribute devices"
+msgstr "kesaa ngwaọrụ"
+
+msgid "Quantity"
+msgstr "ukwu"
+
+msgid "Devices left"
+msgstr "Devices hapụrụ"
+
+msgid "Distributed devices"
+msgstr "ekesa ngwaọrụ"
+
+msgid "You must enter quantity"
+msgstr "Ị ga-abanye ukwu"
+
+msgid "All devices are distributed"
+msgstr "Niile ngwaọrụ na-ekesa"
+
+msgid "IP address"
+msgstr "adreesị IP"
+
+msgid "Only for printer"
+msgstr "Naanị n\'ihi na ngwa nbipute"
+
+msgid "Counter"
+msgstr "counter"
+
+msgid "You was excluded from this room"
+msgstr "Ị na- ekwe si ụlọ a"
+
+msgid "Compare"
+msgstr "Tụlee"
+
+msgid "Scheduled transaction"
+msgstr "ndokwa azụmahịa"
+
+msgid "Select transfer account"
+msgstr "Họrọ Nyefee akaụntụ"
+
+msgid "Select income account"
+msgstr "Họrọ ego akaụntụ"
+
+msgid "Reports"
+msgstr "akụkọ"
+
+msgid "Goals"
+msgstr "ihe mgbaru ọsọ"
+
+msgid "Budgets"
+msgstr "Amawaputala"
+
+msgid "Enter user name or email..."
+msgstr "Tinye aha njirimara ma ọ email ..."
+
+msgid "Invite had been sended"
+msgstr "Òkù e sended"
+
+msgid "Statistics"
+msgstr "Statistics"
+
+msgid "Updated site began to work"
+msgstr "Emelitere saịtị malitere ịrụ ọrụ"
+
+msgid "City of residence"
+msgstr "City nke obibi"
+
+msgid "Edit favourites list"
+msgstr "Dezie ọkacha mmasị ndepụta"
+
+msgid "Add favourites list"
+msgstr "Tinye ọkacha mmasị ndepụta"
+
+msgid "Categories is required"
+msgstr "Categories a chọrọ"
+
+msgid "Type new category name and hit Enter"
+msgstr "Pịnye ọhụrụ Atiya aha na kụrụ Tinye"
+
+msgid "You created an order"
+msgstr "I kere ihe iji"
+
+msgid "You received a device due to this order"
+msgstr "Unu natara a ngwaọrụ ruru ka a iji"
+
+msgid "%s attached %s to task %s"
+msgstr "%s mmasị %s ka Task %s"
+
+msgid "member(s)"
+msgstr "so (s)"
+
+msgid "%s commented task %s"
+msgstr "%s kwuru ọrụ %s"
+
+msgid "%s closed task %s"
+msgstr "%s mechiri emechi ọrụ %s"
+
+msgid "%s created task %s"
+msgstr "%s kere ọrụ %s"
+
+msgid "%s created this project"
+msgstr "%s kere a na oru ngo"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s kere subproject \"%s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s mechiri emechi oru ngo \" %s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s mechiri emechi subproject \"%s \""
+
+msgid "This field must not be blank"
+msgstr "A na ubi ga-abụ ide"
+
+msgid "Document with such name is already exist"
+msgstr "Panèl na aha dị otú ahụ bụ na-ama adị"
+
+msgid "Wait until image upload"
+msgstr "Chere ruo mgbe image bulite"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Message can not be empty"
+msgstr "Ozi nwere ike ịbụ efu"
+
+msgid "Yes"
+msgstr "Ee"
+
+msgid "No"
+msgstr "Ọ dịghị"
+
+msgid "Created"
+msgstr "kere"
+
+msgid "Compare is empty"
+msgstr "Tụlee bụ efu"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Ì ji n\'aka na ị chọrọ ka ihichapụ ime"
+
+msgid "Do you really want to delete transaction"
+msgstr "Ị chọrọ n\'ezie ka ihichapụ azụmahịa"
+
+msgid "Project with same name already exists"
+msgstr "Project na otu aha ugbua dị"
+
+msgid "Account is not found"
+msgstr "Akaụntụ na-ahụghị"
+
+msgid "Currency is required"
+msgstr "Ego a chọrọ"
+
+msgid "error while deleting document"
+msgstr "njehie mgbe ihichapụ akwụkwọ"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Ị kpọrọ onye ọrụ \"%s \" n\'ime ụlọ a"
+
+msgid "User \"%s\" joined this room"
+msgstr "Onye ọrụ \"%s \" sonyeere ụlọ a"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Ị ekwe onye ọrụ \"%s \" site ụlọ a"
+
+msgid "User \"%s\" left this room"
+msgstr "Onye ọrụ \"%s \" ekpe ụlọ a"
+
+msgid "Add account"
+msgstr "Tinye akaụntụ"
+
+msgid "The requested page is not found"
+msgstr "Na rịọrọ peeji na-ahụghị"
+
+msgid "Document"
+msgstr "Panèl"
+
+msgid "Table"
+msgstr "Isiokwu"
+
+msgid "file(s)"
+msgstr "faịlụ (s)"
+
+msgid "Residue"
+msgstr "Kedesh"
+
+msgid "Result is empty"
+msgstr "N\'ihi bụ efu"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Ngụkọta ego bụ %s maka %s knife"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Ị nwere ịkwụnye %s kwa ọnwa ka yiri akaụntụ"
+
+msgid "Start"
+msgstr "Malite"
+
+msgid "finish"
+msgstr "imecha"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Họrọ akaụntụ bụ ugbua na ojiji maka mgbaru ọsọ ọzọ"
+
+msgid "Amount required"
+msgstr "ego chọrọ"
+
+msgid "New goal"
+msgstr "New mgbaru ọsọ"
+
+msgid "Goal"
+msgstr "Mgbaru Ọsọ"
+
+msgid "Goal name"
+msgstr "mgbaru ọsọ aha"
+
+msgid "Invalid date"
+msgstr "ghara ịdị irè Ụbọchị"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Mkpa nchikota ga- a nti nọmba"
+
+msgid "Remain"
+msgstr "ịnọgide na-"
+
+msgid "Last day"
+msgstr "ụbọchị ikpeazụ"
+
+msgid "Accumulated"
+msgstr "chịkọbara"
+
+msgid "Put aside"
+msgstr "ewepụrụ"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "February"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Ka"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "July"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "October"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Expenses projected/actual"
+msgstr "Mmefu atumatu olu / n\'ezie"
+
+msgid "Net Income projected/actual"
+msgstr "Net Income atumatu olu / n\'ezie"
+
+msgid "New budget"
+msgstr "New mmefu ego"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Revenue na mmefu Chart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Mmefu ego na otu ụzọ nke akaụntụ na Atiya ugbua dị"
+
+msgid "Budget is empty"
+msgstr "Mmefu ego bụ ihe efu"
+
+msgid "Budget"
+msgstr "mmefu ego"
+
+msgid "plan"
+msgstr "atụmatụ"
+
+msgid "fact"
+msgstr "eziokwu"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "Gosi ihe"
+
+msgid "Cancel"
+msgstr "kagbuo"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "My ahịa"
+
+msgid "Time spent"
+msgstr "oge nọrọ"
+
+msgid "Total time spent"
+msgstr "Total oge nọrọ"
+
+msgid "Earnings per hour"
+msgstr "Enwetakwa kwa awa"
+
+msgid "Total earnings"
+msgstr "Total enwetakwa"
+
+msgid "Call"
+msgstr "oku"
+
+msgid "Phone call"
+msgstr "ekwentị oku"
+
+msgid "Telephone calls"
+msgstr "oku ekwentị"
+
+msgid "Send email"
+msgstr "Send email"
+
+msgid "Emails"
+msgstr "ozi ịntanetị"
+
+msgid "Meeting"
+msgstr "nzute"
+
+msgid "Meetings"
+msgstr "nzukọ"
+
+msgid "All events"
+msgstr "niile ihe"
+
+msgid "Task"
+msgstr "Task"
+
+msgid "Event"
+msgstr "omume"
+
+msgid "Events"
+msgstr "ihe"
+
+msgid "Time"
+msgstr "Oge"
+
+msgid "Events statistics"
+msgstr "ihe ọnụ ọgụgụ"
+
+msgid "days"
+msgstr "ụbọchị"
+
+msgid "hours"
+msgstr "awa"
+
+msgid "minutes"
+msgstr "nkeji"
+
+msgid "Income & expense"
+msgstr "Income & efu"
+
+msgid "Show chart"
+msgstr "Gosi chaatị"
+
+msgid "Hide chart"
+msgstr "Zoo chaatị"
+
+msgid "Add event"
+msgstr "Tinye omume"
+
+msgid "Add financial data"
+msgstr "Tinye ego data"
+
+msgid "Select contractor"
+msgstr "Họrọ ngo"
+
+msgid "Net Income"
+msgstr "Mkpokọta ego mbata"
+
+msgid "Revenue"
+msgstr "revenue"
+
+msgid "Taxes"
+msgstr "ụtụ isi"
+
+msgid "Amount planned"
+msgstr "ego zubere"
+
+msgid "Amount"
+msgstr "ego"
+
+msgid "Period"
+msgstr "Period"
+
+msgid "Are you sure to close this task?"
+msgstr "Ì ji n\'aka na-emechi ọrụ a ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "All iche iche"
+
+msgid "added from task"
+msgstr "kwukwara si ọrụ"
+
+msgid "Monthly repeat"
+msgstr "Monthly imekwa"
+
+msgid "Select category"
+msgstr "Họrọ udi"
+
+msgid "Event type"
+msgstr "omume ụdị"
+
+msgid "Margin"
+msgstr "oke"
+
+msgid "Use finance project"
+msgstr "Jiri ego oru ngo"
+
+msgid "New investment project"
+msgstr "New ego oru ngo"
+
+msgid "Investment project settings"
+msgstr "Investment oru ngo ntọala"
+
+msgid "Picture, for the announcement project"
+msgstr "Foto dị , n\'ihi na mara ọkwa oru ngo"
+
+msgid "Announcement project"
+msgstr "Ọkwà oru ngo"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Photos or videos gallery"
+msgstr "Foto ma ọ bụ vidiyo gallery"
+
+msgid "required amount"
+msgstr "chọrọ ego"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Project oge ( 60 ụbọchị kacha )"
+
+msgid "Project duration"
+msgstr "Project oge"
+
+msgid "Add reward"
+msgstr "Tinye ụgwọ ọrụ"
+
+msgid "Delivery date"
+msgstr "Ụbọchị nnyefe"
+
+msgid "Payment systems"
+msgstr "na ugwo usoro"
+
+msgid "Terms of service"
+msgstr "Usoro nke ọrụ"
+
+msgid "Agreement"
+msgstr "Agreement"
+
+msgid "Payment"
+msgstr "Ịkwụ Ụgwọ"
+
+msgid "My projects"
+msgstr "My oru ngo"
+
+msgid "Search result"
+msgstr "search N\'ihi"
+
+msgid "Nothing not found"
+msgstr "Ọ dịghị ihe ahụghị"
+
+msgid "The project has no sponsors"
+msgstr "Ngo nwere dịghị haziri nzukọ"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Food"
+msgstr "Food"
+
+msgid "Journalism"
+msgstr "Journalism"
+
+msgid "Games"
+msgstr "Games"
+
+msgid "Art"
+msgstr "Art"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "music"
+
+msgid "Handicrafts"
+msgstr "handicrafts"
+
+msgid "Publishing"
+msgstr "Publishing"
+
+msgid "Theater"
+msgstr "Ụlọ ihe nkiri"
+
+msgid "Technology"
+msgstr "Technology"
+
+msgid "Film/Video"
+msgstr "Nkiri / Video"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Dance"
+msgstr "Dance"
+
+msgid "Invalid youtube video"
+msgstr "Ghara ịdị irè youtube video"
+
+msgid "is required"
+msgstr "ihe achọrọ"
+
+msgid "User"
+msgstr "onye ọrụ"
+
+msgid "Date"
+msgstr "Ụbọchị"
+
+msgid "Collected"
+msgstr "anakọtara"
+
+msgid "Choose period"
+msgstr "họrọ oge"
+
+msgid "Choose region"
+msgstr "họrọ mpaghara"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Today"
+msgstr "taa"
+
+msgid "Week"
+msgstr "Week"
+
+msgid "Month"
+msgstr "ọnwa"
+
+msgid "Year"
+msgstr "Year"
+
+msgid "Free registration"
+msgstr "Free registration"
+
+msgid "Join"
+msgstr "Jikọọ"
+
+msgid "Log in using"
+msgstr "Abanye na -eji"
+
+msgid "Vacancies"
+msgstr "Employment ohere"
+
+msgid "About Us"
+msgstr "Gbasara anyị"
+
+msgid "You will need email to log in"
+msgstr "Ị ga-mkpa email abanye na"
+
+msgid "A combination of 6 digits and characters"
+msgstr "A Nchikota 6 digits na odide"
+
+msgid "Search users, groups, articles..."
+msgstr "Search ọrụ, dị iche iche, isiokwu ..."
+
+msgid "Cloud"
+msgstr "Ígwé ojii"
+
+msgid "Sunday"
+msgstr "Sunday"
+
+msgid "Monday"
+msgstr "Monday"
+
+msgid "Tuesday"
+msgstr "Tuesday"
+
+msgid "Wednesday"
+msgstr "Wednesday"
+
+msgid "Thursday"
+msgstr "Thursday"
+
+msgid "Friday"
+msgstr "Friday"
+
+msgid "Saturday"
+msgstr "Saturday"
+
+msgid "Edit"
+msgstr "Dezie"
+
+msgid "Create group"
+msgstr "Mepụta ìgwè"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Ì ji n\'aka na chọrọ ịhapụ peeji a?"
+
+msgid "More"
+msgstr "Ọzọ"
+
+msgid "Less"
+msgstr "Mpekarị"
+
+msgid "Pending"
+msgstr "rue mgbe"
+
+msgid "Approved"
+msgstr "mma"
+
+msgid "Rejected"
+msgstr "jụrụ"
+
+msgid "Subprojects"
+msgstr "Subprojects"
+
+msgid "Group edit"
+msgstr "Group edit"
+
+msgid "Startup"
+msgstr "Malite"
+
+msgid "Tattoo"
+msgstr "egbugbu"
+
+msgid "Health"
+msgstr "Health"
+
+msgid "Weapon"
+msgstr "ngwá agha"
+
+msgid "Astronomy"
+msgstr "Astronomy"
+
+msgid "All articles"
+msgstr "All isiokwu"
+
+msgid "Article editor"
+msgstr "Nkeji edemede nchịkọta akụkọ"
+
+msgid "Document editor"
+msgstr "Panèl nchịkọta akụkọ"
+
+msgid "Apply changes"
+msgstr "Mee mgbanwe"
+
+msgid "Save changes?"
+msgstr "Zọpụta mgbanwe ?"
+
+msgid "published an article"
+msgstr "bipụtara otu isiokwu"
+
+msgid "Users"
+msgstr "ọrụ"
+
+msgid "Shared With Me"
+msgstr "Na-akọrọ Me"
+
+msgid "share"
+msgstr "òkè"
+
+msgid "Select Group Responsible"
+msgstr "Họrọ Group Ịrụ Ọrụ Dịịrị"
+
+msgid "Create folder"
+msgstr "Mepụta nchekwa"
+
+msgid "Title must be at least 3 characters"
+msgstr "Aha ga-dịkarịa ala 3 odide"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Free 10 GB , ego njikwa, itinye ego modul, na ọtụtụ ndị ọzọ maka free na ruo mgbe ebighị ebi"
+
+msgid "Best regards"
+msgstr "Ezi echiche"
+
+msgid "Updates in last 12 hours:"
+msgstr "Mmelite ikpeazụ awa 12 :"
+
+msgid "expense"
+msgstr "efu"
+
+msgid "Commentary on the event:"
+msgstr "Commentary na omume:"
+
+msgid "Event place"
+msgstr "omume ebe"
+
+msgid "Project was updated"
+msgstr "Project e emelitere"
+
+msgid "Project was created"
+msgstr "Project e kere"
+
+msgid "Project was closed"
+msgstr "Project e mechiri"
+
+msgid "account"
+msgstr "akaụntụ"
+
+msgid "removed task"
+msgstr "wepụrụ ọrụ"
+
+msgid "removed subproject"
+msgstr "wepụrụ subproject"
+
+msgid "Title can not be empty"
+msgstr "Mbụ apụghị ịbụ efu"
+
+msgid "Do not select the type of event"
+msgstr "Adịghị họrọ ụdị nke omume"
+
+msgid "Error while saving comment"
+msgstr "Error mgbe azọpụta comment"
+
+msgid "Save error: access denied"
+msgstr "Zọpụta njehie: ohere gọrọ agọ"
+
+msgid "Remains"
+msgstr "foduru"
+
+msgid "Time spent, h."
+msgstr "Oge nọrọ, h."
+
+msgid "Emails"
+msgstr "ozi ịntanetị"
+
+msgid "Meetings"
+msgstr "nzukọ"
+
+msgid "All users"
+msgstr "niile ọrụ"
+
+msgid "Category"
+msgstr "udi"
+
+msgid "Finance project"
+msgstr "Finance oru ngo"
+
+msgid "Investment project"
+msgstr "Investment oru ngo"
+
+msgid "Nature"
+msgstr "Nature"
+
+msgid "Data is empty"
+msgstr "Data bụ efu"
+
+msgid "Visitors"
+msgstr "ọbịa"
+
+msgid "My profile"
+msgstr "My profaịlụ"
+
+msgid "Sponsors"
+msgstr "haziri nzukọ"
+
+msgid "Prior to completion"
+msgstr "Tupu ẹkụre"
+
+msgid "Select"
+msgstr "họrọ"
+
+msgid "My groups"
+msgstr "My iche iche"
+
+msgid "The invitation has been sent successfully"
+msgstr "Òkù e zigara ịga nke ọma"
+
+msgid "Username has already been invited to this project"
+msgstr "Aha njirimara esesịn a kpọrọ ka a na oru ngo"
+
+msgid "The user is the creator of the project"
+msgstr "Onye ọrụ bụ onye okike nke oru ngo"
+
+msgid "Provide full access"
+msgstr "Nye zuru ohere"
+
+msgid "Select elements to provide access"
+msgstr "Họrọ ọcha na-enye ohere"
+
+msgid "Select all"
+msgstr "Họrọ niile"
+
+msgid "User E-mail"
+msgstr "Onye ọrụ E- mail"
+
+msgid "Click on the field to select a category"
+msgstr "Pịa na ubi ka họrọ a Atiya"
+
+msgid "Invitation was deleted"
+msgstr "Òkù ehichapụ"
+
+msgid "Permission denied"
+msgstr "Ajụrụ ikike"
+
+msgid "Printed"
+msgstr "e biri ebi"
+
+msgid "Incorrect Contractor email"
+msgstr "Ezughị oke ngo email"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Ị chọrọ tinye oru ngo na ego Manager?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Iji mezue ndebanye usoro biko dejupụta ala nkà gị"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Otu mail na n\'ihu ntụziaka e zigara gị adreesị email gị"
+
+msgid "Submit"
+msgstr "nyefere"
+
+msgid "Cars"
+msgstr "Obere ụgbọala"
+
+msgid "Science"
+msgstr "Science"
+
+msgid "Donation"
+msgstr "onyinye"
+
+msgid "Interests"
+msgstr "Mmasị"
+
+msgid "Driver"
+msgstr "Ọkwọ ụgbọala"
+
+msgid "Sportsman"
+msgstr "okaegwuregwwu"
+
+msgid "Businessman"
+msgstr "na-azụ ahịa"
+
+msgid "Accountant"
+msgstr "na mwepu ego"
+
+msgid "Engineer"
+msgstr "engineer"
+
+msgid "Soldier"
+msgstr "agha"
+
+msgid "Next"
+msgstr "Osote"
+
+msgid "Hide group"
+msgstr "Zoo ìgwè"
+
+msgid "groups created"
+msgstr "iche iche kere"
+
+msgid "articles written"
+msgstr "isiokwu dere"
+
+msgid "These groups may be interesting for you"
+msgstr "Ndị dị iche iche nwere ike ịbụ na-akpali n\'ihi na ị"
+
+msgid "About Group"
+msgstr "banyere Group"
+
+msgid "view(s)"
+msgstr "echiche (s)"
+
+msgid "Favorite users"
+msgstr "Favorite ọrụ"
+
+msgid "No accounts"
+msgstr "Ọ dịghị akaụntụ"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook ikike na-emezughị."
+
+msgid "Authorization Required"
+msgstr "ikike choro"
+
+msgid "You have to make a call:"
+msgstr "Ị ga- eme ka a oku :"
+
+msgid "You have to send an email:"
+msgstr "Ị ga- eziga otu email:"
+
+msgid "You have a meetup:"
+msgstr "Ị nwere meetup :"
+
+msgid "You event :"
+msgstr "Ị omume:"
+
+msgid "Participants:"
+msgstr "sonyere :"
+
+msgid "Search"
+msgstr "search"
+
+msgid "News"
+msgstr "News"
+
+msgid "Investments"
+msgstr "investments"
+
+msgid "Back to Cloud"
+msgstr "Back to Ígwé ojii"
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Planet"
+msgstr "planet"
+
+msgid "Group url"
+msgstr "Group url"
+
+msgid "Profile url"
+msgstr "profaịlụ url"
+
+msgid "Already taken"
+msgstr "Ewerela ya"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Dịkarịa ala 1 akwụkwọ ozi na 3 chars ogologo chọrọ"
+
+msgid "Digit can not be the first character"
+msgstr "Ọbula apụghị -akpa agwa"
+
+msgid "Enter valid email address"
+msgstr "Tinye irè adreesị ozi-e"
+
+msgid "Enter your skills"
+msgstr "Tinye nkà gị"
+
+msgid "Enter your first name"
+msgstr "Tinye aha mbụ"
+
+msgid "Enter your last name"
+msgstr "Tinye aha ikpeazụ gị"
+
+msgid "Enter your first name and last name"
+msgstr "Tinye aha mbụ na aha ikpeazụ"
+
+msgid "Your first name?"
+msgstr "Gị na mbụ aha?"
+
+msgid "Your last name?"
+msgstr "Aha ikpeazụ gị?"
+
+msgid "What are your proficiencies?"
+msgstr "Gịnị bụ gị proficiencies ?"
+
+msgid "Select country"
+msgstr "Họrọ mba"
+
+msgid "Select user"
+msgstr "Họrọ ọrụ"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Mezuo gị nrọ! Mepụta na imekota ."
+
+msgid "date moved from"
+msgstr "Ụbọchị kpaliri site"
+
+msgid "work"
+msgstr "ọrụ"
+
+msgid "Conference"
+msgstr "Conference"
+
+msgid "personal"
+msgstr "onye"
+
+msgid "Holiday"
+msgstr "ezumike"
+
+msgid "Past"
+msgstr "N\'oge gara aga"
+
+msgid "Future"
+msgstr "Future"
+
+msgid "Purchase"
+msgstr "Ịzụ"
+
+msgid "Personal events"
+msgstr "Private ihe"
+
+msgid "Conferences"
+msgstr "Nzute"
+
+msgid "Holidays"
+msgstr "Ememe"
+
+msgid "Sport events"
+msgstr "Egwuregwu"
+
+msgid "Tasks"
+msgstr "Ihe aga-eme"
+
+msgid "Other events"
+msgstr "Ihe omume ndị ọzọ"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Deferred"
+
+msgid "Time management"
+msgstr "Oge Management"
+
+msgid "Delayed events"
+msgstr "Deferred ihe"
+
+msgid "Delayed"
+msgstr "Deferred"
+
+msgid "Bind to"
+msgstr "Kenye"
+
+msgid "answered your comment to"
+msgstr "M kwuru (a) Ikwu na isiokwu"
+
+msgid "commented your article"
+msgstr "M kwuru na gị ibuotikọ"
+
+msgid "You\'ve answered on comment to"
+msgstr "Ị zara ndị ikwu na isiokwu"
+
+msgid "You\'ve commented an article"
+msgstr "Ị kwuru na isiokwu"
+
+msgid "Terms and Conditions"
+msgstr "Usoro na ọnọdụ"
+
+msgid "Privacy Policy"
+msgstr "Nzuzo"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Site na ịpị \"debanyere\" ị na-ekweta na anyị na-ekweta na ị na-agụ anyị"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Jikọọ obodo nke okike ndị si n\'ụwa nile! Ị ga-enweta: Investing gị echiche, ohere iji kpokọta otu ya, na-arụ ọrụ otu ìgwè, ego njikwa, ijikwa oge ha, 2 gigabytes ke nchekwa na ndị ọzọ. Ma ọ bụ free!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Ndo, ma na peeji nke ị na-achọ adịghị adị. Ọ bụrụ na ị na-eche na-ata ụta anyị kpọtụrụ anyị"
+
+msgid "Return"
+msgstr "Nloghachi"
+
+msgid "COMMON"
+msgstr "Ngụkọta"
+
+msgid "My events"
+msgstr "My Iketịbede"
+
+msgid "Job opening"
+msgstr "New ohere"
+
+msgid "Employment"
+msgstr "Ụdị ọrụ"
+
+msgid "Working hours"
+msgstr "Inye awa"
+
+msgid "City"
+msgstr "City"
+
+msgid "Wages"
+msgstr "Ụgwọ"
+
+msgid "Currency"
+msgstr "Ego"
+
+msgid "Experience"
+msgstr "Ahụmahụ"
+
+msgid "Full-time"
+msgstr "Full ọrụ"
+
+msgid "Part-time"
+msgstr "Akụkụ-oge"
+
+msgid "Project employment"
+msgstr "Project / Nwa Oge"
+
+msgid "Volunteer"
+msgstr "Volunteering"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "Full Time"
+
+msgid "Shifts"
+msgstr "Nnọchi oge"
+
+msgid "Flexible shifts"
+msgstr "Mgbanwe oge"
+
+msgid "Remote work"
+msgstr "N\'ime obodo ọrụ"
+
+msgid "Rotational basis"
+msgstr "Mgbanwe usoro"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Ì ji n\'aka na ị chọrọ ka ihichapụ ndị ikwu?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Ì ji n\'aka na ị chọrọ ka ihichapụ ọrụ a?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Ì ji n\'aka na ị chọrọ ka ihichapụ a sub-oru ngo?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "I etinyere ụlọ ọrụ na ọnọdụ ahụ. Biko jide n\'aka na"
+
+msgid "Your request to for job has been rejected"
+msgstr "Gị arịrịọ ka ụlọ ọrụ na-ọnọdụ e jụrụ"
+
+msgid "Your request to for job has been accepted"
+msgstr "Gị arịrịọ ka ụlọ ọrụ na-ọnọdụ e kuchiri"
+
+msgid "profile is completed"
+msgstr "Profaịlụ gị jupụtara"
+
+msgid "Use account"
+msgstr "Jiri akaụntụ"
+
+msgid "$/hr"
+msgstr "$ / Awa"
+
+msgid "Finance category"
+msgstr "Financial Atiya"
+
+msgid "No projects"
+msgstr "Ọ dịghị oru ngo"
+
+msgid "Bind to finances"
+msgstr "Kenye ego oru ngo"
+
+msgid "Preview"
+msgstr "View"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Save to my cloud"
+msgstr "Detuo repository"
+
+msgid "File successfully saved to your cloud"
+msgstr "Njikwa ọma echekwara na gị repository"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Chekwa na faịlụ na gị repository?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Họrọ a Atiya Nkeji edemede"
+
+msgid "Type something"
+msgstr "Dee ihe"
+
+msgid "Founded users"
+msgstr "Hụrụ ọrụ"
+
+msgid "Founded articles"
+msgstr "Hụrụ isiokwu"
+
+msgid "Founded groups"
+msgstr "Tọrọ ntọala ìgwè"
+
+msgid "What are your skills?"
+msgstr "Gịnị bụ gị nkà?"
+
+msgid "Select at least 2 interests"
+msgstr "Họrọ ọbụlagodi 2 mmasị"
+
+msgid "Need more interests"
+msgstr "Ezughị mmasị họrọ"
+
+msgid "What are you interesting in?"
+msgstr "Gịnị ka i nwere mmasị?"
+
+msgid "You have no dialogs"
+msgstr "Ị na-adịghị dialogues"
+
+msgid "Usage Stats"
+msgstr "State nke"
+
+msgid "Founded files"
+msgstr "Files Hụrụ"
+
+msgid "Big tiles"
+msgstr "Nnukwu taịl nile"
+
+msgid "Small tiles"
+msgstr "Obere taịl nile"
+
+msgid "Table view"
+msgstr "Isiokwu na-ele"
+
+msgid "Root folder"
+msgstr "Mgbọrọgwụ ndekọ"
+
+msgid "My files"
+msgstr "My Files"
+
+msgid "Save as draft"
+msgstr "Zọpụta dị Draft"
+
+msgid "Buy More Space"
+msgstr "Ịzụta ọzọ ohere"
+
+msgid "Buy"
+msgstr "Ịzụta"
+
+msgid "You have been invited to group as"
+msgstr "Ị na a kpọrọ ka ìgwè ahụ dị ka a"
+
+msgid "User wants to join your group"
+msgstr "Onye ọrụ chọrọ iji sonyere gị otu"
+
+msgid "Section is coming soon!"
+msgstr "Nkebi na-ewu!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Echiche ke akpatre awa 24:"
+
+msgid "Task was updated"
+msgstr "The ọrụ e emelitere"
+
+msgid "Task was closed"
+msgstr "Ihe ịma aka e mechiri"
+
+msgid "Task was created"
+msgstr "The ọrụ e setịpụrụ"
+
+msgid "Current balance"
+msgstr "Ugbu A itule"
+
+msgid "Add funds"
+msgstr "Tinye"
+
+msgid "Pay"
+msgstr "Ndenye ọpụpụ"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "I karịrị ọnụ ọgụgụ ndị nbanye mgbalị. Ị na-egbochi 15 nkeji"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Biko gosi ya na unu e-mail. The akwụkwọ ozi zitere gị site mail."
+
+msgid "Resend confirmation email"
+msgstr "Send nkwenye ọzọ"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB kwa ọnwa"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Ụgbọala 10 GB kwa afọ"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB n\'afọ ọ bụla"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1TB kwa ọnwa"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Ụgbọala 1 TB n\'afọ ọ bụla"
+
+msgid "Project members monthly"
+msgstr "Sonyere nke oru ngo na a kwa ọnwa ndabere"
+
+msgid "Project members yearly"
+msgstr "Project sonyere kwa afọ"
+
+msgid "Member(s) yearly"
+msgstr "Member (s) kwa afọ"
+
+msgid "Member(s) monthly"
+msgstr "Member (s) na kwa ọnwa ndabere"
+
+msgid "Authorized"
+msgstr "Ikike"
+
+msgid "Authorization expired"
+msgstr "Ikike kubie ume"
+
+msgid "Processor declined"
+msgstr "Jụrụ nhazi usoro"
+
+msgid "Gateway rejected"
+msgstr "Jụrụ ugwo ámá"
+
+msgid "Failed"
+msgstr "Error"
+
+msgid "Voided"
+msgstr "Imesa"
+
+msgid "Submitted for settlement"
+msgstr "Zigara debanye aha"
+
+msgid "Settlement declined"
+msgstr "Aha e jụrụ"
+
+msgid "Settlement pending"
+msgstr "Rue mgbe aha"
+
+msgid "Verified"
+msgstr "Enyocha"
+
+msgid "Pending"
+msgstr "Rue mgbe"
+
+msgid "Active"
+msgstr "Arụsi ọrụ ike"
+
+msgid "Past Due"
+msgstr "Kubie ume"
+
+msgid "Expired"
+msgstr "Biri"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "India"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "South Korea"
+msgstr "South Korea"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Turkey"
+msgstr "Turkey"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Germany"
+msgstr "Germany"
+
+msgid "Italy"
+msgstr "Italy"
+
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "United Kingdom"
+msgstr "Great Britain"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "United States"
+msgstr "United States"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+msgid "Canada"
+msgstr "Egypt"
+
+msgid "Russia"
+msgstr "Russia"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Na oge, ọ dịghị otu azụmahịa"
+
+msgid "Fulfill your dream"
+msgstr "Mezuo gị nrọ"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Isonyere anyị obodo nke okike ndị mmadụ n\'otu n\'otu si gburugburu ụwa."
+
+msgid "Create and Collaborate"
+msgstr "Mepụta na imekota"
+
+msgid "Start Dreaming"
+msgstr "Mezuo nrọ UGBUA"
+
+msgid "or"
+msgstr "ma ọ bụ"
+
+msgid "Our mission:"
+msgstr "Anyị ozi:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Dịrị n\'otu ihe na-arụsi ọrụ ike ndị mejuputa echiche si dị mfe ma na ina ka ịrịba na kediegwu, na ike-enwe mmetụta ọdịnihu anyị."
+
+msgid "What is Konstruktor?"
+msgstr "Gịnị bụ Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - bụ akụkụ nke anyị ndụ n\'ezie, nke budata mmemmem na simplifies"
+
+msgid "*business processes"
+msgstr "* azụmahịa Filiks"
+
+msgid "*materialization of creative ideas"
+msgstr "* materialization nke okike echiche"
+
+msgid "*constructive cooperation"
+msgstr "* constructive imekọ ihe ọnụ"
+
+msgid "Make your dream!"
+msgstr "Mee ka gị na nrọ!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Special Advisor"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Manager, Software Development"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Senior ọkàiwu"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Mmebe"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Site na ịpị \"Ekem\" button, unu na-anara na n\'ikwenyere anyị Usoro na ọnọdụ, na ị na-na-ekweta na ị na-agụ anyị na iwu nzuzo."
+
+msgid "Incorrect login or password."
+msgstr "Ezughị oke nbanye ọ bụ paswọọdụ."
+
+msgid "Password must be at least 6 characters"
+msgstr "Paswọọdụ ga-dịkarịa ala 6 odide"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "February"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Ka"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "July"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "October"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Chat"
+msgstr "Ikori"
+
+msgid "Files"
+msgstr "Files"
+
+msgid "Statistic"
+msgstr "Ọnụ ọgụgụ"
+
+msgid "Support"
+msgstr "Nkwado"
+
+msgid "Exit"
+msgstr "Ụzọ ọpụpụ"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Marketing specialist"
+msgstr "Marketing ọkachamara"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Shared with me"
+msgstr "Na-akọrọ m"
+
+msgid "File Sharing"
+msgstr "File Ịkekọrịta"
+
+msgid "Provide access by link"
+msgstr "Nye uzo site na njikọ"
+
+msgid "Provide Individual access"
+msgstr "Nye Onye ohere"
+
+msgid "Provide edit access"
+msgstr "Nye edit ohere"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Files will be available only for selected users"
+msgstr "Files ga-abụ dị naanị n\'ihi na họrọ ọrụ"
+
+msgid "With this link everyone can access to the files"
+msgstr "Na nke a njikọ onye ọ bụla nwere ike ịnweta na faịlụ"
+
+msgid "Search users, groups, articles..."
+msgstr "Search ọrụ, dị iche iche, isiokwu ..."
+
+msgid "My Group"
+msgstr "My Group"
+
+msgid "Mo"
+msgstr "Knife"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Anyị"
+
+msgid "Th"
+msgstr "Nke"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Faịlụ na-adịghị họrọ"
+
+msgid "Set aside"
+msgstr "Ewepụta"
+
+msgid "Event time"
+msgstr "Omume oge"
+
+msgid "Work"
+msgstr "Ọrụ"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Time spent for work:"
+msgstr "Oge nọrọ n\'ihi na ọrụ:"
+
+msgid "Personal time spent:"
+msgstr "Personal oge nọrọ:"
+
+msgid "Present"
+msgstr "Ugbu"
+
+msgid "Common"
+msgstr "Common"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "Entertainment"
+msgstr "Entertainment"
+
+msgid "Select:"
+msgstr "Họrọ:"
+
+msgid "Invalid username or password."
+msgstr "Ghara ịdị irè aha njirimara ma ọ bụ paswọọdụ."
+
+msgid "Try again."
+msgstr "Nwaa ọzọ."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "Gịnị ka unu na mmasị na ya?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Họrọ ọbụlagodi 2 nkà: anọgide 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Họrọ ọbụlagodi 2 nkà: anọgide 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Họrọ ọbụlagodi 2 nkà: foduru"
+
+msgid "Active life"
+msgstr "N\'ọrụ ná ndụ"
+
+msgid "Arts and culture"
+msgstr "Arts na omenala"
+
+msgid "Business"
+msgstr "Business"
+
+msgid "Cinema"
+msgstr "Cinema"
+
+msgid "Communications"
+msgstr "Communications"
+
+msgid "Construction and repair"
+msgstr "Ewu na idozi"
+
+msgid "Cooking"
+msgstr "Nri"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Electronics"
+msgstr "Electronics"
+
+msgid "Finances"
+msgstr "Ego"
+
+msgid "Graphics and design"
+msgstr "Graphics na imewe"
+
+msgid "Health"
+msgstr "Health"
+
+msgid "Home and family"
+msgstr "Home na ezinụlọ"
+
+msgid "Humor"
+msgstr "Ọchị"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Industry"
+
+msgid "Insurance"
+msgstr "Insurance"
+
+msgid "Literature"
+msgstr "Literature"
+
+msgid "Mobile communications and internet"
+msgstr "Mobile nkwukọrịta na internet"
+
+msgid "News and Media"
+msgstr "News na Media"
+
+msgid "Pets"
+msgstr "Anu ulo"
+
+msgid "Products and service"
+msgstr "Ngwaahịa na ọrụ"
+
+msgid "Real Estate"
+msgstr "Ahịa ịre ụlọ"
+
+msgid "Religion"
+msgstr "Religion"
+
+msgid "Science and techs"
+msgstr "Science na techs"
+
+msgid "Security"
+msgstr "Nche"
+
+msgid "Society"
+msgstr "Society"
+
+msgid "Television"
+msgstr "Television"
+
+msgid "Travel"
+msgstr "Njem"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belgium"
+msgstr "Belgium"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Denmark"
+
+msgid "France"
+msgstr "France"
+
+msgid "Germany"
+msgstr "Germany"
+
+msgid "Greece"
+msgstr "Greece"
+
+msgid "Hungary"
+msgstr "Hungary"
+
+msgid "Iceland"
+msgstr "Iceland"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Italy"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Russia"
+msgstr "Russia"
+
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgid "South Africa"
+msgstr "South Africa"
+
+msgid "South Korea"
+msgstr "South Korea"
+
+msgid "Spain"
+msgstr "Spain"
+
+msgid "Sweden"
+msgstr "Sweden"
+
+msgid "Switzerland"
+msgstr "Switzerland"
+
+msgid "Turkey"
+msgstr "toro toro"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "United Arab Emirates"
+msgstr "United Arab Emirates"
+
+msgid "United Kingdom"
+msgstr "United Kingdom"
+
+msgid "United States"
+msgstr "United States"
+
+msgid "achievements"
+msgstr "rụzuru"
+
+msgid "Investment management"
+msgstr "Investment management"
+
+msgid "Select..."
+msgstr "Họrọ ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "Investment Management"
+
+msgid "Investors list"
+msgstr "Investors ndepụta"
+
+msgid "My investments"
+msgstr "My investments"
+
+msgid "Create date"
+msgstr "Mepụta Ụbọchị"
+
+msgid "Author of the project"
+msgstr "Ede akwụkwọ nke oru ngo"
+
+msgid "Date and time"
+msgstr "Ụbọchị na oge"
+
+msgid "Status"
+msgstr "Ọnọdụ"
+
+msgid "NEXT"
+msgstr "OSOTE"
+
+msgid "Next"
+msgstr "Osote"
+
+msgid "Apply"
+msgstr "Mee"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Science"
+
+msgid "Architecture"
+msgstr "Architecture"
+
+msgid "Photography"
+msgstr "Photography"
+
+msgid "Designer"
+msgstr "Mmebe"
+
+msgid "IT specialist"
+msgstr "IT ọkachamara"
+
+msgid "Agronomist"
+msgstr "Agronomist"
+
+msgid "Architect"
+msgstr "Architect"
+
+msgid "Lawyer"
+msgstr "Lawyer"
+
+msgid "Writer"
+msgstr "Onye edemede"
+
+msgid "Doctor"
+msgstr "Dọkịta"
+
+msgid "Scientist"
+msgstr "Scientist"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Onye Ozizi"
+
+msgid "Cook"
+msgstr "Cook"
+
+msgid "Artist"
+msgstr "Artist"
+
+msgid "Photographer"
+msgstr "Photographer"
+
+msgid "Ecologist"
+msgstr "Ecologist"
+
+msgid "Economist"
+msgstr "Economist"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Odeakụkọ"
+
+msgid "Builder"
+msgstr "Nrụpụta"
+
+msgid "These users may be interesting for you"
+msgstr "Ndị a ọrụ nwere ike ịbụ na-akpali n\'ihi na ị"
+
+msgid "These articles may be interesting for you"
+msgstr "Isiokwu ndị a nwere ike ịbụ na-akpali n\'ihi na ị"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Ị sonyeere ìgwè a dị ka Аdministrator"
+
+msgid "articles written."
+msgstr "isiokwu dere."
+
+msgid "groups created."
+msgstr "iche iche kere."
+
+msgid "Creation"
+msgstr "Creation"
+
+msgid "Build a dream"
+msgstr "-Ewu a dream"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "-Agụ ihe na-akpali isiokwu - aga free ndebanye"
+

@@ -1,0 +1,167 @@
+/*
+file for buttons,links styles
+*/
+
+/*path to images*/
+$imgPath : "../images/origin";
+
+
+/*buttons*/
+.video-view-button{
+
+}
+
+.origin-styles .rounded-grey-border-button{
+  background: transparent none repeat scroll 0 0;
+  border: 2px solid #d8e0e6;
+  border-radius: 12px;
+  color: #808996;
+  font-size: 14px;
+  font-weight: 700;
+  padding: 8px 10px;
+  text-transform: uppercase;
+}
+@media all and (max-width: 766px){
+  .services-button-b {
+    margin-top: 17px;
+  }
+  .origin-styles .services-button-b,
+  .origin-styles .settings-button-b{
+    float: unset;
+    text-align: center;
+    width: auto;
+    height:25px;
+    width: 25px;
+  }
+  .settings-button > a,
+  .send-msg > a {
+    display: block;
+    height: 25px;
+    width: 25px;
+  }
+  .origin-styles .services-button{
+       background-position: center center;
+       background-repeat: no-repeat;
+       border: medium none;
+       height: 35px;
+       overflow: hidden;
+       font-size: 0px;
+       width: 25px;
+       background-image: url('#{$imgPath}/settings-b.png');
+     }
+  .origin-styles .settings-button{
+    @extend .services-button;
+    background-image: url('#{$imgPath}/edit-b.png');
+  }
+  .origin-styles .send-msg{
+    @extend .services-button;
+    background-image: url('#{$imgPath}/snd-mssg-ico.png');
+  }
+  .origin-styles .guest-profile-origin .settings-button{
+    @extend .services-button;
+    background-image: url('#{$imgPath}/subscr-ico.png');
+  }
+}
+/*end buttons*/
+
+/*icons*/
+  i.calendar{
+    background-image: url("#{$imgPath}/user-block-icons.png");
+    background-position: -12px -7px;
+    background-repeat: no-repeat;
+    display: block;
+    float: left;
+    height: 17px;
+    width: 25px;
+  }
+  i.location{
+    @extend i.calendar;
+    background-position: -50px -8px;
+  }
+  i.subcr{
+    @extend i.calendar;
+    background-position: -88px -8px;
+  }
+  i.follow{
+    @extend i.calendar;
+    background-position: -129px -8px;
+  }
+  i.watch{
+    @extend i.calendar;
+    background-position: -169px -8px;
+    width: 33px;
+  }
+  i.repost{
+    @extend i.calendar;
+    background-position: -219px -9px;
+  }
+  i.rbac{
+    @extend i.calendar;
+    background-position: -261px -8px;
+  }
+  i.eye-ico{
+    background-image: url("#{$imgPath}/article-icons.png");
+    background-position: 0 -9px;
+    background-repeat: no-repeat;
+    display: block;
+    float: left;
+    height: 32px;
+    width: 44px;
+  }
+  i.star-ico{
+    @extend .eye-ico;
+    background-position: -46px -9px;
+  }
+  i.comment-ico{
+    @extend .eye-ico;
+    background-position: -100px -9px;
+  }
+  i.shared-ico{
+    @extend .eye-ico;
+    background-position: -147px -9px;
+  }
+  .icon.plus{
+    background-image: url("#{$imgPath}/plus-icon.png");
+    background-position: 10px center;
+    background-repeat: no-repeat;
+    padding-left: 25px;
+  }
+  .icon.location{
+    background-image: url("#{$imgPath}/location-icon.png");
+    background-position: 10px center;
+    background-repeat: no-repeat;
+    padding-left: 25px;
+  }
+  i.article-count{
+    background-image: url("#{$imgPath}/article-ico.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    display: block;
+    float: left;
+    height: 25px;
+    width: 25px;
+  }
+  i.rate-count{
+    @extend .article-count;
+    background-image: url("#{$imgPath}/star-ico.png");
+    background-position: center 2px;
+  }
+  i.rocket-ico{
+    background-position: center center;
+    background-repeat: no-repeat;
+    display: block;
+    float: left;
+    height: 25px;
+    width: 25px;
+    background-image: url("#{$imgPath}/rocket-icon.png");
+  }
+  i.users-ico{
+    background-position: center center;
+    background-repeat: no-repeat;
+    display: block;
+    float: left;
+    height: 25px;
+    width: 25px;
+    background-image: url("#{$imgPath}/users-ico.png");
+  }
+/*end icons*/

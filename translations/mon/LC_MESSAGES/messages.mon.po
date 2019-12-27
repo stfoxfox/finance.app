@@ -1,0 +1,3344 @@
+# Монгол улсын (Монгольский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Монгол улсын (Монгольский) <support@konstruktor.com>\n"
+"Language: Монгол улсын (Монгольский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "хэрэглэгчийн нэр  khereglegchiin ner"
+
+msgid "Invalid username or password, try again"
+msgstr "Буруу хэрэглэгчийн нэр юмуу нууц үг. Дахин оролдоно уу."
+
+msgid "Settings"
+msgstr "Тохиргоо"
+
+msgid "Home"
+msgstr "Нүүр хуудас"
+
+msgid "You must log in to access this page"
+msgstr "Та энэ хуудсанд нэвтрэхийн тулд нэвтрэх шаардлагатай"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Таны хуралдаан дууссан байна. Энэ үйлдлийг гүйцэтгэх relogin уу"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Head Office"
+msgstr "оффис"
+
+msgid "Address"
+msgstr "Хаяг"
+
+msgid "Back"
+msgstr "Буцах"
+
+msgid "Apply"
+msgstr "түрхэнэ"
+
+msgid "Upload files…"
+msgstr "Файлуудыг хэдэн зургаа upload хийнэ ..."
+
+msgid "Set as main"
+msgstr "Үндсэн болох нь чансаанд"
+
+msgid "Delete"
+msgstr "устгах"
+
+msgid "Original image"
+msgstr "анхны зураг"
+
+msgid "Uploaded"
+msgstr "Оруулсан"
+
+msgid "File name"
+msgstr "Файлын нэр"
+
+msgid "File size"
+msgstr "Файлын хэмжээ"
+
+msgid "Resolution"
+msgstr "дугаар тогтоол"
+
+msgid "Enlarge"
+msgstr "томсгож"
+
+msgid "Links"
+msgstr "Вэбийн сан"
+
+msgid "Original size"
+msgstr "Жинхэнэ хэмжээ"
+
+msgid "For editor"
+msgstr "засварлагч нь"
+
+msgid "Resize"
+msgstr "хэмжээг өөрчилж"
+
+msgid "Width"
+msgstr "өргөн"
+
+msgid "Height"
+msgstr "өндөр"
+
+msgid "Media URL"
+msgstr "Хэвлэл мэдээллийн URL"
+
+msgid "Add record"
+msgstr "рекордыг нэмнэ"
+
+msgid "Show filter settings"
+msgstr "Харуулах шүүлтүүр тохиргоо"
+
+msgid "Edit record"
+msgstr "Засварлах бичлэг"
+
+msgid "Delete record"
+msgstr "рекордыг устгах"
+
+msgid "Delete checked records"
+msgstr "Шалгаж бүртгэл устгах"
+
+msgid "Dashboard"
+msgstr "Хянах самбар"
+
+msgid "Password"
+msgstr "Нууц үг"
+
+msgid "Remember me"
+msgstr "намайг сана"
+
+msgid "Login"
+msgstr "Нэвтрэх"
+
+msgid "Clean image cache"
+msgstr "Цэвэр зураг кэш"
+
+msgid "Processing query..."
+msgstr "Боловсруулах хайлт ..."
+
+msgid "CMS Development"
+msgstr "CMS-ийн хөгжил"
+
+msgid "Admin Home Page"
+msgstr "Админ Нүүр хуудас"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Шинэ самбарт урдаа Нээлттэй Нүүр хуудас"
+
+msgid "Go to Site"
+msgstr "Сайтын рүү очих"
+
+msgid "Log out"
+msgstr "гарч Нэвтрэх"
+
+msgid "Send"
+msgstr "илгээх"
+
+msgid "General"
+msgstr "Ерөнхий"
+
+msgid "Title"
+msgstr "гарчиг"
+
+msgid "Teaser"
+msgstr "гашилгасан гэхдээ хөгжилтэй"
+
+msgid "Published"
+msgstr "Нийтэлсэн"
+
+msgid "Featured"
+msgstr "Онцлох"
+
+msgid "Active"
+msgstr "Идэвхтэй"
+
+msgid "Field is mandatory"
+msgstr "Хээрийн заавал"
+
+msgid "Sort Order"
+msgstr "Sort Order"
+
+msgid "Upload"
+msgstr "оруулах"
+
+msgid "Loading..."
+msgstr "Ачааллаж байна ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Нийтэлсэн"
+
+msgid "Mar"
+msgstr "Гуравдугаар сарын"
+
+msgid "Apr"
+msgstr "Дөрөвдүгээр сар"
+
+msgid "May"
+msgstr "May"
+
+msgid "Jun"
+msgstr "June"
+
+msgid "Jul"
+msgstr "Долоодугаар сар"
+
+msgid "Aug"
+msgstr "Наймдугаар сар"
+
+msgid "Sep"
+msgstr "Есдүгээр"
+
+msgid "Oct"
+msgstr "Аравдугаар сар"
+
+msgid "Nov"
+msgstr "Арваннэгдүгээр"
+
+msgid "Dec"
+msgstr "Арванхоёрдугаар сар"
+
+msgid "Product already exists in the order"
+msgstr "Бүтээгдэхүүний аль хэдийн тулд байгаа"
+
+msgid "Product does not exist"
+msgstr "Бүтээгдэхүүний байхгүй байна"
+
+msgid "Incorrect request"
+msgstr "буруу хүсэлт"
+
+msgid "Products"
+msgstr "бүтээгдэхүүн"
+
+msgid "Product types"
+msgstr "Бүтээгдэхүүний төрөл"
+
+msgid "Contractors"
+msgstr "гүйцэтгэгч"
+
+msgid "Contractor"
+msgstr "Гүйцэтгэгч нь"
+
+msgid "Orders"
+msgstr "захиалга"
+
+msgid "FAQ"
+msgstr "Тусламж"
+
+msgid "New order"
+msgstr "Шинэ захиалга"
+
+msgid "My orders"
+msgstr "миний захиалга"
+
+msgid "Recharge balance"
+msgstr "Ундарга тэнцэл"
+
+msgid "Administrator"
+msgstr "Администратор"
+
+msgid "Incorrect event ID"
+msgstr "Буруу үйл явдал ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "засах гүйцэтгэгч"
+
+msgid "Create contractor"
+msgstr "гүйцэтгэгч бий болгох"
+
+msgid "Edit question"
+msgstr "засах асуулт"
+
+msgid "Create question"
+msgstr "асуулт бий болгох"
+
+msgid "Edit order"
+msgstr "засах захиалга"
+
+msgid "Create order"
+msgstr "дэг журмыг бий болгох"
+
+msgid "Edit product"
+msgstr "засах бүтээгдэхүүн"
+
+msgid "Create product"
+msgstr "бүтээгдэхүүн бий болгох"
+
+msgid "Edit product type"
+msgstr "Засах бүтээгдэхүүний төрөл"
+
+msgid "Create product type"
+msgstr "Бүтээгдэхүүний төрөл бий болгох"
+
+msgid "You have received a file"
+msgstr "Та файлыг хүлээн авсан"
+
+msgid "You received a file from"
+msgstr "Та файлыг хүлээн авсан"
+
+msgid "File has been uploaded"
+msgstr "Файл Хуулагдсан байна"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "хамгийн бага тоо хэмжээ"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "зүйлс"
+
+msgid "Remove"
+msgstr "ав"
+
+msgid "Contact person"
+msgstr "Холбоо барих хүн"
+
+msgid "Email"
+msgstr "И-мэйл хаяг"
+
+msgid "Contractor phone"
+msgstr "Гүйцэтгэгч утас"
+
+msgid "Contractor name"
+msgstr "Гүйцэтгэгч нэр"
+
+msgid "Contractor details"
+msgstr "Гүйцэтгэгч дэлгэрэнгүй"
+
+msgid "Order ID"
+msgstr "Захиалга ID"
+
+msgid "Sum"
+msgstr "сум"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Таны тэнцвэрийг цэнэглэх нь тохиромжтой төлбөрийн системийг сонгох"
+
+msgid "Recharge amount"
+msgstr "Ундарга хэмжээ"
+
+msgid "Paid"
+msgstr "Төлбөртэй"
+
+msgid "Shipped"
+msgstr "зөөвөрлөнө"
+
+msgid "- No products in this order -"
+msgstr "- Энэ үүднээс ямар ч бүтээгдэхүүн -"
+
+msgid "month"
+msgstr "сард"
+
+msgid "No user found"
+msgstr "Ямар ч хэрэглэгч олдлоо"
+
+msgid "Achievement"
+msgstr "амжилт"
+
+msgid "Confirmed accomplishments"
+msgstr "баталгаажсан амжилт"
+
+msgid "Remove achievement"
+msgstr "амжилт ав"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "Гар утас"
+
+msgid "Site URL and email"
+msgstr "Сайтын URL болон и-мэйл"
+
+msgid "Remove address"
+msgstr "хаягаа ав"
+
+msgid "Members"
+msgstr "гишүүд"
+
+msgid "Requires a payment"
+msgstr "Нь төлбөр шаарддаг"
+
+msgid "Shipping"
+msgstr "Хүргэлт"
+
+msgid "Ready"
+msgstr "Бэлэн"
+
+msgid "Find user..."
+msgstr "Хэрэглэгч хай ..."
+
+msgid "Order it"
+msgstr "энэ захиалах"
+
+msgid "Find group..."
+msgstr "Бүлэг хай ..."
+
+msgid "Find user or community..."
+msgstr "Хэрэглэгч эсвэл олон нийтийн хай ..."
+
+msgid "No item found"
+msgstr "Ямар ч зүйл олжээ"
+
+msgid "years"
+msgstr "жил"
+
+msgid "Send message"
+msgstr "зурвас илгээх"
+
+msgid "Message"
+msgstr "Зурвас"
+
+msgid "To send message press Enter"
+msgstr "Зурвас хэвлэлийн оруулна уу илгээх"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Зурвас илгээх хэвлэлийн Ctrl + Enter тулд"
+
+msgid "Processing file(s)..."
+msgstr "Боловсруулах файл ( с ) ..."
+
+msgid "Group settings"
+msgstr "бүлгийн тохиргоо"
+
+msgid "Create group"
+msgstr "бүлэг үүсгэх"
+
+msgid "Group has been successfully saved"
+msgstr "Групп амжилттай аварсан байна"
+
+msgid "Group title"
+msgstr "бүлгийн нэр"
+
+msgid "Group video"
+msgstr "Групп видео"
+
+msgid "Description"
+msgstr "Тайлбар"
+
+msgid "Your role in group"
+msgstr "Бүлэгт Таны үүрэг"
+
+msgid "Role"
+msgstr "үүрэг"
+
+msgid "Photo or video gallery"
+msgstr "Зургийн буюу видео цомог"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "видео оруулах"
+
+msgid "Add group address"
+msgstr "Бүлэг хаяг бичих Найзаар нэмэх"
+
+msgid "Group articles"
+msgstr "Групп зүйл"
+
+msgid "No addresses yet"
+msgstr "Одоогоор ямар ч хаяг"
+
+msgid "Add group achievement"
+msgstr "Бүлэг амжилт нэмнэ"
+
+msgid "No achivements yet"
+msgstr "Одоогоор ямар ч ур дунтэй"
+
+msgid "Are you sure to delete this user"
+msgstr "Та энэ хэрэглэгчийн устгах итгэлтэй байна"
+
+msgid "Add member"
+msgstr "гишүүн нэмнэ"
+
+msgid "Are you sure to delete this record?"
+msgstr "Та энэ бичлэгийг устгах итгэлтэй байна уу?"
+
+msgid "Join this group"
+msgstr "Энэ бүлэгт нэгдээрэй"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Таны урилга бүлэг администратор уруу илгээгдэж байсан"
+
+msgid "All addresses"
+msgstr "Бүх хаяг"
+
+msgid "Collapse"
+msgstr "нуралт"
+
+msgid "Achievements"
+msgstr "Ололт амжилт"
+
+msgid "Show more"
+msgstr "дэлгэрэнгүй харуулах"
+
+msgid "Team"
+msgstr "баг"
+
+msgid "Projects"
+msgstr "төслүүд"
+
+msgid "New project"
+msgstr "Шинэ төсөл"
+
+msgid "Project has not been created yet"
+msgstr "Төслийн хараахан бий болгож байна гэсэн"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "тэнцэл"
+
+msgid "Main page"
+msgstr "Нүүр хуудас"
+
+msgid "Upload image"
+msgstr "зураг оруулах"
+
+msgid "My time"
+msgstr "Миний цаг"
+
+msgid "Day"
+msgstr "өдөр"
+
+msgid "Week"
+msgstr "долоо хоног"
+
+msgid "Project settings"
+msgstr "Төслийн тохиргоо"
+
+msgid "Create project"
+msgstr "төсөл бий болгох"
+
+msgid "Project has been successfully saved"
+msgstr "Төсөл амжилттай аварсан байна"
+
+msgid "Project name"
+msgstr "Төслийн нэр"
+
+msgid "Deadline"
+msgstr "хугацаа"
+
+msgid "Close"
+msgstr "Хаах"
+
+msgid "Manager"
+msgstr "менежер"
+
+msgid "Assigned to"
+msgstr "томилогдсон"
+
+msgid "Discussion"
+msgstr "хэлэлцүүлэг"
+
+msgid "Task was created"
+msgstr "Даалгавар бүтээгдсэн"
+
+msgid "Task was closed"
+msgstr "Даалгавар хаалттай байна"
+
+msgid "Go to Group"
+msgstr "Группын рүү очих"
+
+msgid "Closed"
+msgstr "хаалттай"
+
+msgid "Last updates"
+msgstr "Өнгөрсөн шинэчлэлтүүд"
+
+msgid "Project is closed"
+msgstr "Төслийн хаалттай байна"
+
+msgid "No open tasks"
+msgstr "Ямар ч нээлттэй үүрэг"
+
+msgid "New task"
+msgstr "Шинэ ажил"
+
+msgid "Closed tasks"
+msgstr "хаалттай үүрэг"
+
+msgid "Add subproject"
+msgstr "дэд төслийн нэмнэ"
+
+msgid "Add task"
+msgstr "ажлыг нэмнэ"
+
+msgid "Sun"
+msgstr "Ням гараг"
+
+msgid "Mon"
+msgstr "Даваа гариг"
+
+msgid "Tue"
+msgstr "Мягмар"
+
+msgid "Wed"
+msgstr "Лхагва"
+
+msgid "Thur"
+msgstr "Пүрэв"
+
+msgid "Fri"
+msgstr "Баасан гариг"
+
+msgid "Sat"
+msgstr "Бямба"
+
+msgid "Event title"
+msgstr "Үйл нэр"
+
+msgid "Event description"
+msgstr "Үйл тодорхойлолт"
+
+msgid "I registered on this site"
+msgstr "Би энэ газар дээр бүртгэгдсэн"
+
+msgid "Last created groups"
+msgstr "Өнгөрсөн бий бүлэг"
+
+msgid "You joined this group as"
+msgstr "Та энэ бүлэг нэгдсэн"
+
+msgid "You received a request to join the group"
+msgstr "Та бүлэгт нэгдэх хүсэлтийг хүлээн авсан"
+
+msgid "Updated site"
+msgstr "шинэчлэгдсэн сайт"
+
+msgid "Site is under construction"
+msgstr "Сайтын баригдаж байна"
+
+msgid "Last registered users"
+msgstr "Өнгөрсөн бүртгэлтэй хэрэглэгч"
+
+msgid "User settings"
+msgstr "Хэрэглэгчийн тохиргоо"
+
+msgid "Technical support"
+msgstr "Техникийн дэмжлэг"
+
+msgid "Change email"
+msgstr "өөрчлөлт и-мэйл"
+
+msgid "Change password"
+msgstr "нууц үг солих"
+
+msgid "User has been successfully saved"
+msgstr "Хэрэглэгчийн амжилттай аварсан байна"
+
+msgid "Full name"
+msgstr "Бүтэн нэр"
+
+msgid "My video"
+msgstr "Миний видео"
+
+msgid "Skills"
+msgstr "ур чадвар"
+
+msgid "Birthday"
+msgstr "Төрсөн өдөр"
+
+msgid "Country of residence"
+msgstr "Оршин суугаа улс"
+
+msgid "Country"
+msgstr "Улс"
+
+msgid "Zip Code"
+msgstr "Zip код"
+
+msgid "City/town of residence"
+msgstr "Оршин суугаа хот / хот"
+
+msgid "University/college"
+msgstr "Их сургууль / дээд сургуулийн"
+
+msgid "University/college photo"
+msgstr "Их сургууль / дээд сургуулийн зураг"
+
+msgid "Add user\'s accomplishments"
+msgstr "Хэрэглэгчийн ололт нэмнэ"
+
+msgid "Interface language"
+msgstr "интерфэйс хэл"
+
+msgid "How other people see this page"
+msgstr "Хэрхэн бусад хүмүүс энэ хуудаснаас үзнэ үү"
+
+msgid "Video with me"
+msgstr "Надтай хамт Видео"
+
+msgid "Groups"
+msgstr "бүлэг"
+
+msgid "Registered today"
+msgstr "Бүртгэгдсэн өнөөдөр"
+
+msgid "Qty"
+msgstr "Qty"
+
+msgid "No registered users yet"
+msgstr "Одоогоор ямар ч бүртгэлтэй хэрэглэгч"
+
+msgid "Total"
+msgstr "Нийт"
+
+msgid "Registered total"
+msgstr "Бүртгэгдсэн нийт"
+
+msgid "You received a file"
+msgstr "Та файлыг хүлээн авсан"
+
+msgid "You were invited into this room"
+msgstr "Та энэ өрөөнд орж урьж байна"
+
+msgid "Request is being processed"
+msgstr "Нийтэлсэн боловсруулж байна"
+
+msgid "Fax"
+msgstr "Факс"
+
+msgid "Messenger"
+msgstr "Messenger"
+
+msgid "New subproject"
+msgstr "Шинэ дэд төсөл"
+
+msgid "messages written."
+msgstr "мессеж бичсэн ."
+
+msgid "projects created based on groups."
+msgstr "төсөл бүлгийн үндэслэн бий болгосон байна."
+
+msgid "users registered on website."
+msgstr "хэрэглэгч сайт дээр бүртгэлтэй ."
+
+msgid "New email"
+msgstr "Шинэ и-мэйл"
+
+msgid "Confirm email"
+msgstr "И-мэйл баталгаажуулна"
+
+msgid "New password"
+msgstr "Шинэ нууц үг"
+
+msgid "Confirm password"
+msgstr "нууц үгээ баталгаажуулна уу"
+
+msgid "Occupation"
+msgstr "мэргэжлүүд"
+
+msgid "Timezone"
+msgstr "өөрийнхөө цагийн бүсийг"
+
+msgid "Answer"
+msgstr "Хариулт"
+
+msgid "Articles"
+msgstr "зүйл"
+
+msgid "Article"
+msgstr "дугаар зүйл"
+
+msgid "Video-article"
+msgstr "Видео нийтлэл"
+
+msgid "Find article..."
+msgstr "Нийтлэл хай ..."
+
+msgid "Politics"
+msgstr "улс төр"
+
+msgid "Economics"
+msgstr "Эдийн засгийн"
+
+msgid "Community"
+msgstr "Олон нийтийн"
+
+msgid "Culture"
+msgstr "Соёл"
+
+msgid "Sports"
+msgstr "Спорт"
+
+msgid "Hi-tech"
+msgstr "Сайн байна уу технологийн"
+
+msgid "Cars"
+msgstr "Машин"
+
+msgid "Fashion"
+msgstr "Fashion"
+
+msgid "Games"
+msgstr "Тоглоом"
+
+msgid "Other"
+msgstr "Бусад"
+
+msgid "Invalid mediafile"
+msgstr "Буруу mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Одоогоор энэ ангилалд ямар ч зүйл"
+
+msgid "Back to profile"
+msgstr "Буцах хэмжээ нь"
+
+msgid "View article"
+msgstr "харах дугаар"
+
+msgid "Edit article"
+msgstr "Засах дугаар"
+
+msgid "Create article"
+msgstr "нийтлэл бий болгох"
+
+msgid "Article title"
+msgstr "дугаар нэр"
+
+msgid "Article section"
+msgstr "дугаар хэсэг"
+
+msgid "Choose image"
+msgstr "дүрсийг сонгоно уу"
+
+msgid "Save and upload"
+msgstr "Хадгалж, байршуулахыг"
+
+msgid "Show more..."
+msgstr "Дэлгэрэнгүй үзүүл ..."
+
+msgid "Create"
+msgstr "бий болгох"
+
+msgid "Edit"
+msgstr "Засах"
+
+msgid "Project"
+msgstr "төсөл"
+
+msgid "Team"
+msgstr "багийн"
+
+msgid "A new article was published"
+msgstr "Шинэ дугаар хэвлэгдэн гарсан байна"
+
+msgid "You joined this project"
+msgstr "Та энэ төслийг нэгдсэн"
+
+msgid "Enter your information in the User settings"
+msgstr "Хэрэглэгчийн тохиргоо нь таны мэдээллийг оруулна уу"
+
+msgid "Communities"
+msgstr "Хамтлагуудын"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Миний амжилт Видео танилцуулга"
+
+msgid "My articles"
+msgstr "миний нийтлэл"
+
+msgid "User"
+msgstr "Хэрэглэгчийн"
+
+msgid "Users"
+msgstr "Хэрэглэгчид нь"
+
+msgid "Add new list"
+msgstr "Шинэ жагсаалтыг нэмнэ"
+
+msgid "List title"
+msgstr "жагсаалт нэр"
+
+msgid "Add"
+msgstr "нэмнэ"
+
+msgid "Add to favorites"
+msgstr "Дуртай нэмэх"
+
+msgid "Delete from favorites"
+msgstr "Дуртай устгах"
+
+msgid "Select list"
+msgstr "Сонгох жагсаалт"
+
+msgid "Subscriptions"
+msgstr "мэдээ захиалах"
+
+msgid "Subscribe"
+msgstr "бүртгүүлэх"
+
+msgid "Unsubscribe"
+msgstr "хасахын"
+
+msgid "General list"
+msgstr "Ерөнхий жагсаалт"
+
+msgid "No users in this list"
+msgstr "Энэ жагсаалтад ямар ч хэрэглэгч"
+
+msgid "Publish"
+msgstr "нийтэл"
+
+msgid "Unpublish"
+msgstr "Unpublish"
+
+msgid "Add user"
+msgstr "хэрэглэгч нэмнэ"
+
+msgid "Create document"
+msgstr "баримт бичиг бүрдүүлэх"
+
+msgid "Edit document"
+msgstr "Засах баримт бичиг"
+
+msgid "View"
+msgstr "харах"
+
+msgid "Document title"
+msgstr "Баримт бичгийн нэр"
+
+msgid "Find document..."
+msgstr "Баримт бичгийг хай ..."
+
+msgid "Share your thoughts"
+msgstr "Таны бодол хуваалц"
+
+msgid "Leave your comment"
+msgstr "Таны сэтгэгдэл үлдээгээрэй"
+
+msgid "Accept"
+msgstr "хүлээн зөвшөөр"
+
+msgid "Decline"
+msgstr "бууралт"
+
+msgid "Add article"
+msgstr "нийтлэл нэмнэ"
+
+msgid "Link to verified accomplishments"
+msgstr "Баталгаажуулсан амжилт холбоос"
+
+msgid "No articles here yet..."
+msgstr "Гэтэл ямар ч зүйл ..."
+
+msgid "Find file or folder..."
+msgstr "Файл эсвэл хавтсыг хай ..."
+
+msgid "Sort"
+msgstr "Эрэмбэлэх"
+
+msgid "By name"
+msgstr "нэр нь"
+
+msgid "By date"
+msgstr "хугацаанаас нь"
+
+msgid "By updated date"
+msgstr "Шинэчилсэн огноо гэхэд"
+
+msgid "By size"
+msgstr "хэмжээ нь"
+
+msgid "By type"
+msgstr "төрөл дагуу"
+
+msgid "Move"
+msgstr "Move"
+
+msgid "File Manager"
+msgstr "Файл менежер"
+
+msgid "Share link"
+msgstr "Share холбоос"
+
+msgid "Responsible"
+msgstr "Хариуцлагатай"
+
+msgid "Performer"
+msgstr "Performer"
+
+msgid "New Folder"
+msgstr "Шинэ хавтас"
+
+msgid "Folder name"
+msgstr "Folder нэр"
+
+msgid "By default"
+msgstr "Анхны утгаараа"
+
+msgid "Back to group"
+msgstr "Бүлэг рүү буцах"
+
+msgid "year(s)"
+msgstr "жил (ууд)"
+
+msgid "January"
+msgstr "оны нэгдүгээр сарын"
+
+msgid "February"
+msgstr "хоёрдугаар сар"
+
+msgid "March"
+msgstr "Гуравдугаар сарын"
+
+msgid "April"
+msgstr "Дөрөвдүгээр сар"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "Долоодугаар сар"
+
+msgid "August"
+msgstr "Наймдугаар сар"
+
+msgid "September"
+msgstr "Есдүгээр"
+
+msgid "October"
+msgstr "Аравдугаар сар"
+
+msgid "November"
+msgstr "Арваннэгдүгээр"
+
+msgid "December"
+msgstr "Арванхоёрдугаар сар"
+
+msgid "Password Reminder"
+msgstr "нууц үг сануулах"
+
+msgid "Log In"
+msgstr "Нэвтрэх"
+
+msgid "Sign in"
+msgstr "нэвтрэх"
+
+msgid "Register"
+msgstr "Бүртгүүлэх"
+
+msgid "First name"
+msgstr "Нэр"
+
+msgid "Last name"
+msgstr "Өнгөрсөн нэр"
+
+msgid "I agree with rules"
+msgstr "Би журмын санал нийлж"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Баталгаажуулах мэйл таны мэйл хаяг руу илгээсэн байна."
+
+msgid "Thanks"
+msgstr "баярлалаа"
+
+msgid "Password must be at least 6 characters"
+msgstr "Нууц үг дор хаяж 6 тэмдэгт байх ёстой"
+
+msgid "Creative Environment"
+msgstr "бүтээлч орчин"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Та энэ үйлчилгээг хэрэглэх насны доод тал нь арван гурван настай байх хэрэгтэй"
+
+msgid "Order status"
+msgstr "Захиалга байдал"
+
+msgid "Processing order"
+msgstr "боловсруулах дараалал"
+
+msgid "Requires a payment"
+msgstr "Нь төлбөр шаарддаг"
+
+msgid "Shipping"
+msgstr "Хүргэлт"
+
+msgid "Ready"
+msgstr "Бэлэн"
+
+msgid "Thank you for your payment"
+msgstr "Таны төлбөр баярлалаа"
+
+msgid "Your payment has been cancelled"
+msgstr "Таны төлбөр цуцлагдсан байна"
+
+msgid "page"
+msgstr "хуудас"
+
+msgid "Rent period"
+msgstr "Түрээсийн хугацаа"
+
+msgid "Total, month"
+msgstr "Нийт сар"
+
+msgid "Order items"
+msgstr "Захиалга зүйлс"
+
+msgid "No records found"
+msgstr "Ямар ч баримт олдлоо"
+
+msgid "User with this email is already exist"
+msgstr "Энэ и-мэйл нь хэрэглэгчийн аль хэдийн байгаа юм"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Ийм нэртэй хавтас, файлын аль хэдийн очих хавтсанд байгаа юм"
+
+msgid "Minimal quantity"
+msgstr "хамгийн бага тоо хэмжээ"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "хэвлэх хуулбар"
+
+msgid "Terms of Use"
+msgstr "Хэрэглэх нөхцөл"
+
+msgid "Privacy Policy"
+msgstr "Нууцлалын бодлого"
+
+msgid "Find project..."
+msgstr "Төслийг хай ..."
+
+msgid "New Project"
+msgstr "Шинэ төсөл"
+
+msgid "Accounts"
+msgstr "Бүртгэлд"
+
+msgid "Operations"
+msgstr "үйл ажиллагаа"
+
+msgid "All accounts"
+msgstr "бүх данс"
+
+msgid "All categories"
+msgstr "Бvх ангилал"
+
+msgid "Expense"
+msgstr "зардал"
+
+msgid "Income"
+msgstr "орлогын"
+
+msgid "Transfer"
+msgstr "Дамжуулах"
+
+msgid "Expense"
+msgstr "зардал"
+
+msgid "income"
+msgstr "орлогын"
+
+msgid "tax"
+msgstr "татварын"
+
+msgid "percent"
+msgstr "хувь"
+
+msgid "transfer"
+msgstr "шилжүүлэх"
+
+msgid "Make operation"
+msgstr "үйл ажиллагааг хийх"
+
+msgid "Select date"
+msgstr "Сонгох огноо"
+
+msgid "Select account"
+msgstr "Сонгох данс"
+
+msgid "Month"
+msgstr "Сараар"
+
+msgid "Quarter"
+msgstr "улирал"
+
+msgid "Year"
+msgstr "жил"
+
+msgid "From"
+msgstr "эхлэн"
+
+msgid "To"
+msgstr "хэрэгтэй"
+
+msgid "Expense amount"
+msgstr "зардал хэмжээ"
+
+msgid "Categories"
+msgstr "ангилал"
+
+msgid "Comments"
+msgstr "Сэтгэгдэл"
+
+msgid "Income amount"
+msgstr "орлогын хэмжээ"
+
+msgid "Transfer amount"
+msgstr "Дамжуулах хэмжээ"
+
+msgid "From account"
+msgstr "данс эхлэн"
+
+msgid "To account"
+msgstr "данс тулд"
+
+msgid "New Account"
+msgstr "Шинэ хаяг"
+
+msgid "New Category"
+msgstr "Шинэ Ангилал"
+
+msgid "All"
+msgstr "мэдээлэл"
+
+msgid "Name"
+msgstr "нэр"
+
+msgid "Enter category name"
+msgstr "Зэрэг нэрийг оруулна уу"
+
+msgid "Select type"
+msgstr "Сонгох төрөл"
+
+msgid "Credit card"
+msgstr "Кредит карт"
+
+msgid "Debit card"
+msgstr "Зээлийн карт"
+
+msgid "Bank account"
+msgstr "банкны данс"
+
+msgid "Cash"
+msgstr "бэлэн мөнгө"
+
+msgid "Balance is empty"
+msgstr "Тэнцэл хоосон байна"
+
+msgid "Statistic is empty"
+msgstr "Статистик хоосон байна"
+
+msgid "Regular payments"
+msgstr "тогтмол төлбөр"
+
+msgid "Are you sure ?"
+msgstr "Та итгэлтэй байна уу?"
+
+msgid "Are you sure to close this project?"
+msgstr "Та энэ төслийг хаах хэрэгтэй байна уу?"
+
+msgid "Project was deleted successfully"
+msgstr "Төсөл амжилттай устгасан байна"
+
+msgid "Select currency"
+msgstr "Сонгох валютын"
+
+msgid "Account"
+msgstr "Дансны"
+
+msgid "Orders list"
+msgstr "захиалга жагсаалт"
+
+msgid "Order payments"
+msgstr "Захиалгын төлбөр"
+
+msgid "View order"
+msgstr "харах захиалга"
+
+msgid "No response from Printer API"
+msgstr "Хэвлэгч API нь ямар ч хариу арга хэмжээ"
+
+msgid "Bad response from Printer API"
+msgstr "Хэвлэгч API -аас Муу хариу"
+
+msgid "User ID"
+msgstr "Хэрэглэгчийн ID"
+
+msgid "Contact Person"
+msgstr "Холбогдох хүн"
+
+msgid "No orders to process"
+msgstr "Ямар ч захиалга боловсруулах"
+
+msgid "Article announce image"
+msgstr "Дугаар зураг зарлах"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Буруу видео URL . Хоосон орхино уу , эсвэл хүчин төгөлдөр YouTube URL оруулах"
+
+msgid "Please, enter Contractor data"
+msgstr "Гүйцэтгэгч мэдээлэл оруулна уу"
+
+msgid "Distribute devices"
+msgstr "төхөөрөмжүүдийг тараах"
+
+msgid "Quantity"
+msgstr "тоо хэмжээ"
+
+msgid "Devices left"
+msgstr "Төхөөрөмж зүүн"
+
+msgid "Distributed devices"
+msgstr "Тархсан төхөөрөмжүүд"
+
+msgid "You must enter quantity"
+msgstr "Та тоо оруулна уу"
+
+msgid "All devices are distributed"
+msgstr "Бүх төхөөрөмжүүд нь тархсан байна"
+
+msgid "IP address"
+msgstr "IP хаяг"
+
+msgid "Only for printer"
+msgstr "Зөвхөн хэвлэгч дээр байгаа хэвлэх"
+
+msgid "Counter"
+msgstr "Биеэр"
+
+msgid "You was excluded from this room"
+msgstr "Та энэ өрөөнд хассан байна"
+
+msgid "Compare"
+msgstr "харьцуулах"
+
+msgid "Scheduled transaction"
+msgstr "ОУХДНС гүйлгээ"
+
+msgid "Select transfer account"
+msgstr "Сонгох шилжүүлэх данс"
+
+msgid "Select income account"
+msgstr "Сонгох орлогын данс"
+
+msgid "Reports"
+msgstr "тайлан"
+
+msgid "Goals"
+msgstr "Зорилго"
+
+msgid "Budgets"
+msgstr "Төсвийг"
+
+msgid "Enter user name or email..."
+msgstr "Хэрэглэгчийн нэр эсвэл и-мэйл оруулна уу ..."
+
+msgid "Invite had been sended"
+msgstr "Sended байсан урих"
+
+msgid "Statistics"
+msgstr "Статистик"
+
+msgid "Updated site began to work"
+msgstr "Шинэчлэгдсэн сайт ажиллаж эхэлсэн"
+
+msgid "City of residence"
+msgstr "Оршин суугаа хот"
+
+msgid "Edit favourites list"
+msgstr "Засах дуртай жагсаалт"
+
+msgid "Add favourites list"
+msgstr "Дуртай жагсаалтыг нэмнэ"
+
+msgid "Categories is required"
+msgstr "Ангилал шаардлагатай"
+
+msgid "Type new category name and hit Enter"
+msgstr "Шинэ ангилал нэрийг бичээд дараарай"
+
+msgid "You created an order"
+msgstr "Та захиалга бий"
+
+msgid "You received a device due to this order"
+msgstr "Та улмаас энэ үүднээс нь хүлээж авсан төхөөрөмж"
+
+msgid "%s attached %s to task %s"
+msgstr "% -ийн хавсаргасан % -ийн % -ийн байх үүрэг"
+
+msgid "member(s)"
+msgstr "гишүүн (ууд)"
+
+msgid "%s commented task %s"
+msgstr "% -ийн тайлбар ажил % -ийн"
+
+msgid "%s closed task %s"
+msgstr "% -ийн хаалттай ажил % -ийн"
+
+msgid "%s created task %s"
+msgstr "% -ийн бүтээсэн ажил % -ийн"
+
+msgid "%s created this project"
+msgstr "% -ийн энэ төслийг бүтээсэн"
+
+msgid "%s created subproject \"%s\""
+msgstr "% ийн бий болгосон дэд төсөл \"% S\""
+
+msgid "%s closed project \"%s\""
+msgstr "% -ийн хаалттай төсөл \"% S\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "% -ийн хаалттай дэд төсөл \"% S\""
+
+msgid "This field must not be blank"
+msgstr "Энэ талбар нь хоосон байж болохгүй"
+
+msgid "Document with such name is already exist"
+msgstr "Ийм нэртэй баримт бичиг нь аль хэдийн оршиж байна"
+
+msgid "Wait until image upload"
+msgstr "Зураг оруулах дуустал хүлээх хэрэгтэй"
+
+msgid "Video"
+msgstr "Видео"
+
+msgid "Message can not be empty"
+msgstr "Зурвас хоосон байж болохгүй"
+
+msgid "Yes"
+msgstr "Тийм"
+
+msgid "No"
+msgstr "ямар ч"
+
+msgid "Created"
+msgstr "Үүсгэсэн"
+
+msgid "Compare is empty"
+msgstr "Хоосон байна харьцуулах"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Та үйл ажиллагааг устгахдаа итгэлтэй байна"
+
+msgid "Do you really want to delete transaction"
+msgstr "Та үнэхээр гүйлгээг устгахыг хүсэж байна уу"
+
+msgid "Project with same name already exists"
+msgstr "Ижил нэртэй төсөл нь аль хэдийн орсон байдаг"
+
+msgid "Account is not found"
+msgstr "Дансны олж чадаагүй байна"
+
+msgid "Currency is required"
+msgstr "Валютын шаардлагатай"
+
+msgid "error while deleting document"
+msgstr "Алдаа баримт бичгийг устгах , харин"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Та энэ өрөөнд хэрэглэгч \" % S \" урьсан"
+
+msgid "User \"%s\" joined this room"
+msgstr "Хэрэглэгчийн \"% -ийн \" Энэ өрөөнд орсон"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Та энэ өрөөнөөс хэрэглэгч \" % S \" хассан"
+
+msgid "User \"%s\" left this room"
+msgstr "Хэрэглэгчийн \"% -ийн \" Энэ өрөөнөөс"
+
+msgid "Add account"
+msgstr "данс нэмэх"
+
+msgid "The requested page is not found"
+msgstr "Хүссэн хуудсыг олж чадаагүй байна"
+
+msgid "Document"
+msgstr "баримт бичиг"
+
+msgid "Table"
+msgstr "Хүснэгт"
+
+msgid "file(s)"
+msgstr "файл ( ууд)"
+
+msgid "Residue"
+msgstr "үлдэгдэл"
+
+msgid "Result is empty"
+msgstr "Үр дүн хоосон байна"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Нийт хэмжээ % -ийн Mo хувьд % -ийн байна"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Та холбогдох дансанд % -ийн сар бүр хадгалуулж байна"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "finish"
+msgstr "барианы"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Сонгогдсон данс өөр нэг зорилго нь ашиглагдаж байгаа бол"
+
+msgid "Amount required"
+msgstr "хэмжээ шаардлагатай"
+
+msgid "New goal"
+msgstr "Шинэ зорилт"
+
+msgid "Goal"
+msgstr "Зорилго"
+
+msgid "Goal name"
+msgstr "Зорилго нэр"
+
+msgid "Invalid date"
+msgstr "Буруу огноо"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Шаардлагатай нийлбэр эерэг тоо байх ёстой"
+
+msgid "Remain"
+msgstr "хэвээр"
+
+msgid "Last day"
+msgstr "Сүүлийн өдөр"
+
+msgid "Accumulated"
+msgstr "Хуримтлагдсан"
+
+msgid "Put aside"
+msgstr "хажуу тийш тавих"
+
+msgid "January"
+msgstr "оны нэгдүгээр сарын"
+
+msgid "February"
+msgstr "хоёрдугаар сар"
+
+msgid "March"
+msgstr "Гуравдугаар сарын"
+
+msgid "April"
+msgstr "Дөрөвдүгээр сар"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "Долоодугаар сар"
+
+msgid "August"
+msgstr "Наймдугаар сар"
+
+msgid "September"
+msgstr "Есдүгээр"
+
+msgid "October"
+msgstr "Аравдугаар сар"
+
+msgid "November"
+msgstr "Арваннэгдүгээр"
+
+msgid "December"
+msgstr "Арванхоёрдугаар сар"
+
+msgid "Expenses projected/actual"
+msgstr "Төсөөлөл / бодит зардал"
+
+msgid "Net Income projected/actual"
+msgstr "Цэвэр орлого / бодит тооцоо"
+
+msgid "New budget"
+msgstr "Шинэ төсөв"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Орлого, зардал Chart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Мөн дансны хос болон ангилалд нь төсвийн аль хэдийн байна"
+
+msgid "Budget is empty"
+msgstr "Төсвийн хоосон байна"
+
+msgid "Budget"
+msgstr "төсвийн"
+
+msgid "plan"
+msgstr "төлөвлөгөө"
+
+msgid "fact"
+msgstr "баримт"
+
+msgid "diff"
+msgstr "ялгаа"
+
+msgid "Show More"
+msgstr "дэлгэрэнгүй харуулах"
+
+msgid "Cancel"
+msgstr "Болих"
+
+msgid "d"
+msgstr "г"
+
+msgid "h"
+msgstr "цаг"
+
+msgid "min"
+msgstr "мин"
+
+msgid "My sales"
+msgstr "Миний борлуулалт"
+
+msgid "Time spent"
+msgstr "цаг хугацаа зарцуулсан"
+
+msgid "Total time spent"
+msgstr "Нийт цаг зарцуулсан"
+
+msgid "Earnings per hour"
+msgstr "Цагт Орлогын"
+
+msgid "Total earnings"
+msgstr "Нийт орлого"
+
+msgid "Call"
+msgstr "Дуудлага"
+
+msgid "Phone call"
+msgstr "Утасны дуудлага"
+
+msgid "Telephone calls"
+msgstr "Утас дуудлага"
+
+msgid "Send email"
+msgstr "И-мэйл илгээх"
+
+msgid "Emails"
+msgstr "и-мэйл"
+
+msgid "Meeting"
+msgstr "уулзалт"
+
+msgid "Meetings"
+msgstr "хурал"
+
+msgid "All events"
+msgstr "Бүх үйл явдал"
+
+msgid "Task"
+msgstr "Даалгавар"
+
+msgid "Event"
+msgstr "Үйл"
+
+msgid "Events"
+msgstr "үйл явдал"
+
+msgid "Time"
+msgstr "цаг хугацаа"
+
+msgid "Events statistics"
+msgstr "үйл явдал статистик"
+
+msgid "days"
+msgstr "хоног"
+
+msgid "hours"
+msgstr "цаг"
+
+msgid "minutes"
+msgstr "минут"
+
+msgid "Income & expense"
+msgstr "Орлого ба зардал"
+
+msgid "Show chart"
+msgstr "харуулах зураг"
+
+msgid "Hide chart"
+msgstr "Нуух зураг"
+
+msgid "Add event"
+msgstr "үйл явдал нэмэх"
+
+msgid "Add financial data"
+msgstr "Санхүүгийн мэдээллийг нэмнэ"
+
+msgid "Select contractor"
+msgstr "Сонгох гүйцэтгэгч"
+
+msgid "Net Income"
+msgstr "Нийт орлого"
+
+msgid "Revenue"
+msgstr "Орлогын"
+
+msgid "Taxes"
+msgstr "татвар"
+
+msgid "Amount planned"
+msgstr "хэмжээ төлөвлөсөн"
+
+msgid "Amount"
+msgstr "хэмжээ"
+
+msgid "Period"
+msgstr "хугацаа"
+
+msgid "Are you sure to close this task?"
+msgstr "Та энэ үйлдлийг хаах хэрэгтэй байна уу?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "Бүх бүлэг"
+
+msgid "added from task"
+msgstr "ажил нэмэгдсэн"
+
+msgid "Monthly repeat"
+msgstr "сарын давтан"
+
+msgid "Select category"
+msgstr "ангилал сонгох"
+
+msgid "Event type"
+msgstr "Үйл төрөл"
+
+msgid "Margin"
+msgstr "Margin"
+
+msgid "Use finance project"
+msgstr "Санхүү төслийн ашиглах"
+
+msgid "New investment project"
+msgstr "Шинэ хөрөнгө оруулалтын төсөл"
+
+msgid "Investment project settings"
+msgstr "Хөрөнгө оруулалтын төсөл тохиргоо"
+
+msgid "Picture, for the announcement project"
+msgstr "Зар төсөл Зураг ,"
+
+msgid "Announcement project"
+msgstr "Зарлал төсөл"
+
+msgid "Video"
+msgstr "Видео"
+
+msgid "Photos or videos gallery"
+msgstr "Фото болон видео цомог"
+
+msgid "required amount"
+msgstr "шаардлагатай хэмжээ"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Төслийн үргэлжлэх хугацаа ( дээд тал нь 60 хоног )"
+
+msgid "Project duration"
+msgstr "Төслийн үргэлжлэх хугацаа"
+
+msgid "Add reward"
+msgstr "шагнал нэмнэ"
+
+msgid "Delivery date"
+msgstr "Хүргэлтийн өдөр"
+
+msgid "Payment systems"
+msgstr "Төлбөрийн систем"
+
+msgid "Terms of service"
+msgstr "Үйлчилгээний нөхцөл"
+
+msgid "Agreement"
+msgstr "гэрээ"
+
+msgid "Payment"
+msgstr "төлбөр хийх"
+
+msgid "My projects"
+msgstr "Миний төслүүд"
+
+msgid "Search result"
+msgstr "Хайлтын үр дүн"
+
+msgid "Nothing not found"
+msgstr "Юу ч олж чадаагүй"
+
+msgid "The project has no sponsors"
+msgstr "Төслийн ямар ч ивээн тэтгэгч байна"
+
+msgid "Design"
+msgstr "зураг төсөл"
+
+msgid "Food"
+msgstr "Хүнс"
+
+msgid "Journalism"
+msgstr "Сэтгүүл"
+
+msgid "Games"
+msgstr "Тоглоом"
+
+msgid "Art"
+msgstr "Урлаг"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "хөгжим"
+
+msgid "Handicrafts"
+msgstr "Гар урлал"
+
+msgid "Publishing"
+msgstr "хэвлэлийн"
+
+msgid "Theater"
+msgstr "театр"
+
+msgid "Technology"
+msgstr "Технологийн"
+
+msgid "Film/Video"
+msgstr "Кино / видео"
+
+msgid "Photo"
+msgstr "Гэрэл зураг"
+
+msgid "Dance"
+msgstr "бүжгийн"
+
+msgid "Invalid youtube video"
+msgstr "Буруу ийн YouTube-ийн видео"
+
+msgid "is required"
+msgstr "шаардлагатай байна"
+
+msgid "User"
+msgstr "Хэрэглэгчийн"
+
+msgid "Date"
+msgstr "огноо"
+
+msgid "Collected"
+msgstr "цуглуулж"
+
+msgid "Choose period"
+msgstr "хугацааг сонгоно уу"
+
+msgid "Choose region"
+msgstr "бүс нутгийн сонгоно уу"
+
+msgid "Country"
+msgstr "Улс"
+
+msgid "Today"
+msgstr "Өнөөдөр"
+
+msgid "Week"
+msgstr "долоо хоног"
+
+msgid "Month"
+msgstr "Сараар"
+
+msgid "Year"
+msgstr "жил"
+
+msgid "Free registration"
+msgstr "Чөлөөт бүртгэл"
+
+msgid "Join"
+msgstr "нэгдээрэй"
+
+msgid "Log in using"
+msgstr "Ашиглан Нэвтрэх"
+
+msgid "Vacancies"
+msgstr "Ажилд орох боломж"
+
+msgid "About Us"
+msgstr "Бидний тухай"
+
+msgid "You will need email to log in"
+msgstr "Та нэвтрэн орох и-мэйл хэрэгтэй болно"
+
+msgid "A combination of 6 digits and characters"
+msgstr "6 оронтой тоо болон тэмдэгт хослол"
+
+msgid "Search users, groups, articles..."
+msgstr "Хайлтын хэрэглэгч , бүлэг, зүйл ..."
+
+msgid "Cloud"
+msgstr "Cloud"
+
+msgid "Sunday"
+msgstr "Ням гараг"
+
+msgid "Monday"
+msgstr "Даваа гариг"
+
+msgid "Tuesday"
+msgstr "Мягмар"
+
+msgid "Wednesday"
+msgstr "Лхагва"
+
+msgid "Thursday"
+msgstr "Пүрэв"
+
+msgid "Friday"
+msgstr "Баасан гариг"
+
+msgid "Saturday"
+msgstr "Бямба"
+
+msgid "Edit"
+msgstr "Засах"
+
+msgid "Create group"
+msgstr "бүлэг үүсгэх"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Хэрэв та энэ хуудсыг орхин хүсч Та итгэлтэй байна уу?"
+
+msgid "More"
+msgstr "дэлгэрэнгүй"
+
+msgid "Less"
+msgstr "бага"
+
+msgid "Pending"
+msgstr "хүлээгдэж байгаа"
+
+msgid "Approved"
+msgstr "батлагдсан"
+
+msgid "Rejected"
+msgstr "татгалзсан"
+
+msgid "Subprojects"
+msgstr "дэд төслүүд"
+
+msgid "Group edit"
+msgstr "Групп засварлах"
+
+msgid "Startup"
+msgstr "эхлүүлэх"
+
+msgid "Tattoo"
+msgstr "Tattoo"
+
+msgid "Health"
+msgstr "Эрүүл мэнд"
+
+msgid "Weapon"
+msgstr "зэвсэг"
+
+msgid "Astronomy"
+msgstr "Одон орон"
+
+msgid "All articles"
+msgstr "Бүх зүйл"
+
+msgid "Article editor"
+msgstr "дугаар зүйл редактор"
+
+msgid "Document editor"
+msgstr "Бичиг баримт редактор"
+
+msgid "Apply changes"
+msgstr "өөрчлөлт хийх"
+
+msgid "Save changes?"
+msgstr "Өөрчлөлт ивээх ?"
+
+msgid "published an article"
+msgstr "нийтлэл хэвлэгдсэн"
+
+msgid "Users"
+msgstr "Хэрэглэгчид нь"
+
+msgid "Shared With Me"
+msgstr "Надтай хуваалцсан"
+
+msgid "share"
+msgstr "хувь"
+
+msgid "Select Group Responsible"
+msgstr "Групп Хариуцлагатай сонгоно уу"
+
+msgid "Create folder"
+msgstr "хавтас үүсгэх"
+
+msgid "Title must be at least 3 characters"
+msgstr "Гарчиг 3-аас доошгүй тэмдэгт байх ёстой"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Чөлөөт 10 GB , санхүүгийн менежер, модуль хөрөнгө оруулалт хийх , мөн үүрд чөлөөтэй, олон бусад"
+
+msgid "Best regards"
+msgstr "хүндэтгэсэн"
+
+msgid "Updates in last 12 hours:"
+msgstr "Сүүлийн 12 цагийн дотор Шинэчлэлтүүд нь :"
+
+msgid "expense"
+msgstr "зардал"
+
+msgid "Commentary on the event:"
+msgstr "Үйл явдлын тухай тайлбар :"
+
+msgid "Event place"
+msgstr "Үйл газар"
+
+msgid "Project was updated"
+msgstr "Төслийн шинэчлэгдсэн"
+
+msgid "Project was created"
+msgstr "Төслийн бий болгосон"
+
+msgid "Project was closed"
+msgstr "Төслийн хаалттай байна"
+
+msgid "account"
+msgstr "данс"
+
+msgid "removed task"
+msgstr "арилгасан ажил"
+
+msgid "removed subproject"
+msgstr "арилгасан дэд төсөл"
+
+msgid "Title can not be empty"
+msgstr "Гарчиг нь хоосон байж болохгүй"
+
+msgid "Do not select the type of event"
+msgstr "Үйл явдал төрлийг бүү сонго"
+
+msgid "Error while saving comment"
+msgstr "Алдаа сэтгэгдэл хэмнэх бол"
+
+msgid "Save error: access denied"
+msgstr "Алдаа Save : хандахыг хориглодог"
+
+msgid "Remains"
+msgstr "үлдэнэ"
+
+msgid "Time spent, h."
+msgstr "Цаг хугацаа , цаг зарцуулсан байна."
+
+msgid "Emails"
+msgstr "и-мэйл"
+
+msgid "Meetings"
+msgstr "хурал"
+
+msgid "All users"
+msgstr "Бүх хэрэглэгчид"
+
+msgid "Category"
+msgstr "Ангилал"
+
+msgid "Finance project"
+msgstr "Сангийн төсөл"
+
+msgid "Investment project"
+msgstr "Хөрөнгө оруулалтын төсөл"
+
+msgid "Nature"
+msgstr "Байгаль"
+
+msgid "Data is empty"
+msgstr "Мэдээллийн хоосон байна"
+
+msgid "Visitors"
+msgstr "Жуулчид"
+
+msgid "My profile"
+msgstr "Миний намтар"
+
+msgid "Sponsors"
+msgstr "Ивээн тэтгэгчид"
+
+msgid "Prior to completion"
+msgstr "Өмнө дуусах"
+
+msgid "Select"
+msgstr "сонгох"
+
+msgid "My groups"
+msgstr "Миний бүлэг"
+
+msgid "The invitation has been sent successfully"
+msgstr "Урилга амжилттай явуулсан байна"
+
+msgid "Username has already been invited to this project"
+msgstr "Хэрэглэгчийн нэр аль хэдийн энэ төсөлд урьж байна"
+
+msgid "The user is the creator of the project"
+msgstr "Хэрэглэгчийн төслийн бүтээгч"
+
+msgid "Provide full access"
+msgstr "Бүрэн боломжийг хангах"
+
+msgid "Select elements to provide access"
+msgstr "Нэвтрэх боломжийг олгох элементүүдийг сонгоно уу"
+
+msgid "Select all"
+msgstr "Бүгдийг сонго"
+
+msgid "User E-mail"
+msgstr "Хэрэглэгч И-мэйл"
+
+msgid "Click on the field to select a category"
+msgstr "Ангилал сонгох талбай дээр дарна уу"
+
+msgid "Invitation was deleted"
+msgstr "Урилга устгасан байна"
+
+msgid "Permission denied"
+msgstr "Permission үгүйсгэж"
+
+msgid "Printed"
+msgstr "Хэвлэсэн"
+
+msgid "Incorrect Contractor email"
+msgstr "Буруу и-мэйл гүйцэтгэгч"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Та менежер санхүүжүүлэх төсөл нэмэхийг хүсэж байна уу?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Бүртгэлийн үйл ажиллагааг дуусгахын тулд өөрийн ур чадварыг доош нь бөглөнө үү"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Нэмэлт заавар бүхий мэйл таны мэйл хаяг руу илгээсэн байна"
+
+msgid "Submit"
+msgstr "оруулах"
+
+msgid "Cars"
+msgstr "Машин"
+
+msgid "Science"
+msgstr "Шинжлэх ухаан"
+
+msgid "Donation"
+msgstr "хандив"
+
+msgid "Interests"
+msgstr "Сонирхол"
+
+msgid "Driver"
+msgstr "Жолооч"
+
+msgid "Sportsman"
+msgstr "Тамирчин"
+
+msgid "Businessman"
+msgstr "бизнесмэн"
+
+msgid "Accountant"
+msgstr "нягтлан бодогч"
+
+msgid "Engineer"
+msgstr "инженер"
+
+msgid "Soldier"
+msgstr "цэрэг"
+
+msgid "Next"
+msgstr "Дараачийн"
+
+msgid "Hide group"
+msgstr "Нуух бүлэг"
+
+msgid "groups created"
+msgstr "бүлэг бий"
+
+msgid "articles written"
+msgstr "нийтлэл бичсэн"
+
+msgid "These groups may be interesting for you"
+msgstr "Эдгээр бүлгүүд нь та нарт сонирхолтой байж болох юм"
+
+msgid "About Group"
+msgstr "Группийн тухай"
+
+msgid "view(s)"
+msgstr "харах (ууд)"
+
+msgid "Favorite users"
+msgstr "Дуртай хэрэглэгчид"
+
+msgid "No accounts"
+msgstr "Ямар ч данс"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook-ийн эрх бүхий чадаагүй."
+
+msgid "Authorization Required"
+msgstr "Эрх бүхий Шаардлагатай"
+
+msgid "You have to make a call:"
+msgstr "Та дуудлага хийх хэрэгтэй:"
+
+msgid "You have to send an email:"
+msgstr "Та и-мэйл илгээх хэрэгтэй:"
+
+msgid "You have a meetup:"
+msgstr "Та meetup байна:"
+
+msgid "You event :"
+msgstr "Та нар үйл явдал :"
+
+msgid "Participants:"
+msgstr "оролцогчид:"
+
+msgid "Search"
+msgstr "хайх"
+
+msgid "News"
+msgstr "Мэдээ, мэдээлэл"
+
+msgid "Investments"
+msgstr "хөрөнгө оруулалт"
+
+msgid "Back to Cloud"
+msgstr "Буцах үүлэн нь"
+
+msgid "Documents"
+msgstr "баримт бичиг"
+
+msgid "Planet"
+msgstr "Planet"
+
+msgid "Group url"
+msgstr "групп хаяг"
+
+msgid "Profile url"
+msgstr "URL мэдээлэл"
+
+msgid "Already taken"
+msgstr "Аль хэдийн авах"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Шаардлагатай наад зах нь 1-р бичиг , 3- тэмдэгтэд багтсан урт"
+
+msgid "Digit can not be the first character"
+msgstr "Оронтой эхний тэмдэгт нь байж болохгүй"
+
+msgid "Enter valid email address"
+msgstr "Хүчин төгөлдөр и-мэйл хаягаа оруулна уу"
+
+msgid "Enter your skills"
+msgstr "Таны ур чадвар оруулна уу"
+
+msgid "Enter your first name"
+msgstr "Таны нэрийг оруулна уу"
+
+msgid "Enter your last name"
+msgstr "Таны хамгийн сүүлд нэрийг оруулна уу"
+
+msgid "Enter your first name and last name"
+msgstr "Таны анхны нэр, овог оруулна уу"
+
+msgid "Your first name?"
+msgstr "Таны нэр ?"
+
+msgid "Your last name?"
+msgstr "Таны хамгийн сүүлд нэр нь ?"
+
+msgid "What are your proficiencies?"
+msgstr "Таны шалгалтыг ямар байна вэ?"
+
+msgid "Select country"
+msgstr "Сонгох улс"
+
+msgid "Select user"
+msgstr "Сонгох хэрэглэгч"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Таны мөрөөдлөө биелүүл ! Үүсгэх, хамтран ажиллаж байна."
+
+msgid "date moved from"
+msgstr "он сар өдөр нь нүүсэн"
+
+msgid "work"
+msgstr "ажил"
+
+msgid "Conference"
+msgstr "бага хурал"
+
+msgid "personal"
+msgstr "хувийн"
+
+msgid "Holiday"
+msgstr "амралтын"
+
+msgid "Past"
+msgstr "Өнгөрсөн"
+
+msgid "Future"
+msgstr "Ирээдүйн"
+
+msgid "Purchase"
+msgstr "Худалдан авах"
+
+msgid "Personal events"
+msgstr "Хувийн үйл явдал"
+
+msgid "Conferences"
+msgstr "Уулзалт"
+
+msgid "Holidays"
+msgstr "Баяр"
+
+msgid "Sport events"
+msgstr "Спортын арга хэмжээ"
+
+msgid "Tasks"
+msgstr "Асуудлууд"
+
+msgid "Other events"
+msgstr "Бусад үйл явдал"
+
+msgid "Set aside"
+msgstr "Савласан"
+
+msgid "Set aside"
+msgstr "Хойшлогдсон"
+
+msgid "Time management"
+msgstr "Цагийн Менежмент"
+
+msgid "Delayed events"
+msgstr "Хойшлогдсон үйл явдал"
+
+msgid "Delayed"
+msgstr "Хойшлогдсон"
+
+msgid "Bind to"
+msgstr "Оноох"
+
+msgid "answered your comment to"
+msgstr "Би (а) хуулийн талаар тайлбар хэлжээ"
+
+msgid "commented your article"
+msgstr "Би таны зүйлийн тухай тайлбар"
+
+msgid "You\'ve answered on comment to"
+msgstr "Та энэ хуулийн талаар тайлбар хариу"
+
+msgid "You\'ve commented an article"
+msgstr "Та энэ хуулийн талаар тайлбар"
+
+msgid "Terms and Conditions"
+msgstr "Нөхцөл"
+
+msgid "Privacy Policy"
+msgstr "Нууцлалын бодлого"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Дээр дарж та нар бидний санал, та уншиж байгаа гэж хүлээн зөвшөөрч байна \"дээр гарын үсэг зурах\" Манай"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Дэлхийн өнцөг булан бүрээс, бүтээлч хүмүүсийн олон нийтийн нэгдээрэй! Та хүлээн авах болно: хөрөнгө оруулалт хийх Таны санаа нь түүний баг цуглуулах боломж, хадгалалт, илүү 2 гигабайт, бүлэг, санхүүгийн менежер ажиллаж цагаа зохицуулах. Мөн энэ нь үнэгүй!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Уучлаарай, гэхдээ та хайж байгаа хуудас байхгүй байна. Та тэр буруутай гэж бодож байгаа бол биднийг холбоо барина уу"
+
+msgid "Return"
+msgstr "Буцах"
+
+msgid "COMMON"
+msgstr "Нийт"
+
+msgid "My events"
+msgstr "Миний үйл явдал"
+
+msgid "Job opening"
+msgstr "Шинэ ажлын байрны"
+
+msgid "Employment"
+msgstr "Хөдөлмөр эрхлэлтийн төрөл"
+
+msgid "Working hours"
+msgstr "Нээлтийн цаг"
+
+msgid "City"
+msgstr "Хот"
+
+msgid "Wages"
+msgstr "Цалин"
+
+msgid "Currency"
+msgstr "Валютын"
+
+msgid "Experience"
+msgstr "Туршлага"
+
+msgid "Full-time"
+msgstr "Бүрэн ажил эрхлэлт"
+
+msgid "Part-time"
+msgstr "Цагийн"
+
+msgid "Project employment"
+msgstr "Төсөл / Түр"
+
+msgid "Volunteer"
+msgstr "Сайн дурын"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "Бүтэн цаг"
+
+msgid "Shifts"
+msgstr "Солих хуваарь"
+
+msgid "Flexible shifts"
+msgstr "Уян хатан хуваарь"
+
+msgid "Remote work"
+msgstr "Алсын ажил"
+
+msgid "Rotational basis"
+msgstr "Shift арга"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Та Сэтгэгдлийг устгахыг хүсэж Та итгэлтэй байна уу?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Та энэ ажлыг устгахыг хүсэж Та итгэлтэй байна уу?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Хэрэв та энэ дэд төслийг устгахыг хүсэж Та итгэлтэй байна уу?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Та байрлалд компани хэрэглэж байна. Эсэхийг шалгах уу!"
+
+msgid "Your request to for job has been rejected"
+msgstr "Албан тушаалд нь компанид Таны хүсэлтийг татгалзсан байна"
+
+msgid "Your request to for job has been accepted"
+msgstr "Албан тушаалд нь компанид Таны хүсэлт гаргасан байна"
+
+msgid "profile is completed"
+msgstr "Таны мэдээллийг бүрэн"
+
+msgid "Use account"
+msgstr "Данс ашиглах"
+
+msgid "$/hr"
+msgstr "$ / Цаг"
+
+msgid "Finance category"
+msgstr "Санхүүгийн ангилал"
+
+msgid "No projects"
+msgstr "Ямар ч төсөл"
+
+msgid "Bind to finances"
+msgstr "Санхүүгийн төслийг оноох"
+
+msgid "Preview"
+msgstr "Харах"
+
+msgid "Download"
+msgstr "Татаж авах"
+
+msgid "Save to my cloud"
+msgstr "Архив хуулах"
+
+msgid "File successfully saved to your cloud"
+msgstr "Амжилттай таны архивт хадгалагдаж байгаа файл"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Таны архивт энэ файлыг хадгал?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Нь категори дугаар сонгох"
+
+msgid "Type something"
+msgstr "Ямар нэг зүйл бичих"
+
+msgid "Founded users"
+msgstr "Олдсон хэрэглэгчид"
+
+msgid "Founded articles"
+msgstr "Олдсон дугаар"
+
+msgid "Founded groups"
+msgstr "Байгуулагдсан бүлэг"
+
+msgid "What are your skills?"
+msgstr "Таны ур чадвар ямар байна вэ?"
+
+msgid "Select at least 2 interests"
+msgstr "Наад зах нь 2-р сонирхол сонгоно уу"
+
+msgid "Need more interests"
+msgstr "Бус, хангалттай хүүг сонгосон"
+
+msgid "What are you interesting in?"
+msgstr "Та сонирхож байна вэ?"
+
+msgid "You have no dialogs"
+msgstr "Та яриа байхгүй байна"
+
+msgid "Usage Stats"
+msgstr "Улсын"
+
+msgid "Founded files"
+msgstr "Файлууд Олдсон"
+
+msgid "Big tiles"
+msgstr "Том хавтан"
+
+msgid "Small tiles"
+msgstr "Жижиг Хавтанцар"
+
+msgid "Table view"
+msgstr "Хүснэгт харах"
+
+msgid "Root folder"
+msgstr "Эх сан"
+
+msgid "My files"
+msgstr "Миний файлууд"
+
+msgid "Save as draft"
+msgstr "Ноорог хэмээн хадгал"
+
+msgid "Buy More Space"
+msgstr "Илүү их зай худалдаж авах"
+
+msgid "Buy"
+msgstr "Одоо худалдаж авах"
+
+msgid "You have been invited to group as"
+msgstr "Та болгон бүлэгт урьж байна"
+
+msgid "User wants to join your group"
+msgstr "Хэрэглэгч өөрийн бүлэгт нэгдэх хүсэлтэй"
+
+msgid "Section is coming soon!"
+msgstr "Баригдаж Хэсэг!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Сүүлийн 24 цагийн дотор Үзсэн тоо:"
+
+msgid "Task was updated"
+msgstr "Ажил шинэчлэгдсэн"
+
+msgid "Task was closed"
+msgstr "Тулгамдсан асуудал хаалттай байна"
+
+msgid "Task was created"
+msgstr "Ажил болсон байна"
+
+msgid "Current balance"
+msgstr "Одоогийн тэнцэл"
+
+msgid "Add funds"
+msgstr "Нэмнэ"
+
+msgid "Pay"
+msgstr "Тооцоо хийх"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Та нэвтрэлтийн оролдлогуудаас тоог давсан байна. Та 15 минутын турш хаагдсан байна"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Таны и-мэйл баталгаажуулна уу. Шуудангаар танд илгээсэн захидал."
+
+msgid "Resend confirmation email"
+msgstr "Дахин баталгааг илгээх"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Сард диск 2 GB"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Жилд 10 GB Хөтчийн"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Диск нь 100 GB жил бүр"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Дискний 1 TB сар"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Жил бүр 1 TB Хөтчийн"
+
+msgid "Project members monthly"
+msgstr "Сар бүр төслийн оролцогчид"
+
+msgid "Project members yearly"
+msgstr "Жил бүр Төслийн оролцогчид"
+
+msgid "Member(s) yearly"
+msgstr "Жилд гишүүн (ууд)"
+
+msgid "Member(s) monthly"
+msgstr "Сар бүр гишүүн (ууд)"
+
+msgid "Authorized"
+msgstr "Эрх бүхий албан тушаалтан"
+
+msgid "Authorization expired"
+msgstr "Эрх бүхий хугацаа дууссан"
+
+msgid "Processor declined"
+msgstr "Татгалзсан боловсруулах систем"
+
+msgid "Gateway rejected"
+msgstr "Татгалзсан төлбөрийн гарц"
+
+msgid "Failed"
+msgstr "Алдаа"
+
+msgid "Voided"
+msgstr "Хүчингүй болгох"
+
+msgid "Submitted for settlement"
+msgstr "Хамруулах Явсан"
+
+msgid "Settlement declined"
+msgstr "Элсэлтийн татгалзсан байна"
+
+msgid "Settlement pending"
+msgstr "Хүлээгдэж буй хамран"
+
+msgid "Verified"
+msgstr "Шалгаж"
+
+msgid "Pending"
+msgstr "Хүлээгдэж байгаа"
+
+msgid "Active"
+msgstr "Идэвхтэй"
+
+msgid "Past Due"
+msgstr "Дууссан"
+
+msgid "Expired"
+msgstr "Дуусгавар болсон"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "Энэтхэг улс"
+
+msgid "Malaysia"
+msgstr "Малайз"
+
+msgid "Thailand"
+msgstr "Тайланд"
+
+msgid "South Korea"
+msgstr "Өмнөд Солонгос"
+
+msgid "Kazakhstan"
+msgstr "Казахстан"
+
+msgid "Israel"
+msgstr "Израиль"
+
+msgid "Ukraine"
+msgstr "Украйны"
+
+msgid "Belarus"
+msgstr "Беларусь"
+
+msgid "Bulgaria"
+msgstr "Болгар"
+
+msgid "Turkey"
+msgstr "Турк"
+
+msgid "Armenia"
+msgstr "Армени"
+
+msgid "Serbia"
+msgstr "Серби"
+
+msgid "Austria"
+msgstr "Австри"
+
+msgid "Poland"
+msgstr "Польш"
+
+msgid "Germany"
+msgstr "Герман"
+
+msgid "Italy"
+msgstr "Итали"
+
+msgid "Netherlands"
+msgstr "Нидерланд"
+
+msgid "Ireland"
+msgstr "Ирланд"
+
+msgid "United Kingdom"
+msgstr "Их Британи"
+
+msgid "Portugal"
+msgstr "Португал"
+
+msgid "Norway"
+msgstr "Норвеги"
+
+msgid "United States"
+msgstr "АНУ-ын"
+
+msgid "Canada"
+msgstr "Канад"
+
+msgid "Brazil"
+msgstr "Бразил"
+
+msgid "Saudi Arabia"
+msgstr "Саудын Араб"
+
+msgid "Canada"
+msgstr "Египет"
+
+msgid "Russia"
+msgstr "ОХУ-ын"
+
+msgid "Hong Kong"
+msgstr "Хонг Конгийн"
+
+msgid "There was no any transactions yet."
+msgstr "Одоогийн байдлаар, нэг ажил гүйлгээ байхгүй байсан"
+
+msgid "Fulfill your dream"
+msgstr "ТАНЫ мөрөөдлөө биелүүлж"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Бүх дэлхийн өнцөг булан бүрээс, бүтээлч хувь хүн манай олон нийтийн нэгдээрэй."
+
+msgid "Create and Collaborate"
+msgstr "Үүсгэх, хамтран ажиллах"
+
+msgid "Fulfill your dream"
+msgstr "Одоо мөрөөдлөө биелүүлж"
+
+msgid "or"
+msgstr "буюу"
+
+msgid "Our mission:"
+msgstr "Бидний даалгавар:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Бидний ирээдүйг болно гэсэн энгийн, авсан бөгөөд гайхалтай ер бусын, гайхалтай нь эрэлт санааг хэрэгжүүлэх, бүтээлч, идэвхтэй хүмүүст нэгтгэн хэрэгтэй."
+
+msgid "What is Konstruktor?"
+msgstr "Konstruktor гэж юу вэ?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - бидний жинхэнэ ихээхэн хөнгөвчилж амьдрал болон хялбаршуулж нэг хэсэг юм"
+
+msgid "*business processes"
+msgstr "* Бизнесийн үйл ажиллагаа"
+
+msgid "*materialization of creative ideas"
+msgstr "* Бүтээлч санаа materialization"
+
+msgid "*constructive cooperation"
+msgstr "* үүсмэл хамтын ажиллагаа"
+
+msgid "Make your dream!"
+msgstr "Таны мөрөөдөл шалгана уу!"
+
+msgid "Vlad Krishtop"
+msgstr "VLAD Krishtop"
+
+msgid "CEO"
+msgstr "Гүйцэтгэх захирал"
+
+msgid "Yuriy Chekalenko"
+msgstr "Юрий Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Тусгай зөвлөх"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Ярослав Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Менежер, програм хангамж хөгжүүлэлт"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Светлана Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Ахлах хуульч"
+
+msgid "Yuriy Himka"
+msgstr "Юрий Himka"
+
+msgid "Designer"
+msgstr "Дизайнер"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Дараа нь товчлуур дээр дарж та авч байгаа, манай нөхцөлийг зөвшөөрч, мөн та бидний Нууцлалын бодлого уншсан гэж хүлээн зөвшөөрсөн байна."
+
+msgid "Incorrect login or password."
+msgstr "Буруу нэвтрэх эсвэл нууц үг."
+
+msgid "Password must be at least 6 characters"
+msgstr "Нууц үг дор хаяж 6 тэмдэгт байх ёстой"
+
+msgid "January"
+msgstr "Оны нэгдүгээр сарын"
+
+msgid "February"
+msgstr "Хоёрдугаар сар"
+
+msgid "March"
+msgstr "Гуравдугаар сарын"
+
+msgid "April"
+msgstr "Дөрөвдүгээр сар"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "Долоодугаар сар"
+
+msgid "August"
+msgstr "Наймдугаар сар"
+
+msgid "September"
+msgstr "Есдүгээр"
+
+msgid "October"
+msgstr "Аравдугаар сар"
+
+msgid "November"
+msgstr "Арваннэгдүгээр"
+
+msgid "December"
+msgstr "Арванхоёрдугаар сар"
+
+msgid "Chat"
+msgstr "Чат"
+
+msgid "Files"
+msgstr "Файлууд"
+
+msgid "Statistic"
+msgstr "Статистик"
+
+msgid "Support"
+msgstr "Дэмжлэг үзүүлэх"
+
+msgid "Exit"
+msgstr "гарах"
+
+msgid "Brest"
+msgstr "Брест"
+
+msgid "Belarus"
+msgstr "Беларусь"
+
+msgid "Marketing specialist"
+msgstr "Маркетингийн мэргэжилтэн"
+
+msgid "Administrator"
+msgstr "Администратор"
+
+msgid "Shared with me"
+msgstr "Надтай хамт хуваалцсан"
+
+msgid "File Sharing"
+msgstr "Файл хуваалцах"
+
+msgid "Provide access by link"
+msgstr "Холбоос хандалтыг өгөх"
+
+msgid "Provide Individual access"
+msgstr "Хувь хүний ​​хандалт өгөх"
+
+msgid "Provide edit access"
+msgstr "Засварлах боломжийг хангах"
+
+msgid "Share"
+msgstr "Эзлэх хувь"
+
+msgid "Files will be available only for selected users"
+msgstr "Файлууд сонгосон хэрэглэгчид л боломжтой байх болно"
+
+msgid "With this link everyone can access to the files"
+msgstr "Энэ холбоос нь хүн бүр файлуудад хандаж болно"
+
+msgid "Search users, groups, articles..."
+msgstr "Хайлтын хэрэглэгч, бүлэг, зүйл ..."
+
+msgid "My Group"
+msgstr "Миний групп"
+
+msgid "Mo"
+msgstr "Мо"
+
+msgid "Tu"
+msgstr "Ту"
+
+msgid "We"
+msgstr "Бид"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Су"
+
+msgid "The file is not selected"
+msgstr "Файл сонгосон ороогүй байна"
+
+msgid "Set aside"
+msgstr "Хойш тавьж"
+
+msgid "Event time"
+msgstr "Үйл цаг"
+
+msgid "Work"
+msgstr "Ажил"
+
+msgid "Personal"
+msgstr "Хувийн"
+
+msgid "Time spent for work:"
+msgstr "Цагийн ажилд зарцуулсан:"
+
+msgid "Personal time spent:"
+msgstr "Хувийн хугацаа зарцуулсан:"
+
+msgid "Present"
+msgstr "Өнөөгийн"
+
+msgid "Common"
+msgstr "Нийтлэг"
+
+msgid "Sport"
+msgstr "Спорт"
+
+msgid "Entertainment"
+msgstr "Үзвэр үйлчилгээ"
+
+msgid "Select:"
+msgstr "Сонгоно уу:"
+
+msgid "Invalid username or password."
+msgstr "Хэрэглэгчийн нэр эсвэл нууц үг буруу."
+
+msgid "Try again."
+msgstr "Дахин оролд."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "Очоод сонирхож гэж юу вэ?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "2-оос доошгүй ур чадвар сонгоно уу: 2 байна"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "2-оос доошгүй ур чадвар сонгоно уу: 1 байна"
+
+msgid "Select at least 2 skills: remains"
+msgstr "2-оос доошгүй ур чадвар сонгоно уу: үлдэгдлүүдийг"
+
+msgid "Active life"
+msgstr "Идэвхтэй амьдрал"
+
+msgid "Arts and culture"
+msgstr "Урлаг, соёл"
+
+msgid "Business"
+msgstr "Бизнесийн"
+
+msgid "Cinema"
+msgstr "Кино"
+
+msgid "Communications"
+msgstr "Харилцаа холбоо"
+
+msgid "Construction and repair"
+msgstr "Барилга, засвар үйлчилгээ"
+
+msgid "Cooking"
+msgstr "Хоол хийх"
+
+msgid "Education"
+msgstr "Боловсрол"
+
+msgid "Electronics"
+msgstr "Электрон"
+
+msgid "Finances"
+msgstr "Санхүү"
+
+msgid "Graphics and design"
+msgstr "График, дизайн"
+
+msgid "Health"
+msgstr "Эрүүл мэнд"
+
+msgid "Home and family"
+msgstr "Нүүр хуудас, гэр бүлийн"
+
+msgid "Humor"
+msgstr "Хүндэлдэг зохиолч"
+
+msgid "IT"
+msgstr "МТ-ийн"
+
+msgid "Industry"
+msgstr "Аж үйлдвэрийн"
+
+msgid "Insurance"
+msgstr "Даатгалын"
+
+msgid "Literature"
+msgstr "Уран зохиол"
+
+msgid "Mobile communications and internet"
+msgstr "Гар харилцаа холбоо, интернэт"
+
+msgid "News and Media"
+msgstr "Мэдээ мэдээлэл"
+
+msgid "Pets"
+msgstr "Гэрийн тэжээмэл амьтад"
+
+msgid "Products and service"
+msgstr "Бүтээгдэхүүн, үйлчилгээ"
+
+msgid "Real Estate"
+msgstr "Үл хөдлөх хөрөнгийн"
+
+msgid "Religion"
+msgstr "Шашин шүтлэг"
+
+msgid "Science and techs"
+msgstr "Шинжлэх ухаан ба techs"
+
+msgid "Security"
+msgstr "Аюулгүй байдал"
+
+msgid "Society"
+msgstr "Нийгэм"
+
+msgid "Television"
+msgstr "Телевиз"
+
+msgid "Travel"
+msgstr "Аялал"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Аргентин"
+
+msgid "Australia"
+msgstr "Австрали"
+
+msgid "Austria"
+msgstr "Австри"
+
+msgid "Belarus"
+msgstr "Беларусь"
+
+msgid "Belgium"
+msgstr "Бельги"
+
+msgid "Brazil"
+msgstr "Бразил"
+
+msgid "Bulgaria"
+msgstr "Болгар"
+
+msgid "Canada"
+msgstr "Канад"
+
+msgid "Chile"
+msgstr "Чили"
+
+msgid "Denmark"
+msgstr "Дани"
+
+msgid "France"
+msgstr "Франц"
+
+msgid "Germany"
+msgstr "Герман"
+
+msgid "Greece"
+msgstr "Грек"
+
+msgid "Hungary"
+msgstr "Унгар"
+
+msgid "Iceland"
+msgstr "Исланд"
+
+msgid "Ireland"
+msgstr "Ирланд"
+
+msgid "Israel"
+msgstr "Израиль"
+
+msgid "Italy"
+msgstr "Итали"
+
+msgid "Japan"
+msgstr "Япон"
+
+msgid "Mexico"
+msgstr "Мексик"
+
+msgid "Netherlands"
+msgstr "Нидерланд"
+
+msgid "New Zealand"
+msgstr "Шинэ Зеланд"
+
+msgid "Norway"
+msgstr "Норвеги"
+
+msgid "Poland"
+msgstr "Польш"
+
+msgid "Portugal"
+msgstr "Португал"
+
+msgid "Russia"
+msgstr "ОХУ-ын"
+
+msgid "Slovakia"
+msgstr "Словак"
+
+msgid "South Africa"
+msgstr "Өмнөд Африк"
+
+msgid "South Korea"
+msgstr "Өмнөд Солонгос"
+
+msgid "Spain"
+msgstr "Испани"
+
+msgid "Sweden"
+msgstr "Швед"
+
+msgid "Switzerland"
+msgstr "Швейцарь"
+
+msgid "Turkey"
+msgstr "Турк"
+
+msgid "Ukraine"
+msgstr "Украйны"
+
+msgid "United Arab Emirates"
+msgstr "Арабын нэгдсэн Эмират улс"
+
+msgid "United Kingdom"
+msgstr "Нэгдсэн Вант Улс"
+
+msgid "United States"
+msgstr "Нэгдсэн Улс"
+
+msgid "achievements"
+msgstr "ололт амжилт"
+
+msgid "Investment management"
+msgstr "Хөрөнгө оруулалтын менежмент"
+
+msgid "Select..."
+msgstr "Сонгох ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "Хөрөнгө оруулалтын менежмент"
+
+msgid "Investors list"
+msgstr "Хөрөнгө оруулагчид жагсаалт"
+
+msgid "My investments"
+msgstr "Миний хөрөнгө оруулалт"
+
+msgid "Create date"
+msgstr "Он сар өдөр бий болгох"
+
+msgid "Author of the project"
+msgstr "Төслийн Зохиогч"
+
+msgid "Date and time"
+msgstr "Огноо ба цаг"
+
+msgid "Status"
+msgstr "Байдал"
+
+msgid "NEXT"
+msgstr "ДАРААЧИЙН"
+
+msgid "Next"
+msgstr "Дараачийн"
+
+msgid "Apply"
+msgstr "Түрхэнэ"
+
+msgid "Kazakhstan"
+msgstr "Казахстан"
+
+msgid "Almaty"
+msgstr "Алматын"
+
+msgid "Hong Kong"
+msgstr "Хонг Конг"
+
+msgid "Science"
+msgstr "Шинжлэх ухаан"
+
+msgid "Architecture"
+msgstr "Архитектур"
+
+msgid "Photography"
+msgstr "Фото зураг"
+
+msgid "Designer"
+msgstr "Дизайнер"
+
+msgid "IT specialist"
+msgstr "МТ-ийн мэргэжилтэн"
+
+msgid "Agronomist"
+msgstr "Агрономч"
+
+msgid "Architect"
+msgstr "Архитектор"
+
+msgid "Lawyer"
+msgstr "Хуульч"
+
+msgid "Writer"
+msgstr "Зохиолч"
+
+msgid "Doctor"
+msgstr "Эмч"
+
+msgid "Scientist"
+msgstr "Эрдэмтэн"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Багш"
+
+msgid "Cook"
+msgstr "Күүк"
+
+msgid "Artist"
+msgstr "Зураачид"
+
+msgid "Photographer"
+msgstr "Гэрэл зурагчин"
+
+msgid "Ecologist"
+msgstr "Экологич"
+
+msgid "Economist"
+msgstr "Эдийн засагч"
+
+msgid "Logistician"
+msgstr "Логистикч"
+
+msgid "Journalist"
+msgstr "Сэтгүүлч"
+
+msgid "Builder"
+msgstr "Builder"
+
+msgid "These users may be interesting for you"
+msgstr "Энэ нь хэрэглэгч та нарт сонирхолтой байж болох юм"
+
+msgid "These articles may be interesting for you"
+msgstr "Энэ нийтлэл танд сонирхолтой байж болох юм"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Та Аdministrator энэ бүлэг нэгдсэн"
+
+msgid "articles written."
+msgstr "нийтлэл бичсэн."
+
+msgid "groups created."
+msgstr "бүлэг бий болгосон байна."
+
+msgid "Creation"
+msgstr "Бий болгох"
+
+msgid "Build a dream"
+msgstr "зүүд барих"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "илүү сонирхолтой өгүүлэл уншиж - үнэ төлбөргүй бүртгүүлэх явах"
+

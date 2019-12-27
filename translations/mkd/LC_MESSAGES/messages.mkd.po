@@ -1,0 +1,3344 @@
+# Macedonike (Македонский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Macedonike (Македонский) <support@konstruktor.com>\n"
+"Language: Macedonike (Македонский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "Корисничкото име  Korisničkoto ime"
+
+msgid "Invalid username or password, try again"
+msgstr "Неточно членско име или лозинка. Обидете се повторно."
+
+msgid "Settings"
+msgstr "подесувања"
+
+msgid "Home"
+msgstr "Почетна"
+
+msgid "You must log in to access this page"
+msgstr "Мора да се најавите за да пристапите на оваа страница"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Вашата сесија е истечен. Ве молиме , relogin да ја направите тоа"
+
+msgid "Save"
+msgstr "Зачувај"
+
+msgid "Head Office"
+msgstr "Централата"
+
+msgid "Address"
+msgstr "адреса"
+
+msgid "Back"
+msgstr "назад"
+
+msgid "Apply"
+msgstr "применуваат"
+
+msgid "Upload files…"
+msgstr "Внеси датотеки ..."
+
+msgid "Set as main"
+msgstr "Постави како главен"
+
+msgid "Delete"
+msgstr "Избриши"
+
+msgid "Original image"
+msgstr "оригинална слика"
+
+msgid "Uploaded"
+msgstr "Прикачено"
+
+msgid "File name"
+msgstr "име на датотеката"
+
+msgid "File size"
+msgstr "големина на датотеката"
+
+msgid "Resolution"
+msgstr "резолуција"
+
+msgid "Enlarge"
+msgstr "Зголеми"
+
+msgid "Links"
+msgstr "Линкови"
+
+msgid "Original size"
+msgstr "оригинална големина"
+
+msgid "For editor"
+msgstr "за уредникот"
+
+msgid "Resize"
+msgstr "Промени големина"
+
+msgid "Width"
+msgstr "ширина"
+
+msgid "Height"
+msgstr "висина"
+
+msgid "Media URL"
+msgstr "медиумите URL"
+
+msgid "Add record"
+msgstr "Додади рекорд"
+
+msgid "Show filter settings"
+msgstr "Прикажи ги подесувањата на филтерот"
+
+msgid "Edit record"
+msgstr "Измени рекорд"
+
+msgid "Delete record"
+msgstr "Избриши рекорд"
+
+msgid "Delete checked records"
+msgstr "Избриши ги проверува записи"
+
+msgid "Dashboard"
+msgstr "табла"
+
+msgid "Password"
+msgstr "лозинка"
+
+msgid "Remember me"
+msgstr "Запомни ме"
+
+msgid "Login"
+msgstr "Најави се"
+
+msgid "Clean image cache"
+msgstr "Чиста слика кеш"
+
+msgid "Processing query..."
+msgstr "Обработка на пребарување ..."
+
+msgid "CMS Development"
+msgstr "CMS развој"
+
+msgid "Admin Home Page"
+msgstr "Admin Дома"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Отвори Почетна страна на front-end во ново јазиче"
+
+msgid "Go to Site"
+msgstr "Одете на страница"
+
+msgid "Log out"
+msgstr "Одјавете се"
+
+msgid "Send"
+msgstr "Испрати"
+
+msgid "General"
+msgstr "Генералниот"
+
+msgid "Title"
+msgstr "Наслов"
+
+msgid "Teaser"
+msgstr "закачка"
+
+msgid "Published"
+msgstr "објавено"
+
+msgid "Featured"
+msgstr "Избрана"
+
+msgid "Active"
+msgstr "активен"
+
+msgid "Field is mandatory"
+msgstr "Поле не е задолжително"
+
+msgid "Sort Order"
+msgstr "подредување"
+
+msgid "Upload"
+msgstr "Додавање"
+
+msgid "Loading..."
+msgstr "Се вчитува ..."
+
+msgid "Jan"
+msgstr "Јан"
+
+msgid "Feb"
+msgstr "февруари"
+
+msgid "Mar"
+msgstr "март"
+
+msgid "Apr"
+msgstr "април"
+
+msgid "May"
+msgstr "Мај"
+
+msgid "Jun"
+msgstr "Јуни"
+
+msgid "Jul"
+msgstr "јули"
+
+msgid "Aug"
+msgstr "Август"
+
+msgid "Sep"
+msgstr "септември"
+
+msgid "Oct"
+msgstr "Октомври"
+
+msgid "Nov"
+msgstr "ноември"
+
+msgid "Dec"
+msgstr "Декември"
+
+msgid "Product already exists in the order"
+msgstr "Производ веќе постои во цел"
+
+msgid "Product does not exist"
+msgstr "Производ не постои"
+
+msgid "Incorrect request"
+msgstr "неправилна барање"
+
+msgid "Products"
+msgstr "производи"
+
+msgid "Product types"
+msgstr "видови производи"
+
+msgid "Contractors"
+msgstr "изведувачи"
+
+msgid "Contractor"
+msgstr "изведувачот"
+
+msgid "Orders"
+msgstr "Нарачка"
+
+msgid "FAQ"
+msgstr "Најчесто поставувани прашања"
+
+msgid "New order"
+msgstr "нов поредок"
+
+msgid "My orders"
+msgstr "Мои нарачки"
+
+msgid "Recharge balance"
+msgstr "Дополнување рамнотежа"
+
+msgid "Administrator"
+msgstr "администратор"
+
+msgid "Incorrect event ID"
+msgstr "Неправилна проект настан"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "уредување на изведувачот"
+
+msgid "Create contractor"
+msgstr "Креирај изведувач"
+
+msgid "Edit question"
+msgstr "Уреди прашање"
+
+msgid "Create question"
+msgstr "Креирај прашање"
+
+msgid "Edit order"
+msgstr "Уреди цел"
+
+msgid "Create order"
+msgstr "се создаде поредок"
+
+msgid "Edit product"
+msgstr "уредување на производ"
+
+msgid "Create product"
+msgstr "создаде производ"
+
+msgid "Edit product type"
+msgstr "Уреди тип на производ"
+
+msgid "Create product type"
+msgstr "Креирај тип на производ"
+
+msgid "You have received a file"
+msgstr "Примивте датотека"
+
+msgid "You received a file from"
+msgstr "Сте го добиле датотека од"
+
+msgid "File has been uploaded"
+msgstr "Датотека беше качен"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "минимална количина"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "предмети"
+
+msgid "Remove"
+msgstr "отстрани"
+
+msgid "Contact person"
+msgstr "лице за контакт"
+
+msgid "Email"
+msgstr "Е-пошта"
+
+msgid "Contractor phone"
+msgstr "изведувач телефон"
+
+msgid "Contractor name"
+msgstr "името на изведувачот"
+
+msgid "Contractor details"
+msgstr "детали изведувач"
+
+msgid "Order ID"
+msgstr "цел проект"
+
+msgid "Sum"
+msgstr "сума"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Изберете соодветен систем на плаќање за надополнување на вашата рамнотежа"
+
+msgid "Recharge amount"
+msgstr "надополнување на износот"
+
+msgid "Paid"
+msgstr "платени"
+
+msgid "Shipped"
+msgstr "транспортирана"
+
+msgid "- No products in this order -"
+msgstr "- Нема производи во оваа цел -"
+
+msgid "month"
+msgstr "месец"
+
+msgid "No user found"
+msgstr "Нема корисникот резултат"
+
+msgid "Achievement"
+msgstr "достигнување"
+
+msgid "Confirmed accomplishments"
+msgstr "потврди достигнувања"
+
+msgid "Remove achievement"
+msgstr "отстрани достигнување"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "телефон"
+
+msgid "Site URL and email"
+msgstr "URL -сајт и е-мејл"
+
+msgid "Remove address"
+msgstr "отстрани адреса"
+
+msgid "Members"
+msgstr "членови"
+
+msgid "Requires a payment"
+msgstr "Бара плаќање"
+
+msgid "Shipping"
+msgstr "испорака"
+
+msgid "Ready"
+msgstr "подготвени"
+
+msgid "Find user..."
+msgstr "Најди корисникот ..."
+
+msgid "Order it"
+msgstr "го нарачате"
+
+msgid "Find group..."
+msgstr "Најди група ..."
+
+msgid "Find user or community..."
+msgstr "Најди корисникот или заедница ..."
+
+msgid "No item found"
+msgstr "Не ставка најде"
+
+msgid "years"
+msgstr "години"
+
+msgid "Send message"
+msgstr "Испрати порака"
+
+msgid "Message"
+msgstr "порака"
+
+msgid "To send message press Enter"
+msgstr "За да ја испратите пораката притиснете Enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "За да ја испратите пораката притиснете Ctrl + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Обработка на фајл (ови) ..."
+
+msgid "Group settings"
+msgstr "подесувањата на групата"
+
+msgid "Create group"
+msgstr "Креирај група"
+
+msgid "Group has been successfully saved"
+msgstr "Групата беше успешно зачувани"
+
+msgid "Group title"
+msgstr "група наслов"
+
+msgid "Group video"
+msgstr "група видео"
+
+msgid "Description"
+msgstr "опис"
+
+msgid "Your role in group"
+msgstr "Вашата улога во групата"
+
+msgid "Role"
+msgstr "улога"
+
+msgid "Photo or video gallery"
+msgstr "Слика или видео галерија"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Прикачи видео"
+
+msgid "Add group address"
+msgstr "Додади групна адреса"
+
+msgid "Group articles"
+msgstr "група статии"
+
+msgid "No addresses yet"
+msgstr "Сè уште немате адреси"
+
+msgid "Add group achievement"
+msgstr "Додади група достигнување"
+
+msgid "No achivements yet"
+msgstr "Сè уште немате achivements"
+
+msgid "Are you sure to delete this user"
+msgstr "Дали сте сигурни дека да ги избришете корисникот"
+
+msgid "Add member"
+msgstr "Додади член"
+
+msgid "Are you sure to delete this record?"
+msgstr "Не заборавајте да го избришете овој запис Дали сте ?"
+
+msgid "Join this group"
+msgstr "Стани член на оваа група"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Вашиот испраќањето на повикот за администраторот на група"
+
+msgid "All addresses"
+msgstr "сите адреси"
+
+msgid "Collapse"
+msgstr "колапс"
+
+msgid "Achievements"
+msgstr "достигнувања"
+
+msgid "Show more"
+msgstr "Покажи повеќе"
+
+msgid "Team"
+msgstr "тим"
+
+msgid "Projects"
+msgstr "проекти"
+
+msgid "New project"
+msgstr "нов проект"
+
+msgid "Project has not been created yet"
+msgstr "Проектот се уште не е создаден"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "биланс"
+
+msgid "Main page"
+msgstr "главната страница"
+
+msgid "Upload image"
+msgstr "Прикачи слика"
+
+msgid "My time"
+msgstr "моето време"
+
+msgid "Day"
+msgstr "ден"
+
+msgid "Week"
+msgstr "недела"
+
+msgid "Project settings"
+msgstr "подесувања на проектот"
+
+msgid "Create project"
+msgstr "се создаде проект"
+
+msgid "Project has been successfully saved"
+msgstr "Проектот беше успешно зачувани"
+
+msgid "Project name"
+msgstr "име на проектот"
+
+msgid "Deadline"
+msgstr "Краен рок"
+
+msgid "Close"
+msgstr "Затвори"
+
+msgid "Manager"
+msgstr "менаџер"
+
+msgid "Assigned to"
+msgstr "доделени"
+
+msgid "Discussion"
+msgstr "дискусија"
+
+msgid "Task was created"
+msgstr "Задача е создаден"
+
+msgid "Task was closed"
+msgstr "Задача беше затворено"
+
+msgid "Go to Group"
+msgstr "Оди на група"
+
+msgid "Closed"
+msgstr "затворено"
+
+msgid "Last updates"
+msgstr "последните надградби"
+
+msgid "Project is closed"
+msgstr "Проектот е затворено"
+
+msgid "No open tasks"
+msgstr "Нема отворени задачи"
+
+msgid "New task"
+msgstr "нова задача"
+
+msgid "Closed tasks"
+msgstr "затворени задачи"
+
+msgid "Add subproject"
+msgstr "додадете под-проект"
+
+msgid "Add task"
+msgstr "додадете задача"
+
+msgid "Sun"
+msgstr "недела"
+
+msgid "Mon"
+msgstr "понеделник"
+
+msgid "Tue"
+msgstr "вторник"
+
+msgid "Wed"
+msgstr "среда"
+
+msgid "Thur"
+msgstr "четврток"
+
+msgid "Fri"
+msgstr "петок"
+
+msgid "Sat"
+msgstr "Сабота"
+
+msgid "Event title"
+msgstr "Наслов настан"
+
+msgid "Event description"
+msgstr "описот на настанот"
+
+msgid "I registered on this site"
+msgstr "Се регистрирав на овој сајт"
+
+msgid "Last created groups"
+msgstr "Последно креиран групи"
+
+msgid "You joined this group as"
+msgstr "Ќе се приклучи на оваа група како"
+
+msgid "You received a request to join the group"
+msgstr "Сте го добиле барање да се присоединиш во групата"
+
+msgid "Updated site"
+msgstr "ажурирани сајт"
+
+msgid "Site is under construction"
+msgstr "Веб-страницата е во изработка"
+
+msgid "Last registered users"
+msgstr "Последно регистрирани корисници"
+
+msgid "User settings"
+msgstr "прилагодувањата на корисникот"
+
+msgid "Technical support"
+msgstr "техничка поддршка"
+
+msgid "Change email"
+msgstr "промена на е-маил"
+
+msgid "Change password"
+msgstr "промена на лозинка"
+
+msgid "User has been successfully saved"
+msgstr "Корисникот е успешно одбранет"
+
+msgid "Full name"
+msgstr "Целосно име"
+
+msgid "My video"
+msgstr "моето видео"
+
+msgid "Skills"
+msgstr "вештини"
+
+msgid "Birthday"
+msgstr "Роденден"
+
+msgid "Country of residence"
+msgstr "Земја на престој"
+
+msgid "Country"
+msgstr "земја"
+
+msgid "Zip Code"
+msgstr "Поштенски код"
+
+msgid "City/town of residence"
+msgstr "Град / Место на живеење"
+
+msgid "University/college"
+msgstr "Универзитет / факултет"
+
+msgid "University/college photo"
+msgstr "Универзитет / факултет слика"
+
+msgid "Add user\'s accomplishments"
+msgstr "Додади достигнувања корисникот"
+
+msgid "Interface language"
+msgstr "интерфејс јазик"
+
+msgid "How other people see this page"
+msgstr "Како другите луѓе ја видите оваа страница"
+
+msgid "Video with me"
+msgstr "Видео со мене"
+
+msgid "Groups"
+msgstr "групи"
+
+msgid "Registered today"
+msgstr "регистриран денеска"
+
+msgid "Qty"
+msgstr "Количина"
+
+msgid "No registered users yet"
+msgstr "Уште нема регистрирани корисници"
+
+msgid "Total"
+msgstr "Вкупниот"
+
+msgid "Registered total"
+msgstr "регистрирани се вкупно"
+
+msgid "You received a file"
+msgstr "Добивте датотека"
+
+msgid "You were invited into this room"
+msgstr "Сте биле поканети во оваа соба"
+
+msgid "Request is being processed"
+msgstr "Е во тек барањето"
+
+msgid "Fax"
+msgstr "факс"
+
+msgid "Messenger"
+msgstr "гласник"
+
+msgid "New subproject"
+msgstr "нови под-проект"
+
+msgid "messages written."
+msgstr "пораки напишани ."
+
+msgid "projects created based on groups."
+msgstr "проекти кои се создадени врз основа на групи."
+
+msgid "users registered on website."
+msgstr "корисници регистрирани на веб-страница."
+
+msgid "New email"
+msgstr "нов е-мејл"
+
+msgid "Confirm email"
+msgstr "потврди е-маил"
+
+msgid "New password"
+msgstr "нова лозинка"
+
+msgid "Confirm password"
+msgstr "потврди лозинка"
+
+msgid "Occupation"
+msgstr "Специјалност"
+
+msgid "Timezone"
+msgstr "Часовите се според зоната"
+
+msgid "Answer"
+msgstr "одговор"
+
+msgid "Articles"
+msgstr "статии"
+
+msgid "Article"
+msgstr "Член"
+
+msgid "Video-article"
+msgstr "Видео- член"
+
+msgid "Find article..."
+msgstr "Најди напис ..."
+
+msgid "Politics"
+msgstr "политика"
+
+msgid "Economics"
+msgstr "економија"
+
+msgid "Community"
+msgstr "заедница"
+
+msgid "Culture"
+msgstr "култура"
+
+msgid "Sports"
+msgstr "спорт"
+
+msgid "Hi-tech"
+msgstr "Hi-tech"
+
+msgid "Cars"
+msgstr "автомобили"
+
+msgid "Fashion"
+msgstr "мода"
+
+msgid "Games"
+msgstr "игри"
+
+msgid "Other"
+msgstr "други"
+
+msgid "Invalid mediafile"
+msgstr "неправилен mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Нема артикли во таа категорија уште"
+
+msgid "Back to profile"
+msgstr "Назад во својот профил"
+
+msgid "View article"
+msgstr "Погледнете написот"
+
+msgid "Edit article"
+msgstr "Уреди статија"
+
+msgid "Create article"
+msgstr "создаде статија"
+
+msgid "Article title"
+msgstr "Наслов на записот"
+
+msgid "Article section"
+msgstr "Член секција"
+
+msgid "Choose image"
+msgstr "Одбери слика"
+
+msgid "Save and upload"
+msgstr "Спаси и да испратите"
+
+msgid "Show more..."
+msgstr "Прикажи повеќе ..."
+
+msgid "Create"
+msgstr "создаде"
+
+msgid "Edit"
+msgstr "Уреди"
+
+msgid "Project"
+msgstr "проектот"
+
+msgid "Team"
+msgstr "тимот"
+
+msgid "A new article was published"
+msgstr "Нов напис беше објавен"
+
+msgid "You joined this project"
+msgstr "Ќе се приклучи на овој проект"
+
+msgid "Enter your information in the User settings"
+msgstr "Внесете ја вашата информации во корисничките нагодувања"
+
+msgid "Communities"
+msgstr "заедници"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Видео презентација на моите достигнувања"
+
+msgid "My articles"
+msgstr "моите статии"
+
+msgid "User"
+msgstr "корисникот"
+
+msgid "Users"
+msgstr "корисници"
+
+msgid "Add new list"
+msgstr "Додадете нова листа"
+
+msgid "List title"
+msgstr "листа титула"
+
+msgid "Add"
+msgstr "додадете"
+
+msgid "Add to favorites"
+msgstr "Додадете во омилени"
+
+msgid "Delete from favorites"
+msgstr "Избришете од омилени"
+
+msgid "Select list"
+msgstr "одберете листа"
+
+msgid "Subscriptions"
+msgstr "членства"
+
+msgid "Subscribe"
+msgstr "Се претплатите"
+
+msgid "Unsubscribe"
+msgstr "Одјава"
+
+msgid "General list"
+msgstr "општата листа"
+
+msgid "No users in this list"
+msgstr "Нема корисници во оваа листа"
+
+msgid "Publish"
+msgstr "објават"
+
+msgid "Unpublish"
+msgstr "Unpublish"
+
+msgid "Add user"
+msgstr "додадете корисник"
+
+msgid "Create document"
+msgstr "Креирај документ"
+
+msgid "Edit document"
+msgstr "Измени документот"
+
+msgid "View"
+msgstr "поглед"
+
+msgid "Document title"
+msgstr "Наслов документ"
+
+msgid "Find document..."
+msgstr "Најди документ ..."
+
+msgid "Share your thoughts"
+msgstr "Споделување на Вашите мисли"
+
+msgid "Leave your comment"
+msgstr "Оставете го вашиот коментар"
+
+msgid "Accept"
+msgstr "прифати"
+
+msgid "Decline"
+msgstr "пад"
+
+msgid "Add article"
+msgstr "додадете статија"
+
+msgid "Link to verified accomplishments"
+msgstr "Линк проверат достигнувања"
+
+msgid "No articles here yet..."
+msgstr "Нема тука статии сеуште ..."
+
+msgid "Find file or folder..."
+msgstr "Најди датотеката или папката ..."
+
+msgid "Sort"
+msgstr "вид"
+
+msgid "By name"
+msgstr "по име"
+
+msgid "By date"
+msgstr "по датум"
+
+msgid "By updated date"
+msgstr "Со ажурирани датум"
+
+msgid "By size"
+msgstr "според големината"
+
+msgid "By type"
+msgstr "по тип"
+
+msgid "Move"
+msgstr "потег"
+
+msgid "File Manager"
+msgstr "менаџер на датотеки"
+
+msgid "Share link"
+msgstr "Сподели линк"
+
+msgid "Responsible"
+msgstr "одговорен"
+
+msgid "Performer"
+msgstr "изведувач"
+
+msgid "New Folder"
+msgstr "нова папка"
+
+msgid "Folder name"
+msgstr "име на папка"
+
+msgid "By default"
+msgstr "Стандардно"
+
+msgid "Back to group"
+msgstr "Вратете се на групата"
+
+msgid "year(s)"
+msgstr "година (s)"
+
+msgid "January"
+msgstr "јануари"
+
+msgid "February"
+msgstr "февруари"
+
+msgid "March"
+msgstr "март"
+
+msgid "April"
+msgstr "април"
+
+msgid "May"
+msgstr "мај"
+
+msgid "June"
+msgstr "јуни"
+
+msgid "July"
+msgstr "јули"
+
+msgid "August"
+msgstr "август"
+
+msgid "September"
+msgstr "Септември"
+
+msgid "October"
+msgstr "октомври"
+
+msgid "November"
+msgstr "ноември"
+
+msgid "December"
+msgstr "Декември"
+
+msgid "Password Reminder"
+msgstr "Потсетник за лозинка"
+
+msgid "Log In"
+msgstr "Логирај Се"
+
+msgid "Sign in"
+msgstr "Најави се"
+
+msgid "Register"
+msgstr "Регистрирај се"
+
+msgid "First name"
+msgstr "Име"
+
+msgid "Last name"
+msgstr "Презиме"
+
+msgid "I agree with rules"
+msgstr "Се согласувам со правилата"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Потврда по пошта беше испратена на Вашата e-mail адреса."
+
+msgid "Thanks"
+msgstr "благодарение"
+
+msgid "Password must be at least 6 characters"
+msgstr "Лозинката мора да биде најмалку 6 карактери"
+
+msgid "Creative Environment"
+msgstr "креативна средина"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Вие треба да бидат најмалку тринаесет години, за да го користите овој сервис"
+
+msgid "Order status"
+msgstr "цел статус"
+
+msgid "Processing order"
+msgstr "обработка на нарачки"
+
+msgid "Requires a payment"
+msgstr "Бара плаќање"
+
+msgid "Shipping"
+msgstr "Испорака"
+
+msgid "Ready"
+msgstr "подготвени"
+
+msgid "Thank you for your payment"
+msgstr "Ви благодариме за вашата исплата"
+
+msgid "Your payment has been cancelled"
+msgstr "Вашата исплата е откажан"
+
+msgid "page"
+msgstr "страница"
+
+msgid "Rent period"
+msgstr "изнајмување период"
+
+msgid "Total, month"
+msgstr "Вкупно, месец"
+
+msgid "Order items"
+msgstr "цел предмети"
+
+msgid "No records found"
+msgstr "Нема пронајдени записи"
+
+msgid "User with this email is already exist"
+msgstr "Корисник со оваа е-пошта е веќе постојат"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Папка или датотека со такво име веќе постои во одредишната папка"
+
+msgid "Minimal quantity"
+msgstr "минимална количина"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "печати копии"
+
+msgid "Terms of Use"
+msgstr "Услови на употреба"
+
+msgid "Privacy Policy"
+msgstr "Политика за приватност"
+
+msgid "Find project..."
+msgstr "Најди проект ..."
+
+msgid "New Project"
+msgstr "нов проект"
+
+msgid "Accounts"
+msgstr "сметки"
+
+msgid "Operations"
+msgstr "операции"
+
+msgid "All accounts"
+msgstr "сите сметки"
+
+msgid "All categories"
+msgstr "сите категории"
+
+msgid "Expense"
+msgstr "сметка"
+
+msgid "Income"
+msgstr "приход"
+
+msgid "Transfer"
+msgstr "трансфер"
+
+msgid "Expense"
+msgstr "сметка"
+
+msgid "income"
+msgstr "приход"
+
+msgid "tax"
+msgstr "данок"
+
+msgid "percent"
+msgstr "проценти"
+
+msgid "transfer"
+msgstr "трансфер"
+
+msgid "Make operation"
+msgstr "направи операција"
+
+msgid "Select date"
+msgstr "одберете датум"
+
+msgid "Select account"
+msgstr "изберете Account"
+
+msgid "Month"
+msgstr "месец"
+
+msgid "Quarter"
+msgstr "квартал"
+
+msgid "Year"
+msgstr "година"
+
+msgid "From"
+msgstr "од"
+
+msgid "To"
+msgstr "до"
+
+msgid "Expense amount"
+msgstr "трошок износ"
+
+msgid "Categories"
+msgstr "категории"
+
+msgid "Comments"
+msgstr "коментари"
+
+msgid "Income amount"
+msgstr "износ на приход"
+
+msgid "Transfer amount"
+msgstr "износот трансфер"
+
+msgid "From account"
+msgstr "од сметката"
+
+msgid "To account"
+msgstr "На сметка"
+
+msgid "New Account"
+msgstr "нова сметка"
+
+msgid "New Category"
+msgstr "нова категорија"
+
+msgid "All"
+msgstr "сите"
+
+msgid "Name"
+msgstr "име"
+
+msgid "Enter category name"
+msgstr "Внесете име на категорија"
+
+msgid "Select type"
+msgstr "Одбери тип"
+
+msgid "Credit card"
+msgstr "Кредитна картичка"
+
+msgid "Debit card"
+msgstr "Дебитна картичка"
+
+msgid "Bank account"
+msgstr "банкарска сметка"
+
+msgid "Cash"
+msgstr "готовина"
+
+msgid "Balance is empty"
+msgstr "Биланс е празна"
+
+msgid "Statistic is empty"
+msgstr "Статистика е празна"
+
+msgid "Regular payments"
+msgstr "редовни плаќања"
+
+msgid "Are you sure ?"
+msgstr "Дали си сигурен ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Заборавајте да го затворите овој проект си?"
+
+msgid "Project was deleted successfully"
+msgstr "Проектот беше успешно избришана"
+
+msgid "Select currency"
+msgstr "изберете валута"
+
+msgid "Account"
+msgstr "сметка"
+
+msgid "Orders list"
+msgstr "листа наредби"
+
+msgid "Order payments"
+msgstr "цел плаќања"
+
+msgid "View order"
+msgstr "поглед на цел"
+
+msgid "No response from Printer API"
+msgstr "Нема одговор од печатачот на API"
+
+msgid "Bad response from Printer API"
+msgstr "Лош одговор од печатачот на API"
+
+msgid "User ID"
+msgstr "ID на корисникот"
+
+msgid "Contact Person"
+msgstr "Лице за контакт"
+
+msgid "No orders to process"
+msgstr "Нема налози за обработка на"
+
+msgid "Article announce image"
+msgstr "Член објави слика"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Видео валиден URL. Оставете го полето празно или внесете валидна YouTube URL"
+
+msgid "Please, enter Contractor data"
+msgstr "Ве молиме , внесете податоци Изведувачот"
+
+msgid "Distribute devices"
+msgstr "дистрибуира уреди"
+
+msgid "Quantity"
+msgstr "Кол"
+
+msgid "Devices left"
+msgstr "уреди лево"
+
+msgid "Distributed devices"
+msgstr "дистрибуирани уреди"
+
+msgid "You must enter quantity"
+msgstr "Мора да внесете квантитетот"
+
+msgid "All devices are distributed"
+msgstr "Сите уреди се дистрибуира"
+
+msgid "IP address"
+msgstr "IP адреса"
+
+msgid "Only for printer"
+msgstr "Само за печатач"
+
+msgid "Counter"
+msgstr "counter"
+
+msgid "You was excluded from this room"
+msgstr "Ви беше исклучена од оваа соба"
+
+msgid "Compare"
+msgstr "споредуваат"
+
+msgid "Scheduled transaction"
+msgstr "закажаното трансакција"
+
+msgid "Select transfer account"
+msgstr "Изберете Account трансфер"
+
+msgid "Select income account"
+msgstr "Изберете Account приход"
+
+msgid "Reports"
+msgstr "извештаи"
+
+msgid "Goals"
+msgstr "цели"
+
+msgid "Budgets"
+msgstr "буџети"
+
+msgid "Enter user name or email..."
+msgstr "Внесете корисничко име или е-маил ..."
+
+msgid "Invite had been sended"
+msgstr "Поканите биле sended"
+
+msgid "Statistics"
+msgstr "статистика"
+
+msgid "Updated site began to work"
+msgstr "Ажурирани сајт почна да работи"
+
+msgid "City of residence"
+msgstr "Градот на живеење"
+
+msgid "Edit favourites list"
+msgstr "Листа уредување омилени"
+
+msgid "Add favourites list"
+msgstr "Додадете во листата на омилени"
+
+msgid "Categories is required"
+msgstr "Се бара категории"
+
+msgid "Type new category name and hit Enter"
+msgstr "Напишете ново име категорија и притиснете Enter"
+
+msgid "You created an order"
+msgstr "Имате креирано е цел"
+
+msgid "You received a device due to this order"
+msgstr "Добивте уред се должи на оваа цел"
+
+msgid "%s attached %s to task %s"
+msgstr "%s %s спроведен до задача %s"
+
+msgid "member(s)"
+msgstr "член (а)"
+
+msgid "%s commented task %s"
+msgstr "%s %s коментирал задача"
+
+msgid "%s closed task %s"
+msgstr "%s %s затворени задача"
+
+msgid "%s created task %s"
+msgstr "%s %s создадена задача"
+
+msgid "%s created this project"
+msgstr "%s создал овој проект"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s создадени под-проект \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s затворен проектот \"%s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s затворени под-проект \"%s\""
+
+msgid "This field must not be blank"
+msgstr "Ова поле не смее да биде празно"
+
+msgid "Document with such name is already exist"
+msgstr "Документ со такво име е веќе постојат"
+
+msgid "Wait until image upload"
+msgstr "Чекај, додека пренесување на сликите"
+
+msgid "Video"
+msgstr "видео"
+
+msgid "Message can not be empty"
+msgstr "Пораката не може да биде празна"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "Created"
+msgstr "создаден"
+
+msgid "Compare is empty"
+msgstr "Споредба на е празна"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Дали сте сигурни дека сакате да го избришете операција"
+
+msgid "Do you really want to delete transaction"
+msgstr "Дали навистина сакате да ја избришете трансакција"
+
+msgid "Project with same name already exists"
+msgstr "Веќе постои проект со исто име"
+
+msgid "Account is not found"
+msgstr "Сметка не е пронајден"
+
+msgid "Currency is required"
+msgstr "Потребна е валута"
+
+msgid "error while deleting document"
+msgstr "грешка при бришењето на документ"
+
+msgid "Expences"
+msgstr "трошоците во"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Ве покани на корисникот \"%s\" во оваа соба"
+
+msgid "User \"%s\" joined this room"
+msgstr "Корисникот \"%s\" се приклучија на оваа соба"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Сте исклучени корисникот \"%s\" од оваа соба"
+
+msgid "User \"%s\" left this room"
+msgstr "Корисникот \"%s\" остави оваа соба"
+
+msgid "Add account"
+msgstr "Додадете сметка"
+
+msgid "The requested page is not found"
+msgstr "Бараната страница не е пронајден"
+
+msgid "Document"
+msgstr "документ"
+
+msgid "Table"
+msgstr "Табела"
+
+msgid "file(s)"
+msgstr "фајл (ови)"
+
+msgid "Residue"
+msgstr "остатоци"
+
+msgid "Result is empty"
+msgstr "Резултатот е празна"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Вкупниот износ е%s %s п"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Што треба да се депонира на%s месечна до сродни сметка"
+
+msgid "Start"
+msgstr "почеток"
+
+msgid "finish"
+msgstr "финиш"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Избраната сметка веќе се користи за уште еден гол"
+
+msgid "Amount required"
+msgstr "потребниот износ"
+
+msgid "New goal"
+msgstr "нова цел"
+
+msgid "Goal"
+msgstr "целта"
+
+msgid "Goal name"
+msgstr "име на целта"
+
+msgid "Invalid date"
+msgstr "погрешно датум"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Потребните сума мора да биде позитивен број"
+
+msgid "Remain"
+msgstr "остануваат"
+
+msgid "Last day"
+msgstr "Последен ден"
+
+msgid "Accumulated"
+msgstr "акумулираната"
+
+msgid "Put aside"
+msgstr "се стават настрана,"
+
+msgid "January"
+msgstr "јануари"
+
+msgid "February"
+msgstr "февруари"
+
+msgid "March"
+msgstr "март"
+
+msgid "April"
+msgstr "април"
+
+msgid "May"
+msgstr "мај"
+
+msgid "June"
+msgstr "јуни"
+
+msgid "July"
+msgstr "јули"
+
+msgid "August"
+msgstr "август"
+
+msgid "September"
+msgstr "септември"
+
+msgid "October"
+msgstr "октомври"
+
+msgid "November"
+msgstr "ноември"
+
+msgid "December"
+msgstr "Декември"
+
+msgid "Expenses projected/actual"
+msgstr "Проектираните трошоци / актуелна"
+
+msgid "Net Income projected/actual"
+msgstr "Нето добивката проектиран / актуелна"
+
+msgid "New budget"
+msgstr "новиот буџет"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Приходите и трошоците на табелата"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Веќе постои буџет со истиот пар на сметка и категорија"
+
+msgid "Budget is empty"
+msgstr "Буџетот е празен"
+
+msgid "Budget"
+msgstr "буџет"
+
+msgid "plan"
+msgstr "план"
+
+msgid "fact"
+msgstr "всушност"
+
+msgid "diff"
+msgstr "разл"
+
+msgid "Show More"
+msgstr "покажи повеќе"
+
+msgid "Cancel"
+msgstr "Откажи"
+
+msgid "d"
+msgstr "г"
+
+msgid "h"
+msgstr "ж"
+
+msgid "min"
+msgstr "мин"
+
+msgid "My sales"
+msgstr "мојот продажбата"
+
+msgid "Time spent"
+msgstr "времето поминато"
+
+msgid "Total time spent"
+msgstr "Вкупно време поминато"
+
+msgid "Earnings per hour"
+msgstr "Заработувачка на час"
+
+msgid "Total earnings"
+msgstr "вкупна заработувачка"
+
+msgid "Call"
+msgstr "повик"
+
+msgid "Phone call"
+msgstr "Телефонски повик"
+
+msgid "Telephone calls"
+msgstr "телефонски повици"
+
+msgid "Send email"
+msgstr "испрати е-маил"
+
+msgid "Emails"
+msgstr "пораки"
+
+msgid "Meeting"
+msgstr "исполнување"
+
+msgid "Meetings"
+msgstr "состаноци"
+
+msgid "All events"
+msgstr "сите настани"
+
+msgid "Task"
+msgstr "задача"
+
+msgid "Event"
+msgstr "настан"
+
+msgid "Events"
+msgstr "настани"
+
+msgid "Time"
+msgstr "време"
+
+msgid "Events statistics"
+msgstr "статистика настани"
+
+msgid "days"
+msgstr "дена"
+
+msgid "hours"
+msgstr "часа"
+
+msgid "minutes"
+msgstr "минути"
+
+msgid "Income & expense"
+msgstr "Приходи и расходи"
+
+msgid "Show chart"
+msgstr "шоуто шема"
+
+msgid "Hide chart"
+msgstr "Скриј шема"
+
+msgid "Add event"
+msgstr "Додади настан"
+
+msgid "Add financial data"
+msgstr "Додади финансиски податоци"
+
+msgid "Select contractor"
+msgstr "одберете изведувач"
+
+msgid "Net Income"
+msgstr "Нето приход"
+
+msgid "Revenue"
+msgstr "приходи"
+
+msgid "Taxes"
+msgstr "даноци"
+
+msgid "Amount planned"
+msgstr "износот планирани"
+
+msgid "Amount"
+msgstr "износот"
+
+msgid "Period"
+msgstr "период"
+
+msgid "Are you sure to close this task?"
+msgstr "Сигурни дека да се затвори оваа задача си?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "сите групи"
+
+msgid "added from task"
+msgstr "додадени од задачата"
+
+msgid "Monthly repeat"
+msgstr "месечен повтори"
+
+msgid "Select category"
+msgstr "изберете категорија"
+
+msgid "Event type"
+msgstr "Вид на настан"
+
+msgid "Margin"
+msgstr "маргина"
+
+msgid "Use finance project"
+msgstr "Користете финансирање на проекти"
+
+msgid "New investment project"
+msgstr "Нови инвестициски проекти"
+
+msgid "Investment project settings"
+msgstr "Поставки на инвестициски проекти"
+
+msgid "Picture, for the announcement project"
+msgstr "Слика, за проектот на огласот"
+
+msgid "Announcement project"
+msgstr "објавувањето на проектот"
+
+msgid "Video"
+msgstr "видео"
+
+msgid "Photos or videos gallery"
+msgstr "Галерија на фотографии или видеа"
+
+msgid "required amount"
+msgstr "потребниот износ"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Времетраење на проектот (60 дена максимум)"
+
+msgid "Project duration"
+msgstr "траење на проектот"
+
+msgid "Add reward"
+msgstr "Додади награда"
+
+msgid "Delivery date"
+msgstr "датум на испорака"
+
+msgid "Payment systems"
+msgstr "платните системи"
+
+msgid "Terms of service"
+msgstr "Услови за Користење"
+
+msgid "Agreement"
+msgstr "договор"
+
+msgid "Payment"
+msgstr "плаќање"
+
+msgid "My projects"
+msgstr "моите проекти"
+
+msgid "Search result"
+msgstr "пребарување резултат"
+
+msgid "Nothing not found"
+msgstr "Ништо не е пронајден"
+
+msgid "The project has no sponsors"
+msgstr "Проектот нема спонзори"
+
+msgid "Design"
+msgstr "дизајн"
+
+msgid "Food"
+msgstr "храна"
+
+msgid "Journalism"
+msgstr "новинарството"
+
+msgid "Games"
+msgstr "игри"
+
+msgid "Art"
+msgstr "уметност"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "музика"
+
+msgid "Handicrafts"
+msgstr "ракотворби"
+
+msgid "Publishing"
+msgstr "издаваштво"
+
+msgid "Theater"
+msgstr "театар"
+
+msgid "Technology"
+msgstr "технологија"
+
+msgid "Film/Video"
+msgstr "Филм / Видео"
+
+msgid "Photo"
+msgstr "слика"
+
+msgid "Dance"
+msgstr "танц"
+
+msgid "Invalid youtube video"
+msgstr "Неправилен YouTube видео"
+
+msgid "is required"
+msgstr "потребно е"
+
+msgid "User"
+msgstr "корисникот"
+
+msgid "Date"
+msgstr "датум"
+
+msgid "Collected"
+msgstr "собираат"
+
+msgid "Choose period"
+msgstr "избери период"
+
+msgid "Choose region"
+msgstr "Избери регион"
+
+msgid "Country"
+msgstr "земја"
+
+msgid "Today"
+msgstr "денес"
+
+msgid "Week"
+msgstr "недела"
+
+msgid "Month"
+msgstr "месец"
+
+msgid "Year"
+msgstr "година"
+
+msgid "Free registration"
+msgstr "бесплатна регистрација"
+
+msgid "Join"
+msgstr "Зачлени се"
+
+msgid "Log in using"
+msgstr "Логирате со користење на"
+
+msgid "Vacancies"
+msgstr "можности за вработување"
+
+msgid "About Us"
+msgstr "За нас"
+
+msgid "You will need email to log in"
+msgstr "Ќе ви треба е-маил за да се најавите"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Комбинација од 6 бројки и знаци"
+
+msgid "Search users, groups, articles..."
+msgstr "Барај корисници , групи, статии ..."
+
+msgid "Cloud"
+msgstr "облак"
+
+msgid "Sunday"
+msgstr "недела"
+
+msgid "Monday"
+msgstr "понеделник"
+
+msgid "Tuesday"
+msgstr "вторник"
+
+msgid "Wednesday"
+msgstr "среда"
+
+msgid "Thursday"
+msgstr "четврток"
+
+msgid "Friday"
+msgstr "петок"
+
+msgid "Saturday"
+msgstr "Сабота"
+
+msgid "Edit"
+msgstr "Уреди"
+
+msgid "Create group"
+msgstr "Креирај група"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Дали сте сигурни дека сакате да излезете од оваа страница ?"
+
+msgid "More"
+msgstr "повеќе"
+
+msgid "Less"
+msgstr "помалку"
+
+msgid "Pending"
+msgstr "во очекување"
+
+msgid "Approved"
+msgstr "одобрени"
+
+msgid "Rejected"
+msgstr "одбиена"
+
+msgid "Subprojects"
+msgstr "подпроекти"
+
+msgid "Group edit"
+msgstr "Измени група"
+
+msgid "Startup"
+msgstr "Почни"
+
+msgid "Tattoo"
+msgstr "тетоважа"
+
+msgid "Health"
+msgstr "здравје"
+
+msgid "Weapon"
+msgstr "оружје"
+
+msgid "Astronomy"
+msgstr "астрономијата"
+
+msgid "All articles"
+msgstr "сите статии"
+
+msgid "Article editor"
+msgstr "Член уредникот"
+
+msgid "Document editor"
+msgstr "документ уредник"
+
+msgid "Apply changes"
+msgstr "примени ги промените"
+
+msgid "Save changes?"
+msgstr "Зачувај ги промените?"
+
+msgid "published an article"
+msgstr "објави напис"
+
+msgid "Users"
+msgstr "корисници"
+
+msgid "Shared With Me"
+msgstr "Дели со мене"
+
+msgid "share"
+msgstr "удел"
+
+msgid "Select Group Responsible"
+msgstr "Изберете група одговорна"
+
+msgid "Create folder"
+msgstr "да ја создаде папката"
+
+msgid "Title must be at least 3 characters"
+msgstr "Насловот треба да биде најмалку 3 карактери"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Бесплатни 10 GB , финансиски менаџер, инвестира модул , и многу други за слободни и засекогаш"
+
+msgid "Best regards"
+msgstr "Со почит"
+
+msgid "Updates in last 12 hours:"
+msgstr "Ажурирања во последните 12 часа :"
+
+msgid "expense"
+msgstr "сметка"
+
+msgid "Commentary on the event:"
+msgstr "Коментар на настанот:"
+
+msgid "Event place"
+msgstr "настанот место"
+
+msgid "Project was updated"
+msgstr "Проектот беше надграден"
+
+msgid "Project was created"
+msgstr "Беше создадена проектот"
+
+msgid "Project was closed"
+msgstr "Проектот беше затворено"
+
+msgid "account"
+msgstr "сметка"
+
+msgid "removed task"
+msgstr "отстрани задача"
+
+msgid "removed subproject"
+msgstr "отстрани под-проект"
+
+msgid "Title can not be empty"
+msgstr "Насловот не може да биде празна"
+
+msgid "Do not select the type of event"
+msgstr "Не го изберете типот на настанот"
+
+msgid "Error while saving comment"
+msgstr "Грешка при зачувувањето коментар"
+
+msgid "Save error: access denied"
+msgstr "Спаси грешка: забранет пристап"
+
+msgid "Remains"
+msgstr "остатоци"
+
+msgid "Time spent, h."
+msgstr "Поминато време , х."
+
+msgid "Emails"
+msgstr "пораки"
+
+msgid "Meetings"
+msgstr "состаноци"
+
+msgid "All users"
+msgstr "сите корисници"
+
+msgid "Category"
+msgstr "категорија"
+
+msgid "Finance project"
+msgstr "финансирање на проекти"
+
+msgid "Investment project"
+msgstr "инвестицијата за проектот"
+
+msgid "Nature"
+msgstr "природата"
+
+msgid "Data is empty"
+msgstr "Податоци е празна"
+
+msgid "Visitors"
+msgstr "посетители"
+
+msgid "My profile"
+msgstr "Мој Профил"
+
+msgid "Sponsors"
+msgstr "спонзори"
+
+msgid "Prior to completion"
+msgstr "Пред да се заврши"
+
+msgid "Select"
+msgstr "изберете"
+
+msgid "My groups"
+msgstr "мојот групи"
+
+msgid "The invitation has been sent successfully"
+msgstr "Поканата е успешно испратена"
+
+msgid "Username has already been invited to this project"
+msgstr "Корисничко име веќе е поканет на овој проект"
+
+msgid "The user is the creator of the project"
+msgstr "Корисникот е творец на проектот"
+
+msgid "Provide full access"
+msgstr "Обезбеди целосен пристап"
+
+msgid "Select elements to provide access"
+msgstr "Изберете елементи за да се обезбеди пристап"
+
+msgid "Select all"
+msgstr "Селектирај се"
+
+msgid "User E-mail"
+msgstr "Корисникот Е-пошта"
+
+msgid "Click on the field to select a category"
+msgstr "Кликнете на полето за да изберете категорија"
+
+msgid "Invitation was deleted"
+msgstr "Поканата е избришана"
+
+msgid "Permission denied"
+msgstr "Барањето е одбиено"
+
+msgid "Printed"
+msgstr "печатени"
+
+msgid "Incorrect Contractor email"
+msgstr "Неточни Изведувачот е-маил"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Дали сакате да го додадете проектот за финансирање на менаџер?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "За да се заврши процесот на регистрација, ве молиме пополнете одредување на своите вештини"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "На пошта со понатамошни инструкции беше испратен на вашата е-маил адреса"
+
+msgid "Submit"
+msgstr "достават"
+
+msgid "Cars"
+msgstr "автомобили"
+
+msgid "Science"
+msgstr "наука"
+
+msgid "Donation"
+msgstr "Донација"
+
+msgid "Interests"
+msgstr "интереси"
+
+msgid "Driver"
+msgstr "возачот"
+
+msgid "Sportsman"
+msgstr "спортист"
+
+msgid "Businessman"
+msgstr "бизнисмен"
+
+msgid "Accountant"
+msgstr "сметководител"
+
+msgid "Engineer"
+msgstr "инженер"
+
+msgid "Soldier"
+msgstr "војник"
+
+msgid "Next"
+msgstr "следниот"
+
+msgid "Hide group"
+msgstr "Скриј група"
+
+msgid "groups created"
+msgstr "создадени групи"
+
+msgid "articles written"
+msgstr "статии напишани"
+
+msgid "These groups may be interesting for you"
+msgstr "Овие групи може да бидат интересни за Вас"
+
+msgid "About Group"
+msgstr "за Групацијата"
+
+msgid "view(s)"
+msgstr "поглед (и)"
+
+msgid "Favorite users"
+msgstr "омилени корисници"
+
+msgid "No accounts"
+msgstr "нема сметки"
+
+msgid "Facebook authorization failed."
+msgstr "Фејсбук овластување успеа."
+
+msgid "Authorization Required"
+msgstr "Потребна е авторизација"
+
+msgid "You have to make a call:"
+msgstr "Што треба да се направи повик :"
+
+msgid "You have to send an email:"
+msgstr "Мора да се испрати е-маил :"
+
+msgid "You have a meetup:"
+msgstr "Имаш Meetup :"
+
+msgid "You event :"
+msgstr "Ви настан:"
+
+msgid "Participants:"
+msgstr "учесници:"
+
+msgid "Search"
+msgstr "Барај"
+
+msgid "News"
+msgstr "вести"
+
+msgid "Investments"
+msgstr "инвестиции"
+
+msgid "Back to Cloud"
+msgstr "Вратете се на Облак"
+
+msgid "Documents"
+msgstr "документи"
+
+msgid "Planet"
+msgstr "планетата"
+
+msgid "Group url"
+msgstr "URL на групата"
+
+msgid "Profile url"
+msgstr "профил на URL"
+
+msgid "Already taken"
+msgstr "Веќе земено"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Најмалку 1 буква и 3 карактери должина бара"
+
+msgid "Digit can not be the first character"
+msgstr "Цифрениот не може да биде првиот карактер"
+
+msgid "Enter valid email address"
+msgstr "Внесете валидна е-мејл адреса"
+
+msgid "Enter your skills"
+msgstr "Внесете вашите вештини"
+
+msgid "Enter your first name"
+msgstr "Внесете го вашето име"
+
+msgid "Enter your last name"
+msgstr "Внесете го вашето презиме"
+
+msgid "Enter your first name and last name"
+msgstr "Внесете го вашето име и презиме"
+
+msgid "Your first name?"
+msgstr "Вашето име ?"
+
+msgid "Your last name?"
+msgstr "Последните вашето име?"
+
+msgid "What are your proficiencies?"
+msgstr "Кои се вашите proficiencies ?"
+
+msgid "Select country"
+msgstr "Изаберете земја"
+
+msgid "Select user"
+msgstr "одберете корисник"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Исполни вашите сон! Се создаде и да соработуваат."
+
+msgid "date moved from"
+msgstr "датум се пресели од"
+
+msgid "work"
+msgstr "работа"
+
+msgid "Conference"
+msgstr "конференција"
+
+msgid "personal"
+msgstr "лични"
+
+msgid "Holiday"
+msgstr "На одмор"
+
+msgid "Past"
+msgstr "Минатото"
+
+msgid "Future"
+msgstr "Иднината"
+
+msgid "Purchase"
+msgstr "Купување"
+
+msgid "Personal events"
+msgstr "Приватни настани"
+
+msgid "Conferences"
+msgstr "Исполнување"
+
+msgid "Holidays"
+msgstr "Празници"
+
+msgid "Sport events"
+msgstr "Спортски настани"
+
+msgid "Tasks"
+msgstr "Задачи"
+
+msgid "Other events"
+msgstr "Други настани"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Одложено"
+
+msgid "Time management"
+msgstr "Управување со време"
+
+msgid "Delayed events"
+msgstr "Одложени настани"
+
+msgid "Delayed"
+msgstr "Одложено"
+
+msgid "Bind to"
+msgstr "Доделите"
+
+msgid "answered your comment to"
+msgstr "Реков (а) Коментар на статијата"
+
+msgid "commented your article"
+msgstr "Јас коментира на вашиот напис"
+
+msgid "You\'ve answered on comment to"
+msgstr "Ви одговори на коментар на статијата"
+
+msgid "You\'ve commented an article"
+msgstr "Ви коментираше на статијата"
+
+msgid "Terms and Conditions"
+msgstr "Услови и правила"
+
+msgid "Privacy Policy"
+msgstr "Политика за приватност"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Со кликнување на \"регистрирате\" вие се согласувате со нашата и потврдувате дека сте ги прочитате нашите"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Се придружите на заедницата на креативни луѓе од сите делови на светот! Ќе добиете: Инвестирање во вашите идеи, можност да се соберат на својот тим, работа во група, финансиски менаџер, управување со времето, 2 гигабајти во складирање и многу повеќе. И тоа е бесплатно!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Жал ми е, но од страната што го барате не постои. Ако мислите дека треба да се обвинува нас контакт"
+
+msgid "Return"
+msgstr "Враќање"
+
+msgid "COMMON"
+msgstr "Вкупно"
+
+msgid "My events"
+msgstr "Мојата Настани"
+
+msgid "Job opening"
+msgstr "Нов конкурс"
+
+msgid "Employment"
+msgstr "Вид на вработување"
+
+msgid "Working hours"
+msgstr "Работно време"
+
+msgid "City"
+msgstr "Градот"
+
+msgid "Wages"
+msgstr "Плата"
+
+msgid "Currency"
+msgstr "Валута"
+
+msgid "Experience"
+msgstr "Искуство"
+
+msgid "Full-time"
+msgstr "Целосна вработеност"
+
+msgid "Part-time"
+msgstr "Со скратено работно време"
+
+msgid "Project employment"
+msgstr "Проектот / Привремено"
+
+msgid "Volunteer"
+msgstr "Волонтирање"
+
+msgid "Internship"
+msgstr "Стаж"
+
+msgid "Full day"
+msgstr "Полно работно време"
+
+msgid "Shifts"
+msgstr "Замена распоред"
+
+msgid "Flexible shifts"
+msgstr "Флексибилен распоред"
+
+msgid "Remote work"
+msgstr "Далечинска работа"
+
+msgid "Rotational basis"
+msgstr "Промена метод"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Дали сте сигурни дека сакате да го избришете коментарот?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Дали сте сигурни дека сакате да ја избришете оваа задача?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Дали сте сигурни дека сакате да го избришете овој под-проект?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Сте се пријавиле на компанијата во позиција. Ве молиме бидете сигурни дека"
+
+msgid "Your request to for job has been rejected"
+msgstr "Вашето барање за компанијата да се позиција е одбиено"
+
+msgid "Your request to for job has been accepted"
+msgstr "Вашето барање за компанијата да се позиција беше прифатена"
+
+msgid "profile is completed"
+msgstr "Вашиот профил е полна"
+
+msgid "Use account"
+msgstr "Користете сметка"
+
+msgid "$/hr"
+msgstr "$ / Час"
+
+msgid "Finance category"
+msgstr "Финансиски категорија"
+
+msgid "No projects"
+msgstr "Нема проекти"
+
+msgid "Bind to finances"
+msgstr "Додели финансиска проект"
+
+msgid "Preview"
+msgstr "Поглед"
+
+msgid "Download"
+msgstr "Превземи"
+
+msgid "Save to my cloud"
+msgstr "Копија на складиштето"
+
+msgid "File successfully saved to your cloud"
+msgstr "Датотеката е успешно се чуваат во вашето складиште"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Спаси оваа датотека во вашето складиште?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Изберете категорија член"
+
+msgid "Type something"
+msgstr "Напиши нешто"
+
+msgid "Founded users"
+msgstr "Пронајдени корисници"
+
+msgid "Founded articles"
+msgstr "Пронајдени статија"
+
+msgid "Founded groups"
+msgstr "Основана група"
+
+msgid "What are your skills?"
+msgstr "Кои се вашите вештини?"
+
+msgid "Select at least 2 interests"
+msgstr "Изберете најмалку 2 камата"
+
+msgid "Need more interests"
+msgstr "Избрани недоволен интерес"
+
+msgid "What are you interesting in?"
+msgstr "Што сте заинтересирани?"
+
+msgid "You have no dialogs"
+msgstr "Немате дијалози"
+
+msgid "Usage Stats"
+msgstr "Состојба на"
+
+msgid "Founded files"
+msgstr "Резултати датотеки"
+
+msgid "Big tiles"
+msgstr "Големи плочки"
+
+msgid "Small tiles"
+msgstr "Мали плочки"
+
+msgid "Table view"
+msgstr "Поглед на маса"
+
+msgid "Root folder"
+msgstr "Root директориумот на"
+
+msgid "My files"
+msgstr "Мој Датотеки"
+
+msgid "Save as draft"
+msgstr "Save as draft"
+
+msgid "Buy More Space"
+msgstr "Купи повеќе простор"
+
+msgid "Buy"
+msgstr "Размислете за купување"
+
+msgid "You have been invited to group as"
+msgstr "Сте биле поканети на групата како"
+
+msgid "User wants to join your group"
+msgstr "Корисникот сака да се приклучат на вашата група"
+
+msgid "Section is coming soon!"
+msgstr "Делот во изградба!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Пати во последните 24 часа:"
+
+msgid "Task was updated"
+msgstr "Задачата е надграден"
+
+msgid "Task was closed"
+msgstr "Предизвикот е затворено"
+
+msgid "Task was created"
+msgstr "Задачата беше поставена"
+
+msgid "Current balance"
+msgstr "Тековното салдо"
+
+msgid "Add funds"
+msgstr "Додадете"
+
+msgid "Pay"
+msgstr "Плаќање"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Сте го надмина бројот на обиди за најава. Ви се блокирани за 15 минути"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Ве молиме да ја потврдите вашата е-пошта. Во писмото испратено до вас по пошта."
+
+msgid "Resend confirmation email"
+msgstr "Испрати потврда повторно"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Диск 2 GB месечно"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Вози 10 GB годишно"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Диск 100 GB секоја година"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Диск 1TB месечно"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Вози 1 ТБ секоја година"
+
+msgid "Project members monthly"
+msgstr "Учесниците на проектот на месечна основа"
+
+msgid "Project members yearly"
+msgstr "Учесниците во проектот на годишно ниво"
+
+msgid "Member(s) yearly"
+msgstr "Член (а) на годишно ниво"
+
+msgid "Member(s) monthly"
+msgstr "Член (а) на месечна основа"
+
+msgid "Authorized"
+msgstr "Овластен"
+
+msgid "Authorization expired"
+msgstr "Овластување истечен"
+
+msgid "Processor declined"
+msgstr "Отфрли системот за обработка"
+
+msgid "Gateway rejected"
+msgstr "Отфрлија исплата портал"
+
+msgid "Failed"
+msgstr "Грешка"
+
+msgid "Voided"
+msgstr "Поништи"
+
+msgid "Submitted for settlement"
+msgstr "Испратени да се запишат"
+
+msgid "Settlement declined"
+msgstr "Запишување е одбиена"
+
+msgid "Settlement pending"
+msgstr "Во очекување на запишување"
+
+msgid "Verified"
+msgstr "Проверени"
+
+msgid "Pending"
+msgstr "Во очекување"
+
+msgid "Active"
+msgstr "Активен"
+
+msgid "Past Due"
+msgstr "Истечен"
+
+msgid "Expired"
+msgstr "Заврши"
+
+msgid "Marketer"
+msgstr "Продажби"
+
+msgid "India"
+msgstr "Индија"
+
+msgid "Malaysia"
+msgstr "Малезија"
+
+msgid "Thailand"
+msgstr "Тајланд"
+
+msgid "South Korea"
+msgstr "Јужна Кореја"
+
+msgid "Kazakhstan"
+msgstr "Казахстан"
+
+msgid "Israel"
+msgstr "Израел"
+
+msgid "Ukraine"
+msgstr "Украина"
+
+msgid "Belarus"
+msgstr "Белорусија"
+
+msgid "Bulgaria"
+msgstr "Бугарија"
+
+msgid "Turkey"
+msgstr "Турција"
+
+msgid "Armenia"
+msgstr "Ерменија"
+
+msgid "Serbia"
+msgstr "Србија"
+
+msgid "Austria"
+msgstr "Австрија"
+
+msgid "Poland"
+msgstr "Полска"
+
+msgid "Germany"
+msgstr "Германија"
+
+msgid "Italy"
+msgstr "Италија"
+
+msgid "Netherlands"
+msgstr "Холандија"
+
+msgid "Ireland"
+msgstr "Ирска"
+
+msgid "United Kingdom"
+msgstr "Велика Британија"
+
+msgid "Portugal"
+msgstr "Португалија"
+
+msgid "Norway"
+msgstr "Норвешка"
+
+msgid "United States"
+msgstr "Соединетите Американски Држави"
+
+msgid "Canada"
+msgstr "Канада"
+
+msgid "Brazil"
+msgstr "Бразил"
+
+msgid "Saudi Arabia"
+msgstr "Саудиска Арабија"
+
+msgid "Canada"
+msgstr "Египет"
+
+msgid "Russia"
+msgstr "Русија"
+
+msgid "Hong Kong"
+msgstr "Хонг Конг"
+
+msgid "There was no any transactions yet."
+msgstr "Во моментов, не беше една трансакција"
+
+msgid "Fulfill your dream"
+msgstr "Исполни ги своите СОН"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Се придружите на нашата заедница на креативни поединци од целиот свет."
+
+msgid "Create and Collaborate"
+msgstr "Се создаде и да соработуваат"
+
+msgid "Start Dreaming"
+msgstr "Оствари сонот СЕГА"
+
+msgid "or"
+msgstr "или"
+
+msgid "Our mission:"
+msgstr "Нашата мисија:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Да се ​​обединат креативни и активни луѓе за спроведување на идеи од едноставни и во побарувачката за неверојатно и фантастично, кои можат да ја обликуваат нашата иднина."
+
+msgid "What is Konstruktor?"
+msgstr "Што е Конструктор?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Конструктор - е дел од реалниот живот, со што значително го олеснува и го поедноставува"
+
+msgid "*business processes"
+msgstr "* бизнис процеси"
+
+msgid "*materialization of creative ideas"
+msgstr "* материјализација на креативни идеи"
+
+msgid "*constructive cooperation"
+msgstr "* конструктивна соработка"
+
+msgid "Make your dream!"
+msgstr "Направете вашиот сон!"
+
+msgid "Vlad Krishtop"
+msgstr "Влад Krishtop"
+
+msgid "CEO"
+msgstr "Извршен директор"
+
+msgid "Yuriy Chekalenko"
+msgstr "Јуриј Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Специјален советник"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Јарослав Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Менаџер, Развој на софтвер"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Светлана Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Високи адвокат"
+
+msgid "Yuriy Himka"
+msgstr "Јуриј Himka"
+
+msgid "Designer"
+msgstr "Дизајнер"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Со кликање на копчето \"Следно\", ги прифаќате и се согласил со нашите Услови и правила, а вие се декларирате дека сте прочитате нашата Политика на приватност."
+
+msgid "Incorrect login or password."
+msgstr "Неточни најава или лозинка."
+
+msgid "Password must be at least 6 characters"
+msgstr "Лозинката мора да биде најмалку 6 карактери"
+
+msgid "January"
+msgstr "Јануари"
+
+msgid "February"
+msgstr "Февруари"
+
+msgid "March"
+msgstr "Март"
+
+msgid "April"
+msgstr "Април"
+
+msgid "May"
+msgstr "Мај"
+
+msgid "June"
+msgstr "Јуни"
+
+msgid "July"
+msgstr "Јули"
+
+msgid "August"
+msgstr "Август"
+
+msgid "September"
+msgstr "Септември"
+
+msgid "October"
+msgstr "Октомври"
+
+msgid "November"
+msgstr "Ноември"
+
+msgid "December"
+msgstr "Декември"
+
+msgid "Chat"
+msgstr "Разговарате"
+
+msgid "Files"
+msgstr "Додадени фајлови:"
+
+msgid "Statistic"
+msgstr "Статистика"
+
+msgid "Support"
+msgstr "Поддршка"
+
+msgid "Exit"
+msgstr "Излез"
+
+msgid "Brest"
+msgstr "Брест"
+
+msgid "Belarus"
+msgstr "Белорусија"
+
+msgid "Marketing specialist"
+msgstr "Маркетинг специјалист"
+
+msgid "Administrator"
+msgstr "Администратор"
+
+msgid "Shared with me"
+msgstr "Дели со мене"
+
+msgid "File Sharing"
+msgstr "Споделување на датотеки"
+
+msgid "Provide access by link"
+msgstr "Обезбеди пристап со линк"
+
+msgid "Provide Individual access"
+msgstr "Обезбеди индивидуален пристап"
+
+msgid "Provide edit access"
+msgstr "Обезбеди уредување пристап"
+
+msgid "Share"
+msgstr "Сподели"
+
+msgid "Files will be available only for selected users"
+msgstr "Датотеки ќе бидат достапни само за избрани корисници"
+
+msgid "With this link everyone can access to the files"
+msgstr "Со ова го поврзува секој може да пристапи до датотеките"
+
+msgid "Search users, groups, articles..."
+msgstr "Барај корисници, групи, статии ..."
+
+msgid "My Group"
+msgstr "Мојата група"
+
+msgid "Mo"
+msgstr "П"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Ние"
+
+msgid "Th"
+msgstr "#НАЗВА?"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "СА"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "На датотеката не е избран"
+
+msgid "Set aside"
+msgstr "Стави на страна"
+
+msgid "Event time"
+msgstr "Време настан"
+
+msgid "Work"
+msgstr "Работа"
+
+msgid "Personal"
+msgstr "Лични"
+
+msgid "Time spent for work:"
+msgstr "Трошат време за работа:"
+
+msgid "Personal time spent:"
+msgstr "Лична времето поминато:"
+
+msgid "Present"
+msgstr "Присутни"
+
+msgid "Common"
+msgstr "Заеднички"
+
+msgid "Sport"
+msgstr "Спорт"
+
+msgid "Entertainment"
+msgstr "Забава"
+
+msgid "Select:"
+msgstr "Изберете:"
+
+msgid "Invalid username or password."
+msgstr "Невалидно име или лозинка."
+
+msgid "Try again."
+msgstr "Обидете се повторно."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "Што сте заинтересирани?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Изберете најмалку 2 вештини: Останува 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Изберете најмалку 2 вештини: Останува 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Изберете најмалку 2 вештини: Остатоците"
+
+msgid "Active life"
+msgstr "Активен живот"
+
+msgid "Arts and culture"
+msgstr "Уметност и култура"
+
+msgid "Business"
+msgstr "Бизнис"
+
+msgid "Cinema"
+msgstr "Здравје"
+
+msgid "Communications"
+msgstr "Комуникации"
+
+msgid "Construction and repair"
+msgstr "Изградба и поправка"
+
+msgid "Cooking"
+msgstr "Готвење"
+
+msgid "Education"
+msgstr "Образование"
+
+msgid "Electronics"
+msgstr "Електроника"
+
+msgid "Finances"
+msgstr "Финансии"
+
+msgid "Graphics and design"
+msgstr "Графика и дизајн"
+
+msgid "Health"
+msgstr "Здравје"
+
+msgid "Home and family"
+msgstr "Дом и семејство"
+
+msgid "Humor"
+msgstr "Хумор"
+
+msgid "IT"
+msgstr "ИТ"
+
+msgid "Industry"
+msgstr "Индустрија"
+
+msgid "Insurance"
+msgstr "Осигурување"
+
+msgid "Literature"
+msgstr "Литература"
+
+msgid "Mobile communications and internet"
+msgstr "Мобилни комуникации и интернет"
+
+msgid "News and Media"
+msgstr "Вести и медиуми"
+
+msgid "Pets"
+msgstr "Домашни миленици"
+
+msgid "Products and service"
+msgstr "Производи и услуги"
+
+msgid "Real Estate"
+msgstr "Недвижен имот"
+
+msgid "Religion"
+msgstr "Религијата"
+
+msgid "Science and techs"
+msgstr "Наука и techs"
+
+msgid "Security"
+msgstr "Безбедност"
+
+msgid "Society"
+msgstr "Општество"
+
+msgid "Television"
+msgstr "Телевизија"
+
+msgid "Travel"
+msgstr "Патување"
+
+msgid "URL"
+msgstr "URL-то"
+
+msgid "Argentina"
+msgstr "Аргентина"
+
+msgid "Australia"
+msgstr "Австралија"
+
+msgid "Austria"
+msgstr "Австрија"
+
+msgid "Belarus"
+msgstr "Белорусија"
+
+msgid "Belgium"
+msgstr "Белгија"
+
+msgid "Brazil"
+msgstr "Бразил"
+
+msgid "Bulgaria"
+msgstr "Бугарија"
+
+msgid "Canada"
+msgstr "Канада"
+
+msgid "Chile"
+msgstr "Чиле"
+
+msgid "Denmark"
+msgstr "Данска"
+
+msgid "France"
+msgstr "Франција"
+
+msgid "Germany"
+msgstr "Германија"
+
+msgid "Greece"
+msgstr "Грција"
+
+msgid "Hungary"
+msgstr "Унгарија"
+
+msgid "Iceland"
+msgstr "Исланд"
+
+msgid "Ireland"
+msgstr "Ирска"
+
+msgid "Israel"
+msgstr "Израел"
+
+msgid "Italy"
+msgstr "Италија"
+
+msgid "Japan"
+msgstr "Јапонија"
+
+msgid "Mexico"
+msgstr "Мексико"
+
+msgid "Netherlands"
+msgstr "Холандија"
+
+msgid "New Zealand"
+msgstr "Нов Зеланд"
+
+msgid "Norway"
+msgstr "Норвешка"
+
+msgid "Poland"
+msgstr "Полска"
+
+msgid "Portugal"
+msgstr "Португалија"
+
+msgid "Russia"
+msgstr "Русија"
+
+msgid "Slovakia"
+msgstr "Словачка"
+
+msgid "South Africa"
+msgstr "Јужна Африка"
+
+msgid "South Korea"
+msgstr "Јужна Кореа"
+
+msgid "Spain"
+msgstr "Шпанија"
+
+msgid "Sweden"
+msgstr "Шведска"
+
+msgid "Switzerland"
+msgstr "Швајцарија"
+
+msgid "Turkey"
+msgstr "Турција"
+
+msgid "Ukraine"
+msgstr "Украина"
+
+msgid "United Arab Emirates"
+msgstr "Обединети Арапски Емирати"
+
+msgid "United Kingdom"
+msgstr "Обединето Кралство"
+
+msgid "United States"
+msgstr "Соединети Држави"
+
+msgid "achievements"
+msgstr "достигнувања"
+
+msgid "Investment management"
+msgstr "Управување со инвестиции"
+
+msgid "Select..."
+msgstr "Изберете ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "Менаџмент на инвестиции"
+
+msgid "Investors list"
+msgstr "Листа инвеститори"
+
+msgid "My investments"
+msgstr "Моите инвестиции"
+
+msgid "Create date"
+msgstr "Создаде датум"
+
+msgid "Author of the project"
+msgstr "Автор на проектот"
+
+msgid "Date and time"
+msgstr "Датумот и времето"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "NEXT"
+msgstr "НЕКСТ"
+
+msgid "Next"
+msgstr "Следниот"
+
+msgid "Apply"
+msgstr "Применуваат"
+
+msgid "Kazakhstan"
+msgstr "Казахстан"
+
+msgid "Almaty"
+msgstr "Алмати"
+
+msgid "Hong Kong"
+msgstr "Хонг Конг"
+
+msgid "Science"
+msgstr "Наука"
+
+msgid "Architecture"
+msgstr "Архитектура"
+
+msgid "Photography"
+msgstr "Фотографија"
+
+msgid "Designer"
+msgstr "Дизајнер"
+
+msgid "IT specialist"
+msgstr "ИТ специјалист"
+
+msgid "Agronomist"
+msgstr "Агроном"
+
+msgid "Architect"
+msgstr "Архитект"
+
+msgid "Lawyer"
+msgstr "Адвокат"
+
+msgid "Writer"
+msgstr "Писател"
+
+msgid "Doctor"
+msgstr "Доктор"
+
+msgid "Scientist"
+msgstr "Научник"
+
+msgid "Marketer"
+msgstr "Продажби"
+
+msgid "Teacher"
+msgstr "Наставникот"
+
+msgid "Cook"
+msgstr "готви"
+
+msgid "Artist"
+msgstr "Уметникот"
+
+msgid "Photographer"
+msgstr "Фотограф"
+
+msgid "Ecologist"
+msgstr "Еколог"
+
+msgid "Economist"
+msgstr "Економист"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Новинар"
+
+msgid "Builder"
+msgstr "Градител"
+
+msgid "These users may be interesting for you"
+msgstr "Овие корисници може да бидат интересни за Вас"
+
+msgid "These articles may be interesting for you"
+msgstr "Овие статии може да биде интересна за вас"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Ќе се приклучи на оваа група како Аdministrator"
+
+msgid "articles written."
+msgstr "статии напишани."
+
+msgid "groups created."
+msgstr "создадена групи."
+
+msgid "Creation"
+msgstr "Создавање"
+
+msgid "Build a dream"
+msgstr "Изградба на сонот"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Прочитајте повеќе интересни статии - оди бесплатна регистрација"
+

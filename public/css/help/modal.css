@@ -1,0 +1,131 @@
+/* popups */
+.new-folder_popup,
+.rename-folder_popup,
+.move_popup,
+.access-popup {
+    position: relative;
+    background-color: #fff;
+    border-radius: 4px;
+    max-width: 560px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 2px 2px #c9c8c7;
+}
+
+#popup-cloud, #popup-cloudChat {
+
+    background-color: #fff;
+    border-radius: 4px;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 2px 2px #c9c8c7;
+}
+
+.move_popup {
+    max-width: 360px;
+}
+
+.new-folder_name,
+.rename-folder_name {
+    display: block;
+    width: 100%;
+    height: 32px;
+    border: 1px solid #d7d7d7;
+    border-radius: 4px;
+    padding: 0 12px;
+    outline: none;
+    margin: 0 0 20px 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.new-folder_name:focus,
+.rename-folder_name:focus {
+    outline: none;
+}
+
+.new-folder_btn,
+.rename-folder_btn,
+.move_btn {
+    display: block;
+    height: 36px;
+    width: 140px;
+    float: left;
+    color: #fff;
+    font-size: 14px;
+    line-height: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 4px;
+    border: 2px solid #fbaa31;
+    background-color: #fbaa31;
+}
+
+.move_btn {
+    float: none;
+    margin: 0 auto 10px;
+}
+
+.new-folder_close,
+.rename-folder_close {
+    display: block;
+    height: 36px;
+    width: 140px;
+    float: right;
+    color: #fbaa31;
+    font-size: 14px;
+    line-height: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 4px;
+    border: 2px solid #fbaa31;
+    background-color: #fff;
+}
+
+.new-folder_btn:hover,
+.new-folder_close:hover,
+.rename-folder_btn:hover,
+.rename-folder_close:hover,
+.move_btn:hover {
+    color: #fff !important;
+    background-color: #ffb547;
+    border-color: #ffb547;
+}
+
+.new-folder_btn:active,
+.new-folder_close:active,
+.rename-folder_btn:active,
+.rename-folder_close:active,
+.move_btn:active,
+.move_btn:focus {
+    color: #fff !important;
+    border-color: #fbaa31;
+    background-color: #fbaa31;
+}
+
+.move_btn--disable {
+    background-color: #ccc !important;
+    border-color: #ccc !important;
+}
+
+.new-folder_popup h2,
+.rename-folder_popup h2,
+#popup-cloud h2,
+#popup-cloudChat h2,
+.move_popup h2 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 16px;
+    padding: 0 0 15px;
+    font-weight: bold;
+}
+
+.mfp-hide {
+    display: none !important;
+}

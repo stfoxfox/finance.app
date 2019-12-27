@@ -1,0 +1,297 @@
+#ItemWrapper{
+    margin: 0 -10px;
+}
+
+#ItemWrapper .invest{
+    padding: 0 10px;
+	cursor: pointer;
+}
+
+#ItemWrapper .invest .wrap{
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 280px;
+    margin: 0 0 20px;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+    overflow: hidden;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+    position: relative;
+}
+
+#ItemWrapper .invest .wrap:hover{
+    box-shadow: 0 0 6px 1px #ccced4;
+}
+
+#ItemWrapper .invest .headImg {
+    float: left;
+    margin-right: 8px;
+}
+
+.cardHead {
+    max-height: 55px;
+    overflow: hidden;
+}
+
+#ItemWrapper .invest .headTitle {
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'Open Sans Bold', sans-serif;
+    color: #444444;
+    line-height: 27px;
+	text-decoration: none;
+}
+
+#ItemWrapper .invest .headBottom {
+    font-size: 12px;
+    margin-left: 39px;
+    display: flex;
+}
+
+#ItemWrapper .invest .dataTitle {
+    color: #b1bbc9;
+    margin-right: 2px;
+}
+
+#ItemWrapper .invest .item{
+    display: inline-block;
+}
+
+#ItemWrapper .invest .item a {
+    color: #444444;
+    max-width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#ItemWrapper .invest .item a:hover {
+    text-decoration: none;
+}
+
+#ItemWrapper .invest .category {
+    display: inline-block;
+    margin-right: 43px;
+}
+
+#ItemWrapper .invest .type {
+    display: flex;
+}
+
+#ItemWrapper .invest .cardText {
+    padding: 9px;
+    font-size: 16px;
+    text-align: justify;
+    word-wrap: break-word;
+    overflow: hidden;
+    color: #666666;
+	cursor: auto;
+}
+
+.exchControls{
+    bottom: 39px;
+    position: absolute;
+    left: 0;
+}
+
+.bottomUsers {
+    width: 100%;
+    text-align: center;
+}
+
+.artUserNameBlock .artUserName {
+    max-width: 180px;
+    color: #666666;
+}
+
+.artUserLogoImg img {
+    max-width: 100%;
+}
+
+.fll {
+    float: none;
+}
+
+.avatar.rounded {
+    border: 1px solid #12cf9a;
+}
+
+
+#ItemWrapper .invest .footer {
+    border-top: 1px solid #dfe4eb;
+    bottom: 0;
+    left: 0;
+    height: 42px;
+    position: absolute;
+    width: 100%;
+}
+
+#ItemWrapper .invest .hoverCenter {
+    display: table-cell;
+    height: 90px;
+    vertical-align: middle;
+}
+
+.bottomHover, .bottomDataMy, .bottomHoverMy {
+    line-height: 42px;
+    width: 100%;
+}
+
+.bottomData{
+    width: 100%;
+    line-height: 37px;
+}
+
+.bottomData, .bottomDataMy {
+    display: inline-flex;
+}
+
+.bottomHover, .bottomHoverMy {
+    display: none;
+}
+
+.bottomHover:hover, .bottomData:hover, .hoverCenter:hover {
+    cursor: pointer;
+}
+
+.hoverAll, .hoverMy1, .hoverMy2, .hoverMy3 {
+    display: none;
+    width: 100%;
+    text-align: center;
+}
+
+.hoverAll, .hoverAllMy {
+    background-color: #fdbd10;
+    color: white;
+    height: 100%;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.hoverMy1, .hoverMy2, .hoverMy3 {
+    width: 100%;
+    text-align: center;
+    float: left;
+    margin: auto 0;
+}
+
+.hoverLink1, .hoverLink2, .hoverLink3 {
+    width: 33%;
+    font-weight: bold;
+}
+
+.hoverLink1 a {
+    color: #82dd9a;
+    text-decoration: none;
+}
+
+.hoverLink2 a {
+    color: #fd8181;
+    text-decoration: none;
+}
+
+.hoverLink3 a {
+    color: #9bd3ea;
+    text-decoration: none;
+}
+
+.btmImg {
+    padding-left: 8%;
+}
+
+.btmText {
+    color: #afbdcc;
+    line-height: 19px;
+    padding: 10px 0 0 5px;
+    font-size: 14px;
+    text-align: left;
+    width: 20%;
+}
+
+@media (max-width: 495px) {
+	.bottomData .btmText.date,
+	.bottomDataMy .btmText.date{
+		font-size: 13px;
+	}
+}
+
+.greenDigit {
+    color: #86d27c;
+    font-weight: bold;
+}
+
+/* event_files view*/
+.userFiles{
+    position: absolute;
+    bottom: 30%;
+    height: 22%;
+    width: 95%;
+    display: inline-flex;
+    text-align: center;
+}
+.fileItem{
+    height: 100%;
+    margin: auto;
+}
+.fileItem img{
+    /*height: 50px;*/
+    width: auto;
+    border-radius: 10px;
+}
+
+
+/*from art_exchange.css*/
+
+.article-select-wrapper {
+    float: left;
+    margin: 0;
+}
+.articleControls {
+    min-height: 70px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
+.exchControls .artUserLogo {
+    height: 50px;
+    line-height: 50px;
+}
+.exchControls .artUserLogoBlock {
+    height: 40px;
+    width: 40px;
+    border-radius: 40px;
+}
+.exchControls .artUserLogoImg {
+    height: 33px;
+    width: 33px;
+    border-radius: 33px;
+}
+.exchControls .artUserNameBlock {
+    line-height: 40px;
+    height: 40px;
+}
+.exchControls .artUserName {
+    font-size: 14px;
+    line-height: 20px;
+    padding-bottom: 5px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+}
+.articleControlsLeft .artUserProf {
+    line-height: 40px;
+    height: 40px;
+}
+.articleControlsLeft .artUserProfName {
+    font-size: 16px;
+    line-height: 20px;
+    font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.article-select-wrapper {
+    width: 210px !important;
+}
+.btn-create-articles, .btn-create-articles:focus {
+    padding:0 10px;
+}

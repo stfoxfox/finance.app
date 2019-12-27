@@ -1,0 +1,3348 @@
+# සිංහල (Сингальский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: සිංහල (Сингальский) <support@konstruktor.com>\n"
+"Language: සිංහල (Сингальский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "පරිශීලක නාමය   paraiśaīlaka naāmaya"
+
+msgid "Invalid username or password, try again"
+msgstr "වැරදි භාවත නාමය හෝ මුරපදය . නැවත උත්සාහ කරන්න."
+
+msgid "Settings"
+msgstr "සැකසුම්"
+
+msgid "Home"
+msgstr "මුල් පිටුව"
+
+msgid "You must log in to access this page"
+msgstr "ඔබ විසින් මෙම පිටුව වෙත ප්රවේශ වීමට ලොග් යුතුය"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "ඔබගේ සැසිය කල් ඉකුත් වී ඇත. මෙම ක්රියාව සිදු කිරීමට relogin , කරන්න"
+
+msgid "Save"
+msgstr "සුරකින්න"
+
+msgid "Head Office"
+msgstr "ප්රධාන කාර්යාලය"
+
+msgid "Address"
+msgstr "ලිපිනය"
+
+msgid "Back"
+msgstr "ආපසු"
+
+msgid "Apply"
+msgstr "අයදුම් කරන්න"
+
+msgid "Upload files…"
+msgstr "ගොනු උඩුගත කරන්න ..."
+
+msgid "Set as main"
+msgstr "ප්රධාන ලෙස සකසන්න"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Original image"
+msgstr "මුල් රූප"
+
+msgid "Uploaded"
+msgstr "උඩුගත"
+
+msgid "File name"
+msgstr "ගොනු නාමය"
+
+msgid "File size"
+msgstr "ගොනු විශාලත්වය"
+
+msgid "Resolution"
+msgstr "යෝජනාව"
+
+msgid "Enlarge"
+msgstr "විශාල"
+
+msgid "Links"
+msgstr "සබැඳි"
+
+msgid "Original size"
+msgstr "මුල් ප්රමාණය"
+
+msgid "For editor"
+msgstr "කර්තෘ සඳහා"
+
+msgid "Resize"
+msgstr "ප්රථිප්රමාණ"
+
+msgid "Width"
+msgstr "පළල"
+
+msgid "Height"
+msgstr "උස"
+
+msgid "Media URL"
+msgstr "මාධ්ය URL එක"
+
+msgid "Add record"
+msgstr "වාර්තා එක් කරන්න"
+
+msgid "Show filter settings"
+msgstr "පෙරහන් සැකසුම් පෙන්වන්න"
+
+msgid "Edit record"
+msgstr "සංස්කරණය කරන්න වාර්තාවක්"
+
+msgid "Delete record"
+msgstr "වාර්තා Delete"
+
+msgid "Delete checked records"
+msgstr "පරීක්ෂා වාර්තා Delete"
+
+msgid "Dashboard"
+msgstr "උපකරණ පුවරුව"
+
+msgid "Password"
+msgstr "මුරපදය"
+
+msgid "Remember me"
+msgstr "මාව මතක තබා ගන්න"
+
+msgid "Login"
+msgstr "ඇතුල් වන්න"
+
+msgid "Clean image cache"
+msgstr "පිවිතුරු රූප පූර්වාපේක්ෂි"
+
+msgid "Processing query..."
+msgstr "සැකසුම් විමසුම් ..."
+
+msgid "CMS Development"
+msgstr "CMS මඟින් සංවර්ධන"
+
+msgid "Admin Home Page"
+msgstr "මුල් පිටුව පරිපාලන"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "නව ටැබ් තුළ පෙරමුණ - අවසන් විවෘත මුල් පිටුව"
+
+msgid "Go to Site"
+msgstr "අඩවිය වෙත යන්න"
+
+msgid "Log out"
+msgstr "පිටවන්න"
+
+msgid "Send"
+msgstr "යවන්න"
+
+msgid "General"
+msgstr "සාමාන්ය"
+
+msgid "Title"
+msgstr "සිරැසිය"
+
+msgid "Teaser"
+msgstr "එක්කෝ"
+
+msgid "Published"
+msgstr "Published"
+
+msgid "Featured"
+msgstr "විශේෂාංග"
+
+msgid "Active"
+msgstr "ක්රියාකාරී"
+
+msgid "Field is mandatory"
+msgstr "ක්ෂේත්ර අනිවාර්ය වේ"
+
+msgid "Sort Order"
+msgstr "වර්ග කිරීම සාමය"
+
+msgid "Upload"
+msgstr "උඩුගත"
+
+msgid "Loading..."
+msgstr "පූරණය වේ ..."
+
+msgid "Jan"
+msgstr "ජනවාරි"
+
+msgid "Feb"
+msgstr "පෙබරවාරි"
+
+msgid "Mar"
+msgstr "මාර්තු"
+
+msgid "Apr"
+msgstr "අප්රේල්"
+
+msgid "May"
+msgstr "මැයි"
+
+msgid "Jun"
+msgstr "ජුනි මස"
+
+msgid "Jul"
+msgstr "ජූලි"
+
+msgid "Aug"
+msgstr "අගෝස්තු මස"
+
+msgid "Sep"
+msgstr "සැප්තැම්බර්"
+
+msgid "Oct"
+msgstr "ඔක්තෝබර්"
+
+msgid "Nov"
+msgstr "නොවැම්බර්"
+
+msgid "Dec"
+msgstr "දෙසැම්බර්"
+
+msgid "Product already exists in the order"
+msgstr "නිෂ්පාදන මේ වන විටත් සඳහා පවතී"
+
+msgid "Product does not exist"
+msgstr "නිෂ්පාදන නොපවතියි"
+
+msgid "Incorrect request"
+msgstr "වැරදි ඉල්ලීම"
+
+msgid "Products"
+msgstr "නිෂ්පාදන"
+
+msgid "Product types"
+msgstr "නිෂ්පාදන වර්ග"
+
+msgid "Contractors"
+msgstr "කොන්ත්රාත්කරුවන්"
+
+msgid "Contractor"
+msgstr "කොන්ත්රාත්කරු"
+
+msgid "Orders"
+msgstr "නියෝග"
+
+msgid "FAQ"
+msgstr "නිතර අසන පැන"
+
+msgid "New order"
+msgstr "නව නියෝගයක්"
+
+msgid "My orders"
+msgstr "මගේ නියෝග"
+
+msgid "Recharge balance"
+msgstr "ගිණුම් ශේෂය ඉතිරි"
+
+msgid "Administrator"
+msgstr "පරිපාලක"
+
+msgid "Incorrect event ID"
+msgstr "වැරදි සිදුවීම හැඳුනුම්පත"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid ""
+msgstr "ටෙක් . පරාමිතීන්"
+
+msgid "Edit contractor"
+msgstr "සංස්කරණය කරන්න කොන්ත්රාත්කරුවෙකු"
+
+msgid "Create contractor"
+msgstr "කොන්ත්රාත්කරු නිර්මාණය"
+
+msgid "Edit question"
+msgstr "සංස්කරණය කරන්න ප්රශ්නය"
+
+msgid "Create question"
+msgstr "ප්රශ්නය නිර්මාණය"
+
+msgid "Edit order"
+msgstr "සංස්කරණය කරන්න නියෝගයක්"
+
+msgid "Create order"
+msgstr "සඳහා නිර්මාණය"
+
+msgid "Edit product"
+msgstr "සංස්කරණය කරන්න නිෂ්පාදන"
+
+msgid "Create product"
+msgstr "නිෂ්පාදන නිර්මාණය"
+
+msgid "Edit product type"
+msgstr "සංස්කරණය කරන්න නිෂ්පාදන වර්ගය"
+
+msgid "Create product type"
+msgstr "නිෂ්පාදන වර්ගය නිර්මාණය"
+
+msgid "You have received a file"
+msgstr "ඔබ ගොනුව ලැබී ඇති"
+
+msgid "You received a file from"
+msgstr "ඔබ ගොනුවක් ලැබී"
+
+msgid "File has been uploaded"
+msgstr "ගොනු උඩුගත කර ඇත"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "අවම ප්රමාණය"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "අයිතම"
+
+msgid "Remove"
+msgstr "ඉවත් කරන්න"
+
+msgid "Contact person"
+msgstr "අදාළ පුද්ගලයා"
+
+msgid "Email"
+msgstr "විද්යුත්"
+
+msgid "Contractor phone"
+msgstr "කොන්ත්රාත්කරු දුරකථන"
+
+msgid "Contractor name"
+msgstr "කොන්ත්රාත්කරු නම"
+
+msgid "Contractor details"
+msgstr "කොන්ත්රාත්කරු විස්තර"
+
+msgid "Order ID"
+msgstr "සාමය හැඳුනුම්පත"
+
+msgid "Sum"
+msgstr "මුදල"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "ඔබගේ ඉතිරි බදු ගෙවන්නන්ට සුදුසු මුදල් ගෙවීමේ ක්රමය තෝරන්න"
+
+msgid "Recharge amount"
+msgstr "recharge ප්රමාණය"
+
+msgid "Paid"
+msgstr "ගෙවුම්"
+
+msgid "Shipped"
+msgstr "නැව් ගත"
+
+msgid "- No products in this order -"
+msgstr "- මෙම නියෝගය කිසිදු නිෂ්පාදන -"
+
+msgid "month"
+msgstr "මාසය"
+
+msgid "No user found"
+msgstr "පරිශීලක හමු නොවිනි"
+
+msgid "Achievement"
+msgstr "ජයග්රහණ"
+
+msgid "Confirmed accomplishments"
+msgstr "තහවුරු ජයග්රහණයන්"
+
+msgid "Remove achievement"
+msgstr "ජයග්රහණය ඉවත් කරන්න"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "දුරකථන"
+
+msgid "Site URL and email"
+msgstr "අඩවිය URL එක සහ ඊමේල්"
+
+msgid "Remove address"
+msgstr "ලිපිනය ඉවත් කරන්න"
+
+msgid "Members"
+msgstr "මන්ත්රීවරුන්"
+
+msgid "Requires a payment"
+msgstr "ගෙවීම් අවශ්යයි"
+
+msgid "Shipping"
+msgstr "නැව්ගත කිරීම"
+
+msgid "Ready"
+msgstr "සූදානම්"
+
+msgid "Find user..."
+msgstr "පරිශීලක සොයන්න ..."
+
+msgid "Order it"
+msgstr "එය ඇණවුම්"
+
+msgid "Find group..."
+msgstr "පිරිසක් සොයන්න ..."
+
+msgid "Find user or community..."
+msgstr "පරිශීලක හෝ පරිශීලක ප්රජාව සොයන්න ..."
+
+msgid "No item found"
+msgstr "අයිතමය සොයා නොමැත"
+
+msgid "years"
+msgstr "වසර"
+
+msgid "Send message"
+msgstr "ට පණිවුඞයක් යවන්න"
+
+msgid "Message"
+msgstr "පණිවුඩය"
+
+msgid "To send message press Enter"
+msgstr "පණිවිඩය මාධ්ය ඇතුල් කරන්න යැවීමට"
+
+msgid "To send message press CTRL+Enter"
+msgstr "පණිවිඩය යැවීමට මාධ්ය කිරීමට Ctrl + ඇතුල් කරන්න"
+
+msgid "Processing file(s)..."
+msgstr "සැකසුම් ගොනුව (ව) ..."
+
+msgid "Group settings"
+msgstr "සමූහ සැකසුම්"
+
+msgid "Create group"
+msgstr "පිරිසක් නිර්මාණය කරන්න"
+
+msgid "Group has been successfully saved"
+msgstr "සමූහය විසින් සාර්ථකව සුරක්ෂිත කර ඇත"
+
+msgid "Group title"
+msgstr "සමූහ ශීර්ෂය"
+
+msgid "Group video"
+msgstr "සමූහ වීඩියෝ"
+
+msgid "Description"
+msgstr "විස්තරය"
+
+msgid "Your role in group"
+msgstr "කණ්ඩායමේ ඔබගේ භූමිකාව"
+
+msgid "Role"
+msgstr "කාර්යභාරය"
+
+msgid "Photo or video gallery"
+msgstr "ඡායාරූප හෝ වීඩියෝ ගැලරිය"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL එක"
+
+msgid "Upload video"
+msgstr "වීඩියෝ උඩුගත"
+
+msgid "Add group address"
+msgstr "පිරිසක් ලිපිනය එකතු කරන්න"
+
+msgid "Group articles"
+msgstr "සමූහ ලිපි"
+
+msgid "No addresses yet"
+msgstr "තවමත් ලිපින නොමැත"
+
+msgid "Add group achievement"
+msgstr "පිරිසක් ජයග්රහණයක් එකතු කරන්න"
+
+msgid "No achivements yet"
+msgstr "තවමත් කිසිදු achivements"
+
+msgid "Are you sure to delete this user"
+msgstr "මෙම පරිශීලක ඉවත් කිරීමට ඔබට විශ්වාසද"
+
+msgid "Add member"
+msgstr "සාමාජික එකතු කරන්න"
+
+msgid "Are you sure to delete this record?"
+msgstr "මෙම වාර්තාව මකා දැමීමට ඔබට විශ්වාස ද?"
+
+msgid "Join this group"
+msgstr "මෙම කණ්ඩායම හා එක්වන්න"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "ඔබගේ ඇරයුම කණ්ඩායම පරිපාලක වෙත යවන ලදී"
+
+msgid "All addresses"
+msgstr "සියළු ලිපිනයන්"
+
+msgid "Collapse"
+msgstr "බිඳ වැටීම"
+
+msgid "Achievements"
+msgstr "ජයග්රහණ"
+
+msgid "Show more"
+msgstr "තව පෙන්වන්න"
+
+msgid "Team"
+msgstr "කණ්ඩායම"
+
+msgid "Projects"
+msgstr "ව්යාපෘති"
+
+msgid "New project"
+msgstr "නව ව්යාපෘතිය"
+
+msgid "Project has not been created yet"
+msgstr "ව්යාපෘති තවමත් නිර්මාණය වී නොමැති"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "ශේෂ"
+
+msgid "Main page"
+msgstr "ප්රධාන පිටුව"
+
+msgid "Upload image"
+msgstr "උඩුගත රූපය"
+
+msgid "My time"
+msgstr "මගේ කාලය"
+
+msgid "Day"
+msgstr "දින"
+
+msgid "Week"
+msgstr "සතිය"
+
+msgid "Project settings"
+msgstr "ව්යාපෘති සැකසුම්"
+
+msgid "Create project"
+msgstr "ව්යාපෘතිය නිර්මාණය"
+
+msgid "Project has been successfully saved"
+msgstr "ව්යාපෘති සාර්ථකව ගබඩා කර ඇත"
+
+msgid "Project name"
+msgstr "ව්යාපෘතියේ නම"
+
+msgid "Deadline"
+msgstr "නියමිත කාලය"
+
+msgid "Close"
+msgstr "වසන්න"
+
+msgid "Manager"
+msgstr "කළමනාකරු"
+
+msgid "Assigned to"
+msgstr "පවරා"
+
+msgid "Discussion"
+msgstr "සාකච්ඡා"
+
+msgid "Task was created"
+msgstr "කාර්ය සාධක නිර්මිතය"
+
+msgid "Task was closed"
+msgstr "කාර්ය සාධක වසා"
+
+msgid "Go to Group"
+msgstr "සමූහ වෙත යන්න"
+
+msgid "Closed"
+msgstr "වසා"
+
+msgid "Last updates"
+msgstr "පසුගිය යාවත්කාලීන"
+
+msgid "Project is closed"
+msgstr "ව්යාපෘති වසා ඇත"
+
+msgid "No open tasks"
+msgstr "මෙයට විවෘත කාර්යයන්"
+
+msgid "New task"
+msgstr "නව කාර්ය සාධක"
+
+msgid "Closed tasks"
+msgstr "වසා කාර්යයන්"
+
+msgid "Add subproject"
+msgstr "subproject එකතු කරන්න"
+
+msgid "Add task"
+msgstr "කාර්ය එකතු කරන්න"
+
+msgid "Sun"
+msgstr "ඉරිදා"
+
+msgid "Mon"
+msgstr "සඳුදා"
+
+msgid "Tue"
+msgstr "අගහරුවදා"
+
+msgid "Wed"
+msgstr "බදාදා"
+
+msgid "Thur"
+msgstr "බ්රහස්පතින්දා"
+
+msgid "Fri"
+msgstr "සිකුරාදා"
+
+msgid "Sat"
+msgstr "සෙනසුරාදා"
+
+msgid "Event title"
+msgstr "අවස්ථාවට හිමිකම්"
+
+msgid "Event description"
+msgstr "අවස්ථාවට විස්තර"
+
+msgid "I registered on this site"
+msgstr "මම මෙම අඩවියේ ලියාපදිංචි"
+
+msgid "Last created groups"
+msgstr "පසුගිය කණ්ඩායම් නිර්මාණය"
+
+msgid "You joined this group as"
+msgstr "ඔබ මෙම කන්ඩායමට එකතු"
+
+msgid "You received a request to join the group"
+msgstr "ඔබ පිරිසක් එක්වන ලෙස ඉල්ලීමක් ලැබී"
+
+msgid "Updated site"
+msgstr "යාවත්කාලීන වෙබ් අඩවිය"
+
+msgid "Site is under construction"
+msgstr "වෙබ් අඩවිය ඉදිකිරීම් යටතේ"
+
+msgid "Last registered users"
+msgstr "පසුගිය ලියාපදිංචි පරිශීලකයන්"
+
+msgid "User settings"
+msgstr "පරිශීලක සැකසුම්"
+
+msgid "Technical support"
+msgstr "තාක්ෂණික සහාය"
+
+msgid "Change email"
+msgstr "වෙනස් විද්යුත් තැපැල්"
+
+msgid "Change password"
+msgstr "මුරපදය වෙනස් කරන්න"
+
+msgid "User has been successfully saved"
+msgstr "පරිශීලක සාර්ථකව ගබඩා කර ඇත"
+
+msgid "Full name"
+msgstr "සම්පුර්ණ නම"
+
+msgid "My video"
+msgstr "මගේ වීඩියෝ"
+
+msgid "Skills"
+msgstr "නිපුණතා"
+
+msgid "Birthday"
+msgstr "උපන් දිනය"
+
+msgid "Country of residence"
+msgstr "පදිංචි රට"
+
+msgid "Country"
+msgstr "රට"
+
+msgid "Zip Code"
+msgstr "කලාප කේතය"
+
+msgid "City/town of residence"
+msgstr "නිවස නගරය / නගරය"
+
+msgid "University/college"
+msgstr "විශ්වවිද්යාල / විද්යාල"
+
+msgid "University/college photo"
+msgstr "විශ්වවිද්යාල / විද්යාලයේ ඡායාරූප"
+
+msgid "Add user\'s accomplishments"
+msgstr "පරිශීලක ජයග්රහණයන් එකතු කරන්න"
+
+msgid "Interface language"
+msgstr "අතුරු මුහුණත් භාෂාව"
+
+msgid "How other people see this page"
+msgstr "කොහොමද අනෙක් අය මෙම පිටුව බලන්න"
+
+msgid "Video with me"
+msgstr "මා සමඟ වීඩියෝ"
+
+msgid "Groups"
+msgstr "කණ්ඩායම්"
+
+msgid "Registered today"
+msgstr "අද ලියාපදිංචි"
+
+msgid "Qty"
+msgstr "යවන ලද"
+
+msgid "No registered users yet"
+msgstr "තවමත් ලියාපදිංචි වූ පරිශීලකයන් නොමැත"
+
+msgid "Total"
+msgstr "මුළු"
+
+msgid "Registered total"
+msgstr "ලියාපදිංචි මුළු"
+
+msgid "You received a file"
+msgstr "ඔබ ගොනුව ලැබී"
+
+msgid "You were invited into this room"
+msgstr "ඔබට මෙම කාමරයට ආරාධනා කරන ලදී"
+
+msgid "Request is being processed"
+msgstr "ඉල්ලීම් සකස් කොට ඇත"
+
+msgid "Fax"
+msgstr "ෆැක්ස්"
+
+msgid "Messenger"
+msgstr "මැසෙන්ජර්"
+
+msgid "New subproject"
+msgstr "නව subproject"
+
+msgid "messages written."
+msgstr "ලිඛිත පණිවිඩ."
+
+msgid "projects created based on groups."
+msgstr "කණ්ඩායම් මත පදනම් නිර්මාණය ව්යාපෘති."
+
+msgid "users registered on website."
+msgstr "වෙබ් අඩවිය ලියාපදිංචි වූ පරිශීලකයන් ."
+
+msgid "New email"
+msgstr "නව විද්යුත්"
+
+msgid "Confirm email"
+msgstr "ඊතැපෑල තහවුරු කරන්න"
+
+msgid "New password"
+msgstr "නව මුරපදය"
+
+msgid "Confirm password"
+msgstr "මුරපදය තහවුරු කරන්න"
+
+msgid "Occupation"
+msgstr "විෙශේෂිත"
+
+msgid "Timezone"
+msgstr "වේලා කලාපය"
+
+msgid "Answer"
+msgstr "පිළිතුර"
+
+msgid "Articles"
+msgstr "ලිපි"
+
+msgid "Article"
+msgstr "ලිපිය"
+
+msgid "Video-article"
+msgstr "වීඩියෝ - ලිපිය"
+
+msgid "Find article..."
+msgstr "ලිපිය සොයන්න ..."
+
+msgid "Politics"
+msgstr "දේශපාලනය"
+
+msgid "Economics"
+msgstr "ආර්ථික විද්යාව"
+
+msgid "Community"
+msgstr "ප්රජා"
+
+msgid "Culture"
+msgstr "සංස්කෘතිය"
+
+msgid "Sports"
+msgstr "ක්රීඩා"
+
+msgid "Hi-tech"
+msgstr "අධි තාක්ෂණික"
+
+msgid "Cars"
+msgstr "කාර්"
+
+msgid "Fashion"
+msgstr "විලාසිතා"
+
+msgid "Games"
+msgstr "ක්රීඩා"
+
+msgid "Other"
+msgstr "වෙනත්"
+
+msgid "Invalid mediafile"
+msgstr "වලංගු නොවන mediafile"
+
+msgid "No articles in this category yet"
+msgstr "තවමත් මෙම ප්රවර්ගය සතු කිසිදු ලිපි"
+
+msgid "Back to profile"
+msgstr "ආපසු පැතිකඩ වෙත"
+
+msgid "View article"
+msgstr "දැක්ම ලිපිය"
+
+msgid "Edit article"
+msgstr "සංස්කරණය කරන්න ලිපිය"
+
+msgid "Create article"
+msgstr "ලිපිය තැනීමට"
+
+msgid "Article title"
+msgstr "ව්යවස්ථාවේ ශීර්ෂය"
+
+msgid "Article section"
+msgstr "ව්යවස්ථාවේ කොටසක්"
+
+msgid "Choose image"
+msgstr "රූපය තෝරන්න"
+
+msgid "Save and upload"
+msgstr "සුරැකීමට සහ උඩුගත"
+
+msgid "Show more..."
+msgstr "තව පෙන්වන්න..."
+
+msgid "Create"
+msgstr "නිර්මාණය"
+
+msgid "Edit"
+msgstr "සංස්කරණය"
+
+msgid "Project"
+msgstr "ව්යාපෘති"
+
+msgid "Team"
+msgstr "කණ්ඩායම"
+
+msgid "A new article was published"
+msgstr "නව ලිපිය ප්රකාශයට පත් කරන ලදී"
+
+msgid "You joined this project"
+msgstr "ඔබ මෙම ව්යාපෘතිය එක්ව"
+
+msgid "Enter your information in the User settings"
+msgstr "ඔබේ තොරතුරු පරිශීලක සැකසීම් තුළ ඇතුලත් කරන්න"
+
+msgid "Communities"
+msgstr "ප්රජාවන්"
+
+msgid "Video presentation of my accomplishments"
+msgstr "මගේ සාර්ථකත්වය වීඩියෝ ඉදිරිපත්"
+
+msgid "My articles"
+msgstr "මගේ ලිපි"
+
+msgid "User"
+msgstr "පරිශීලක"
+
+msgid "Users"
+msgstr "පරිශීලකයන්"
+
+msgid "Add new list"
+msgstr "නව ලැයිස්තුව එකතු කරන්න"
+
+msgid "List title"
+msgstr "ලැයිස්තුව ශීර්ෂය"
+
+msgid "Add"
+msgstr "එක් කරන්න"
+
+msgid "Add to favorites"
+msgstr "ප්රියතම දැන්වීම් එකතු කරන්න"
+
+msgid "Delete from favorites"
+msgstr "ප්රියතම දැන්වීම් වලින් මකන්න"
+
+msgid "Select list"
+msgstr "ලැයිස්තුව තෝරන්න"
+
+msgid "Subscriptions"
+msgstr "මෙම නිකුතුව"
+
+msgid "Subscribe"
+msgstr "දායක වන්න"
+
+msgid "Unsubscribe"
+msgstr "වනවාද,"
+
+msgid "General list"
+msgstr "සාමාන්ය ලැයිස්තුව"
+
+msgid "No users in this list"
+msgstr "මෙම ලැයිස්තුව කිසිදු පරිශීලකයන්"
+
+msgid "Publish"
+msgstr "ප්රකාශයට පත් කරනු ලබයි"
+
+msgid "Unpublish"
+msgstr "කාශනය ම"
+
+msgid "Add user"
+msgstr "පරිශීලක එකතු කරන්න"
+
+msgid "Create document"
+msgstr "ලේඛනයක් ඇති"
+
+msgid "Edit document"
+msgstr "සංස්කරණය කරන්න ලේඛනය"
+
+msgid "View"
+msgstr "දැක්ම"
+
+msgid "Document title"
+msgstr "ලේඛන හිමිකම්"
+
+msgid "Find document..."
+msgstr "ලියවිල්ල සොයන්න ..."
+
+msgid "Share your thoughts"
+msgstr "ඔබේ සිතුවිලි Share"
+
+msgid "Leave your comment"
+msgstr "කොමෙන්ට් කරන්න"
+
+msgid "Accept"
+msgstr "පිළිගන්න"
+
+msgid "Decline"
+msgstr "පහත වැටීම"
+
+msgid "Add article"
+msgstr "ලිපිය එකතු කරන්න"
+
+msgid "Link to verified accomplishments"
+msgstr "තහවුරු සාර්ථකත්වය සබැඳිය"
+
+msgid "No articles here yet..."
+msgstr "තවමත් මෙහි ලිපි නෑ"
+
+msgid "Find file or folder..."
+msgstr "ගොනුවක් හෝ ෆෝල්ඩරයක් සොයන්න ..."
+
+msgid "Sort"
+msgstr "වර්ග"
+
+msgid "By name"
+msgstr "නම"
+
+msgid "By date"
+msgstr "දිනය අනුව"
+
+msgid "By updated date"
+msgstr "යාවත්කාලීන දිනය වන විට"
+
+msgid "By size"
+msgstr "ප්රමාණය"
+
+msgid "By type"
+msgstr "වර්ග අනුව"
+
+msgid "Move"
+msgstr "පියවර"
+
+msgid "File Manager"
+msgstr "ගොනුව කළමනාකරු"
+
+msgid "Share link"
+msgstr "මෙම දැන්වීම සබැඳියක්"
+
+msgid "Responsible"
+msgstr "වගකිව"
+
+msgid "Performer"
+msgstr "ඉටුකරන්නා"
+
+msgid "New Folder"
+msgstr "නව බහාලුමක්"
+
+msgid "Folder name"
+msgstr "ෆෝල්ඩර නම"
+
+msgid "By default"
+msgstr "පෙර සැකසුම මඟින්"
+
+msgid "Back to group"
+msgstr "ආපසු කණ්ඩායමට"
+
+msgid "year(s)"
+msgstr "අවුරුදු)"
+
+msgid "January"
+msgstr "ජනවාරි"
+
+msgid "February"
+msgstr "පෙබරවාරි"
+
+msgid "March"
+msgstr "මාර්තු"
+
+msgid "April"
+msgstr "අප්රේල්"
+
+msgid "May"
+msgstr "මැයි"
+
+msgid "June"
+msgstr "ජූනි"
+
+msgid "July"
+msgstr "ජුලි"
+
+msgid "August"
+msgstr "අගෝස්තු"
+
+msgid "September"
+msgstr "සැප්තැම්බර්"
+
+msgid "October"
+msgstr "ඔක්තෝබර්"
+
+msgid "November"
+msgstr "නොවැම්බර්"
+
+msgid "December"
+msgstr "දෙසැම්බර්"
+
+msgid "Password Reminder"
+msgstr "මුරපදය මතක්"
+
+msgid "Log In"
+msgstr "ඇතුල් වන්න"
+
+msgid "Sign in"
+msgstr "පුරන්න"
+
+msgid "Register"
+msgstr "රෙජිස්ටර්"
+
+msgid "First name"
+msgstr "මුල් නම"
+
+msgid "Last name"
+msgstr "අවසන් නම"
+
+msgid "I agree with rules"
+msgstr "මම නීති සමඟ එකඟ"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "තහවුරු තැපැල් ඔබේ විද්යුත් තැපැල් ලිපිනය වෙත යොමු කරන ලදී."
+
+msgid "Thanks"
+msgstr "ස්තුතියි"
+
+msgid "Password must be at least 6 characters"
+msgstr "මුරපදය අවම වශයෙන් අකුරු 6 විය යුතුය"
+
+msgid "Creative Environment"
+msgstr "නිර්මාණශීලී පරිසර"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "ඔබ මෙම සේවාව භාවිතා කිරීමට වයස අවුරුදු අවම වශයෙන් අවුරුදු දහතුනක් විය යුතුය"
+
+msgid "Order status"
+msgstr "සාමය තත්ත්වය"
+
+msgid "Processing order"
+msgstr "සැකසුම් සඳහා"
+
+msgid "Requires a payment"
+msgstr "ගෙවීම් අවශ්ය"
+
+msgid "Shipping"
+msgstr "නැව්ගත කිරීම"
+
+msgid "Ready"
+msgstr "සූදානම්"
+
+msgid "Thank you for your payment"
+msgstr "ඔබගේ ගෙවීමට ස්තූතියි"
+
+msgid "Your payment has been cancelled"
+msgstr "ඔබගේ ගෙවීම් අවලංගු කර ඇති"
+
+msgid "page"
+msgstr "පිටුව"
+
+msgid "Rent period"
+msgstr "කුලියට කාලය"
+
+msgid "Total, month"
+msgstr "මුළු, මාසය"
+
+msgid "Order items"
+msgstr "සාමය භාණ්ඩ"
+
+msgid "No records found"
+msgstr "වාර්තා සොයාගැනීමට නොමැත"
+
+msgid "User with this email is already exist"
+msgstr "මෙම ඊ මේල් පරිශීලක දැනටමත් ඇත"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "එවැනි නම සමඟ ෆෝල්ඩරය හෝ ගොනුවේ ගමනාන්තය ෆෝල්ඩරය තුළ දැනටමත් ඇත"
+
+msgid "Minimal quantity"
+msgstr "අවම ප්රමාණය"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "මුද්රිත පිටපත්"
+
+msgid "Terms of Use"
+msgstr "භාවිත නියම"
+
+msgid "Privacy Policy"
+msgstr "රහස්යතා ප්රතිපත්තිය"
+
+msgid "Find project..."
+msgstr "ව්යාපෘතිය සොයන්න ..."
+
+msgid "New Project"
+msgstr "නව ව්යාපෘතිය"
+
+msgid "Accounts"
+msgstr "ගිණුම්"
+
+msgid "Operations"
+msgstr "මෙහෙයුම්"
+
+msgid "All accounts"
+msgstr "සියලු ගිණුම්"
+
+msgid "All categories"
+msgstr "සියලු ප්රවර්ග"
+
+msgid "Expense"
+msgstr "වියදම්"
+
+msgid "Income"
+msgstr "ආදායම්"
+
+msgid "Transfer"
+msgstr "මාරු"
+
+msgid "Expense"
+msgstr "වියදම්"
+
+msgid "income"
+msgstr "ආදායම්"
+
+msgid "tax"
+msgstr "බද්ද"
+
+msgid "percent"
+msgstr "සියයට"
+
+msgid "transfer"
+msgstr "මාරු"
+
+msgid "Make operation"
+msgstr "මෙහෙයුම කරන්න"
+
+msgid "Select date"
+msgstr "දිනය තෝරන්න"
+
+msgid "Select account"
+msgstr "ගිණුමක් තෝරන්න"
+
+msgid "Month"
+msgstr "මාසික"
+
+msgid "Quarter"
+msgstr "කාර්තුවේ"
+
+msgid "Year"
+msgstr "අවුරුදු"
+
+msgid "From"
+msgstr "සිට"
+
+msgid "To"
+msgstr "දක්වා"
+
+msgid "Expense amount"
+msgstr "වියදම් ප්රමාණය"
+
+msgid "Categories"
+msgstr "ප්රවර්ග"
+
+msgid "Comments"
+msgstr "අදහස්"
+
+msgid "Income amount"
+msgstr "ආදායම් ප්රමාණය"
+
+msgid "Transfer amount"
+msgstr "මාරු ප්රමාණය"
+
+msgid "From account"
+msgstr "ගිණුමේ සිට"
+
+msgid "To account"
+msgstr "ගිණුම වෙත"
+
+msgid "New Account"
+msgstr "නව ගිණුම"
+
+msgid "New Category"
+msgstr "නව ප්රවර්ගය"
+
+msgid "All"
+msgstr "සියලු"
+
+msgid "Name"
+msgstr "නම"
+
+msgid "Enter category name"
+msgstr "ප්රවර්ගය නම ඇතුලත් කරන්න"
+
+msgid "Select type"
+msgstr "වර්ගය තෝරන්න"
+
+msgid "Credit card"
+msgstr "ණයවර පත"
+
+msgid "Debit card"
+msgstr "හරපත"
+
+msgid "Bank account"
+msgstr "බැංකු ගිණුම"
+
+msgid "Cash"
+msgstr "මුදල්"
+
+msgid "Balance is empty"
+msgstr "ශේෂ හිස්"
+
+msgid "Statistic is empty"
+msgstr "සංඛ්යා ලේඛන, හිස්"
+
+msgid "Regular payments"
+msgstr "සාමාන්ය ගෙවීම්"
+
+msgid "Are you sure ?"
+msgstr "ඔබට විශ්වාසද ?"
+
+msgid "Are you sure to close this project?"
+msgstr "මෙම ව්යාපෘතිය වසා ඔබට විශ්වාස ද?"
+
+msgid "Project was deleted successfully"
+msgstr "ව්යාපෘති සාර්ථකව මකා"
+
+msgid "Select currency"
+msgstr "මුදල් තෝරන්න"
+
+msgid "Account"
+msgstr "ගිණුම"
+
+msgid "Orders list"
+msgstr "නියෝග ලැයිස්තුව"
+
+msgid "Order payments"
+msgstr "සාමය ගෙවීම්"
+
+msgid "View order"
+msgstr "දැක්ම සඳහා"
+
+msgid "No response from Printer API"
+msgstr "මුද්රක API ප්රතිචාර නෑ"
+
+msgid "Bad response from Printer API"
+msgstr "මුද්රක API සිට නරක ප්රතිචාරය"
+
+msgid "User ID"
+msgstr "පරිශීලක ID"
+
+msgid "Contact Person"
+msgstr "අදාළ පුද්ගලයා"
+
+msgid "No orders to process"
+msgstr "කටයුතු කිරීමට නියෝග නොමැත"
+
+msgid "Article announce image"
+msgstr "රූපය ව්යවස්ථාවේ නිවේදනය"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "වලංගු නොවන වීඩියෝ url එක . හිස්ව තබන්න හෝ වලංගු YouTube url එක ඇතුල්"
+
+msgid "Please, enter Contractor data"
+msgstr "කොන්ත්රාත්කරු දත්ත ඇතුළු , කරුණාකර"
+
+msgid "Distribute devices"
+msgstr "උපකරණ බෙදා හරින්න"
+
+msgid "Quantity"
+msgstr "ප්රමාණ"
+
+msgid "Devices left"
+msgstr "ඉතිරි ජංගම"
+
+msgid "Distributed devices"
+msgstr "පැතිරි උපකරණ"
+
+msgid "You must enter quantity"
+msgstr "ඔබ ප්රමාණය ඇතුලත් කල යුතුය"
+
+msgid "All devices are distributed"
+msgstr "සියළුම උපාංගයන් බෙදා"
+
+msgid "IP address"
+msgstr "IP ලිපිනය"
+
+msgid "Only for printer"
+msgstr "මුද්රණ යන්ත්රයක් සඳහා පමණක්"
+
+msgid "Counter"
+msgstr "කවුළුවෙන්"
+
+msgid "You was excluded from this room"
+msgstr "ඔබ මේ කාමරයේ සිට ඉවත් කළ විට"
+
+msgid "Compare"
+msgstr "සසඳා බලන්න"
+
+msgid "Scheduled transaction"
+msgstr "නියමිත ගනුදෙනුවක්"
+
+msgid "Select transfer account"
+msgstr "මාරු ගිණුමක් තෝරන්න"
+
+msgid "Select income account"
+msgstr "ආදායම් ගිණුම තෝරන්න"
+
+msgid "Reports"
+msgstr "වාර්තා"
+
+msgid "Goals"
+msgstr "ඉලක්ක"
+
+msgid "Budgets"
+msgstr "අයවැය"
+
+msgid "Enter user name or email..."
+msgstr "පරිශීලක නාමය හෝ ඊ- ඇතුලත් කරන්න ..."
+
+msgid "Invite had been sended"
+msgstr "ඇරයුම් කරන්න sended කර ඇති"
+
+msgid "Statistics"
+msgstr "සංඛ්යා ලේඛන"
+
+msgid "Updated site began to work"
+msgstr "යාවත්කාලීන වෙබ් අඩවිය වැඩ කිරීමට පටන්"
+
+msgid "City of residence"
+msgstr "නිවස නගරය"
+
+msgid "Edit favourites list"
+msgstr "සංස්කරණය කරන්න ප්රියතම ලැයිස්තුව"
+
+msgid "Add favourites list"
+msgstr "ප්රියතම දැන්වීම් ලැයිස්තුව එකතු කරන්න"
+
+msgid "Categories is required"
+msgstr "ප්රවර්ග අවශ්ය වේ"
+
+msgid "Type new category name and hit Enter"
+msgstr "ඇතුලත් කරන්න නව ප්රවර්ගය නම ටයිප් හා පහර"
+
+msgid "You created an order"
+msgstr "ඔබ නියෝගයක් නිර්මාණය"
+
+msgid "You received a device due to this order"
+msgstr "ඔබ විසින් මෙම නියෝගය හේතුවෙන් උපාංගය ලැබී"
+
+msgid "%s attached %s to task %s"
+msgstr "%s, කාර්ය සාධක %s %s, අනුයුක්තව සේවය"
+
+msgid "member(s)"
+msgstr "සාමාජිකයින්)"
+
+msgid "%s commented task %s"
+msgstr "%s, %s, අදහස් කාර්ය"
+
+msgid "%s closed task %s"
+msgstr "%s, %s, සංවෘත කාර්ය"
+
+msgid "%s created task %s"
+msgstr "%s, %s, නිර්මාණය කාර්ය"
+
+msgid "%s created this project"
+msgstr "%s, මෙම ව්යාපෘතිය නිර්මාණය"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s, නිර්මාණය subproject \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s, සංවෘත ව්යාපෘතිය \"%s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s, සංවෘත subproject \"%s\""
+
+msgid "This field must not be blank"
+msgstr "මෙම ක්ෂේත්රය හිස්ව නොතැබිය යුතුය"
+
+msgid "Document with such name is already exist"
+msgstr "එවැනි නම සමඟ ලේඛන දැනටමත් ඇත"
+
+msgid "Wait until image upload"
+msgstr "රූපය උඩුගත තුරු සිටින්න"
+
+msgid "Video"
+msgstr "වීඩියෝ"
+
+msgid "Message can not be empty"
+msgstr "පණිවුඩය හිස් විය නොහැක"
+
+msgid "Yes"
+msgstr "ඔව්"
+
+msgid "No"
+msgstr "නැත"
+
+msgid "Created"
+msgstr "නිර්මාණය කරන ලද්දේ"
+
+msgid "Compare is empty"
+msgstr "සසඳා බලන්න හිස්"
+
+msgid "Are you sure you want to delete operation"
+msgstr "ඔබ මෙහෙයුම් මැකීමට අවශ්ය බව ඔබට විශ්වාසද"
+
+msgid "Do you really want to delete transaction"
+msgstr "ඔබ ඇත්තටම ගනුදෙනුව මැකීමට අවශ්යද"
+
+msgid "Project with same name already exists"
+msgstr "එම නම සහිත ව්යාපෘතිය දැනටමත් පවතී"
+
+msgid "Account is not found"
+msgstr "ගිණුම දක්නට නොලැබේ"
+
+msgid "Currency is required"
+msgstr "ව්යවහාර මුදල් අවශ්ය වේ"
+
+msgid "error while deleting document"
+msgstr "දෝෂයක් ලියවිල්ල මකා අතර"
+
+msgid "Expences"
+msgstr "වියෙේ"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "ඔබට මෙම කාමරයේ පරිශීලක \" %s\" ආරාධනා"
+
+msgid "User \"%s\" joined this room"
+msgstr "පරිශීලක \"%s\" මේ කාමරේ එක්"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "ඔබ මේ කාමරයේ සිට පරිශීලක \" %s\" බැහැර"
+
+msgid "User \"%s\" left this room"
+msgstr "පරිශීලක \"%s \" වාම මේ කාමරේ"
+
+msgid "Add account"
+msgstr "ගිණුමක් එක් කරන්න"
+
+msgid "The requested page is not found"
+msgstr "අයැද ඇති පිටු දක්නට නොලැබේ"
+
+msgid "Document"
+msgstr "ලේඛන"
+
+msgid "Table"
+msgstr "වගුව"
+
+msgid "file(s)"
+msgstr "ගොනු (ව)"
+
+msgid "Residue"
+msgstr "ඉතිරි"
+
+msgid "Result is empty"
+msgstr "ප්රතිඵල හිස්"
+
+msgid "The total amount is %s for %s mo"
+msgstr "මුළු මුදල ෙකොපමණද %s%s mo සඳහා"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "ඔබ සම්බන්ධ ගිණුමට % මාසික තැන්පත් කිරීමට ඇති"
+
+msgid "Start"
+msgstr "ආරම්භක"
+
+msgid "finish"
+msgstr "අවසන්"
+
+msgid "Selected account is already in use for another goal"
+msgstr "තෝරාගත් ගිණුමක් තවත් ඉලක්කය සඳහා දැනටමත් භාවිත වේ"
+
+msgid "Amount required"
+msgstr "අවශ්ය ප්රමාණය"
+
+msgid "New goal"
+msgstr "නව ඉලක්කය"
+
+msgid "Goal"
+msgstr "ඉලක්කය"
+
+msgid "Goal name"
+msgstr "ඉලක්කය නම"
+
+msgid "Invalid date"
+msgstr "වලංගු නොවන දිනය"
+
+msgid "Necessary sum must be a positive number"
+msgstr "අවශ්ය මුදල ධනාත්මක අංකය විය යුතුය"
+
+msgid "Remain"
+msgstr "පවතිනු"
+
+msgid "Last day"
+msgstr "අවසන් දිනය"
+
+msgid "Accumulated"
+msgstr "සමුච්චිත"
+
+msgid "Put aside"
+msgstr "පැත්තකින් තියන්න"
+
+msgid "January"
+msgstr "ජනවාරි"
+
+msgid "February"
+msgstr "පෙබරවාරි"
+
+msgid "March"
+msgstr "මාර්තු"
+
+msgid "April"
+msgstr "අප්රේල්"
+
+msgid "May"
+msgstr "මැයි"
+
+msgid "June"
+msgstr "ජූනි"
+
+msgid "July"
+msgstr "ජුලි"
+
+msgid "August"
+msgstr "අගෝස්තු"
+
+msgid "September"
+msgstr "සැප්තැම්බර්"
+
+msgid "October"
+msgstr "ඔක්තෝබර්"
+
+msgid "November"
+msgstr "නොවැම්බර්"
+
+msgid "December"
+msgstr "දෙසැම්බර්"
+
+msgid "Expenses projected/actual"
+msgstr "වියදම් සත්ය / ප්රක්ෂේපණය"
+
+msgid "Net Income projected/actual"
+msgstr "ශුද්ධ ආදායම සැබෑ / ප්රක්ෂේපණය"
+
+msgid "New budget"
+msgstr "නව අයවැය"
+
+msgid "Revenue and Expenses Chart"
+msgstr "ආදායම් සහ වියදම් සටහන"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "එම ගිණුම යුගල හා ප්රවර්ග සහිත අයවැය දැනටමත් පවතී"
+
+msgid "Budget is empty"
+msgstr "අයවැය හිස්"
+
+msgid "Budget"
+msgstr "අයවැය"
+
+msgid "plan"
+msgstr "සැලැස්ම"
+
+msgid "fact"
+msgstr "ඇත්ත"
+
+msgid "diff"
+msgstr "වෙනස"
+
+msgid "Show More"
+msgstr "තව පෙන්වන්න"
+
+msgid "Cancel"
+msgstr "අවලංගු කරන්න"
+
+msgid "d"
+msgstr "ඈ"
+
+msgid "h"
+msgstr "ඌ"
+
+msgid "min"
+msgstr "විනාඩි"
+
+msgid "My sales"
+msgstr "මගේ අලෙවි"
+
+msgid "Time spent"
+msgstr "කාලයක් වැය"
+
+msgid "Total time spent"
+msgstr "මුළු කාලය වැය"
+
+msgid "Earnings per hour"
+msgstr "පැය ඉපැයුම"
+
+msgid "Total earnings"
+msgstr "මුළු ආදායම"
+
+msgid "Call"
+msgstr "ඇමතුම්"
+
+msgid "Phone call"
+msgstr "දුරකථන ඇමතුම"
+
+msgid "Telephone calls"
+msgstr "දුරකථන ඇමතුම්"
+
+msgid "Send email"
+msgstr "ඊ-තැපෑලක් යවන්න"
+
+msgid "Emails"
+msgstr "විද්යුත් තැපැල් පණිවුඩ"
+
+msgid "Meeting"
+msgstr "රැස්වීම"
+
+msgid "Meetings"
+msgstr "රැස්වීම්"
+
+msgid "All events"
+msgstr "සියලු තරග"
+
+msgid "Task"
+msgstr "කාර්ය"
+
+msgid "Event"
+msgstr "අවස්ථාවට"
+
+msgid "Events"
+msgstr "සිද්ධීන්"
+
+msgid "Time"
+msgstr "කාල"
+
+msgid "Events statistics"
+msgstr "සිදුවීම් සංඛ්යා ලේඛන"
+
+msgid "days"
+msgstr "දවස්"
+
+msgid "hours"
+msgstr "පැය"
+
+msgid "minutes"
+msgstr "මිනිත්තු"
+
+msgid "Income & expense"
+msgstr "ආදායම් සහ වියදම්"
+
+msgid "Show chart"
+msgstr "පෙන්වන්න වගුව"
+
+msgid "Hide chart"
+msgstr "සඟවන්න සටහන"
+
+msgid "Add event"
+msgstr "අවස්ථාවට එක් කරන්න"
+
+msgid "Add financial data"
+msgstr "මූල්ය දත්ත එකතු කරන්න"
+
+msgid "Select contractor"
+msgstr "කොන්ත්රාත්කරුවකු තෝරා"
+
+msgid "Net Income"
+msgstr "ශුද්ද ආදායම"
+
+msgid "Revenue"
+msgstr "ආදායම"
+
+msgid "Taxes"
+msgstr "බදු"
+
+msgid "Amount planned"
+msgstr "ප්රමාණය සැලසුම්"
+
+msgid "Amount"
+msgstr "ප්රමාණය"
+
+msgid "Period"
+msgstr "කාල සීමාව"
+
+msgid "Are you sure to close this task?"
+msgstr "මෙම කාර්යය වසා ඔබට විශ්වාස ද?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "සියලුම කණ්ඩායම්"
+
+msgid "added from task"
+msgstr "කාර්ය එක්"
+
+msgid "Monthly repeat"
+msgstr "මාසික නැවත"
+
+msgid "Select category"
+msgstr "වර්ගය තෝරන්න"
+
+msgid "Event type"
+msgstr "අවස්ථාවට වර්ගය"
+
+msgid "Margin"
+msgstr "ආන්තිකය"
+
+msgid "Use finance project"
+msgstr "මූල්ය ව්යාපෘතිය භාවිතා කරන්න"
+
+msgid "New investment project"
+msgstr "නව ආයෝජන ව්යාපෘතිය"
+
+msgid "Investment project settings"
+msgstr "ආයෝජන ව්යාපෘති සැකසුම්"
+
+msgid "Picture, for the announcement project"
+msgstr "නිවේදනය ව්යාපෘතිය සඳහා පින්තූර ,"
+
+msgid "Announcement project"
+msgstr "නිවේදනය ව්යාපෘතිය"
+
+msgid "Video"
+msgstr "වීඩියෝ"
+
+msgid "Photos or videos gallery"
+msgstr "ඡායාරූප හා වීඩියෝ දර්ශන ගැලරිය"
+
+msgid "required amount"
+msgstr "අවශ්ය ප්රමාණය"
+
+msgid "Project duration (60 days maximum)"
+msgstr "ව්යාපෘති කාල සීමාව ( දින 60 ක් උපරිම)"
+
+msgid "Project duration"
+msgstr "ව්යාපෘති කාල සීමාව"
+
+msgid "Add reward"
+msgstr "විපාකයක් එකතු කරන්න"
+
+msgid "Delivery date"
+msgstr "බෙදාහැරීමේ දිනය"
+
+msgid "Payment systems"
+msgstr "ගෙවීම් පද්ධති"
+
+msgid "Terms of service"
+msgstr "සේවාවේ කොන්දේසි"
+
+msgid "Agreement"
+msgstr "ගිවිසුම"
+
+msgid "Payment"
+msgstr "ගාස්තු"
+
+msgid "My projects"
+msgstr "මගේ ව්යාපෘති"
+
+msgid "Search result"
+msgstr "සොයන්න ප්රතිඵලයක්"
+
+msgid "Nothing not found"
+msgstr "කිසිවක් සොයා ගැනීමට නොහැකි"
+
+msgid "The project has no sponsors"
+msgstr "මෙම ව්යාපෘතිය කිසිදු අනුග්රාහකයන් ඇත"
+
+msgid "Design"
+msgstr "නිර්මාණ"
+
+msgid "Food"
+msgstr "ආහාර"
+
+msgid "Journalism"
+msgstr "ජනමාධ්ය"
+
+msgid "Games"
+msgstr "ක්රීඩා"
+
+msgid "Art"
+msgstr "කලාව"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "සංගීතය"
+
+msgid "Handicrafts"
+msgstr "හස්ත කර්මාන්ත"
+
+msgid "Publishing"
+msgstr "ප්රකාශන"
+
+msgid "Theater"
+msgstr "රඟහල"
+
+msgid "Technology"
+msgstr "තාක්ෂණ"
+
+msgid "Film/Video"
+msgstr "චිත්රපට / වීඩියෝ"
+
+msgid "Photo"
+msgstr "ඡායාරූපය"
+
+msgid "Dance"
+msgstr "නර්තන"
+
+msgid "Invalid youtube video"
+msgstr "වලංගු නොවන YouTube වීඩියෝ"
+
+msgid "is required"
+msgstr "අවශ්යයි"
+
+msgid "User"
+msgstr "පරිශීලක"
+
+msgid "Date"
+msgstr "දිනය"
+
+msgid "Collected"
+msgstr "එකතු"
+
+msgid "Choose period"
+msgstr "කාලය තෝරාගන්න"
+
+msgid "Choose region"
+msgstr "කලාපයේ තෝරන්න"
+
+msgid "Country"
+msgstr "රට"
+
+msgid "Today"
+msgstr "අද"
+
+msgid "Week"
+msgstr "සතිය"
+
+msgid "Month"
+msgstr "මාසික"
+
+msgid "Year"
+msgstr "අවුරුදු"
+
+msgid "Free registration"
+msgstr "නිදහස් ලියාපදිංචි"
+
+msgid "Join"
+msgstr "සමග එකතු වන්න"
+
+msgid "Log in using"
+msgstr "භාවිතා ලොගින් වන්න"
+
+msgid "Vacancies"
+msgstr "රැකියා අවස්ථා"
+
+msgid "About Us"
+msgstr "අපි ගැන"
+
+msgid "You will need email to log in"
+msgstr "ඔබ ප්රවිෂ්ට ඊ- අවශ්ය වනු ඇත"
+
+msgid "A combination of 6 digits and characters"
+msgstr "6 ඉලක්කම් හා චරිත එකතුවක්"
+
+msgid "Search users, groups, articles..."
+msgstr "සොයන්න පරිශීලකයන් , කණ්ඩායම්, ලිපි ..."
+
+msgid "Cloud"
+msgstr "වලාකුළු"
+
+msgid "Sunday"
+msgstr "ඉරිදා"
+
+msgid "Monday"
+msgstr "සඳුදා"
+
+msgid "Tuesday"
+msgstr "අගහරුවදා"
+
+msgid "Wednesday"
+msgstr "බදාදා"
+
+msgid "Thursday"
+msgstr "බ්රහස්පතින්දා"
+
+msgid "Friday"
+msgstr "සිකුරාදා"
+
+msgid "Saturday"
+msgstr "සෙනසුරාදා"
+
+msgid "Edit"
+msgstr "සංස්කරණය"
+
+msgid "Create group"
+msgstr "පිරිසක් නිර්මාණය කරන්න"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "ඔබ විසින් මෙම පිටුව ඉවත් කිරීමට අවශ්ය බව ඔබට විශ්වාසද?"
+
+msgid "More"
+msgstr "තව"
+
+msgid "Less"
+msgstr "අඩු"
+
+msgid "Pending"
+msgstr "විභාග වෙමින්"
+
+msgid "Approved"
+msgstr "අනුමත"
+
+msgid "Rejected"
+msgstr "ප්රතික්ෂේප"
+
+msgid "Subprojects"
+msgstr "Subprojects"
+
+msgid "Group edit"
+msgstr "සමූහ සංස්කරණය"
+
+msgid "Startup"
+msgstr "පණ ගන්වන්න"
+
+msgid "Tattoo"
+msgstr "Tattoo"
+
+msgid "Health"
+msgstr "සෞඛ්ය"
+
+msgid "Weapon"
+msgstr "අවි"
+
+msgid "Astronomy"
+msgstr "තාරකා විද්යා"
+
+msgid "All articles"
+msgstr "සියලු ලිපි,"
+
+msgid "Article editor"
+msgstr "ව්යවස්ථාවේ කර්තෘ"
+
+msgid "Document editor"
+msgstr "ලේඛන කර්තෘ"
+
+msgid "Apply changes"
+msgstr "වෙනස් කිරීම් යොදන්න"
+
+msgid "Save changes?"
+msgstr "වෙනස්කම් සුරකින්න?"
+
+msgid "published an article"
+msgstr "ලිපියක් පළ"
+
+msgid "Users"
+msgstr "පරිශීලකයන්"
+
+msgid "Shared With Me"
+msgstr "මට හවුල්"
+
+msgid "share"
+msgstr "බෙදාගන්න"
+
+msgid "Select Group Responsible"
+msgstr "වගකිව යුතු කණ්ඩායම් තෝරන්න"
+
+msgid "Create folder"
+msgstr "ෆෝල්ඩරය නිර්මාණය"
+
+msgid "Title must be at least 3 characters"
+msgstr "මාතෘකාව අවම වශයෙන් අක්ෂර 3 විය යුතුය"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "සදහටම නිදහස් 10 GB පමණ , මූල්ය කළමනාකරු , මොඩියුලය ආයෝජනය , හා නිදහස් කිරීම සඳහා වෙනත් බොහෝ හා"
+
+msgid "Best regards"
+msgstr "සුභ පතමින්"
+
+msgid "Updates in last 12 hours:"
+msgstr "පසුගිය පැය 12 යාවත්කාලීනයන් :"
+
+msgid "expense"
+msgstr "වියදම්"
+
+msgid "Commentary on the event:"
+msgstr "මෙම අවස්ථාවට මත විවරණය :"
+
+msgid "Event place"
+msgstr "සිද්ධියක් සිදු"
+
+msgid "Project was updated"
+msgstr "ව්යාපෘති යාවත්කාලීන කර"
+
+msgid "Project was created"
+msgstr "ව්යාපෘති නිර්මිතය"
+
+msgid "Project was closed"
+msgstr "ව්යාපෘති වසා"
+
+msgid "account"
+msgstr "ගිණුමක්"
+
+msgid "removed task"
+msgstr "ඉවත් කාර්ය"
+
+msgid "removed subproject"
+msgstr "ඉවත් subproject"
+
+msgid "Title can not be empty"
+msgstr "මාතෘකාව හිස් විය නොහැක"
+
+msgid "Do not select the type of event"
+msgstr "සිද්ධිය පිළිබඳ වර්ගය තෝරන්න එපා"
+
+msgid "Error while saving comment"
+msgstr "දෝෂ අදහස් ආරක්ෂා කරන අතරතුර"
+
+msgid "Save error: access denied"
+msgstr "දෝෂයක් සුරකින්න : ප්රවේශ ප්රතික්ෂේප"
+
+msgid "Remains"
+msgstr "දේහය"
+
+msgid "Time spent, h."
+msgstr "කාලය, ඌ ගත කළා."
+
+msgid "Emails"
+msgstr "විද්යුත් තැපැල් පණිවුඩ"
+
+msgid "Meetings"
+msgstr "රැස්වීම්"
+
+msgid "All users"
+msgstr "සියළු පරිශීලකයන් හට"
+
+msgid "Category"
+msgstr "වර්ගය"
+
+msgid "Finance project"
+msgstr "මුදල් ව්යාපෘතිය"
+
+msgid "Investment project"
+msgstr "ආයෝජන ව්යාපෘති"
+
+msgid "Nature"
+msgstr "නේචර්ස්"
+
+msgid "Data is empty"
+msgstr "දත්ත හිස්"
+
+msgid "Visitors"
+msgstr "අමුත්තන්"
+
+msgid "My profile"
+msgstr "මගේ පැතිකඩ"
+
+msgid "Sponsors"
+msgstr "අනුග්රාහකයන්"
+
+msgid "Prior to completion"
+msgstr "සම්පූර්ණ කිරීමට පෙර"
+
+msgid "Select"
+msgstr "තෝරන්න"
+
+msgid "My groups"
+msgstr "මගේ කණ්ඩායම්"
+
+msgid "The invitation has been sent successfully"
+msgstr "මෙම ආරාධනය සාර්ථකව යවා ඇත"
+
+msgid "Username has already been invited to this project"
+msgstr "පරිශීලක නාමය දැනටමත් මෙම ව්යාපෘතිය සඳහා ආරාධනා කර ඇත"
+
+msgid "The user is the creator of the project"
+msgstr "පරිශීලක ව්යාපෘතියේ නිර්මාතෘ වේ"
+
+msgid "Provide full access"
+msgstr "පූර්ණ පිවිසුමක් ලබා"
+
+msgid "Select elements to provide access"
+msgstr "සැලසීමට අංග තෝරන්න"
+
+msgid "Select all"
+msgstr "සියල්ල තෝරන්න"
+
+msgid "User E-mail"
+msgstr "පරිශීලක ඊ-තැපැල"
+
+msgid "Click on the field to select a category"
+msgstr "ප්රවර්ගයක් තෝරා ගැනීමට ක්ෂේත්රයේ මත ක්ලික් කරන්න"
+
+msgid "Invitation was deleted"
+msgstr "ආරාධිත මකා"
+
+msgid "Permission denied"
+msgstr "අවසරය ප්රතික්ෂේප කෙරිණි"
+
+msgid "Printed"
+msgstr "මුද්රණය"
+
+msgid "Incorrect Contractor email"
+msgstr "වැරදි කොන්ත්රාත්කරු ඊ-තැපැල්"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "ඔබ මුදල් කළමනාකරු ව්යාපෘති එකතු කිරීමට අවශ්යද?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "මෙම ලියාපදිංචි කිරීමේ ක්රියාවලිය සම්පූර්ණ කිරීම සඳහා ඔබේ දක්ෂතා පහළ පිරවීම කරුණාකර"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "තවදුරටත් උපදෙස් සහිත තැපැල ඔබේ විද්යුත් තැපැල් ලිපිනය පිටත් කර යවන ලදී"
+
+msgid "Submit"
+msgstr "ඉදිරිපත්"
+
+msgid "Cars"
+msgstr "කාර්"
+
+msgid "Science"
+msgstr "විද්යා"
+
+msgid "Donation"
+msgstr "පරිත්යාග"
+
+msgid "Interests"
+msgstr "උනන්දුව දක්වන ක්ෂෙත්ර:"
+
+msgid "Driver"
+msgstr "රියදුරු"
+
+msgid "Sportsman"
+msgstr "ක්රීඩකයා"
+
+msgid "Businessman"
+msgstr "ව්යාපාරිකයෙකු"
+
+msgid "Accountant"
+msgstr "ගණකාධිකාරී"
+
+msgid "Engineer"
+msgstr "ඉංජිනේරු"
+
+msgid "Soldier"
+msgstr "සෙබලා"
+
+msgid "Next"
+msgstr "ඊළඟ"
+
+msgid "Hide group"
+msgstr "සඟවන්න පිරිසක්"
+
+msgid "groups created"
+msgstr "නිර්මාණය කණ්ඩායම්"
+
+msgid "articles written"
+msgstr "ලිඛිත ලිපි"
+
+msgid "These groups may be interesting for you"
+msgstr "මෙම කණ්ඩායම් ඔබ වෙනුවෙන් රසවත් විය හැකිය"
+
+msgid "About Group"
+msgstr "සමූහ ගැන"
+
+msgid "view(s)"
+msgstr "දැක්ම (ව)"
+
+msgid "Favorite users"
+msgstr "ප්රියතම පරිශීලකයන්"
+
+msgid "No accounts"
+msgstr "මෙයට ගිණුම්"
+
+msgid "Facebook authorization failed."
+msgstr "ෆේස්බුක් බලය අසාර්ථක විය."
+
+msgid "Authorization Required"
+msgstr "බලය පැවරීමේ අවශ්ය"
+
+msgid "You have to make a call:"
+msgstr "ඔබ කෝල් එකක් ගන්න ඇති:"
+
+msgid "You have to send an email:"
+msgstr "ඔබ ඊ- යැවීමට ඇති:"
+
+msgid "You have a meetup:"
+msgstr "ඔබ meetup ඇති:"
+
+msgid "You event :"
+msgstr "ඔබ අවස්ථාවට :"
+
+msgid "Participants:"
+msgstr "සහභාගිවන්නන් :"
+
+msgid "Search"
+msgstr "ගවේෂණය"
+
+msgid "News"
+msgstr "පුවත්"
+
+msgid "Investments"
+msgstr "ආයෝජන"
+
+msgid "Back to Cloud"
+msgstr "ආපසු වලාකුළු කිරීමට"
+
+msgid "Documents"
+msgstr "ලිපි ලේඛන"
+
+msgid "Planet"
+msgstr "ප්ලැනට්"
+
+msgid "Group url"
+msgstr "සමූහ url එක"
+
+msgid "Profile url"
+msgstr "පැතිකඩ URL එක"
+
+msgid "Already taken"
+msgstr "දැනටමත් අරගෙන"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "අවම වශයෙන් 1 ලිපිය හා 3 chars දිග අවශ්ය"
+
+msgid "Digit can not be the first character"
+msgstr "ඉලක්කම් පළමු අක්ෂරය විය නොහැකිය"
+
+msgid "Enter valid email address"
+msgstr ", වලංගු විද්යුත්-තැපැල් ලිපිනයක් ඇතුලත් කරන්න"
+
+msgid "Enter your skills"
+msgstr "ඔබේ දක්ෂතා ඇතුලත් කරන්න"
+
+msgid "Enter your first name"
+msgstr "ඔබේ පළමු නම ඇතුලත් කරන්න"
+
+msgid "Enter your last name"
+msgstr "ඔබගේ නම ඇතුලත් කරන්න පසුගිය"
+
+msgid "Enter your first name and last name"
+msgstr "ඔබේ පළමු නම හා අවසන් නම ඇතුලත් කරන්න"
+
+msgid "Your first name?"
+msgstr "ඔබගේ මුල් නම?"
+
+msgid "Your last name?"
+msgstr "ඔබේ අවසාන නම ?"
+
+msgid "What are your proficiencies?"
+msgstr "ඔබගේ ප්රවීණතා මොනවාද?"
+
+msgid "Select country"
+msgstr "රට තෝරන්න"
+
+msgid "Select user"
+msgstr "තේරීම් පරිශීලක"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "ඔබේ සිහින ඉටු ! නිර්මාණය හා සහයෝගයෙන් ."
+
+msgid "date moved from"
+msgstr "පදිංචියට ගියා දිනය"
+
+msgid "work"
+msgstr "කටයුතු"
+
+msgid "Conference"
+msgstr "සමුළුව"
+
+msgid "personal"
+msgstr "පුද්ගලික"
+
+msgid "Holiday"
+msgstr "නිවාඩු"
+
+msgid "Past"
+msgstr "පසුගිය"
+
+msgid "Future"
+msgstr "අනාගත"
+
+msgid "Purchase"
+msgstr "මිලදී ගැනීම"
+
+msgid "Personal events"
+msgstr "පෞද්ගලික උත්සවවලට"
+
+msgid "Conferences"
+msgstr "රැස්වීම"
+
+msgid "Holidays"
+msgstr "නිවාඩු"
+
+msgid "Sport events"
+msgstr "ක්රීඩා තරඟ"
+
+msgid "Tasks"
+msgstr "කාර්යයන්"
+
+msgid "Other events"
+msgstr "වෙනත් සිදුවීම්"
+
+msgid "Set aside"
+msgstr "යුවලම රැකියාවෙහි"
+
+msgid "Set aside"
+msgstr "විලම්බිත"
+
+msgid "Time management"
+msgstr "කාල කළමනාකරණය"
+
+msgid "Delayed events"
+msgstr "විලම්බිත සිදුවීම්"
+
+msgid "Delayed"
+msgstr "විලම්බිත"
+
+msgid "Bind to"
+msgstr "සදනන"
+
+msgid "answered your comment to"
+msgstr "මම ලිපිය (අ) පරිකථනය පවසයි"
+
+msgid "commented your article"
+msgstr "මම ඔබේ ලිපිය පිළිබඳව අදහස්"
+
+msgid "You\'ve answered on comment to"
+msgstr "ඔබ එම ලිපිය පිළිබඳ අදහස් ප්රතිචාර"
+
+msgid "You\'ve commented an article"
+msgstr "ඔබ එම ලිපිය පිළිබඳව අදහස්"
+
+msgid "Terms and Conditions"
+msgstr "නියමයන් සහ කොන්දේසි"
+
+msgid "Privacy Policy"
+msgstr "පුද්ගලික ප්රතිපත්තිය"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "අත්සන් මත ක්ලික් කිරීම මගින් ඔබ අපේ ඔබ අපේ කියවා ඇති බව පිළිගැනීමට එකඟ"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "ලොව පුරා නිර්මාණශීලී පුද්ගලයින් ප්රජාව සමග එකතු වන්න! ඔබට ලැබෙනු ඇත: ඔබේ අදහස් ආයෝජනය, ඔහු සිය කණ්ඩායම් එකතු කිරීමට අවස්ථාව, පිරිසක් සේවය කරන, මූල්ය කළමනාකරු, තම කාලය කළමනාකරණය, 2, ගබඩා අවරෝහණ හා වඩා. හා එය නොමිලේ!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "සමාවන්න, එහෙත් ඔබ සොයන පිටුව නොපවතියි. ඔබ අප අප අමතන්න දොස් බව සිතන්නේ නම්"
+
+msgid "Return"
+msgstr "ආපසු"
+
+msgid "COMMON"
+msgstr "මුළු"
+
+msgid "My events"
+msgstr "මගේ සිදුවීම්"
+
+msgid "Job opening"
+msgstr "නව පුරප්පාඩුව"
+
+msgid "Employment"
+msgstr "රැකියා වර්ගය"
+
+msgid "Working hours"
+msgstr "විවෘතව තබන වේලාවන්"
+
+msgid "City"
+msgstr "නගරය"
+
+msgid "Wages"
+msgstr "වැටුප්"
+
+msgid "Currency"
+msgstr "ව්යවහාර මුදල්"
+
+msgid "Experience"
+msgstr "අත්දැකීම්"
+
+msgid "Full-time"
+msgstr "පූර්ණ රැකියා"
+
+msgid "Part-time"
+msgstr "අර්ධ-කාලීන"
+
+msgid "Project employment"
+msgstr "ව්යාපෘතිය / තාවකාලික"
+
+msgid "Volunteer"
+msgstr "ස්වේච්ඡා සේවය"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "පූර්ණ කාලීන"
+
+msgid "Shifts"
+msgstr "ආදේශන කාලසටහන"
+
+msgid "Flexible shifts"
+msgstr "නම්යශීලී කාලසටහන්"
+
+msgid "Remote work"
+msgstr "දුරස්ථ වැඩ"
+
+msgid "Rotational basis"
+msgstr "ශිෆ්ට් ක්රමය"
+
+msgid "Do you really want to delete this comment?"
+msgstr "ඔබ අදහස් මැකීමට අවශ්ය බව ඔබට විශ්වාසද?"
+
+msgid "Do you really want to delete this task?"
+msgstr "ඔබ මෙම කාර්යය ඉවත් කිරීමට අවශ්ය බව ඔබට විශ්වාසද?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "ඔබ මෙම උප-ව්යාපෘතිය ඉවත් කිරීමට අවශ්ය බව ඔබට විශ්වාසද?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "ඔබ තත්ත්වය එම සමාගම වෙත අයදුම් කර තිබෙනවා. වග බලා ගන්න බව කරුණාකර ඔබට"
+
+msgid "Your request to for job has been rejected"
+msgstr "තනතුරට සමාගම වෙත ඔබේ ඉල්ලීම ප්රතික්ෂේප කර ඇත"
+
+msgid "Your request to for job has been accepted"
+msgstr "තනතුරට සමාගම වෙත ඔබේ ඉල්ලීම සම්මත කර ගන්නා ලදී"
+
+msgid "profile is completed"
+msgstr "ඔබේ පැතිකඩ පිරී ඇත"
+
+msgid "Use account"
+msgstr "ගිණුම භාවිත කරන්න"
+
+msgid "$/hr"
+msgstr "$ / පැය"
+
+msgid "Finance category"
+msgstr "මූල්ය අංශයේ"
+
+msgid "No projects"
+msgstr "මෙයට ව්යාපෘති"
+
+msgid "Bind to finances"
+msgstr "මූල්ය ව්යාපෘතිය සදනන"
+
+msgid "Preview"
+msgstr "දැක්ම"
+
+msgid "Download"
+msgstr "බාගත"
+
+msgid "Save to my cloud"
+msgstr "නිධිය පිටපත්"
+
+msgid "File successfully saved to your cloud"
+msgstr "සාර්ථකව ඔබේ නිධිය තුළ ගබඩා කර ගොනුව"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "ඔබේ නිධිය මෙම ගොනුව සුරකින්න?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "ප්රවර්ගයක් ව්යවස්ථාවේ තෝරන්න"
+
+msgid "Type something"
+msgstr "දෙයක් ලියන්න"
+
+msgid "Founded users"
+msgstr "හමු පරිශීලකයන්"
+
+msgid "Founded articles"
+msgstr "හමු ලිපිය"
+
+msgid "Founded groups"
+msgstr "ආරම්භ කරන පිරිසක්"
+
+msgid "What are your skills?"
+msgstr "ඔබේ දක්ෂතා මොනවාද?"
+
+msgid "Select at least 2 interests"
+msgstr "අවම වශයෙන් 2 පොලී තෝරන්න"
+
+msgid "Need more interests"
+msgstr "ප්රමාණවත් පොලී තෝරාගත්"
+
+msgid "What are you interesting in?"
+msgstr "ඔබ උනන්දුවක් දක්වන මොනවාද?"
+
+msgid "You have no dialogs"
+msgstr "ඔබ දෙබස් නැහැ"
+
+msgid "Usage Stats"
+msgstr "රාජ්ය"
+
+msgid "Founded files"
+msgstr "හමු ගොනු"
+
+msgid "Big tiles"
+msgstr "විශාල උළු"
+
+msgid "Small tiles"
+msgstr "කුඩා ටයිල්ස්"
+
+msgid "Table view"
+msgstr "වගුව දැක්ම"
+
+msgid "Root folder"
+msgstr "Root බහලුම"
+
+msgid "My files"
+msgstr "මගේ ලිපි ගොනු"
+
+msgid "Save as draft"
+msgstr "කෙටුම්පත් ලෙස සුරකින්න"
+
+msgid "Buy More Space"
+msgstr "වැඩි ඉඩ මිලදී"
+
+msgid "Buy"
+msgstr "මිලට ගන්න"
+
+msgid "You have been invited to group as"
+msgstr "ඔබ ලෙස කණ්ඩායමට ආරාධනා කර තිබේ"
+
+msgid "User wants to join your group"
+msgstr "පරිශීලක ඔබේ පිරිසක් එකතු කිරීමට අදහස්"
+
+msgid "Section is coming soon!"
+msgstr "ඉදිකිරීම් යටතේ අංශය!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "පසුගිය පැය 24 Views:"
+
+msgid "Task was updated"
+msgstr "කර්තව්යය යාවත්කාලීන කර ඇත"
+
+msgid "Task was closed"
+msgstr "අභියෝගය වසා දමා ඇති"
+
+msgid "Task was created"
+msgstr "කර්තව්යය පිහිටුවන ලදී"
+
+msgid "Current balance"
+msgstr "වත්මන් ගෙවුම්"
+
+msgid "Add funds"
+msgstr "එක් කරන්න"
+
+msgid "Pay"
+msgstr "ලොව පුරාවටම"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "ඔබ ලොගින් උත්සාහ සංඛ්යාව ඉක්මවා ඇත. ඔබ විනාඩි 15 අවහිර කර ඇත"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "ඔබගේ ඊ-තැපැල් සනාථ කරන්න. තැපැල් මඟින් යවා ඇති ලිපිය."
+
+msgid "Resend confirmation email"
+msgstr "නැවත තහවුරු යවන්න"
+
+msgid "Disk 2Gb Monthly"
+msgstr "මසකට තැටිය 2 GB පමණ"
+
+msgid "Disk 10Gb Monthly"
+msgstr "වසරකට 10 GB පමණ ධාවනය"
+
+msgid "Disk 100Gb Yearly"
+msgstr "තැටි 100 GB පමණ සෑම වසරකම"
+
+msgid "Disk 1Tb Monthly"
+msgstr "තැටි 1TB මාසික"
+
+msgid "Disk 1Tb Yearly"
+msgstr "එක් එක් වසර 1 ටී.බී. පැදවීමට"
+
+msgid "Project members monthly"
+msgstr "මාසික පදනමින් මෙම ව්යාපෘතිය සහභාගිවන්නන්"
+
+msgid "Project members yearly"
+msgstr "වාර්ෂිකව ව්යාපෘතිය සහභාගී"
+
+msgid "Member(s) yearly"
+msgstr "වසරකට මන්ත්රී (ව)"
+
+msgid "Member(s) monthly"
+msgstr "මාසික පදනමින් මන්ත්රී (ව)"
+
+msgid "Authorized"
+msgstr "බලයලත්"
+
+msgid "Authorization expired"
+msgstr "බලය කල් ඉකුත්"
+
+msgid "Processor declined"
+msgstr "ප්රතික්ෂේප සැකසුම් පද්ධතිය"
+
+msgid "Gateway rejected"
+msgstr "ප්රතික්ෂේප ගෙවීම් ක්රම"
+
+msgid "Failed"
+msgstr "දෝෂ"
+
+msgid "Voided"
+msgstr "වහා අවලංගු කරන්න"
+
+msgid "Submitted for settlement"
+msgstr "ලියාපදිංචි යවන"
+
+msgid "Settlement declined"
+msgstr "සිසුන් බඳවා ගැනීම ප්රතික්ෂේප කර ඇත"
+
+msgid "Settlement pending"
+msgstr "විභාග වෙමින් සිසුන් බඳවා ගැනීම"
+
+msgid "Verified"
+msgstr "පරීක්ෂා"
+
+msgid "Pending"
+msgstr "විභාග වෙමින්"
+
+msgid "Active"
+msgstr "ක්රියාකාරී"
+
+msgid "Past Due"
+msgstr "කල් ඉකුත්වී"
+
+msgid "Expired"
+msgstr "අවසන්"
+
+msgid "Marketer"
+msgstr "අලෙවිකරණ"
+
+msgid "India"
+msgstr "ඉන්දියාව"
+
+msgid "Malaysia"
+msgstr "මැලේසියාව"
+
+msgid "Thailand"
+msgstr "තායිලන්තය"
+
+msgid "South Korea"
+msgstr "දකුණු කොරියාව"
+
+msgid "Kazakhstan"
+msgstr "කසකස්තානය"
+
+msgid "Israel"
+msgstr "ඉශ්රායෙල්"
+
+msgid "Ukraine"
+msgstr "යුක්රේනයේ"
+
+msgid "Belarus"
+msgstr "බෙලරුස්"
+
+msgid "Bulgaria"
+msgstr "බල්ගේරියාව"
+
+msgid "Turkey"
+msgstr "තුර්කිය"
+
+msgid "Armenia"
+msgstr "ආර්මේනියාව"
+
+msgid "Serbia"
+msgstr "සර්බියාවේ"
+
+msgid "Austria"
+msgstr "ඔස්ට්රියාව"
+
+msgid "Poland"
+msgstr "පෝලන්තය"
+
+msgid "Germany"
+msgstr "ජර්මනිය"
+
+msgid "Italy"
+msgstr "ඉතාලියේ"
+
+msgid "Netherlands"
+msgstr "නෙදර්ලන්තය"
+
+msgid "Ireland"
+msgstr "අයර්ලන්තය"
+
+msgid "United Kingdom"
+msgstr "මහා බ්රිතාන්යයේ"
+
+msgid "Portugal"
+msgstr "පෘතුගාලය"
+
+msgid "Norway"
+msgstr "නෝර්වේ"
+
+msgid "United States"
+msgstr "එක්සත් ජනපදය"
+
+msgid "Canada"
+msgstr "කැනඩාව"
+
+msgid "Brazil"
+msgstr "බ්රසීලය"
+
+msgid "Saudi Arabia"
+msgstr "සෞදි අරාබියේ"
+
+msgid "Canada"
+msgstr "ඊජිප්තුවේ"
+
+msgid "Russia"
+msgstr "රුසියාව"
+
+msgid "Hong Kong"
+msgstr "හොංකොං"
+
+msgid "There was no any transactions yet."
+msgstr "මේ වන විට, තනි ගනුදෙනුව එහි නොවීය"
+
+msgid "Fulfill your dream"
+msgstr "ඔබේ සිහිනය ඉටු"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "සියලු ලොව පුරා නිර්මාණාත්මක පුද්ගලයින් අපගේ ප්රජාව සමග එකතු වන්න."
+
+msgid "Create and Collaborate"
+msgstr "නිර්මාණය හා සහයෝගයෙන්"
+
+msgid "Fulfill your dream"
+msgstr "දැන්ම සිහිනය ඉටු"
+
+msgid "or"
+msgstr "නැතහොත්"
+
+msgid "Our mission:"
+msgstr "අපගේ මෙහෙවර:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "ඇදහිය නොහැකි සහ අතිශය අසාමාන්ය කිරීමට, සරල මෙන්ම ඉල්ලුම සිට අදහස් ක්රියාත්මක කිරීමට, නිර්මාණාත්මක හා ක්රියාකාරී ජනතාව එක්සත් කිරීම සඳහා, අපේ අනාගතය තීරණය කළ හැක."
+
+msgid "What is Konstruktor?"
+msgstr "Konstruktor යනු කුමක්ද?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor- සැලකිය යුතු පහසුකම් හා සරළ අපගේ සැබෑ ජීවිතය කොටසක්"
+
+msgid "*business processes"
+msgstr "* ව්යාපාර ක්රියාවලිය"
+
+msgid "*materialization of creative ideas"
+msgstr "නිර්මාණාත්මක අදහස් * materialization"
+
+msgid "*constructive cooperation"
+msgstr "* සාධනීය සහයෝගීතාව"
+
+msgid "Make your dream!"
+msgstr "ඔබේ සිහින කරන්න!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "විධායක"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "විශේෂ උපදේශක"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "කළමනාකරු, මෘදුකාංග සංවර්ධන"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "ජ්යෙෂ්ඨ නීතීඥ"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "නිර්මාණකරුවා"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "මෙම \"මීලඟ\" බොත්තම මත ක්ලික් කිරීමෙන්, ඔබ භාර සිටින අතර අපගේ නියමයන් සහ කොන්දේසි සමඟ එකඟ, ඔබ අපගේ පෞද්ගලිකත්ව ප්රතිපත්තිය කියවා ඇති බව පිළිගනිමින් ඇත."
+
+msgid "Incorrect login or password."
+msgstr "වැරදි පිවිසුම් හෝ මුරපදය."
+
+msgid "Password must be at least 6 characters"
+msgstr "මුරපදය අවම වශයෙන් අකුරු 6 විය යුතුය"
+
+msgid "January"
+msgstr "ජනවාරි"
+
+msgid "February"
+msgstr "පෙබරවාරි"
+
+msgid "March"
+msgstr "මාර්තු"
+
+msgid "April"
+msgstr "අප්රේල්"
+
+msgid "May"
+msgstr "මැයි"
+
+msgid "June"
+msgstr "ජූනි"
+
+msgid "July"
+msgstr "ජුලි"
+
+msgid "August"
+msgstr "අගෝස්තු"
+
+msgid "September"
+msgstr "සැප්තැම්බර්"
+
+msgid "October"
+msgstr "ඔක්තෝබර්"
+
+msgid "November"
+msgstr "නොවැම්බර්"
+
+msgid "December"
+msgstr "දෙසැම්බර්"
+
+msgid "Chat"
+msgstr "චැට්"
+
+msgid "Files"
+msgstr "ගොනු"
+
+msgid "Statistic"
+msgstr "සංඛ්යා ලේඛන"
+
+msgid "Support"
+msgstr "සහාය"
+
+msgid "Exit"
+msgstr "පිටවීම"
+
+msgid "Brest"
+msgstr "බ්රෙස්ට්"
+
+msgid "Belarus"
+msgstr "බෙලරුස්"
+
+msgid "Marketing specialist"
+msgstr "අලෙවි විශේෂඥ"
+
+msgid "Administrator"
+msgstr "පරිපාලක"
+
+msgid "Shared with me"
+msgstr "මා සමඟ බෙදාගත්"
+
+msgid "File Sharing"
+msgstr "ලිපිගොනු හුවමාරුව"
+
+msgid "Provide access by link"
+msgstr "සබැඳියක් විසින් ප්රවේශය සලසා"
+
+msgid "Provide Individual access"
+msgstr "තනි පුද්ගල ප්රවේශය සලසා"
+
+msgid "Provide edit access"
+msgstr "සංස්කරණය ප්රවේශය සලසා"
+
+msgid "Share"
+msgstr "බෙදාගන්න"
+
+msgid "Files will be available only for selected users"
+msgstr "ගොනු පමණක් තෝරාගත් පරිශීලකයන්ට සඳහා ලබා ගත හැකි වනු ඇත"
+
+msgid "With this link everyone can access to the files"
+msgstr "මෙම හැමෝම ගොනු ප්රවේශ විය හැකි සබැඳි පිටු සමග"
+
+msgid "Search users, groups, articles..."
+msgstr "සොයන්න පරිශීලකයන්, කණ්ඩායම්, ලිපි ..."
+
+msgid "My Group"
+msgstr "මගේ සමූහය"
+
+msgid "Mo"
+msgstr "මෝ"
+
+msgid "Tu"
+msgstr ", TU"
+
+msgid "We"
+msgstr "අප"
+
+msgid "Th"
+msgstr "වන"
+
+msgid "Fr"
+msgstr "පියතුමා"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "මෙම ගොනුව තෝරා නැත"
+
+msgid "Set aside"
+msgstr "පසෙකට"
+
+msgid "Event time"
+msgstr "අවස්ථාවට කාලය"
+
+msgid "Work"
+msgstr "කටයුතු"
+
+msgid "Personal"
+msgstr "පුද්ගලික"
+
+msgid "Time spent for work:"
+msgstr "වේලාව කටයුතු සඳහා වැය:"
+
+msgid "Personal time spent:"
+msgstr "වැය පුද්ගලික කාලය:"
+
+msgid "Present"
+msgstr "වර්තමාන"
+
+msgid "Common"
+msgstr "පොදු"
+
+msgid "Sport"
+msgstr "ක්රීඩා"
+
+msgid "Entertainment"
+msgstr "විනෝදාස්වාදය"
+
+msgid "Select:"
+msgstr "තෝරන්න:"
+
+msgid "Invalid username or password."
+msgstr "වලංගු නොවන පරිශීලක නාමය හෝ මුරපදය."
+
+msgid "Try again."
+msgstr "නැවත උත්සහා කරන්න."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "ඔබ ගැන සැලකිල්ලක් මොනවාද?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "දේහය 2: 2 ක් වත් කුසලතා තෝරන්න"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "දේහය 1: 2 ක් වත් කුසලතා තෝරන්න"
+
+msgid "Select at least 2 skills: remains"
+msgstr "දේහය: අවම වශයෙන් 2 කුසලතා තෝරන්න"
+
+msgid "Active life"
+msgstr "ක්රියාකාරී ජීවිත"
+
+msgid "Arts and culture"
+msgstr "සංස්කෘතිය හා කලාව"
+
+msgid "Business"
+msgstr "ව්යාපාරික"
+
+msgid "Cinema"
+msgstr "සිනමා"
+
+msgid "Communications"
+msgstr "සන්නිවේදන"
+
+msgid "Construction and repair"
+msgstr "ඉදිකිරීම් සහ අලුත්වැඩියා"
+
+msgid "Cooking"
+msgstr "ඉවුම් පිහුම්"
+
+msgid "Education"
+msgstr "අධ්යාපන"
+
+msgid "Electronics"
+msgstr "ඉලෙක්ට්රොනික උපකරණ"
+
+msgid "Finances"
+msgstr "මුදල්"
+
+msgid "Graphics and design"
+msgstr "ග්රැෆික් සහ නිර්මාණ"
+
+msgid "Health"
+msgstr "සෞඛ්ය"
+
+msgid "Home and family"
+msgstr "මුල් පිටුව හා පවුලේ"
+
+msgid "Humor"
+msgstr "පොලිස් කාරයින්"
+
+msgid "IT"
+msgstr "තොරතුරු තාක්ෂණ"
+
+msgid "Industry"
+msgstr "කර්මාන්ත"
+
+msgid "Insurance"
+msgstr "රක්ෂණය"
+
+msgid "Literature"
+msgstr "සාහිත්ය"
+
+msgid "Mobile communications and internet"
+msgstr "ජංගම සන්නිවේදන හා අන්තර්ජාල"
+
+msgid "News and Media"
+msgstr "පුවත් හා මාධ්ය"
+
+msgid "Pets"
+msgstr "සුරතල් සතුන්"
+
+msgid "Products and service"
+msgstr "නිෂ්පාදන හා සේවා"
+
+msgid "Real Estate"
+msgstr "දේපළ වෙළදාම්"
+
+msgid "Religion"
+msgstr "ආගම"
+
+msgid "Science and techs"
+msgstr "විද්යා හා තාක්ෂණික නිලධාරීන්ට"
+
+msgid "Security"
+msgstr "ආරක්ෂක"
+
+msgid "Society"
+msgstr "සමාජය"
+
+msgid "Television"
+msgstr "රූපවාහිනී"
+
+msgid "Travel"
+msgstr "සංචාරක"
+
+msgid "URL"
+msgstr "URL එක"
+
+msgid "Argentina"
+msgstr "ආර්ජන්ටිනාව"
+
+msgid "Australia"
+msgstr "ඕස්ට්රේලියාව"
+
+msgid "Austria"
+msgstr "ඔස්ට්රියාව"
+
+msgid "Belarus"
+msgstr "බෙලරුස්"
+
+msgid "Belgium"
+msgstr "බෙල්ජියම"
+
+msgid "Brazil"
+msgstr "බ්රසීලය"
+
+msgid "Bulgaria"
+msgstr "බල්ගේරියාව"
+
+msgid "Canada"
+msgstr "කැනඩාව"
+
+msgid "Chile"
+msgstr "චිලී"
+
+msgid "Denmark"
+msgstr "ඩෙන්මාර්කය"
+
+msgid "France"
+msgstr "ප්රංශය"
+
+msgid "Germany"
+msgstr "ජර්මනිය"
+
+msgid "Greece"
+msgstr "ග්රීසිය"
+
+msgid "Hungary"
+msgstr "හංගේරියාව"
+
+msgid "Iceland"
+msgstr "අයිස්ලන්තය"
+
+msgid "Ireland"
+msgstr "අයර්ලන්තය"
+
+msgid "Israel"
+msgstr "ඊශ්රායෙල්"
+
+msgid "Italy"
+msgstr "ඉතාලිය"
+
+msgid "Japan"
+msgstr "ජපානය"
+
+msgid "Mexico"
+msgstr "මෙක්සිකෝ"
+
+msgid "Netherlands"
+msgstr "නෙදර්ලන්තය"
+
+msgid "New Zealand"
+msgstr "නිව්සීලන්තය"
+
+msgid "Norway"
+msgstr "නෝර්වේ"
+
+msgid "Poland"
+msgstr "පෝලන්තය"
+
+msgid "Portugal"
+msgstr "පෘතුගාලය"
+
+msgid "Russia"
+msgstr "රුසියාව"
+
+msgid "Slovakia"
+msgstr "ස්ලෝවැකියාව"
+
+msgid "South Africa"
+msgstr "දකුණු අප්රිකාව"
+
+msgid "South Korea"
+msgstr "දකුණු කොරියාව"
+
+msgid "Spain"
+msgstr "ස්පාඤ්ඤයේ"
+
+msgid "Sweden"
+msgstr "ස්වීඩනය"
+
+msgid "Switzerland"
+msgstr "ස්විට්සර්ලන්තය"
+
+msgid "Turkey"
+msgstr "කළුකුමා"
+
+msgid "Ukraine"
+msgstr "යුක්රේනයේ"
+
+msgid "United Arab Emirates"
+msgstr "එක්සත් අරාබි එමීර් රාජ්යයේ"
+
+msgid "United Kingdom"
+msgstr "එක්සත් රාජධානිය"
+
+msgid "United States"
+msgstr "එක්සත් ජනපදය"
+
+msgid "achievements"
+msgstr "ජයග්රහණ"
+
+msgid "Investment management"
+msgstr "ආයෝජන කළමනාකරණය"
+
+msgid "Select..."
+msgstr "තෝරන්න..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "ඉන්ෙවස්ට්මන්ට්"
+
+msgid "Investors list"
+msgstr "ආයෝජකයින් ලැයිස්තුව"
+
+msgid "My investments"
+msgstr "මගේ ආයෝජන"
+
+msgid "Create date"
+msgstr "දිනය සාදන්න"
+
+msgid "Author of the project"
+msgstr "මෙම ව්යාපෘතිය කර්තෘ"
+
+msgid "Date and time"
+msgstr "දිනය හා වේලාව"
+
+msgid "Status"
+msgstr "තත්ත්වය"
+
+msgid "NEXT"
+msgstr "ඊලඟ"
+
+msgid "Next"
+msgstr "ඊලඟ"
+
+msgid "Apply"
+msgstr "අයදුම් කරන්න"
+
+msgid "Kazakhstan"
+msgstr "කසකස්තානය"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "හොංකොං"
+
+msgid "Science"
+msgstr "විද්යා"
+
+msgid "Architecture"
+msgstr "ගෘහ නිර්මාණ ශිල්පය"
+
+msgid "Photography"
+msgstr "ඡායාරූප ශිල්පය"
+
+msgid "Designer"
+msgstr "නිර්මාණකරුවා"
+
+msgid "IT specialist"
+msgstr "තොරතුරු තාක්ෂණ විශේෂඥ"
+
+msgid "Agronomist"
+msgstr "Agronomist"
+
+msgid "Architect"
+msgstr "Architector"
+
+msgid "Lawyer"
+msgstr "නීතිඥයා"
+
+msgid "Writer"
+msgstr "රයිටර්"
+
+msgid "Doctor"
+msgstr "ඩොක්ටර්"
+
+msgid "Scientist"
+msgstr "විද්යාඥ"
+
+msgid "Marketer"
+msgstr "අලෙවිකරණ"
+
+msgid "Teacher"
+msgstr "ගුරු"
+
+msgid "Cook"
+msgstr "කුක්"
+
+msgid "Artist"
+msgstr "චිත්ර ශිල්පියා"
+
+msgid "Photographer"
+msgstr "ඡායාරූප ශිල්පී"
+
+msgid "Ecologist"
+msgstr "Ecologist"
+
+msgid "Economist"
+msgstr "ඉකොනොමිස්ට්"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "මාධ්යවේදී"
+
+msgid "Builder"
+msgstr "තනන්නා"
+
+msgid "These users may be interesting for you"
+msgstr "මෙම පරිශීලකයන් ඔබ වෙනුවෙන් රසවත් විය හැකිය"
+
+msgid "These articles may be interesting for you"
+msgstr "මෙම ලිපි ඔබට රසවත් විය හැකිය"
+
+msgid "You joined this group as Аdministrator"
+msgstr "ඔබ Аdministrator ලෙස මෙම කන්ඩායමට එකතු"
+
+msgid "articles written."
+msgstr "ලිඛිත ලිපි."
+
+msgid "groups created."
+msgstr "කණ්ඩායම් නිර්මාණය."
+
+msgid "Creation"
+msgstr "නිර්මාණය"
+
+msgid "Build a dream"
+msgstr "සිහිනයක් ගොඩනැඟීමට"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "තවත් රසවත් ලිපි කියවන්න - නිදහස් ලියාපදිංචි යන්න"
+
+

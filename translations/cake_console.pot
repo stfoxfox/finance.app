@@ -1,0 +1,150 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Console/Command/ServiceShell.php:16
+msgid "<warning>Konstruktor Service Shell</warning>"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:20
+#: Console/Command/SetupShell.php:30
+msgid "Your database configuration was not found in .env files."
+msgstr ""
+
+#: Console/Command/ServiceShell.php:37
+msgid "Cake Service Shell"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:41
+#: Console/Command/SetupShell.php:54
+msgid "Set db config <config>. Uses 'default' if none is specified."
+msgstr ""
+
+#: Console/Command/ServiceShell.php:43
+msgid "Update ratings for all users and groups"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:45
+msgid "Regenerate ratings for all users and groups"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:53
+msgid "<info>-- User ratings --</info>"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:57
+msgid "<info>- Max users karma %s</info>"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:70
+msgid "- User %s have rating %s"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:80
+msgid "<info>-- Group ratings --</info>"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:84
+msgid "<info>- Max groups karma %s</info>"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:97
+msgid "- Group %s have rating %s"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:148
+msgid "- Add non existin default group for user %s - %s - %s"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:174
+msgid "- Remove all %s contexted records"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:182
+msgid "- Rating for %s with id %s"
+msgstr ""
+
+#: Console/Command/SetupShell.php:26
+msgid "<warning>Konstruktor Setup Shell</warning>"
+msgstr ""
+
+#: Console/Command/SetupShell.php:47
+msgid "Cake Setup Shell"
+msgstr ""
+
+#: Console/Command/SetupShell.php:50
+msgid "Plugin name to be used"
+msgstr ""
+
+#: Console/Command/SetupShell.php:56
+msgid "Update actions for Application or Plugin"
+msgstr ""
+
+#: Console/Command/SetupShell.php:69
+msgid "<info>-- Migration status in app --</info>"
+msgstr ""
+
+#: Console/Command/SetupShell.php:74
+msgid "<info>-- Application core database migrations --</info>"
+msgstr ""
+
+#: Console/Command/SetupShell.php:76
+msgid "<info>- Application core database updated</info>"
+msgstr ""
+
+#: Console/Command/SetupShell.php:84
+msgid "<info>-- %s plugin database migrations</info>"
+msgstr ""
+
+#: Console/Command/SetupShell.php:86
+msgid "<info>- %s plugin database updated</info>"
+msgstr ""
+
+#: Console/Command/SetupShell.php:90
+msgid "<info>-- Build static assets --</info>"
+msgstr ""
+
+#: Console/Command/SetupShell.php:93
+msgid "<warning>All done</warning>"
+msgstr ""
+
+#: Plugin/Queue/Console/Command/QueueShell.php:346
+msgid "Group"
+msgstr ""
+
+#: Plugin/Queue/Console/Command/QueueShell.php:351
+msgid "..."
+msgstr ""
+
+#: Plugin/Queue/Console/Command/QueueShell.php:353
+msgid "Remove old jobs (cleanup)"
+msgstr ""
+
+#: Plugin/Queue/Console/Command/QueueShell.php:357
+msgid "Add Job"
+msgstr ""
+
+#: Plugin/Queue/Console/Command/QueueShell.php:361
+msgid "Install info"
+msgstr ""
+
+#: Plugin/Queue/Console/Command/QueueShell.php:365
+msgid "Uninstall info"
+msgstr ""
+
+#: Plugin/Queue/Console/Command/QueueShell.php:369
+msgid "Run Worker"
+msgstr ""
+

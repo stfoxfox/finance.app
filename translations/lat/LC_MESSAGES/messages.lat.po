@@ -1,0 +1,3341 @@
+# latine (Латынь) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: latine (Латынь) <support@konstruktor.com>\n"
+"Language: latine (Латынь)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "username"
+
+msgid "Invalid username or password, try again"
+msgstr "Non recta , aut nomen usoris password . Age iterum."
+
+msgid "Settings"
+msgstr "occasus"
+
+msgid "Home"
+msgstr "Hospitium"
+
+msgid "You must log in to access this page"
+msgstr "Oportet accedere ad conventum hunc page"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Vestri session est expiravit . Cui relogin fungendi actio"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Head Office"
+msgstr "PRAEPOSITURA"
+
+msgid "Address"
+msgstr "address"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Apply"
+msgstr "Adhibe"
+
+msgid "Upload files…"
+msgstr "Upload lima ..."
+
+msgid "Set as main"
+msgstr "Set sicut main"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Original image"
+msgstr "Original image"
+
+msgid "Uploaded"
+msgstr "uploaded"
+
+msgid "File name"
+msgstr "file name"
+
+msgid "File size"
+msgstr "file size"
+
+msgid "Resolution"
+msgstr "consilium"
+
+msgid "Enlarge"
+msgstr "Dilata"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Original size"
+msgstr "size"
+
+msgid "For editor"
+msgstr "Nam editor"
+
+msgid "Resize"
+msgstr "Sedeo"
+
+msgid "Width"
+msgstr "width"
+
+msgid "Height"
+msgstr "Altitudo"
+
+msgid "Media URL"
+msgstr "Media URL"
+
+msgid "Add record"
+msgstr "Add record"
+
+msgid "Show filter settings"
+msgstr "Show filter occasus"
+
+msgid "Edit record"
+msgstr "Edit record"
+
+msgid "Delete record"
+msgstr "Delete record"
+
+msgid "Delete checked records"
+msgstr "Delete sedatus records"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Remember me"
+msgstr "Memento mei"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Clean image cache"
+msgstr "Clean imago cache"
+
+msgid "Processing query..."
+msgstr "Query vestibulum ..."
+
+msgid "CMS Development"
+msgstr "CMS Development"
+
+msgid "Admin Home Page"
+msgstr "Fusce Home Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Patefacio a novus tab finem Pagina Adversa"
+
+msgid "Go to Site"
+msgstr "Go to Site"
+
+msgid "Log out"
+msgstr "stipes ex"
+
+msgid "Send"
+msgstr "mittere"
+
+msgid "General"
+msgstr "general"
+
+msgid "Title"
+msgstr "title"
+
+msgid "Teaser"
+msgstr "teaser"
+
+msgid "Published"
+msgstr "published"
+
+msgid "Featured"
+msgstr "featured"
+
+msgid "Active"
+msgstr "active"
+
+msgid "Field is mandatory"
+msgstr "Ager est mandatorias"
+
+msgid "Sort Order"
+msgstr "sort Order"
+
+msgid "Upload"
+msgstr "upload"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "jan"
+
+msgid "Feb"
+msgstr "feb"
+
+msgid "Mar"
+msgstr "itinera"
+
+msgid "Apr"
+msgstr "april"
+
+msgid "May"
+msgstr "may"
+
+msgid "Jun"
+msgstr "june"
+
+msgid "Jul"
+msgstr "july"
+
+msgid "Aug"
+msgstr "augustum"
+
+msgid "Sep"
+msgstr "september"
+
+msgid "Oct"
+msgstr "october"
+
+msgid "Nov"
+msgstr "november"
+
+msgid "Dec"
+msgstr "december"
+
+msgid "Product already exists in the order"
+msgstr "Product iam habitam in ordine"
+
+msgid "Product does not exist"
+msgstr "Productum non exist"
+
+msgid "Incorrect request"
+msgstr "request incorrect"
+
+msgid "Products"
+msgstr "products"
+
+msgid "Product types"
+msgstr "product types"
+
+msgid "Contractors"
+msgstr "redemptores"
+
+msgid "Contractor"
+msgstr "redemptore"
+
+msgid "Orders"
+msgstr "orders"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "nova religio,"
+
+msgid "My orders"
+msgstr "mandatu meo"
+
+msgid "Recharge balance"
+msgstr "recharge statera"
+
+msgid "Administrator"
+msgstr "administrator"
+
+msgid "Incorrect event ID"
+msgstr "Incorrect event ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "edit redemptore"
+
+msgid "Create contractor"
+msgstr "create redemptore"
+
+msgid "Edit question"
+msgstr "edit question"
+
+msgid "Create question"
+msgstr "create question"
+
+msgid "Edit order"
+msgstr "edit ordinem"
+
+msgid "Create order"
+msgstr "create order"
+
+msgid "Edit product"
+msgstr "edit product"
+
+msgid "Create product"
+msgstr "create product"
+
+msgid "Edit product type"
+msgstr "Edit product type"
+
+msgid "Create product type"
+msgstr "Create product type"
+
+msgid "You have received a file"
+msgstr "Meruisti accipere file"
+
+msgid "You received a file from"
+msgstr "Excepisti file from"
+
+msgid "File has been uploaded"
+msgstr "File has been uploaded"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "quaeque minima quantitate"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "items"
+
+msgid "Remove"
+msgstr "remove"
+
+msgid "Contact person"
+msgstr "contact person"
+
+msgid "Email"
+msgstr "email"
+
+msgid "Contractor phone"
+msgstr "phone redemptore"
+
+msgid "Contractor name"
+msgstr "nomen redemptore"
+
+msgid "Contractor details"
+msgstr "redemptore details"
+
+msgid "Order ID"
+msgstr "Order ID"
+
+msgid "Sum"
+msgstr "sum"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Eligere vel apta solutio ratio ad recharge tua statera"
+
+msgid "Recharge amount"
+msgstr "recharge amount"
+
+msgid "Paid"
+msgstr "paid"
+
+msgid "Shipped"
+msgstr "shipped"
+
+msgid "- No products in this order -"
+msgstr "- In hoc ordine products -"
+
+msgid "month"
+msgstr "mensis"
+
+msgid "No user found"
+msgstr "Non user found"
+
+msgid "Achievement"
+msgstr "achievement"
+
+msgid "Confirmed accomplishments"
+msgstr "confirmed elegantiamque"
+
+msgid "Remove achievement"
+msgstr "remove consecutionem"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "phone"
+
+msgid "Site URL and email"
+msgstr "Site URL et email"
+
+msgid "Remove address"
+msgstr "remove address"
+
+msgid "Members"
+msgstr "membra"
+
+msgid "Requires a payment"
+msgstr "Requirit payment"
+
+msgid "Shipping"
+msgstr "shipping"
+
+msgid "Ready"
+msgstr "parati"
+
+msgid "Find user..."
+msgstr "Invenire user ..."
+
+msgid "Order it"
+msgstr "iuberet"
+
+msgid "Find group..."
+msgstr "Find group ..."
+
+msgid "Find user or community..."
+msgstr "Invenire user aut populus ..."
+
+msgid "No item found"
+msgstr "No item found"
+
+msgid "years"
+msgstr "annis"
+
+msgid "Message"
+msgstr "message"
+
+msgid "To send message press Enter"
+msgstr "To send message press Enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Nuntium mittere turba CtrlEnter +"
+
+msgid "Processing file(s)..."
+msgstr "Processing file ( s) ..."
+
+msgid "Group settings"
+msgstr "group occasus"
+
+msgid "Create group"
+msgstr "create group"
+
+msgid "Group has been successfully saved"
+msgstr "Group has been successfully salvus"
+
+msgid "Group title"
+msgstr "group title"
+
+msgid "Group video"
+msgstr "group video"
+
+msgid "Description"
+msgstr "description"
+
+msgid "Your role in group"
+msgstr "Cavere in group"
+
+msgid "Role"
+msgstr "munus"
+
+msgid "Photo or video gallery"
+msgstr "Photo vel video gallery"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Upload Video"
+
+msgid "Add group address"
+msgstr "Add group address"
+
+msgid "Group articles"
+msgstr "group articles"
+
+msgid "No addresses yet"
+msgstr "Non tamen addresses"
+
+msgid "Add group achievement"
+msgstr "Add group consecutionem"
+
+msgid "No achivements yet"
+msgstr "Non tamen Achivements"
+
+msgid "Are you sure to delete this user"
+msgstr "Hunc tu delete amet"
+
+msgid "Add member"
+msgstr "add member"
+
+msgid "Are you sure to delete this record?"
+msgstr "Talisque delete certus es ?"
+
+msgid "Join this group"
+msgstr "Hanc abire group"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Administrator coetus missus invitatio"
+
+msgid "All addresses"
+msgstr "omnes addresses"
+
+msgid "Collapse"
+msgstr "collapse"
+
+msgid "Achievements"
+msgstr "gestarum"
+
+msgid "Show more"
+msgstr "amplius habe"
+
+msgid "Team"
+msgstr "quadrigis"
+
+msgid "Projects"
+msgstr "projects"
+
+msgid "New project"
+msgstr "novam"
+
+msgid "Project has not been created yet"
+msgstr "Project creata non tamen"
+
+msgid "Messanger"
+msgstr "messanger"
+
+msgid "Balance"
+msgstr "statera"
+
+msgid "Main page"
+msgstr "main page"
+
+msgid "Upload image"
+msgstr "upload image"
+
+msgid "My time"
+msgstr "meum tempus"
+
+msgid "Day"
+msgstr "die"
+
+msgid "Week"
+msgstr "week"
+
+msgid "Project settings"
+msgstr "project occasus"
+
+msgid "Create project"
+msgstr "create project"
+
+msgid "Project has been successfully saved"
+msgstr "Project has been successfully salvus"
+
+msgid "Project name"
+msgstr "project name"
+
+msgid "Deadline"
+msgstr "deadline"
+
+msgid "Close"
+msgstr "close"
+
+msgid "Manager"
+msgstr "manager"
+
+msgid "Assigned to"
+msgstr "assignata"
+
+msgid "Discussion"
+msgstr "discussion"
+
+msgid "Task was created"
+msgstr "Munus creata"
+
+msgid "Task was closed"
+msgstr "Munus erat clausa"
+
+msgid "Go to Group"
+msgstr "Ad Group"
+
+msgid "Closed"
+msgstr "clausa"
+
+msgid "Last updates"
+msgstr "last updates"
+
+msgid "Project is closed"
+msgstr "Project is closed"
+
+msgid "No open tasks"
+msgstr "Non in apertas tasks"
+
+msgid "New task"
+msgstr "novum munus"
+
+msgid "Closed tasks"
+msgstr "clausis tasks"
+
+msgid "Add subproject"
+msgstr "Add SubProject"
+
+msgid "Add task"
+msgstr "Add negotium"
+
+msgid "Sun"
+msgstr "sunday"
+
+msgid "Mon"
+msgstr "Monday"
+
+msgid "Tue"
+msgstr "Tuesday"
+
+msgid "Wed"
+msgstr "Wednesday"
+
+msgid "Thur"
+msgstr "Thursday"
+
+msgid "Fri"
+msgstr "Friday"
+
+msgid "Sat"
+msgstr "Saturday"
+
+msgid "Event title"
+msgstr "Event title"
+
+msgid "Event description"
+msgstr "Event description"
+
+msgid "I registered on this site"
+msgstr "I descripserunt in hoc site"
+
+msgid "Last created groups"
+msgstr "Ultimo creatus coetus"
+
+msgid "You joined this group as"
+msgstr "Copulabatis hoc coetus"
+
+msgid "You received a request to join the group"
+msgstr "Accepistis rogaret coetus sociari"
+
+msgid "Updated site"
+msgstr "Renovata site"
+
+msgid "Site is under construction"
+msgstr "Site est sub constructione"
+
+msgid "Last registered users"
+msgstr "Ultima registered users"
+
+msgid "User settings"
+msgstr "User occasus"
+
+msgid "Technical support"
+msgstr "Technical Support"
+
+msgid "Change email"
+msgstr "mutatio email"
+
+msgid "Change password"
+msgstr "mutatio password"
+
+msgid "User has been successfully saved"
+msgstr "User feliciter fuerit salvus erit"
+
+msgid "Full name"
+msgstr "Full name"
+
+msgid "My video"
+msgstr "meum video"
+
+msgid "Skills"
+msgstr "artibus"
+
+msgid "Birthday"
+msgstr "natalis"
+
+msgid "Country of residence"
+msgstr "Patria commorationis"
+
+msgid "Country"
+msgstr "regionem"
+
+msgid "Zip Code"
+msgstr "zip Code"
+
+msgid "City/town of residence"
+msgstr "Urbis / oppidi commorationis"
+
+msgid "University/college"
+msgstr "University / collegium"
+
+msgid "University/college photo"
+msgstr "University / collegium photo"
+
+msgid "Add user\'s accomplishments"
+msgstr "Add user s accomplishments"
+
+msgid "Interface language"
+msgstr "interface lingua"
+
+msgid "How other people see this page"
+msgstr "Quod alii populi autem videntes page"
+
+msgid "Video with me"
+msgstr "Video mecum"
+
+msgid "Groups"
+msgstr "Groups"
+
+msgid "Registered today"
+msgstr "descripserunt hodie"
+
+msgid "Qty"
+msgstr "qty"
+
+msgid "No registered users yet"
+msgstr "Non tamen registered users"
+
+msgid "Total"
+msgstr "total"
+
+msgid "Registered total"
+msgstr "registered total"
+
+msgid "You received a file"
+msgstr "Accepistis a file"
+
+msgid "You were invited into this room"
+msgstr "Adhibitus es in hac exedra"
+
+msgid "Request is being processed"
+msgstr "Petitio est discursum"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Messenger"
+msgstr "nuntius"
+
+msgid "New subproject"
+msgstr "New SubProject"
+
+msgid "messages written."
+msgstr "nuntia scripta ."
+
+msgid "projects created based on groups."
+msgstr "inceptis creata fundatur super coetus ."
+
+msgid "users registered on website."
+msgstr "users descripserunt in website ."
+
+msgid "New email"
+msgstr "New email"
+
+msgid "Confirm email"
+msgstr "confirm email"
+
+msgid "New password"
+msgstr "new password"
+
+msgid "Confirm password"
+msgstr "confirm password"
+
+msgid "Occupation"
+msgstr "Speciality"
+
+msgid "Timezone"
+msgstr "Timezone"
+
+msgid "Answer"
+msgstr "Et respondendum est,"
+
+msgid "Articles"
+msgstr "Articles"
+
+msgid "Article"
+msgstr "Article"
+
+msgid "Video-article"
+msgstr "Video - article"
+
+msgid "Find article..."
+msgstr "Find articulum ..."
+
+msgid "Politics"
+msgstr "politics"
+
+msgid "Economics"
+msgstr "Economics"
+
+msgid "Community"
+msgstr "Community"
+
+msgid "Culture"
+msgstr "Culture"
+
+msgid "Sports"
+msgstr "Sports"
+
+msgid "Hi-tech"
+msgstr "Hi - tech"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Fashion"
+msgstr "Fashion"
+
+msgid "Games"
+msgstr "Games"
+
+msgid "Other"
+msgstr "other"
+
+msgid "Invalid mediafile"
+msgstr "invalidum mediafile"
+
+msgid "No articles in this category yet"
+msgstr "No articles in this category tamen"
+
+msgid "Back to profile"
+msgstr "Back to profile"
+
+msgid "View article"
+msgstr "View article"
+
+msgid "Edit article"
+msgstr "Edit article"
+
+msgid "Create article"
+msgstr "create article"
+
+msgid "Article title"
+msgstr "articulus title"
+
+msgid "Article section"
+msgstr "Article section"
+
+msgid "Choose image"
+msgstr "eligere imaginem"
+
+msgid "Save and upload"
+msgstr "Perdere et liberare tu upload"
+
+msgid "Show more..."
+msgstr "Show More..."
+
+msgid "Create"
+msgstr "create"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Project"
+msgstr "Project"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "A new article was published"
+msgstr "A new articulus est edita"
+
+msgid "You joined this project"
+msgstr "Copulabatis hoc project"
+
+msgid "Enter your information in the User settings"
+msgstr "Nulla informatione occasus User"
+
+msgid "Communities"
+msgstr "communitates"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Video præsentationem mea fecit"
+
+msgid "My articles"
+msgstr "My articulis"
+
+msgid "User"
+msgstr "User"
+
+msgid "Users"
+msgstr "users"
+
+msgid "Add new list"
+msgstr "Add new list"
+
+msgid "List title"
+msgstr "album title"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Add to favorites"
+msgstr "Add to favorites"
+
+msgid "Delete from favorites"
+msgstr "Delete a favorites"
+
+msgid "Select list"
+msgstr "Select list"
+
+msgid "Subscriptions"
+msgstr "subscriptiones"
+
+msgid "Subscribe"
+msgstr "subscribe"
+
+msgid "Unsubscribe"
+msgstr "Unsubscribe"
+
+msgid "General list"
+msgstr "General list"
+
+msgid "No users in this list"
+msgstr "No users in hoc list"
+
+msgid "Publish"
+msgstr "auditum"
+
+msgid "Unpublish"
+msgstr "unpublish"
+
+msgid "Add user"
+msgstr "Add user"
+
+msgid "Create document"
+msgstr "create document"
+
+msgid "Edit document"
+msgstr "Edit document"
+
+msgid "View"
+msgstr "View"
+
+msgid "Document title"
+msgstr "title document"
+
+msgid "Find document..."
+msgstr "Find document ..."
+
+msgid "Share your thoughts"
+msgstr "Partis cogitationum vestrarum"
+
+msgid "Leave your comment"
+msgstr "Derelinquetis gloriam vestram comment"
+
+msgid "Accept"
+msgstr "accipere"
+
+msgid "Decline"
+msgstr "declinet"
+
+msgid "Add article"
+msgstr "Add article"
+
+msgid "Link to verified accomplishments"
+msgstr "Link to verificatur elegantiamque"
+
+msgid "No articles here yet..."
+msgstr "No articles hic tamen ..."
+
+msgid "Find file or folder..."
+msgstr "Invenire file folder vel ..."
+
+msgid "Sort"
+msgstr "Sort"
+
+msgid "By name"
+msgstr "nominatim"
+
+msgid "By date"
+msgstr "per date"
+
+msgid "By updated date"
+msgstr "Per updated date"
+
+msgid "By size"
+msgstr "ex magnitudine"
+
+msgid "By type"
+msgstr "per type"
+
+msgid "Move"
+msgstr "Move"
+
+msgid "File Manager"
+msgstr "file Manager"
+
+msgid "Share link"
+msgstr "Share link"
+
+msgid "Responsible"
+msgstr "Probi"
+
+msgid "Performer"
+msgstr "patrator"
+
+msgid "New Folder"
+msgstr "New Folder"
+
+msgid "Folder name"
+msgstr "folder nomen"
+
+msgid "By default"
+msgstr "per defaltam"
+
+msgid "Back to group"
+msgstr "Back to group"
+
+msgid "year(s)"
+msgstr "anno (s)"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "February"
+
+msgid "March"
+msgstr "itinere"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "July"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "October"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Password Reminder"
+msgstr "Password Lorem"
+
+msgid "Log In"
+msgstr "Log In"
+
+msgid "Sign in"
+msgstr "Inscribe"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "First name"
+msgstr "Praenomen"
+
+msgid "Last name"
+msgstr "Cognomen"
+
+msgid "I agree with rules"
+msgstr "Illud facio: consentio rules"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Missus est adfirmationis et vestri email oratio."
+
+msgid "Thanks"
+msgstr "Gratias"
+
+msgid "Password must be at least 6 characters"
+msgstr "Signum saltem VI characters"
+
+msgid "Creative Environment"
+msgstr "Creative Environment"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Proin tredecim annos saltem ad hoc opusculum fruendum"
+
+msgid "Order status"
+msgstr "ut status"
+
+msgid "Processing order"
+msgstr "processus ordinem"
+
+msgid "Requires a payment"
+msgstr "Requirit a solutione"
+
+msgid "Shipping"
+msgstr "naviportans"
+
+msgid "Ready"
+msgstr "parati"
+
+msgid "Thank you for your payment"
+msgstr "Gratias agimus tibi propter solucionis"
+
+msgid "Your payment has been cancelled"
+msgstr "Tui solutio facta fuerit cassari"
+
+msgid "page"
+msgstr "page"
+
+msgid "Rent period"
+msgstr "rent period"
+
+msgid "Total, month"
+msgstr "Summa mensis"
+
+msgid "Order items"
+msgstr "ordinem items"
+
+msgid "No records found"
+msgstr "No records found"
+
+msgid "User with this email is already exist"
+msgstr "Iam esse inscriptio ista Disputatio"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Pellentesque nec tibi tam in destinatum iam nomen folder"
+
+msgid "Minimal quantity"
+msgstr "quantitate minima augeantur"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "print copies"
+
+msgid "Terms of Use"
+msgstr "Terms of Use"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "Find project..."
+msgstr "Find project ..."
+
+msgid "New Project"
+msgstr "New Project"
+
+msgid "Accounts"
+msgstr "rationibus"
+
+msgid "Operations"
+msgstr "operationum"
+
+msgid "All accounts"
+msgstr "omnibus rationibus"
+
+msgid "All categories"
+msgstr "Cras interdum sollicitudin ante"
+
+msgid "Expense"
+msgstr "sumptus"
+
+msgid "Income"
+msgstr "reditus"
+
+msgid "Transfer"
+msgstr "Transfer"
+
+msgid "Expense"
+msgstr "sumptus"
+
+msgid "income"
+msgstr "reditus"
+
+msgid "tax"
+msgstr "tributum"
+
+msgid "percent"
+msgstr "percent"
+
+msgid "transfer"
+msgstr "transfer"
+
+msgid "Make operation"
+msgstr "fac operatio"
+
+msgid "Select date"
+msgstr "Select date"
+
+msgid "Select account"
+msgstr "Select propter"
+
+msgid "Month"
+msgstr "mensis"
+
+msgid "Quarter"
+msgstr "quarter"
+
+msgid "Year"
+msgstr "anno"
+
+msgid "From"
+msgstr "ex"
+
+msgid "To"
+msgstr "ad"
+
+msgid "Expense amount"
+msgstr "moles sumptu"
+
+msgid "Categories"
+msgstr "Categories"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "Income amount"
+msgstr "reditus amount"
+
+msgid "Transfer amount"
+msgstr "Transfer amount"
+
+msgid "From account"
+msgstr "ex causa"
+
+msgid "To account"
+msgstr "Ad rationem"
+
+msgid "New Account"
+msgstr "New Account"
+
+msgid "New Category"
+msgstr "New Category"
+
+msgid "All"
+msgstr "omnes"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Enter category name"
+msgstr "Intrare praedicamento nomen"
+
+msgid "Select type"
+msgstr "Select type"
+
+msgid "Credit card"
+msgstr "promeritum pecto"
+
+msgid "Debit card"
+msgstr "debit card"
+
+msgid "Bank account"
+msgstr "patrimonio putent"
+
+msgid "Cash"
+msgstr "cash"
+
+msgid "Balance is empty"
+msgstr "Statera inanem"
+
+msgid "Statistic is empty"
+msgstr "Statistic est inane"
+
+msgid "Regular payments"
+msgstr "regular praestationibus"
+
+msgid "Are you sure ?"
+msgstr "Es certus ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Tu quidem prope utili ?"
+
+msgid "Project was deleted successfully"
+msgstr "Project erat delevit feliciter"
+
+msgid "Select currency"
+msgstr "Select monetæ"
+
+msgid "Account"
+msgstr "propter"
+
+msgid "Orders list"
+msgstr "iussu list"
+
+msgid "Order payments"
+msgstr "ordinem praestationibus"
+
+msgid "View order"
+msgstr "View ordinem"
+
+msgid "No response from Printer API"
+msgstr "Responsum Romanus nemo reddebat Printer API"
+
+msgid "Bad response from Printer API"
+msgstr "Bad responsum Printer API"
+
+msgid "User ID"
+msgstr "user ID"
+
+msgid "Contact Person"
+msgstr "Contact Person"
+
+msgid "No orders to process"
+msgstr "Ordines ad processionem"
+
+msgid "Article announce image"
+msgstr "Article nuntiare imaginem"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Nullum video url . Relinquo blank vel inserere valet youtube url"
+
+msgid "Please, enter Contractor data"
+msgstr "Please , intrare Contractor data"
+
+msgid "Distribute devices"
+msgstr "distribute cogitationes"
+
+msgid "Quantity"
+msgstr "quantitatem"
+
+msgid "Devices left"
+msgstr "cogitationes left"
+
+msgid "Distributed devices"
+msgstr "distribuit adinventionum suarum"
+
+msgid "You must enter quantity"
+msgstr "Intrandae quantitatem"
+
+msgid "All devices are distributed"
+msgstr "Omnes cogitationes distribuuntur"
+
+msgid "IP address"
+msgstr "Disputatio"
+
+msgid "Only for printer"
+msgstr "Tantum procer"
+
+msgid "Counter"
+msgstr "occurro"
+
+msgid "You was excluded from this room"
+msgstr "Vos excludebatur ab hoc locus"
+
+msgid "Compare"
+msgstr "Compare"
+
+msgid "Scheduled transaction"
+msgstr "scheduled negotium"
+
+msgid "Select transfer account"
+msgstr "Select transfer propter"
+
+msgid "Select income account"
+msgstr "Select reditus propter"
+
+msgid "Reports"
+msgstr "rumoribus"
+
+msgid "Goals"
+msgstr "Nullam dignissim convallis est"
+
+msgid "Budgets"
+msgstr "budgets"
+
+msgid "Enter user name or email..."
+msgstr "Intrare Nomen usoris aut email ..."
+
+msgid "Invite had been sended"
+msgstr "Invite fuerat sended"
+
+msgid "Statistics"
+msgstr "Statistics"
+
+msgid "Updated site began to work"
+msgstr "Renovata site coepit operari"
+
+msgid "City of residence"
+msgstr "Urbem commorationis"
+
+msgid "Edit favourites list"
+msgstr "Edit favorites album"
+
+msgid "Add favourites list"
+msgstr "Add favorites album"
+
+msgid "Categories is required"
+msgstr "Categories requiritur"
+
+msgid "Type new category name and hit Enter"
+msgstr "Typus hit Ingreditur nomen novum praedicamento"
+
+msgid "You created an order"
+msgstr "Tu creasti ordinem"
+
+msgid "You received a device due to this order"
+msgstr "Accepistis a fabrica debetur huic ordini insistimus"
+
+msgid "%s attached %s to task %s"
+msgstr "%s %s attachiatus ad officium reducere %s"
+
+msgid "member(s)"
+msgstr "membrum ( s )"
+
+msgid "%s commented task %s"
+msgstr "%s commentati munus %s"
+
+msgid "%s closed task %s"
+msgstr "%s %s clausa officium"
+
+msgid "%s created task %s"
+msgstr "%s creavit munus %s"
+
+msgid "%s created this project"
+msgstr "%s creavit hoc project"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s creavit SubProject \" %s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s clausis project \" %s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s clausis SubProject \" %s \""
+
+msgid "This field must not be blank"
+msgstr "Huius agro erit, non erit blank"
+
+msgid "Document with such name is already exist"
+msgstr "Tali nomine Document exsistentibus"
+
+msgid "Wait until image upload"
+msgstr "Expectare velitis donec crescant imaginem upload"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Message can not be empty"
+msgstr "Nuntius non potest esse inane"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "No"
+msgstr "no"
+
+msgid "Created"
+msgstr "creati"
+
+msgid "Compare is empty"
+msgstr "Compare vacuum"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Visne tu delere operatio"
+
+msgid "Do you really want to delete transaction"
+msgstr "Visne vere delere rem"
+
+msgid "Project with same name already exists"
+msgstr "Project eodem nomine iam est"
+
+msgid "Account is not found"
+msgstr "Propter hoc non est inventus"
+
+msgid "Currency is required"
+msgstr "Monetæ requiritur"
+
+msgid "error while deleting document"
+msgstr "error dum deleting document"
+
+msgid "Expences"
+msgstr "sumptus"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Vocasti user \"%s \'hic locus"
+
+msgid "User \"%s\" joined this room"
+msgstr "User \" %s \" adiuncta locus"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Exciperis user \"%s\" de cubiculo"
+
+msgid "User \"%s\" left this room"
+msgstr "User \" %s \" reliquit hanc"
+
+msgid "Add account"
+msgstr "Propter add"
+
+msgid "The requested page is not found"
+msgstr "Nomen paginae non invenitur"
+
+msgid "Document"
+msgstr "document"
+
+msgid "Table"
+msgstr "Mensa"
+
+msgid "file(s)"
+msgstr "file ( s )"
+
+msgid "Residue"
+msgstr "reliqua"
+
+msgid "Result is empty"
+msgstr "Eventus est inane"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Summa est enim %s %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Vos have ut depositurum %s menstrua related to propter"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "finish"
+msgstr "perago"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Lego in usu iam est propter alium finem"
+
+msgid "Amount required"
+msgstr "requiritur amount"
+
+msgid "New goal"
+msgstr "novum metam"
+
+msgid "Goal"
+msgstr "metam"
+
+msgid "Goal name"
+msgstr "metam nomen"
+
+msgid "Invalid date"
+msgstr "invalidum date"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Necesse est summam esse numerus affirmativus"
+
+msgid "Remain"
+msgstr "manent"
+
+msgid "Last day"
+msgstr "novissimo die"
+
+msgid "Accumulated"
+msgstr "exaggeratus"
+
+msgid "Put aside"
+msgstr "pone"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "February"
+
+msgid "March"
+msgstr "itinere"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "July"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "October"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Expenses projected/actual"
+msgstr "Expensis proiectum / actuale"
+
+msgid "Net Income projected/actual"
+msgstr "Net deducuntur proiectum / actuale"
+
+msgid "New budget"
+msgstr "New budget"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Prouentibus et expensis Chart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Budget cum eodem pari ratione et praedicamento iam veluti exsistentem"
+
+msgid "Budget is empty"
+msgstr "Donec sit amet"
+
+msgid "Budget"
+msgstr "budget"
+
+msgid "plan"
+msgstr "consilium"
+
+msgid "fact"
+msgstr "fact"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "Show More"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "My sales"
+
+msgid "Time spent"
+msgstr "temporis impendisse"
+
+msgid "Total time spent"
+msgstr "Totalis tempus"
+
+msgid "Earnings per hour"
+msgstr "Referte per horam"
+
+msgid "Total earnings"
+msgstr "total earnings"
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Phone call"
+msgstr "phone vocationem"
+
+msgid "Telephone calls"
+msgstr "telephonica"
+
+msgid "Send email"
+msgstr "Mittere email"
+
+msgid "Emails"
+msgstr "emails"
+
+msgid "Meeting"
+msgstr "occurrens"
+
+msgid "Meetings"
+msgstr "conventibus"
+
+msgid "All events"
+msgstr "certe"
+
+msgid "Task"
+msgstr "negotium"
+
+msgid "Event"
+msgstr "Event"
+
+msgid "Events"
+msgstr "Events"
+
+msgid "Time"
+msgstr "tempore"
+
+msgid "Events statistics"
+msgstr "Events statistics"
+
+msgid "days"
+msgstr "diebus"
+
+msgid "hours"
+msgstr "horis"
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid "Income & expense"
+msgstr "& Reditus expense"
+
+msgid "Show chart"
+msgstr "show chart"
+
+msgid "Hide chart"
+msgstr "hide chart"
+
+msgid "Add event"
+msgstr "Add event"
+
+msgid "Add financial data"
+msgstr "Add financial notitia"
+
+msgid "Select contractor"
+msgstr "Select a redemptore operum"
+
+msgid "Net Income"
+msgstr "Net deducuntur"
+
+msgid "Revenue"
+msgstr "reditus"
+
+msgid "Taxes"
+msgstr "tributum"
+
+msgid "Amount planned"
+msgstr "moles cogitavit"
+
+msgid "Amount"
+msgstr "amount"
+
+msgid "Period"
+msgstr "period"
+
+msgid "Are you sure to close this task?"
+msgstr "Tu quidem prope oppugnari"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "omnes coetus"
+
+msgid "added from task"
+msgstr "Addidimus ex munere"
+
+msgid "Monthly repeat"
+msgstr "menstrua repeat"
+
+msgid "Select category"
+msgstr "Select category"
+
+msgid "Event type"
+msgstr "Event type"
+
+msgid "Margin"
+msgstr "margin"
+
+msgid "Use finance project"
+msgstr "Uti rebus oeconomicis project"
+
+msgid "New investment project"
+msgstr "Novum obsideri project"
+
+msgid "Investment project settings"
+msgstr "Obsideri project occasus"
+
+msgid "Picture, for the announcement project"
+msgstr "Picture , pro annuntiatione project"
+
+msgid "Announcement project"
+msgstr "Octavi pronuntiatum project"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Photos or videos gallery"
+msgstr "Imaginibus vel videos gallery"
+
+msgid "required amount"
+msgstr "requiritur amount"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Project duratione ( LX diebus maximum)"
+
+msgid "Project duration"
+msgstr "Project durationem"
+
+msgid "Add reward"
+msgstr "adde praemium"
+
+msgid "Delivery date"
+msgstr "date Delivery"
+
+msgid "Payment systems"
+msgstr "Payment systems"
+
+msgid "Terms of service"
+msgstr "Terms servitii"
+
+msgid "Agreement"
+msgstr "consensus"
+
+msgid "Payment"
+msgstr "Payment"
+
+msgid "My projects"
+msgstr "My inceptis"
+
+msgid "Search result"
+msgstr "quaero praecessi"
+
+msgid "Nothing not found"
+msgstr "Nihil non est inventus"
+
+msgid "The project has no sponsors"
+msgstr "Exertus non habet sponsum incautos"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Food"
+msgstr "cibum"
+
+msgid "Journalism"
+msgstr "Journalism"
+
+msgid "Games"
+msgstr "Games"
+
+msgid "Art"
+msgstr "Art"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "musica"
+
+msgid "Handicrafts"
+msgstr "artibus"
+
+msgid "Publishing"
+msgstr "Publishing"
+
+msgid "Theater"
+msgstr "theatrum"
+
+msgid "Technology"
+msgstr "Technology"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "photo"
+
+msgid "Dance"
+msgstr "choro"
+
+msgid "Invalid youtube video"
+msgstr "Invalidum youtube video"
+
+msgid "is required"
+msgstr "requiritur"
+
+msgid "User"
+msgstr "User"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Collected"
+msgstr "collecta"
+
+msgid "Choose period"
+msgstr "eligere tempus"
+
+msgid "Choose region"
+msgstr "eligere regionem"
+
+msgid "Country"
+msgstr "patriae"
+
+msgid "Today"
+msgstr "hodie"
+
+msgid "Week"
+msgstr "Week"
+
+msgid "Month"
+msgstr "mensis"
+
+msgid "Year"
+msgstr "anno"
+
+msgid "Free registration"
+msgstr "liberum adnotatione"
+
+msgid "Join"
+msgstr "coniungere"
+
+msgid "Log in using"
+msgstr "Log in using"
+
+msgid "Vacancies"
+msgstr "usus opportunitates praebet"
+
+msgid "About Us"
+msgstr "De nobis"
+
+msgid "You will need email to log in"
+msgstr "Vos mos postulo ut inscriptio aperi"
+
+msgid "A combination of 6 digits and characters"
+msgstr "In rebus compositis digitos VI morumque"
+
+msgid "Search users, groups, articles..."
+msgstr "Users quaerere coetibus articuli ..."
+
+msgid "Cloud"
+msgstr "Cloud"
+
+msgid "Sunday"
+msgstr "sunday"
+
+msgid "Monday"
+msgstr "Monday"
+
+msgid "Tuesday"
+msgstr "Tuesday"
+
+msgid "Wednesday"
+msgstr "Wednesday"
+
+msgid "Thursday"
+msgstr "Thursday"
+
+msgid "Friday"
+msgstr "Friday"
+
+msgid "Saturday"
+msgstr "Saturday"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Create group"
+msgstr "create group"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Visne tu page relinqueret ?"
+
+msgid "More"
+msgstr "More"
+
+msgid "Less"
+msgstr "minus"
+
+msgid "Pending"
+msgstr "pendente"
+
+msgid "Approved"
+msgstr "probati"
+
+msgid "Rejected"
+msgstr "reprobaverunt aedificantes"
+
+msgid "Subprojects"
+msgstr "Subprojects"
+
+msgid "Group edit"
+msgstr "Group edit"
+
+msgid "Startup"
+msgstr "Start up"
+
+msgid "Tattoo"
+msgstr "Tattoo"
+
+msgid "Health"
+msgstr "salutem"
+
+msgid "Weapon"
+msgstr "Arma"
+
+msgid "Astronomy"
+msgstr "astronomiae"
+
+msgid "All articles"
+msgstr "omnibus quoque articulis"
+
+msgid "Article editor"
+msgstr "Article editor"
+
+msgid "Document editor"
+msgstr "editor document"
+
+msgid "Apply changes"
+msgstr "adhibere mutationes"
+
+msgid "Save changes?"
+msgstr "Nisi mutationes ?"
+
+msgid "published an article"
+msgstr "edita articulus"
+
+msgid "Users"
+msgstr "users"
+
+msgid "Shared With Me"
+msgstr "Consorti mecum temporum"
+
+msgid "share"
+msgstr "share"
+
+msgid "Select Group Responsible"
+msgstr "Select Group Probi"
+
+msgid "Create folder"
+msgstr "creare folder"
+
+msgid "Title must be at least 3 characters"
+msgstr "Titulus III saltem litteris"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "X Solvo GB, denique dispensator obsidere partis et alterum libere in perpetuum"
+
+msgid "Best regards"
+msgstr "optime valete"
+
+msgid "Updates in last 12 hours:"
+msgstr "Updates in ultimum XII horas :"
+
+msgid "expense"
+msgstr "sumptus"
+
+msgid "Commentary on the event:"
+msgstr "Commentary on eventus :"
+
+msgid "Event place"
+msgstr "Event locus"
+
+msgid "Project was updated"
+msgstr "Project updated"
+
+msgid "Project was created"
+msgstr "Project creatus"
+
+msgid "Project was closed"
+msgstr "Project claudebatur"
+
+msgid "account"
+msgstr "propter"
+
+msgid "removed task"
+msgstr "abstulit negotium"
+
+msgid "removed subproject"
+msgstr "abstulit SubProject"
+
+msgid "Title can not be empty"
+msgstr "Title non potest esse inane"
+
+msgid "Do not select the type of event"
+msgstr "Non lego typus eventu"
+
+msgid "Error while saving comment"
+msgstr "Error dum salvo comment"
+
+msgid "Save error: access denied"
+msgstr "Nisi error : aditum denegari"
+
+msgid "Remains"
+msgstr "reliquiae"
+
+msgid "Time spent, h."
+msgstr "Temporis impendisse , h ."
+
+msgid "Emails"
+msgstr "emails"
+
+msgid "Meetings"
+msgstr "conventibus"
+
+msgid "All users"
+msgstr "omnes users"
+
+msgid "Category"
+msgstr "Category"
+
+msgid "Finance project"
+msgstr "oeconomicis project"
+
+msgid "Investment project"
+msgstr "obsideri project"
+
+msgid "Nature"
+msgstr "naturae"
+
+msgid "Data is empty"
+msgstr "Data est inane"
+
+msgid "Visitors"
+msgstr "visitors"
+
+msgid "My profile"
+msgstr "My profile"
+
+msgid "Sponsors"
+msgstr "eadem sponsum incautos"
+
+msgid "Prior to completion"
+msgstr "Prior ad completionem"
+
+msgid "Select"
+msgstr "select"
+
+msgid "My groups"
+msgstr "mea coetus"
+
+msgid "The invitation has been sent successfully"
+msgstr "Invitationem missum feliciter"
+
+msgid "Username has already been invited to this project"
+msgstr "Qui utetur nomen iam invitati sint in hoc project"
+
+msgid "The user is the creator of the project"
+msgstr "Creatorem voluptua usore"
+
+msgid "Provide full access"
+msgstr "Plenam accessum"
+
+msgid "Select elements to provide access"
+msgstr "Select elementa providere accessum"
+
+msgid "Select all"
+msgstr "Lectus omnis"
+
+msgid "User E-mail"
+msgstr "User E - mail"
+
+msgid "Click on the field to select a category"
+msgstr "Click eligere genus agri"
+
+msgid "Invitation was deleted"
+msgstr "Invitatio fuit delevit"
+
+msgid "Permission denied"
+msgstr "licentiam denegari"
+
+msgid "Printed"
+msgstr "Apud"
+
+msgid "Incorrect Contractor email"
+msgstr "Incorrect Contractor email"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Vis addere ad expensis project procurator ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Ad perficere processus adnotatione placet replete vestra peritias"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "An vero plenius mandatis missi vestri email oratio mail"
+
+msgid "Submit"
+msgstr "submit"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Science"
+msgstr "Science"
+
+msgid "Donation"
+msgstr "donationem"
+
+msgid "Interests"
+msgstr "interests"
+
+msgid "Driver"
+msgstr "exactoris"
+
+msgid "Sportsman"
+msgstr "Sportsman"
+
+msgid "Businessman"
+msgstr "negotiatoris"
+
+msgid "Accountant"
+msgstr "Computantis"
+
+msgid "Engineer"
+msgstr "engineer"
+
+msgid "Soldier"
+msgstr "miles"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Hide group"
+msgstr "hide group"
+
+msgid "groups created"
+msgstr "coetus creata"
+
+msgid "articles written"
+msgstr "articulis scriptum"
+
+msgid "These groups may be interesting for you"
+msgstr "Hi tibi sit amet"
+
+msgid "About Group"
+msgstr "de Group"
+
+msgid "view(s)"
+msgstr "visum ( s )"
+
+msgid "Favorite users"
+msgstr "ventus users"
+
+msgid "No accounts"
+msgstr "tabulae"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook auctoritate defecerunt ."
+
+msgid "Authorization Required"
+msgstr "auctoritate Required"
+
+msgid "You have to make a call:"
+msgstr "Habes ad invitatio :"
+
+msgid "You have to send an email:"
+msgstr "Habes mittendi inscriptio :"
+
+msgid "You have a meetup:"
+msgstr "Habetis meetup :"
+
+msgid "You event :"
+msgstr "Vos eventus :"
+
+msgid "Participants:"
+msgstr "participes :"
+
+msgid "Search"
+msgstr "quaerere"
+
+msgid "News"
+msgstr "News"
+
+msgid "Investments"
+msgstr "Collocationes"
+
+msgid "Back to Cloud"
+msgstr "Back to Cloud"
+
+msgid "Documents"
+msgstr "documenta"
+
+msgid "Planet"
+msgstr "Planet"
+
+msgid "Group url"
+msgstr "Group url"
+
+msgid "Profile url"
+msgstr "url Profile"
+
+msgid "Already taken"
+msgstr "iam"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Saltem litterae I et III chars longitudo"
+
+msgid "Digit can not be the first character"
+msgstr "Primus character non Digit"
+
+msgid "Enter valid email address"
+msgstr "Intrare valet inscriptio"
+
+msgid "Enter your skills"
+msgstr "Enter your artes"
+
+msgid "Enter your first name"
+msgstr "Enter your primum nomen"
+
+msgid "Enter your last name"
+msgstr "Enter your name"
+
+msgid "Enter your first name and last name"
+msgstr "Nulla praenomen et cognomen"
+
+msgid "Your first name?"
+msgstr "Primum nomen tuum?"
+
+msgid "Your last name?"
+msgstr "Vestri permaneo nomen ?"
+
+msgid "What are your proficiencies?"
+msgstr "Quid sunt vestri perfici ?"
+
+msgid "Select country"
+msgstr "Select regionem"
+
+msgid "Select user"
+msgstr "Select user"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Tuum imple somnium ! Create et Collaborate ."
+
+msgid "date moved from"
+msgstr "date movetur ab"
+
+msgid "work"
+msgstr "opus"
+
+msgid "Conference"
+msgstr "colloquium"
+
+msgid "personal"
+msgstr "personal"
+
+msgid "Holiday"
+msgstr "Holiday"
+
+msgid "Past"
+msgstr "Praeteritum"
+
+msgid "Future"
+msgstr "Future"
+
+msgid "Purchase"
+msgstr "Purchase"
+
+msgid "Personal events"
+msgstr "Privatis rebus"
+
+msgid "Conferences"
+msgstr "Occurrens"
+
+msgid "Holidays"
+msgstr "Feriae"
+
+msgid "Sport events"
+msgstr "Ludis eventus"
+
+msgid "Tasks"
+msgstr "Negotium"
+
+msgid "Other events"
+msgstr "Reliqua autem sermonum"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Differtur"
+
+msgid "Time management"
+msgstr "Tempus Management"
+
+msgid "Delayed events"
+msgstr "Differtur eventus"
+
+msgid "Delayed"
+msgstr "Differtur"
+
+msgid "Bind to"
+msgstr "Assign"
+
+msgid "answered your comment to"
+msgstr "Dixi (a) Comment articulo"
+
+msgid "commented your article"
+msgstr "I commented on your article"
+
+msgid "You\'ve answered on comment to"
+msgstr "Et respondendum est ad articulum commentum"
+
+msgid "You\'ve commented an article"
+msgstr "Vos commented on the article"
+
+msgid "Terms and Conditions"
+msgstr "Terms and Conditions"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Per cliccans \"signum\" et agnoscunt quod convenit cum legamus"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "In societatem creantis plebis ab omni mundi Accipietis: in ideis Scisco occasionem colligendi iugales eius faciens in coetus, oeconomus procuratori componendi tempus et reposita II gigabytes. Quod suus \'libera est!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Ignosce, sed pagina non quaeritis. Quod si putas in culpa contact us"
+
+msgid "Return"
+msgstr "Reditum"
+
+msgid "COMMON"
+msgstr "Summa"
+
+msgid "My events"
+msgstr "My Events"
+
+msgid "Job opening"
+msgstr "New vacatione"
+
+msgid "Employment"
+msgstr "Type laboris"
+
+msgid "Working hours"
+msgstr "Aperiens horas"
+
+msgid "City"
+msgstr "Urbem"
+
+msgid "Wages"
+msgstr "Salarium"
+
+msgid "Currency"
+msgstr "Monetæ"
+
+msgid "Experience"
+msgstr "Experientia"
+
+msgid "Full-time"
+msgstr "Full usus"
+
+msgid "Part-time"
+msgstr "Part-time"
+
+msgid "Project employment"
+msgstr "Project / Temporaria"
+
+msgid "Volunteer"
+msgstr "Volunteering"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "Full Time"
+
+msgid "Shifts"
+msgstr "Replacement schedule"
+
+msgid "Flexible shifts"
+msgstr "Flexibile schedule"
+
+msgid "Remote work"
+msgstr "Remota opus"
+
+msgid "Rotational basis"
+msgstr "Trabea modus"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Visne tu delere ineo?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Visne tu delere oppugnari"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Sed ut hoc omisso moliendi Visne delere?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Et cum de situ. Placet fac"
+
+msgid "Your request to for job has been rejected"
+msgstr "Situm in comitatu postulas reiectam"
+
+msgid "Your request to for job has been accepted"
+msgstr "Ad numerum adoptatus postulas situm"
+
+msgid "profile is completed"
+msgstr "Vestri profano plenum"
+
+msgid "Use account"
+msgstr "Uti ob"
+
+msgid "$/hr"
+msgstr "$ / Hora"
+
+msgid "Finance category"
+msgstr "Financial category"
+
+msgid "No projects"
+msgstr "No inceptis"
+
+msgid "Bind to finances"
+msgstr "Assign financial project"
+
+msgid "Preview"
+msgstr "View"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Save to my cloud"
+msgstr "Effingo repository"
+
+msgid "File successfully saved to your cloud"
+msgstr "File feliciter repono in vestri repository"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Nisi hoc lima in vestri repository?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Eligere category Article"
+
+msgid "Type something"
+msgstr "Scribere aliquid"
+
+msgid "Founded users"
+msgstr "Invenit users"
+
+msgid "Founded articles"
+msgstr "Invenit article"
+
+msgid "Founded groups"
+msgstr "Fundata group"
+
+msgid "What are your skills?"
+msgstr "Quid sunt vestri solers?"
+
+msgid "Select at least 2 interests"
+msgstr "Select saltem II interest"
+
+msgid "Need more interests"
+msgstr "Parum interest lego"
+
+msgid "What are you interesting in?"
+msgstr "Quid interest?"
+
+msgid "You have no dialogs"
+msgstr "Non habetis dialogis"
+
+msgid "Usage Stats"
+msgstr "Statum"
+
+msgid "Founded files"
+msgstr "Files Found"
+
+msgid "Big tiles"
+msgstr "Large tiles"
+
+msgid "Small tiles"
+msgstr "Small Tiles"
+
+msgid "Table view"
+msgstr "Mensa visum"
+
+msgid "Root folder"
+msgstr "Radix presul"
+
+msgid "My files"
+msgstr "My Files"
+
+msgid "Save as draft"
+msgstr "Save as Draft"
+
+msgid "Buy More Space"
+msgstr "Buy plus spatii"
+
+msgid "Buy"
+msgstr "Buy"
+
+msgid "You have been invited to group as"
+msgstr "Tu, ad coetum"
+
+msgid "User wants to join your group"
+msgstr "Debet transire coetus usore"
+
+msgid "Section is coming soon!"
+msgstr "Section under construction!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Cum in ultimo XXIV horas"
+
+msgid "Task was updated"
+msgstr "Munere updated"
+
+msgid "Task was closed"
+msgstr "Impugnatio occlusum"
+
+msgid "Task was created"
+msgstr "Praetori negotium set"
+
+msgid "Current balance"
+msgstr "Current statera"
+
+msgid "Add funds"
+msgstr "Add"
+
+msgid "Pay"
+msgstr "Checkout"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Vicisti numerum login conatusque prohibebit. Clausus enim XV minutes vos sunt"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Commodo confirmetis e-mail. Litteras misi ad vos in honore."
+
+msgid "Resend confirmation email"
+msgstr "Mittam confirmationem iterum"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc per GB II mensis"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Hostem repellas GB X per annum"
+
+msgid "Disk 100Gb Yearly"
+msgstr "C GB singulos annos orbis"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Orbis 1TB menstrua"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Hostem repellas I TB quotannis"
+
+msgid "Project members monthly"
+msgstr "Participes voluptua menstruam fundamentum"
+
+msgid "Project members yearly"
+msgstr "Project quotannis participes"
+
+msgid "Member(s) yearly"
+msgstr "Membrum (s) per annos singulos"
+
+msgid "Member(s) monthly"
+msgstr "Sodalis (s) Ex menstruam"
+
+msgid "Authorized"
+msgstr "Auctoritate"
+
+msgid "Authorization expired"
+msgstr "Auctoritate exspiravit"
+
+msgid "Processor declined"
+msgstr "Reprobaverunt aedificantes processui system"
+
+msgid "Gateway rejected"
+msgstr "Reprobaverunt aedificantes solucionis portae"
+
+msgid "Failed"
+msgstr "Error"
+
+msgid "Voided"
+msgstr "Infimo"
+
+msgid "Submitted for settlement"
+msgstr "Misit ad conscribendos"
+
+msgid "Settlement declined"
+msgstr "Dilectu reiectum fuerit,"
+
+msgid "Settlement pending"
+msgstr "Pendente dilectu"
+
+msgid "Verified"
+msgstr "Sedatus"
+
+msgid "Pending"
+msgstr "Pendente"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Past Due"
+msgstr "Exspiravit"
+
+msgid "Expired"
+msgstr "Finita"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "India"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "South Korea"
+msgstr "Coreae"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Israel"
+msgstr "Israhel"
+
+msgid "Ukraine"
+msgstr "Ucraina"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Turkey"
+msgstr "Turcia"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Poland"
+msgstr "Polonia"
+
+msgid "Germany"
+msgstr "Germany"
+
+msgid "Italy"
+msgstr "Italy"
+
+msgid "Netherlands"
+msgstr "Belgio"
+
+msgid "Ireland"
+msgstr "Hibernia"
+
+msgid "United Kingdom"
+msgstr "Magnae Britanniae"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "United States"
+msgstr "United States"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+msgid "Canada"
+msgstr "Aegypti"
+
+msgid "Russia"
+msgstr "Russia"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Extemporalis est quaque re"
+
+msgid "Fulfill your dream"
+msgstr "Tuum imple SOMNIUM"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Lorem communitas creatrix omnium individuorum orbem."
+
+msgid "Create and Collaborate"
+msgstr "Create et Collaborate"
+
+msgid "Fulfill your dream"
+msgstr "EXEQUOR DREAM NOW"
+
+msgid "or"
+msgstr "aut"
+
+msgid "Our mission:"
+msgstr "Missionem nostram implendam:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Unire creatrix et active populus ad effectum deducendi ideas ex simplicibus et in postulant ut incredibilem quandam et fantastic, quod potest figura futuri temporis nostri."
+
+msgid "What is Konstruktor?"
+msgstr "Quid est Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - vita est pars nostra, et quod insigniter faciliorem Simplifies"
+
+msgid "*business processes"
+msgstr "* Negotium processibus"
+
+msgid "*materialization of creative ideas"
+msgstr "* Materialization creatrix ideas"
+
+msgid "*constructive cooperation"
+msgstr "* Cooperante utilemque paratus"
+
+msgid "Make your dream!"
+msgstr "Planto vestri somnium!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Specialis Consuasor"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Procurator, Software Development"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Senior legisperitum"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Designer"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Strepitando in \"Deinde\" puga pyga, pacti cum Terms accepta et rata, et tu te legisse Privacy Policy agnoscere."
+
+msgid "Incorrect login or password."
+msgstr "Login incorrect vel password."
+
+msgid "Password must be at least 6 characters"
+msgstr "Signum saltem VI characters"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "February"
+
+msgid "March"
+msgstr "Itinere"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "July"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "October"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Files"
+msgstr "Files"
+
+msgid "Statistic"
+msgstr "Statistic"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Marketing specialist"
+msgstr "Marketing artifex"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Shared with me"
+msgstr "Consorti mecum temporum"
+
+msgid "File Sharing"
+msgstr "File sharing"
+
+msgid "Provide access by link"
+msgstr "Providere accessum by link"
+
+msgid "Provide Individual access"
+msgstr "Individual providere accessum"
+
+msgid "Provide edit access"
+msgstr "Edit providere accessum"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Files will be available only for selected users"
+msgstr "Files erit tantum available pro users delectis"
+
+msgid "With this link everyone can access to the files"
+msgstr "Cum hoc conjungit unicuivis constare potest obvius ut lima"
+
+msgid "Search users, groups, articles..."
+msgstr "Users quaerere coetibus articuli ..."
+
+msgid "My Group"
+msgstr "My Group"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Nos"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Lima est non lego"
+
+msgid "Set aside"
+msgstr "Inter se spatii dividas"
+
+msgid "Event time"
+msgstr "Event tempore"
+
+msgid "Work"
+msgstr "Opus"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Time spent for work:"
+msgstr "Tempus aptum ad opus:"
+
+msgid "Personal time spent:"
+msgstr "Personal tempus:"
+
+msgid "Present"
+msgstr "Praesens"
+
+msgid "Common"
+msgstr "Common"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "Entertainment"
+msgstr "Entertainment"
+
+msgid "Select:"
+msgstr "Lego:"
+
+msgid "Invalid username or password."
+msgstr "Invalidum aut username password."
+
+msgid "Try again."
+msgstr "Tenta iterum."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "QUID AUTEM TU ES INTERESTED IN?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Select saltem II artes: manet II"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Select saltem II artes: manet I"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Select saltem II artes: reliquiae"
+
+msgid "Active life"
+msgstr "Vitam activam"
+
+msgid "Arts and culture"
+msgstr "Artium et culturae"
+
+msgid "Business"
+msgstr "Negotium"
+
+msgid "Cinema"
+msgstr "Cinematographico"
+
+msgid "Communications"
+msgstr "Colloquia"
+
+msgid "Construction and repair"
+msgstr "Constructione et sarta tecta"
+
+msgid "Cooking"
+msgstr "Coctione"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Electronics"
+msgstr "Electronics"
+
+msgid "Finances"
+msgstr "Sumptus"
+
+msgid "Graphics and design"
+msgstr "Graphics et consilium"
+
+msgid "Health"
+msgstr "Salutem"
+
+msgid "Home and family"
+msgstr "Domus atque familia,"
+
+msgid "Humor"
+msgstr "Humor"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Industria"
+
+msgid "Insurance"
+msgstr "Insurance"
+
+msgid "Literature"
+msgstr "Literature"
+
+msgid "Mobile communications and internet"
+msgstr "Mobile communicationum socialium et internet"
+
+msgid "News and Media"
+msgstr "News et cunctis regibus Medorum"
+
+msgid "Pets"
+msgstr "Pets"
+
+msgid "Products and service"
+msgstr "Uber quod muneris"
+
+msgid "Real Estate"
+msgstr "Verus praedium"
+
+msgid "Religion"
+msgstr "Religion"
+
+msgid "Science and techs"
+msgstr "Scientia et techs"
+
+msgid "Security"
+msgstr "Security"
+
+msgid "Society"
+msgstr "Society"
+
+msgid "Television"
+msgstr "Television"
+
+msgid "Travel"
+msgstr "Travel"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belgium"
+msgstr "Belgium"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Denmark"
+
+msgid "France"
+msgstr "Gallia"
+
+msgid "Germany"
+msgstr "Germany"
+
+msgid "Greece"
+msgstr "Graecia"
+
+msgid "Hungary"
+msgstr "Hungaria"
+
+msgid "Iceland"
+msgstr "Iceland"
+
+msgid "Ireland"
+msgstr "Hibernia"
+
+msgid "Israel"
+msgstr "Israhel"
+
+msgid "Italy"
+msgstr "Italy"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Netherlands"
+msgstr "Belgio"
+
+msgid "New Zealand"
+msgstr "Nova Zelandia"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "Poland"
+msgstr "Polonia"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Russia"
+msgstr "Russia"
+
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgid "South Africa"
+msgstr "South Africa"
+
+msgid "South Korea"
+msgstr "Coreae"
+
+msgid "Spain"
+msgstr "Hispania"
+
+msgid "Sweden"
+msgstr "Suecia"
+
+msgid "Switzerland"
+msgstr "Helvetia"
+
+msgid "Turkey"
+msgstr "Turcia"
+
+msgid "Ukraine"
+msgstr "Ucraina"
+
+msgid "United Arab Emirates"
+msgstr "United Arab Emirates"
+
+msgid "United Kingdom"
+msgstr "regnum Unitum"
+
+msgid "United States"
+msgstr "United States"
+
+msgid "achievements"
+msgstr "gestarum"
+
+msgid "Investment management"
+msgstr "Dignissim procuratio"
+
+msgid "Select..."
+msgstr "Select ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "INVESTMENT MANAGEMENT"
+
+msgid "Investors list"
+msgstr "Obsido list"
+
+msgid "My investments"
+msgstr "My Collocationes"
+
+msgid "Create date"
+msgstr "Create date"
+
+msgid "Author of the project"
+msgstr "Author of exertus"
+
+msgid "Date and time"
+msgstr "Dies et tempus"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "NEXT"
+msgstr "DEINDE"
+
+msgid "Next"
+msgstr "deinde"
+
+msgid "Apply"
+msgstr "Applicare"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Science"
+
+msgid "Architecture"
+msgstr "Architectura"
+
+msgid "Photography"
+msgstr "Photography"
+
+msgid "Designer"
+msgstr "Designer"
+
+msgid "IT specialist"
+msgstr "IT artifex"
+
+msgid "Agronomist"
+msgstr "Agronomist"
+
+msgid "Architect"
+msgstr "Architectus"
+
+msgid "Lawyer"
+msgstr "Peritum"
+
+msgid "Writer"
+msgstr "Writer"
+
+msgid "Doctor"
+msgstr "Doctor"
+
+msgid "Scientist"
+msgstr "Scientist"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Magister"
+
+msgid "Cook"
+msgstr "Cook"
+
+msgid "Artist"
+msgstr "Artist"
+
+msgid "Photographer"
+msgstr "Photographer"
+
+msgid "Ecologist"
+msgstr "Ecologist"
+
+msgid "Economist"
+msgstr "Oeconomicarum"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Diurnarius"
+
+msgid "Builder"
+msgstr "Aedificator"
+
+msgid "These users may be interesting for you"
+msgstr "Hi usores tibi sit amet"
+
+msgid "These articles may be interesting for you"
+msgstr "Haec tibi sit amet"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Copulabatis hoc coetus Аdministrator"
+
+msgid "articles written."
+msgstr "articulis scriptum."
+
+msgid "groups created."
+msgstr "coetus creavit."
+
+msgid "Creation"
+msgstr "Creatio"
+
+msgid "Build a dream"
+msgstr "Ædificate ergo somnium,"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "liberum adnotatione"
+

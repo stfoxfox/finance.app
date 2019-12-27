@@ -1,0 +1,3347 @@
+# 한국의(Корейский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: 한국의(Корейский) <support@konstruktor.com>\n"
+"Language: 한국의(Корейский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "사용자 이름sayongja ileum"
+
+msgid "Invalid username or password, try again"
+msgstr "사용자 이름 또는 비밀번호가 잘못되었습니다 . 다시 시도하십시오."
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Home"
+msgstr "홈"
+
+msgid "You must log in to access this page"
+msgstr "이 페이지에 액세스하려면 로그인해야합니다"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "세션이 만료 되었습니다. 이 작업을 수행하려면 다시 로그인 하세요"
+
+msgid "Save"
+msgstr "저장"
+
+msgid "Head Office"
+msgstr "본점"
+
+msgid "Address"
+msgstr "주소"
+
+msgid "Back"
+msgstr "백"
+
+msgid "Apply"
+msgstr "적용"
+
+msgid "Upload files…"
+msgstr "파일을 업로드..."
+
+msgid "Set as main"
+msgstr "메인 으로 설정"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Original image"
+msgstr "원본 이미지"
+
+msgid "Uploaded"
+msgstr "업로드"
+
+msgid "File name"
+msgstr "파일 이름"
+
+msgid "File size"
+msgstr "파일 크기"
+
+msgid "Resolution"
+msgstr "해결"
+
+msgid "Enlarge"
+msgstr "확대"
+
+msgid "Links"
+msgstr "링크"
+
+msgid "Original size"
+msgstr "원본 크기"
+
+msgid "For editor"
+msgstr "에디터"
+
+msgid "Resize"
+msgstr "크기 조정"
+
+msgid "Width"
+msgstr "폭"
+
+msgid "Height"
+msgstr "신장"
+
+msgid "Media URL"
+msgstr "미디어URL"
+
+msgid "Add record"
+msgstr "기록을 추가"
+
+msgid "Show filter settings"
+msgstr "보기 필터 설정"
+
+msgid "Edit record"
+msgstr "편집 기록"
+
+msgid "Delete record"
+msgstr "기록 삭제"
+
+msgid "Delete checked records"
+msgstr "검사 기록을 삭제"
+
+msgid "Dashboard"
+msgstr "계기판"
+
+msgid "Password"
+msgstr "암호"
+
+msgid "Remember me"
+msgstr "저를 기억"
+
+msgid "Login"
+msgstr "로그인"
+
+msgid "Clean image cache"
+msgstr "깨끗한 이미지 캐시"
+
+msgid "Processing query..."
+msgstr "처리 쿼리..."
+
+msgid "CMS Development"
+msgstr "CMS 개발"
+
+msgid "Admin Home Page"
+msgstr "관리 홈 페이지"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "새 탭에서 프런트 엔드 의 오픈 홈 페이지"
+
+msgid "Go to Site"
+msgstr "사이트로 이동"
+
+msgid "Log out"
+msgstr "로그 아웃"
+
+msgid "Send"
+msgstr "보내기"
+
+msgid "General"
+msgstr "일반"
+
+msgid "Title"
+msgstr "이름"
+
+msgid "Teaser"
+msgstr "괴롭히는 사람"
+
+msgid "Published"
+msgstr "게시"
+
+msgid "Featured"
+msgstr "추천"
+
+msgid "Active"
+msgstr "활동적인"
+
+msgid "Field is mandatory"
+msgstr "이 필드 는 필수입니다"
+
+msgid "Sort Order"
+msgstr "정렬 순서"
+
+msgid "Upload"
+msgstr "업로드"
+
+msgid "Loading..."
+msgstr "로드 중..."
+
+msgid "Jan"
+msgstr "월"
+
+msgid "Feb"
+msgstr "2월"
+
+msgid "Mar"
+msgstr "행진"
+
+msgid "Apr"
+msgstr "4월"
+
+msgid "May"
+msgstr "할 수있다"
+
+msgid "Jun"
+msgstr "유월"
+
+msgid "Jul"
+msgstr "7월"
+
+msgid "Aug"
+msgstr "위엄있는"
+
+msgid "Sep"
+msgstr "9월"
+
+msgid "Oct"
+msgstr "10월"
+
+msgid "Nov"
+msgstr "11월"
+
+msgid "Dec"
+msgstr "12월"
+
+msgid "Product already exists in the order"
+msgstr "제품 은 이미 위해 존재"
+
+msgid "Product does not exist"
+msgstr "제품 이 존재하지 않습니다"
+
+msgid "Incorrect request"
+msgstr "잘못된 요청"
+
+msgid "Products"
+msgstr "제품"
+
+msgid "Product types"
+msgstr "제품 유형"
+
+msgid "Contractors"
+msgstr "협력 업체"
+
+msgid "Contractor"
+msgstr "계약자"
+
+msgid "Orders"
+msgstr "명령"
+
+msgid "FAQ"
+msgstr "자주 묻는 질문"
+
+msgid "New order"
+msgstr "새로운 순서"
+
+msgid "My orders"
+msgstr "내 주문"
+
+msgid "Recharge balance"
+msgstr "충전 잔액"
+
+msgid "Administrator"
+msgstr "관리자"
+
+msgid "Incorrect event ID"
+msgstr "잘못된 이벤트ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid ""
+msgstr "기술 . 매개 변수"
+
+msgid "Edit contractor"
+msgstr "편집 계약자"
+
+msgid "Create contractor"
+msgstr "계약자 만들기"
+
+msgid "Edit question"
+msgstr "편집 질문"
+
+msgid "Create question"
+msgstr "질문 만들기"
+
+msgid "Edit order"
+msgstr "편집 순서"
+
+msgid "Create order"
+msgstr "오더 생성"
+
+msgid "Edit product"
+msgstr "편집 제품"
+
+msgid "Create product"
+msgstr "제품을 만들기"
+
+msgid "Edit product type"
+msgstr "편집 제품 유형"
+
+msgid "Create product type"
+msgstr "제품 유형 만들기"
+
+msgid "You have received a file"
+msgstr "당신은 파일 을받은"
+
+msgid "You received a file from"
+msgstr "당신은 에서 파일을 수신"
+
+msgid "File has been uploaded"
+msgstr "파일 업로드되었습니다"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "최소 수량"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "항목"
+
+msgid "Remove"
+msgstr "제거"
+
+msgid "Contact person"
+msgstr "담당자"
+
+msgid "Email"
+msgstr "이메일"
+
+msgid "Contractor phone"
+msgstr "계약자 전화"
+
+msgid "Contractor name"
+msgstr "계약자 이름"
+
+msgid "Contractor details"
+msgstr "계약자 의 자세한 사항"
+
+msgid "Order ID"
+msgstr "주문 번호"
+
+msgid "Sum"
+msgstr "합계"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "균형을 충전 할 수있는 적합한 결제 시스템 을 선택"
+
+msgid "Recharge amount"
+msgstr "충전 금액"
+
+msgid "Paid"
+msgstr "유료"
+
+msgid "Shipped"
+msgstr "배송"
+
+msgid "- No products in this order -"
+msgstr "- 이 순서 없음 제품 -"
+
+msgid "month"
+msgstr "달"
+
+msgid "No user found"
+msgstr "어떤 사용자 를 찾을 수 없습니다"
+
+msgid "Achievement"
+msgstr "성취"
+
+msgid "Confirmed accomplishments"
+msgstr "확인 된 성과"
+
+msgid "Remove achievement"
+msgstr "성취 를 제거"
+
+msgid "Headquaters"
+msgstr "본부"
+
+msgid "Phone"
+msgstr "전화"
+
+msgid "Site URL and email"
+msgstr "사이트 URL 및 이메일"
+
+msgid "Remove address"
+msgstr "주소 제거"
+
+msgid "Members"
+msgstr "회원"
+
+msgid "Requires a payment"
+msgstr "지불 이 필요합니다"
+
+msgid "Shipping"
+msgstr "선박"
+
+msgid "Ready"
+msgstr "준비된"
+
+msgid "Find user..."
+msgstr "사용자 찾기 ..."
+
+msgid "Order it"
+msgstr "주문"
+
+msgid "Find group..."
+msgstr "그룹을 찾기 ..."
+
+msgid "Find user or community..."
+msgstr "사용자 또는 커뮤니티 를 찾아 ..."
+
+msgid "No item found"
+msgstr "어떤 항목을 찾을 수 없습니다"
+
+msgid "years"
+msgstr "년"
+
+msgid "Send message"
+msgstr "메시지 보내기"
+
+msgid "Message"
+msgstr "메시지"
+
+msgid "To send message press Enter"
+msgstr "메시지 Enter 키를 보내려면"
+
+msgid "To send message press CTRL+Enter"
+msgstr "메시지 기자 Ctrl 키를 보낼 + 입력 하려면"
+
+msgid "Processing file(s)..."
+msgstr "처리 파일 (들) ..."
+
+msgid "Group settings"
+msgstr "그룹 설정"
+
+msgid "Create group"
+msgstr "그룹 만들기"
+
+msgid "Group has been successfully saved"
+msgstr "그룹 이 성공적으로 저장되었습니다"
+
+msgid "Group title"
+msgstr "그룹 제목"
+
+msgid "Group video"
+msgstr "그룹 비디오"
+
+msgid "Description"
+msgstr "기술"
+
+msgid "Your role in group"
+msgstr "그룹의 역할"
+
+msgid "Role"
+msgstr "역할"
+
+msgid "Photo or video gallery"
+msgstr "사진 또는 동영상 갤러리"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com 의 URL"
+
+msgid "Upload video"
+msgstr "업로드 비디오"
+
+msgid "Add group address"
+msgstr "그룹 주소 추가"
+
+msgid "Group articles"
+msgstr "그룹 기사"
+
+msgid "No addresses yet"
+msgstr "아직 주소 가 없습니다"
+
+msgid "Add group achievement"
+msgstr "그룹 성취도 추가"
+
+msgid "No achivements yet"
+msgstr "아직 achivements 없습니다"
+
+msgid "Are you sure to delete this user"
+msgstr "이 사용자를 삭제 하시겠습니까"
+
+msgid "Add member"
+msgstr "구성원 추가"
+
+msgid "Are you sure to delete this record?"
+msgstr "이 레코드를 삭제 하시겠습니까 ?"
+
+msgid "Join this group"
+msgstr "이 그룹 가입"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "초대장 은 그룹 관리자 에 전송"
+
+msgid "All addresses"
+msgstr "모든 주소"
+
+msgid "Collapse"
+msgstr "축소"
+
+msgid "Achievements"
+msgstr "업적"
+
+msgid "Show more"
+msgstr "자세히보기"
+
+msgid "Team"
+msgstr "팀"
+
+msgid "Projects"
+msgstr "프로젝트"
+
+msgid "New project"
+msgstr "새로운 프로젝트"
+
+msgid "Project has not been created yet"
+msgstr "프로젝트 는 아직 생성 되지 않았습니다"
+
+msgid "Messanger"
+msgstr "메신저"
+
+msgid "Balance"
+msgstr "균형"
+
+msgid "Main page"
+msgstr "메인 페이지"
+
+msgid "Upload image"
+msgstr "이미지 업로드"
+
+msgid "My time"
+msgstr "내 시간"
+
+msgid "Day"
+msgstr "하루"
+
+msgid "Week"
+msgstr "주"
+
+msgid "Project settings"
+msgstr "프로젝트 설정"
+
+msgid "Create project"
+msgstr "프로젝트를 만듭니다"
+
+msgid "Project has been successfully saved"
+msgstr "프로젝트 가 성공적으로 저장되었습니다"
+
+msgid "Project name"
+msgstr "프로젝트 이름"
+
+msgid "Deadline"
+msgstr "마감 시간"
+
+msgid "Close"
+msgstr "닫기"
+
+msgid "Manager"
+msgstr "매니저"
+
+msgid "Assigned to"
+msgstr "할당"
+
+msgid "Discussion"
+msgstr "토론"
+
+msgid "Task was created"
+msgstr "태스크 생성"
+
+msgid "Task was closed"
+msgstr "작업 은 닫혔다"
+
+msgid "Go to Group"
+msgstr "그룹 으로 이동"
+
+msgid "Closed"
+msgstr "닫은"
+
+msgid "Last updates"
+msgstr "마지막 업데이트"
+
+msgid "Project is closed"
+msgstr "프로젝트 폐쇄"
+
+msgid "No open tasks"
+msgstr "열린 작업 없음"
+
+msgid "New task"
+msgstr "새로운 작업"
+
+msgid "Closed tasks"
+msgstr "청산 작업"
+
+msgid "Add subproject"
+msgstr "하위 프로젝트 추가"
+
+msgid "Add task"
+msgstr "작업 추가"
+
+msgid "Sun"
+msgstr "일요일"
+
+msgid "Mon"
+msgstr "월요일"
+
+msgid "Tue"
+msgstr "화요일"
+
+msgid "Wed"
+msgstr "수요일"
+
+msgid "Thur"
+msgstr "목요일"
+
+msgid "Fri"
+msgstr "금요일"
+
+msgid "Sat"
+msgstr "토요일"
+
+msgid "Event title"
+msgstr "이벤트 제목"
+
+msgid "Event description"
+msgstr "이벤트 설명"
+
+msgid "I registered on this site"
+msgstr "이 사이트 에 등록"
+
+msgid "Last created groups"
+msgstr "마지막으로 생성 된 그룹"
+
+msgid "You joined this group as"
+msgstr "당신은 이 그룹에 합류"
+
+msgid "You received a request to join the group"
+msgstr "사용자는그룹에 합류 하기위한 요청을 수신"
+
+msgid "Updated site"
+msgstr "업데이트 사이트"
+
+msgid "Site is under construction"
+msgstr "사이트 는 공사중입니다"
+
+msgid "Last registered users"
+msgstr "최근 등록 된 사용자"
+
+msgid "User settings"
+msgstr "사용자 설정"
+
+msgid "Technical support"
+msgstr "기술 지원"
+
+msgid "Change email"
+msgstr "이메일 변경"
+
+msgid "Change password"
+msgstr "비밀번호 변경"
+
+msgid "User has been successfully saved"
+msgstr "사용자 가 성공적으로 저장되었습니다"
+
+msgid "Full name"
+msgstr "전체 이름"
+
+msgid "My video"
+msgstr "내 비디오"
+
+msgid "Skills"
+msgstr "기술"
+
+msgid "Birthday"
+msgstr "생일"
+
+msgid "Country of residence"
+msgstr "거주 국가"
+
+msgid "Country"
+msgstr "국가"
+
+msgid "Zip Code"
+msgstr "우편 번호"
+
+msgid "City/town of residence"
+msgstr "거주 도시 / 마을"
+
+msgid "University/college"
+msgstr "대학 / 대학"
+
+msgid "University/college photo"
+msgstr "대학 / 대학 사진"
+
+msgid "Add user\'s accomplishments"
+msgstr "사용자의 성과를 추가"
+
+msgid "Interface language"
+msgstr "인터페이스 언어"
+
+msgid "How other people see this page"
+msgstr "어떻게 다른 사람이 이 페이지를 참조하십시오"
+
+msgid "Video with me"
+msgstr "나와 함께 비디오"
+
+msgid "Groups"
+msgstr "그룹"
+
+msgid "Registered today"
+msgstr "등록 오늘"
+
+msgid "Qty"
+msgstr "수량"
+
+msgid "No registered users yet"
+msgstr "아직 등록 된 사용자 가 없습니다"
+
+msgid "Total"
+msgstr "합계"
+
+msgid "Registered total"
+msgstr "등록 된 총"
+
+msgid "You received a file"
+msgstr "당신은 파일을 수신"
+
+msgid "You were invited into this room"
+msgstr "이 방으로 초대했다"
+
+msgid "Request is being processed"
+msgstr "요청이 처리되는"
+
+msgid "Fax"
+msgstr "팩스"
+
+msgid "Messenger"
+msgstr "전령"
+
+msgid "New subproject"
+msgstr "새로운 하위 프로젝트"
+
+msgid "messages written."
+msgstr "메시지를 작성합니다."
+
+msgid "projects created based on groups."
+msgstr "프로젝트 그룹을 기반으로 만들었습니다."
+
+msgid "users registered on website."
+msgstr "사용자가 웹 사이트 에 등록 ."
+
+msgid "New email"
+msgstr "새 이메일"
+
+msgid "Confirm email"
+msgstr "이메일을 확인"
+
+msgid "New password"
+msgstr "새 비밀번호"
+
+msgid "Confirm password"
+msgstr "비밀번호 확인"
+
+msgid "Occupation"
+msgstr "전문"
+
+msgid "Timezone"
+msgstr "시간대"
+
+msgid "Answer"
+msgstr "답변"
+
+msgid "Articles"
+msgstr "조항"
+
+msgid "Article"
+msgstr "기사"
+
+msgid "Video-article"
+msgstr "비디오 기사"
+
+msgid "Find article..."
+msgstr "기사를 찾기 ..."
+
+msgid "Politics"
+msgstr "정치"
+
+msgid "Economics"
+msgstr "경제학"
+
+msgid "Community"
+msgstr "커뮤니티"
+
+msgid "Culture"
+msgstr "문화"
+
+msgid "Sports"
+msgstr "스포츠의"
+
+msgid "Hi-tech"
+msgstr "하이테크"
+
+msgid "Cars"
+msgstr "자동차"
+
+msgid "Fashion"
+msgstr "유행"
+
+msgid "Games"
+msgstr "게임"
+
+msgid "Other"
+msgstr "다른"
+
+msgid "Invalid mediafile"
+msgstr "잘못된 mediafile"
+
+msgid "No articles in this category yet"
+msgstr "아직 이 범주에 어떤 기사 가 없습니다"
+
+msgid "Back to profile"
+msgstr "프로필로 돌아 가기"
+
+msgid "View article"
+msgstr "보기 기사"
+
+msgid "Edit article"
+msgstr "편집 기사"
+
+msgid "Create article"
+msgstr "기사를 작성"
+
+msgid "Article title"
+msgstr "문서 제목"
+
+msgid "Article section"
+msgstr "제 섹션"
+
+msgid "Choose image"
+msgstr "이미지를 선택"
+
+msgid "Save and upload"
+msgstr "저장 및 업로드"
+
+msgid "Show more..."
+msgstr "자세히보기..."
+
+msgid "Create"
+msgstr "만들기"
+
+msgid "Edit"
+msgstr "편집"
+
+msgid "Project"
+msgstr "계획"
+
+msgid "Team"
+msgstr "팀"
+
+msgid "A new article was published"
+msgstr "새로운 문서는 출판 되었음"
+
+msgid "You joined this project"
+msgstr "이 프로젝트에 참가"
+
+msgid "Enter your information in the User settings"
+msgstr "사용자 설정에서 정보를 입력"
+
+msgid "Communities"
+msgstr "커뮤니티"
+
+msgid "Video presentation of my accomplishments"
+msgstr "내 업적 의 비디오 발표"
+
+msgid "My articles"
+msgstr "내 기사"
+
+msgid "User"
+msgstr "사용자"
+
+msgid "Users"
+msgstr "사용자"
+
+msgid "Add new list"
+msgstr "새로운 목록을 추가"
+
+msgid "List title"
+msgstr "목록 제목"
+
+msgid "Add"
+msgstr "추가"
+
+msgid "Add to favorites"
+msgstr "즐겨 찾기에 추가"
+
+msgid "Delete from favorites"
+msgstr "즐겨 찾기에서 삭제"
+
+msgid "Select list"
+msgstr "선택 목록"
+
+msgid "Subscriptions"
+msgstr "구독"
+
+msgid "Subscribe"
+msgstr "구독 신청"
+
+msgid "Unsubscribe"
+msgstr "탈퇴"
+
+msgid "General list"
+msgstr "일반 목록"
+
+msgid "No users in this list"
+msgstr "이 목록에 사용자 가 없습니다"
+
+msgid "Publish"
+msgstr "게시"
+
+msgid "Unpublish"
+msgstr "게시 취소"
+
+msgid "Add user"
+msgstr "사용자 추가"
+
+msgid "Create document"
+msgstr "문서를 만듭니다"
+
+msgid "Edit document"
+msgstr "편집 문서"
+
+msgid "View"
+msgstr "전망"
+
+msgid "Document title"
+msgstr "문서 제목"
+
+msgid "Find document..."
+msgstr "문서를 찾기 ..."
+
+msgid "Share your thoughts"
+msgstr "의견을 공유하기"
+
+msgid "Leave your comment"
+msgstr "귀하의 코멘트를 남겨"
+
+msgid "Accept"
+msgstr "수락"
+
+msgid "Decline"
+msgstr "쇠퇴"
+
+msgid "Add article"
+msgstr "기사를 추가"
+
+msgid "Link to verified accomplishments"
+msgstr "검증 된 성과 링크"
+
+msgid "No articles here yet..."
+msgstr "아직 여기에 글하지..."
+
+msgid "Find file or folder..."
+msgstr "파일이나 폴더를 찾기..."
+
+msgid "Sort"
+msgstr "종류"
+
+msgid "By name"
+msgstr "이름으로"
+
+msgid "By date"
+msgstr "날짜 별"
+
+msgid "By updated date"
+msgstr "업데이트 날짜"
+
+msgid "By size"
+msgstr "크기에 의해"
+
+msgid "By type"
+msgstr "유형으로"
+
+msgid "Move"
+msgstr "움직임"
+
+msgid "File Manager"
+msgstr "파일 관리자"
+
+msgid "Share link"
+msgstr "공유 링크"
+
+msgid "Responsible"
+msgstr "책임"
+
+msgid "Performer"
+msgstr "배우"
+
+msgid "New Folder"
+msgstr "새 폴더"
+
+msgid "Folder name"
+msgstr "폴더 이름"
+
+msgid "By default"
+msgstr "기본적으로"
+
+msgid "Back to group"
+msgstr "맨 그룹"
+
+msgid "year(s)"
+msgstr "년 (들)"
+
+msgid "January"
+msgstr "1월"
+
+msgid "February"
+msgstr "2월"
+
+msgid "March"
+msgstr "행진"
+
+msgid "April"
+msgstr "4월"
+
+msgid "May"
+msgstr "할 수있다"
+
+msgid "June"
+msgstr "유월"
+
+msgid "July"
+msgstr "7월"
+
+msgid "August"
+msgstr "위엄있는"
+
+msgid "September"
+msgstr "9월"
+
+msgid "October"
+msgstr "10월"
+
+msgid "November"
+msgstr "11월"
+
+msgid "December"
+msgstr "12월"
+
+msgid "Password Reminder"
+msgstr "비밀번호 알림"
+
+msgid "Log In"
+msgstr "로그인"
+
+msgid "Sign in"
+msgstr "로그인"
+
+msgid "Register"
+msgstr "회원 가입"
+
+msgid "First name"
+msgstr "이름"
+
+msgid "Last name"
+msgstr "성"
+
+msgid "I agree with rules"
+msgstr "나는 규칙에 동의"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "확인 메일은 이메일 주소로 전송되었습니다."
+
+msgid "Thanks"
+msgstr "감사"
+
+msgid "Password must be at least 6 characters"
+msgstr "비밀번호는 6 자 이상이어야합니다"
+
+msgid "Creative Environment"
+msgstr "창조적 인 환경"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "이 서비스를 사용하는 시대의 이상 십삼년해야"
+
+msgid "Order status"
+msgstr "주문 상태"
+
+msgid "Processing order"
+msgstr "처리 순서"
+
+msgid "Requires a payment"
+msgstr "지불 필요"
+
+msgid "Shipping"
+msgstr "배송"
+
+msgid "Ready"
+msgstr "준비된"
+
+msgid "Thank you for your payment"
+msgstr "지불 해 주셔서 감사합니다"
+
+msgid "Your payment has been cancelled"
+msgstr "결제가 취소되었습니다"
+
+msgid "page"
+msgstr "페이지"
+
+msgid "Rent period"
+msgstr "임대 기간"
+
+msgid "Total, month"
+msgstr "총, 월"
+
+msgid "Order items"
+msgstr "주문 상품"
+
+msgid "No records found"
+msgstr "기록 없음"
+
+msgid "User with this email is already exist"
+msgstr "이 이메일 주소를 가진 사용자가 이미 존재이다"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "같은 이름을 가진 폴더 또는 파일이 이미 대상 폴더에 존재한다"
+
+msgid "Minimal quantity"
+msgstr "최소 수량"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "인쇄 복사"
+
+msgid "Terms of Use"
+msgstr "이용 약관"
+
+msgid "Privacy Policy"
+msgstr "개인 정보 정책"
+
+msgid "Find project..."
+msgstr "프로젝트를 찾기..."
+
+msgid "New Project"
+msgstr "새 프로젝트"
+
+msgid "Accounts"
+msgstr "계정"
+
+msgid "Operations"
+msgstr "운영"
+
+msgid "All accounts"
+msgstr "모든 계정"
+
+msgid "All categories"
+msgstr "모든 카테고리"
+
+msgid "Expense"
+msgstr "비용"
+
+msgid "Income"
+msgstr "수입"
+
+msgid "Transfer"
+msgstr "이전"
+
+msgid "Expense"
+msgstr "비용"
+
+msgid "income"
+msgstr "수입"
+
+msgid "tax"
+msgstr "세"
+
+msgid "percent"
+msgstr "퍼센트"
+
+msgid "transfer"
+msgstr "이전"
+
+msgid "Make operation"
+msgstr "동작을 확인"
+
+msgid "Select date"
+msgstr "날짜 선택"
+
+msgid "Select account"
+msgstr "선택 계정"
+
+msgid "Month"
+msgstr "달"
+
+msgid "Quarter"
+msgstr "쿼터"
+
+msgid "Year"
+msgstr "년"
+
+msgid "From"
+msgstr "에서"
+
+msgid "To"
+msgstr "에"
+
+msgid "Expense amount"
+msgstr "지출 금액"
+
+msgid "Categories"
+msgstr "카테고리"
+
+msgid "Comments"
+msgstr "댓글"
+
+msgid "Income amount"
+msgstr "소득액"
+
+msgid "Transfer amount"
+msgstr "전송 양"
+
+msgid "From account"
+msgstr "계정에서"
+
+msgid "To account"
+msgstr "계정에"
+
+msgid "New Account"
+msgstr "새 계정"
+
+msgid "New Category"
+msgstr "새로운 카테고리"
+
+msgid "All"
+msgstr "모든"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "Enter category name"
+msgstr "카테고리 이름을 입력합니다"
+
+msgid "Select type"
+msgstr "유형 선택"
+
+msgid "Credit card"
+msgstr "신용 카드"
+
+msgid "Debit card"
+msgstr "신용 카드"
+
+msgid "Bank account"
+msgstr "은행 계좌"
+
+msgid "Cash"
+msgstr "현금"
+
+msgid "Balance is empty"
+msgstr "밸런스 가 비어 있습니다"
+
+msgid "Statistic is empty"
+msgstr "통계 가 비어 있습니다"
+
+msgid "Regular payments"
+msgstr "정기 지급"
+
+msgid "Are you sure ?"
+msgstr "확실합니까 ?"
+
+msgid "Are you sure to close this project?"
+msgstr "이 프로젝트를 종료 하시겠습니까 ?"
+
+msgid "Project was deleted successfully"
+msgstr "프로젝트 가 성공적으로 삭제되었습니다"
+
+msgid "Select currency"
+msgstr "통화 선택"
+
+msgid "Account"
+msgstr "계정"
+
+msgid "Orders list"
+msgstr "주문 목록"
+
+msgid "Order payments"
+msgstr "주문 결제"
+
+msgid "View order"
+msgstr "보기 주문"
+
+msgid "No response from Printer API"
+msgstr "프린터 API 에서 응답이 없습니다"
+
+msgid "Bad response from Printer API"
+msgstr "프린터 API 에서 잘못된 응답"
+
+msgid "User ID"
+msgstr "사용자 ID"
+
+msgid "Contact Person"
+msgstr "담당자"
+
+msgid "No orders to process"
+msgstr "어떤 주문 처리 없습니다"
+
+msgid "Article announce image"
+msgstr "제 이미지를 발표"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "잘못된 동영상 URL입니다. 비워 둡니다 또는 유효 유튜브 URL을 삽입"
+
+msgid "Please, enter Contractor data"
+msgstr ", 계약자 데이터를 입력하십시오"
+
+msgid "Distribute devices"
+msgstr "장치를 배포"
+
+msgid "Quantity"
+msgstr "양"
+
+msgid "Devices left"
+msgstr "장치 왼쪽"
+
+msgid "Distributed devices"
+msgstr "분산 장치"
+
+msgid "You must enter quantity"
+msgstr "당신은 수량 을 입력해야합니다"
+
+msgid "All devices are distributed"
+msgstr "모든 장치는 분산되어"
+
+msgid "IP address"
+msgstr "IP 주소"
+
+msgid "Only for printer"
+msgstr "전용 프린터 에 대한"
+
+msgid "Counter"
+msgstr "계수기"
+
+msgid "You was excluded from this room"
+msgstr "당신 은 이 방 에서 제외 되었다"
+
+msgid "Compare"
+msgstr "비교"
+
+msgid "Scheduled transaction"
+msgstr "예약 거래"
+
+msgid "Select transfer account"
+msgstr "선택 전송 계정"
+
+msgid "Select income account"
+msgstr "선택 소득 계정"
+
+msgid "Reports"
+msgstr "보고서"
+
+msgid "Goals"
+msgstr "목표"
+
+msgid "Budgets"
+msgstr "예산"
+
+msgid "Enter user name or email..."
+msgstr "사용자 이름 또는 이메일을 입력 ..."
+
+msgid "Invite had been sended"
+msgstr "발송에 실패 했다 초대"
+
+msgid "Statistics"
+msgstr "통계"
+
+msgid "Updated site began to work"
+msgstr "업데이트 사이트 가 작동 하기 시작했다"
+
+msgid "City of residence"
+msgstr "거주 도시"
+
+msgid "Edit favourites list"
+msgstr "편집 의 즐겨 찾기 목록"
+
+msgid "Add favourites list"
+msgstr "즐겨 찾기 목록 을 추가"
+
+msgid "Categories is required"
+msgstr "카테고리 가 필요합니다"
+
+msgid "Type new category name and hit Enter"
+msgstr "새로운 카테고리 이름을 입력하고 Enter 키를 누르십시오"
+
+msgid "You created an order"
+msgstr "당신은 주문을 생성"
+
+msgid "You received a device due to this order"
+msgstr "이로 인해 사용자는 주문을받은 장치"
+
+msgid "%s attached %s to task %s"
+msgstr "%s에 연결 %s은 (는) % 의 작업에"
+
+msgid "member(s)"
+msgstr "회원 (들)"
+
+msgid "%s commented task %s"
+msgstr "% 의 주석 작업 % 의"
+
+msgid "%s closed task %s"
+msgstr "% 의 폐쇄 작업 % 의"
+
+msgid "%s created task %s"
+msgstr "% 의 생성 작업 % 의"
+
+msgid "%s created this project"
+msgstr "% 의 이 프로젝트를 생성"
+
+msgid "%s created subproject \"%s\""
+msgstr "% 의 생성 하위 프로젝트 \"%s의 \""
+
+msgid "%s closed project \"%s\""
+msgstr "% 의 폐쇄 프로젝트 \"%s의 \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "% 의 폐쇄 하위 프로젝트 \"%s의 \""
+
+msgid "This field must not be blank"
+msgstr "이 필드는 반드시 입력해야합니다"
+
+msgid "Document with such name is already exist"
+msgstr "같은 이름의 문서 가 이미 존재 이다"
+
+msgid "Wait until image upload"
+msgstr "이미지 업로드 될 때까지 기다립니다"
+
+msgid "Video"
+msgstr "비디오"
+
+msgid "Message can not be empty"
+msgstr "메시지 는 비워 둘 수 없습니다"
+
+msgid "Yes"
+msgstr "네"
+
+msgid "No"
+msgstr "아니"
+
+msgid "Created"
+msgstr "생성"
+
+msgid "Compare is empty"
+msgstr "비어 비교"
+
+msgid "Are you sure you want to delete operation"
+msgstr "당신은 당신이 작업을 삭제 하시겠습니까?"
+
+msgid "Do you really want to delete transaction"
+msgstr "당신은 정말 트랜잭션을 삭제 하시겠습니까"
+
+msgid "Project with same name already exists"
+msgstr "같은 이름을 가진 프로젝트 가 이미 존재합니다"
+
+msgid "Account is not found"
+msgstr "계정 을 찾을 수 없습니다"
+
+msgid "Currency is required"
+msgstr "ne"
+
+msgid "error while deleting document"
+msgstr "오류 문서를 삭제하는 동안"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "당신은 이 방에서 사용자 \" %s을 (를) \" 초대"
+
+msgid "User \"%s\" joined this room"
+msgstr "사용자 \" % S\"는 이 방 에 합류"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "이 방에서 사용자 \"%s\"을 (를) 제외"
+
+msgid "User \"%s\" left this room"
+msgstr "사용자 \" % S\"는 이 방 을 떠나"
+
+msgid "Add account"
+msgstr "계정을 추가"
+
+msgid "The requested page is not found"
+msgstr "요청하신 페이지 를 찾을 수 없습니다"
+
+msgid "Document"
+msgstr "문서"
+
+msgid "Table"
+msgstr "테이블"
+
+msgid "file(s)"
+msgstr "파일 (들)"
+
+msgid "Residue"
+msgstr "잔여"
+
+msgid "Result is empty"
+msgstr "결과 가 비어 있습니다"
+
+msgid "The total amount is %s for %s mo"
+msgstr "총 금액은 % 의 개월 에 대한 %s입니다"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "당신은 관련 계정 % 의 매달 을 입금 해야"
+
+msgid "Start"
+msgstr "출발"
+
+msgid "finish"
+msgstr "끝"
+
+msgid "Selected account is already in use for another goal"
+msgstr "선택한 계정 은 다른 목표를 위해 이미 사용 중입니다"
+
+msgid "Amount required"
+msgstr "금액 요구"
+
+msgid "New goal"
+msgstr "새로운 목표"
+
+msgid "Goal"
+msgstr "골"
+
+msgid "Goal name"
+msgstr "목표 이름"
+
+msgid "Invalid date"
+msgstr "잘못된 날짜"
+
+msgid "Necessary sum must be a positive number"
+msgstr "필요한 금액 은 양수 여야합니다"
+
+msgid "Remain"
+msgstr "남아"
+
+msgid "Last day"
+msgstr "마지막 날"
+
+msgid "Accumulated"
+msgstr "누적"
+
+msgid "Put aside"
+msgstr "따로 넣어"
+
+msgid "January"
+msgstr "1월"
+
+msgid "February"
+msgstr "2월"
+
+msgid "March"
+msgstr "행진"
+
+msgid "April"
+msgstr "4월"
+
+msgid "May"
+msgstr "할 수있다"
+
+msgid "June"
+msgstr "유월"
+
+msgid "July"
+msgstr "7월"
+
+msgid "August"
+msgstr "위엄있는"
+
+msgid "September"
+msgstr "9월"
+
+msgid "October"
+msgstr "10월"
+
+msgid "November"
+msgstr "11월"
+
+msgid "December"
+msgstr "12월"
+
+msgid "Expenses projected/actual"
+msgstr "예상 / 실제 비용"
+
+msgid "Net Income projected/actual"
+msgstr "당기 순이익 / 실제 예상"
+
+msgid "New budget"
+msgstr "새로운 예산"
+
+msgid "Revenue and Expenses Chart"
+msgstr "수익 및 비용 차트"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "동일한 계정 쌍의 범주 에 예산 이 이미 존재합니다"
+
+msgid "Budget is empty"
+msgstr "예산 이 비어 있습니다"
+
+msgid "Budget"
+msgstr "예산"
+
+msgid "plan"
+msgstr "계획"
+
+msgid "fact"
+msgstr "사실"
+
+msgid "diff"
+msgstr "DIFF"
+
+msgid "Show More"
+msgstr "자세히보기"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "d"
+msgstr "디"
+
+msgid "h"
+msgstr "시간"
+
+msgid "min"
+msgstr "분"
+
+msgid "My sales"
+msgstr "내 판매"
+
+msgid "Time spent"
+msgstr "시간 소요"
+
+msgid "Total time spent"
+msgstr "총 시간이 소요"
+
+msgid "Earnings per hour"
+msgstr "시간당 실적"
+
+msgid "Total earnings"
+msgstr "총 수입"
+
+msgid "Call"
+msgstr "전화"
+
+msgid "Phone call"
+msgstr "전화"
+
+msgid "Telephone calls"
+msgstr "전화 통화"
+
+msgid "Send email"
+msgstr "이메일을 보내"
+
+msgid "Emails"
+msgstr "이메일"
+
+msgid "Meeting"
+msgstr "모임"
+
+msgid "Meetings"
+msgstr "회의"
+
+msgid "All events"
+msgstr "모든 이벤트"
+
+msgid "Task"
+msgstr "태스크"
+
+msgid "Event"
+msgstr "행사"
+
+msgid "Events"
+msgstr "이벤트"
+
+msgid "Time"
+msgstr "시간"
+
+msgid "Events statistics"
+msgstr "이벤트 통계"
+
+msgid "days"
+msgstr "일"
+
+msgid "hours"
+msgstr "시간"
+
+msgid "minutes"
+msgstr "분"
+
+msgid "Income & expense"
+msgstr "소득 및 비용"
+
+msgid "Show chart"
+msgstr "표시 차트"
+
+msgid "Hide chart"
+msgstr "숨기기 차트"
+
+msgid "Add event"
+msgstr "이벤트 추가"
+
+msgid "Add financial data"
+msgstr "재무 데이터 추가"
+
+msgid "Select contractor"
+msgstr "선택 계약"
+
+msgid "Net Income"
+msgstr "당기 순이익"
+
+msgid "Revenue"
+msgstr "수익"
+
+msgid "Taxes"
+msgstr "세금"
+
+msgid "Amount planned"
+msgstr "양 계획"
+
+msgid "Amount"
+msgstr "양"
+
+msgid "Period"
+msgstr "기간"
+
+msgid "Are you sure to close this task?"
+msgstr "이 작업을 종료 하시겠습니까 ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "모든 그룹"
+
+msgid "added from task"
+msgstr "작업 에서 추가"
+
+msgid "Monthly repeat"
+msgstr "월간 반복"
+
+msgid "Select category"
+msgstr "선택 카테고리"
+
+msgid "Event type"
+msgstr "이벤트 유형"
+
+msgid "Margin"
+msgstr "여유"
+
+msgid "Use finance project"
+msgstr "금융 프로젝트를 사용하여"
+
+msgid "New investment project"
+msgstr "새로운 투자 프로젝트"
+
+msgid "Investment project settings"
+msgstr "투자 프로젝트 설정"
+
+msgid "Picture, for the announcement project"
+msgstr "발표 프로젝트에 대한 사진 ,"
+
+msgid "Announcement project"
+msgstr "발표 프로젝트"
+
+msgid "Video"
+msgstr "비디오"
+
+msgid "Photos or videos gallery"
+msgstr "사진 또는 동영상 갤러리"
+
+msgid "required amount"
+msgstr "필요한 양"
+
+msgid "Project duration (60 days maximum)"
+msgstr "프로젝트 기간 ( 육십일 최대)"
+
+msgid "Project duration"
+msgstr "프로젝트 기간"
+
+msgid "Add reward"
+msgstr "보상 추가"
+
+msgid "Delivery date"
+msgstr "납품 일"
+
+msgid "Payment systems"
+msgstr "결제 시스템"
+
+msgid "Terms of service"
+msgstr "서비스 약관"
+
+msgid "Agreement"
+msgstr "협정"
+
+msgid "Payment"
+msgstr "지불"
+
+msgid "My projects"
+msgstr "내 프로젝트"
+
+msgid "Search result"
+msgstr "검색 결과"
+
+msgid "Nothing not found"
+msgstr "아무것도 찾을 수 없습니다"
+
+msgid "The project has no sponsors"
+msgstr "프로젝트는 스폰서 가 없습니다"
+
+msgid "Design"
+msgstr "디자인"
+
+msgid "Food"
+msgstr "음식"
+
+msgid "Journalism"
+msgstr "저널리즘"
+
+msgid "Games"
+msgstr "게임"
+
+msgid "Art"
+msgstr "미술"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "음악"
+
+msgid "Handicrafts"
+msgstr "수공예품"
+
+msgid "Publishing"
+msgstr "출판"
+
+msgid "Theater"
+msgstr "극장"
+
+msgid "Technology"
+msgstr "기술"
+
+msgid "Film/Video"
+msgstr "영화 / 비디오"
+
+msgid "Photo"
+msgstr "사진"
+
+msgid "Dance"
+msgstr "댄스"
+
+msgid "Invalid youtube video"
+msgstr "잘못된 유튜브 비디오"
+
+msgid "is required"
+msgstr "필요"
+
+msgid "User"
+msgstr "사용자"
+
+msgid "Date"
+msgstr "날짜"
+
+msgid "Collected"
+msgstr "모은"
+
+msgid "Choose period"
+msgstr "날짜를 선택"
+
+msgid "Choose region"
+msgstr "지역 선택"
+
+msgid "Country"
+msgstr "국가"
+
+msgid "Today"
+msgstr "오늘"
+
+msgid "Week"
+msgstr "주"
+
+msgid "Month"
+msgstr "달"
+
+msgid "Year"
+msgstr "년"
+
+msgid "Free registration"
+msgstr "무료 등록"
+
+msgid "Join"
+msgstr "어울리다"
+
+msgid "Log in using"
+msgstr "사용하여 로그인"
+
+msgid "Vacancies"
+msgstr "고용 기회"
+
+msgid "About Us"
+msgstr "회사 소개"
+
+msgid "You will need email to log in"
+msgstr "당신은 에 로그인 할 때 이메일을 해야합니다"
+
+msgid "A combination of 6 digits and characters"
+msgstr "6 숫자와 문자 의 조합"
+
+msgid "Search users, groups, articles..."
+msgstr "검색 사용자, 그룹 , 기사 ..."
+
+msgid "Cloud"
+msgstr "구름"
+
+msgid "Sunday"
+msgstr "일요일"
+
+msgid "Monday"
+msgstr "월요일"
+
+msgid "Tuesday"
+msgstr "화요일"
+
+msgid "Wednesday"
+msgstr "수요일"
+
+msgid "Thursday"
+msgstr "목요일"
+
+msgid "Friday"
+msgstr "금요일"
+
+msgid "Saturday"
+msgstr "토요일"
+
+msgid "Edit"
+msgstr "편집"
+
+msgid "Create group"
+msgstr "그룹 만들기"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "이 페이지 에서 탈퇴 하시겠습니까 ?"
+
+msgid "More"
+msgstr "더"
+
+msgid "Less"
+msgstr "적게"
+
+msgid "Pending"
+msgstr "대기 중"
+
+msgid "Approved"
+msgstr "승인"
+
+msgid "Rejected"
+msgstr "거부"
+
+msgid "Subprojects"
+msgstr "하위 프로젝트"
+
+msgid "Group edit"
+msgstr "그룹 편집"
+
+msgid "Startup"
+msgstr "시작"
+
+msgid "Tattoo"
+msgstr "문신"
+
+msgid "Health"
+msgstr "건강"
+
+msgid "Weapon"
+msgstr "무기"
+
+msgid "Astronomy"
+msgstr "천문학"
+
+msgid "All articles"
+msgstr "전체 기사"
+
+msgid "Article editor"
+msgstr "제 편집기"
+
+msgid "Document editor"
+msgstr "문서 편집기"
+
+msgid "Apply changes"
+msgstr "변경 사항을 적용"
+
+msgid "Save changes?"
+msgstr "변경 사항을 저장하다?"
+
+msgid "published an article"
+msgstr "기사를 게시"
+
+msgid "Users"
+msgstr "사용자"
+
+msgid "Shared With Me"
+msgstr "나와 공유"
+
+msgid "share"
+msgstr "몫"
+
+msgid "Select Group Responsible"
+msgstr "그룹 은 책임있는 선택"
+
+msgid "Create folder"
+msgstr "폴더 만들기"
+
+msgid "Title must be at least 3 characters"
+msgstr "제목 은 최소 3 자 이상이어야합니다"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "무료 10기가바이트 , 재무 관리자 , 모듈 을 투자 하고, 영원히 무료로 많은 다른"
+
+msgid "Best regards"
+msgstr "친애하는"
+
+msgid "Updates in last 12 hours:"
+msgstr "지난 12 시간 업데이트 :"
+
+msgid "expense"
+msgstr "비용"
+
+msgid "Commentary on the event:"
+msgstr "이벤트 에 대한 해설 :"
+
+msgid "Event place"
+msgstr "이벤트 장소"
+
+msgid "Project was updated"
+msgstr "프로젝트 가 업데이트되었습니다"
+
+msgid "Project was created"
+msgstr "프로젝트 생성"
+
+msgid "Project was closed"
+msgstr "프로젝트 는 닫혔다"
+
+msgid "account"
+msgstr "계정"
+
+msgid "removed task"
+msgstr "제거 작업"
+
+msgid "removed subproject"
+msgstr "제거 하위 프로젝트"
+
+msgid "Title can not be empty"
+msgstr "제목 은 비워 둘 수 없습니다"
+
+msgid "Do not select the type of event"
+msgstr "이벤트 의 유형을 선택하지"
+
+msgid "Error while saving comment"
+msgstr "오류 코멘트를 저장하는 동안"
+
+msgid "Save error: access denied"
+msgstr "오류를 저장 : 액세스가 거부"
+
+msgid "Remains"
+msgstr "유적"
+
+msgid "Time spent, h."
+msgstr "시간 , 시간 을 보냈다."
+
+msgid "Emails"
+msgstr "이메일"
+
+msgid "Meetings"
+msgstr "회의"
+
+msgid "All users"
+msgstr "모든 사용자들"
+
+msgid "Category"
+msgstr "범주"
+
+msgid "Finance project"
+msgstr "금융 프로젝트"
+
+msgid "Investment project"
+msgstr "투자 프로젝트"
+
+msgid "Nature"
+msgstr "자연"
+
+msgid "Data is empty"
+msgstr "데이터 가 비어 있습니다"
+
+msgid "Visitors"
+msgstr "방문자"
+
+msgid "My profile"
+msgstr "내 프로필"
+
+msgid "Sponsors"
+msgstr "스폰서"
+
+msgid "Prior to completion"
+msgstr "이전 완료"
+
+msgid "Select"
+msgstr "고른"
+
+msgid "My groups"
+msgstr "내 그룹"
+
+msgid "The invitation has been sent successfully"
+msgstr "초대 가 성공적으로 발송되었습니다"
+
+msgid "Username has already been invited to this project"
+msgstr "사용자 이름 은 이미 이 프로젝트 에 초대 되었습니다"
+
+msgid "The user is the creator of the project"
+msgstr "사용자는 프로젝트의 창조자이다"
+
+msgid "Provide full access"
+msgstr "전체 액세스 권한을 제공합니다"
+
+msgid "Select elements to provide access"
+msgstr "액세스를 제공하는 요소 를 선택"
+
+msgid "Select all"
+msgstr "모든 선택"
+
+msgid "User E-mail"
+msgstr "사용자 이메일"
+
+msgid "Click on the field to select a category"
+msgstr "카테고리를 선택하려면 필드를 ​​클릭"
+
+msgid "Invitation was deleted"
+msgstr "초대 가 삭제되었습니다"
+
+msgid "Permission denied"
+msgstr "사용 권한이 거부되었습니다"
+
+msgid "Printed"
+msgstr "인쇄 된"
+
+msgid "Incorrect Contractor email"
+msgstr "잘못된 계약자 이메일"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "당신은 매니저 자금을 프로젝트를 추가 하시겠습니까?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "등록 절차를 완료하려면 당신의 능력 을 기입 해주세요"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "추가 지침에메일이 이메일 주소로 보내졌다"
+
+msgid "Submit"
+msgstr "제출"
+
+msgid "Cars"
+msgstr "자동차"
+
+msgid "Science"
+msgstr "과학"
+
+msgid "Donation"
+msgstr "기부"
+
+msgid "Interests"
+msgstr "이해"
+
+msgid "Driver"
+msgstr "운전사"
+
+msgid "Sportsman"
+msgstr "운동가"
+
+msgid "Businessman"
+msgstr "실업가"
+
+msgid "Accountant"
+msgstr "회계 원"
+
+msgid "Engineer"
+msgstr "기사"
+
+msgid "Soldier"
+msgstr "병사"
+
+msgid "Next"
+msgstr "다음 것"
+
+msgid "Hide group"
+msgstr "숨기기 그룹"
+
+msgid "groups created"
+msgstr "그룹 생성"
+
+msgid "articles written"
+msgstr "기사 작성"
+
+msgid "These groups may be interesting for you"
+msgstr "이 그룹은 당신을위한 흥미로운 일이 될 수있다"
+
+msgid "About Group"
+msgstr "그룹 소개"
+
+msgid "view(s)"
+msgstr "보기 (들)"
+
+msgid "Favorite users"
+msgstr "좋아하는 사용자"
+
+msgid "No accounts"
+msgstr "어떤 계정이 없습니다"
+
+msgid "Facebook authorization failed."
+msgstr "페이스 북 인증 에 실패했습니다."
+
+msgid "Authorization Required"
+msgstr "인증 필수"
+
+msgid "You have to make a call:"
+msgstr "당신은 전화를 해야합니다 :"
+
+msgid "You have to send an email:"
+msgstr "당신은 이메일을 보낼 수 있다 :"
+
+msgid "You have a meetup:"
+msgstr "당신의 meetup 이있다 :"
+
+msgid "You event :"
+msgstr "당신 이벤트 :"
+
+msgid "Participants:"
+msgstr "참가자 :"
+
+msgid "Search"
+msgstr "수색"
+
+msgid "News"
+msgstr "뉴스"
+
+msgid "Investments"
+msgstr "투자"
+
+msgid "Back to Cloud"
+msgstr "위로 구름 에"
+
+msgid "Documents"
+msgstr "서류"
+
+msgid "Planet"
+msgstr "행성"
+
+msgid "Group url"
+msgstr "그룹 URL"
+
+msgid "Profile url"
+msgstr "프로필 URL"
+
+msgid "Already taken"
+msgstr "이미 촬영"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "필요한 최소한 1 문자와 3 문자 길이"
+
+msgid "Digit can not be the first character"
+msgstr "숫자는 첫 번째 문자 가 될 수 없습니다"
+
+msgid "Enter valid email address"
+msgstr "유효한 이메일 주소를 입력"
+
+msgid "Enter your skills"
+msgstr "당신의 능력 을 입력"
+
+msgid "Enter your first name"
+msgstr "당신의 이름 을 입력"
+
+msgid "Enter your last name"
+msgstr "마지막 이름을 입력합니다"
+
+msgid "Enter your first name and last name"
+msgstr "첫 번째 이름과 마지막 이름을 입력합니다"
+
+msgid "Your first name?"
+msgstr "당신의 이름?"
+
+msgid "Your last name?"
+msgstr "귀하의 마지막 이름은?"
+
+msgid "What are your proficiencies?"
+msgstr "당신의 실력 은 무엇입니까?"
+
+msgid "Select country"
+msgstr "국가 선택"
+
+msgid "Select user"
+msgstr "선택 사용자"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "당신의 꿈 을 성취 ! 작성 및 공동 작업을 수행 할 수 있습니다."
+
+msgid "date moved from"
+msgstr "날짜 에서 이동"
+
+msgid "work"
+msgstr "작업"
+
+msgid "Conference"
+msgstr "회의"
+
+msgid "personal"
+msgstr "개인의"
+
+msgid "Holiday"
+msgstr "휴일"
+
+msgid "Past"
+msgstr "과거"
+
+msgid "Future"
+msgstr "미래"
+
+msgid "Purchase"
+msgstr "매수"
+
+msgid "Personal events"
+msgstr "개인 이벤트"
+
+msgid "Conferences"
+msgstr "모임"
+
+msgid "Holidays"
+msgstr "휴가"
+
+msgid "Sport events"
+msgstr "스포츠 이벤트"
+
+msgid "Tasks"
+msgstr "작업"
+
+msgid "Other events"
+msgstr "기타 이벤트"
+
+msgid "Set aside"
+msgstr "테이크 아웃"
+
+msgid "Set aside"
+msgstr "이연"
+
+msgid "Time management"
+msgstr "시간 관리"
+
+msgid "Delayed events"
+msgstr "이연 이벤트"
+
+msgid "Delayed"
+msgstr "이연"
+
+msgid "Bind to"
+msgstr "지정"
+
+msgid "answered your comment to"
+msgstr "나는 () 기사에 대한 코멘트를했다"
+
+msgid "commented your article"
+msgstr "나는 당신의 기사에 댓글"
+
+msgid "You\'ve answered on comment to"
+msgstr "당신은 기사에 코멘트에 응답"
+
+msgid "You\'ve commented an article"
+msgstr "당신은 기사에 댓글"
+
+msgid "Terms and Conditions"
+msgstr "이용 약관"
+
+msgid "Privacy Policy"
+msgstr "개인 정보 보호 정책"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "클릭하면 당신이 우리에 동의하고 읽고 인정 \"가입\"우리의"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "전 세계에서 창조적 인 사람들의 커뮤니티에 참여하기! 당신이 나타납니다 투자를 당신의 아이디어에, 그의 팀을 수집 할 수있는 기회를, 저장, 더 2 기가 바이트, 그룹, 재무 관리자에서 작업 시간을 관리. 그리고 그것은 무료입니다!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "미안하지만, 당신이 찾고있는 페이지가 존재하지 않습니다. 당신이 비난 생각하는 경우에 우리는 저희에게 연락"
+
+msgid "Return"
+msgstr "반환"
+
+msgid "COMMON"
+msgstr "총"
+
+msgid "My events"
+msgstr "내 이벤트"
+
+msgid "Job opening"
+msgstr "새로운 공석"
+
+msgid "Employment"
+msgstr "고용의 유형"
+
+msgid "Working hours"
+msgstr "영업 시간"
+
+msgid "City"
+msgstr "도시"
+
+msgid "Wages"
+msgstr "봉급"
+
+msgid "Currency"
+msgstr "통화"
+
+msgid "Experience"
+msgstr "경험"
+
+msgid "Full-time"
+msgstr "완전 고용"
+
+msgid "Part-time"
+msgstr "파트 타임으로"
+
+msgid "Project employment"
+msgstr "프로젝트 / 임시"
+
+msgid "Volunteer"
+msgstr "자원"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "풀 타임"
+
+msgid "Shifts"
+msgstr "교체 일정"
+
+msgid "Flexible shifts"
+msgstr "유연한 일정"
+
+msgid "Remote work"
+msgstr "원격 작업"
+
+msgid "Rotational basis"
+msgstr "시프트 방법"
+
+msgid "Do you really want to delete this comment?"
+msgstr "당신은 댓글을 삭제 하시겠습니까?"
+
+msgid "Do you really want to delete this task?"
+msgstr "이 작업을 삭제 하시겠습니까?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "이 하위 프로젝트를 삭제 하시겠습니까?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "당신은 위치에있는 회사에 적용했습니다. 반드시 확인하시기 바랍니다"
+
+msgid "Your request to for job has been rejected"
+msgstr "위치로 회사에 요청이 거부되었습니다"
+
+msgid "Your request to for job has been accepted"
+msgstr "위치로 회사에 요청이 채택되었다"
+
+msgid "profile is completed"
+msgstr "프로필이 가득"
+
+msgid "Use account"
+msgstr "계정 사용"
+
+msgid "$/hr"
+msgstr "$ / 시간"
+
+msgid "Finance category"
+msgstr "금융 카테고리"
+
+msgid "No projects"
+msgstr "어떤 프로젝트가 없습니다"
+
+msgid "Bind to finances"
+msgstr "금융 프로젝트를 할당"
+
+msgid "Preview"
+msgstr "전망"
+
+msgid "Download"
+msgstr "다운로드"
+
+msgid "Save to my cloud"
+msgstr "저장소를 복사"
+
+msgid "File successfully saved to your cloud"
+msgstr "성공적으로 저장소에 저장 - 파일"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "저장소에서이 파일을 저장 하시겠습니까?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "분류 제를 선택"
+
+msgid "Type something"
+msgstr "뭔가 쓰기"
+
+msgid "Founded users"
+msgstr "발견 사용자"
+
+msgid "Founded articles"
+msgstr "발견 기사"
+
+msgid "Founded groups"
+msgstr "설립 그룹"
+
+msgid "What are your skills?"
+msgstr "당신의 능력은 무엇인가?"
+
+msgid "Select at least 2 interests"
+msgstr "2 개 이상의 관심을 선택"
+
+msgid "Need more interests"
+msgstr "충분하지 않은 관심 선택"
+
+msgid "What are you interesting in?"
+msgstr "당신이 관심이 무엇입니까?"
+
+msgid "You have no dialogs"
+msgstr "당신은 대화를하지 않아도"
+
+msgid "Usage Stats"
+msgstr "의 주"
+
+msgid "Founded files"
+msgstr "파일을 찾을 수"
+
+msgid "Big tiles"
+msgstr "대형 타일"
+
+msgid "Small tiles"
+msgstr "작은 타일"
+
+msgid "Table view"
+msgstr "테이블보기"
+
+msgid "Root folder"
+msgstr "루트 디렉토리"
+
+msgid "My files"
+msgstr "내 파일"
+
+msgid "Save as draft"
+msgstr "임시 보관함에 저장"
+
+msgid "Buy More Space"
+msgstr "더 많은 공간을 구매"
+
+msgid "Buy"
+msgstr "사기"
+
+msgid "You have been invited to group as"
+msgstr "당신은 같은 그룹에 초대되었습니다"
+
+msgid "User wants to join your group"
+msgstr "사용자가 그룹에 가입하고자"
+
+msgid "Section is coming soon!"
+msgstr "건설 장!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "지난 24 시간 조회 수:"
+
+msgid "Task was updated"
+msgstr "작업이 업데이트되었습니다"
+
+msgid "Task was closed"
+msgstr "문제는 닫힌"
+
+msgid "Task was created"
+msgstr "작업은 설정"
+
+msgid "Current balance"
+msgstr "현재 잔액"
+
+msgid "Add funds"
+msgstr "추가"
+
+msgid "Pay"
+msgstr "점검"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "당신은 로그인 시도 횟수를 초과했습니다. 당신은 15 분 동안 차단됩니다"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "전자 메일을 확인하시기 바랍니다. 메일로 전송 편지."
+
+msgid "Resend confirmation email"
+msgstr "다시 확인 보내기"
+
+msgid "Disk 2Gb Monthly"
+msgstr "한달 디스크 2기가바이트"
+
+msgid "Disk 10Gb Monthly"
+msgstr "년 당 10 기가 바이트 드라이브"
+
+msgid "Disk 100Gb Yearly"
+msgstr "디스크 1백기가바이트 매년"
+
+msgid "Disk 1Tb Monthly"
+msgstr "디스크 1TB 월"
+
+msgid "Disk 1Tb Yearly"
+msgstr "매년 1 테라 바이트 드라이브"
+
+msgid "Project members monthly"
+msgstr "매월 프로젝트의 참가자"
+
+msgid "Project members yearly"
+msgstr "매년 프로젝​​트 참가자"
+
+msgid "Member(s) yearly"
+msgstr "연간 회원 (들)"
+
+msgid "Member(s) monthly"
+msgstr "매월 회원 (들)"
+
+msgid "Authorized"
+msgstr "권한을 부여받은"
+
+msgid "Authorization expired"
+msgstr "권한이 만료"
+
+msgid "Processor declined"
+msgstr "거부 처리 시스템"
+
+msgid "Gateway rejected"
+msgstr "거부 지불 게이트웨이"
+
+msgid "Failed"
+msgstr "오류"
+
+msgid "Voided"
+msgstr "무효로하다"
+
+msgid "Submitted for settlement"
+msgstr "등록 전송"
+
+msgid "Settlement declined"
+msgstr "등록이 거부되었습니다"
+
+msgid "Settlement pending"
+msgstr "대기중인 등록"
+
+msgid "Verified"
+msgstr "검사"
+
+msgid "Pending"
+msgstr "대기 중"
+
+msgid "Active"
+msgstr "활동적인"
+
+msgid "Past Due"
+msgstr "만료"
+
+msgid "Expired"
+msgstr "종단"
+
+msgid "Marketer"
+msgstr "마케팅"
+
+msgid "India"
+msgstr "인도"
+
+msgid "Malaysia"
+msgstr "말레이시아"
+
+msgid "Thailand"
+msgstr "태국"
+
+msgid "South Korea"
+msgstr "대한민국"
+
+msgid "Kazakhstan"
+msgstr "카자흐스탄"
+
+msgid "Israel"
+msgstr "이스라엘"
+
+msgid "Ukraine"
+msgstr "우크라이나"
+
+msgid "Belarus"
+msgstr "벨라루스"
+
+msgid "Bulgaria"
+msgstr "불가리아"
+
+msgid "Turkey"
+msgstr "터키"
+
+msgid "Armenia"
+msgstr "아르메니아"
+
+msgid "Serbia"
+msgstr "세르비아"
+
+msgid "Austria"
+msgstr "오스트리아"
+
+msgid "Poland"
+msgstr "폴란드"
+
+msgid "Germany"
+msgstr "독일"
+
+msgid "Italy"
+msgstr "이탈리아"
+
+msgid "Netherlands"
+msgstr "네덜란드"
+
+msgid "Ireland"
+msgstr "아일랜드"
+
+msgid "United Kingdom"
+msgstr "영국"
+
+msgid "Portugal"
+msgstr "포르투갈"
+
+msgid "Norway"
+msgstr "노르웨이"
+
+msgid "United States"
+msgstr "미국"
+
+msgid "Canada"
+msgstr "캐나다"
+
+msgid "Brazil"
+msgstr "브라질"
+
+msgid "Saudi Arabia"
+msgstr "사우디 아라비아"
+
+msgid "Canada"
+msgstr "이집트"
+
+msgid "Russia"
+msgstr "러시아"
+
+msgid "Hong Kong"
+msgstr "홍콩"
+
+msgid "There was no any transactions yet."
+msgstr "지금이 순간, 하나의 트랜잭션 없었다"
+
+msgid "Fulfill your dream"
+msgstr "당신의 꿈을 성취"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "전 세계 각국에서 창조적 인 개인의 로모 그래피 커뮤니티에 가입."
+
+msgid "Create and Collaborate"
+msgstr "작성 및 공동 작업"
+
+msgid "Fulfill your dream"
+msgstr "지금 꿈을 성취"
+
+msgid "or"
+msgstr "또는"
+
+msgid "Our mission:"
+msgstr "우리의 미션:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "우리의 미래를 형성 할 수있는, 간단한에서 놀라운 환상적인에 대한 수요가 아이디어를 구현하기 위해 창의적이고 활동적인 사람을 결합합니다."
+
+msgid "What is Konstruktor?"
+msgstr "Konstruktor는 무엇인가?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor는 - 우리의 실제 상당히 용이하게 생활하고, 단순화의 일부입니다"
+
+msgid "*business processes"
+msgstr "* 비즈니스 프로세스"
+
+msgid "*materialization of creative ideas"
+msgstr "* 창의적인 아이디어의 구체화"
+
+msgid "*constructive cooperation"
+msgstr "* 건설적인 협력"
+
+msgid "Make your dream!"
+msgstr "당신의 꿈을 확인하세요!"
+
+msgid "Vlad Krishtop"
+msgstr "블라드 Krishtop"
+
+msgid "CEO"
+msgstr "최고 경영자"
+
+msgid "Yuriy Chekalenko"
+msgstr "YURIY Chekalenko"
+
+msgid "Special Advisor"
+msgstr "특별 고문"
+
+msgid "Yaroslav Eroshenko"
+msgstr "야로슬라프 Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "관리자, 소프트웨어 개발"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "스베틀라나 Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "수석 변호사"
+
+msgid "Yuriy Himka"
+msgstr "YURIY Himka"
+
+msgid "Designer"
+msgstr "디자이너"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "다음버튼을 클릭하면 동의하는 우리의 이용 약관에 동의하고, 당신은 당신이 우리의 개인 정보 보호 정책을 읽고 있음을 인정한다."
+
+msgid "Incorrect login or password."
+msgstr "잘못된 로그인 또는 암호를 입력합니다."
+
+msgid "Password must be at least 6 characters"
+msgstr "비밀번호는 6 자 이상이어야합니다"
+
+msgid "January"
+msgstr "일월"
+
+msgid "February"
+msgstr "이월"
+
+msgid "March"
+msgstr "행진"
+
+msgid "April"
+msgstr "사월"
+
+msgid "May"
+msgstr "할 수 있다"
+
+msgid "June"
+msgstr "유월"
+
+msgid "July"
+msgstr "칠월"
+
+msgid "August"
+msgstr "팔월"
+
+msgid "September"
+msgstr "구월"
+
+msgid "October"
+msgstr "십월"
+
+msgid "November"
+msgstr "십일월"
+
+msgid "December"
+msgstr "십이 월"
+
+msgid "Chat"
+msgstr "잡담"
+
+msgid "Files"
+msgstr "파일"
+
+msgid "Statistic"
+msgstr "통계량"
+
+msgid "Support"
+msgstr "받침"
+
+msgid "Exit"
+msgstr "출구"
+
+msgid "Brest"
+msgstr "브레스트"
+
+msgid "Belarus"
+msgstr "벨라루스"
+
+msgid "Marketing specialist"
+msgstr "마케팅 전문가"
+
+msgid "Administrator"
+msgstr "관리자"
+
+msgid "Shared with me"
+msgstr "저와 함께 공유"
+
+msgid "File Sharing"
+msgstr "파일 공유"
+
+msgid "Provide access by link"
+msgstr "링크의 액세스를 제공합니다"
+
+msgid "Provide Individual access"
+msgstr "개별 액세스를 제공합니다"
+
+msgid "Provide edit access"
+msgstr "편집 액세스를 제공합니다"
+
+msgid "Share"
+msgstr "몫"
+
+msgid "Files will be available only for selected users"
+msgstr "파일은 선택된 사용자 만 사용할 수 있습니다"
+
+msgid "With this link everyone can access to the files"
+msgstr "이 링크가있는 모든 사람이 파일에 액세스 할 수 있습니다"
+
+msgid "Search users, groups, articles..."
+msgstr "검색 사용자, 그룹, 기사 ..."
+
+msgid "My Group"
+msgstr "내 그룹"
+
+msgid "Mo"
+msgstr "모"
+
+msgid "Tu"
+msgstr "화"
+
+msgid "We"
+msgstr "우리"
+
+msgid "Th"
+msgstr "목"
+
+msgid "Fr"
+msgstr "FR"
+
+msgid "Sa"
+msgstr "사"
+
+msgid "Su"
+msgstr "스와"
+
+msgid "The file is not selected"
+msgstr "파일이 선택되지 않았습니다"
+
+msgid "Set aside"
+msgstr "따로"
+
+msgid "Event time"
+msgstr "이벤트 시간"
+
+msgid "Work"
+msgstr "작업"
+
+msgid "Personal"
+msgstr "개인적인"
+
+msgid "Time spent for work:"
+msgstr "시간은 일을 보냈다 :"
+
+msgid "Personal time spent:"
+msgstr "개인 시간을 보냈다 :"
+
+msgid "Present"
+msgstr "선물"
+
+msgid "Common"
+msgstr "공유지"
+
+msgid "Sport"
+msgstr "스포츠"
+
+msgid "Entertainment"
+msgstr "환대"
+
+msgid "Select:"
+msgstr "고른:"
+
+msgid "Invalid username or password."
+msgstr "사용자 이름 또는 비밀번호가 잘못되었습니다."
+
+msgid "Try again."
+msgstr "다시 시도하십시오."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "관심사가 무엇인가?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "2 개 이상의 기술을 선택 : 2를 유지"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "2 개 이상의 기술을 선택 : 1을 유지"
+
+msgid "Select at least 2 skills: remains"
+msgstr "2 개 이상의 기술을 선택 남아"
+
+msgid "Active life"
+msgstr "활동적인 생활"
+
+msgid "Arts and culture"
+msgstr "예술과 문화"
+
+msgid "Business"
+msgstr "사업"
+
+msgid "Cinema"
+msgstr "영화"
+
+msgid "Communications"
+msgstr "연락"
+
+msgid "Construction and repair"
+msgstr "건축 및 수리"
+
+msgid "Cooking"
+msgstr "조리"
+
+msgid "Education"
+msgstr "교육"
+
+msgid "Electronics"
+msgstr "전자 공학"
+
+msgid "Finances"
+msgstr "재정"
+
+msgid "Graphics and design"
+msgstr "그래픽 및 디자인"
+
+msgid "Health"
+msgstr "건강"
+
+msgid "Home and family"
+msgstr "가정 및 가족"
+
+msgid "Humor"
+msgstr "기분"
+
+msgid "IT"
+msgstr "그것"
+
+msgid "Industry"
+msgstr "산업"
+
+msgid "Insurance"
+msgstr "보험"
+
+msgid "Literature"
+msgstr "문학"
+
+msgid "Mobile communications and internet"
+msgstr "이동 통신과 인터넷"
+
+msgid "News and Media"
+msgstr "뉴스와 미디어"
+
+msgid "Pets"
+msgstr "애완 동물"
+
+msgid "Products and service"
+msgstr "제품 및 서비스"
+
+msgid "Real Estate"
+msgstr "부동산"
+
+msgid "Religion"
+msgstr "종교"
+
+msgid "Science and techs"
+msgstr "과학 기술자"
+
+msgid "Security"
+msgstr "보안"
+
+msgid "Society"
+msgstr "사회"
+
+msgid "Television"
+msgstr "텔레비전"
+
+msgid "Travel"
+msgstr "여행"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "아르헨티나"
+
+msgid "Australia"
+msgstr "호주"
+
+msgid "Austria"
+msgstr "오스트리아"
+
+msgid "Belarus"
+msgstr "벨라루스"
+
+msgid "Belgium"
+msgstr "벨기에"
+
+msgid "Brazil"
+msgstr "브라질"
+
+msgid "Bulgaria"
+msgstr "불가리아"
+
+msgid "Canada"
+msgstr "캐나다"
+
+msgid "Chile"
+msgstr "칠레"
+
+msgid "Denmark"
+msgstr "덴마크"
+
+msgid "France"
+msgstr "프랑스"
+
+msgid "Germany"
+msgstr "독일"
+
+msgid "Greece"
+msgstr "그리스"
+
+msgid "Hungary"
+msgstr "헝가리"
+
+msgid "Iceland"
+msgstr "아이슬란드"
+
+msgid "Ireland"
+msgstr "아일랜드"
+
+msgid "Israel"
+msgstr "이스라엘"
+
+msgid "Italy"
+msgstr "이탈리아"
+
+msgid "Japan"
+msgstr "일본"
+
+msgid "Mexico"
+msgstr "멕시코"
+
+msgid "Netherlands"
+msgstr "네덜란드"
+
+msgid "New Zealand"
+msgstr "뉴질랜드"
+
+msgid "Norway"
+msgstr "노르웨이"
+
+msgid "Poland"
+msgstr "폴란드"
+
+msgid "Portugal"
+msgstr "포르투갈"
+
+msgid "Russia"
+msgstr "러시아 제국"
+
+msgid "Slovakia"
+msgstr "슬로바키아"
+
+msgid "South Africa"
+msgstr "남아프리카"
+
+msgid "South Korea"
+msgstr "대한민국"
+
+msgid "Spain"
+msgstr "스페인"
+
+msgid "Sweden"
+msgstr "스웨덴"
+
+msgid "Switzerland"
+msgstr "스위스"
+
+msgid "Turkey"
+msgstr "터키"
+
+msgid "Ukraine"
+msgstr "우크라이나"
+
+msgid "United Arab Emirates"
+msgstr "아랍 에미리트"
+
+msgid "United Kingdom"
+msgstr "연합 왕국"
+
+msgid "United States"
+msgstr "미국"
+
+msgid "achievements"
+msgstr "업적"
+
+msgid "Investment management"
+msgstr "투자 관리"
+
+msgid "Select..."
+msgstr "고른..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "투자 관리"
+
+msgid "Investors list"
+msgstr "투자자 목록"
+
+msgid "My investments"
+msgstr "내 투자"
+
+msgid "Create date"
+msgstr "날짜를 만들기"
+
+msgid "Author of the project"
+msgstr "프로젝트의 저자"
+
+msgid "Date and time"
+msgstr "날짜와 시간"
+
+msgid "Status"
+msgstr "지위"
+
+msgid "NEXT"
+msgstr "다음 것"
+
+msgid "Next"
+msgstr "다음 것"
+
+msgid "Apply"
+msgstr "대다"
+
+msgid "Kazakhstan"
+msgstr "카자흐스탄"
+
+msgid "Almaty"
+msgstr "알마티"
+
+msgid "Hong Kong"
+msgstr "홍콩"
+
+msgid "Science"
+msgstr "과학"
+
+msgid "Architecture"
+msgstr "구조"
+
+msgid "Photography"
+msgstr "사진술"
+
+msgid "Designer"
+msgstr "디자이너"
+
+msgid "IT specialist"
+msgstr "IT 전문가"
+
+msgid "Agronomist"
+msgstr "농업 경제학자"
+
+msgid "Architect"
+msgstr "건축가"
+
+msgid "Lawyer"
+msgstr "변호사"
+
+msgid "Writer"
+msgstr "작가"
+
+msgid "Doctor"
+msgstr "의사"
+
+msgid "Scientist"
+msgstr "과학자"
+
+msgid "Marketer"
+msgstr "마케팅"
+
+msgid "Teacher"
+msgstr "선생"
+
+msgid "Cook"
+msgstr "쿡"
+
+msgid "Artist"
+msgstr "예술가"
+
+msgid "Photographer"
+msgstr "사진 작가"
+
+msgid "Ecologist"
+msgstr "생태 학자"
+
+msgid "Economist"
+msgstr "경제학자"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "기자"
+
+msgid "Builder"
+msgstr "건축업자"
+
+msgid "These users may be interesting for you"
+msgstr "이러한 사용자는 당신을위한 흥미로운 일이 될 수있다"
+
+msgid "These articles may be interesting for you"
+msgstr "이 기사는 당신을위한 흥미로운 일이 될 수있다"
+
+msgid "You joined this group as Аdministrator"
+msgstr "당신은 Аdministrator으로이 그룹에 합류"
+
+msgid "articles written."
+msgstr "기사를 작성합니다."
+
+msgid "groups created."
+msgstr "그룹을 만들었습니다."
+
+msgid "Creation"
+msgstr "창조"
+
+msgid "Build a dream"
+msgstr "꿈 구축"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "더 흥미로운 기사를 읽기 - 무료 등록을 이동"
+

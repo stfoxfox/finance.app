@@ -1,0 +1,101 @@
+{% extends 'balance.html.twig' %}
+
+{% block title %}
+    {{ controller_name }}
+{% endblock %}
+
+{% block body %}
+    <style>
+        .example-wrapper {
+            margin: 1em auto;
+            max-width: 800px;
+            width: 95%;
+            font: 18px/1.5 sans-serif;
+        }
+        .example-wrapper code {
+            background: #F5F5F5;
+            padding: 2px 6px;
+        }
+    </style>
+
+    <div class="container2">
+        <div class="row">
+            <div class="header-payment">{{ 'Enter amount to windrawal'|trans }}</div>
+            <div class="payment-gr windrawal_form">
+                <form class='form-group pay-style windrawal-process' 'id'='card-checkout' 'action'='' 'autocomplete'='off'>
+                    <div class="form-group form-group-block" style="margin-bottom: 20px;">
+                        <input name="amount" placeholder="{{ 'Amount'|trans }}"/>
+                    </div>
+                    <div class="form-group form-group-block" style="margin-bottom: 20px;">
+                        <input name="smscode" placeholder="{{ 'Sms Code'|trans }}"/><br/>
+                        <a href="#" class="send-smscode">{{ 'Send sms code'|trans }}</a>
+                    </div>
+
+                    {% for k, pay_system in pay_systems %}
+                    <div class="form-group form-group-double"{{ (k % 2 == 0 ? ' style="margin-left: 0;"' : '') }}>
+                        <label>
+                            <input name="wallet_id"{{ (pay_system['user_wallet']['id'] is not null ? '' : ' disabled="disabled"') }} value="{{ pay_system['user_wallet']['id'] is defined ? pay_system['user_wallet']['id'] : null }}" type="radio" style="width: auto; height: auto;" />
+                            {{ pay_system['wallet']['name'] }}
+                            <br/>
+                            {% if pay_system['wallet']['gate_commission']['USD'] is defined %}
+                                <small>{{ 'Commission'|trans }}: {{ pay_system['wallet']['gate_commission']['USD'] ? pay_system['wallet']['gate_commission']['USD'] : '0.0%' }}</small><br/>
+                            {% endif %}
+                            <small>
+                                <a href="#" class="wiring-connect" data-type="{{ pay_system['wallet']['id'] }}" data-wallet="{{ pay_system['wallet']['name'] }}">
+                                {% if (pay_system['user_wallet']['id'] is not null) %}
+                                    {{ 'Change'|trans }}
+                                {% else %}
+                                    {{ 'Connect'|trans }}
+                                {% endif %}
+                                </a>
+                            </small>
+                        </label>
+                    </div>
+                    {% endfor %}
+                    
+                    <div class="text-center clearfix">
+                        <input type="submit" value="{{ 'Windrawal'|trans}}" 'class'='btn btn-success'/>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <style>
+        .modal .modal-dialog {
+            display: block;
+            margin: 30px auto !important;
+        }
+        .modal .modal-content {
+            max-width: 480px;
+        }
+    </style>
+    <div class="modal fade wiring-wallet-modal" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="{{ 'Close'|trans }}">
+                        <span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">{{ 'Wiring a wallet'|trans }}</h4>
+                </div>
+                <div class="modal-body">
+                    {{ form_start(wallet_form, { 'attr': {'class':  'wallet-form pay-style', 'style': 'padding: 0'}}) }}
+                        <div class="form-group form-group-block">
+                            {{ form_widget(wallet_form.wallet, {'attr': { 'placeholder': 'Wallet Number'|trans }}) }}
+                        </div>
+                        <div class="form-group form-group-block" style="margin-top: 20px;">
+                            {{ form_widget(wallet_form.sms_code, {'attr': { 'placeholder': 'Sms Code'|trans }}) }}
+                            <br/>
+                            <a href="#" class="send-smscode">{{ 'Send sms code'|trans }}</a>
+                        </div>
+                        {{ form_widget(wallet_form.type, {'attr': {  }}) }}
+                        <input type="submit" style="display: none"/>
+                    {{ form_end(wallet_form) }}
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-submit="wallet-form">{{ 'Save'|trans }}</button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">{{ 'Close'|trans }}</button>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

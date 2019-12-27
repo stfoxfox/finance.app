@@ -1,0 +1,3348 @@
+# 日本人(Японский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: 日本人(Японский) <support@konstruktor.com>\n"
+"Language: 日本人(Японский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "ユーザ名   Yūza-mei"
+
+msgid "Invalid username or password, try again"
+msgstr "ユーザーネームまたはパスワードが間違って。再試行する。"
+
+msgid "Settings"
+msgstr "[設定]"
+
+msgid "Home"
+msgstr "ホーム"
+
+msgid "You must log in to access this page"
+msgstr "このページにアクセスするにはログインする必要があります"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "セッションが期限切れになってきた。 、このアクションを実行する再度ログインしてください"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Head Office"
+msgstr "本社"
+
+msgid "Address"
+msgstr "アドレス"
+
+msgid "Back"
+msgstr "バック"
+
+msgid "Apply"
+msgstr "適用する"
+
+msgid "Upload files…"
+msgstr "ファイルをアップロード..."
+
+msgid "Set as main"
+msgstr "メインとして設定"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Original image"
+msgstr "原画像"
+
+msgid "Uploaded"
+msgstr "アップロード"
+
+msgid "File name"
+msgstr "ファイル名"
+
+msgid "File size"
+msgstr "ファイルサイズ"
+
+msgid "Resolution"
+msgstr "解像度"
+
+msgid "Enlarge"
+msgstr "拡大する"
+
+msgid "Links"
+msgstr "リンクス"
+
+msgid "Original size"
+msgstr "元のサイズ"
+
+msgid "For editor"
+msgstr "編集者のために"
+
+msgid "Resize"
+msgstr "サイズを変更する"
+
+msgid "Width"
+msgstr "幅"
+
+msgid "Height"
+msgstr "高さ"
+
+msgid "Media URL"
+msgstr "メディアのURL"
+
+msgid "Add record"
+msgstr "レコードを追加"
+
+msgid "Show filter settings"
+msgstr "表示フィルタ設定"
+
+msgid "Edit record"
+msgstr "編集レコード"
+
+msgid "Delete record"
+msgstr "レコードを削除する"
+
+msgid "Delete checked records"
+msgstr "チェックされたレコードを削除"
+
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Remember me"
+msgstr "私を覚えてますか"
+
+msgid "Login"
+msgstr "ログイン"
+
+msgid "Clean image cache"
+msgstr "クリーンイメージキャッシュ"
+
+msgid "Processing query..."
+msgstr "処理クエリ..."
+
+msgid "CMS Development"
+msgstr "CMSの開発"
+
+msgid "Admin Home Page"
+msgstr "管理者のホームページ"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "新しいタブでフロントエンドのオープンホームページ"
+
+msgid "Go to Site"
+msgstr "サイトへ"
+
+msgid "Log out"
+msgstr "ログアウト"
+
+msgid "Send"
+msgstr "送信"
+
+msgid "General"
+msgstr "一般的な"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "Teaser"
+msgstr "ティーザー"
+
+msgid "Published"
+msgstr "公開されました"
+
+msgid "Featured"
+msgstr "おすすめ"
+
+msgid "Active"
+msgstr "アクティブ"
+
+msgid "Field is mandatory"
+msgstr "フィールドは必須です"
+
+msgid "Sort Order"
+msgstr "ソート順序"
+
+msgid "Upload"
+msgstr "アップロード"
+
+msgid "Loading..."
+msgstr "読み込んでいます..."
+
+msgid "Jan"
+msgstr "1月"
+
+msgid "Feb"
+msgstr "2月"
+
+msgid "Mar"
+msgstr "3月"
+
+msgid "Apr"
+msgstr "4月"
+
+msgid "May"
+msgstr "5月"
+
+msgid "Jun"
+msgstr "6月"
+
+msgid "Jul"
+msgstr "7月"
+
+msgid "Aug"
+msgstr "8月"
+
+msgid "Sep"
+msgstr "9月"
+
+msgid "Oct"
+msgstr "10月"
+
+msgid "Nov"
+msgstr "11月"
+
+msgid "Dec"
+msgstr "12月"
+
+msgid "Product already exists in the order"
+msgstr "製品はすでに順番に存在します"
+
+msgid "Product does not exist"
+msgstr "製品は存在しません"
+
+msgid "Incorrect request"
+msgstr "不正なリクエスト"
+
+msgid "Products"
+msgstr "プロダクト"
+
+msgid "Product types"
+msgstr "製品タイプ"
+
+msgid "Contractors"
+msgstr "請負業者"
+
+msgid "Contractor"
+msgstr "請負業者"
+
+msgid "Orders"
+msgstr "オーダー"
+
+msgid "FAQ"
+msgstr "よくある質問"
+
+msgid "New order"
+msgstr "新規注文"
+
+msgid "My orders"
+msgstr "私の注文"
+
+msgid "Recharge balance"
+msgstr "リチャージ残高"
+
+msgid "Administrator"
+msgstr "管理者"
+
+msgid "Incorrect event ID"
+msgstr "誤ったイベントID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid ""
+msgstr "テック。パラメータ"
+
+msgid "Edit contractor"
+msgstr "編集請負業者"
+
+msgid "Create contractor"
+msgstr "請負業者の作成"
+
+msgid "Edit question"
+msgstr "編集質問"
+
+msgid "Create question"
+msgstr "質問を作成"
+
+msgid "Edit order"
+msgstr "編集順序"
+
+msgid "Create order"
+msgstr "順序を作成します。"
+
+msgid "Edit product"
+msgstr "編集製品"
+
+msgid "Create product"
+msgstr "製品の作成"
+
+msgid "Edit product type"
+msgstr "編集製品タイプ"
+
+msgid "Create product type"
+msgstr "製品タイプを作成します。"
+
+msgid "You have received a file"
+msgstr "あなたは、ファイルを受信しました"
+
+msgid "You received a file from"
+msgstr "あなたはからファイルを受信しました"
+
+msgid "File has been uploaded"
+msgstr "ファイルがアップロードされています"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "最小限の量"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "アイテム"
+
+msgid "Remove"
+msgstr "削除します"
+
+msgid "Contact person"
+msgstr "連絡窓口"
+
+msgid "Email"
+msgstr "メール"
+
+msgid "Contractor phone"
+msgstr "請負業者電話"
+
+msgid "Contractor name"
+msgstr "契約者名"
+
+msgid "Contractor details"
+msgstr "請負業者の詳細"
+
+msgid "Order ID"
+msgstr "注文ID"
+
+msgid "Sum"
+msgstr "合計"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "あなたのバランスを再充電するための適切な支払いシステムを選択してください"
+
+msgid "Recharge amount"
+msgstr "充電量"
+
+msgid "Paid"
+msgstr "支払われました"
+
+msgid "Shipped"
+msgstr "出荷"
+
+msgid "- No products in this order -"
+msgstr "- この順に商品はありません -"
+
+msgid "month"
+msgstr "月"
+
+msgid "No user found"
+msgstr "どのユーザーが見つかりませんでした"
+
+msgid "Achievement"
+msgstr "業績"
+
+msgid "Confirmed accomplishments"
+msgstr "確認された成果"
+
+msgid "Remove achievement"
+msgstr "成果を削除"
+
+msgid "Headquaters"
+msgstr "本部"
+
+msgid "Phone"
+msgstr "電話"
+
+msgid "Site URL and email"
+msgstr "サイトURLとメール"
+
+msgid "Remove address"
+msgstr "アドレスを削除します"
+
+msgid "Members"
+msgstr "メンバー"
+
+msgid "Requires a payment"
+msgstr "お支払いが必要です"
+
+msgid "Shipping"
+msgstr "運送"
+
+msgid "Ready"
+msgstr "レディー"
+
+msgid "Find user..."
+msgstr "ユーザーを探します..."
+
+msgid "Order it"
+msgstr "それを注文"
+
+msgid "Find group..."
+msgstr "グループを探します..."
+
+msgid "Find user or community..."
+msgstr "ユーザーやコミュニティを探します..."
+
+msgid "No item found"
+msgstr "いいえアイテムが見つかりませんでした"
+
+msgid "years"
+msgstr "年"
+
+msgid "Send message"
+msgstr "メッセージを送ります"
+
+msgid "Message"
+msgstr "メッセージ"
+
+msgid "To send message press Enter"
+msgstr "メッセージは、Enterキーを押します送信するには"
+
+msgid "To send message press CTRL+Enter"
+msgstr "メッセージプレスCTRLを送信+入力するには"
+
+msgid "Processing file(s)..."
+msgstr "処理ファイル（複数可） ···"
+
+msgid "Group settings"
+msgstr "グループ設定"
+
+msgid "Create group"
+msgstr "グループを作成"
+
+msgid "Group has been successfully saved"
+msgstr "グループは正常に保存されています"
+
+msgid "Group title"
+msgstr "グループタイトル"
+
+msgid "Group video"
+msgstr "グループビデオ"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Your role in group"
+msgstr "グループでの役割"
+
+msgid "Role"
+msgstr "役割"
+
+msgid "Photo or video gallery"
+msgstr "写真やビデオギャラリー"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.comのURL"
+
+msgid "Upload video"
+msgstr "ビデオをアップロード"
+
+msgid "Add group address"
+msgstr "グループアドレスを追加します。"
+
+msgid "Group articles"
+msgstr "グループ記事"
+
+msgid "No addresses yet"
+msgstr "まだアドレスはありません"
+
+msgid "Add group achievement"
+msgstr "グループの成果を追加"
+
+msgid "No achivements yet"
+msgstr "まだachivementsません"
+
+msgid "Are you sure to delete this user"
+msgstr "このユーザーを削除してもよろしいです"
+
+msgid "Add member"
+msgstr "メンバーを追加します"
+
+msgid "Are you sure to delete this record?"
+msgstr "あなたはこのレコードを削除してもよろしいですか？"
+
+msgid "Join this group"
+msgstr "このグループに参加"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "あなたの招待状は、グループ管理者に送信されました"
+
+msgid "All addresses"
+msgstr "すべてのアドレス"
+
+msgid "Collapse"
+msgstr "崩壊"
+
+msgid "Achievements"
+msgstr "実績"
+
+msgid "Show more"
+msgstr "もっと見せます"
+
+msgid "Team"
+msgstr "チーム"
+
+msgid "Projects"
+msgstr "プロジェクト"
+
+msgid "New project"
+msgstr "新しいプロジェクト"
+
+msgid "Project has not been created yet"
+msgstr "プロジェクトはまだ作成されていません"
+
+msgid "Messanger"
+msgstr "メッセンジャー"
+
+msgid "Balance"
+msgstr "バランス"
+
+msgid "Main page"
+msgstr "メインページ"
+
+msgid "Upload image"
+msgstr "画像をアップロード"
+
+msgid "My time"
+msgstr "私の時間"
+
+msgid "Day"
+msgstr "日"
+
+msgid "Week"
+msgstr "週"
+
+msgid "Project settings"
+msgstr "プロジェクトの設定"
+
+msgid "Create project"
+msgstr "プロジェクトを作成します"
+
+msgid "Project has been successfully saved"
+msgstr "プロジェクトが正常に保存されています"
+
+msgid "Project name"
+msgstr "プロジェクト名"
+
+msgid "Deadline"
+msgstr "締め切り"
+
+msgid "Close"
+msgstr "クローズ"
+
+msgid "Manager"
+msgstr "マネージャー"
+
+msgid "Assigned to"
+msgstr "に割り当てられました"
+
+msgid "Discussion"
+msgstr "ディスカッション"
+
+msgid "Task was created"
+msgstr "タスクが作成されました"
+
+msgid "Task was closed"
+msgstr "タスクが終了しました"
+
+msgid "Go to Group"
+msgstr "グループに移動します"
+
+msgid "Closed"
+msgstr "閉じました"
+
+msgid "Last updates"
+msgstr "最終アップデート"
+
+msgid "Project is closed"
+msgstr "プロジェクトが閉じられています"
+
+msgid "No open tasks"
+msgstr "いいえオープン·タスクはありません"
+
+msgid "New task"
+msgstr "新しいタスク"
+
+msgid "Closed tasks"
+msgstr "クローズドタスク"
+
+msgid "Add subproject"
+msgstr "サブプロジェクトを追加します。"
+
+msgid "Add task"
+msgstr "タスクを追加します"
+
+msgid "Sun"
+msgstr "日曜日"
+
+msgid "Mon"
+msgstr "月曜日"
+
+msgid "Tue"
+msgstr "火曜日"
+
+msgid "Wed"
+msgstr "水曜日"
+
+msgid "Thur"
+msgstr "木曜日"
+
+msgid "Fri"
+msgstr "金曜日"
+
+msgid "Sat"
+msgstr "土曜日"
+
+msgid "Event title"
+msgstr "イベントのタイトル"
+
+msgid "Event description"
+msgstr "イベントの説明"
+
+msgid "I registered on this site"
+msgstr "私はこのサイトに登録しました"
+
+msgid "Last created groups"
+msgstr "最後の作成したグループ"
+
+msgid "You joined this group as"
+msgstr "あなたは、このグループに参加しました"
+
+msgid "You received a request to join the group"
+msgstr "あなたは、グループへの参加要求を受信し"
+
+msgid "Updated site"
+msgstr "更新サイト"
+
+msgid "Site is under construction"
+msgstr "サイトは工事中です"
+
+msgid "Last registered users"
+msgstr "最終登録ユーザー"
+
+msgid "User settings"
+msgstr "ユーザー設定"
+
+msgid "Technical support"
+msgstr "技術サポート"
+
+msgid "Change email"
+msgstr "メールを変更"
+
+msgid "Change password"
+msgstr "パスワードを変更します"
+
+msgid "User has been successfully saved"
+msgstr "ユーザーが正常に保存されています"
+
+msgid "Full name"
+msgstr "フルネーム"
+
+msgid "My video"
+msgstr "マイビデオ"
+
+msgid "Skills"
+msgstr "スキル"
+
+msgid "Birthday"
+msgstr "誕生日"
+
+msgid "Country of residence"
+msgstr "居住国"
+
+msgid "Country"
+msgstr "カントリー"
+
+msgid "Zip Code"
+msgstr "郵便番号"
+
+msgid "City/town of residence"
+msgstr "居住地の市/町"
+
+msgid "University/college"
+msgstr "大学/カレッジ"
+
+msgid "University/college photo"
+msgstr "大学/大学の写真"
+
+msgid "Add user\'s accomplishments"
+msgstr "ユーザーの業績を追加"
+
+msgid "Interface language"
+msgstr "インターフェース言語"
+
+msgid "How other people see this page"
+msgstr "どのように他の人がこのページを参照してください。"
+
+msgid "Video with me"
+msgstr "私と一緒にビデオ"
+
+msgid "Groups"
+msgstr "グループ"
+
+msgid "Registered today"
+msgstr "登録今日"
+
+msgid "Qty"
+msgstr "数量"
+
+msgid "No registered users yet"
+msgstr "まだ登録ユーザーません"
+
+msgid "Total"
+msgstr "合計"
+
+msgid "Registered total"
+msgstr "登録合計"
+
+msgid "You received a file"
+msgstr "あなたはファイルを受信しました"
+
+msgid "You were invited into this room"
+msgstr "あなたはこの部屋に招待されました"
+
+msgid "Request is being processed"
+msgstr "要求が処理されています"
+
+msgid "Fax"
+msgstr "ファックス"
+
+msgid "Messenger"
+msgstr "メッセンジャー"
+
+msgid "New subproject"
+msgstr "新しいサブプロジェクト"
+
+msgid "messages written."
+msgstr "メッセージが書かれました。"
+
+msgid "projects created based on groups."
+msgstr "プロジェクトは、グループに基づいて作成。"
+
+msgid "users registered on website."
+msgstr "ユーザーがウェブサイトに登録されています。"
+
+msgid "New email"
+msgstr "新しい電子メール"
+
+msgid "Confirm email"
+msgstr "Eメール確認"
+
+msgid "New password"
+msgstr "新しいパスワード"
+
+msgid "Confirm password"
+msgstr "パスワードを認証する"
+
+msgid "Occupation"
+msgstr "スペシャリティ"
+
+msgid "Timezone"
+msgstr "タイムゾーン"
+
+msgid "Answer"
+msgstr "回答"
+
+msgid "Articles"
+msgstr "記事"
+
+msgid "Article"
+msgstr "記事"
+
+msgid "Video-article"
+msgstr "ビデオ記事"
+
+msgid "Find article..."
+msgstr "記事を検索..."
+
+msgid "Politics"
+msgstr "政策"
+
+msgid "Economics"
+msgstr "経済学"
+
+msgid "Community"
+msgstr "コミュニティ"
+
+msgid "Culture"
+msgstr "文化"
+
+msgid "Sports"
+msgstr "スポーツ"
+
+msgid "Hi-tech"
+msgstr "ハイテク"
+
+msgid "Cars"
+msgstr "カール"
+
+msgid "Fashion"
+msgstr "ファッション"
+
+msgid "Games"
+msgstr "ゲームズ"
+
+msgid "Other"
+msgstr "その他"
+
+msgid "Invalid mediafile"
+msgstr "無効mediafile"
+
+msgid "No articles in this category yet"
+msgstr "まだこのカテゴリに記事はありません"
+
+msgid "Back to profile"
+msgstr "プロフィールに戻ります"
+
+msgid "View article"
+msgstr "ビューの記事"
+
+msgid "Edit article"
+msgstr "編集記事"
+
+msgid "Create article"
+msgstr "記事を作成します。"
+
+msgid "Article title"
+msgstr "記事のタイトル"
+
+msgid "Article section"
+msgstr "記事のセクション"
+
+msgid "Choose image"
+msgstr "画像を選択してください"
+
+msgid "Save and upload"
+msgstr "保存してアップロードします"
+
+msgid "Show more..."
+msgstr "もっと見せる..."
+
+msgid "Create"
+msgstr "作り出します"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Project"
+msgstr "プロジェクト"
+
+msgid "Team"
+msgstr "チーム"
+
+msgid "A new article was published"
+msgstr "新しい記事が公開されました"
+
+msgid "You joined this project"
+msgstr "あなたは、このプロジェクトに参加しました"
+
+msgid "Enter your information in the User settings"
+msgstr "ユーザー設定にあなたの情報を入力してください"
+
+msgid "Communities"
+msgstr "コミュニティ"
+
+msgid "Video presentation of my accomplishments"
+msgstr "私の業績のビデオプレゼンテーション"
+
+msgid "My articles"
+msgstr "私の記事"
+
+msgid "User"
+msgstr "使用者"
+
+msgid "Users"
+msgstr "ユーザー"
+
+msgid "Add new list"
+msgstr "新しいリストを追加します。"
+
+msgid "List title"
+msgstr "リストのタイトル"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Add to favorites"
+msgstr "お気に入りに追加"
+
+msgid "Delete from favorites"
+msgstr "お気に入りから削除"
+
+msgid "Select list"
+msgstr "選択リスト"
+
+msgid "Subscriptions"
+msgstr "サブスクリプション"
+
+msgid "Subscribe"
+msgstr "申し込む"
+
+msgid "Unsubscribe"
+msgstr "登録解除"
+
+msgid "General list"
+msgstr "一般的なリスト"
+
+msgid "No users in this list"
+msgstr "このリスト内のユーザーがいません"
+
+msgid "Publish"
+msgstr "パブリッシュ"
+
+msgid "Unpublish"
+msgstr "非公開"
+
+msgid "Add user"
+msgstr "ユーザーを追加します。"
+
+msgid "Create document"
+msgstr "文書を作成します"
+
+msgid "Edit document"
+msgstr "編集文書"
+
+msgid "View"
+msgstr "見ます"
+
+msgid "Document title"
+msgstr "ドキュメントのタイトル"
+
+msgid "Find document..."
+msgstr "ドキュメントを検索..."
+
+msgid "Share your thoughts"
+msgstr "あなたの考えを共有しよう"
+
+msgid "Leave your comment"
+msgstr "コメントを残します"
+
+msgid "Accept"
+msgstr "受け入れ"
+
+msgid "Decline"
+msgstr "減少"
+
+msgid "Add article"
+msgstr "記事を追加"
+
+msgid "Link to verified accomplishments"
+msgstr "検証成果へのリンク"
+
+msgid "No articles here yet..."
+msgstr "まだここに記事はありません"
+
+msgid "Find file or folder..."
+msgstr "ファイルまたはフォルダを検索..."
+
+msgid "Sort"
+msgstr "ソート"
+
+msgid "By name"
+msgstr "名前で"
+
+msgid "By date"
+msgstr "日付順"
+
+msgid "By updated date"
+msgstr "更新日付順"
+
+msgid "By size"
+msgstr "サイズによって"
+
+msgid "By type"
+msgstr "タイプ別"
+
+msgid "Move"
+msgstr "移動"
+
+msgid "File Manager"
+msgstr "ファイルマネージャー"
+
+msgid "Share link"
+msgstr "共有リンク"
+
+msgid "Responsible"
+msgstr "責任"
+
+msgid "Performer"
+msgstr "パフォーマー"
+
+msgid "New Folder"
+msgstr "新規フォルダ"
+
+msgid "Folder name"
+msgstr "フォルダ名"
+
+msgid "By default"
+msgstr "デフォルトで"
+
+msgid "Back to group"
+msgstr "戻るグループへ"
+
+msgid "year(s)"
+msgstr "年（S）"
+
+msgid "January"
+msgstr "1月"
+
+msgid "February"
+msgstr "2月"
+
+msgid "March"
+msgstr "3月"
+
+msgid "April"
+msgstr "4月"
+
+msgid "May"
+msgstr "5月"
+
+msgid "June"
+msgstr "6月"
+
+msgid "July"
+msgstr "7月"
+
+msgid "August"
+msgstr "8月"
+
+msgid "September"
+msgstr "9月"
+
+msgid "October"
+msgstr "10月"
+
+msgid "November"
+msgstr "11月"
+
+msgid "December"
+msgstr "12月"
+
+msgid "Password Reminder"
+msgstr "パスワードリマインダ"
+
+msgid "Log In"
+msgstr "ログイン"
+
+msgid "Sign in"
+msgstr "ログイン"
+
+msgid "Register"
+msgstr "登録"
+
+msgid "First name"
+msgstr "ファーストネーム"
+
+msgid "Last name"
+msgstr "苗字"
+
+msgid "I agree with rules"
+msgstr "私は規則に同意します"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "確認メールがあなたのメールアドレスに送信されました。"
+
+msgid "Thanks"
+msgstr "おかげで"
+
+msgid "Password must be at least 6 characters"
+msgstr "パスワードは少なくとも6文字でなければなりません"
+
+msgid "Creative Environment"
+msgstr "創造的環境"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "あなたはこのサービスを使用するには、年齢の少なくとも13年以上である必要があります"
+
+msgid "Order status"
+msgstr "注文の状況"
+
+msgid "Processing order"
+msgstr "処理順序"
+
+msgid "Requires a payment"
+msgstr "お支払いが必要です"
+
+msgid "Shipping"
+msgstr "運送"
+
+msgid "Ready"
+msgstr "レディ"
+
+msgid "Thank you for your payment"
+msgstr "お支払いいただきありがとうございます"
+
+msgid "Your payment has been cancelled"
+msgstr "お支払いがキャンセルされました"
+
+msgid "page"
+msgstr "ページ"
+
+msgid "Rent period"
+msgstr "賃貸期間"
+
+msgid "Total, month"
+msgstr "合計、月"
+
+msgid "Order items"
+msgstr "注文商品"
+
+msgid "No records found"
+msgstr "いいえレコードが見つかりませんでした"
+
+msgid "User with this email is already exist"
+msgstr "このメールのユーザには、すでに存在しています"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "そのような名前のフォルダまたはファイルが既にコピー先のフォルダに存在しています"
+
+msgid "Minimal quantity"
+msgstr "最小量"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "印刷部数"
+
+msgid "Terms of Use"
+msgstr "利用規約"
+
+msgid "Privacy Policy"
+msgstr "個人情報保護方針"
+
+msgid "Find project..."
+msgstr "プロジェクトを検索..."
+
+msgid "New Project"
+msgstr "新しいプロジェクト"
+
+msgid "Accounts"
+msgstr "アカウント"
+
+msgid "Operations"
+msgstr "事業"
+
+msgid "All accounts"
+msgstr "すべてのアカウント"
+
+msgid "All categories"
+msgstr "すべてのカテゴリ"
+
+msgid "Expense"
+msgstr "費用"
+
+msgid "Income"
+msgstr "収入"
+
+msgid "Transfer"
+msgstr "転送"
+
+msgid "Expense"
+msgstr "費用"
+
+msgid "income"
+msgstr "収入"
+
+msgid "tax"
+msgstr "税"
+
+msgid "percent"
+msgstr "パーセント"
+
+msgid "transfer"
+msgstr "転送"
+
+msgid "Make operation"
+msgstr "操作を行います"
+
+msgid "Select date"
+msgstr "日付選択"
+
+msgid "Select account"
+msgstr "選択したアカウント"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Quarter"
+msgstr "四半期"
+
+msgid "Year"
+msgstr "年"
+
+msgid "From"
+msgstr "から"
+
+msgid "To"
+msgstr "まで"
+
+msgid "Expense amount"
+msgstr "費用額"
+
+msgid "Categories"
+msgstr "カテゴリー"
+
+msgid "Comments"
+msgstr "コメント"
+
+msgid "Income amount"
+msgstr "所得額"
+
+msgid "Transfer amount"
+msgstr "転送量"
+
+msgid "From account"
+msgstr "アカウントから"
+
+msgid "To account"
+msgstr "アカウントへ"
+
+msgid "New Account"
+msgstr "新しいアカウント"
+
+msgid "New Category"
+msgstr "新しいカテゴリ"
+
+msgid "All"
+msgstr "オール"
+
+msgid "Name"
+msgstr "名"
+
+msgid "Enter category name"
+msgstr "カテゴリ名を入力してください"
+
+msgid "Select type"
+msgstr "選択タイプ"
+
+msgid "Credit card"
+msgstr "クレジットカード"
+
+msgid "Debit card"
+msgstr "デビットカード"
+
+msgid "Bank account"
+msgstr "銀行預金口座"
+
+msgid "Cash"
+msgstr "キャッシュ"
+
+msgid "Balance is empty"
+msgstr "バランスは空です"
+
+msgid "Statistic is empty"
+msgstr "統計は空です"
+
+msgid "Regular payments"
+msgstr "定期支払い"
+
+msgid "Are you sure ?"
+msgstr "本気ですか ？"
+
+msgid "Are you sure to close this project?"
+msgstr "あなたはこのプロジェクトを閉じてくださいますか？"
+
+msgid "Project was deleted successfully"
+msgstr "プロジェクトが正常に削除されました"
+
+msgid "Select currency"
+msgstr "選択した通貨"
+
+msgid "Account"
+msgstr "アカウント"
+
+msgid "Orders list"
+msgstr "注文リスト"
+
+msgid "Order payments"
+msgstr "注文の支払い"
+
+msgid "View order"
+msgstr "表示順"
+
+msgid "No response from Printer API"
+msgstr "プリンタAPIからの応答がありません"
+
+msgid "Bad response from Printer API"
+msgstr "プリンタAPIからの不正な応答"
+
+msgid "User ID"
+msgstr "ユーザーID"
+
+msgid "Contact Person"
+msgstr "連絡窓口"
+
+msgid "No orders to process"
+msgstr "いいえ注文が処理しないように"
+
+msgid "Article announce image"
+msgstr "記事画像を発表"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "無効な動画のURL 。ブランクのままにするか、有効な動画のURLを挿入"
+
+msgid "Please, enter Contractor data"
+msgstr "、契約者のデータを入力してください"
+
+msgid "Distribute devices"
+msgstr "デバイスを配布"
+
+msgid "Quantity"
+msgstr "分量"
+
+msgid "Devices left"
+msgstr "デバイスは、左"
+
+msgid "Distributed devices"
+msgstr "分散型デバイス"
+
+msgid "You must enter quantity"
+msgstr "あなたは、数量を入力してください"
+
+msgid "All devices are distributed"
+msgstr "すべてのデバイスが分散されています"
+
+msgid "IP address"
+msgstr "IPアドレス"
+
+msgid "Only for printer"
+msgstr "唯一のプリンタ用"
+
+msgid "Counter"
+msgstr "計数器"
+
+msgid "You was excluded from this room"
+msgstr "あなたがこの部屋から除外されました"
+
+msgid "Compare"
+msgstr "比較します"
+
+msgid "Scheduled transaction"
+msgstr "予定取引"
+
+msgid "Select transfer account"
+msgstr "選択振替口座"
+
+msgid "Select income account"
+msgstr "選択所得アカウント"
+
+msgid "Reports"
+msgstr "レポート"
+
+msgid "Goals"
+msgstr "ゴール"
+
+msgid "Budgets"
+msgstr "予算"
+
+msgid "Enter user name or email..."
+msgstr "ユーザー名または電子メールを入力してください..."
+
+msgid "Invite had been sended"
+msgstr "sendedではされていた招待"
+
+msgid "Statistics"
+msgstr "統計"
+
+msgid "Updated site began to work"
+msgstr "更新されたサイトは、仕事を始めました"
+
+msgid "City of residence"
+msgstr "住まいの市"
+
+msgid "Edit favourites list"
+msgstr "編集お気に入りリスト"
+
+msgid "Add favourites list"
+msgstr "お気に入りリストを追加"
+
+msgid "Categories is required"
+msgstr "カテゴリーが必要となります"
+
+msgid "Type new category name and hit Enter"
+msgstr "新しいカテゴリ名を入力し、 Enterキーを押します"
+
+msgid "You created an order"
+msgstr "あなたは順序を作成しました"
+
+msgid "You received a device due to this order"
+msgstr "あなたが原因でこの順番にデバイスを受け取りました"
+
+msgid "%s attached %s to task %s"
+msgstr "％ sの添付％sは％ sのタスクに"
+
+msgid "member(s)"
+msgstr "部材（複数可）"
+
+msgid "%s commented task %s"
+msgstr "％ sのコメントタスク％ sの"
+
+msgid "%s closed task %s"
+msgstr "％ sのクローズドタスク％ sの"
+
+msgid "%s created task %s"
+msgstr "％ sの作成したタスク％ sの"
+
+msgid "%s created this project"
+msgstr "％ sのこのプロジェクトを作成しました"
+
+msgid "%s created subproject \"%s\""
+msgstr "％ sの作成サブプロジェクトの \"％ s\"の"
+
+msgid "%s closed project \"%s\""
+msgstr "％ sのクローズドプロジェクトの \"％ s\"の"
+
+msgid "%s closed subproject \"%s\""
+msgstr "％ sのクローズドサブプロジェクトの \"％ s\"の"
+
+msgid "This field must not be blank"
+msgstr "このフィールドは空白にすることはできません"
+
+msgid "Document with such name is already exist"
+msgstr "そのような名前のドキュメントがすでに存在しています"
+
+msgid "Wait until image upload"
+msgstr "画像アップロードされるまで待ち"
+
+msgid "Video"
+msgstr "ビデオ"
+
+msgid "Message can not be empty"
+msgstr "メッセージを空にすることはできません"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "No"
+msgstr "ノー"
+
+msgid "Created"
+msgstr "作成"
+
+msgid "Compare is empty"
+msgstr "空で比較"
+
+msgid "Are you sure you want to delete operation"
+msgstr "あなたが操作を削除してもよろしいです"
+
+msgid "Do you really want to delete transaction"
+msgstr "あなたが本当にトランザクションを削除しますか"
+
+msgid "Project with same name already exists"
+msgstr "同じ名前のプロジェクトがすでに存在しています"
+
+msgid "Account is not found"
+msgstr "アカウントが見つかりません"
+
+msgid "Currency is required"
+msgstr "通貨が必要となります"
+
+msgid "error while deleting document"
+msgstr "エラードキュメントの削除中"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "あなたはこの部屋でユーザー\"％ s\"を招待しました"
+
+msgid "User \"%s\" joined this room"
+msgstr "ユーザー\" ％ s\"はこの部屋に参加しました"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "あなたはこの部屋からユーザー\"％ s\"を除外しました"
+
+msgid "User \"%s\" left this room"
+msgstr "ユーザーは、 \"％ s\"はこの部屋を出"
+
+msgid "Add account"
+msgstr "アカウントを追加します"
+
+msgid "The requested page is not found"
+msgstr "要求されたページが見つかりません"
+
+msgid "Document"
+msgstr "ドキュメント"
+
+msgid "Table"
+msgstr "表"
+
+msgid "file(s)"
+msgstr "ファイル（複数可）"
+
+msgid "Residue"
+msgstr "残留物"
+
+msgid "Result is empty"
+msgstr "結果は空です"
+
+msgid "The total amount is %s for %s mo"
+msgstr "総量は％ sのカ月間％ sであります"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "あなたは、関連するアカウントに％ sの月例を堆積する必要があります"
+
+msgid "Start"
+msgstr "スタート"
+
+msgid "finish"
+msgstr "フィニッシュ"
+
+msgid "Selected account is already in use for another goal"
+msgstr "選択したアカウントは、別の目的のために既に使用されています"
+
+msgid "Amount required"
+msgstr "必要額"
+
+msgid "New goal"
+msgstr "新たな目標"
+
+msgid "Goal"
+msgstr "ゴール"
+
+msgid "Goal name"
+msgstr "目標の名前"
+
+msgid "Invalid date"
+msgstr "無効な日付"
+
+msgid "Necessary sum must be a positive number"
+msgstr "必要な合計は正の数でなければなりません"
+
+msgid "Remain"
+msgstr "残ります"
+
+msgid "Last day"
+msgstr "最終日"
+
+msgid "Accumulated"
+msgstr "累積"
+
+msgid "Put aside"
+msgstr "脇に置く"
+
+msgid "January"
+msgstr "1月"
+
+msgid "February"
+msgstr "2月"
+
+msgid "March"
+msgstr "3月"
+
+msgid "April"
+msgstr "4月"
+
+msgid "May"
+msgstr "5月"
+
+msgid "June"
+msgstr "6月"
+
+msgid "July"
+msgstr "7月"
+
+msgid "August"
+msgstr "8月"
+
+msgid "September"
+msgstr "9月"
+
+msgid "October"
+msgstr "10月"
+
+msgid "November"
+msgstr "11月"
+
+msgid "December"
+msgstr "12月"
+
+msgid "Expenses projected/actual"
+msgstr "投影/実費"
+
+msgid "Net Income projected/actual"
+msgstr "純利益/実際の投影"
+
+msgid "New budget"
+msgstr "新しい予算"
+
+msgid "Revenue and Expenses Chart"
+msgstr "収益と費用チャート"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "同じアカウント一対のカテゴリと予算は既に存在します"
+
+msgid "Budget is empty"
+msgstr "予算は空です"
+
+msgid "Budget"
+msgstr "バジェット"
+
+msgid "plan"
+msgstr "計画"
+
+msgid "fact"
+msgstr "事実"
+
+msgid "diff"
+msgstr "デフ"
+
+msgid "Show More"
+msgstr "もっと見せる"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "d"
+msgstr "D"
+
+msgid "h"
+msgstr "H"
+
+msgid "min"
+msgstr "分"
+
+msgid "My sales"
+msgstr "マイ販売"
+
+msgid "Time spent"
+msgstr "時間が費やされました"
+
+msgid "Total time spent"
+msgstr "合計時間は、使用済み"
+
+msgid "Earnings per hour"
+msgstr "時間当たり利益"
+
+msgid "Total earnings"
+msgstr "総収入"
+
+msgid "Call"
+msgstr "コール"
+
+msgid "Phone call"
+msgstr "電話"
+
+msgid "Telephone calls"
+msgstr "電話の呼び出し"
+
+msgid "Send email"
+msgstr "メールを送ります"
+
+msgid "Emails"
+msgstr "電子メール"
+
+msgid "Meeting"
+msgstr "ミーティング"
+
+msgid "Meetings"
+msgstr "ミーティング"
+
+msgid "All events"
+msgstr "すべてのイベント"
+
+msgid "Task"
+msgstr "仕事"
+
+msgid "Event"
+msgstr "イベント"
+
+msgid "Events"
+msgstr "イベント"
+
+msgid "Time"
+msgstr "タイム"
+
+msgid "Events statistics"
+msgstr "イベントの統計情報"
+
+msgid "days"
+msgstr "日"
+
+msgid "hours"
+msgstr "営業時間"
+
+msgid "minutes"
+msgstr "分"
+
+msgid "Income & expense"
+msgstr "収入＆費用"
+
+msgid "Show chart"
+msgstr "グラフの表示"
+
+msgid "Hide chart"
+msgstr "隠すチャート"
+
+msgid "Add event"
+msgstr "イベントを追加"
+
+msgid "Add financial data"
+msgstr "財務データを追加します。"
+
+msgid "Select contractor"
+msgstr "選択請負業者"
+
+msgid "Net Income"
+msgstr "当期純利益"
+
+msgid "Revenue"
+msgstr "収入"
+
+msgid "Taxes"
+msgstr "税金"
+
+msgid "Amount planned"
+msgstr "量計画"
+
+msgid "Amount"
+msgstr "額"
+
+msgid "Period"
+msgstr "期限"
+
+msgid "Are you sure to close this task?"
+msgstr "このタスクを閉じてくださいますか？"
+
+msgid "(Сlosed)"
+msgstr "（ Сlosed ）"
+
+msgid "All groups"
+msgstr "すべてのグループ"
+
+msgid "added from task"
+msgstr "タスクから追加されました"
+
+msgid "Monthly repeat"
+msgstr "毎月繰り返し"
+
+msgid "Select category"
+msgstr "カテゴリーを選択"
+
+msgid "Event type"
+msgstr "イベントの種類"
+
+msgid "Margin"
+msgstr "マージン"
+
+msgid "Use finance project"
+msgstr "財務プロジェクトを使用してください"
+
+msgid "New investment project"
+msgstr "新規投資プロジェクト"
+
+msgid "Investment project settings"
+msgstr "投資プロジェクトの設定"
+
+msgid "Picture, for the announcement project"
+msgstr "アナウンスプロジェクトの画像、"
+
+msgid "Announcement project"
+msgstr "お知らせプロジェクト"
+
+msgid "Video"
+msgstr "ビデオ"
+
+msgid "Photos or videos gallery"
+msgstr "写真やビデオギャラリー"
+
+msgid "required amount"
+msgstr "必要な量"
+
+msgid "Project duration (60 days maximum)"
+msgstr "プロジェクト期間（ 60日以内）"
+
+msgid "Project duration"
+msgstr "プロジェクト期間"
+
+msgid "Add reward"
+msgstr "報酬を追加"
+
+msgid "Delivery date"
+msgstr "配送日"
+
+msgid "Payment systems"
+msgstr "決済システム"
+
+msgid "Terms of service"
+msgstr "利用規約"
+
+msgid "Agreement"
+msgstr "合意"
+
+msgid "Payment"
+msgstr "お支払い"
+
+msgid "My projects"
+msgstr "私のプロジェクト"
+
+msgid "Search result"
+msgstr "検索の結果"
+
+msgid "Nothing not found"
+msgstr "何も見つかりませんでしたではありません"
+
+msgid "The project has no sponsors"
+msgstr "プロジェクトにはスポンサーがありません"
+
+msgid "Design"
+msgstr "設計"
+
+msgid "Food"
+msgstr "食品"
+
+msgid "Journalism"
+msgstr "ジャーナリズム"
+
+msgid "Games"
+msgstr "ゲームズ"
+
+msgid "Art"
+msgstr "アート"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "楽曲"
+
+msgid "Handicrafts"
+msgstr "手工芸品"
+
+msgid "Publishing"
+msgstr "出版"
+
+msgid "Theater"
+msgstr "戦域"
+
+msgid "Technology"
+msgstr "テクノロジー"
+
+msgid "Film/Video"
+msgstr "フィルム/ビデオ"
+
+msgid "Photo"
+msgstr "フォト"
+
+msgid "Dance"
+msgstr "ダンス"
+
+msgid "Invalid youtube video"
+msgstr "無効なYouTubeのビデオ"
+
+msgid "is required"
+msgstr "必要とされている"
+
+msgid "User"
+msgstr "使用者"
+
+msgid "Date"
+msgstr "期日"
+
+msgid "Collected"
+msgstr "収集"
+
+msgid "Choose period"
+msgstr "期間を選択してください"
+
+msgid "Choose region"
+msgstr "地域を選択してください"
+
+msgid "Country"
+msgstr "カントリー"
+
+msgid "Today"
+msgstr "今日"
+
+msgid "Week"
+msgstr "1週間"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Year"
+msgstr "イヤー"
+
+msgid "Free registration"
+msgstr "無料登録"
+
+msgid "Join"
+msgstr "参加"
+
+msgid "Log in using"
+msgstr "使用してログインします"
+
+msgid "Vacancies"
+msgstr "採用情報"
+
+msgid "About Us"
+msgstr "私たちに関しては"
+
+msgid "You will need email to log in"
+msgstr "ログインするには、電子メールが必要となります"
+
+msgid "A combination of 6 digits and characters"
+msgstr "6桁の数字と文字の組み合わせ"
+
+msgid "Search users, groups, articles..."
+msgstr "検索ユーザー、グループ、記事..."
+
+msgid "Cloud"
+msgstr "雲"
+
+msgid "Sunday"
+msgstr "日曜日"
+
+msgid "Monday"
+msgstr "月曜日"
+
+msgid "Tuesday"
+msgstr "火曜日"
+
+msgid "Wednesday"
+msgstr "水曜日"
+
+msgid "Thursday"
+msgstr "木曜日"
+
+msgid "Friday"
+msgstr "金曜日"
+
+msgid "Saturday"
+msgstr "土曜日"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Create group"
+msgstr "グループを作成"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "このページを残したいあなたは確信していますか？"
+
+msgid "More"
+msgstr "もっと"
+
+msgid "Less"
+msgstr "もっと少なく"
+
+msgid "Pending"
+msgstr "保留中"
+
+msgid "Approved"
+msgstr "承認"
+
+msgid "Rejected"
+msgstr "拒否されました"
+
+msgid "Subprojects"
+msgstr "サブプロジェクト"
+
+msgid "Group edit"
+msgstr "グループ編集"
+
+msgid "Startup"
+msgstr "起動"
+
+msgid "Tattoo"
+msgstr "入れ墨"
+
+msgid "Health"
+msgstr "健康"
+
+msgid "Weapon"
+msgstr "武器"
+
+msgid "Astronomy"
+msgstr "天文学"
+
+msgid "All articles"
+msgstr "すべての記事"
+
+msgid "Article editor"
+msgstr "記事の編集者"
+
+msgid "Document editor"
+msgstr "文書エディタ"
+
+msgid "Apply changes"
+msgstr "変更を適用します"
+
+msgid "Save changes?"
+msgstr "変更内容を保存？"
+
+msgid "published an article"
+msgstr "記事を公開"
+
+msgid "Users"
+msgstr "ユーザー"
+
+msgid "Shared With Me"
+msgstr "私と共有"
+
+msgid "share"
+msgstr "シェア"
+
+msgid "Select Group Responsible"
+msgstr "当グループは責任を選択"
+
+msgid "Create folder"
+msgstr "フォルダを作成します"
+
+msgid "Title must be at least 3 characters"
+msgstr "タイトルは、少なくとも3文字でなければなりません"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "無料10ギガバイト、財務マネージャーは、モジュールを投資し、永久に無料で他の多くの"
+
+msgid "Best regards"
+msgstr "宜しくお願いします"
+
+msgid "Updates in last 12 hours:"
+msgstr "最後の12時間以内に更新："
+
+msgid "expense"
+msgstr "費用"
+
+msgid "Commentary on the event:"
+msgstr "イベントの解説："
+
+msgid "Event place"
+msgstr "イベント場所"
+
+msgid "Project was updated"
+msgstr "プロジェクトを更新しました"
+
+msgid "Project was created"
+msgstr "プロジェクトが作成されました"
+
+msgid "Project was closed"
+msgstr "プロジェクトを閉じました"
+
+msgid "account"
+msgstr "アカウント"
+
+msgid "removed task"
+msgstr "削除タスク"
+
+msgid "removed subproject"
+msgstr "削除サブプロジェクト"
+
+msgid "Title can not be empty"
+msgstr "タイトルは空にすることはできません"
+
+msgid "Do not select the type of event"
+msgstr "イベントの種類を選択しないでください"
+
+msgid "Error while saving comment"
+msgstr "エラーコメントを保存中"
+
+msgid "Save error: access denied"
+msgstr "エラーを保存：アクセスが拒否されました"
+
+msgid "Remains"
+msgstr "遺体"
+
+msgid "Time spent, h."
+msgstr "時間は、時間を過ごしました。"
+
+msgid "Emails"
+msgstr "電子メール"
+
+msgid "Meetings"
+msgstr "ミーティング"
+
+msgid "All users"
+msgstr "すべてのユーザー"
+
+msgid "Category"
+msgstr "カテゴリ"
+
+msgid "Finance project"
+msgstr "ファイナンス・プロジェクト"
+
+msgid "Investment project"
+msgstr "投資計画"
+
+msgid "Nature"
+msgstr "自然"
+
+msgid "Data is empty"
+msgstr "データが空であります"
+
+msgid "Visitors"
+msgstr "訪問者"
+
+msgid "My profile"
+msgstr "私のプロフィール"
+
+msgid "Sponsors"
+msgstr "スポンサー"
+
+msgid "Prior to completion"
+msgstr "完了前に"
+
+msgid "Select"
+msgstr "選択"
+
+msgid "My groups"
+msgstr "マイグループ"
+
+msgid "The invitation has been sent successfully"
+msgstr "招待状が正常に送信されました"
+
+msgid "Username has already been invited to this project"
+msgstr "ユーザー名は、すでにこのプロジェクトに招待されました"
+
+msgid "The user is the creator of the project"
+msgstr "ユーザーは、プロジェクトの作成者です"
+
+msgid "Provide full access"
+msgstr "フルアクセスを提供します"
+
+msgid "Select elements to provide access"
+msgstr "アクセスを提供する要素を選択"
+
+msgid "Select all"
+msgstr "全て選択"
+
+msgid "User E-mail"
+msgstr "ユーザーのEメール"
+
+msgid "Click on the field to select a category"
+msgstr "カテゴリを選択するために、フィールドをクリック"
+
+msgid "Invitation was deleted"
+msgstr "招待状が削除されました"
+
+msgid "Permission denied"
+msgstr "アクセス拒否"
+
+msgid "Printed"
+msgstr "印刷"
+
+msgid "Incorrect Contractor email"
+msgstr "不適切な契約者の電子メール"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "あなたは管理者の資金調達のためにプロジェクトを追加しますか？"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "登録プロセスを完了するためにあなたのスキルをダウンご記入ください"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "さらに指示メールがメールアドレスに送信されました"
+
+msgid "Submit"
+msgstr "提出します"
+
+msgid "Cars"
+msgstr "カール"
+
+msgid "Science"
+msgstr "科学"
+
+msgid "Donation"
+msgstr "寄付"
+
+msgid "Interests"
+msgstr "興味"
+
+msgid "Driver"
+msgstr "ドライバ"
+
+msgid "Sportsman"
+msgstr "スポーツマン"
+
+msgid "Businessman"
+msgstr "ビジネスマン"
+
+msgid "Accountant"
+msgstr "会計士"
+
+msgid "Engineer"
+msgstr "エンジニア"
+
+msgid "Soldier"
+msgstr "兵士"
+
+msgid "Next"
+msgstr "次"
+
+msgid "Hide group"
+msgstr "隠すグループ"
+
+msgid "groups created"
+msgstr "グループ作成"
+
+msgid "articles written"
+msgstr "記事が書かれました"
+
+msgid "These groups may be interesting for you"
+msgstr "これらのグループはあなたのために興味深いかもしれ"
+
+msgid "About Group"
+msgstr "グループについて"
+
+msgid "view(s)"
+msgstr "ビュー（秒）"
+
+msgid "Favorite users"
+msgstr "お気に入りユーザー"
+
+msgid "No accounts"
+msgstr "いいえアカウントありません"
+
+msgid "Facebook authorization failed."
+msgstr "Facebookの許可が失敗しました。"
+
+msgid "Authorization Required"
+msgstr "認証が必要です"
+
+msgid "You have to make a call:"
+msgstr "あなたは電話をかける必要があります："
+
+msgid "You have to send an email:"
+msgstr "あなたは電子メールを送信する必要があります。"
+
+msgid "You have a meetup:"
+msgstr "あなたはミートアップを持っています："
+
+msgid "You event :"
+msgstr "あなたのイベント："
+
+msgid "Participants:"
+msgstr "参加者："
+
+msgid "Search"
+msgstr "サーチ"
+
+msgid "News"
+msgstr "ニュース"
+
+msgid "Investments"
+msgstr "投資"
+
+msgid "Back to Cloud"
+msgstr "戻るクラウドへ"
+
+msgid "Documents"
+msgstr "ドキュメント"
+
+msgid "Planet"
+msgstr "惑星"
+
+msgid "Group url"
+msgstr "グループのURL"
+
+msgid "Profile url"
+msgstr "プロフィールURL"
+
+msgid "Already taken"
+msgstr "使用中"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "必要な少なくとも1文字と3文字の長さ"
+
+msgid "Digit can not be the first character"
+msgstr "数字は、最初の文字にすることはできません"
+
+msgid "Enter valid email address"
+msgstr "有効なメールアドレスを入力してください"
+
+msgid "Enter your skills"
+msgstr "あなたのスキルを入力してください"
+
+msgid "Enter your first name"
+msgstr "あなたの最初の名前を入力します。"
+
+msgid "Enter your last name"
+msgstr "あなたの姓を入力してください"
+
+msgid "Enter your first name and last name"
+msgstr "あなたの姓と名を入力します。"
+
+msgid "Your first name?"
+msgstr "あなたの下の名前？"
+
+msgid "Your last name?"
+msgstr "あなたの名字？"
+
+msgid "What are your proficiencies?"
+msgstr "あなたの習熟度は何ですか？"
+
+msgid "Select country"
+msgstr "国を選択"
+
+msgid "Select user"
+msgstr "選択したユーザ"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "あなたの夢を実現！作成とコラボレーション。"
+
+msgid "date moved from"
+msgstr "日付はから移動"
+
+msgid "work"
+msgstr "作業"
+
+msgid "Conference"
+msgstr "会議"
+
+msgid "personal"
+msgstr "個人的な"
+
+msgid "Holiday"
+msgstr "休日"
+
+msgid "Past"
+msgstr "最後"
+
+msgid "Future"
+msgstr "将来"
+
+msgid "Purchase"
+msgstr "購入"
+
+msgid "Personal events"
+msgstr "個人のイベント"
+
+msgid "Conferences"
+msgstr "会議"
+
+msgid "Holidays"
+msgstr "休み"
+
+msgid "Sport events"
+msgstr "スポーツ大会"
+
+msgid "Tasks"
+msgstr "仕事"
+
+msgid "Other events"
+msgstr "他のイベント"
+
+msgid "Set aside"
+msgstr "延期する"
+
+msgid "Set aside"
+msgstr "延期するもの"
+
+msgid "Time management"
+msgstr "時間-管理"
+
+msgid "Delayed events"
+msgstr "延期されたイベント"
+
+msgid "Delayed"
+msgstr "延期するもの"
+
+msgid "Bind to"
+msgstr "つながる"
+
+msgid "answered your comment to"
+msgstr "私は、記事にあなたのコメントに応じました"
+
+msgid "commented your article"
+msgstr "私は、あなたの記事についてコメントしました"
+
+msgid "You\'ve answered on comment to"
+msgstr "あなたは、記事にコメントに応じました"
+
+msgid "You\'ve commented an article"
+msgstr "あなたは、記事についてコメントしました"
+
+msgid "Terms and Conditions"
+msgstr "使用状況"
+
+msgid "Privacy Policy"
+msgstr "プライバシーポリシー"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Joinボタンを押して、あなたは我々のものに同意します、そして、あなたはそれが我々のものを調べたことを確認します"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "すべての惑星から創造的な人々のコミュニティに加わってください！あなたは、以下を受けます：あなたの考え（チームを集める機会）への投資は、グループ、財政的なマネージャ、当時の管理、保管された2ギガバイトと多くの他のもので働きます。そして、こういうことは無料です！"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "すみません、しかし、あなたが探すページが存在しません。あなたが我々がすべてという罪を犯していると考えるならば、我々に手紙を書いてください"
+
+msgid "Return"
+msgstr "後ろに帰ります"
+
+msgid "COMMON"
+msgstr "将軍"
+
+msgid "My events"
+msgstr "私のイベント"
+
+msgid "Job opening"
+msgstr "新しい空き"
+
+msgid "Employment"
+msgstr "仕事タイプ"
+
+msgid "Working hours"
+msgstr "仕事の予定"
+
+msgid "City"
+msgstr "都市"
+
+msgid "Wages"
+msgstr "給料"
+
+msgid "Currency"
+msgstr "通貨"
+
+msgid "Experience"
+msgstr "経験"
+
+msgid "Full-time"
+msgstr "完全雇用"
+
+msgid "Part-time"
+msgstr "パートタイムの"
+
+msgid "Project employment"
+msgstr "プロジェクト/臨時雇いの仕事"
+
+msgid "Volunteer"
+msgstr "志願すること"
+
+msgid "Internship"
+msgstr "トレーニング"
+
+msgid "Full day"
+msgstr "まる１日"
+
+msgid "Shifts"
+msgstr "取り替え可能な予定"
+
+msgid "Flexible shifts"
+msgstr "柔軟な時間"
+
+msgid "Remote work"
+msgstr "遠い職場"
+
+msgid "Rotational basis"
+msgstr "シフト方法"
+
+msgid "Do you really want to delete this comment?"
+msgstr "あなたは、本当にコメントを削除したいです？"
+
+msgid "Do you really want to delete this task?"
+msgstr "あなたは、本当にこの仕事を取り除きたいです？"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "あなたは、本当にこの下位プロジェクトを取り除きたいです？"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "あなたは、空きのためにアプリケーションを会社に提出しました。確信しています∥その"
+
+msgid "Your request to for job has been rejected"
+msgstr "空きのための会社のあなたの要求は、拒否されました"
+
+msgid "Your request to for job has been accepted"
+msgstr "空きを求めるあなたの要求は、会社に入るのを許可されました"
+
+msgid "profile is completed"
+msgstr "あなたのプロフィールは満たされます"
+
+msgid "Use account"
+msgstr "口座を使います"
+
+msgid "$/hr"
+msgstr "$/時間"
+
+msgid "Finance category"
+msgstr "財政的なカテゴリー"
+
+msgid "No projects"
+msgstr "プロジェクトがありません"
+
+msgid "Bind to finances"
+msgstr "財政的なプロジェクトにつながっています"
+
+msgid "Preview"
+msgstr "わかります"
+
+msgid "Download"
+msgstr "ダウンロードします"
+
+msgid "Save to my cloud"
+msgstr "保管されてコピーします"
+
+msgid "File successfully saved to your cloud"
+msgstr "ファイルは、あなたの保管においてうまく保存されます"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "あなたの保管のこのファイルを除いてに？"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "記事のカテゴリーを選んでください"
+
+msgid "Type something"
+msgstr "何かを書いてください"
+
+msgid "Founded users"
+msgstr "見つかるユーザー"
+
+msgid "Founded articles"
+msgstr "見つかる記事"
+
+msgid "Founded groups"
+msgstr "見つかるグループ"
+
+msgid "What are your skills?"
+msgstr "あなたのどんな技術？"
+
+msgid "Select at least 2 interests"
+msgstr "少なくとも2つの利益を選んでください"
+
+msgid "Need more interests"
+msgstr "十分な選ばれた利益でない"
+
+msgid "What are you interesting in?"
+msgstr "それがあなたに興味を起こさせているもの？"
+
+msgid "You have no dialogs"
+msgstr "あなたは、対話をしません"
+
+msgid "Usage Stats"
+msgstr "州"
+
+msgid "Founded files"
+msgstr "見つかるファイル"
+
+msgid "Big tiles"
+msgstr "大きいタイル"
+
+msgid "Small tiles"
+msgstr "小さなタイル"
+
+msgid "Table view"
+msgstr "表の観察"
+
+msgid "Root folder"
+msgstr "根本のカタログ"
+
+msgid "My files"
+msgstr "私のファイル"
+
+msgid "Save as draft"
+msgstr "草案コピーとしてもちます"
+
+msgid "Buy More Space"
+msgstr "より多くのスペースを買います"
+
+msgid "Buy"
+msgstr "買います"
+
+msgid "You have been invited to group as"
+msgstr "あなたは、役割でグループで招待されました"
+
+msgid "User wants to join your group"
+msgstr "ユーザーは、あなたのグループに入りたいです"
+
+msgid "Section is coming soon!"
+msgstr "発展のセクション！"
+
+msgid "Shared"
+msgstr "共有であるもの"
+
+msgid "Views in last 24 hours:"
+msgstr "この24時間間の視聴："
+
+msgid "Task was updated"
+msgstr "仕事は更新されました"
+
+msgid "Task was closed"
+msgstr "仕事は閉じられました"
+
+msgid "Task was created"
+msgstr "仕事はつくられました"
+
+msgid "Current balance"
+msgstr "経常収支"
+
+msgid "Add funds"
+msgstr "一杯になります"
+
+msgid "Pay"
+msgstr "支払います"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "入口の試みの数は、越えられます。あなたは、15分の間ブロックされます"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "あなたの電子メールを確かめてください。手紙は、メールにあなたをやられます。"
+
+msgid "Resend confirmation email"
+msgstr "もう一度確証を送ります"
+
+msgid "Disk 2Gb Monthly"
+msgstr "毎月2つのGbのディスク"
+
+msgid "Disk 10Gb Monthly"
+msgstr "毎年10のGbのディスク"
+
+msgid "Disk 100Gb Yearly"
+msgstr "毎年100のGbのディスク"
+
+msgid "Disk 1Tb Monthly"
+msgstr "毎月ディスク1 Ti"
+
+msgid "Disk 1Tb Yearly"
+msgstr "毎年ディスク1 Ti"
+
+msgid "Project members monthly"
+msgstr "毎月プロジェクトの参加者"
+
+msgid "Project members yearly"
+msgstr "毎年プロジェクトの参加者"
+
+msgid "Member(s) yearly"
+msgstr "毎年参加者"
+
+msgid "Member(s) monthly"
+msgstr "毎月参加者"
+
+msgid "Authorized"
+msgstr "それは認可されます"
+
+msgid "Authorization expired"
+msgstr "認可は終了しました"
+
+msgid "Processor declined"
+msgstr "それは、処理システムによって拒絶されます"
+
+msgid "Gateway rejected"
+msgstr "それは、支払い出入口のそばで拒絶されます"
+
+msgid "Failed"
+msgstr "間違い"
+
+msgid "Voided"
+msgstr "それはキャンセルされます"
+
+msgid "Submitted for settlement"
+msgstr "それは、移動のために送られます"
+
+msgid "Settlement declined"
+msgstr "移動は拒絶されます"
+
+msgid "Settlement pending"
+msgstr "移動を予想します"
+
+msgid "Verified"
+msgstr "それはチェックされます"
+
+msgid "Pending"
+msgstr "期待します"
+
+msgid "Active"
+msgstr "それは活発です"
+
+msgid "Past Due"
+msgstr "それは過ぎています"
+
+msgid "Expired"
+msgstr "私は終わりました"
+
+msgid "Marketer"
+msgstr "マーケティング・スペシャリスト"
+
+msgid "India"
+msgstr "インド"
+
+msgid "Malaysia"
+msgstr "マレーシア"
+
+msgid "Thailand"
+msgstr "タイ"
+
+msgid "South Korea"
+msgstr "韓国"
+
+msgid "Kazakhstan"
+msgstr "カザフスタン"
+
+msgid "Israel"
+msgstr "イスラエル"
+
+msgid "Ukraine"
+msgstr "ウクライナ"
+
+msgid "Belarus"
+msgstr "ベラルーシ"
+
+msgid "Bulgaria"
+msgstr "ブルガリア"
+
+msgid "Turkey"
+msgstr "トルコ"
+
+msgid "Armenia"
+msgstr "アルメニア"
+
+msgid "Serbia"
+msgstr "セルビア"
+
+msgid "Austria"
+msgstr "オーストリア"
+
+msgid "Poland"
+msgstr "ポーランド"
+
+msgid "Germany"
+msgstr "ドイツ"
+
+msgid "Italy"
+msgstr "イタリア"
+
+msgid "Netherlands"
+msgstr "オランダ"
+
+msgid "Ireland"
+msgstr "アイルランド"
+
+msgid "United Kingdom"
+msgstr "グレートブリテン"
+
+msgid "Portugal"
+msgstr "ポルトガル"
+
+msgid "Norway"
+msgstr "ノルウェー"
+
+msgid "United States"
+msgstr "米国"
+
+msgid "Canada"
+msgstr "カナダ"
+
+msgid "Brazil"
+msgstr "ブラジル"
+
+msgid "Saudi Arabia"
+msgstr "サウジアラビア"
+
+msgid "Canada"
+msgstr "エジプト"
+
+msgid "Russia"
+msgstr "ロシア"
+
+msgid "Hong Kong"
+msgstr "香港"
+
+msgid "There was no any transactions yet."
+msgstr "現在、業務がありませんでした"
+
+msgid "Fulfill your dream"
+msgstr "あなたの夢を実現"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "すべての世界中のクリエイティブな人々の私たちのコミュニティに参加しましょう​​。"
+
+msgid "Create and Collaborate"
+msgstr "作成とコラボレーション"
+
+msgid "Fulfill your dream"
+msgstr "今夢を実現"
+
+msgid "or"
+msgstr "または"
+
+msgid "Our mission:"
+msgstr "我々の使命："
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "信じられないほど、素晴らしいにシンプルで需要からアイデアを実装するために創造的で活動的な人々を団結するために、それは私たちの未来を形作ることができます。"
+
+msgid "What is Konstruktor?"
+msgstr "Konstruktorとは何ですか？"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor-が大幅に容易にし、簡素化私たちの現実の生活の一部であり、"
+
+msgid "*business processes"
+msgstr "*ビジネスプロセス"
+
+msgid "*materialization of creative ideas"
+msgstr "*創造的なアイデアの実体化"
+
+msgid "*constructive cooperation"
+msgstr "*建設的な協力"
+
+msgid "Make your dream!"
+msgstr "あなたの夢を作ろう！"
+
+msgid "Vlad Krishtop"
+msgstr "ヴラドKrishtop"
+
+msgid "CEO"
+msgstr "最高経営責任者（CEO）"
+
+msgid "Yuriy Chekalenko"
+msgstr "ユーリーChekalenko"
+
+msgid "Special Advisor"
+msgstr "特別顧問"
+
+msgid "Yaroslav Eroshenko"
+msgstr "ヤロスラフエロシェンコ"
+
+msgid "Manager, Software Development"
+msgstr "マネージャー、ソフトウェア開発"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "スヴェトラーナKamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "シニア弁護士"
+
+msgid "Yuriy Himka"
+msgstr "ユーリーHimka"
+
+msgid "Designer"
+msgstr "デザイナー"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "「次へ」ボタンをクリックすると、あなたは受け入れていると利用規約に同意し、あなたは私たちのプライバシーポリシーを読んだことを認めています。"
+
+msgid "Incorrect login or password."
+msgstr "不正なログインまたはパスワード。"
+
+msgid "Password must be at least 6 characters"
+msgstr "パスワードは少なくとも6文字でなければなりません"
+
+msgid "January"
+msgstr "1月"
+
+msgid "February"
+msgstr "2月"
+
+msgid "March"
+msgstr "行進"
+
+msgid "April"
+msgstr "4月"
+
+msgid "May"
+msgstr "5月"
+
+msgid "June"
+msgstr "6月"
+
+msgid "July"
+msgstr "7月"
+
+msgid "August"
+msgstr "8月"
+
+msgid "September"
+msgstr "9月"
+
+msgid "October"
+msgstr "10月"
+
+msgid "November"
+msgstr "11月"
+
+msgid "December"
+msgstr "12月"
+
+msgid "Chat"
+msgstr "チャット"
+
+msgid "Files"
+msgstr "ファイル"
+
+msgid "Statistic"
+msgstr "統計"
+
+msgid "Support"
+msgstr "サポート"
+
+msgid "Exit"
+msgstr "出口"
+
+msgid "Brest"
+msgstr "ブレスト"
+
+msgid "Belarus"
+msgstr "ベラルーシ"
+
+msgid "Marketing specialist"
+msgstr "マーケティングの専門家"
+
+msgid "Administrator"
+msgstr "管理者"
+
+msgid "Shared with me"
+msgstr "私と一緒に共有"
+
+msgid "File Sharing"
+msgstr "ファイル共有"
+
+msgid "Provide access by link"
+msgstr "リンクによってアクセスを提供"
+
+msgid "Provide Individual access"
+msgstr "個々のアクセスを提供"
+
+msgid "Provide edit access"
+msgstr "編集アクセス権を提供します"
+
+msgid "Share"
+msgstr "シェア"
+
+msgid "Files will be available only for selected users"
+msgstr "ファイルが選択したユーザーのためにのみ利用できるようになります"
+
+msgid "With this link everyone can access to the files"
+msgstr "これは誰もがファイルにアクセスできるリンクを持ちます"
+
+msgid "Search users, groups, articles..."
+msgstr "検索ユーザー、グループ、記事..."
+
+msgid "My Group"
+msgstr "マイグループ"
+
+msgid "Mo"
+msgstr "モー"
+
+msgid "Tu"
+msgstr "火"
+
+msgid "We"
+msgstr "我々"
+
+msgid "Th"
+msgstr "目"
+
+msgid "Fr"
+msgstr "金曜日"
+
+msgid "Sa"
+msgstr "サ"
+
+msgid "Su"
+msgstr "蘇"
+
+msgid "The file is not selected"
+msgstr "ファイルが選択されていません"
+
+msgid "Set aside"
+msgstr "脇に置きます"
+
+msgid "Event time"
+msgstr "イベント時刻"
+
+msgid "Work"
+msgstr "作業"
+
+msgid "Personal"
+msgstr "パーソナル"
+
+msgid "Time spent for work:"
+msgstr "時間は仕事のために費やしました："
+
+msgid "Personal time spent:"
+msgstr "個人的な時間を過ごしました："
+
+msgid "Present"
+msgstr "プレゼント"
+
+msgid "Common"
+msgstr "一般"
+
+msgid "Sport"
+msgstr "スポーツ"
+
+msgid "Entertainment"
+msgstr "エンターテイメント"
+
+msgid "Select:"
+msgstr "選択してください："
+
+msgid "Invalid username or password."
+msgstr "ユーザー名かパスワードが無効。"
+
+msgid "Try again."
+msgstr "再試行する。"
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "あなたは何に興味がありますか？"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "少なくとも2スキルを選択：2のまま"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "少なくとも2スキルを選択：1のまま"
+
+msgid "Select at least 2 skills: remains"
+msgstr "遺跡：少なくとも2スキルを選択"
+
+msgid "Active life"
+msgstr "活動的な生活"
+
+msgid "Arts and culture"
+msgstr "芸術と文化"
+
+msgid "Business"
+msgstr "ビジネス"
+
+msgid "Cinema"
+msgstr "シネマ"
+
+msgid "Communications"
+msgstr "コミュニケーション"
+
+msgid "Construction and repair"
+msgstr "建設や修理"
+
+msgid "Cooking"
+msgstr "料理"
+
+msgid "Education"
+msgstr "教育"
+
+msgid "Electronics"
+msgstr "エレクトロニクス"
+
+msgid "Finances"
+msgstr "財源"
+
+msgid "Graphics and design"
+msgstr "グラフィックスとデザイン"
+
+msgid "Health"
+msgstr "健康"
+
+msgid "Home and family"
+msgstr "ホームと家族"
+
+msgid "Humor"
+msgstr "ユーモア"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "業界"
+
+msgid "Insurance"
+msgstr "保険"
+
+msgid "Literature"
+msgstr "文献"
+
+msgid "Mobile communications and internet"
+msgstr "モバイル通信とインターネット"
+
+msgid "News and Media"
+msgstr "ニュースとメディア"
+
+msgid "Pets"
+msgstr "ペット"
+
+msgid "Products and service"
+msgstr "製品とサービス"
+
+msgid "Real Estate"
+msgstr "不動産"
+
+msgid "Religion"
+msgstr "宗教"
+
+msgid "Science and techs"
+msgstr "科学と最寄"
+
+msgid "Security"
+msgstr "セキュリティ"
+
+msgid "Society"
+msgstr "社会"
+
+msgid "Television"
+msgstr "テレビ"
+
+msgid "Travel"
+msgstr "旅行"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "アルゼンチン"
+
+msgid "Australia"
+msgstr "オーストラリア"
+
+msgid "Austria"
+msgstr "オーストリア"
+
+msgid "Belarus"
+msgstr "ベラルーシ"
+
+msgid "Belgium"
+msgstr "ベルギー"
+
+msgid "Brazil"
+msgstr "ブラジル"
+
+msgid "Bulgaria"
+msgstr "ブルガリア"
+
+msgid "Canada"
+msgstr "カナダ"
+
+msgid "Chile"
+msgstr "チリ"
+
+msgid "Denmark"
+msgstr "デンマーク"
+
+msgid "France"
+msgstr "フランス"
+
+msgid "Germany"
+msgstr "ドイツ"
+
+msgid "Greece"
+msgstr "ギリシャ"
+
+msgid "Hungary"
+msgstr "ハンガリー"
+
+msgid "Iceland"
+msgstr "アイスランド"
+
+msgid "Ireland"
+msgstr "アイルランド"
+
+msgid "Israel"
+msgstr "イスラエル"
+
+msgid "Italy"
+msgstr "イタリア"
+
+msgid "Japan"
+msgstr "日本"
+
+msgid "Mexico"
+msgstr "メキシコ"
+
+msgid "Netherlands"
+msgstr "オランダ"
+
+msgid "New Zealand"
+msgstr "ニュージーランド"
+
+msgid "Norway"
+msgstr "ノルウェー"
+
+msgid "Poland"
+msgstr "ポーランド"
+
+msgid "Portugal"
+msgstr "ポルトガル"
+
+msgid "Russia"
+msgstr "ロシア"
+
+msgid "Slovakia"
+msgstr "スロバキア"
+
+msgid "South Africa"
+msgstr "南アフリカ"
+
+msgid "South Korea"
+msgstr "韓国"
+
+msgid "Spain"
+msgstr "スペイン"
+
+msgid "Sweden"
+msgstr "スウェーデン"
+
+msgid "Switzerland"
+msgstr "スイス"
+
+msgid "Turkey"
+msgstr "七面鳥"
+
+msgid "Ukraine"
+msgstr "ウクライナ"
+
+msgid "United Arab Emirates"
+msgstr "アラブ首長国連邦"
+
+msgid "United Kingdom"
+msgstr "イギリス"
+
+msgid "United States"
+msgstr "アメリカ"
+
+msgid "achievements"
+msgstr "実績"
+
+msgid "Investment management"
+msgstr "資産運用"
+
+msgid "Select..."
+msgstr "選択してください..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "投資管理"
+
+msgid "Investors list"
+msgstr "投資家リスト"
+
+msgid "My investments"
+msgstr "私の投資"
+
+msgid "Create date"
+msgstr "日付を作成します。"
+
+msgid "Author of the project"
+msgstr "プロジェクトの著者"
+
+msgid "Date and time"
+msgstr "日時"
+
+msgid "Status"
+msgstr "状態"
+
+msgid "NEXT"
+msgstr "次"
+
+msgid "Next"
+msgstr "次"
+
+msgid "Apply"
+msgstr "適用"
+
+msgid "Kazakhstan"
+msgstr "カザフスタン"
+
+msgid "Almaty"
+msgstr "アルマトイ"
+
+msgid "Hong Kong"
+msgstr "香港"
+
+msgid "Science"
+msgstr "科学"
+
+msgid "Architecture"
+msgstr "アーキテクチャ"
+
+msgid "Photography"
+msgstr "写真撮影"
+
+msgid "Designer"
+msgstr "デザイナー"
+
+msgid "IT specialist"
+msgstr "ITスペシャリスト"
+
+msgid "Agronomist"
+msgstr "農学"
+
+msgid "Architect"
+msgstr "Architector"
+
+msgid "Lawyer"
+msgstr "弁護士"
+
+msgid "Writer"
+msgstr "著者"
+
+msgid "Doctor"
+msgstr "医師"
+
+msgid "Scientist"
+msgstr "科学者"
+
+msgid "Marketer"
+msgstr "マーケティング担当者"
+
+msgid "Teacher"
+msgstr "先生"
+
+msgid "Cook"
+msgstr "クック"
+
+msgid "Artist"
+msgstr "アーティスト"
+
+msgid "Photographer"
+msgstr "カメラマン"
+
+msgid "Ecologist"
+msgstr "生態"
+
+msgid "Economist"
+msgstr "エコノミスト"
+
+msgid "Logistician"
+msgstr "物流の専門家"
+
+msgid "Journalist"
+msgstr "ジャーナリスト"
+
+msgid "Builder"
+msgstr "ビルダー"
+
+msgid "These users may be interesting for you"
+msgstr "これらのユーザーはあなたのために興味深いかもしれ"
+
+msgid "These articles may be interesting for you"
+msgstr "これらの記事はあなたのために興味深いかもしれ"
+
+msgid "You joined this group as Аdministrator"
+msgstr "あなたはАdministratorとしてこのグループに参加"
+
+msgid "articles written."
+msgstr "書かれた記事。"
+
+msgid "groups created."
+msgstr "グループを作成しました。"
+
+msgid "Creation"
+msgstr "創作"
+
+msgid "Build a dream"
+msgstr "夢を構築"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "もっと面白い記事を読む - 無料登録を行きます"
+
+

@@ -1,0 +1,3343 @@
+# Afrikaans (Африкаанс) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Afrikaans (Африкаанс) <support@konstruktor.com>\n"
+"Language: Afrikaans (Африкаанс)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "gebruikersnaam"
+
+msgid "Invalid username or password, try again"
+msgstr "Verkeerde besoekersnaam en wagwoord. Probeer weer ."
+
+msgid "Settings"
+msgstr "instellings"
+
+msgid "Home"
+msgstr "huis"
+
+msgid "You must log in to access this page"
+msgstr "Jy moet aanmeld om hierdie bladsy toegang"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Jou sessie het verstryk . Asseblief, weer moet inteken om hierdie aksie uit te voer"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Head Office"
+msgstr "Hoofkantoor"
+
+msgid "Address"
+msgstr "adres"
+
+msgid "Back"
+msgstr "terug"
+
+msgid "Apply"
+msgstr "toepassing"
+
+msgid "Upload files…"
+msgstr "Lêers oplaai ..."
+
+msgid "Set as main"
+msgstr "Stel as hoof"
+
+msgid "Delete"
+msgstr "verwyder"
+
+msgid "Original image"
+msgstr "oorspronklike beeld"
+
+msgid "Uploaded"
+msgstr "foto"
+
+msgid "File name"
+msgstr "lêernaam"
+
+msgid "File size"
+msgstr "lêer grootte"
+
+msgid "Resolution"
+msgstr "resolusie"
+
+msgid "Enlarge"
+msgstr "vergroot"
+
+msgid "Links"
+msgstr "skakels"
+
+msgid "Original size"
+msgstr "oorspronklike grootte"
+
+msgid "For editor"
+msgstr "vir redakteur"
+
+msgid "Resize"
+msgstr "die grootte"
+
+msgid "Width"
+msgstr "wydte"
+
+msgid "Height"
+msgstr "hoogte"
+
+msgid "Media URL"
+msgstr "media URL"
+
+msgid "Add record"
+msgstr "Voeg rekord"
+
+msgid "Show filter settings"
+msgstr "Wys filter instellings"
+
+msgid "Edit record"
+msgstr "wysig rekord"
+
+msgid "Delete record"
+msgstr "verwyder rekord"
+
+msgid "Delete checked records"
+msgstr "Verwyder nagegaan rekords"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Password"
+msgstr "wagwoord"
+
+msgid "Remember me"
+msgstr "onthou my"
+
+msgid "Login"
+msgstr "Teken"
+
+msgid "Clean image cache"
+msgstr "Skoon beeld kas"
+
+msgid "Processing query..."
+msgstr "Verwerking navraag ..."
+
+msgid "CMS Development"
+msgstr "CMS Ontwikkeling"
+
+msgid "Admin Home Page"
+msgstr "Admin Tuisblad"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Open Home page van Front -end in \'n nuwe blad"
+
+msgid "Go to Site"
+msgstr "Gaan na Site"
+
+msgid "Log out"
+msgstr "Teken uit"
+
+msgid "Send"
+msgstr "stuur"
+
+msgid "General"
+msgstr "algemene"
+
+msgid "Title"
+msgstr "titel"
+
+msgid "Teaser"
+msgstr "Teaser"
+
+msgid "Published"
+msgstr "gepubliseer"
+
+msgid "Featured"
+msgstr "Gewilde"
+
+msgid "Active"
+msgstr "aktiewe"
+
+msgid "Field is mandatory"
+msgstr "Veld is verpligtend"
+
+msgid "Sort Order"
+msgstr "Sort Order"
+
+msgid "Upload"
+msgstr "oplaai"
+
+msgid "Loading..."
+msgstr "Laai ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Februarie"
+
+msgid "Mar"
+msgstr "Maart"
+
+msgid "Apr"
+msgstr "April"
+
+msgid "May"
+msgstr "kan"
+
+msgid "Jun"
+msgstr "Junie"
+
+msgid "Jul"
+msgstr "Julie"
+
+msgid "Aug"
+msgstr "Augustus"
+
+msgid "Sep"
+msgstr "September"
+
+msgid "Oct"
+msgstr "Oktober"
+
+msgid "Nov"
+msgstr "November"
+
+msgid "Dec"
+msgstr "Desember"
+
+msgid "Product already exists in the order"
+msgstr "Produk bestaan ​​reeds in die volgorde"
+
+msgid "Product does not exist"
+msgstr "Produk bestaan ​​nie"
+
+msgid "Incorrect request"
+msgstr "verkeerde versoek"
+
+msgid "Products"
+msgstr "produkte"
+
+msgid "Product types"
+msgstr "produk tipes"
+
+msgid "Contractors"
+msgstr "kontrakteurs"
+
+msgid "Contractor"
+msgstr "kontrakteur"
+
+msgid "Orders"
+msgstr "bestellings"
+
+msgid "FAQ"
+msgstr "Vrae"
+
+msgid "New order"
+msgstr "nuwe orde"
+
+msgid "My orders"
+msgstr "my bestellings"
+
+msgid "Recharge balance"
+msgstr "herlaai balans"
+
+msgid "Administrator"
+msgstr "administrateur"
+
+msgid "Incorrect event ID"
+msgstr "Verkeerde gebeurtenis ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "kontrakteur wysig"
+
+msgid "Create contractor"
+msgstr "Skep kontrakteur"
+
+msgid "Edit question"
+msgstr "vraag wysig"
+
+msgid "Create question"
+msgstr "Skep vraag"
+
+msgid "Edit order"
+msgstr "Om wysig"
+
+msgid "Create order"
+msgstr "orde te skep"
+
+msgid "Edit product"
+msgstr "produk wysig"
+
+msgid "Create product"
+msgstr "Skep produk"
+
+msgid "Edit product type"
+msgstr "Wysig tipe produk"
+
+msgid "Create product type"
+msgstr "Skep tipe produk"
+
+msgid "You have received a file"
+msgstr "Jy het \'n lêer ontvang"
+
+msgid "You received a file from"
+msgstr "Jy het \'n lêer van"
+
+msgid "File has been uploaded"
+msgstr "Lêer is gelaai"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "minimale hoeveelheid"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "items"
+
+msgid "Remove"
+msgstr "verwyder"
+
+msgid "Contact person"
+msgstr "Kontak persoon"
+
+msgid "Email"
+msgstr "e-pos"
+
+msgid "Contractor phone"
+msgstr "kontrakteur selfoon"
+
+msgid "Contractor name"
+msgstr "naam kontrakteur"
+
+msgid "Contractor details"
+msgstr "kontrakteur besonderhede"
+
+msgid "Order ID"
+msgstr "Bestel ID"
+
+msgid "Sum"
+msgstr "som"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Kies die geskikte betaling stelsel om jou balans te herlaai"
+
+msgid "Recharge amount"
+msgstr "herlaai bedrag"
+
+msgid "Paid"
+msgstr "betaal"
+
+msgid "Shipped"
+msgstr "verskeep"
+
+msgid "- No products in this order -"
+msgstr "- Geen produkte in hierdie volgorde -"
+
+msgid "month"
+msgstr "maand"
+
+msgid "No user found"
+msgstr "Geen gebruiker gevind"
+
+msgid "Achievement"
+msgstr "prestasie"
+
+msgid "Confirmed accomplishments"
+msgstr "bevestig prestasies"
+
+msgid "Remove achievement"
+msgstr "verwyder prestasie"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "Phone"
+
+msgid "Site URL and email"
+msgstr "Site URL en e-pos"
+
+msgid "Remove address"
+msgstr "verwyder adres"
+
+msgid "Members"
+msgstr "lede"
+
+msgid "Requires a payment"
+msgstr "Vereis \'n betaling"
+
+msgid "Shipping"
+msgstr "Pos"
+
+msgid "Ready"
+msgstr "gereed"
+
+msgid "Find user..."
+msgstr "Vind gebruiker ..."
+
+msgid "Order it"
+msgstr "bestel dit"
+
+msgid "Find group..."
+msgstr "Vind groep ..."
+
+msgid "Find user or community..."
+msgstr "Vind gebruiker of gemeenskap ..."
+
+msgid "No item found"
+msgstr "Geen item gevind"
+
+msgid "years"
+msgstr "jaar"
+
+msgid "Send message"
+msgstr "stuur boodskap"
+
+msgid "Message"
+msgstr "boodskap"
+
+msgid "To send message press Enter"
+msgstr "Stuur boodskap druk Enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Boodskap druk Ctrl + Enter stuur"
+
+msgid "Processing file(s)..."
+msgstr "Verwerking lêer (s ) ..."
+
+msgid "Group settings"
+msgstr "groep instellings"
+
+msgid "Create group"
+msgstr "Skep groep"
+
+msgid "Group has been successfully saved"
+msgstr "Groep is suksesvol gestoor"
+
+msgid "Group title"
+msgstr "groep titel"
+
+msgid "Group video"
+msgstr "groep video"
+
+msgid "Description"
+msgstr "beskrywing"
+
+msgid "Your role in group"
+msgstr "Jou rol in die groep"
+
+msgid "Role"
+msgstr "rol"
+
+msgid "Photo or video gallery"
+msgstr "Foto of video gallery"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "oplaai video"
+
+msgid "Add group address"
+msgstr "Groep adres by te voeg"
+
+msgid "Group articles"
+msgstr "groep artikels"
+
+msgid "No addresses yet"
+msgstr "Nog geen adresse"
+
+msgid "Add group achievement"
+msgstr "Voeg groep prestasie"
+
+msgid "No achivements yet"
+msgstr "Nog geen achivements"
+
+msgid "Are you sure to delete this user"
+msgstr "Is jy seker dat jy hierdie gebruiker verwyder"
+
+msgid "Add member"
+msgstr "lid Voeg"
+
+msgid "Are you sure to delete this record?"
+msgstr "Is jy seker dat jy hierdie rekord verwyder?"
+
+msgid "Join this group"
+msgstr "Sluit hierdie groep"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Jou uitnodiging is gestuur na die bestuurder van die groep"
+
+msgid "All addresses"
+msgstr "alle adresse"
+
+msgid "Collapse"
+msgstr "ineenstorting"
+
+msgid "Achievements"
+msgstr "prestasies"
+
+msgid "Show more"
+msgstr "wys meer"
+
+msgid "Team"
+msgstr "span"
+
+msgid "Projects"
+msgstr "projekte"
+
+msgid "New project"
+msgstr "nuwe projek"
+
+msgid "Project has not been created yet"
+msgstr "Projek is nog nie geskep"
+
+msgid "Messanger"
+msgstr "boodskapper"
+
+msgid "Balance"
+msgstr "balans"
+
+msgid "Main page"
+msgstr "Hoofblad"
+
+msgid "Upload image"
+msgstr "oplaai"
+
+msgid "My time"
+msgstr "my tyd"
+
+msgid "Day"
+msgstr "dag"
+
+msgid "Week"
+msgstr "week"
+
+msgid "Project settings"
+msgstr "projek instellings"
+
+msgid "Create project"
+msgstr "Skep projek"
+
+msgid "Project has been successfully saved"
+msgstr "Projek is suksesvol gestoor"
+
+msgid "Project name"
+msgstr "projek naam"
+
+msgid "Deadline"
+msgstr "sperdatum"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Manager"
+msgstr "Bestuurder"
+
+msgid "Assigned to"
+msgstr "aan"
+
+msgid "Discussion"
+msgstr "bespreking"
+
+msgid "Task was created"
+msgstr "Taak is geskep"
+
+msgid "Task was closed"
+msgstr "Taak is gesluit"
+
+msgid "Go to Group"
+msgstr "Gaan na Groep"
+
+msgid "Closed"
+msgstr "gesluit"
+
+msgid "Last updates"
+msgstr "laaste updates"
+
+msgid "Project is closed"
+msgstr "Projek is gesluit"
+
+msgid "No open tasks"
+msgstr "Geen oop take"
+
+msgid "New task"
+msgstr "nuwe taak"
+
+msgid "Closed tasks"
+msgstr "geslote take"
+
+msgid "Add subproject"
+msgstr "subprojek voeg"
+
+msgid "Add task"
+msgstr "taak voeg"
+
+msgid "Sun"
+msgstr "Sondag"
+
+msgid "Mon"
+msgstr "Maandag"
+
+msgid "Tue"
+msgstr "Dinsdag"
+
+msgid "Wed"
+msgstr "Woensdag"
+
+msgid "Thur"
+msgstr "Donderdag"
+
+msgid "Fri"
+msgstr "Vrydag"
+
+msgid "Sat"
+msgstr "Saterdag"
+
+msgid "Event title"
+msgstr "Event titel"
+
+msgid "Event description"
+msgstr "Event beskrywing"
+
+msgid "I registered on this site"
+msgstr "Ek op hierdie werf geregistreer"
+
+msgid "Last created groups"
+msgstr "Laaste geskep groepe"
+
+msgid "You joined this group as"
+msgstr "Jy het by hierdie groep as"
+
+msgid "You received a request to join the group"
+msgstr "Jy het \'n versoek aan die groep aan te sluit"
+
+msgid "Updated site"
+msgstr "opgedateer werf"
+
+msgid "Site is under construction"
+msgstr "Webwerf is onder konstruksie"
+
+msgid "Last registered users"
+msgstr "Laaste geregistreerde gebruikers"
+
+msgid "User settings"
+msgstr "gebruikers instellings"
+
+msgid "Technical support"
+msgstr "tegniese ondersteuning"
+
+msgid "Change email"
+msgstr "e-pos verander"
+
+msgid "Change password"
+msgstr "verandering wagwoord"
+
+msgid "User has been successfully saved"
+msgstr "Gebruiker is suksesvol gestoor"
+
+msgid "Full name"
+msgstr "volle naam"
+
+msgid "My video"
+msgstr "my video"
+
+msgid "Skills"
+msgstr "vaardighede"
+
+msgid "Birthday"
+msgstr "verjaarsdag"
+
+msgid "Country of residence"
+msgstr "Land van verblyf"
+
+msgid "Country"
+msgstr "land"
+
+msgid "Zip Code"
+msgstr "Poskode"
+
+msgid "City/town of residence"
+msgstr "Stad / dorp van verblyf"
+
+msgid "University/college"
+msgstr "Universiteit / kollege"
+
+msgid "University/college photo"
+msgstr "Universiteit / kollege foto"
+
+msgid "Add user\'s accomplishments"
+msgstr "Voeg prestasies gebruiker"
+
+msgid "Interface language"
+msgstr "taal"
+
+msgid "How other people see this page"
+msgstr "Hoe ander mense sien hierdie bladsy"
+
+msgid "Video with me"
+msgstr "Video met my"
+
+msgid "Groups"
+msgstr "groepe"
+
+msgid "Registered today"
+msgstr "geregistreer vandag"
+
+msgid "Qty"
+msgstr "stuks"
+
+msgid "No registered users yet"
+msgstr "Nog geen geregistreerde gebruikers"
+
+msgid "Total"
+msgstr "totale"
+
+msgid "Registered total"
+msgstr "geregistreer totale"
+
+msgid "You received a file"
+msgstr "Jy ontvang \'n lêer"
+
+msgid "You were invited into this room"
+msgstr "Jy is genooi na hierdie kamer"
+
+msgid "Request is being processed"
+msgstr "Versoek verwerk"
+
+msgid "Fax"
+msgstr "Faks"
+
+msgid "Messenger"
+msgstr "boodskapper"
+
+msgid "New subproject"
+msgstr "nuwe subprojek"
+
+msgid "messages written."
+msgstr "boodskappe geskryf ."
+
+msgid "projects created based on groups."
+msgstr "projekte geskep gebaseer op die groepe."
+
+msgid "users registered on website."
+msgstr "gebruikers geregistreer op die webwerf ."
+
+msgid "New email"
+msgstr "nuwe e-pos"
+
+msgid "Confirm email"
+msgstr "bevestig e-pos"
+
+msgid "New password"
+msgstr "nuwe wagwoord"
+
+msgid "Confirm password"
+msgstr "bevestig wagwoord"
+
+msgid "Occupation"
+msgstr "Speciality"
+
+msgid "Timezone"
+msgstr "tydsone"
+
+msgid "Answer"
+msgstr "antwoord"
+
+msgid "Articles"
+msgstr "Artikels"
+
+msgid "Article"
+msgstr "Artikel"
+
+msgid "Video-article"
+msgstr "Video - artikel"
+
+msgid "Find article..."
+msgstr "Vind artikel ..."
+
+msgid "Politics"
+msgstr "politiek"
+
+msgid "Economics"
+msgstr "Ekonomie"
+
+msgid "Community"
+msgstr "Gemeenskap"
+
+msgid "Culture"
+msgstr "kultuur"
+
+msgid "Sports"
+msgstr "Sport"
+
+msgid "Hi-tech"
+msgstr "Hi-Tech"
+
+msgid "Cars"
+msgstr "motors"
+
+msgid "Fashion"
+msgstr "Fashion"
+
+msgid "Games"
+msgstr "Spele"
+
+msgid "Other"
+msgstr "ander"
+
+msgid "Invalid mediafile"
+msgstr "ongeldig media lêer"
+
+msgid "No articles in this category yet"
+msgstr "Nog geen artikels in hierdie kategorie"
+
+msgid "Back to profile"
+msgstr "Terug na profiel"
+
+msgid "View article"
+msgstr "Kyk die artikel"
+
+msgid "Edit article"
+msgstr "artikel wysig"
+
+msgid "Create article"
+msgstr "Skep Artikel"
+
+msgid "Article title"
+msgstr "Artikel titel"
+
+msgid "Article section"
+msgstr "artikel artikel"
+
+msgid "Choose image"
+msgstr "kies beeld"
+
+msgid "Save and upload"
+msgstr "Spaar en laai"
+
+msgid "Show more..."
+msgstr "Wys meer..."
+
+msgid "Create"
+msgstr "Skep"
+
+msgid "Edit"
+msgstr "wysig"
+
+msgid "Project"
+msgstr "projek"
+
+msgid "Team"
+msgstr "span"
+
+msgid "A new article was published"
+msgstr "\'N nuwe artikel gepubliseer"
+
+msgid "You joined this project"
+msgstr "Jy het by hierdie projek"
+
+msgid "Enter your information in the User settings"
+msgstr "Gee jou inligting in die gebruiker instellings"
+
+msgid "Communities"
+msgstr "gemeenskappe"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Video aanbieding van my prestasies"
+
+msgid "My articles"
+msgstr "my artikels"
+
+msgid "User"
+msgstr "gebruiker"
+
+msgid "Users"
+msgstr "gebruikers"
+
+msgid "Add new list"
+msgstr "Voeg nuwe lys"
+
+msgid "List title"
+msgstr "lys titel"
+
+msgid "Add"
+msgstr "Voeg"
+
+msgid "Add to favorites"
+msgstr "Voeg by gunstelinge"
+
+msgid "Delete from favorites"
+msgstr "Verwyder uit gunstelinge"
+
+msgid "Select list"
+msgstr "Kies lys"
+
+msgid "Subscriptions"
+msgstr "Subskripsies"
+
+msgid "Subscribe"
+msgstr "Betaal"
+
+msgid "Unsubscribe"
+msgstr "unsubscribe"
+
+msgid "General list"
+msgstr "algemene lys"
+
+msgid "No users in this list"
+msgstr "Geen gebruikers in hierdie lys"
+
+msgid "Publish"
+msgstr "publiseer"
+
+msgid "Unpublish"
+msgstr "Depubliseer"
+
+msgid "Add user"
+msgstr "Voeg gebruiker"
+
+msgid "Create document"
+msgstr "Skep dokument"
+
+msgid "Edit document"
+msgstr "dokument wysig"
+
+msgid "View"
+msgstr "View"
+
+msgid "Document title"
+msgstr "Document title"
+
+msgid "Find document..."
+msgstr "Vind dokument ..."
+
+msgid "Share your thoughts"
+msgstr "Deel jou gedagtes"
+
+msgid "Leave your comment"
+msgstr "Laat jou kommentaar"
+
+msgid "Accept"
+msgstr "aanvaar"
+
+msgid "Decline"
+msgstr "afname"
+
+msgid "Add article"
+msgstr "Artikel voeg"
+
+msgid "Link to verified accomplishments"
+msgstr "Link na geverifieer prestasies"
+
+msgid "No articles here yet..."
+msgstr "Nog geen artikels hier ..."
+
+msgid "Find file or folder..."
+msgstr "Lêer of gids te vind ..."
+
+msgid "Sort"
+msgstr "Sorteer"
+
+msgid "By name"
+msgstr "by die naam"
+
+msgid "By date"
+msgstr "datum"
+
+msgid "By updated date"
+msgstr "Deur opgedateer datum"
+
+msgid "By size"
+msgstr "deur die grootte"
+
+msgid "By type"
+msgstr "deur die tipe"
+
+msgid "Move"
+msgstr "skuif"
+
+msgid "File Manager"
+msgstr "File Manager"
+
+msgid "Share link"
+msgstr "Deel skakel"
+
+msgid "Responsible"
+msgstr "verantwoordelik"
+
+msgid "Performer"
+msgstr "performer"
+
+msgid "New Folder"
+msgstr "Nuwe leêr"
+
+msgid "Folder name"
+msgstr "gidsnaam"
+
+msgid "By default"
+msgstr "By verstek"
+
+msgid "Back to group"
+msgstr "Terug na die groep"
+
+msgid "year(s)"
+msgstr "jaar (s)"
+
+msgid "January"
+msgstr "Januarie"
+
+msgid "February"
+msgstr "Februarie"
+
+msgid "March"
+msgstr "Maart"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "mag"
+
+msgid "June"
+msgstr "Junie"
+
+msgid "July"
+msgstr "Julie"
+
+msgid "August"
+msgstr "Augustus"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "Desember"
+
+msgid "Password Reminder"
+msgstr "wagwoord vergeet"
+
+msgid "Log In"
+msgstr "Teken In"
+
+msgid "Sign in"
+msgstr "Teken in"
+
+msgid "Register"
+msgstr "register"
+
+msgid "First name"
+msgstr "Eerste naam"
+
+msgid "Last name"
+msgstr "Van"
+
+msgid "I agree with rules"
+msgstr "Ek stem saam met die reëls"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "A bevestiging pos is gestuur na jou e-posadres."
+
+msgid "Thanks"
+msgstr "Dankie"
+
+msgid "Password must be at least 6 characters"
+msgstr "Wagwoord moet ten minste 6 karakters"
+
+msgid "Creative Environment"
+msgstr "kreatiewe omgewing"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Jy moet ten minste dertien jaar oud wees om hierdie diens te gebruik"
+
+msgid "Order status"
+msgstr "order status"
+
+msgid "Processing order"
+msgstr "verwerking orde"
+
+msgid "Requires a payment"
+msgstr "Vereis \'n betaling"
+
+msgid "Shipping"
+msgstr "Pos"
+
+msgid "Ready"
+msgstr "gereed"
+
+msgid "Thank you for your payment"
+msgstr "Dankie vir u betaling"
+
+msgid "Your payment has been cancelled"
+msgstr "Jou betaling is gekanselleer"
+
+msgid "page"
+msgstr "bladsy"
+
+msgid "Rent period"
+msgstr "huur tydperk"
+
+msgid "Total, month"
+msgstr "Total, maand"
+
+msgid "Order items"
+msgstr "Bestel items"
+
+msgid "No records found"
+msgstr "Geen rekords gevind"
+
+msgid "User with this email is already exist"
+msgstr "Gebruiker met hierdie e-pos is reeds bestaan"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Gids of lêer met so naam bestaan reeds in doelmap"
+
+msgid "Minimal quantity"
+msgstr "minimale hoeveelheid"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "druk kopieë"
+
+msgid "Terms of Use"
+msgstr "Voorwaardes"
+
+msgid "Privacy Policy"
+msgstr "Privaatheidsbeleid"
+
+msgid "Find project..."
+msgstr "Vind projek ..."
+
+msgid "New Project"
+msgstr "nuwe projek"
+
+msgid "Accounts"
+msgstr "rekeninge"
+
+msgid "Operations"
+msgstr "bedrywighede"
+
+msgid "All accounts"
+msgstr "Alle rekeninge"
+
+msgid "All categories"
+msgstr "Alle kategorieë"
+
+msgid "Expense"
+msgstr "koste"
+
+msgid "Income"
+msgstr "inkomste"
+
+msgid "Transfer"
+msgstr "oordrag"
+
+msgid "Expense"
+msgstr "koste"
+
+msgid "income"
+msgstr "inkomste"
+
+msgid "tax"
+msgstr "belasting"
+
+msgid "percent"
+msgstr "persent"
+
+msgid "transfer"
+msgstr "oordrag"
+
+msgid "Make operation"
+msgstr "maak werking"
+
+msgid "Select date"
+msgstr "Kies datum"
+
+msgid "Select account"
+msgstr "Kies rekening"
+
+msgid "Month"
+msgstr "maand"
+
+msgid "Quarter"
+msgstr "kwartaal"
+
+msgid "Year"
+msgstr "jaar"
+
+msgid "From"
+msgstr "Van"
+
+msgid "To"
+msgstr "om"
+
+msgid "Expense amount"
+msgstr "koste bedrag"
+
+msgid "Categories"
+msgstr "kategorieë"
+
+msgid "Comments"
+msgstr "kommentaar"
+
+msgid "Income amount"
+msgstr "inkomste bedrag"
+
+msgid "Transfer amount"
+msgstr "oordrag bedrag"
+
+msgid "From account"
+msgstr "van rekening"
+
+msgid "To account"
+msgstr "tot verantwoording"
+
+msgid "New Account"
+msgstr "nuwe Rekening"
+
+msgid "New Category"
+msgstr "nuwe Kategorie"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Name"
+msgstr "naam"
+
+msgid "Enter category name"
+msgstr "Tik kategorie naam"
+
+msgid "Select type"
+msgstr "Kies soort"
+
+msgid "Credit card"
+msgstr "Kredietkaart"
+
+msgid "Debit card"
+msgstr "Debietkaart"
+
+msgid "Bank account"
+msgstr "bankrekening"
+
+msgid "Cash"
+msgstr "kontant"
+
+msgid "Balance is empty"
+msgstr "Balans is leeg"
+
+msgid "Statistic is empty"
+msgstr "Statistiek is leeg"
+
+msgid "Regular payments"
+msgstr "gereelde betalings"
+
+msgid "Are you sure ?"
+msgstr "Is jy seker ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Is jy seker dat jy hierdie projek sluit ?"
+
+msgid "Project was deleted successfully"
+msgstr "Projek is suksesvol verwyder"
+
+msgid "Select currency"
+msgstr "Kies geldeenheid"
+
+msgid "Account"
+msgstr "rekening"
+
+msgid "Orders list"
+msgstr "lys bestellings"
+
+msgid "Order payments"
+msgstr "Bestel betalings"
+
+msgid "View order"
+msgstr "View orde"
+
+msgid "No response from Printer API"
+msgstr "Geen reaksie van drukker API"
+
+msgid "Bad response from Printer API"
+msgstr "Bad reaksie van drukker API"
+
+msgid "User ID"
+msgstr "user ID"
+
+msgid "Contact Person"
+msgstr "Kontak persoon"
+
+msgid "No orders to process"
+msgstr "Geen bestellings te verwerk"
+
+msgid "Article announce image"
+msgstr "Artikel kondig image"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Ongeldig video url . Laat leeg of voeg geldig youtube url"
+
+msgid "Please, enter Contractor data"
+msgstr "Asseblief, Tik Kontrakteur data"
+
+msgid "Distribute devices"
+msgstr "versprei toestelle"
+
+msgid "Quantity"
+msgstr "hoeveelheid"
+
+msgid "Devices left"
+msgstr "toestelle gelaat"
+
+msgid "Distributed devices"
+msgstr "versprei toestelle"
+
+msgid "You must enter quantity"
+msgstr "Jy moet die hoeveelheid voer"
+
+msgid "All devices are distributed"
+msgstr "Alle toestelle versprei"
+
+msgid "IP address"
+msgstr "IP adres"
+
+msgid "Only for printer"
+msgstr "Slegs vir drukker"
+
+msgid "Counter"
+msgstr "counter"
+
+msgid "You was excluded from this room"
+msgstr "Jy is uit hierdie kamer uitgesluit"
+
+msgid "Compare"
+msgstr "vergelyk"
+
+msgid "Scheduled transaction"
+msgstr "geskeduleer transaksie"
+
+msgid "Select transfer account"
+msgstr "Kies oordrag rekening"
+
+msgid "Select income account"
+msgstr "Kies inkomsterekening"
+
+msgid "Reports"
+msgstr "verslae"
+
+msgid "Goals"
+msgstr "Doelwitte"
+
+msgid "Budgets"
+msgstr "begrotings"
+
+msgid "Enter user name or email..."
+msgstr "Gee naam of e-pos die gebruiker ..."
+
+msgid "Invite had been sended"
+msgstr "Nooi was sended"
+
+msgid "Statistics"
+msgstr "Statistiek"
+
+msgid "Updated site began to work"
+msgstr "Opgedateer webwerf begin om te werk"
+
+msgid "City of residence"
+msgstr "Plaas van verblyf"
+
+msgid "Edit favourites list"
+msgstr "Gunstelinge wysig lys"
+
+msgid "Add favourites list"
+msgstr "Voeg gunstelinge lys"
+
+msgid "Categories is required"
+msgstr "Kategorieë vereis"
+
+msgid "Type new category name and hit Enter"
+msgstr "Tik nuwe kategorie naam en druk Enter"
+
+msgid "You created an order"
+msgstr "Jy geskep \'n bevel"
+
+msgid "You received a device due to this order"
+msgstr "Jy het \'n toestel te danke aan hierdie orde"
+
+msgid "%s attached %s to task %s"
+msgstr "%s %s verbonde aan die taak %s"
+
+msgid "member(s)"
+msgstr "lid ( s)"
+
+msgid "%s commented task %s"
+msgstr "%s %s taak kommentaar"
+
+msgid "%s closed task %s"
+msgstr "%s %s geslote taak"
+
+msgid "%s created task %s"
+msgstr "%s %s geskep taak"
+
+msgid "%s created this project"
+msgstr "%s het hierdie projek"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s geskep subprojek \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s geslote projek \" %s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s geslote subprojek \"%s\""
+
+msgid "This field must not be blank"
+msgstr "Hierdie veld moet nie leeg wees"
+
+msgid "Document with such name is already exist"
+msgstr "Dokument met so naam is reeds bestaan"
+
+msgid "Wait until image upload"
+msgstr "Wag totdat oplaai"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Message can not be empty"
+msgstr "Boodskap kan nie leeg wees"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Geen"
+
+msgid "Created"
+msgstr "geskep"
+
+msgid "Compare is empty"
+msgstr "Vergelyk leeg"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Is jy seker jy wil werking verwyder"
+
+msgid "Do you really want to delete transaction"
+msgstr "Wil jy regtig om transaksie te verwyder"
+
+msgid "Project with same name already exists"
+msgstr "Projek met dieselfde naam bestaan ​​reeds"
+
+msgid "Account is not found"
+msgstr "Rekening nie gevind"
+
+msgid "Currency is required"
+msgstr "Geldeenheid vereis"
+
+msgid "error while deleting document"
+msgstr "Fout tydens die verwydering van dokument"
+
+msgid "Expences"
+msgstr "UITGAWES"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "U uitgenooi gebruiker \" %s\" in hierdie kamer"
+
+msgid "User \"%s\" joined this room"
+msgstr "Gebruiker \" %s \" by hierdie kamer"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Jy uitgesluit gebruiker \" %s \" van hierdie kamer"
+
+msgid "User \"%s\" left this room"
+msgstr "Gebruiker \" %s\" die kamer verlaat"
+
+msgid "Add account"
+msgstr "Voeg rekening"
+
+msgid "The requested page is not found"
+msgstr "Die verlangde bladsy is nie gevind"
+
+msgid "Document"
+msgstr "dokument"
+
+msgid "Table"
+msgstr "Table"
+
+msgid "file(s)"
+msgstr "lêer ( s)"
+
+msgid "Residue"
+msgstr "oorskot"
+
+msgid "Result is empty"
+msgstr "Resultaat is leeg"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Die totale bedrag is %s vir %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Jy het om te deponeer %s maandeliks Verwante rekening"
+
+msgid "Start"
+msgstr "Begin"
+
+msgid "finish"
+msgstr "afwerking"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Gekose rekening is reeds in gebruik vir \'n ander doel"
+
+msgid "Amount required"
+msgstr "bedrag wat nodig is"
+
+msgid "New goal"
+msgstr "nuwe doel"
+
+msgid "Goal"
+msgstr "doel"
+
+msgid "Goal name"
+msgstr "doel naam"
+
+msgid "Invalid date"
+msgstr "ongeldig datum"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Noodsaaklike som moet \'n positiewe getal wees"
+
+msgid "Remain"
+msgstr "bly"
+
+msgid "Last day"
+msgstr "Laaste dag"
+
+msgid "Accumulated"
+msgstr "opgehoopte"
+
+msgid "Put aside"
+msgstr "Sit eenkant"
+
+msgid "January"
+msgstr "Januarie"
+
+msgid "February"
+msgstr "Februarie"
+
+msgid "March"
+msgstr "Maart"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "mag"
+
+msgid "June"
+msgstr "Junie"
+
+msgid "July"
+msgstr "Julie"
+
+msgid "August"
+msgstr "Augustus"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "Desember"
+
+msgid "Expenses projected/actual"
+msgstr "Uitgawes geprojekteer / werklike"
+
+msgid "Net Income projected/actual"
+msgstr "Netto inkomste geprojekteer / werklike"
+
+msgid "New budget"
+msgstr "nuwe begroting"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Inkomste en uitgawes Chart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Begroting met dieselfde paar van die rekening en kategorie bestaan ​​reeds"
+
+msgid "Budget is empty"
+msgstr "Begroting is leeg"
+
+msgid "Budget"
+msgstr "begroting"
+
+msgid "plan"
+msgstr "plan"
+
+msgid "fact"
+msgstr "feit"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "Wys meer"
+
+msgid "Cancel"
+msgstr "kanselleer"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "my verkope"
+
+msgid "Time spent"
+msgstr "tyd bestee"
+
+msgid "Total time spent"
+msgstr "Totale tyd bestee"
+
+msgid "Earnings per hour"
+msgstr "Verdienste per uur"
+
+msgid "Total earnings"
+msgstr "totale verdienste"
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Phone call"
+msgstr "Oproep"
+
+msgid "Telephone calls"
+msgstr "telefoonoproepe"
+
+msgid "Send email"
+msgstr "Stuur e-pos"
+
+msgid "Emails"
+msgstr "e-pos"
+
+msgid "Meeting"
+msgstr "Ontmoet"
+
+msgid "Meetings"
+msgstr "vergaderings"
+
+msgid "All events"
+msgstr "Alle gebeure"
+
+msgid "Task"
+msgstr "taak"
+
+msgid "Event"
+msgstr "Event"
+
+msgid "Events"
+msgstr "gebeure"
+
+msgid "Time"
+msgstr "tyd"
+
+msgid "Events statistics"
+msgstr "gebeure statistieke"
+
+msgid "days"
+msgstr "dae"
+
+msgid "hours"
+msgstr "ure"
+
+msgid "minutes"
+msgstr "minute"
+
+msgid "Income & expense"
+msgstr "Inkomste & koste"
+
+msgid "Show chart"
+msgstr "Wys grafiek"
+
+msgid "Hide chart"
+msgstr "verberg grafiek"
+
+msgid "Add event"
+msgstr "gebeurtenis voeg"
+
+msgid "Add financial data"
+msgstr "Voeg finansiële data"
+
+msgid "Select contractor"
+msgstr "Kies kontrakteur"
+
+msgid "Net Income"
+msgstr "Netto inkomste"
+
+msgid "Revenue"
+msgstr "Inkomste"
+
+msgid "Taxes"
+msgstr "belasting"
+
+msgid "Amount planned"
+msgstr "bedrag beplan"
+
+msgid "Amount"
+msgstr "bedrag"
+
+msgid "Period"
+msgstr "tydperk"
+
+msgid "Are you sure to close this task?"
+msgstr "Is jy seker dat jy hierdie taak te sluit ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "Alle groepe"
+
+msgid "added from task"
+msgstr "bygevoeg taak"
+
+msgid "Monthly repeat"
+msgstr "maandelikse herhaling"
+
+msgid "Select category"
+msgstr "Kies kategorie"
+
+msgid "Event type"
+msgstr "tipe gebeurtenis"
+
+msgid "Margin"
+msgstr "marge"
+
+msgid "Use finance project"
+msgstr "Gebruik finansies projek"
+
+msgid "New investment project"
+msgstr "Nuwe belegging projek"
+
+msgid "Investment project settings"
+msgstr "Instellings belegging projek"
+
+msgid "Picture, for the announcement project"
+msgstr "Prentjie, vir die aankondiging projek"
+
+msgid "Announcement project"
+msgstr "aankondiging projek"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Photos or videos gallery"
+msgstr "Foto\'s of video\'s gallery"
+
+msgid "required amount"
+msgstr "vereiste bedrag"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Duur van die projek ( 60 dae maksimum )"
+
+msgid "Project duration"
+msgstr "duur van die projek"
+
+msgid "Add reward"
+msgstr "beloning voeg"
+
+msgid "Delivery date"
+msgstr "Afleweringsdatum"
+
+msgid "Payment systems"
+msgstr "betaling stelsels"
+
+msgid "Terms of service"
+msgstr "Terme van die diens"
+
+msgid "Agreement"
+msgstr "ooreenkoms"
+
+msgid "Payment"
+msgstr "betaling"
+
+msgid "My projects"
+msgstr "my projekte"
+
+msgid "Search result"
+msgstr "resultaat"
+
+msgid "Nothing not found"
+msgstr "Niks nie gevind"
+
+msgid "The project has no sponsors"
+msgstr "Die projek het geen borge"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Food"
+msgstr "Kos"
+
+msgid "Journalism"
+msgstr "joernalistiek"
+
+msgid "Games"
+msgstr "Spele"
+
+msgid "Art"
+msgstr "Art"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "Musiek"
+
+msgid "Handicrafts"
+msgstr "handwerk"
+
+msgid "Publishing"
+msgstr "Publishing"
+
+msgid "Theater"
+msgstr "teater"
+
+msgid "Technology"
+msgstr "tegnologie"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "foto"
+
+msgid "Dance"
+msgstr "dans"
+
+msgid "Invalid youtube video"
+msgstr "Ongeldig youtube video"
+
+msgid "is required"
+msgstr "word benodig"
+
+msgid "User"
+msgstr "gebruiker"
+
+msgid "Date"
+msgstr "datum"
+
+msgid "Collected"
+msgstr "ingesamel"
+
+msgid "Choose period"
+msgstr "kies tydperk"
+
+msgid "Choose region"
+msgstr "kies streek"
+
+msgid "Country"
+msgstr "land"
+
+msgid "Today"
+msgstr "vandag"
+
+msgid "Week"
+msgstr "week"
+
+msgid "Month"
+msgstr "maand"
+
+msgid "Year"
+msgstr "jaar"
+
+msgid "Free registration"
+msgstr "gratis registrasie"
+
+msgid "Join"
+msgstr "Sluit"
+
+msgid "Log in using"
+msgstr "Teken aan met"
+
+msgid "Vacancies"
+msgstr "werkgeleenthede"
+
+msgid "About Us"
+msgstr "Oor ons"
+
+msgid "You will need email to log in"
+msgstr "Jy sal e-pos moet aanmeld"
+
+msgid "A combination of 6 digits and characters"
+msgstr "\'N Kombinasie van 6 syfers en die karakters"
+
+msgid "Search users, groups, articles..."
+msgstr "Soek gebruikers , groepe, artikels ..."
+
+msgid "Cloud"
+msgstr "wolk"
+
+msgid "Sunday"
+msgstr "Sondag"
+
+msgid "Monday"
+msgstr "Maandag"
+
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+msgid "Wednesday"
+msgstr "Woensdag"
+
+msgid "Thursday"
+msgstr "Donderdag"
+
+msgid "Friday"
+msgstr "Vrydag"
+
+msgid "Saturday"
+msgstr "Saterdag"
+
+msgid "Edit"
+msgstr "wysig"
+
+msgid "Create group"
+msgstr "Skep groep"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Is jy seker jy wil hierdie bladsy te verlaat ?"
+
+msgid "More"
+msgstr "meer"
+
+msgid "Less"
+msgstr "minder"
+
+msgid "Pending"
+msgstr "hangende"
+
+msgid "Approved"
+msgstr "goedgekeur"
+
+msgid "Rejected"
+msgstr "verwerp"
+
+msgid "Subprojects"
+msgstr "subprojekte"
+
+msgid "Group edit"
+msgstr "groep wysig"
+
+msgid "Startup"
+msgstr "Startup"
+
+msgid "Tattoo"
+msgstr "Tatoeëermerk"
+
+msgid "Health"
+msgstr "gesondheid"
+
+msgid "Weapon"
+msgstr "wapen"
+
+msgid "Astronomy"
+msgstr "Sterrekunde"
+
+msgid "All articles"
+msgstr "Alle artikels"
+
+msgid "Article editor"
+msgstr "Artikel redakteur"
+
+msgid "Document editor"
+msgstr "dokument redakteur"
+
+msgid "Apply changes"
+msgstr "Pas veranderinge"
+
+msgid "Save changes?"
+msgstr "Stoor veranderinge?"
+
+msgid "published an article"
+msgstr "gepubliseer \'n artikel"
+
+msgid "Users"
+msgstr "gebruikers"
+
+msgid "Shared With Me"
+msgstr "Met my gedeel"
+
+msgid "share"
+msgstr "aandeel"
+
+msgid "Select Group Responsible"
+msgstr "Kies Groep Verantwoordelike"
+
+msgid "Create folder"
+msgstr "Skep gids"
+
+msgid "Title must be at least 3 characters"
+msgstr "Titel moet ten minste 3 karakters"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Gratis 10 GB, finansiële bestuurder , belê module , en baie ander vir vrye en vir ewig"
+
+msgid "Best regards"
+msgstr "Beste wense"
+
+msgid "Updates in last 12 hours:"
+msgstr "Updates in afgelope 12 uur :"
+
+msgid "expense"
+msgstr "koste"
+
+msgid "Commentary on the event:"
+msgstr "Kommentaar op die gebeurtenis:"
+
+msgid "Event place"
+msgstr "gebeurtenis"
+
+msgid "Project was updated"
+msgstr "Projek is opgedateer"
+
+msgid "Project was created"
+msgstr "Projek is geskep"
+
+msgid "Project was closed"
+msgstr "Projek is gesluit"
+
+msgid "account"
+msgstr "rekening"
+
+msgid "removed task"
+msgstr "verwyder taak"
+
+msgid "removed subproject"
+msgstr "verwyder subprojek"
+
+msgid "Title can not be empty"
+msgstr "Titel kan nie leeg wees"
+
+msgid "Do not select the type of event"
+msgstr "Moenie die tipe gebeurtenis nie kies"
+
+msgid "Error while saving comment"
+msgstr "Fout terwyl spaar kommentaar"
+
+msgid "Save error: access denied"
+msgstr "Slaan fout: toegang geweier"
+
+msgid "Remains"
+msgstr "oorblyfsels"
+
+msgid "Time spent, h."
+msgstr "Tyd bestee , h."
+
+msgid "Emails"
+msgstr "e-pos"
+
+msgid "Meetings"
+msgstr "vergaderings"
+
+msgid "All users"
+msgstr "Alle gebruikers"
+
+msgid "Category"
+msgstr "kategorie"
+
+msgid "Finance project"
+msgstr "Finansies projek"
+
+msgid "Investment project"
+msgstr "belegging projek"
+
+msgid "Nature"
+msgstr "Aard"
+
+msgid "Data is empty"
+msgstr "Data is leeg"
+
+msgid "Visitors"
+msgstr "besoekers"
+
+msgid "My profile"
+msgstr "My profiel"
+
+msgid "Sponsors"
+msgstr "borge"
+
+msgid "Prior to completion"
+msgstr "Voor die voltooiing"
+
+msgid "Select"
+msgstr "kies"
+
+msgid "My groups"
+msgstr "my groepe"
+
+msgid "The invitation has been sent successfully"
+msgstr "Die uitnodiging is suksesvol gestuur"
+
+msgid "Username has already been invited to this project"
+msgstr "Gebruikersnaam is reeds genooi om hierdie projek"
+
+msgid "The user is the creator of the project"
+msgstr "Die gebruiker is die skepper van die projek"
+
+msgid "Provide full access"
+msgstr "Verskaf volle toegang"
+
+msgid "Select elements to provide access"
+msgstr "Kies elemente om toegang te verleen"
+
+msgid "Select all"
+msgstr "Kies alles"
+
+msgid "User E-mail"
+msgstr "Gebruiker E -pos"
+
+msgid "Click on the field to select a category"
+msgstr "Klik op die veld om \'n kategorie te kies"
+
+msgid "Invitation was deleted"
+msgstr "Uitnodiging is verwyder"
+
+msgid "Permission denied"
+msgstr "Toestemming geweier"
+
+msgid "Printed"
+msgstr "gedrukte"
+
+msgid "Incorrect Contractor email"
+msgstr "Verkeerde Kontrakteur email"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Wil jy die projek voeg tot bestuurder finansier ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Om die registrasieproses te voltooi vul jou vaardighede"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "\'N pos met verdere instruksies is gestuur na jou e-pos adres"
+
+msgid "Submit"
+msgstr "Indien"
+
+msgid "Cars"
+msgstr "motors"
+
+msgid "Science"
+msgstr "Wetenskap"
+
+msgid "Donation"
+msgstr "skenking"
+
+msgid "Interests"
+msgstr "belange"
+
+msgid "Driver"
+msgstr "bestuurder"
+
+msgid "Sportsman"
+msgstr "sportman"
+
+msgid "Businessman"
+msgstr "sakeman"
+
+msgid "Accountant"
+msgstr "rekenmeester"
+
+msgid "Engineer"
+msgstr "ingenieur"
+
+msgid "Soldier"
+msgstr "soldaat"
+
+msgid "Next"
+msgstr "volgende"
+
+msgid "Hide group"
+msgstr "verberg groep"
+
+msgid "groups created"
+msgstr "groepe geskep"
+
+msgid "articles written"
+msgstr "artikels geskryf"
+
+msgid "These groups may be interesting for you"
+msgstr "Hierdie groepe kan interessant wees vir jou"
+
+msgid "About Group"
+msgstr "oor Group"
+
+msgid "view(s)"
+msgstr "view (s)"
+
+msgid "Favorite users"
+msgstr "gunsteling gebruikers"
+
+msgid "No accounts"
+msgstr "geen rekeninge"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook magtiging misluk."
+
+msgid "Authorization Required"
+msgstr "word vereis"
+
+msgid "You have to make a call:"
+msgstr "Jy moet \'n oproep te maak :"
+
+msgid "You have to send an email:"
+msgstr "Jy moet \'n e-pos te stuur :"
+
+msgid "You have a meetup:"
+msgstr "Jy het \'n beter is :"
+
+msgid "You event :"
+msgstr "Jy gebeurtenis :"
+
+msgid "Participants:"
+msgstr "deelnemers:"
+
+msgid "Search"
+msgstr "Soek"
+
+msgid "News"
+msgstr "Nuus"
+
+msgid "Investments"
+msgstr "beleggings"
+
+msgid "Back to Cloud"
+msgstr "Terug na Wolk"
+
+msgid "Documents"
+msgstr "dokumente"
+
+msgid "Planet"
+msgstr "Planet"
+
+msgid "Group url"
+msgstr "groep url"
+
+msgid "Profile url"
+msgstr "profiel url"
+
+msgid "Already taken"
+msgstr "reeds geneem"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Ten minste 1 letter en 3 karakters lank vereis"
+
+msgid "Digit can not be the first character"
+msgstr "Syfer kan die eerste karakter nie"
+
+msgid "Enter valid email address"
+msgstr "Gee geldige e-posadres"
+
+msgid "Enter your skills"
+msgstr "Gee jou vaardighede"
+
+msgid "Enter your first name"
+msgstr "Verskaf jou naam"
+
+msgid "Enter your last name"
+msgstr "Tik jou naam"
+
+msgid "Enter your first name and last name"
+msgstr "Verskaf jou naam en laaste naam"
+
+msgid "Your first name?"
+msgstr "Jou naam ?"
+
+msgid "Your last name?"
+msgstr "Jou laaste naam?"
+
+msgid "What are your proficiencies?"
+msgstr "Wat is jou bekwaamhede ?"
+
+msgid "Select country"
+msgstr "kies"
+
+msgid "Select user"
+msgstr "Kies gebruikers"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Vervul jou droom ! Skep en saam ."
+
+msgid "date moved from"
+msgstr "datum verskuif vanaf"
+
+msgid "work"
+msgstr "werk"
+
+msgid "Conference"
+msgstr "konferensie"
+
+msgid "personal"
+msgstr "persoonlike"
+
+msgid "Holiday"
+msgstr "Vakansie"
+
+msgid "Past"
+msgstr "Past"
+
+msgid "Future"
+msgstr "Toekomstige"
+
+msgid "Purchase"
+msgstr "Aankoop"
+
+msgid "Personal events"
+msgstr "Private gebeure"
+
+msgid "Conferences"
+msgstr "Ontmoet"
+
+msgid "Holidays"
+msgstr "Vakansies"
+
+msgid "Sport events"
+msgstr "Sportgeleenthede"
+
+msgid "Tasks"
+msgstr "Take"
+
+msgid "Other events"
+msgstr "Ander gebeure"
+
+msgid "Set aside"
+msgstr "Meenemen"
+
+msgid "Set aside"
+msgstr "Uitgestel"
+
+msgid "Time management"
+msgstr "Time Management"
+
+msgid "Delayed events"
+msgstr "Uitgestelde gebeure"
+
+msgid "Delayed"
+msgstr "Uitgestel"
+
+msgid "Bind to"
+msgstr "Toewys"
+
+msgid "answered your comment to"
+msgstr "Ek het gesê (a) kommentaar op die artikel"
+
+msgid "commented your article"
+msgstr "Ek het kommentaar gelewer op jou artikel"
+
+msgid "You\'ve answered on comment to"
+msgstr "Jy het gereageer op die kommentaar op die artikel"
+
+msgid "You\'ve commented an article"
+msgstr "Jy kommentaar op die artikel"
+
+msgid "Terms and Conditions"
+msgstr "Terme en voorwaardes"
+
+msgid "Privacy Policy"
+msgstr "Privaatheids Beleid"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Deur te klik op \"sign up\" jy saam met ons en erken dat jy gelees het ons"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Sluit aan by die gemeenskap van kreatiewe mense van oor die hele wêreld! Jy sal ontvang: Belegging in jou idees, \'n geleentheid om sy span te samel, werk in \'n groep, die finansiële bestuurder, die bestuur van hul tyd, 2 GB in die stoor en nog baie meer. En dit is gratis!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Jammer, maar die bladsy wat jy soek bestaan ​​nie. As jy dink dat om te blameer ons kontak ons"
+
+msgid "Return"
+msgstr "Terugkeer"
+
+msgid "COMMON"
+msgstr "Totaal"
+
+msgid "My events"
+msgstr "My Events"
+
+msgid "Job opening"
+msgstr "Nuwe vakature"
+
+msgid "Employment"
+msgstr "Tipe werk"
+
+msgid "Working hours"
+msgstr "Ure"
+
+msgid "City"
+msgstr "Plaas"
+
+msgid "Wages"
+msgstr "Salaris"
+
+msgid "Currency"
+msgstr "Geldeenheid"
+
+msgid "Experience"
+msgstr "Ervaring"
+
+msgid "Full-time"
+msgstr "Volle indiensneming"
+
+msgid "Part-time"
+msgstr "Deeltyds"
+
+msgid "Project employment"
+msgstr "Projek / Tydelike"
+
+msgid "Volunteer"
+msgstr "Vrywilligheidswerk"
+
+msgid "Internship"
+msgstr "Stage"
+
+msgid "Full day"
+msgstr "Voltydse"
+
+msgid "Shifts"
+msgstr "Vervanging skedule"
+
+msgid "Flexible shifts"
+msgstr "Buigsame skedule"
+
+msgid "Remote work"
+msgstr "Afgeleë werk"
+
+msgid "Rotational basis"
+msgstr "Verskuiwing metode"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Is jy seker jy wil die comment verwyder?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Is jy seker jy wil hierdie taak te verwyder?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Is jy seker jy wil hierdie sub-projek te verwyder?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Jy aansoek gedoen het om die maatskappy in die posisie. Maak asseblief seker dat die"
+
+msgid "Your request to for job has been rejected"
+msgstr "Jou versoek om die maatskappy te posisioneer afgekeur"
+
+msgid "Your request to for job has been accepted"
+msgstr "Jou versoek om die maatskappy te standpunt is"
+
+msgid "profile is completed"
+msgstr "Jou profiel is vol"
+
+msgid "Use account"
+msgstr "Gebruik rekening"
+
+msgid "$/hr"
+msgstr "$ / Uur"
+
+msgid "Finance category"
+msgstr "Finansiële kategorie"
+
+msgid "No projects"
+msgstr "Geen projekte"
+
+msgid "Bind to finances"
+msgstr "Toewys finansiële projek"
+
+msgid "Preview"
+msgstr "View"
+
+msgid "Download"
+msgstr "Aflaai"
+
+msgid "Save to my cloud"
+msgstr "Kopieer die bewaarplek"
+
+msgid "File successfully saved to your cloud"
+msgstr "Lêer suksesvol gestoor in jou repository"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Slaan hierdie lêer in jou repository?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Kies \'n kategorie Artikel"
+
+msgid "Type something"
+msgstr "Skryf iets"
+
+msgid "Founded users"
+msgstr "Gevind gebruikers"
+
+msgid "Founded articles"
+msgstr "Gevind artikel"
+
+msgid "Founded groups"
+msgstr "Gestig groep"
+
+msgid "What are your skills?"
+msgstr "Wat is jou vaardighede?"
+
+msgid "Select at least 2 interests"
+msgstr "Kies ten minste 2 rente"
+
+msgid "Need more interests"
+msgstr "Nie genoeg belangstelling gekies"
+
+msgid "What are you interesting in?"
+msgstr "Wat is jy belangstel?"
+
+msgid "You have no dialogs"
+msgstr "Jy hoef nie dialoë het"
+
+msgid "Usage Stats"
+msgstr "Toestand van"
+
+msgid "Founded files"
+msgstr "Lêers gevind"
+
+msgid "Big tiles"
+msgstr "Groot teëls"
+
+msgid "Small tiles"
+msgstr "Klein teëls"
+
+msgid "Table view"
+msgstr "Table View"
+
+msgid "Root folder"
+msgstr "Die root gids"
+
+msgid "My files"
+msgstr "My Files"
+
+msgid "Save as draft"
+msgstr "Stoor as concept"
+
+msgid "Buy More Space"
+msgstr "Koop meer ruimte"
+
+msgid "Buy"
+msgstr "Koop"
+
+msgid "You have been invited to group as"
+msgstr "Jy is uitgenooi om die groep as \'n"
+
+msgid "User wants to join your group"
+msgstr "Die gebruiker wil om jou groep aan te sluit"
+
+msgid "Section is coming soon!"
+msgstr "Artikel onder konstruksie!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Standpunte in die laaste 24 uur:"
+
+msgid "Task was updated"
+msgstr "Die taak is opgedateer"
+
+msgid "Task was closed"
+msgstr "Die uitdaging is gesluit"
+
+msgid "Task was created"
+msgstr "Die taak is gestig"
+
+msgid "Current balance"
+msgstr "Huidige balans"
+
+msgid "Add funds"
+msgstr "Voeg"
+
+msgid "Pay"
+msgstr "Checkout"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Jy het die getal van die login pogings oorskry. Jy is geblokkeer vir 15 minute"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Bevestig asseblief u e-pos. Die brief deur die pos aan u gestuur."
+
+msgid "Resend confirmation email"
+msgstr "Stuur \'n bevestiging weer"
+
+msgid "Disk 2Gb Monthly"
+msgstr "CD 2 GB per maand"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Ry 10 GB per jaar"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Skyf 100 GB elke jaar"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Skyf 1TB maandelikse"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Ry 1 TB elke jaar"
+
+msgid "Project members monthly"
+msgstr "Deelnemers van die projek op \'n maandelikse basis"
+
+msgid "Project members yearly"
+msgstr "Projek deelnemers jaarliks"
+
+msgid "Member(s) yearly"
+msgstr "Lid (s) per jaar"
+
+msgid "Member(s) monthly"
+msgstr "Lid (s) op \'n maandelikse basis"
+
+msgid "Authorized"
+msgstr "Gemagtigde"
+
+msgid "Authorization expired"
+msgstr "Magtiging verstryk"
+
+msgid "Processor declined"
+msgstr "Verwerp verwerking stelsel"
+
+msgid "Gateway rejected"
+msgstr "Verwerp betaling gateway"
+
+msgid "Failed"
+msgstr "Fout"
+
+msgid "Voided"
+msgstr "Nietig te verklaar"
+
+msgid "Submitted for settlement"
+msgstr "Gestuur om in te skryf"
+
+msgid "Settlement declined"
+msgstr "Inskrywing is verwerp"
+
+msgid "Settlement pending"
+msgstr "Hangende registrasie"
+
+msgid "Verified"
+msgstr "Nagegaan"
+
+msgid "Pending"
+msgstr "Hangende"
+
+msgid "Active"
+msgstr "Aktiewe"
+
+msgid "Past Due"
+msgstr "Verstryk"
+
+msgid "Expired"
+msgstr "Geëindig"
+
+msgid "Marketer"
+msgstr "Bemarker"
+
+msgid "India"
+msgstr "Indië"
+
+msgid "Malaysia"
+msgstr "Maleisië"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "South Korea"
+msgstr "Suid-Korea"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Ukraine"
+msgstr "Oekraïne"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Bulgaria"
+msgstr "Bulgarye"
+
+msgid "Turkey"
+msgstr "Turkye"
+
+msgid "Armenia"
+msgstr "Armenië"
+
+msgid "Serbia"
+msgstr "Serwië"
+
+msgid "Austria"
+msgstr "Oostenryk"
+
+msgid "Poland"
+msgstr "Pole"
+
+msgid "Germany"
+msgstr "Duitsland"
+
+msgid "Italy"
+msgstr "Italië"
+
+msgid "Netherlands"
+msgstr "Nederland"
+
+msgid "Ireland"
+msgstr "Ierland"
+
+msgid "United Kingdom"
+msgstr "Groot-Brittanje"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Norway"
+msgstr "Noorweë"
+
+msgid "United States"
+msgstr "Verenigde State"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Brazil"
+msgstr "Brasilië"
+
+msgid "Saudi Arabia"
+msgstr "Saoedi-Arabië"
+
+msgid "Canada"
+msgstr "Egipte"
+
+msgid "Russia"
+msgstr "Rusland"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Op die oomblik is, was daar nie \'n enkele transaksie"
+
+msgid "Fulfill your dream"
+msgstr "Vervul jou DROOM"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Sluit aan by ons gemeenskap van kreatiewe individue van regoor die wêreld."
+
+msgid "Create and Collaborate"
+msgstr "Skep en saam"
+
+msgid "Fulfill your dream"
+msgstr "VERVUL DROOM NOU"
+
+msgid "or"
+msgstr "of"
+
+msgid "Our mission:"
+msgstr "Ons missie:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Kreatiewe en aktiewe mense verenig om idees te implementeer van eenvoudige en in aanvraag te ongelooflik en fantasties, dat ons toekoms kan vorm."
+
+msgid "What is Konstruktor?"
+msgstr "Wat is Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - is \'n deel van ons werklike lewe, wat aansienlik vergemaklik en vereenvoudig"
+
+msgid "*business processes"
+msgstr "* sakeprosesse"
+
+msgid "*materialization of creative ideas"
+msgstr "* materialisering van kreatiewe idees"
+
+msgid "*constructive cooperation"
+msgstr "* konstruktiewe samewerking"
+
+msgid "Make your dream!"
+msgstr "Maak jou droom!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "hoof uitvoerende beampte"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Spesiale Adviseur"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Gabriela Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Bestuurder, Software Development"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Senior prokureur"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Designer"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Deur te klik op die \"Next\" knoppie, jy aanvaar en stem met ons bepalings en voorwaardes, en erken jy dat jy ons Privaatheidsklousule gelees het."
+
+msgid "Incorrect login or password."
+msgstr "Verkeerde login of wagwoord."
+
+msgid "Password must be at least 6 characters"
+msgstr "Wagwoord moet ten minste 6 karakters"
+
+msgid "January"
+msgstr "Januarie"
+
+msgid "February"
+msgstr "Februarie"
+
+msgid "March"
+msgstr "Maart"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Mag"
+
+msgid "June"
+msgstr "Junie"
+
+msgid "July"
+msgstr "Julie"
+
+msgid "August"
+msgstr "Augustus"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "Desember"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Files"
+msgstr "Lêers"
+
+msgid "Statistic"
+msgstr "Statistiek"
+
+msgid "Support"
+msgstr "Ondersteuning"
+
+msgid "Exit"
+msgstr "Uitgang"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Marketing specialist"
+msgstr "Bemarking spesialis"
+
+msgid "Administrator"
+msgstr "Administrateur"
+
+msgid "Shared with me"
+msgstr "Met my gedeel"
+
+msgid "File Sharing"
+msgstr "Lêer Sharing"
+
+msgid "Provide access by link"
+msgstr "Toegang deur skakel"
+
+msgid "Provide Individual access"
+msgstr "Verskaf Individuele toegang"
+
+msgid "Provide edit access"
+msgstr "Verskaf toegang wysig"
+
+msgid "Share"
+msgstr "Deel"
+
+msgid "Files will be available only for selected users"
+msgstr "Lêers sal slegs beskikbaar wees vir geselekteerde gebruikers"
+
+msgid "With this link everyone can access to the files"
+msgstr "Met hierdie skakels almal kan toegang tot die lêers"
+
+msgid "Search users, groups, articles..."
+msgstr "Soek gebruikers, groepe, artikels ..."
+
+msgid "My Group"
+msgstr "My Groep"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Ons"
+
+msgid "Th"
+msgstr "Do"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "SA"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Die lêer is nie gekies"
+
+msgid "Set aside"
+msgstr "Tersyde gestel"
+
+msgid "Event time"
+msgstr "Event tyd"
+
+msgid "Work"
+msgstr "Werk"
+
+msgid "Personal"
+msgstr "Persoonlike"
+
+msgid "Time spent for work:"
+msgstr "Tyd spandeer vir werk:"
+
+msgid "Personal time spent:"
+msgstr "Persoonlike tyd bestee:"
+
+msgid "Present"
+msgstr "Teenwoordig"
+
+msgid "Common"
+msgstr "Algemene"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "Entertainment"
+msgstr "Vermaak"
+
+msgid "Select:"
+msgstr "Kies:"
+
+msgid "Invalid username or password."
+msgstr "Ongeldige gebruikersnaam of wagwoord."
+
+msgid "Try again."
+msgstr "Probeer weer."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "WAT Is jy belangstel in?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Kies ten minste 2 vaardighede: 2 bly"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Kies ten minste 2 vaardighede: 1 bly"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Kies ten minste 2 vaardighede: oorblyfsels"
+
+msgid "Active life"
+msgstr "Aktiewe lewe"
+
+msgid "Arts and culture"
+msgstr "Kuns en kultuur"
+
+msgid "Business"
+msgstr "Besigheid"
+
+msgid "Cinema"
+msgstr "Cinema"
+
+msgid "Communications"
+msgstr "Kommunikasie"
+
+msgid "Construction and repair"
+msgstr "Konstruksie en herstel"
+
+msgid "Cooking"
+msgstr "Kook"
+
+msgid "Education"
+msgstr "Onderwys"
+
+msgid "Electronics"
+msgstr "Electronics"
+
+msgid "Finances"
+msgstr "Finansies"
+
+msgid "Graphics and design"
+msgstr "Grafiese ontwerp en"
+
+msgid "Health"
+msgstr "Gesondheid"
+
+msgid "Home and family"
+msgstr "Huis en familie"
+
+msgid "Humor"
+msgstr "Humor"
+
+msgid "IT"
+msgstr "DIT"
+
+msgid "Industry"
+msgstr "Bedryf"
+
+msgid "Insurance"
+msgstr "Versekering"
+
+msgid "Literature"
+msgstr "Letterkunde"
+
+msgid "Mobile communications and internet"
+msgstr "Mobiele kommunikasie en internet"
+
+msgid "News and Media"
+msgstr "Nuus en Media"
+
+msgid "Pets"
+msgstr "Troeteldiere"
+
+msgid "Products and service"
+msgstr "Produkte en dienste"
+
+msgid "Real Estate"
+msgstr "Eiendom"
+
+msgid "Religion"
+msgstr "Geloof"
+
+msgid "Science and techs"
+msgstr "Wetenskap en Techs"
+
+msgid "Security"
+msgstr "Security"
+
+msgid "Society"
+msgstr "Society"
+
+msgid "Television"
+msgstr "Television"
+
+msgid "Travel"
+msgstr "Reis"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentinië"
+
+msgid "Australia"
+msgstr "Australië"
+
+msgid "Austria"
+msgstr "Oostenryk"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belgium"
+msgstr "België"
+
+msgid "Brazil"
+msgstr "Brasilië"
+
+msgid "Bulgaria"
+msgstr "Bulgarye"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Chile"
+msgstr "Chili"
+
+msgid "Denmark"
+msgstr "Denemarke"
+
+msgid "France"
+msgstr "Frankryk"
+
+msgid "Germany"
+msgstr "Duitsland"
+
+msgid "Greece"
+msgstr "Griekeland"
+
+msgid "Hungary"
+msgstr "Hongarye"
+
+msgid "Iceland"
+msgstr "Ysland"
+
+msgid "Ireland"
+msgstr "Ierland"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Italië"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Mexico"
+msgstr "Mexiko"
+
+msgid "Netherlands"
+msgstr "Nederland"
+
+msgid "New Zealand"
+msgstr "Nieu-Seeland"
+
+msgid "Norway"
+msgstr "Noorweë"
+
+msgid "Poland"
+msgstr "Pole"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Russia"
+msgstr "Rusland"
+
+msgid "Slovakia"
+msgstr "Slowakye"
+
+msgid "South Africa"
+msgstr "Suid-Afrika"
+
+msgid "South Korea"
+msgstr "Suid-Korea"
+
+msgid "Spain"
+msgstr "Spanje"
+
+msgid "Sweden"
+msgstr "Swede"
+
+msgid "Switzerland"
+msgstr "Switserland"
+
+msgid "Turkey"
+msgstr "Turkye"
+
+msgid "Ukraine"
+msgstr "Oekraïne"
+
+msgid "United Arab Emirates"
+msgstr "Verenigde Arabiese Emirate"
+
+msgid "United Kingdom"
+msgstr "Verenigde Koninkryk"
+
+msgid "United States"
+msgstr "Verenigde State"
+
+msgid "achievements"
+msgstr "prestasies"
+
+msgid "Investment management"
+msgstr "Beleggingsbestuur"
+
+msgid "Select..."
+msgstr "Kies ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "BELEGGINGSBESTUUR"
+
+msgid "Investors list"
+msgstr "Lys beleggers"
+
+msgid "My investments"
+msgstr "My beleggings"
+
+msgid "Create date"
+msgstr "Datum te skep"
+
+msgid "Author of the project"
+msgstr "Skrywer van die projek"
+
+msgid "Date and time"
+msgstr "Datum en tyd"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "NEXT"
+msgstr "VOLGENDE"
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid "Apply"
+msgstr "Toepassing"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Wetenskap"
+
+msgid "Architecture"
+msgstr "Argitektuur"
+
+msgid "Photography"
+msgstr "Photography"
+
+msgid "Designer"
+msgstr "Designer"
+
+msgid "IT specialist"
+msgstr "IT-spesialis"
+
+msgid "Agronomist"
+msgstr "Agronoom"
+
+msgid "Architect"
+msgstr "Argitek"
+
+msgid "Lawyer"
+msgstr "Prokureur"
+
+msgid "Writer"
+msgstr "Skrywer"
+
+msgid "Doctor"
+msgstr "Dokter"
+
+msgid "Scientist"
+msgstr "Wetenskaplike"
+
+msgid "Marketer"
+msgstr "Bemarker"
+
+msgid "Teacher"
+msgstr "Onderwyser"
+
+msgid "Cook"
+msgstr "Cook"
+
+msgid "Artist"
+msgstr "Artist"
+
+msgid "Photographer"
+msgstr "Fotograaf"
+
+msgid "Ecologist"
+msgstr "Ekoloog"
+
+msgid "Economist"
+msgstr "Economist"
+
+msgid "Logistician"
+msgstr "Logistiek"
+
+msgid "Journalist"
+msgstr "Joernalis"
+
+msgid "Builder"
+msgstr "Builder"
+
+msgid "These users may be interesting for you"
+msgstr "Hierdie gebruikers kan interessant wees vir jou"
+
+msgid "These articles may be interesting for you"
+msgstr "Hierdie artikels kan interessant wees vir jou"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Jy het by hierdie groep as Аdministrator"
+
+msgid "articles written."
+msgstr "artikels geskryf."
+
+msgid "groups created."
+msgstr "groepe geskep."
+
+msgid "Creation"
+msgstr "Skepping"
+
+msgid "Build a dream"
+msgstr "Bou 'n droom"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Lees meer interessante artikels - vry registrasie"

@@ -1,0 +1,3344 @@
+# Cymraeg (Валлийский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Cymraeg (Валлийский) <support@konstruktor.com>\n"
+"Language: Cymraeg (Валлийский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "enw defnyddiwr"
+
+msgid "Invalid username or password, try again"
+msgstr "Enw defnyddiwr neu gyfrinair anghywir. Ceisiwch eto ."
+
+msgid "Settings"
+msgstr "gosodiadau"
+
+msgid "Home"
+msgstr "Hafan"
+
+msgid "You must log in to access this page"
+msgstr "Rhaid i chi logio i mewn i weld y dudalen"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Mae eich sesiwn wedi cael ei dod i ben. Os gwelwch yn dda , relogin i wneud hyn"
+
+msgid "Save"
+msgstr "Cadw"
+
+msgid "Head Office"
+msgstr "Prif Swyddfa"
+
+msgid "Address"
+msgstr "cyfeiriad"
+
+msgid "Back"
+msgstr "Yn ôl"
+
+msgid "Apply"
+msgstr "Gwneud cais"
+
+msgid "Upload files…"
+msgstr "Lwytho ffeiliau ..."
+
+msgid "Set as main"
+msgstr "Gosod fel prif"
+
+msgid "Delete"
+msgstr "Dileu"
+
+msgid "Original image"
+msgstr "ddelwedd wreiddiol"
+
+msgid "Uploaded"
+msgstr "Llwythwyd i fyny"
+
+msgid "File name"
+msgstr "enw ffeil"
+
+msgid "File size"
+msgstr "maint y ffeil"
+
+msgid "Resolution"
+msgstr "Penderfyniad"
+
+msgid "Enlarge"
+msgstr "Enlarge"
+
+msgid "Links"
+msgstr "cysylltiadau"
+
+msgid "Original size"
+msgstr "faint gwreiddiol"
+
+msgid "For editor"
+msgstr "Ar gyfer golygydd"
+
+msgid "Resize"
+msgstr "Newid Maint"
+
+msgid "Width"
+msgstr "lled"
+
+msgid "Height"
+msgstr "uchder"
+
+msgid "Media URL"
+msgstr "cyfryngau URL"
+
+msgid "Add record"
+msgstr "Ychwanegu cofnod"
+
+msgid "Show filter settings"
+msgstr "Lleoliadau Dangos hidlo"
+
+msgid "Edit record"
+msgstr "golygu cofnod"
+
+msgid "Delete record"
+msgstr "Dileu cofnod"
+
+msgid "Delete checked records"
+msgstr "Dileu cofnodion eu gwirio"
+
+msgid "Dashboard"
+msgstr "dangosfwrdd"
+
+msgid "Password"
+msgstr "cyfrinair"
+
+msgid "Remember me"
+msgstr "Cofiwch fi"
+
+msgid "Login"
+msgstr "Mewngofnodi"
+
+msgid "Clean image cache"
+msgstr "Delwedd lân cache"
+
+msgid "Processing query..."
+msgstr "Prosesu ymholiad ..."
+
+msgid "CMS Development"
+msgstr "Datblygu CMS"
+
+msgid "Admin Home Page"
+msgstr "Admin Tudalen Gartref"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Hafan Agored Blaen - ben mewn tab newydd"
+
+msgid "Go to Site"
+msgstr "Ewch i Safle"
+
+msgid "Log out"
+msgstr "Allgofnodi"
+
+msgid "Send"
+msgstr "anfon"
+
+msgid "General"
+msgstr "cyffredinol"
+
+msgid "Title"
+msgstr "Teitl"
+
+msgid "Teaser"
+msgstr "teaser"
+
+msgid "Published"
+msgstr "cyhoeddwyd"
+
+msgid "Featured"
+msgstr "Sylw"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Field is mandatory"
+msgstr "Field yn orfodol"
+
+msgid "Sort Order"
+msgstr "Gorchymyn Trefnu"
+
+msgid "Upload"
+msgstr "Llwytho i fyny"
+
+msgid "Loading..."
+msgstr "Llwytho ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Chwefror"
+
+msgid "Mar"
+msgstr "Mawrth"
+
+msgid "Apr"
+msgstr "Ebrill"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "Jun"
+msgstr "Mehefin"
+
+msgid "Jul"
+msgstr "Gorffennaf"
+
+msgid "Aug"
+msgstr "Awst"
+
+msgid "Sep"
+msgstr "Medi"
+
+msgid "Oct"
+msgstr "Hydref"
+
+msgid "Nov"
+msgstr "Tachwedd"
+
+msgid "Dec"
+msgstr "Rhagfyr"
+
+msgid "Product already exists in the order"
+msgstr "Cynnyrch eisoes yn bodoli yn y drefn"
+
+msgid "Product does not exist"
+msgstr "Nid yw cynnyrch yn bodoli"
+
+msgid "Incorrect request"
+msgstr "cais anghywir"
+
+msgid "Products"
+msgstr "cynhyrchion"
+
+msgid "Product types"
+msgstr "fathau o gynnyrch"
+
+msgid "Contractors"
+msgstr "contractwyr"
+
+msgid "Contractor"
+msgstr "contractwr"
+
+msgid "Orders"
+msgstr "Gorchmynion"
+
+msgid "FAQ"
+msgstr "Cwestiynau Cyffredin"
+
+msgid "New order"
+msgstr "gorchymyn newydd"
+
+msgid "My orders"
+msgstr "fy gorchmynion"
+
+msgid "Recharge balance"
+msgstr "cydbwysedd Ail-lenwi\'r"
+
+msgid "Administrator"
+msgstr "Gweinyddwr"
+
+msgid "Incorrect event ID"
+msgstr "Anghywir ID digwyddiad"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "golygu contractwr"
+
+msgid "Create contractor"
+msgstr "creu contractwr"
+
+msgid "Edit question"
+msgstr "golygu cwestiwn"
+
+msgid "Create question"
+msgstr "creu cwestiwn"
+
+msgid "Edit order"
+msgstr "gorchymyn golygu"
+
+msgid "Create order"
+msgstr "creu trefn"
+
+msgid "Edit product"
+msgstr "golygu cynnyrch"
+
+msgid "Create product"
+msgstr "creu cynnyrch"
+
+msgid "Edit product type"
+msgstr "Golygu math o gynnyrch"
+
+msgid "Create product type"
+msgstr "Creu math o gynnyrch"
+
+msgid "You have received a file"
+msgstr "Rydych wedi derbyn ffeil"
+
+msgid "You received a file from"
+msgstr "Cawsoch ffeil gan"
+
+msgid "File has been uploaded"
+msgstr "Ffeil wedi ei llwytho i fyny"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "Ychydig iawn maint"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "eitemau"
+
+msgid "Remove"
+msgstr "Tynnu"
+
+msgid "Contact person"
+msgstr "person cyswllt"
+
+msgid "Email"
+msgstr "E-bost"
+
+msgid "Contractor phone"
+msgstr "ffôn contractwr"
+
+msgid "Contractor name"
+msgstr "enw\'r contractwr"
+
+msgid "Contractor details"
+msgstr "manylion contractwr"
+
+msgid "Order ID"
+msgstr "Gorchymyn ID"
+
+msgid "Sum"
+msgstr "swm"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Dewiswch y system dalu sy\'n addas i ail-lenwi eich balans"
+
+msgid "Recharge amount"
+msgstr "swm ad-daliad"
+
+msgid "Paid"
+msgstr "Cyflogedig"
+
+msgid "Shipped"
+msgstr "cludo"
+
+msgid "- No products in this order -"
+msgstr "- Nid oes unrhyw gynnyrch yn y drefn hon -"
+
+msgid "month"
+msgstr "mis"
+
+msgid "No user found"
+msgstr "O hyd i unrhyw ddefnyddiwr"
+
+msgid "Achievement"
+msgstr "cyflawniad"
+
+msgid "Confirmed accomplishments"
+msgstr "cyflawniadau cadarnhau"
+
+msgid "Remove achievement"
+msgstr "Tynnu cyrhaeddiad"
+
+msgid "Headquaters"
+msgstr "Pencadlys"
+
+msgid "Phone"
+msgstr "ffôn"
+
+msgid "Site URL and email"
+msgstr "URL safle ac e-bost"
+
+msgid "Remove address"
+msgstr "Tynnu gyfeiriad"
+
+msgid "Members"
+msgstr "Aelodau"
+
+msgid "Requires a payment"
+msgstr "Ei gwneud yn ofynnol taliad"
+
+msgid "Shipping"
+msgstr "llongau"
+
+msgid "Ready"
+msgstr "Yn barod"
+
+msgid "Find user..."
+msgstr "Dod o hyd i ddefnyddiwr ..."
+
+msgid "Order it"
+msgstr "archebu"
+
+msgid "Find group..."
+msgstr "Dod o hyd i grŵp ..."
+
+msgid "Find user or community..."
+msgstr "Dod o hyd i ddefnyddiwr neu gymuned ..."
+
+msgid "No item found"
+msgstr "Dim eitem dod o hyd"
+
+msgid "years"
+msgstr "flynyddoedd"
+
+msgid "Send message"
+msgstr "anfon neges"
+
+msgid "Message"
+msgstr "neges"
+
+msgid "To send message press Enter"
+msgstr "I anfon neges i\'r wasg Enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "I anfon neges CTRL + Enter wasg"
+
+msgid "Processing file(s)..."
+msgstr "Ffeil (iau) prosesu ..."
+
+msgid "Group settings"
+msgstr "lleoliadau grŵp"
+
+msgid "Create group"
+msgstr "creu grŵp"
+
+msgid "Group has been successfully saved"
+msgstr "Grŵp wedi ei gadw yn llwyddiannus"
+
+msgid "Group title"
+msgstr "teitl Group"
+
+msgid "Group video"
+msgstr "\'n fideo grŵp"
+
+msgid "Description"
+msgstr "Disgrifiad"
+
+msgid "Your role in group"
+msgstr "Eich rôl yn y grŵp"
+
+msgid "Role"
+msgstr "rôl"
+
+msgid "Photo or video gallery"
+msgstr "Photo neu fideo oriel"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Llwytho fideo"
+
+msgid "Add group address"
+msgstr "Ychwanegu cyfeiriad grŵp"
+
+msgid "Group articles"
+msgstr "erthyglau grŵp"
+
+msgid "No addresses yet"
+msgstr "Dim cyfeiriadau eto"
+
+msgid "Add group achievement"
+msgstr "Ychwanegu cyflawniad grŵp"
+
+msgid "No achivements yet"
+msgstr "Dim achivements eto"
+
+msgid "Are you sure to delete this user"
+msgstr "A ydych yn sicr ddileu\'r defnyddiwr"
+
+msgid "Add member"
+msgstr "Ychwanegu aelod"
+
+msgid "Are you sure to delete this record?"
+msgstr "A ydych yn sicr i ddileu\'r cofnod hwn ?"
+
+msgid "Join this group"
+msgstr "Ymuno â\'r grŵp hwn"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Mae eich gwahoddiad ei anfon at y gweinyddwr grŵp"
+
+msgid "All addresses"
+msgstr "Mae\'r holl gyfeiriadau"
+
+msgid "Collapse"
+msgstr "Collapse"
+
+msgid "Achievements"
+msgstr "cyflawniadau"
+
+msgid "Show more"
+msgstr "dangos mwy"
+
+msgid "Team"
+msgstr "tîm"
+
+msgid "Projects"
+msgstr "prosiectau"
+
+msgid "New project"
+msgstr "prosiect newydd"
+
+msgid "Project has not been created yet"
+msgstr "Nid yw prosiect wedi ei greu eto"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "Balans"
+
+msgid "Main page"
+msgstr "prif dudalen"
+
+msgid "Upload image"
+msgstr "image llwytho i fyny"
+
+msgid "My time"
+msgstr "Mae fy amser"
+
+msgid "Day"
+msgstr "dydd"
+
+msgid "Week"
+msgstr "wythnos"
+
+msgid "Project settings"
+msgstr "lleoliadau prosiect"
+
+msgid "Create project"
+msgstr "creu prosiect"
+
+msgid "Project has been successfully saved"
+msgstr "Prosiect wedi ei arbed yn llwyddiannus"
+
+msgid "Project name"
+msgstr "enw\'r prosiect"
+
+msgid "Deadline"
+msgstr "Dyddiad Cau"
+
+msgid "Close"
+msgstr "Cau"
+
+msgid "Manager"
+msgstr "Rheolwr"
+
+msgid "Assigned to"
+msgstr "neilltuo i"
+
+msgid "Discussion"
+msgstr "trafodaeth"
+
+msgid "Task was created"
+msgstr "Roedd Tasg a grëwyd"
+
+msgid "Task was closed"
+msgstr "Roedd Tasg gau"
+
+msgid "Go to Group"
+msgstr "Ewch i Grŵp"
+
+msgid "Closed"
+msgstr "Ar gau"
+
+msgid "Last updates"
+msgstr "diweddariadau diwethaf"
+
+msgid "Project is closed"
+msgstr "Prosiect yn cael ei gau"
+
+msgid "No open tasks"
+msgstr "Dim tasgau agored"
+
+msgid "New task"
+msgstr "tasg newydd"
+
+msgid "Closed tasks"
+msgstr "tasgau caeedig"
+
+msgid "Add subproject"
+msgstr "Ychwanegu subproject"
+
+msgid "Add task"
+msgstr "Ychwanegu tasg"
+
+msgid "Sun"
+msgstr "Dydd Sul"
+
+msgid "Mon"
+msgstr "Dydd Llun"
+
+msgid "Tue"
+msgstr "Dydd Mawrth"
+
+msgid "Wed"
+msgstr "Dydd Mercher"
+
+msgid "Thur"
+msgstr "Dydd Iau"
+
+msgid "Fri"
+msgstr "Dydd Gwener"
+
+msgid "Sat"
+msgstr "Dydd Sadwrn"
+
+msgid "Event title"
+msgstr "teitl y digwyddiad"
+
+msgid "Event description"
+msgstr "disgrifiad digwyddiad"
+
+msgid "I registered on this site"
+msgstr "Rwyf wedi cofrestru ar y safle hwn"
+
+msgid "Last created groups"
+msgstr "Grwpiau a grëwyd ddiwethaf"
+
+msgid "You joined this group as"
+msgstr "Rydych yn ymuno â grŵp hwn fel"
+
+msgid "You received a request to join the group"
+msgstr "Rydych yn derbyn cais i ymuno â\'r grŵp"
+
+msgid "Updated site"
+msgstr "safle Diweddarwyd"
+
+msgid "Site is under construction"
+msgstr "Safle yn cael ei hadeiladu"
+
+msgid "Last registered users"
+msgstr "Ddefnyddwyr cofrestredig diwethaf"
+
+msgid "User settings"
+msgstr "gosodiadau defnyddiwr"
+
+msgid "Technical support"
+msgstr "cymorth technegol"
+
+msgid "Change email"
+msgstr "Newid e-bost"
+
+msgid "Change password"
+msgstr "Newid cyfrinair"
+
+msgid "User has been successfully saved"
+msgstr "Defnyddiwr wedi ei gadw yn llwyddiannus"
+
+msgid "Full name"
+msgstr "enw llawn"
+
+msgid "My video"
+msgstr "fy fideo"
+
+msgid "Skills"
+msgstr "sgiliau"
+
+msgid "Birthday"
+msgstr "Pen-blwydd"
+
+msgid "Country of residence"
+msgstr "Gwlad breswyl"
+
+msgid "Country"
+msgstr "gwlad"
+
+msgid "Zip Code"
+msgstr "Cod Zip"
+
+msgid "City/town of residence"
+msgstr "Dinas / tref breswyl"
+
+msgid "University/college"
+msgstr "Brifysgol / coleg"
+
+msgid "University/college photo"
+msgstr "Prifysgol / photo coleg"
+
+msgid "Add user\'s accomplishments"
+msgstr "Ychwanegu cyflawniadau defnyddiwr"
+
+msgid "Interface language"
+msgstr "iaith rhyngwyneb"
+
+msgid "How other people see this page"
+msgstr "Sut mae pobl eraill yn gweld y dudalen hon"
+
+msgid "Video with me"
+msgstr "Video sa mnom"
+
+msgid "Groups"
+msgstr "grwpiau"
+
+msgid "Registered today"
+msgstr "heddiw cofrestredig"
+
+msgid "Qty"
+msgstr "Qty"
+
+msgid "No registered users yet"
+msgstr "Dim defnyddwyr cofrestredig eto"
+
+msgid "Total"
+msgstr "Cyfanswm"
+
+msgid "Registered total"
+msgstr "cyfanswm cofrestredig"
+
+msgid "You received a file"
+msgstr "Cawsoch ffeil"
+
+msgid "You were invited into this room"
+msgstr "Yr oeddech yn gwahodd i\'r ystafell hon"
+
+msgid "Request is being processed"
+msgstr "Cais yn cael ei brosesu"
+
+msgid "Fax"
+msgstr "ffacs"
+
+msgid "Messenger"
+msgstr "negesydd"
+
+msgid "New subproject"
+msgstr "subproject newydd"
+
+msgid "messages written."
+msgstr "negeseuon ysgrifenedig."
+
+msgid "projects created based on groups."
+msgstr "prosiectau a grëwyd yn seiliedig ar grwpiau ."
+
+msgid "users registered on website."
+msgstr "o ddefnyddwyr cofrestredig ar y wefan ."
+
+msgid "New email"
+msgstr "e-bost newydd"
+
+msgid "Confirm email"
+msgstr "cadarnhau e-bost"
+
+msgid "New password"
+msgstr "cyfrinair newydd"
+
+msgid "Confirm password"
+msgstr "cadarnhau cyfrinair"
+
+msgid "Occupation"
+msgstr "Arbenigol"
+
+msgid "Timezone"
+msgstr "Cylchfa amser"
+
+msgid "Answer"
+msgstr "ateb"
+
+msgid "Articles"
+msgstr "erthyglau"
+
+msgid "Article"
+msgstr "Erthygl"
+
+msgid "Video-article"
+msgstr "Fideo - erthygl"
+
+msgid "Find article..."
+msgstr "Dod o hyd i erthygl ..."
+
+msgid "Politics"
+msgstr "gwleidyddiaeth"
+
+msgid "Economics"
+msgstr "Economeg"
+
+msgid "Community"
+msgstr "cymuned"
+
+msgid "Culture"
+msgstr "diwylliant"
+
+msgid "Sports"
+msgstr "Chwaraeon"
+
+msgid "Hi-tech"
+msgstr "Uwch-dechnoleg"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Fashion"
+msgstr "Ffasiwn"
+
+msgid "Games"
+msgstr "gemau"
+
+msgid "Other"
+msgstr "arall"
+
+msgid "Invalid mediafile"
+msgstr "mediafile annilys"
+
+msgid "No articles in this category yet"
+msgstr "Dim erthyglau yn y categori hwn eto"
+
+msgid "Back to profile"
+msgstr "Yn ôl i\'r proffil"
+
+msgid "View article"
+msgstr "Gweld yr erthygl"
+
+msgid "Edit article"
+msgstr "golygu erthygl"
+
+msgid "Create article"
+msgstr "creu erthygl"
+
+msgid "Article title"
+msgstr "teitl erthygl"
+
+msgid "Article section"
+msgstr "adran Erthygl"
+
+msgid "Choose image"
+msgstr "Dewiswch ddelwedd"
+
+msgid "Save and upload"
+msgstr "Arbed a llwytho i fyny"
+
+msgid "Show more..."
+msgstr "Dangos mwy ..."
+
+msgid "Create"
+msgstr "creu"
+
+msgid "Edit"
+msgstr "golygu"
+
+msgid "Project"
+msgstr "prosiect"
+
+msgid "Team"
+msgstr "tîm"
+
+msgid "A new article was published"
+msgstr "Mae erthygl newydd ei gyhoeddi"
+
+msgid "You joined this project"
+msgstr "Rydych Ymunodd y prosiect hwn"
+
+msgid "Enter your information in the User settings"
+msgstr "Rhowch eich gwybodaeth yn y lleoliadau Defnyddwyr"
+
+msgid "Communities"
+msgstr "cymunedau"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Cyflwyniad fideo o fy cyflawniadau"
+
+msgid "My articles"
+msgstr "fy erthyglau"
+
+msgid "User"
+msgstr "defnyddiwr"
+
+msgid "Users"
+msgstr "defnyddwyr"
+
+msgid "Add new list"
+msgstr "Ychwanegu rhestr newydd"
+
+msgid "List title"
+msgstr "teitl y rhestr"
+
+msgid "Add"
+msgstr "Ychwanegu"
+
+msgid "Add to favorites"
+msgstr "Ychwanegu at ffefrynnau"
+
+msgid "Delete from favorites"
+msgstr "Dileu o\'r ffefrynnau"
+
+msgid "Select list"
+msgstr "Dewiswch rhestr"
+
+msgid "Subscriptions"
+msgstr "tanysgrifiadau"
+
+msgid "Subscribe"
+msgstr "Tanysgrifio"
+
+msgid "Unsubscribe"
+msgstr "Dad-danysgrifio"
+
+msgid "General list"
+msgstr "rhestr gyffredinol"
+
+msgid "No users in this list"
+msgstr "Dim defnyddwyr yn y rhestr hon"
+
+msgid "Publish"
+msgstr "cyhoeddi"
+
+msgid "Unpublish"
+msgstr "Peidio a chyhoeddi\'r"
+
+msgid "Add user"
+msgstr "Ychwanegu defnyddiwr"
+
+msgid "Create document"
+msgstr "creu dogfen"
+
+msgid "Edit document"
+msgstr "dogfen golygu"
+
+msgid "View"
+msgstr "View"
+
+msgid "Document title"
+msgstr "teitl y ddogfen"
+
+msgid "Find document..."
+msgstr "Dod o hyd i ddogfen ..."
+
+msgid "Share your thoughts"
+msgstr "Rhannwch eich meddyliau"
+
+msgid "Leave your comment"
+msgstr "Gadewch eich sylwadau"
+
+msgid "Accept"
+msgstr "derbyn"
+
+msgid "Decline"
+msgstr "dirywiad"
+
+msgid "Add article"
+msgstr "Ychwanegu erthygl"
+
+msgid "Link to verified accomplishments"
+msgstr "Cyswllt i cyflawniadau gwirio"
+
+msgid "No articles here yet..."
+msgstr "Dim erthyglau yma eto ..."
+
+msgid "Find file or folder..."
+msgstr "Dod o hyd i ffeil neu ffolder ..."
+
+msgid "Sort"
+msgstr "Trefnu yn"
+
+msgid "By name"
+msgstr "yn ôl enw"
+
+msgid "By date"
+msgstr "Yn ôl dyddiad"
+
+msgid "By updated date"
+msgstr "Yn ôl dyddiad diweddaru"
+
+msgid "By size"
+msgstr "Yn ôl maint"
+
+msgid "By type"
+msgstr "yn ôl math"
+
+msgid "Move"
+msgstr "symud"
+
+msgid "File Manager"
+msgstr "Rheolwr ffeil"
+
+msgid "Share link"
+msgstr "cyswllt Share"
+
+msgid "Responsible"
+msgstr "cyfrifol"
+
+msgid "Performer"
+msgstr "perfformiwr"
+
+msgid "New Folder"
+msgstr "Plygell newydd"
+
+msgid "Folder name"
+msgstr "enw\'r ffolder"
+
+msgid "By default"
+msgstr "Yn ddiofyn"
+
+msgid "Back to group"
+msgstr "Yn ôl i\'r grŵp"
+
+msgid "year(s)"
+msgstr "blwyddyn (au)"
+
+msgid "January"
+msgstr "Ionawr"
+
+msgid "February"
+msgstr "Chwefror"
+
+msgid "March"
+msgstr "Mawrth"
+
+msgid "April"
+msgstr "Ebrill"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "June"
+msgstr "Mehefin"
+
+msgid "July"
+msgstr "Gorffennaf"
+
+msgid "August"
+msgstr "Awst"
+
+msgid "September"
+msgstr "Medi"
+
+msgid "October"
+msgstr "Hydref"
+
+msgid "November"
+msgstr "Tachwedd"
+
+msgid "December"
+msgstr "Rhagfyr"
+
+msgid "Password Reminder"
+msgstr "Nodyn Atgoffa cyfrinair"
+
+msgid "Log In"
+msgstr "Mewngofnodi"
+
+msgid "Sign in"
+msgstr "Arwyddo i mewn"
+
+msgid "Register"
+msgstr "Cofrestru"
+
+msgid "First name"
+msgstr "Enw cyntaf"
+
+msgid "Last name"
+msgstr "Cyfenw"
+
+msgid "I agree with rules"
+msgstr "Yr wyf yn cytuno â rheolau"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Roedd bost cadarnhad ei anfon at eich cyfeiriad e-bost."
+
+msgid "Thanks"
+msgstr "diolch"
+
+msgid "Password must be at least 6 characters"
+msgstr "Rhaid i\'r cyfrinair fod o leiaf 6 nod"
+
+msgid "Creative Environment"
+msgstr "Yr Amgylchedd creadigol"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Mae angen i chi fod o leiaf dair blynedd ar ddeg oed i ddefnyddio\'r gwasanaeth hwn"
+
+msgid "Order status"
+msgstr "statws Gorchymyn"
+
+msgid "Processing order"
+msgstr "gorchymyn prosesu"
+
+msgid "Requires a payment"
+msgstr "Yn gofyn taliad"
+
+msgid "Shipping"
+msgstr "llongau"
+
+msgid "Ready"
+msgstr "Yn barod"
+
+msgid "Thank you for your payment"
+msgstr "Diolch i chi am eich taliad"
+
+msgid "Your payment has been cancelled"
+msgstr "Mae eich taliad wedi cael ei ganslo"
+
+msgid "page"
+msgstr "dudalen"
+
+msgid "Rent period"
+msgstr "cyfnod rhent"
+
+msgid "Total, month"
+msgstr "Cyfanswm y myfyrwyr, mis"
+
+msgid "Order items"
+msgstr "eitemau Gorchymyn"
+
+msgid "No records found"
+msgstr "Ni ddarganfuwyd unrhyw gofnod"
+
+msgid "User with this email is already exist"
+msgstr "Defnyddiwr gyda\'r bost hon yw eisoes yn bodoli"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Ffolder neu ffeil gydag enw o\'r fath eisoes yn bodoli mewn ffolder cyrchfan"
+
+msgid "Minimal quantity"
+msgstr "Ychydig iawn faint"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "copïau print"
+
+msgid "Terms of Use"
+msgstr "Telerau Defnyddio"
+
+msgid "Privacy Policy"
+msgstr "Polisi Preifatrwydd"
+
+msgid "Find project..."
+msgstr "Dod o hyd i brosiect ..."
+
+msgid "New Project"
+msgstr "Prosiect Newydd"
+
+msgid "Accounts"
+msgstr "cyfrifon"
+
+msgid "Operations"
+msgstr "gweithrediadau"
+
+msgid "All accounts"
+msgstr "bob cyfrif"
+
+msgid "All categories"
+msgstr "Mae pob categori"
+
+msgid "Expense"
+msgstr "traul"
+
+msgid "Income"
+msgstr "incwm"
+
+msgid "Transfer"
+msgstr "trosglwyddo"
+
+msgid "Expense"
+msgstr "traul"
+
+msgid "income"
+msgstr "incwm"
+
+msgid "tax"
+msgstr "treth"
+
+msgid "percent"
+msgstr "y cant"
+
+msgid "transfer"
+msgstr "trosglwyddo"
+
+msgid "Make operation"
+msgstr "Gwneud gweithredu"
+
+msgid "Select date"
+msgstr "Dewiswch ddyddiad"
+
+msgid "Select account"
+msgstr "Dewiswch cyfrif"
+
+msgid "Month"
+msgstr "mis"
+
+msgid "Quarter"
+msgstr "chwarter"
+
+msgid "Year"
+msgstr "blwyddyn"
+
+msgid "From"
+msgstr "o"
+
+msgid "To"
+msgstr "i"
+
+msgid "Expense amount"
+msgstr "swm traul"
+
+msgid "Categories"
+msgstr "categorïau"
+
+msgid "Comments"
+msgstr "sylwadau"
+
+msgid "Income amount"
+msgstr "swm yr incwm"
+
+msgid "Transfer amount"
+msgstr "swm trosglwyddo"
+
+msgid "From account"
+msgstr "o gyfrif"
+
+msgid "To account"
+msgstr "I gyfrif"
+
+msgid "New Account"
+msgstr "Cyfrif Newydd"
+
+msgid "New Category"
+msgstr "newydd Categori"
+
+msgid "All"
+msgstr "All"
+
+msgid "Name"
+msgstr "enw"
+
+msgid "Enter category name"
+msgstr "Rhowch enw categori"
+
+msgid "Select type"
+msgstr "Dewiswch math"
+
+msgid "Credit card"
+msgstr "Cerdyn credyd"
+
+msgid "Debit card"
+msgstr "Cerdyn debyd"
+
+msgid "Bank account"
+msgstr "cyfrif banc"
+
+msgid "Cash"
+msgstr "arian"
+
+msgid "Balance is empty"
+msgstr "Balans yn wag"
+
+msgid "Statistic is empty"
+msgstr "Ystadegau yn wag"
+
+msgid "Regular payments"
+msgstr "taliadau rheolaidd"
+
+msgid "Are you sure ?"
+msgstr "Wyt ti\'n siwr ?"
+
+msgid "Are you sure to close this project?"
+msgstr "A ydych yn sicr i gau\'r prosiect hwn?"
+
+msgid "Project was deleted successfully"
+msgstr "Prosiect ei ddileu yn llwyddiannus"
+
+msgid "Select currency"
+msgstr "Dewiswch cyfred"
+
+msgid "Account"
+msgstr "cyfrif"
+
+msgid "Orders list"
+msgstr "rhestr Gorchmynion"
+
+msgid "Order payments"
+msgstr "taliadau Gorchymyn"
+
+msgid "View order"
+msgstr "Gweld gorchymyn"
+
+msgid "No response from Printer API"
+msgstr "Dim ymateb gan API Argraffydd"
+
+msgid "Bad response from Printer API"
+msgstr "Ymateb gwael gan API Argraffydd"
+
+msgid "User ID"
+msgstr "ID defnyddiwr"
+
+msgid "Contact Person"
+msgstr "Person Cyswllt"
+
+msgid "No orders to process"
+msgstr "Dim gorchmynion i brosesu"
+
+msgid "Article announce image"
+msgstr "Erthygl cyhoeddi image"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Url fideo annilys . Gadewch yn wag neu rhowch url youtube dilys"
+
+msgid "Please, enter Contractor data"
+msgstr "Os gwelwch yn dda , rhowch data Contractwr"
+
+msgid "Distribute devices"
+msgstr "dosbarthu dyfeisiau"
+
+msgid "Quantity"
+msgstr "Nifer"
+
+msgid "Devices left"
+msgstr "dyfeisiau chwith"
+
+msgid "Distributed devices"
+msgstr "dyfeisiau Ddosbarthwyd"
+
+msgid "You must enter quantity"
+msgstr "Mae\'n rhaid i chi fynd i mewn swmp"
+
+msgid "All devices are distributed"
+msgstr "Mae pob dyfeisiau yn cael eu dosbarthu"
+
+msgid "IP address"
+msgstr "cyfeiriad IP"
+
+msgid "Only for printer"
+msgstr "Dim ond ar gyfer argraffydd"
+
+msgid "Counter"
+msgstr "counter"
+
+msgid "You was excluded from this room"
+msgstr "Rydych yn ei hepgor o\'r ystafell hon"
+
+msgid "Compare"
+msgstr "cymharu"
+
+msgid "Scheduled transaction"
+msgstr "trafodiad Rhestredig"
+
+msgid "Select transfer account"
+msgstr "Cyfrif trosglwyddo Dewiswch"
+
+msgid "Select income account"
+msgstr "Cyfrif incwm Dewiswch"
+
+msgid "Reports"
+msgstr "adroddiadau"
+
+msgid "Goals"
+msgstr "nodau"
+
+msgid "Budgets"
+msgstr "cyllidebau"
+
+msgid "Enter user name or email..."
+msgstr "Rhowch enw defnyddiwr neu e-bostiwch ..."
+
+msgid "Invite had been sended"
+msgstr "Gwahodd wedi cael ei sended"
+
+msgid "Statistics"
+msgstr "Ystadegau"
+
+msgid "Updated site began to work"
+msgstr "Dechreuodd safle Diweddarwyd i weithio"
+
+msgid "City of residence"
+msgstr "Dinas preswyl"
+
+msgid "Edit favourites list"
+msgstr "Rhestr Golygu ffefrynnau"
+
+msgid "Add favourites list"
+msgstr "Ychwanegu rhestr ffefrynnau"
+
+msgid "Categories is required"
+msgstr "Mae angen Categorïau"
+
+msgid "Type new category name and hit Enter"
+msgstr "Teipiwch enw categori newydd a daro Enter"
+
+msgid "You created an order"
+msgstr "Rydych yn creu gorchymyn"
+
+msgid "You received a device due to this order"
+msgstr "Cawsoch dyfais oherwydd y gorchymyn hwn"
+
+msgid "%s attached %s to task %s"
+msgstr "%s %s ynghlwm i dasg %s"
+
+msgid "member(s)"
+msgstr "aelod (au)"
+
+msgid "%s commented task %s"
+msgstr "%s tasg sylwadau %s"
+
+msgid "%s closed task %s"
+msgstr "%s tasg caeedig %s"
+
+msgid "%s created task %s"
+msgstr "%s tasg creu %s"
+
+msgid "%s created this project"
+msgstr "%s creu prosiect hwn"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s subproject greu \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s prosiect caeedig \"%s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s subproject caeedig \"%s\""
+
+msgid "This field must not be blank"
+msgstr "Ni ddylai hwn fod yn wag maes"
+
+msgid "Document with such name is already exist"
+msgstr "Dogfen gydag enw o\'r fath yn bodoli eisoes"
+
+msgid "Wait until image upload"
+msgstr "Arhoswch nes delwedd llwytho i fyny"
+
+msgid "Video"
+msgstr "fideo"
+
+msgid "Message can not be empty"
+msgstr "Ni all Neges fod yn wag"
+
+msgid "Yes"
+msgstr "Ydy"
+
+msgid "No"
+msgstr "Na"
+
+msgid "Created"
+msgstr "Crëwyd"
+
+msgid "Compare is empty"
+msgstr "Cymharu yn wag"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Ydych chi\'n siŵr eich bod am ddileu gweithrediad"
+
+msgid "Do you really want to delete transaction"
+msgstr "Ydych chi wir am ddileu trafodiad"
+
+msgid "Project with same name already exists"
+msgstr "Prosiect gydag un enw yn bodoli eisoes"
+
+msgid "Account is not found"
+msgstr "Nid yw cyfrif yn cael ei dod o hyd"
+
+msgid "Currency is required"
+msgstr "Mae angen Arian cyfred"
+
+msgid "error while deleting document"
+msgstr "gwall wrth ddileu ddogfen"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Rydych yn gwahodd defnyddiwr \"%s\" yn yr ystafell hon"
+
+msgid "User \"%s\" joined this room"
+msgstr "Defnyddiwr \" %s \" Ymunodd ystafell hon"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Rydych waharddwyd defnyddiwr \"%s \" o\'r ystafell hon"
+
+msgid "User \"%s\" left this room"
+msgstr "Defnyddiwr \" %s \" gadael yr ystafell hon"
+
+msgid "Add account"
+msgstr "Ychwanegu cyfrif"
+
+msgid "The requested page is not found"
+msgstr "Nid yw\'r dudalen gofynnir i\'w gael"
+
+msgid "Document"
+msgstr "dogfen"
+
+msgid "Table"
+msgstr "Tabl"
+
+msgid "file(s)"
+msgstr "ffeil (iau)"
+
+msgid "Residue"
+msgstr "gweddillion"
+
+msgid "Result is empty"
+msgstr "Canlyniad yn wag"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Mae cyfanswm y swm hwn yn %s ar gyfer %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Mae\'n rhaid i chi adneuo %s yn fisol i gyfrif cysylltiedig"
+
+msgid "Start"
+msgstr "dechrau"
+
+msgid "finish"
+msgstr "gorffen"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Cyfrif dewisiedig eisoes yn cael ei ddefnyddio ar gyfer gôl arall"
+
+msgid "Amount required"
+msgstr "swm sy\'n ofynnol"
+
+msgid "New goal"
+msgstr "nod newydd"
+
+msgid "Goal"
+msgstr "nod"
+
+msgid "Goal name"
+msgstr "enw\'r nod"
+
+msgid "Invalid date"
+msgstr "dyddiad annilys"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Rhaid i swm angenrheidiol fod yn rhif positif"
+
+msgid "Remain"
+msgstr "Parhau i fod yn"
+
+msgid "Last day"
+msgstr "diwrnod olaf"
+
+msgid "Accumulated"
+msgstr "cronedig"
+
+msgid "Put aside"
+msgstr "Rhowch o\'r neilltu"
+
+msgid "January"
+msgstr "Ionawr"
+
+msgid "February"
+msgstr "Chwefror"
+
+msgid "March"
+msgstr "Mawrth"
+
+msgid "April"
+msgstr "Ebrill"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "June"
+msgstr "Mehefin"
+
+msgid "July"
+msgstr "Gorffennaf"
+
+msgid "August"
+msgstr "Awst"
+
+msgid "September"
+msgstr "Medi"
+
+msgid "October"
+msgstr "Hydref"
+
+msgid "November"
+msgstr "Tachwedd"
+
+msgid "December"
+msgstr "Rhagfyr"
+
+msgid "Expenses projected/actual"
+msgstr "Treuliau a ragwelir / gwirioneddol"
+
+msgid "Net Income projected/actual"
+msgstr "Incwm Net a ragwelir / gwirioneddol"
+
+msgid "New budget"
+msgstr "gyllideb newydd"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Refeniw a Threuliau Siart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Cyllideb gyda un pâr o gyfrif a chategori eisoes yn bodoli"
+
+msgid "Budget is empty"
+msgstr "Cyllideb yn wag"
+
+msgid "Budget"
+msgstr "cyllideb"
+
+msgid "plan"
+msgstr "cynllun"
+
+msgid "fact"
+msgstr "ffaith"
+
+msgid "diff"
+msgstr "gwahan"
+
+msgid "Show More"
+msgstr "dangos Mwy"
+
+msgid "Cancel"
+msgstr "Diddymu"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "fy gwerthiant"
+
+msgid "Time spent"
+msgstr "amser a dreuliwyd"
+
+msgid "Total time spent"
+msgstr "Cyfanswm yr amser a dreuliwyd"
+
+msgid "Earnings per hour"
+msgstr "Enillion yr awr"
+
+msgid "Total earnings"
+msgstr "Cyfanswm enillion"
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Phone call"
+msgstr "galwad ffôn"
+
+msgid "Telephone calls"
+msgstr "galwadau ffôn"
+
+msgid "Send email"
+msgstr "Anfon e-bost"
+
+msgid "Emails"
+msgstr "Negeseuon e-bost"
+
+msgid "Meeting"
+msgstr "Cyfarfod"
+
+msgid "Meetings"
+msgstr "cyfarfodydd"
+
+msgid "All events"
+msgstr "pob digwyddiad"
+
+msgid "Task"
+msgstr "tasg"
+
+msgid "Event"
+msgstr "digwyddiad"
+
+msgid "Events"
+msgstr "Digwyddiadau"
+
+msgid "Time"
+msgstr "amser"
+
+msgid "Events statistics"
+msgstr "ystadegau Digwyddiadau"
+
+msgid "days"
+msgstr "diwrnod"
+
+msgid "hours"
+msgstr "oriau"
+
+msgid "minutes"
+msgstr "cofnodion"
+
+msgid "Income & expense"
+msgstr "Incwm a traul"
+
+msgid "Show chart"
+msgstr "dangos siart"
+
+msgid "Hide chart"
+msgstr "Cuddio siart"
+
+msgid "Add event"
+msgstr "Ychwanegu digwyddiad"
+
+msgid "Add financial data"
+msgstr "Ychwanegu ddata ariannol"
+
+msgid "Select contractor"
+msgstr "Dewiswch gontractwr"
+
+msgid "Net Income"
+msgstr "Incwm net"
+
+msgid "Revenue"
+msgstr "refeniw"
+
+msgid "Taxes"
+msgstr "trethi"
+
+msgid "Amount planned"
+msgstr "swm a gynlluniwyd"
+
+msgid "Amount"
+msgstr "swm"
+
+msgid "Period"
+msgstr "cyfnod"
+
+msgid "Are you sure to close this task?"
+msgstr "A ydych yn sicr i gau\'r dasg hon ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "pob grŵp"
+
+msgid "added from task"
+msgstr "hychwanegu o dasg"
+
+msgid "Monthly repeat"
+msgstr "ailadrodd misol"
+
+msgid "Select category"
+msgstr "Dewiswch gategori"
+
+msgid "Event type"
+msgstr "math o ddigwyddiad"
+
+msgid "Margin"
+msgstr "ymyl"
+
+msgid "Use finance project"
+msgstr "Defnyddiwch prosiect gyllid"
+
+msgid "New investment project"
+msgstr "Prosiect buddsoddi newydd"
+
+msgid "Investment project settings"
+msgstr "Gosodiadau prosiect buddsoddi"
+
+msgid "Picture, for the announcement project"
+msgstr "Llun , ar gyfer y prosiect gyhoeddiad"
+
+msgid "Announcement project"
+msgstr "prosiect cyhoeddiad"
+
+msgid "Video"
+msgstr "fideo"
+
+msgid "Photos or videos gallery"
+msgstr "Ffotograffau neu fideos oriel"
+
+msgid "required amount"
+msgstr "swm sy\'n ofynnol"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Hyd y Prosiect ( 60 diwrnod ar y mwyaf)"
+
+msgid "Project duration"
+msgstr "hyd y Prosiect"
+
+msgid "Add reward"
+msgstr "Ychwanegu gwobr"
+
+msgid "Delivery date"
+msgstr "dyddiad cyflwyno"
+
+msgid "Payment systems"
+msgstr "systemau talu"
+
+msgid "Terms of service"
+msgstr "Telerau gwasanaeth"
+
+msgid "Agreement"
+msgstr "cytundeb"
+
+msgid "Payment"
+msgstr "talu"
+
+msgid "My projects"
+msgstr "fy prosiectau"
+
+msgid "Search result"
+msgstr "Chwilio canlyniad"
+
+msgid "Nothing not found"
+msgstr "Dim byd heb ei darganfod"
+
+msgid "The project has no sponsors"
+msgstr "Mae gan y prosiect unrhyw noddwyr"
+
+msgid "Design"
+msgstr "dylunio"
+
+msgid "Food"
+msgstr "bwyd"
+
+msgid "Journalism"
+msgstr "newyddiaduraeth"
+
+msgid "Games"
+msgstr "gemau"
+
+msgid "Art"
+msgstr "celf"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "cerddoriaeth"
+
+msgid "Handicrafts"
+msgstr "Gwaith Llaw"
+
+msgid "Publishing"
+msgstr "Cyhoeddi"
+
+msgid "Theater"
+msgstr "Theater"
+
+msgid "Technology"
+msgstr "technoleg"
+
+msgid "Film/Video"
+msgstr "Ffilm / Fideo"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Dance"
+msgstr "dawns"
+
+msgid "Invalid youtube video"
+msgstr "Annilys fideo youtube"
+
+msgid "is required"
+msgstr "Mae angen"
+
+msgid "User"
+msgstr "defnyddiwr"
+
+msgid "Date"
+msgstr "dyddiad"
+
+msgid "Collected"
+msgstr "gasglwyd"
+
+msgid "Choose period"
+msgstr "cyfnod dewis"
+
+msgid "Choose region"
+msgstr "Dewiswch ranbarth"
+
+msgid "Country"
+msgstr "gwlad"
+
+msgid "Today"
+msgstr "heddiw"
+
+msgid "Week"
+msgstr "wythnos"
+
+msgid "Month"
+msgstr "mis"
+
+msgid "Year"
+msgstr "blwyddyn"
+
+msgid "Free registration"
+msgstr "cofrestru am ddim"
+
+msgid "Join"
+msgstr "Ymunwch"
+
+msgid "Log in using"
+msgstr "Logio i mewn gan ddefnyddio"
+
+msgid "Vacancies"
+msgstr "cyfleoedd gwaith"
+
+msgid "About Us"
+msgstr "Amdanom ni"
+
+msgid "You will need email to log in"
+msgstr "Bydd angen i e-bost i chi fewngofnodi"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Mae cyfuniad o 6 digid a chymeriadau"
+
+msgid "Search users, groups, articles..."
+msgstr "Defnyddwyr Chwilio, grwpiau , erthyglau ..."
+
+msgid "Cloud"
+msgstr "cwmwl"
+
+msgid "Sunday"
+msgstr "Dydd Sul"
+
+msgid "Monday"
+msgstr "Dydd Llun"
+
+msgid "Tuesday"
+msgstr "Dydd Mawrth"
+
+msgid "Wednesday"
+msgstr "Dydd Mercher"
+
+msgid "Thursday"
+msgstr "Dydd Iau"
+
+msgid "Friday"
+msgstr "Dydd Gwener"
+
+msgid "Saturday"
+msgstr "Dydd Sadwrn"
+
+msgid "Edit"
+msgstr "golygu"
+
+msgid "Create group"
+msgstr "creu grŵp"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "A ydych yn sicr eich bod am adael y dudalen hon ?"
+
+msgid "More"
+msgstr "Mwy"
+
+msgid "Less"
+msgstr "llai"
+
+msgid "Pending"
+msgstr "Tra\'n aros"
+
+msgid "Approved"
+msgstr "Cymeradwy"
+
+msgid "Rejected"
+msgstr "wrthodwyd"
+
+msgid "Subprojects"
+msgstr "Subprojects"
+
+msgid "Group edit"
+msgstr "golygu Group"
+
+msgid "Startup"
+msgstr "Tanio"
+
+msgid "Tattoo"
+msgstr "tattoo"
+
+msgid "Health"
+msgstr "Iechyd"
+
+msgid "Weapon"
+msgstr "arf"
+
+msgid "Astronomy"
+msgstr "Seryddiaeth"
+
+msgid "All articles"
+msgstr "Mae\'r holl erthyglau"
+
+msgid "Article editor"
+msgstr "golygydd Erthygl"
+
+msgid "Document editor"
+msgstr "golygydd Document"
+
+msgid "Apply changes"
+msgstr "Gwneud cais newidiadau"
+
+msgid "Save changes?"
+msgstr "Cadw newidiadau ?"
+
+msgid "published an article"
+msgstr "cyhoeddi erthygl"
+
+msgid "Users"
+msgstr "defnyddwyr"
+
+msgid "Shared With Me"
+msgstr "Rhannu Gyda Mi"
+
+msgid "share"
+msgstr "rhannu"
+
+msgid "Select Group Responsible"
+msgstr "Dewiswch Grŵp Cyfrifol"
+
+msgid "Create folder"
+msgstr "creu ffolder"
+
+msgid "Title must be at least 3 characters"
+msgstr "Rhaid Teitl fod o leiaf 3 llythyren"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Am ddim 10 GB , rheolwr cyllid , buddsoddi modiwl , a llawer eraill am ddim ac am byth"
+
+msgid "Best regards"
+msgstr "Cofion gorau"
+
+msgid "Updates in last 12 hours:"
+msgstr "Diweddariadau mewn 12 awr ddiwethaf :"
+
+msgid "expense"
+msgstr "traul"
+
+msgid "Commentary on the event:"
+msgstr "Sylwadau ar yr achlysur :"
+
+msgid "Event place"
+msgstr "lle y digwyddiad"
+
+msgid "Project was updated"
+msgstr "Prosiect ei diweddaru"
+
+msgid "Project was created"
+msgstr "Prosiect ei greu"
+
+msgid "Project was closed"
+msgstr "Prosiect ar gau"
+
+msgid "account"
+msgstr "cyfrif"
+
+msgid "removed task"
+msgstr "tasg dynnu"
+
+msgid "removed subproject"
+msgstr "subproject dynnu"
+
+msgid "Title can not be empty"
+msgstr "Ni all teitl fod yn wag"
+
+msgid "Do not select the type of event"
+msgstr "Peidiwch â dewis y math o ddigwyddiad"
+
+msgid "Error while saving comment"
+msgstr "Gwall tra\'n arbed sylwadau"
+
+msgid "Save error: access denied"
+msgstr "Arbed Gwall : Mynediad gwrthodwyd"
+
+msgid "Remains"
+msgstr "gweddillion"
+
+msgid "Time spent, h."
+msgstr "Treulio amser , h."
+
+msgid "Emails"
+msgstr "Negeseuon e-bost"
+
+msgid "Meetings"
+msgstr "cyfarfodydd"
+
+msgid "All users"
+msgstr "pob defnyddiwr"
+
+msgid "Category"
+msgstr "categori"
+
+msgid "Finance project"
+msgstr "prosiect Cyllid"
+
+msgid "Investment project"
+msgstr "prosiect buddsoddi"
+
+msgid "Nature"
+msgstr "natur"
+
+msgid "Data is empty"
+msgstr "Data yn wag"
+
+msgid "Visitors"
+msgstr "ymwelwyr"
+
+msgid "My profile"
+msgstr "fy mhroffil"
+
+msgid "Sponsors"
+msgstr "noddwyr"
+
+msgid "Prior to completion"
+msgstr "Cyn cwblhau"
+
+msgid "Select"
+msgstr "dewiswch"
+
+msgid "My groups"
+msgstr "fy grwpiau"
+
+msgid "The invitation has been sent successfully"
+msgstr "Mae\'r gwahoddiad wedi cael ei anfon yn llwyddiannus"
+
+msgid "Username has already been invited to this project"
+msgstr "Enw defnyddiwr eisoes wedi cael gwahoddiad i\'r prosiect hwn"
+
+msgid "The user is the creator of the project"
+msgstr "Mae\'r defnyddiwr yw creawdwr y prosiect"
+
+msgid "Provide full access"
+msgstr "Darparu mynediad llawn"
+
+msgid "Select elements to provide access"
+msgstr "Dewiswch elfennau i ddarparu mynediad"
+
+msgid "Select all"
+msgstr "dewiswch gyd"
+
+msgid "User E-mail"
+msgstr "Defnyddiwr E -bost"
+
+msgid "Click on the field to select a category"
+msgstr "Cliciwch ar y cae i ddewis categori"
+
+msgid "Invitation was deleted"
+msgstr "Gwahoddiad ei ddileu"
+
+msgid "Permission denied"
+msgstr "caniatâd gwadu"
+
+msgid "Printed"
+msgstr "Argraffwyd"
+
+msgid "Incorrect Contractor email"
+msgstr "E-bost Contractwr Anghywir"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "A ydych eisiau ychwanegu prosiect i ariannu rheolwr ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Er mwyn cwblhau\'r broses gofrestru , llenwch lawr eich sgiliau"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Mae bost gyda chyfarwyddiadau pellach ei anfon at eich cyfeiriad e-bost"
+
+msgid "Submit"
+msgstr "Cyflwyno"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Science"
+msgstr "gwyddoniaeth"
+
+msgid "Donation"
+msgstr "Rhoi"
+
+msgid "Interests"
+msgstr "diddordebau"
+
+msgid "Driver"
+msgstr "Gyrwyr"
+
+msgid "Sportsman"
+msgstr "chwaraewr"
+
+msgid "Businessman"
+msgstr "Gŵr Busnes"
+
+msgid "Accountant"
+msgstr "cyfrifydd"
+
+msgid "Engineer"
+msgstr "peiriannydd"
+
+msgid "Soldier"
+msgstr "milwr"
+
+msgid "Next"
+msgstr "nesaf"
+
+msgid "Hide group"
+msgstr "grŵp Cuddio"
+
+msgid "groups created"
+msgstr "grwpiau a grëwyd"
+
+msgid "articles written"
+msgstr "erthyglau a ysgrifennwyd"
+
+msgid "These groups may be interesting for you"
+msgstr "Gall y grwpiau hyn fod yn ddiddorol i chi"
+
+msgid "About Group"
+msgstr "Ynglŷn â Grŵp"
+
+msgid "view(s)"
+msgstr "golwg (au )"
+
+msgid "Favorite users"
+msgstr "defnyddwyr hoff"
+
+msgid "No accounts"
+msgstr "Dim cyfrifon"
+
+msgid "Facebook authorization failed."
+msgstr "Methodd awdurdodiad Facebook ."
+
+msgid "Authorization Required"
+msgstr "awdurdodi Angenrheidiol"
+
+msgid "You have to make a call:"
+msgstr "Mae\'n rhaid i chi wneud galwad :"
+
+msgid "You have to send an email:"
+msgstr "Mae\'n rhaid i chi anfon e-bost :"
+
+msgid "You have a meetup:"
+msgstr "Mae gennych meetup :"
+
+msgid "You event :"
+msgstr "Rydych digwyddiad:"
+
+msgid "Participants:"
+msgstr "cyfranogwyr :"
+
+msgid "Search"
+msgstr "Chwilio"
+
+msgid "News"
+msgstr "Newyddion"
+
+msgid "Investments"
+msgstr "buddsoddiadau"
+
+msgid "Back to Cloud"
+msgstr "Yn ôl i Cloud"
+
+msgid "Documents"
+msgstr "dogfennau"
+
+msgid "Planet"
+msgstr "Planet"
+
+msgid "Group url"
+msgstr "url grŵp"
+
+msgid "Profile url"
+msgstr "url proffil"
+
+msgid "Already taken"
+msgstr "Wedi cymryd yn barod"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "O leiaf 1 llythyr a 3 chars hyd gofynnol"
+
+msgid "Digit can not be the first character"
+msgstr "Ni all Digid fydd y cymeriad cyntaf"
+
+msgid "Enter valid email address"
+msgstr "Rhowch gyfeiriad e-bost dilys"
+
+msgid "Enter your skills"
+msgstr "Rhowch eich sgiliau"
+
+msgid "Enter your first name"
+msgstr "Rhowch eich enw cyntaf"
+
+msgid "Enter your last name"
+msgstr "Rhowch eich enw olaf"
+
+msgid "Enter your first name and last name"
+msgstr "Rhowch eich enw cyntaf ac enw olaf"
+
+msgid "Your first name?"
+msgstr "Eich enw cyntaf?"
+
+msgid "Your last name?"
+msgstr "Eich enw diwethaf?"
+
+msgid "What are your proficiencies?"
+msgstr "Beth yw eich hyfedredd ?"
+
+msgid "Select country"
+msgstr "Dewiswch gwlad"
+
+msgid "Select user"
+msgstr "Dewiswch defnyddiwr"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Gyflawni eich breuddwyd ! Creu a Cydweithredu ."
+
+msgid "date moved from"
+msgstr "Symudodd yn dyddio o"
+
+msgid "work"
+msgstr "gwaith"
+
+msgid "Conference"
+msgstr "cynhadledd"
+
+msgid "personal"
+msgstr "personol"
+
+msgid "Holiday"
+msgstr "gwyliau"
+
+msgid "Past"
+msgstr "Gorffennol"
+
+msgid "Future"
+msgstr "Dyfodol"
+
+msgid "Purchase"
+msgstr "Prynu"
+
+msgid "Personal events"
+msgstr "Digwyddiadau Preifat"
+
+msgid "Conferences"
+msgstr "Cyfarfod"
+
+msgid "Holidays"
+msgstr "Gwyliau"
+
+msgid "Sport events"
+msgstr "Digwyddiadau Chwaraeon"
+
+msgid "Tasks"
+msgstr "Tasgau"
+
+msgid "Other events"
+msgstr "Digwyddiadau eraill"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Gohiriedig"
+
+msgid "Time management"
+msgstr "Rheoli Amser"
+
+msgid "Delayed events"
+msgstr "Digwyddiadau Gohiriedig"
+
+msgid "Delayed"
+msgstr "Gohiriedig"
+
+msgid "Bind to"
+msgstr "Neilltuo"
+
+msgid "answered your comment to"
+msgstr "Dywedais (a) Rhowch sylwadau ar yr erthygl"
+
+msgid "commented your article"
+msgstr "Soniais am eich erthygl"
+
+msgid "You\'ve answered on comment to"
+msgstr "Rydych yn ymateb i\'r sylwadau ar yr erthygl"
+
+msgid "You\'ve commented an article"
+msgstr "Rydych yn gwneud sylwadau ar yr erthygl"
+
+msgid "Terms and Conditions"
+msgstr "Telerau ac Amodau"
+
+msgid "Privacy Policy"
+msgstr "Polisi Preifatrwydd"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Drwy glicio ar \"ymuno\" ydych yn cytuno â\'n ac yn cydnabod eich bod wedi darllen ein"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Ymunwch â\'r gymuned o bobl greadigol o bob cwr o\'r byd! Byddwch yn derbyn: Buddsoddi yn eich syniadau, cyfle i gasglu ei dîm, gweithio mewn grŵp, rheolwr ariannol, rheoli eu hamser, 2 gigabeit yn storio a mwy. Ac mae\'n rhad ac am ddim!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Mae\'n ddrwg gennym, ond nid yw\'r dudalen rydych yn chwilio amdani yn bodoli. Os ydych yn credu bod ar fai ni cysylltu â ni"
+
+msgid "Return"
+msgstr "Dychwelyd"
+
+msgid "COMMON"
+msgstr "Cyfanswm"
+
+msgid "My events"
+msgstr "Fy Digwyddiadau"
+
+msgid "Job opening"
+msgstr "Swydd wag newydd"
+
+msgid "Employment"
+msgstr "Math o gyflogaeth"
+
+msgid "Working hours"
+msgstr "Oriau agor"
+
+msgid "City"
+msgstr "City"
+
+msgid "Wages"
+msgstr "Cyflog"
+
+msgid "Currency"
+msgstr "Arian cyfred"
+
+msgid "Experience"
+msgstr "Profiad"
+
+msgid "Full-time"
+msgstr "Cyflogaeth lawn"
+
+msgid "Part-time"
+msgstr "Rhan-amser"
+
+msgid "Project employment"
+msgstr "Prosiect / Dros Dro"
+
+msgid "Volunteer"
+msgstr "Gwirfoddoli"
+
+msgid "Internship"
+msgstr "Hyfforddeiaeth"
+
+msgid "Full day"
+msgstr "Llawn Amser"
+
+msgid "Shifts"
+msgstr "Amserlen Amnewid"
+
+msgid "Flexible shifts"
+msgstr "Amserlen hyblyg"
+
+msgid "Remote work"
+msgstr "Gwaith o Bell"
+
+msgid "Rotational basis"
+msgstr "Dull Shift"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Ydych chi\'n siŵr eich bod eisiau dileu y sylwadau?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Ydych chi\'n siŵr eich bod am ddileu\'r dasg hon?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Ydych chi\'n siŵr eich bod am ddileu\'r is-prosiect?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Yr ydych wedi gwneud cais i\'r cwmni yn y sefyllfa. Gwnewch yn siŵr bod y"
+
+msgid "Your request to for job has been rejected"
+msgstr "Mae eich cais i\'r cwmni i sefyllfa wedi ei wrthod"
+
+msgid "Your request to for job has been accepted"
+msgstr "Mae eich cais i\'r cwmni i sefyllfa ei fabwysiadu"
+
+msgid "profile is completed"
+msgstr "Mae eich proffil yn llawn"
+
+msgid "Use account"
+msgstr "Defnyddio cyfrif"
+
+msgid "$/hr"
+msgstr "$ / Yr awr"
+
+msgid "Finance category"
+msgstr "Categori Ariannol"
+
+msgid "No projects"
+msgstr "Dim prosiectau"
+
+msgid "Bind to finances"
+msgstr "Neilltuo prosiect ariannol"
+
+msgid "Preview"
+msgstr "View"
+
+msgid "Download"
+msgstr "Lawrlwytho"
+
+msgid "Save to my cloud"
+msgstr "Copïwch y storfa"
+
+msgid "File successfully saved to your cloud"
+msgstr "Ffeil storio yn llwyddiannus yn eich ystorfa"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Arbedwch y ffeil hon yn eich ystorfa?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Dewiswch gategori Erthygl"
+
+msgid "Type something"
+msgstr "Ysgrifennu rhywbeth"
+
+msgid "Founded users"
+msgstr "Defnyddwyr wedi ei ddarganfod"
+
+msgid "Founded articles"
+msgstr "Erthygl Wedi dod o hyd"
+
+msgid "Founded groups"
+msgstr "Fe\'i sefydlwyd grŵp"
+
+msgid "What are your skills?"
+msgstr "Beth yw eich sgiliau?"
+
+msgid "Select at least 2 interests"
+msgstr "Dewiswch o leiaf 2 log"
+
+msgid "Need more interests"
+msgstr "Dim digon o ddiddordeb a ddewiswyd"
+
+msgid "What are you interesting in?"
+msgstr "Beth yw gennych chi ddiddordeb?"
+
+msgid "You have no dialogs"
+msgstr "Nid oes gennych deialogau"
+
+msgid "Usage Stats"
+msgstr "Cyflwr"
+
+msgid "Founded files"
+msgstr "Ffeiliau wedi ei ddarganfod"
+
+msgid "Big tiles"
+msgstr "Teils mawr"
+
+msgid "Small tiles"
+msgstr "Teils bach"
+
+msgid "Table view"
+msgstr "Tabl barn"
+
+msgid "Root folder"
+msgstr "Cyfeiriadur gwraidd"
+
+msgid "My files"
+msgstr "Fy Ffeiliau"
+
+msgid "Save as draft"
+msgstr "Cadw fel Drafft"
+
+msgid "Buy More Space"
+msgstr "Prynu mwy o le"
+
+msgid "Buy"
+msgstr "Prynu"
+
+msgid "You have been invited to group as"
+msgstr "Rydych wedi cael eich gwahodd i\'r grŵp fel"
+
+msgid "User wants to join your group"
+msgstr "Mae\'r defnyddiwr yn dymuno ymuno â\'ch grŵp"
+
+msgid "Section is coming soon!"
+msgstr "Adran cael eu hadeiladu!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Barn yn ystod y 24 awr ddiwethaf:"
+
+msgid "Task was updated"
+msgstr "Mae\'r dasg wedi cael ei ddiweddaru"
+
+msgid "Task was closed"
+msgstr "Yr her wedi cael ei gau"
+
+msgid "Task was created"
+msgstr "Y dasg Gosodwyd"
+
+msgid "Current balance"
+msgstr "Balans presennol"
+
+msgid "Add funds"
+msgstr "Ychwanegu"
+
+msgid "Pay"
+msgstr "Til"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Rydych wedi rhagori ar y nifer o ymdrechion mewngofnodi. Rydych yn cael eu rhwystro am 15 munud"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Cadarnhewch eich e-bost. Roedd y llythyr a anfonwyd atoch drwy\'r post."
+
+msgid "Resend confirmation email"
+msgstr "Anfon cadarnhad eto"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB y mis"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Gyrrwch 10 GB bob blwyddyn"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disg 100 GB bob blwyddyn"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disg 1TB misol"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Gyrrwch 1 TB bob blwyddyn"
+
+msgid "Project members monthly"
+msgstr "Cyfranogwyr y prosiect yn fisol"
+
+msgid "Project members yearly"
+msgstr "Cyfranogwyr y prosiect yn flynyddol"
+
+msgid "Member(s) yearly"
+msgstr "Aelod (au) y flwyddyn"
+
+msgid "Member(s) monthly"
+msgstr "Aelod (au) yn fisol"
+
+msgid "Authorized"
+msgstr "Awdurdodedig"
+
+msgid "Authorization expired"
+msgstr "Awdurdodi dod i ben"
+
+msgid "Processor declined"
+msgstr "System brosesu a wrthodwyd"
+
+msgid "Gateway rejected"
+msgstr "Porth talu a wrthodwyd"
+
+msgid "Failed"
+msgstr "Gwall"
+
+msgid "Voided"
+msgstr "Ddirymu"
+
+msgid "Submitted for settlement"
+msgstr "Anfonwyd i gofrestru"
+
+msgid "Settlement declined"
+msgstr "Cofrestru wedi cael ei wrthod"
+
+msgid "Settlement pending"
+msgstr "Tra\'n aros cofrestru"
+
+msgid "Verified"
+msgstr "Gwiriwyd"
+
+msgid "Pending"
+msgstr "Tra\'n aros"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Past Due"
+msgstr "Dod i ben"
+
+msgid "Expired"
+msgstr "A ddaeth i ben"
+
+msgid "Marketer"
+msgstr "Marchnatwr"
+
+msgid "India"
+msgstr "India"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Thailand"
+msgstr "Gwlad Thai"
+
+msgid "South Korea"
+msgstr "De Korea"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Ukraine"
+msgstr "Wcráin"
+
+msgid "Belarus"
+msgstr "Belarws"
+
+msgid "Bulgaria"
+msgstr "Bwlgaria"
+
+msgid "Turkey"
+msgstr "Twrci"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Awstria"
+
+msgid "Poland"
+msgstr "Gwlad pwyl"
+
+msgid "Germany"
+msgstr "Yr Almaen"
+
+msgid "Italy"
+msgstr "Yr Eidal"
+
+msgid "Netherlands"
+msgstr "Iseldiroedd"
+
+msgid "Ireland"
+msgstr "Iwerddon"
+
+msgid "United Kingdom"
+msgstr "Prydain Fawr"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Norway"
+msgstr "Norwy"
+
+msgid "United States"
+msgstr "Unol Daleithiau"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Brazil"
+msgstr "Brasil"
+
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+msgid "Canada"
+msgstr "Yr Aifft"
+
+msgid "Russia"
+msgstr "Rwsia"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Ar hyn o bryd, nid oedd un trafodiad"
+
+msgid "Fulfill your dream"
+msgstr "Gyflawni eich DREAM"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Ymunwch â\'n cymuned o unigolion creadigol o bob cwr o\'r byd."
+
+msgid "Create and Collaborate"
+msgstr "Creu a Cydweithredu"
+
+msgid "Start Dreaming"
+msgstr "GWIREDDU DREAM NAWR"
+
+msgid "or"
+msgstr "neu"
+
+msgid "Our mission:"
+msgstr "Ein cenhadaeth:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "I uno pobl creadigol a gweithredol i weithredu syniadau o syml ac yn y galw i anhygoel ac yn wych, sy\'n gallu llunio ein dyfodol."
+
+msgid "What is Konstruktor?"
+msgstr "Beth yw Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - yn rhan o\'n bywyd go iawn, sy\'n hwyluso yn sylweddol ac symleiddio"
+
+msgid "*business processes"
+msgstr "* Prosesau busnes"
+
+msgid "*materialization of creative ideas"
+msgstr "* Materialization o syniadau creadigol"
+
+msgid "*constructive cooperation"
+msgstr "* Cydweithrediad adeiladol"
+
+msgid "Make your dream!"
+msgstr "Gwnewch eich breuddwyd!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "Prif Swyddog Gweithredol"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Cynghorydd Arbennig"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Rheolwr, Datblygu Meddalwedd"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Uwch gyfreithiwr"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Dylunydd"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Trwy glicio ar y botwm \"Next\", rydych yn derbyn ac yn cytuno â ein Telerau ac Amodau, ac yr ydych yn cydnabod eich bod wedi darllen ein Polisi Preifatrwydd."
+
+msgid "Incorrect login or password."
+msgstr "Mewngofnodi neu gyfrinair anghywir."
+
+msgid "Password must be at least 6 characters"
+msgstr "Rhaid i\'r cyfrinair fod o leiaf 6 nod"
+
+msgid "January"
+msgstr "Ionawr"
+
+msgid "February"
+msgstr "Chwefror"
+
+msgid "March"
+msgstr "Mawrth"
+
+msgid "April"
+msgstr "Ebrill"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "June"
+msgstr "Mehefin"
+
+msgid "July"
+msgstr "Gorffennaf"
+
+msgid "August"
+msgstr "Awst"
+
+msgid "September"
+msgstr "Medi"
+
+msgid "October"
+msgstr "Hydref"
+
+msgid "November"
+msgstr "Tachwedd"
+
+msgid "December"
+msgstr "Rhagfyr"
+
+msgid "Chat"
+msgstr "Sgwrs"
+
+msgid "Files"
+msgstr "Ffeiliau"
+
+msgid "Statistic"
+msgstr "Ystadegau"
+
+msgid "Support"
+msgstr "Cymorth"
+
+msgid "Exit"
+msgstr "Gadael"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belarws"
+
+msgid "Marketing specialist"
+msgstr "Arbenigwr marchnata"
+
+msgid "Administrator"
+msgstr "Gweinyddwr"
+
+msgid "Shared with me"
+msgstr "Rhannu gyda mi"
+
+msgid "File Sharing"
+msgstr "Rhannu Ffeil"
+
+msgid "Provide access by link"
+msgstr "Darparu mynediad drwy gyswllt"
+
+msgid "Provide Individual access"
+msgstr "Darparu mynediad Unigol"
+
+msgid "Provide edit access"
+msgstr "Darparu golygu mynediad"
+
+msgid "Share"
+msgstr "Rhannu"
+
+msgid "Files will be available only for selected users"
+msgstr "Bydd Ffeiliau ar gael yn unig ar gyfer defnyddwyr a ddewiswyd"
+
+msgid "With this link everyone can access to the files"
+msgstr "Gyda hyn yn cysylltu gall pawb gael mynediad at y ffeiliau"
+
+msgid "Search users, groups, articles..."
+msgstr "Defnyddwyr Chwilio, grwpiau, erthyglau ..."
+
+msgid "My Group"
+msgstr "Fy Grŵp"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Rydym yn"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Nid yw\'r ffeil yn cael ei ddewis"
+
+msgid "Set aside"
+msgstr "Neilltuwch"
+
+msgid "Event time"
+msgstr "Amser Digwyddiad"
+
+msgid "Work"
+msgstr "Gwaith"
+
+msgid "Personal"
+msgstr "Personol"
+
+msgid "Time spent for work:"
+msgstr "Amser a dreuliwyd am waith:"
+
+msgid "Personal time spent:"
+msgstr "Amser personol wario:"
+
+msgid "Present"
+msgstr "Yn bresennol"
+
+msgid "Common"
+msgstr "Cyffredin"
+
+msgid "Sport"
+msgstr "Chwaraeon"
+
+msgid "Entertainment"
+msgstr "Adloniant"
+
+msgid "Select:"
+msgstr "Dewiswch:"
+
+msgid "Invalid username or password."
+msgstr "Enw defnyddiwr neu gyfrinair annilys."
+
+msgid "Try again."
+msgstr "Ceisio eto."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "BETH YDYCH CHI DDIDDORDEB MEWN?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Dewiswch o leiaf 2 Sgiliau: yn parhau i fod 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Dewiswch o leiaf 2 Sgiliau: yn parhau i fod 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Dewiswch o leiaf 2 Sgiliau: gweddillion"
+
+msgid "Active life"
+msgstr "Bywyd Active"
+
+msgid "Arts and culture"
+msgstr "Celfyddydau a diwylliant"
+
+msgid "Business"
+msgstr "Busnes"
+
+msgid "Cinema"
+msgstr "Sinema"
+
+msgid "Communications"
+msgstr "Cyfathrebu"
+
+msgid "Construction and repair"
+msgstr "Adeiladu ac atgyweirio"
+
+msgid "Cooking"
+msgstr "Coginio"
+
+msgid "Education"
+msgstr "Addysg"
+
+msgid "Electronics"
+msgstr "Electroneg"
+
+msgid "Finances"
+msgstr "Cyllid"
+
+msgid "Graphics and design"
+msgstr "Graffeg a dylunio"
+
+msgid "Health"
+msgstr "Iechyd"
+
+msgid "Home and family"
+msgstr "Cartref a theulu"
+
+msgid "Humor"
+msgstr "Hiwmor"
+
+msgid "IT"
+msgstr "TG"
+
+msgid "Industry"
+msgstr "Diwydiant"
+
+msgid "Insurance"
+msgstr "Yswiriant"
+
+msgid "Literature"
+msgstr "Llenyddiaeth"
+
+msgid "Mobile communications and internet"
+msgstr "Cyfathrebu symudol a\'r rhyngrwyd"
+
+msgid "News and Media"
+msgstr "Newyddion a\'r Cyfryngau"
+
+msgid "Pets"
+msgstr "Anifeiliaid anwes"
+
+msgid "Products and service"
+msgstr "Cynnyrch a gwasanaeth"
+
+msgid "Real Estate"
+msgstr "Real Estate"
+
+msgid "Religion"
+msgstr "Crefydd"
+
+msgid "Science and techs"
+msgstr "Gwyddoniaeth a techs"
+
+msgid "Security"
+msgstr "Diogelwch"
+
+msgid "Society"
+msgstr "Cymdeithas"
+
+msgid "Television"
+msgstr "Teledu"
+
+msgid "Travel"
+msgstr "Teithio"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Yr Ariannin"
+
+msgid "Australia"
+msgstr "Awstralia"
+
+msgid "Austria"
+msgstr "Awstria"
+
+msgid "Belarus"
+msgstr "Belarws"
+
+msgid "Belgium"
+msgstr "Gwlad Belg"
+
+msgid "Brazil"
+msgstr "Brasil"
+
+msgid "Bulgaria"
+msgstr "Bwlgaria"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Denmarc"
+
+msgid "France"
+msgstr "Ffrainc"
+
+msgid "Germany"
+msgstr "Yr Almaen"
+
+msgid "Greece"
+msgstr "Gwlad Groeg"
+
+msgid "Hungary"
+msgstr "Hwngari"
+
+msgid "Iceland"
+msgstr "Gwlad yr Iâ"
+
+msgid "Ireland"
+msgstr "Iwerddon"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Yr Eidal"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Mexico"
+msgstr "Mecsico"
+
+msgid "Netherlands"
+msgstr "Iseldiroedd"
+
+msgid "New Zealand"
+msgstr "Seland Newydd"
+
+msgid "Norway"
+msgstr "Norwy"
+
+msgid "Poland"
+msgstr "Gwlad pwyl"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Russia"
+msgstr "Rwsia"
+
+msgid "Slovakia"
+msgstr "Slofacia"
+
+msgid "South Africa"
+msgstr "De Affrica"
+
+msgid "South Korea"
+msgstr "De Korea"
+
+msgid "Spain"
+msgstr "Sbaen"
+
+msgid "Sweden"
+msgstr "Sweden"
+
+msgid "Switzerland"
+msgstr "Y Swistir"
+
+msgid "Turkey"
+msgstr "Twrci"
+
+msgid "Ukraine"
+msgstr "Wcráin"
+
+msgid "United Arab Emirates"
+msgstr "Emiradau Arabaidd Unedig"
+
+msgid "United Kingdom"
+msgstr "Deyrnas Unedig"
+
+msgid "United States"
+msgstr "Unol Daleithiau"
+
+msgid "achievements"
+msgstr "cyflawniadau"
+
+msgid "Investment management"
+msgstr "Rheoli buddsoddiadau"
+
+msgid "Select..."
+msgstr "Dewiswch ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "RHEOLI BUDDSODDIADAU"
+
+msgid "Investors list"
+msgstr "Rhestr Buddsoddwyr"
+
+msgid "My investments"
+msgstr "Fy buddsoddiadau"
+
+msgid "Create date"
+msgstr "Dyddiad Creu"
+
+msgid "Author of the project"
+msgstr "Awdur y prosiect"
+
+msgid "Date and time"
+msgstr "Dyddiad ac amser"
+
+msgid "Status"
+msgstr "Statws"
+
+msgid "NEXT"
+msgstr "NESAF"
+
+msgid "Next"
+msgstr "Nesaf"
+
+msgid "Apply"
+msgstr "Gwneud cais"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Gwyddoniaeth"
+
+msgid "Architecture"
+msgstr "Pensaernïaeth"
+
+msgid "Photography"
+msgstr "Ffotograffiaeth"
+
+msgid "Designer"
+msgstr "Dylunydd"
+
+msgid "IT specialist"
+msgstr "Arbenigwr TG"
+
+msgid "Agronomist"
+msgstr "Agronomegwr"
+
+msgid "Architect"
+msgstr "Pensaer"
+
+msgid "Lawyer"
+msgstr "Cyfreithiwr"
+
+msgid "Writer"
+msgstr "Awdur"
+
+msgid "Doctor"
+msgstr "Meddyg"
+
+msgid "Scientist"
+msgstr "Gwyddonydd"
+
+msgid "Marketer"
+msgstr "Marchnatwr"
+
+msgid "Teacher"
+msgstr "Athrawon"
+
+msgid "Cook"
+msgstr "Cook"
+
+msgid "Artist"
+msgstr "Artist"
+
+msgid "Photographer"
+msgstr "Ffotograffydd"
+
+msgid "Ecologist"
+msgstr "Ecolegydd"
+
+msgid "Economist"
+msgstr "Economegydd"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Newyddiadurwr"
+
+msgid "Builder"
+msgstr "Adeiladwr"
+
+msgid "These users may be interesting for you"
+msgstr "Gall y rhain fod yn ddefnyddwyr diddorol i chi"
+
+msgid "These articles may be interesting for you"
+msgstr "Gall y rhain fod yn erthyglau diddorol i chi"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Rydych yn ymuno â grŵp hwn fel Аdministrator"
+
+msgid "articles written."
+msgstr "erthyglau ysgrifenedig."
+
+msgid "groups created."
+msgstr "grwpiau creu."
+
+msgid "Creation"
+msgstr "Creu"
+
+msgid "Build a dream"
+msgstr "Adeiladu breuddwyd"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Ddarllen erthyglau mwy diddorol - ewch gofrestru am ddim"
+

@@ -1,0 +1,3344 @@
+# House (Хауса) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: House (Хауса) <support@konstruktor.com>\n"
+"Language: House (Хауса)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "sunan mai amfani"
+
+msgid "Invalid username or password, try again"
+msgstr "Ba daidai ba sunan mai amfani ko kalmar sirri . Gwada kuma."
+
+msgid "Settings"
+msgstr "saituna"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "You must log in to access this page"
+msgstr "Dole ne ka shiga don samun damar wannan shafi"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Ku zaman da aka gama aiki . Don Allah , relogin da su na yin wannan aikin"
+
+msgid "Save"
+msgstr "Ajiye"
+
+msgid "Head Office"
+msgstr "Babban Ofishi"
+
+msgid "Address"
+msgstr "adireshin"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Apply"
+msgstr "Aiwatar"
+
+msgid "Upload files…"
+msgstr "Upload fayiloli ..."
+
+msgid "Set as main"
+msgstr "Ya kafa a matsayin babban"
+
+msgid "Delete"
+msgstr "share"
+
+msgid "Original image"
+msgstr "asali image"
+
+msgid "Uploaded"
+msgstr "uploaded"
+
+msgid "File name"
+msgstr "sunan fayil"
+
+msgid "File size"
+msgstr "fayil size"
+
+msgid "Resolution"
+msgstr "ƙuduri"
+
+msgid "Enlarge"
+msgstr "kara girma"
+
+msgid "Links"
+msgstr "links"
+
+msgid "Original size"
+msgstr "asali size"
+
+msgid "For editor"
+msgstr "ga edita"
+
+msgid "Resize"
+msgstr "mayar da girman"
+
+msgid "Width"
+msgstr "nisa"
+
+msgid "Height"
+msgstr "Height"
+
+msgid "Media URL"
+msgstr "kafofin watsa labaru URL"
+
+msgid "Add record"
+msgstr "ƙara rikodin"
+
+msgid "Show filter settings"
+msgstr "Nuna tace saituna"
+
+msgid "Edit record"
+msgstr "Shirya rikodin"
+
+msgid "Delete record"
+msgstr "share rikodin"
+
+msgid "Delete checked records"
+msgstr "Share bari records"
+
+msgid "Dashboard"
+msgstr "gaban"
+
+msgid "Password"
+msgstr "kalmar sirri"
+
+msgid "Remember me"
+msgstr "tuna da ni"
+
+msgid "Login"
+msgstr "shiga"
+
+msgid "Clean image cache"
+msgstr "Mai tsabta image cache"
+
+msgid "Processing query..."
+msgstr "Processing query ..."
+
+msgid "CMS Development"
+msgstr "CMS raya"
+
+msgid "Admin Home Page"
+msgstr "Admin Home Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Home bude shafi na Front - karshen a cikin wani sabon shafin"
+
+msgid "Go to Site"
+msgstr "Je zuwa Site"
+
+msgid "Log out"
+msgstr "fita daga"
+
+msgid "Send"
+msgstr "aika"
+
+msgid "General"
+msgstr "Janar"
+
+msgid "Title"
+msgstr "title"
+
+msgid "Teaser"
+msgstr "dandano"
+
+msgid "Published"
+msgstr "da aka buga"
+
+msgid "Featured"
+msgstr "featured"
+
+msgid "Active"
+msgstr "aiki"
+
+msgid "Field is mandatory"
+msgstr "Field ne m"
+
+msgid "Sort Order"
+msgstr "irin Order"
+
+msgid "Upload"
+msgstr "Upload"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "Maris"
+
+msgid "Apr"
+msgstr "Afrilu"
+
+msgid "May"
+msgstr "Mayu"
+
+msgid "Jun"
+msgstr "Yuni"
+
+msgid "Jul"
+msgstr "Yuli"
+
+msgid "Aug"
+msgstr "Agusta"
+
+msgid "Sep"
+msgstr "Satumba"
+
+msgid "Oct"
+msgstr "Oktoba"
+
+msgid "Nov"
+msgstr "Nuwamba"
+
+msgid "Dec"
+msgstr "Disamba"
+
+msgid "Product already exists in the order"
+msgstr "Dama akwai samfurin a cikin tsari"
+
+msgid "Product does not exist"
+msgstr "Samfurin ba ya wanzu"
+
+msgid "Incorrect request"
+msgstr "ba daidai ba request"
+
+msgid "Products"
+msgstr "kayayyakin"
+
+msgid "Product types"
+msgstr "samfurin iri"
+
+msgid "Contractors"
+msgstr "kwangila"
+
+msgid "Contractor"
+msgstr "dan kwangila"
+
+msgid "Orders"
+msgstr "umarni"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "New domin"
+
+msgid "My orders"
+msgstr "ta umarta"
+
+msgid "Recharge balance"
+msgstr "recharge balance"
+
+msgid "Administrator"
+msgstr "shugaba"
+
+msgid "Incorrect event ID"
+msgstr "Ba daidai ba taron ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Shirya dan kwangila"
+
+msgid "Create contractor"
+msgstr "halicci dan kwangila"
+
+msgid "Edit question"
+msgstr "Shirya question"
+
+msgid "Create question"
+msgstr "halicci question"
+
+msgid "Edit order"
+msgstr "Shirya domin"
+
+msgid "Create order"
+msgstr "halicci domin"
+
+msgid "Edit product"
+msgstr "Shirya samfurin"
+
+msgid "Create product"
+msgstr "haifar da samfurin"
+
+msgid "Edit product type"
+msgstr "Shirya samfurin irin"
+
+msgid "Create product type"
+msgstr "Haifar da samfurin irin"
+
+msgid "You have received a file"
+msgstr "Ka samu fayil"
+
+msgid "You received a file from"
+msgstr "Ka samu fayil daga"
+
+msgid "File has been uploaded"
+msgstr "Fayil da aka uploaded"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "kadan yawa"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "abubuwa"
+
+msgid "Remove"
+msgstr "cire"
+
+msgid "Contact person"
+msgstr "lamba mutum"
+
+msgid "Email"
+msgstr "email"
+
+msgid "Contractor phone"
+msgstr "dan kwangila wayar"
+
+msgid "Contractor name"
+msgstr "dan kwangila suna"
+
+msgid "Contractor details"
+msgstr "dan kwangila details"
+
+msgid "Order ID"
+msgstr "domin ID"
+
+msgid "Sum"
+msgstr "Sum"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Zabi dace biyan tsarin to kayi balance"
+
+msgid "Recharge amount"
+msgstr "recharge adadin"
+
+msgid "Paid"
+msgstr "biya"
+
+msgid "Shipped"
+msgstr "sufuri"
+
+msgid "- No products in this order -"
+msgstr "- Babu kayayyakin a cikin wannan tsari -"
+
+msgid "month"
+msgstr "watan"
+
+msgid "No user found"
+msgstr "Babu mai amfani samu"
+
+msgid "Achievement"
+msgstr "nasara"
+
+msgid "Confirmed accomplishments"
+msgstr "tabbatar da aikata na aikin"
+
+msgid "Remove achievement"
+msgstr "cire nasara"
+
+msgid "Headquaters"
+msgstr "hedkwatarta"
+
+msgid "Phone"
+msgstr "wayar"
+
+msgid "Site URL and email"
+msgstr "Shafin URL da email"
+
+msgid "Remove address"
+msgstr "cire address"
+
+msgid "Members"
+msgstr "\'yan"
+
+msgid "Requires a payment"
+msgstr "Na bukatar a biya"
+
+msgid "Shipping"
+msgstr "shipping"
+
+msgid "Ready"
+msgstr "shirye"
+
+msgid "Find user..."
+msgstr "Sami mai amfani ..."
+
+msgid "Order it"
+msgstr "umurni da shi"
+
+msgid "Find group..."
+msgstr "Sami kungiyar ..."
+
+msgid "Find user or community..."
+msgstr "Sami mai amfani ko al\'umma ..."
+
+msgid "No item found"
+msgstr "Babu abu samu"
+
+msgid "years"
+msgstr "shekaru"
+
+msgid "Send message"
+msgstr "aika sakon"
+
+msgid "Message"
+msgstr "sako"
+
+msgid "To send message press Enter"
+msgstr "Don aika saƙo manema Ku shiga"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Don aika saƙo manema CTRL + Ku shiga"
+
+msgid "Processing file(s)..."
+msgstr "Processing fayil (s) ..."
+
+msgid "Group settings"
+msgstr "kungiyar saituna"
+
+msgid "Create group"
+msgstr "halicci kungiyar"
+
+msgid "Group has been successfully saved"
+msgstr "Kungiyar da aka samu nasarar tsira"
+
+msgid "Group title"
+msgstr "kungiyar take"
+
+msgid "Group video"
+msgstr "kungiyar video"
+
+msgid "Description"
+msgstr "description"
+
+msgid "Your role in group"
+msgstr "Da rawa a kungiyar"
+
+msgid "Role"
+msgstr "rawa"
+
+msgid "Photo or video gallery"
+msgstr "Photo ko video gallery"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Upload video"
+
+msgid "Add group address"
+msgstr "Ƙara kungiyar address"
+
+msgid "Group articles"
+msgstr "kungiyar articles"
+
+msgid "No addresses yet"
+msgstr "Babu adireshin duk da haka"
+
+msgid "Add group achievement"
+msgstr "Ƙara kungiyar nasara"
+
+msgid "No achivements yet"
+msgstr "Ba achivements duk da haka"
+
+msgid "Are you sure to delete this user"
+msgstr "Ka tabbata ka share wannan mai amfani"
+
+msgid "Add member"
+msgstr "ƙara m"
+
+msgid "Are you sure to delete this record?"
+msgstr "Ka tabbata ka share wannan rikodin ?"
+
+msgid "Join this group"
+msgstr "Shiga wannan kungiya"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Ka gayyatar da aka aiko zuwa kungiyar shugaba"
+
+msgid "All addresses"
+msgstr "duk adiresoshin"
+
+msgid "Collapse"
+msgstr "Collapse"
+
+msgid "Achievements"
+msgstr "nasarorin"
+
+msgid "Show more"
+msgstr "nuna karin"
+
+msgid "Team"
+msgstr "tawagar"
+
+msgid "Projects"
+msgstr "ayyukan"
+
+msgid "New project"
+msgstr "New aikin"
+
+msgid "Project has not been created yet"
+msgstr "Aikin ba a halitta duk da haka"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "balance"
+
+msgid "Main page"
+msgstr "main page"
+
+msgid "Upload image"
+msgstr "Upload image"
+
+msgid "My time"
+msgstr "ta lokaci"
+
+msgid "Day"
+msgstr "rana"
+
+msgid "Week"
+msgstr "mako"
+
+msgid "Project settings"
+msgstr "aikin saituna"
+
+msgid "Create project"
+msgstr "halicci aikin"
+
+msgid "Project has been successfully saved"
+msgstr "Aikin da aka samu nasarar tsira"
+
+msgid "Project name"
+msgstr "aikin sunan"
+
+msgid "Deadline"
+msgstr "akan ranar ƙarshe"
+
+msgid "Close"
+msgstr "kusa"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Assigned to"
+msgstr "sanya"
+
+msgid "Discussion"
+msgstr "tattaunawa"
+
+msgid "Task was created"
+msgstr "Aiki an halitta"
+
+msgid "Task was closed"
+msgstr "Aikin da aka rufe"
+
+msgid "Go to Group"
+msgstr "Ka je wa Group"
+
+msgid "Closed"
+msgstr "rufe"
+
+msgid "Last updates"
+msgstr "karshe updates"
+
+msgid "Project is closed"
+msgstr "Aikin da aka rufe"
+
+msgid "No open tasks"
+msgstr "Ba a bude ayyuka"
+
+msgid "New task"
+msgstr "New aiki"
+
+msgid "Closed tasks"
+msgstr "rufaffiyar ayyuka"
+
+msgid "Add subproject"
+msgstr "Add subproject"
+
+msgid "Add task"
+msgstr "Add aiki"
+
+msgid "Sun"
+msgstr "Lahadi"
+
+msgid "Mon"
+msgstr "Litinin"
+
+msgid "Tue"
+msgstr "Talata"
+
+msgid "Wed"
+msgstr "Laraba"
+
+msgid "Thur"
+msgstr "Alhamis"
+
+msgid "Fri"
+msgstr "Jumma\'a"
+
+msgid "Sat"
+msgstr "Asabar"
+
+msgid "Event title"
+msgstr "taron suna"
+
+msgid "Event description"
+msgstr "taron description"
+
+msgid "I registered on this site"
+msgstr "I rajista a kan wannan shafi"
+
+msgid "Last created groups"
+msgstr "Last halitta kungiyoyin"
+
+msgid "You joined this group as"
+msgstr "Ku shiga wannan kungiya a matsayin"
+
+msgid "You received a request to join the group"
+msgstr "Ka samu da bukatar ya shiga kungiyar"
+
+msgid "Updated site"
+msgstr "updated gizo"
+
+msgid "Site is under construction"
+msgstr "Gizo ne a karkashin gini"
+
+msgid "Last registered users"
+msgstr "Last rajista masu amfani"
+
+msgid "User settings"
+msgstr "mai amfani saituna"
+
+msgid "Technical support"
+msgstr "Goyon bayan sana\'a"
+
+msgid "Change email"
+msgstr "Change email"
+
+msgid "Change password"
+msgstr "canza kalmar shiga"
+
+msgid "User has been successfully saved"
+msgstr "Mai amfani da aka samu nasarar ceto da"
+
+msgid "Full name"
+msgstr "Cikakken suna"
+
+msgid "My video"
+msgstr "ta video"
+
+msgid "Skills"
+msgstr "basira"
+
+msgid "Birthday"
+msgstr "birthday"
+
+msgid "Country of residence"
+msgstr "Kasar zama"
+
+msgid "Country"
+msgstr "kasar"
+
+msgid "Zip Code"
+msgstr "Lambar Titi"
+
+msgid "City/town of residence"
+msgstr "City / garin zama"
+
+msgid "University/college"
+msgstr "Jami\'a / koleji"
+
+msgid "University/college photo"
+msgstr "Jami\'ar / kwalejin photo"
+
+msgid "Add user\'s accomplishments"
+msgstr "Add mai amfani da aikata na aikin"
+
+msgid "Interface language"
+msgstr "dubawa da harshen"
+
+msgid "How other people see this page"
+msgstr "Yadda sauran mutane ga wannan shafi"
+
+msgid "Video with me"
+msgstr "Video tare da ni"
+
+msgid "Groups"
+msgstr "Groups"
+
+msgid "Registered today"
+msgstr "rajista a yau"
+
+msgid "Qty"
+msgstr "Qty"
+
+msgid "No registered users yet"
+msgstr "Babu rijista masu amfani duk da haka"
+
+msgid "Total"
+msgstr "total"
+
+msgid "Registered total"
+msgstr "rajista total"
+
+msgid "You received a file"
+msgstr "Ku samu fayil"
+
+msgid "You were invited into this room"
+msgstr "Kuka kasance gayyaci cikin wannan dakin"
+
+msgid "Request is being processed"
+msgstr "Bukatar da ake sarrafa"
+
+msgid "Fax"
+msgstr "fax"
+
+msgid "Messenger"
+msgstr "Manzo"
+
+msgid "New subproject"
+msgstr "New subproject"
+
+msgid "messages written."
+msgstr "saƙonnin da aka rubuta ."
+
+msgid "projects created based on groups."
+msgstr "ayyukan halitta bisa kungiyoyin ."
+
+msgid "users registered on website."
+msgstr "masu amfani rajista a kan website ."
+
+msgid "New email"
+msgstr "New email"
+
+msgid "Confirm email"
+msgstr "tabbatar da email"
+
+msgid "New password"
+msgstr "New kalmar sirri"
+
+msgid "Confirm password"
+msgstr "Tabbata kalmar shiga"
+
+msgid "Occupation"
+msgstr "Speciality"
+
+msgid "Timezone"
+msgstr "Timezone"
+
+msgid "Answer"
+msgstr "Amsa"
+
+msgid "Articles"
+msgstr "Articles"
+
+msgid "Article"
+msgstr "Mataki na ashirin da"
+
+msgid "Video-article"
+msgstr "Video - article"
+
+msgid "Find article..."
+msgstr "Find labarin ..."
+
+msgid "Politics"
+msgstr "siyasa"
+
+msgid "Economics"
+msgstr "tattalin arziki"
+
+msgid "Community"
+msgstr "Community"
+
+msgid "Culture"
+msgstr "al\'adu"
+
+msgid "Sports"
+msgstr "wasanni"
+
+msgid "Hi-tech"
+msgstr "Hi - tech"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Fashion"
+msgstr "fashion"
+
+msgid "Games"
+msgstr "wasanni"
+
+msgid "Other"
+msgstr "wasu"
+
+msgid "Invalid mediafile"
+msgstr "mara aiki mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Babu articles cikin wannan rukuni duk da haka"
+
+msgid "Back to profile"
+msgstr "Back to profile"
+
+msgid "View article"
+msgstr "Duba labarin"
+
+msgid "Edit article"
+msgstr "Shirya labarin"
+
+msgid "Create article"
+msgstr "Create labarin"
+
+msgid "Article title"
+msgstr "Mataki na ashirin da take"
+
+msgid "Article section"
+msgstr "Mataki na ashirin da sashe"
+
+msgid "Choose image"
+msgstr "zabi image"
+
+msgid "Save and upload"
+msgstr "Ajiye da upload"
+
+msgid "Show more..."
+msgstr "Nuna more ..."
+
+msgid "Create"
+msgstr "Create"
+
+msgid "Edit"
+msgstr "Shirya"
+
+msgid "Project"
+msgstr "Project"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "A new article was published"
+msgstr "Wani sabon labarin da aka buga"
+
+msgid "You joined this project"
+msgstr "Ku shiga wannan aiki"
+
+msgid "Enter your information in the User settings"
+msgstr "Shigar da bayanai a cikin User saituna"
+
+msgid "Communities"
+msgstr "Communities"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Video gabatar na aikata na aikin"
+
+msgid "My articles"
+msgstr "ta articles"
+
+msgid "User"
+msgstr "mai amfani"
+
+msgid "Users"
+msgstr "masu amfani"
+
+msgid "Add new list"
+msgstr "Add new list"
+
+msgid "List title"
+msgstr "jerin suna"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Add to favorites"
+msgstr "Add to favorites"
+
+msgid "Delete from favorites"
+msgstr "Share daga favorites"
+
+msgid "Select list"
+msgstr "zaži lissafin"
+
+msgid "Subscriptions"
+msgstr "rajista"
+
+msgid "Subscribe"
+msgstr "Labarai"
+
+msgid "Unsubscribe"
+msgstr "cire suna"
+
+msgid "General list"
+msgstr "Janar list"
+
+msgid "No users in this list"
+msgstr "Babu masu amfani a cikin wannan jerin"
+
+msgid "Publish"
+msgstr "buga"
+
+msgid "Unpublish"
+msgstr "Unpublish"
+
+msgid "Add user"
+msgstr "Add mai amfani"
+
+msgid "Create document"
+msgstr "Create daftarin aiki"
+
+msgid "Edit document"
+msgstr "Shirya daftarin aiki"
+
+msgid "View"
+msgstr "view"
+
+msgid "Document title"
+msgstr "daftarin aiki suna"
+
+msgid "Find document..."
+msgstr "Find daftarin aiki ..."
+
+msgid "Share your thoughts"
+msgstr "Raba ka tunani"
+
+msgid "Leave your comment"
+msgstr "Ka bar ka comment"
+
+msgid "Accept"
+msgstr "yarda da"
+
+msgid "Decline"
+msgstr "ƙi"
+
+msgid "Add article"
+msgstr "Add labarin"
+
+msgid "Link to verified accomplishments"
+msgstr "Link to tabbatar aikata na aikin"
+
+msgid "No articles here yet..."
+msgstr "Babu articles a nan duk da haka"
+
+msgid "Find file or folder..."
+msgstr "Find fayil ko babban fayil ..."
+
+msgid "Sort"
+msgstr "irin"
+
+msgid "By name"
+msgstr "by Name"
+
+msgid "By date"
+msgstr "By ranar halittar"
+
+msgid "By updated date"
+msgstr "Kwanan watan gyara"
+
+msgid "By size"
+msgstr "Fit"
+
+msgid "By type"
+msgstr "ta irin"
+
+msgid "Move"
+msgstr "Matsar"
+
+msgid "File Manager"
+msgstr "Mai sarrafa fayil"
+
+msgid "Share link"
+msgstr "Share"
+
+msgid "Responsible"
+msgstr "da alhakin"
+
+msgid "Performer"
+msgstr "mai yi"
+
+msgid "New Folder"
+msgstr "New Jaka"
+
+msgid "Folder name"
+msgstr "babban fayil sunan"
+
+msgid "By default"
+msgstr "ta tsohuwa"
+
+msgid "Back to group"
+msgstr "Back to kungiyar"
+
+msgid "year(s)"
+msgstr "shekara (s)"
+
+msgid "January"
+msgstr "Janairu"
+
+msgid "February"
+msgstr "Fabrairu"
+
+msgid "March"
+msgstr "Maris"
+
+msgid "April"
+msgstr "Afrilu"
+
+msgid "May"
+msgstr "Mayu"
+
+msgid "June"
+msgstr "Yuni"
+
+msgid "July"
+msgstr "Yuli"
+
+msgid "August"
+msgstr "Agusta"
+
+msgid "September"
+msgstr "Satumba"
+
+msgid "October"
+msgstr "Oktoba"
+
+msgid "November"
+msgstr "Nuwamba"
+
+msgid "December"
+msgstr "Disamba"
+
+msgid "Password Reminder"
+msgstr "kalmar sirri tunãtarwa"
+
+msgid "Log In"
+msgstr "Shiga"
+
+msgid "Sign in"
+msgstr "shiga"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "First name"
+msgstr "Sunan rana"
+
+msgid "Last name"
+msgstr "Sunan mahaifa"
+
+msgid "I agree with rules"
+msgstr "Na yarda da dokokin"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "A tabbatarwa mail aka aika zuwa adireshin imel ɗinka."
+
+msgid "Thanks"
+msgstr "Mun gode"
+
+msgid "Password must be at least 6 characters"
+msgstr "Kalmar sirri dole ne a kalla 6 characters"
+
+msgid "Creative Environment"
+msgstr "Creative muhalli"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Kana bukatar ka kasance a kalla goma sha uku shekara don amfani da wannan sabis"
+
+msgid "Order status"
+msgstr "domin matsayi"
+
+msgid "Processing order"
+msgstr "aiki domin"
+
+msgid "Requires a payment"
+msgstr "Na bukatar a biya"
+
+msgid "Shipping"
+msgstr "shipping"
+
+msgid "Ready"
+msgstr "shirye"
+
+msgid "Thank you for your payment"
+msgstr "Na gode da biyan"
+
+msgid "Your payment has been cancelled"
+msgstr "Da biyan da aka soke"
+
+msgid "page"
+msgstr "shafi na"
+
+msgid "Rent period"
+msgstr "haya lokaci"
+
+msgid "Total, month"
+msgstr "Total, watan"
+
+msgid "Order items"
+msgstr "domin abubuwa"
+
+msgid "No records found"
+msgstr "Babu records samu"
+
+msgid "User with this email is already exist"
+msgstr "Mai amfani da wannan email da ya rigaya zama"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Babban fayil ko file da irin wannan sunan An riga an wanzu a makõma babban fayil"
+
+msgid "Minimal quantity"
+msgstr "kadan yawa"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "buga kofe"
+
+msgid "Terms of Use"
+msgstr "Ka\'idojin amfani"
+
+msgid "Privacy Policy"
+msgstr "takardar kebantawa"
+
+msgid "Find project..."
+msgstr "Find aikin ..."
+
+msgid "New Project"
+msgstr "New Project"
+
+msgid "Accounts"
+msgstr "da lissafin"
+
+msgid "Operations"
+msgstr "yadda ake gudanar"
+
+msgid "All accounts"
+msgstr "duk da lissafin"
+
+msgid "All categories"
+msgstr "duk Categories"
+
+msgid "Expense"
+msgstr "kudi"
+
+msgid "Income"
+msgstr "samun kudin shiga"
+
+msgid "Transfer"
+msgstr "canja wurin"
+
+msgid "Expense"
+msgstr "kudi"
+
+msgid "income"
+msgstr "samun kudin shiga"
+
+msgid "tax"
+msgstr "haraji"
+
+msgid "percent"
+msgstr "kashi"
+
+msgid "transfer"
+msgstr "canja wuri"
+
+msgid "Make operation"
+msgstr "sa aiki"
+
+msgid "Select date"
+msgstr "zaži kwanan wata"
+
+msgid "Select account"
+msgstr "zaži lissafi"
+
+msgid "Month"
+msgstr "watan"
+
+msgid "Quarter"
+msgstr "kwata"
+
+msgid "Year"
+msgstr "shekara"
+
+msgid "From"
+msgstr "daga"
+
+msgid "To"
+msgstr "don"
+
+msgid "Expense amount"
+msgstr "kudi adadin"
+
+msgid "Categories"
+msgstr "Categories"
+
+msgid "Comments"
+msgstr "comments"
+
+msgid "Income amount"
+msgstr "samun kudin shiga adadin"
+
+msgid "Transfer amount"
+msgstr "canja wurin adadin"
+
+msgid "From account"
+msgstr "daga lissafi"
+
+msgid "To account"
+msgstr "zuwa asusu"
+
+msgid "New Account"
+msgstr "New Account"
+
+msgid "New Category"
+msgstr "New Category"
+
+msgid "All"
+msgstr "duk"
+
+msgid "Name"
+msgstr "sunan"
+
+msgid "Enter category name"
+msgstr "Ku shiga category sunan"
+
+msgid "Select type"
+msgstr "zaži irin"
+
+msgid "Credit card"
+msgstr "katin bashi"
+
+msgid "Debit card"
+msgstr "zare kudi katin"
+
+msgid "Bank account"
+msgstr "bank account"
+
+msgid "Cash"
+msgstr "Cash"
+
+msgid "Balance is empty"
+msgstr "Balance ne komai"
+
+msgid "Statistic is empty"
+msgstr "Wannan hasashen ne komai"
+
+msgid "Regular payments"
+msgstr "na yau da kullum biya"
+
+msgid "Are you sure ?"
+msgstr "Ka tabbata ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Ka tabbata don rufe wannan aikin ?"
+
+msgid "Project was deleted successfully"
+msgstr "Aikin da aka share samu nasarar"
+
+msgid "Select currency"
+msgstr "zaži kudin"
+
+msgid "Account"
+msgstr "lissafi"
+
+msgid "Orders list"
+msgstr "umarni list"
+
+msgid "Order payments"
+msgstr "domin biya"
+
+msgid "View order"
+msgstr "view domin"
+
+msgid "No response from Printer API"
+msgstr "Babu amsa daga bugawa API"
+
+msgid "Bad response from Printer API"
+msgstr "Bad amsa daga bugawa API"
+
+msgid "User ID"
+msgstr "mai amfani ID"
+
+msgid "Contact Person"
+msgstr "Contact mutum"
+
+msgid "No orders to process"
+msgstr "Babu umarni don aiwatar"
+
+msgid "Article announce image"
+msgstr "Mataki na ashirin da bushãra image"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Mara aiki video url . Ka bar blank ko saka da inganci youtube url"
+
+msgid "Please, enter Contractor data"
+msgstr "Don Allah , ku shiga dan kwangila data"
+
+msgid "Distribute devices"
+msgstr "rarraba na\'urorin"
+
+msgid "Quantity"
+msgstr "yawa"
+
+msgid "Devices left"
+msgstr "na\'urorin bar"
+
+msgid "Distributed devices"
+msgstr "rarraba na\'urorin"
+
+msgid "You must enter quantity"
+msgstr "Dole ka shigar da yawa"
+
+msgid "All devices are distributed"
+msgstr "Duk na\'urorin da ake rarraba"
+
+msgid "IP address"
+msgstr "adireshin IP"
+
+msgid "Only for printer"
+msgstr "Sai kawai ga firinta"
+
+msgid "Counter"
+msgstr "counter"
+
+msgid "You was excluded from this room"
+msgstr "Ka da aka cire daga wannan dakin"
+
+msgid "Compare"
+msgstr "kwatanta"
+
+msgid "Scheduled transaction"
+msgstr "shirya ma\'amala"
+
+msgid "Select transfer account"
+msgstr "Zaži canja wurin lissafi"
+
+msgid "Select income account"
+msgstr "Zaži samun kudin shiga lissafi"
+
+msgid "Reports"
+msgstr "rahotanni"
+
+msgid "Goals"
+msgstr "a raga"
+
+msgid "Budgets"
+msgstr "kasafin kudi"
+
+msgid "Enter user name or email..."
+msgstr "Ku shiga sunan mai amfani ko email ..."
+
+msgid "Invite had been sended"
+msgstr "Kira da aka sended"
+
+msgid "Statistics"
+msgstr "statistics"
+
+msgid "Updated site began to work"
+msgstr "Updated shafin fara aiki"
+
+msgid "City of residence"
+msgstr "City na zama"
+
+msgid "Edit favourites list"
+msgstr "Shirya favorites list"
+
+msgid "Add favourites list"
+msgstr "Add favorites list"
+
+msgid "Categories is required"
+msgstr "Categories ake bukata"
+
+msgid "Type new category name and hit Enter"
+msgstr "Rubuta sabon category sunan kuma buga shiga"
+
+msgid "You created an order"
+msgstr "Ka halitta oda"
+
+msgid "You received a device due to this order"
+msgstr "Ka karbi na\'urar saboda wannan tsari"
+
+msgid "%s attached %s to task %s"
+msgstr "%s a haɗe %s zuwa %s sabõda"
+
+msgid "member(s)"
+msgstr "m (s)"
+
+msgid "%s commented task %s"
+msgstr "%s sharhi aiki %s"
+
+msgid "%s closed task %s"
+msgstr "%s rufaffiyar aiki %s"
+
+msgid "%s created task %s"
+msgstr "%s halitta aiki %s"
+
+msgid "%s created this project"
+msgstr "%s halitta wannan aiki"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s halitta subproject \" %s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s rufaffiyar aikin \" %s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s rufaffiyar subproject \" %s\""
+
+msgid "This field must not be blank"
+msgstr "Wannan filin dole ne su kasance m"
+
+msgid "Document with such name is already exist"
+msgstr "Daftarin aiki da irin wannan sunan da ya rigaya zama"
+
+msgid "Wait until image upload"
+msgstr "Jira har image upload"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Message can not be empty"
+msgstr "Sako ba zai iya zama komai"
+
+msgid "Yes"
+msgstr "a"
+
+msgid "No"
+msgstr "babu"
+
+msgid "Created"
+msgstr "Created"
+
+msgid "Compare is empty"
+msgstr "Kwatanta shi ne komai"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Ka tabbata kana so ka share aiki"
+
+msgid "Do you really want to delete transaction"
+msgstr "Shin, ba ka son ka share ma\'amala"
+
+msgid "Project with same name already exists"
+msgstr "Aikin da wannan sunan Dama akwai"
+
+msgid "Account is not found"
+msgstr "Lissafi ba a samu"
+
+msgid "Currency is required"
+msgstr "Kudin da ake bukata"
+
+msgid "error while deleting document"
+msgstr "kuskuren yayin share daftarin aiki"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Ka gayyaci mai amfani \" %s\" a cikin wannan dakin"
+
+msgid "User \"%s\" joined this room"
+msgstr "Mai amfani \" %s\" ya koma wannan dakin"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Ka cire mai amfani \" %s \" daga wannan dakin"
+
+msgid "User \"%s\" left this room"
+msgstr "Mai amfani \" %s\" bar wannan dakin"
+
+msgid "Add account"
+msgstr "Add lissafi"
+
+msgid "The requested page is not found"
+msgstr "Da nema shafi na ba a samu"
+
+msgid "Document"
+msgstr "daftarin aiki"
+
+msgid "Table"
+msgstr "tebur"
+
+msgid "file(s)"
+msgstr "fayil ( s)"
+
+msgid "Residue"
+msgstr "saura"
+
+msgid "Result is empty"
+msgstr "Sakamakon haka ne komai"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Jimlar adadin ne %s ga %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Dole ka saka %s kowane wata zuwa related lissafi"
+
+msgid "Start"
+msgstr "Fara"
+
+msgid "finish"
+msgstr "gama"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Zaba lissafi da ya rigaya a yi amfani da wani burin"
+
+msgid "Amount required"
+msgstr "adadin da ake bukata"
+
+msgid "New goal"
+msgstr "New burin"
+
+msgid "Goal"
+msgstr "manufa"
+
+msgid "Goal name"
+msgstr "Manufar sunan"
+
+msgid "Invalid date"
+msgstr "mara aiki kwanan wata"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Wajibi Naira Miliyan Xari dole ne tabbatacce yawan"
+
+msgid "Remain"
+msgstr "kasance"
+
+msgid "Last day"
+msgstr "ranar ƙarshe"
+
+msgid "Accumulated"
+msgstr "tara"
+
+msgid "Put aside"
+msgstr "ajiye"
+
+msgid "January"
+msgstr "Janairu"
+
+msgid "February"
+msgstr "Fabrairu"
+
+msgid "March"
+msgstr "Maris"
+
+msgid "April"
+msgstr "Afrilu"
+
+msgid "May"
+msgstr "Mayu"
+
+msgid "June"
+msgstr "Yuni"
+
+msgid "July"
+msgstr "Yuli"
+
+msgid "August"
+msgstr "Agusta"
+
+msgid "September"
+msgstr "Satumba"
+
+msgid "October"
+msgstr "Oktoba"
+
+msgid "November"
+msgstr "Nuwamba"
+
+msgid "December"
+msgstr "Disamba"
+
+msgid "Expenses projected/actual"
+msgstr "Kudi kimanta / ainihin"
+
+msgid "Net Income projected/actual"
+msgstr "Net kudin shiga kimanta / ainihin"
+
+msgid "New budget"
+msgstr "New kasafin kudin"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Kudaden shiga da kuma kudi Chart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Kasafin kudin da guda biyu daga lissafi kuma category riga wanzu"
+
+msgid "Budget is empty"
+msgstr "Kasafin kudin da yake komai"
+
+msgid "Budget"
+msgstr "kasafin kudin"
+
+msgid "plan"
+msgstr "shirin"
+
+msgid "fact"
+msgstr "gaskiyar"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "nuna More"
+
+msgid "Cancel"
+msgstr "soke"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "ta tallace-tallace"
+
+msgid "Time spent"
+msgstr "lokaci ya ciyar"
+
+msgid "Total time spent"
+msgstr "Total ciyar a lokaci"
+
+msgid "Earnings per hour"
+msgstr "Albashi da sa\'a"
+
+msgid "Total earnings"
+msgstr "total albashi"
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Phone call"
+msgstr "wayar kira"
+
+msgid "Telephone calls"
+msgstr "kiran tarho"
+
+msgid "Send email"
+msgstr "aika email"
+
+msgid "Emails"
+msgstr "imel"
+
+msgid "Meeting"
+msgstr "ganawa"
+
+msgid "Meetings"
+msgstr "tarurruka"
+
+msgid "All events"
+msgstr "duk abubuwan"
+
+msgid "Task"
+msgstr "Task"
+
+msgid "Event"
+msgstr "taron"
+
+msgid "Events"
+msgstr "events"
+
+msgid "Time"
+msgstr "Time"
+
+msgid "Events statistics"
+msgstr "events statistics"
+
+msgid "days"
+msgstr "kwana"
+
+msgid "hours"
+msgstr "hours"
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid "Income & expense"
+msgstr "Samun kudin shiga & kudi"
+
+msgid "Show chart"
+msgstr "show ginshiƙi"
+
+msgid "Hide chart"
+msgstr "Ɓoye ginshiƙi"
+
+msgid "Add event"
+msgstr "Add taron"
+
+msgid "Add financial data"
+msgstr "Add kudi data"
+
+msgid "Select contractor"
+msgstr "zaži dan kwangila"
+
+msgid "Net Income"
+msgstr "Duka riba"
+
+msgid "Revenue"
+msgstr "kudaden shiga"
+
+msgid "Taxes"
+msgstr "haraji"
+
+msgid "Amount planned"
+msgstr "adadin shirya"
+
+msgid "Amount"
+msgstr "adadin"
+
+msgid "Period"
+msgstr "lokaci"
+
+msgid "Are you sure to close this task?"
+msgstr "Ka tabbata don rufe wannan aiki ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "duk kungiyoyin"
+
+msgid "added from task"
+msgstr "kara da cewa daga aiki"
+
+msgid "Monthly repeat"
+msgstr "kowane wata sake"
+
+msgid "Select category"
+msgstr "zaži category"
+
+msgid "Event type"
+msgstr "taron irin"
+
+msgid "Margin"
+msgstr "gefe"
+
+msgid "Use finance project"
+msgstr "Yi amfani da kudi aikin"
+
+msgid "New investment project"
+msgstr "New zuba jari aikin"
+
+msgid "Investment project settings"
+msgstr "Zuba jari aikin saituna"
+
+msgid "Picture, for the announcement project"
+msgstr "HOTO , ga sanarwar aikin"
+
+msgid "Announcement project"
+msgstr "sanarwa aikin"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Photos or videos gallery"
+msgstr "Hotuna ko bidiyo gallery"
+
+msgid "required amount"
+msgstr "da ake bukata adadin"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Project duration (60 kwana iyakar )"
+
+msgid "Project duration"
+msgstr "Project duration"
+
+msgid "Add reward"
+msgstr "Add sakamako"
+
+msgid "Delivery date"
+msgstr "bayarwa kwanan wata"
+
+msgid "Payment systems"
+msgstr "biyan tsarin"
+
+msgid "Terms of service"
+msgstr "Sharuddan sabis"
+
+msgid "Agreement"
+msgstr "yarjejeniyar"
+
+msgid "Payment"
+msgstr "biyan"
+
+msgid "My projects"
+msgstr "My ayyukan"
+
+msgid "Search result"
+msgstr "search sakamakon"
+
+msgid "Nothing not found"
+msgstr "Babu wani abu da ba a samu"
+
+msgid "The project has no sponsors"
+msgstr "Aikin ba shi da wani tallafawa"
+
+msgid "Design"
+msgstr "zane"
+
+msgid "Food"
+msgstr "abinci"
+
+msgid "Journalism"
+msgstr "aikin jarida"
+
+msgid "Games"
+msgstr "wasanni"
+
+msgid "Art"
+msgstr "art"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "music"
+
+msgid "Handicrafts"
+msgstr "handicrafts"
+
+msgid "Publishing"
+msgstr "Publishing"
+
+msgid "Theater"
+msgstr "gidan wasan kwaikwayo"
+
+msgid "Technology"
+msgstr "fasaha"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "photo"
+
+msgid "Dance"
+msgstr "Dance"
+
+msgid "Invalid youtube video"
+msgstr "Mara aiki youtube video"
+
+msgid "is required"
+msgstr "ana buƙatar"
+
+msgid "User"
+msgstr "mai amfani"
+
+msgid "Date"
+msgstr "kwanan"
+
+msgid "Collected"
+msgstr "tattara"
+
+msgid "Choose period"
+msgstr "zabi lokaci"
+
+msgid "Choose region"
+msgstr "zabi yankin"
+
+msgid "Country"
+msgstr "kasar"
+
+msgid "Today"
+msgstr "a yau"
+
+msgid "Week"
+msgstr "mako"
+
+msgid "Month"
+msgstr "watan"
+
+msgid "Year"
+msgstr "shekara"
+
+msgid "Free registration"
+msgstr "free rajista"
+
+msgid "Join"
+msgstr "Join"
+
+msgid "Log in using"
+msgstr "Shiga ta yin amfani da"
+
+msgid "Vacancies"
+msgstr "aikin yi dama"
+
+msgid "About Us"
+msgstr "game da Mu"
+
+msgid "You will need email to log in"
+msgstr "Za ka bukatar email don shiga"
+
+msgid "A combination of 6 digits and characters"
+msgstr "A hade da 6 lambobi da kuma haruffa"
+
+msgid "Search users, groups, articles..."
+msgstr "Search masu amfani , kungiyoyin , articles ..."
+
+msgid "Cloud"
+msgstr "Cloud"
+
+msgid "Sunday"
+msgstr "Lahadi"
+
+msgid "Monday"
+msgstr "Litinin"
+
+msgid "Tuesday"
+msgstr "Talata"
+
+msgid "Wednesday"
+msgstr "Laraba"
+
+msgid "Thursday"
+msgstr "Alhamis"
+
+msgid "Friday"
+msgstr "Jumma\'a"
+
+msgid "Saturday"
+msgstr "Asabar"
+
+msgid "Edit"
+msgstr "Shirya"
+
+msgid "Create group"
+msgstr "Create kungiyar"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Ana Ka tabbata kana so ka bar wannan shafi ?"
+
+msgid "More"
+msgstr "Kara"
+
+msgid "Less"
+msgstr "Kadan"
+
+msgid "Pending"
+msgstr "a lokacin"
+
+msgid "Approved"
+msgstr "amince"
+
+msgid "Rejected"
+msgstr "ƙaryata"
+
+msgid "Subprojects"
+msgstr "Subprojects"
+
+msgid "Group edit"
+msgstr "kungiyar edit"
+
+msgid "Startup"
+msgstr "farawa"
+
+msgid "Tattoo"
+msgstr "Tattoo"
+
+msgid "Health"
+msgstr "kiwon lafiya"
+
+msgid "Weapon"
+msgstr "makami"
+
+msgid "Astronomy"
+msgstr "ilmin taurari"
+
+msgid "All articles"
+msgstr "duk articles"
+
+msgid "Article editor"
+msgstr "Mataki na ashirin da edita"
+
+msgid "Document editor"
+msgstr "daftarin aiki edita"
+
+msgid "Apply changes"
+msgstr "Aiwatar canje-canje"
+
+msgid "Save changes?"
+msgstr "Ajiye canje-canje ?"
+
+msgid "published an article"
+msgstr "da aka buga wata kasida"
+
+msgid "Users"
+msgstr "masu amfani"
+
+msgid "Shared With Me"
+msgstr "Shared Da Ni"
+
+msgid "share"
+msgstr "share"
+
+msgid "Select Group Responsible"
+msgstr "Zaži Group alhakin"
+
+msgid "Create folder"
+msgstr "halicci babban fayil"
+
+msgid "Title must be at least 3 characters"
+msgstr "Title dole ne a kalla 3 characters"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Free 10 GB , kudi sarrafa, zuba jari a koyaushe , da kuma wasu masu for free kuma har abada"
+
+msgid "Best regards"
+msgstr "Gaisuwa mafi kyau"
+
+msgid "Updates in last 12 hours:"
+msgstr "Updates a karshe 12 hours :"
+
+msgid "expense"
+msgstr "kudi"
+
+msgid "Commentary on the event:"
+msgstr "Sharhin a taron :"
+
+msgid "Event place"
+msgstr "taron wuri"
+
+msgid "Project was updated"
+msgstr "Aikin da aka sabunta"
+
+msgid "Project was created"
+msgstr "Aikin da aka halicce"
+
+msgid "Project was closed"
+msgstr "Aikin da aka rufe"
+
+msgid "account"
+msgstr "lissafi"
+
+msgid "removed task"
+msgstr "a kawar aiki"
+
+msgid "removed subproject"
+msgstr "a kawar subproject"
+
+msgid "Title can not be empty"
+msgstr "Title ba zai iya zama komai"
+
+msgid "Do not select the type of event"
+msgstr "Shin, ba ka zaba da irin taron"
+
+msgid "Error while saving comment"
+msgstr "Kuskuren yayin da ceton comment"
+
+msgid "Save error: access denied"
+msgstr "Ajiye kuskure : damar ƙaryata game"
+
+msgid "Remains"
+msgstr "ragowa"
+
+msgid "Time spent, h."
+msgstr "Lokaci ya ciyar , h ."
+
+msgid "Emails"
+msgstr "imel"
+
+msgid "Meetings"
+msgstr "tarurruka"
+
+msgid "All users"
+msgstr "duk masu amfani"
+
+msgid "Category"
+msgstr "category"
+
+msgid "Finance project"
+msgstr "Finance aikin"
+
+msgid "Investment project"
+msgstr "zuba jari aikin"
+
+msgid "Nature"
+msgstr "Nature"
+
+msgid "Data is empty"
+msgstr "Data ne komai"
+
+msgid "Visitors"
+msgstr "Masu ziyara"
+
+msgid "My profile"
+msgstr "My profile"
+
+msgid "Sponsors"
+msgstr "tallafawa"
+
+msgid "Prior to completion"
+msgstr "Kafin kammala"
+
+msgid "Select"
+msgstr "zaži"
+
+msgid "My groups"
+msgstr "My kungiyoyin"
+
+msgid "The invitation has been sent successfully"
+msgstr "Bisa gayyatar da aka aiko samu nasarar"
+
+msgid "Username has already been invited to this project"
+msgstr "Sunan mai amfani an riga an kira su zuwa ga wannan aiki"
+
+msgid "The user is the creator of the project"
+msgstr "Mai amfani ne mahaliccin aikin"
+
+msgid "Provide full access"
+msgstr "Samar da cikakken damar"
+
+msgid "Select elements to provide access"
+msgstr "Zaži abubuwa don samar da damar yin amfani"
+
+msgid "Select all"
+msgstr "zaži duk"
+
+msgid "User E-mail"
+msgstr "Mai amfani E -mail"
+
+msgid "Click on the field to select a category"
+msgstr "Click a filin wasa don zaɓar wata category"
+
+msgid "Invitation was deleted"
+msgstr "Gayyatar da aka share"
+
+msgid "Permission denied"
+msgstr "izni ƙaryata game"
+
+msgid "Printed"
+msgstr "buga"
+
+msgid "Incorrect Contractor email"
+msgstr "Ba daidai ba dan kwangila email"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Shin, ba ka so ka ƙara aikin to finance manager ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Don kammala da rajista tsari don Allah cika saukar da basira"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "An mail tare da kara umarnin aka aika zuwa adireshin imel ɗinka"
+
+msgid "Submit"
+msgstr "sallama"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Science"
+msgstr "kimiyya"
+
+msgid "Donation"
+msgstr "kyauta"
+
+msgid "Interests"
+msgstr "bukatun"
+
+msgid "Driver"
+msgstr "direba"
+
+msgid "Sportsman"
+msgstr "ɗan wasa"
+
+msgid "Businessman"
+msgstr "kasuwa"
+
+msgid "Accountant"
+msgstr "akawu"
+
+msgid "Engineer"
+msgstr "m"
+
+msgid "Soldier"
+msgstr "soja"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Hide group"
+msgstr "Ɓoye kungiyar"
+
+msgid "groups created"
+msgstr "kungiyoyin halitta"
+
+msgid "articles written"
+msgstr "articles rubuta"
+
+msgid "These groups may be interesting for you"
+msgstr "Wadannan kungiyoyin iya zama mai ban sha\'awa a gare ku"
+
+msgid "About Group"
+msgstr "game da Group"
+
+msgid "view(s)"
+msgstr "view (s)"
+
+msgid "Favorite users"
+msgstr "Favorite masu amfani"
+
+msgid "No accounts"
+msgstr "babu asusun"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook izni kasa ."
+
+msgid "Authorization Required"
+msgstr "izini ake buƙata"
+
+msgid "You have to make a call:"
+msgstr "Dole ka yin kira :"
+
+msgid "You have to send an email:"
+msgstr "Dole ka aika saƙon email :"
+
+msgid "You have a meetup:"
+msgstr "Kana da meetup :"
+
+msgid "You event :"
+msgstr "Ku taron :"
+
+msgid "Participants:"
+msgstr "mahalarta :"
+
+msgid "Search"
+msgstr "search"
+
+msgid "News"
+msgstr "News"
+
+msgid "Investments"
+msgstr "zuba jari"
+
+msgid "Back to Cloud"
+msgstr "Back to Cloud"
+
+msgid "Documents"
+msgstr "takardun"
+
+msgid "Planet"
+msgstr "Planet"
+
+msgid "Group url"
+msgstr "kungiyar url"
+
+msgid "Profile url"
+msgstr "profile url"
+
+msgid "Already taken"
+msgstr "riga riƙi"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "A kalla 1 wasika da 3 chars tsawon ake bukata"
+
+msgid "Digit can not be the first character"
+msgstr "Lambar ba zai iya zama na farko hali"
+
+msgid "Enter valid email address"
+msgstr "Ku shiga m email address"
+
+msgid "Enter your skills"
+msgstr "Shigar da basira"
+
+msgid "Enter your first name"
+msgstr "Shigar da sunan farko"
+
+msgid "Enter your last name"
+msgstr "Shigar da sunan karshe"
+
+msgid "Enter your first name and last name"
+msgstr "Shigar da suna na farko da na karshe suna"
+
+msgid "Your first name?"
+msgstr "Da farko sunan ?"
+
+msgid "Your last name?"
+msgstr "Da na karshe suna ?"
+
+msgid "What are your proficiencies?"
+msgstr "Mene ne ka proficiencies ?"
+
+msgid "Select country"
+msgstr "zaži kasar"
+
+msgid "Select user"
+msgstr "zaži mai amfani"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Cika mafarki ! Ƙirƙiri da kuma hada gwiwa ."
+
+msgid "date moved from"
+msgstr "kwanan watan koma daga"
+
+msgid "work"
+msgstr "aikin"
+
+msgid "Conference"
+msgstr "taron"
+
+msgid "personal"
+msgstr "na sirri"
+
+msgid "Holiday"
+msgstr "Holiday"
+
+msgid "Past"
+msgstr "Da"
+
+msgid "Future"
+msgstr "Nan gaba"
+
+msgid "Purchase"
+msgstr "Purchase"
+
+msgid "Personal events"
+msgstr "Masu zaman kansu abubuwan"
+
+msgid "Conferences"
+msgstr "Ganawa"
+
+msgid "Holidays"
+msgstr "Holidays"
+
+msgid "Sport events"
+msgstr "Wasanni abubuwan"
+
+msgid "Tasks"
+msgstr "Ɗawainiya"
+
+msgid "Other events"
+msgstr "Wasu abubuwan da suka faru"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Ajali."
+
+msgid "Time management"
+msgstr "Lokaci Management"
+
+msgid "Delayed events"
+msgstr "Tsagaita abubuwan"
+
+msgid "Delayed"
+msgstr "Ajali."
+
+msgid "Bind to"
+msgstr "Raba-aiki"
+
+msgid "answered your comment to"
+msgstr "Na ce (a) Comment a kan labarin"
+
+msgid "commented your article"
+msgstr "Na yi sharhi a kan labarin"
+
+msgid "You\'ve answered on comment to"
+msgstr "Ku amsa wa comment a kan labarin"
+
+msgid "You\'ve commented an article"
+msgstr "Ka yi sharhi a kan labarin"
+
+msgid "Terms and Conditions"
+msgstr "Kaidojin amfani da shafi"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Ta danna kan \"rajista\" ka yarda da mu da kuma amince da cewa ka karanta mu"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Shiga cikin al\'umma da m mutane daga ko\'ina cikin duniya! Za ka sami: Investing a cikin ra\'ayoyin, wata dama don tara da tawagar, aiki a cikin wani rukunin, da kudi sarrafa, manajan ajalinsu, 2 gigabytes a ajiya kuma mafi. Kuma yana da free!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Yi hakuri, amma shafin da kake nema ba ya zama. Idan ka yi zaton za zarga da mu tuntube mu"
+
+msgid "Return"
+msgstr "Sama"
+
+msgid "COMMON"
+msgstr "Total"
+
+msgid "My events"
+msgstr "Ta Events"
+
+msgid "Job opening"
+msgstr "New gurbi"
+
+msgid "Employment"
+msgstr "Irin aikin yi"
+
+msgid "Working hours"
+msgstr "Bude hours"
+
+msgid "City"
+msgstr "City"
+
+msgid "Wages"
+msgstr "Albashi"
+
+msgid "Currency"
+msgstr "Kudin"
+
+msgid "Experience"
+msgstr "Experience"
+
+msgid "Full-time"
+msgstr "Full aikin yi"
+
+msgid "Part-time"
+msgstr "Part-lokaci"
+
+msgid "Project employment"
+msgstr "Aikin / Gadi"
+
+msgid "Volunteer"
+msgstr "Da yardar ransa"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "Full Time"
+
+msgid "Shifts"
+msgstr "Sauyawa jadawalin"
+
+msgid "Flexible shifts"
+msgstr "M jadawalin"
+
+msgid "Remote work"
+msgstr "M aiki"
+
+msgid "Rotational basis"
+msgstr "Hanyar motsi"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Ana Ka tabbata kana so ka share comment?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Ana Ka tabbata kana so ka goge wannan aiki?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Ana Ka tabbata kana so ka share wannan yankin aikin?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Ka shafi kamfanin a matsayi. Don Allah a tabbata cewa"
+
+msgid "Your request to for job has been rejected"
+msgstr "Ka bukatar kamfanin zuwa matsayi da aka ƙaryata"
+
+msgid "Your request to for job has been accepted"
+msgstr "Ka bukatar kamfanin zuwa matsayi aka soma"
+
+msgid "profile is completed"
+msgstr "Furofayil ɗinka ta cika"
+
+msgid "Use account"
+msgstr "Yi amfani da asusun"
+
+msgid "$/hr"
+msgstr "$ / Hour"
+
+msgid "Finance category"
+msgstr "Financial category"
+
+msgid "No projects"
+msgstr "Babu ayyukan"
+
+msgid "Bind to finances"
+msgstr "Sanya kudi aikin"
+
+msgid "Preview"
+msgstr "View"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Save to my cloud"
+msgstr "Kwafe mangaza"
+
+msgid "File successfully saved to your cloud"
+msgstr "Fayil samu nasarar adana a cikin mangaza"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Ajiye wannan fayil a cikin mangaza?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Zabi wani category Mataki na ashirin da"
+
+msgid "Type something"
+msgstr "Rubuta wani abu"
+
+msgid "Founded users"
+msgstr "Samu masu amfani"
+
+msgid "Founded articles"
+msgstr "Sami labarin"
+
+msgid "Founded groups"
+msgstr "Kafa kungiyar"
+
+msgid "What are your skills?"
+msgstr "Mene ne ka basira?"
+
+msgid "Select at least 2 interests"
+msgstr "Zaži akalla 2 amfani"
+
+msgid "Need more interests"
+msgstr "Bai isa ba sha\'awa zaba"
+
+msgid "What are you interesting in?"
+msgstr "Mene ne ku sha\'awar?"
+
+msgid "You have no dialogs"
+msgstr "Ba ka da tattaunawa"
+
+msgid "Usage Stats"
+msgstr "Jihar"
+
+msgid "Founded files"
+msgstr "Fayiloli Found"
+
+msgid "Big tiles"
+msgstr "Manyan fale-falen buraka"
+
+msgid "Small tiles"
+msgstr "Small Fale-falen buraka"
+
+msgid "Table view"
+msgstr "Table view"
+
+msgid "Root folder"
+msgstr "Tushen shugabanci"
+
+msgid "My files"
+msgstr "Ta Files"
+
+msgid "Save as draft"
+msgstr "Fãce Daftarin"
+
+msgid "Buy More Space"
+msgstr "Saya mafi tsawo"
+
+msgid "Buy"
+msgstr "Saya"
+
+msgid "You have been invited to group as"
+msgstr "Da aka kira su zuwa ga kungiyar a matsayin"
+
+msgid "User wants to join your group"
+msgstr "Mai amfani yanã son ya shiga kungiyar your"
+
+msgid "Section is coming soon!"
+msgstr "Sashe a karkashin yi!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Ra\'ayoyi, a cikin shekaru 24 hours:"
+
+msgid "Task was updated"
+msgstr "Aikin da aka sabunta"
+
+msgid "Task was closed"
+msgstr "Da kalubale da aka rufe"
+
+msgid "Task was created"
+msgstr "Aikin da aka kafa"
+
+msgid "Current balance"
+msgstr "Yanzu balance"
+
+msgid "Add funds"
+msgstr "Add"
+
+msgid "Pay"
+msgstr "Wurin biya"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Ka zarce yawan login yunkurin. Ana katange na mintina 15"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Don Allah tabbatar da e-mail. Harafin aiko zuwa gare ku daga mail."
+
+msgid "Resend confirmation email"
+msgstr "Aika tabbatarwa kuma"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB na wata-wata"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Fitar da 10 GB a kowace shekara"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Faifai 100 GB kowace shekara"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Faifai 1TB kowane wata"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Fitar 1 tarin fuka a kowace shekara"
+
+msgid "Project members monthly"
+msgstr "Mahalarta na aikin a kowane wata"
+
+msgid "Project members yearly"
+msgstr "Project mahalarta a shekara"
+
+msgid "Member(s) yearly"
+msgstr "M (s) a kowace shekara"
+
+msgid "Member(s) monthly"
+msgstr "M (s) a kowane wata"
+
+msgid "Authorized"
+msgstr "Izini"
+
+msgid "Authorization expired"
+msgstr "Izini gama aiki"
+
+msgid "Processor declined"
+msgstr "Ƙaryata aiki da tsarin"
+
+msgid "Gateway rejected"
+msgstr "Ƙaryata biyan ƙofa"
+
+msgid "Failed"
+msgstr "Kuskuren"
+
+msgid "Voided"
+msgstr "Warware"
+
+msgid "Submitted for settlement"
+msgstr "Aika zuwa shiga da"
+
+msgid "Settlement declined"
+msgstr "Rejista da aka ƙaryata"
+
+msgid "Settlement pending"
+msgstr "A lokacin yin rajista"
+
+msgid "Verified"
+msgstr "Bari"
+
+msgid "Pending"
+msgstr "A lokacin"
+
+msgid "Active"
+msgstr "Aiki"
+
+msgid "Past Due"
+msgstr "Gama aiki"
+
+msgid "Expired"
+msgstr "Ƙare"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "India"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "South Korea"
+msgstr "Koriya ta Kudu"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Israel"
+msgstr "Isra\'ila"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Turkey"
+msgstr "Turkiya"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Germany"
+msgstr "Jamus"
+
+msgid "Italy"
+msgstr "Italiya"
+
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "United Kingdom"
+msgstr "Birtaniya"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "United States"
+msgstr "Amurka"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+msgid "Canada"
+msgstr "Misira"
+
+msgid "Russia"
+msgstr "Rasha"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "A wannan lokacin, akwai ba guda ma\'amala"
+
+msgid "Fulfill your dream"
+msgstr "Cika mafarki"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Mu shiga al\'umma da m mutane daga dukan, a duniya."
+
+msgid "Create and Collaborate"
+msgstr "Ƙirƙiri da kuma hada gwiwa"
+
+msgid "Start Dreaming"
+msgstr "Cika mafarki NOW"
+
+msgid "or"
+msgstr "ko"
+
+msgid "Our mission:"
+msgstr "Mu manufa:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Don gama m da kuma aiki mutane su yi ra\'ayoyi daga sauki da kuma a bukatar zuwa m da dama, da za su iya siffar mu nan gaba."
+
+msgid "What is Konstruktor?"
+msgstr "Mene ne Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor- ne wani ɓangare na mu hakikanin rai, wanda muhimmanci facilitates da simplifies"
+
+msgid "*business processes"
+msgstr "* kasuwanci matakai"
+
+msgid "*materialization of creative ideas"
+msgstr "* materialization na m ra\'ayoyin"
+
+msgid "*constructive cooperation"
+msgstr "* sanyata hadin gwiwa"
+
+msgid "Make your dream!"
+msgstr "Ku sanya mafarki!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "Shugaba"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Musamman mai bada shawara"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Manager, Software raya"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Babban jami\'in lauya"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Zanen"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Ta danna kan \"Next\" button, kana yarda da yarda da mu Kaidojin amfani da shafi, kuma kana yarda da ka karanta mu Privacy Policy."
+
+msgid "Incorrect login or password."
+msgstr "Ba daidai ba login ko kalmar sirri."
+
+msgid "Password must be at least 6 characters"
+msgstr "Kalmar sirri dole ne a kalla 6 characters"
+
+msgid "January"
+msgstr "Janairu"
+
+msgid "February"
+msgstr "Fabrairu"
+
+msgid "March"
+msgstr "Maris"
+
+msgid "April"
+msgstr "Afrilu"
+
+msgid "May"
+msgstr "Mayu"
+
+msgid "June"
+msgstr "Yuni"
+
+msgid "July"
+msgstr "Yuli"
+
+msgid "August"
+msgstr "Agusta"
+
+msgid "September"
+msgstr "Satumba"
+
+msgid "October"
+msgstr "Oktoba"
+
+msgid "November"
+msgstr "Nuwamba"
+
+msgid "December"
+msgstr "Disamba"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Files"
+msgstr "Fayiloli"
+
+msgid "Statistic"
+msgstr "Wannan hasashen"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Exit"
+msgstr "Fita"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Marketing specialist"
+msgstr "Marketing gwani"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Shared with me"
+msgstr "Shared tare da ni"
+
+msgid "File Sharing"
+msgstr "Fayil Sharing"
+
+msgid "Provide access by link"
+msgstr "Samar da damar yin amfani da mahada"
+
+msgid "Provide Individual access"
+msgstr "Samar da Mutane daya-daya access"
+
+msgid "Provide edit access"
+msgstr "Samar da edit damar"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Files will be available only for selected users"
+msgstr "Fayiloli zai zama available kawai ga masu amfani zaba"
+
+msgid "With this link everyone can access to the files"
+msgstr "Da wannan ya danganta da kowa da kowa zai iya samun damar zuwa fayiloli"
+
+msgid "Search users, groups, articles..."
+msgstr "Search masu amfani, kungiyoyin, articles ..."
+
+msgid "My Group"
+msgstr "My Group"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Mu"
+
+msgid "Th"
+msgstr "Ga watan"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Fayil ba a zaba"
+
+msgid "Set aside"
+msgstr "Ajiye"
+
+msgid "Event time"
+msgstr "Taron lokaci"
+
+msgid "Work"
+msgstr "Aikin"
+
+msgid "Personal"
+msgstr "Na sirri"
+
+msgid "Time spent for work:"
+msgstr "Lokaci ya ciyar ga aiki:"
+
+msgid "Personal time spent:"
+msgstr "Na sirri lokaci shafe:"
+
+msgid "Present"
+msgstr "Ba"
+
+msgid "Common"
+msgstr "Common"
+
+msgid "Sport"
+msgstr "Wasanni"
+
+msgid "Entertainment"
+msgstr "Nisha"
+
+msgid "Select:"
+msgstr "Zaži:"
+
+msgid "Invalid username or password."
+msgstr "Sunan mai amfani mara aiki ko kalmar sirri."
+
+msgid "Try again."
+msgstr "Gwada kuma."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "ABIN NE KA sha\'awar?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Zaži akalla 2 basira: ya rage 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Zaži akalla 2 basira: ya zauna 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Zaži akalla 2 basira: ragowar"
+
+msgid "Active life"
+msgstr "Active rai"
+
+msgid "Arts and culture"
+msgstr "Arts da al\'adu"
+
+msgid "Business"
+msgstr "Kasuwanci"
+
+msgid "Cinema"
+msgstr "Cinema"
+
+msgid "Communications"
+msgstr "Communications"
+
+msgid "Construction and repair"
+msgstr "Yi da kuma gyara"
+
+msgid "Cooking"
+msgstr "Dafa abinci"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Electronics"
+msgstr "Electronics"
+
+msgid "Finances"
+msgstr "Al\'amura na kudi"
+
+msgid "Graphics and design"
+msgstr "Graphics da zane"
+
+msgid "Health"
+msgstr "Kiwon lafiya"
+
+msgid "Home and family"
+msgstr "Gida da kuma iyali"
+
+msgid "Humor"
+msgstr "Ci mutumci"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Masana\'antu"
+
+msgid "Insurance"
+msgstr "Inshora"
+
+msgid "Literature"
+msgstr "Wallafe-wallafen"
+
+msgid "Mobile communications and internet"
+msgstr "Mobile sadarwa da kuma internet"
+
+msgid "News and Media"
+msgstr "Labarai da Media"
+
+msgid "Pets"
+msgstr "Dabbobi"
+
+msgid "Products and service"
+msgstr "Samfurori da kuma sabis"
+
+msgid "Real Estate"
+msgstr "Real Estate"
+
+msgid "Religion"
+msgstr "Addini"
+
+msgid "Science and techs"
+msgstr "Kimiyya da techs"
+
+msgid "Security"
+msgstr "Tsaro"
+
+msgid "Society"
+msgstr "Society"
+
+msgid "Television"
+msgstr "Talabijin"
+
+msgid "Travel"
+msgstr "Tafiya"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belgium"
+msgstr "Belgium"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Denmark"
+
+msgid "France"
+msgstr "Faransa"
+
+msgid "Germany"
+msgstr "Jamus"
+
+msgid "Greece"
+msgstr "Girka"
+
+msgid "Hungary"
+msgstr "Hungary"
+
+msgid "Iceland"
+msgstr "Iceland"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "Israel"
+msgstr "Isra\'ila"
+
+msgid "Italy"
+msgstr "Italiya"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Russia"
+msgstr "Rasha"
+
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgid "South Africa"
+msgstr "Afirka ta Kudu"
+
+msgid "South Korea"
+msgstr "Koriya ta Kudu"
+
+msgid "Spain"
+msgstr "Spain"
+
+msgid "Sweden"
+msgstr "Sweden"
+
+msgid "Switzerland"
+msgstr "Switzerland"
+
+msgid "Turkey"
+msgstr "Turkiya"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "United Arab Emirates"
+msgstr "United Arab Emirates"
+
+msgid "United Kingdom"
+msgstr "United Kingdom"
+
+msgid "United States"
+msgstr "Amurka"
+
+msgid "achievements"
+msgstr "nasarorin"
+
+msgid "Investment management"
+msgstr "Zuba jari management"
+
+msgid "Select..."
+msgstr "Zaži ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "JARIN MANAGEMENT"
+
+msgid "Investors list"
+msgstr "Masu zuba jari list"
+
+msgid "My investments"
+msgstr "Ta zuba jari"
+
+msgid "Create date"
+msgstr "Create kwanan wata"
+
+msgid "Author of the project"
+msgstr "Author na aikin"
+
+msgid "Date and time"
+msgstr "Kwanan wata da lokaci"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "NEXT"
+msgstr "Gaba"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Apply"
+msgstr "Aiwatar"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Kimiyya"
+
+msgid "Architecture"
+msgstr "Gine"
+
+msgid "Photography"
+msgstr "Photography"
+
+msgid "Designer"
+msgstr "Zanen"
+
+msgid "IT specialist"
+msgstr "IT gwani"
+
+msgid "Agronomist"
+msgstr "Agronomist"
+
+msgid "Architect"
+msgstr "Architector"
+
+msgid "Lawyer"
+msgstr "Lauya"
+
+msgid "Writer"
+msgstr "Marubuci"
+
+msgid "Doctor"
+msgstr "Doctor"
+
+msgid "Scientist"
+msgstr "Masanin kimiyya"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Malam"
+
+msgid "Cook"
+msgstr "Cook"
+
+msgid "Artist"
+msgstr "Artist"
+
+msgid "Photographer"
+msgstr "Daukar hoto"
+
+msgid "Ecologist"
+msgstr "Ecologist"
+
+msgid "Economist"
+msgstr "Tattalin arziki"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Jarida"
+
+msgid "Builder"
+msgstr "Magini"
+
+msgid "These users may be interesting for you"
+msgstr "Wadannan masu amfani iya zama mai ban sha\'awa a gare ku"
+
+msgid "These articles may be interesting for you"
+msgstr "Wadannan articles na iya zama mai ban sha\'awa a gare ku"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Ku shiga wannan kungiya a matsayin Аdministrator"
+
+msgid "articles written."
+msgstr "articles rubuta."
+
+msgid "groups created."
+msgstr "kungiyoyin halitta."
+
+msgid "Creation"
+msgstr "Halittar"
+
+msgid "Build a dream"
+msgstr "Gina mafarki"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Ban sha'awa articles - tafi free rajista"
+

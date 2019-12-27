@@ -1,0 +1,488 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/InvestProjectController.php:67;237
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:204
+msgid "Invalid customer for checkout"
+msgstr ""
+
+#: Controller/InvestProjectController.php:248
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:126;223
+#: Plugin/Billing/Controller/BillingUserController.php:125
+msgid "Incorrect request type"
+msgstr ""
+
+#: Plugin/Billing/Config/bootstrap.php:10
+msgid "Bytes"
+msgstr ""
+
+#: Plugin/Billing/Config/bootstrap.php:17
+msgid "Members"
+msgstr ""
+
+#: Plugin/Billing/Config/bootstrap.php:24
+msgid "Proposals"
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingCallbackController.php:36
+msgid "%s Braintree webhook for subscription %s: %s"
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingGroupsController.php:33;54
+msgid "The billing group has been saved."
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingGroupsController.php:36;57
+msgid "The billing group could not be saved. Please, try again."
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingGroupsController.php:50
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:99;133
+#: Plugin/Billing/Controller/BillingUserController.php:111
+msgid "Invalid billing group"
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingGroupsController.php:85
+msgid "Group removal does not supported by system."
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingPlansController.php:38;61
+msgid "The billing plan has been saved."
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingPlansController.php:41;64
+msgid "The billing plan could not be saved. Please, try again."
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingPlansController.php:57
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:61;173;269
+msgid "Invalid billing plan"
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingPlansController.php:94
+msgid "Plan removal does not supported by system."
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:45
+msgid "Invalid billing subscription"
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:76
+msgid "The subscription has been canceled."
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:78
+msgid "The subscription could not be canceled. Please, try again."
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:152;197
+msgid "You can not subscribe to same plan twice while it is active"
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:187
+msgid "The subscription could not be downgraded. Please, try again later."
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:247
+#: Plugin/Billing/Controller/BillingUserController.php:150
+msgid "Payment method not found"
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:250;264;285
+#: Plugin/Billing/Controller/BillingUserController.php:153
+msgid "Unable to create subscription"
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:346;368
+msgid "Unable to subscribe on chosen plan. Please contact with resorce administration"
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:376
+msgid "Subscription can not be found"
+msgstr ""
+
+#: Plugin/Billing/View/BillingGroups/admin_add.ctp:3
+msgid "Add new Billing Group"
+msgstr ""
+
+#: Plugin/Billing/View/BillingGroups/admin_add.ctp:34
+#: Plugin/Billing/View/BillingGroups/admin_edit.ctp:36
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:50
+msgid "List Billing Groups"
+msgstr ""
+
+#: Plugin/Billing/View/BillingGroups/admin_edit.ctp:3
+msgid "Edit Billing Group"
+msgstr ""
+
+#: Plugin/Billing/View/BillingGroups/admin_edit.ctp:37
+#: Plugin/Billing/View/BillingGroups/admin_index.ctp:21
+#: Plugin/Billing/View/BillingPlans/admin_edit.ctp:51
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:33
+msgid "Delete"
+msgstr ""
+
+#: Plugin/Billing/View/BillingGroups/admin_edit.ctp:37
+#: Plugin/Billing/View/BillingGroups/admin_index.ctp:21
+#: Plugin/Billing/View/BillingPlans/admin_edit.ctp:51
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:33
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: Plugin/Billing/View/BillingGroups/admin_index.ctp:3
+msgid "Billing Groups"
+msgstr ""
+
+#: Plugin/Billing/View/BillingGroups/admin_index.ctp:11
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:12
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:16
+msgid "Actions"
+msgstr ""
+
+#: Plugin/Billing/View/BillingGroups/admin_index.ctp:18
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:32
+msgid "Yes"
+msgstr ""
+
+#: Plugin/Billing/View/BillingGroups/admin_index.ctp:18
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:32
+msgid "No"
+msgstr ""
+
+#: Plugin/Billing/View/BillingGroups/admin_index.ctp:20
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:32
+msgid "Edit"
+msgstr ""
+
+#: Plugin/Billing/View/BillingGroups/admin_index.ctp:30
+msgid "New Billing Group"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_add.ctp:3
+msgid "Add new Billing Plan"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_add.ctp:25
+#: Plugin/Billing/View/BillingPlans/admin_edit.ctp:35
+msgid "Basic free plan"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_add.ctp:40
+#: Plugin/Billing/View/BillingPlans/admin_edit.ctp:50
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:51
+msgid "List Billing Plans"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_edit.ctp:3
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:3
+msgid "Billing Plans"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_edit.ctp:28
+msgid "Limit plan to"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_edit.ctp:29
+msgid "2"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:10
+msgid "Remote Plans"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:11
+msgid "Is free"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:30
+#: Plugin/Billing/View/BillingSubscriptions/plans.ctp:39;58
+#: Plugin/Billing/View/Elements/subscriptions/free.ctp:3
+msgid "Free"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:30
+msgid "Paid"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:42
+msgid "New Billing Plan"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:3
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:9
+msgid "Subscriptions"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:9
+msgid "Remote ID"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:10
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:13
+msgid "User"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:11
+msgid "Group > Plan (Remote plan)"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:37
+msgid "View"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:39
+msgid "Cancel"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:39
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:163
+msgid "Are you sure you want to cancel # %s?"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:49
+msgid "List Users"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:3
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:62
+msgid "Subscription"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:9
+msgid "General Info"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:18
+msgid "Billing Group"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:25
+msgid "Active"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:30
+msgid "Expiration"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:35
+msgid "Created"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:40
+msgid "Modified"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:52
+msgid "Braintree Subscription"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:56;86
+msgid "Subscription ID"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:60
+msgid "Current billing cycle"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:64
+msgid "Start date"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:68
+msgid "End date"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:72
+msgid "Next bill amount"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:83
+msgid "Braintree Plan"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:90
+msgid "Name"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:102
+msgid "Braintree Transactions"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:108
+msgid "Transactiond ID"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:109
+msgid "Payment"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:110;141
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:64
+msgid "Date & Time"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:111
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:65
+msgid "Amount"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:134
+msgid "Braintree Status History"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:140
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:63
+msgid "Source"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:142
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:66
+msgid "Status"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:162
+msgid "List Subscriptions"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:163
+msgid "Cancel Subscription"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/payment.ctp:4
+#: Plugin/Billing/View/BillingSubscriptions/plans.ctp:76
+#: Plugin/Billing/View/BillingSubscriptions/plans_members.ctp:57
+#: Plugin/Billing/View/BillingSubscriptions/plans_proposals.ctp:57
+msgid "Subscribe"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans.ctp:20;56
+msgid "current"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans.ctp:29
+msgid "year"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans.ctp:31
+msgid "month"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans_members.ctp:9
+msgid "Expand available members"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans_members.ctp:10
+msgid "1 user - 4$ per month"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans_members.ctp:12
+msgid "You are already subscribed to %d members"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans_members.ctp:21
+msgid "Members quantity"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans_members.ctp:42
+#: Plugin/Billing/View/BillingSubscriptions/plans_proposals.ctp:42
+msgid "Period"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans_members.ctp:54
+#: Plugin/Billing/View/BillingSubscriptions/plans_proposals.ctp:54
+msgid "Total"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans_proposals.ctp:9
+msgid "Expand available proposals to tasks"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans_proposals.ctp:10
+msgid "1 proposal - 1$ per month"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans_proposals.ctp:12
+msgid "You are already use %d proposals"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans_proposals.ctp:21
+msgid "Proposal quantity"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/success.ctp:2
+msgid "You are not successfully subscribed."
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/success.ctp:4
+msgid "You are successfully subscribed."
+msgstr ""
+
+#: Plugin/Billing/View/BillingUser/payment.ctp:4
+msgid "Add funds"
+msgstr ""
+
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:12
+msgid "Transactions"
+msgstr ""
+
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:42
+msgid "Change"
+msgstr ""
+
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:53
+msgid "You are not subscribed to any subscription yet."
+msgstr ""
+
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:108
+msgid "There was no any transactions yet."
+msgstr ""
+
+#: Plugin/Billing/View/Elements/subscriptions/free.ctp:23
+msgid "Lifetime"
+msgstr ""
+
+#: Plugin/Billing/View/Elements/subscriptions/paid.ctp:4
+msgid "yearly"
+msgstr ""
+
+#: Plugin/Billing/View/Elements/subscriptions/paid.ctp:4
+msgid "monthly"
+msgstr ""
+
+#: Plugin/BraintreePayments/View/Elements/payments_form.ctp:12
+msgid "Saved payments"
+msgstr ""
+
+#: Plugin/BraintreePayments/View/Elements/payments_form.ctp:16
+msgid "Add card"
+msgstr ""
+
+#: Plugin/BraintreePayments/View/Elements/payments_form.ctp:19
+msgid "Add Paypal"
+msgstr ""
+
+#: Plugin/BraintreePayments/View/Elements/payments_form.ctp:56
+msgid "Card number"
+msgstr ""
+
+#: Plugin/BraintreePayments/View/Elements/payments_form.ctp:60
+msgid "CVV"
+msgstr ""
+
+#: Plugin/BraintreePayments/View/Elements/payments_form.ctp:64
+msgid "Card expiration date"
+msgstr ""
+

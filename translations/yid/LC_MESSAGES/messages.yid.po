@@ -1,0 +1,3344 @@
+# ייִדיש(Идиш) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: ייִדיש(Идиш) <support@konstruktor.com>\n"
+"Language: ייִדיש(Идиш)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "נאמען"
+
+msgid "Invalid username or password, try again"
+msgstr "פאַלש נאמען אָדער פּאַראָל . פּרוּווט ווידער ."
+
+msgid "Settings"
+msgstr "סעטטינגס"
+
+msgid "Home"
+msgstr "היים"
+
+msgid "You must log in to access this page"
+msgstr "איר מוזן קלאָץ אין צו צוטריט דעם בלאַט"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "דיין סעסיע האט שוין אויסגעגאנגען . ביטע , רעלאָגין צו דורכפירן דעם קאַמף"
+
+msgid "Save"
+msgstr "ראַטעווען"
+
+msgid "Head Office"
+msgstr "ראָש אָפפיסע"
+
+msgid "Address"
+msgstr "אַדרעס"
+
+msgid "Back"
+msgstr "צוריק"
+
+msgid "Apply"
+msgstr "צולייגן"
+
+msgid "Upload files…"
+msgstr "צופֿעליקער טעקעס ..."
+
+msgid "Set as main"
+msgstr "באַשטעטיקט ווי הויפּט"
+
+msgid "Delete"
+msgstr "ויסמעקן"
+
+msgid "Original image"
+msgstr "אָריגינעל בילד"
+
+msgid "Uploaded"
+msgstr "ופּלאָאַדעד"
+
+msgid "File name"
+msgstr "טעקע נאָמען"
+
+msgid "File size"
+msgstr "טעקע גרייס"
+
+msgid "Resolution"
+msgstr "האַכלאָטע"
+
+msgid "Enlarge"
+msgstr "פאַרגרעסערן"
+
+msgid "Links"
+msgstr "לינקס"
+
+msgid "Original size"
+msgstr "אָריגינעל גרייס"
+
+msgid "For editor"
+msgstr "פֿאַר רעדאַקטאָר"
+
+msgid "Resize"
+msgstr "רעסיזע"
+
+msgid "Width"
+msgstr "ברייט"
+
+msgid "Height"
+msgstr "הייך"
+
+msgid "Media URL"
+msgstr "מעדיע URL"
+
+msgid "Add record"
+msgstr "לייג רעקאָרד"
+
+msgid "Show filter settings"
+msgstr "ווייַזן פילטער סעטטינגס"
+
+msgid "Edit record"
+msgstr "רעדאַגירן רעקאָרד"
+
+msgid "Delete record"
+msgstr "דיליט רעקאָרד"
+
+msgid "Delete checked records"
+msgstr "דיליט אָפּגעשטעלט רעקאָרדס"
+
+msgid "Dashboard"
+msgstr "דאַשבאָאַרד"
+
+msgid "Password"
+msgstr "פּאַראָל"
+
+msgid "Remember me"
+msgstr "געדענק מיך"
+
+msgid "Login"
+msgstr "לאָגין"
+
+msgid "Clean image cache"
+msgstr "קלין בילד קאַש"
+
+msgid "Processing query..."
+msgstr "פּראַסעסינג אָנפֿרעג ..."
+
+msgid "CMS Development"
+msgstr "קמס אנטוויקלונג"
+
+msgid "Admin Home Page"
+msgstr "אַדמין היים Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "עפֿן היים בלאַט פון פראָנט - סוף אין אַ נייַ קוויטל"
+
+msgid "Go to Site"
+msgstr "גיין צו מאַפּע"
+
+msgid "Log out"
+msgstr "קלאָץ אויס"
+
+msgid "Send"
+msgstr "שיקן"
+
+msgid "General"
+msgstr "אַלגעמיין"
+
+msgid "Title"
+msgstr "טיטל"
+
+msgid "Teaser"
+msgstr "טיזער"
+
+msgid "Published"
+msgstr "פֿאַרעפֿנטלעכט"
+
+msgid "Featured"
+msgstr "Featured"
+
+msgid "Active"
+msgstr "אַקטיוו"
+
+msgid "Field is mandatory"
+msgstr "פעלד איז מאַנדאַטאָרי"
+
+msgid "Sort Order"
+msgstr "סאָרט סדר"
+
+msgid "Upload"
+msgstr "צופֿעליקער"
+
+msgid "Loading..."
+msgstr "לאָודינג ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "פעברואר"
+
+msgid "Mar"
+msgstr "מאַרץ"
+
+msgid "Apr"
+msgstr "אַפּריל"
+
+msgid "May"
+msgstr "מייַ"
+
+msgid "Jun"
+msgstr "יוני"
+
+msgid "Jul"
+msgstr "יולי"
+
+msgid "Aug"
+msgstr "ויגוסט"
+
+msgid "Sep"
+msgstr "סעפּטעמבער"
+
+msgid "Oct"
+msgstr "אָקטאָבער"
+
+msgid "Nov"
+msgstr "נאָוועמבער"
+
+msgid "Dec"
+msgstr "דעצעמבער"
+
+msgid "Product already exists in the order"
+msgstr "פּראָדוקט שוין יגזיס אין די סדר"
+
+msgid "Product does not exist"
+msgstr "פּראָדוקט טוט נישט עקסיסטירן"
+
+msgid "Incorrect request"
+msgstr "פאַלש בקשה"
+
+msgid "Products"
+msgstr "פּראָדוקטן"
+
+msgid "Product types"
+msgstr "פּראָדוקט טייפּס"
+
+msgid "Contractors"
+msgstr "קאָנטראַקטאָרס"
+
+msgid "Contractor"
+msgstr "קאָנטראַקטאָר"
+
+msgid "Orders"
+msgstr "אָרדערס"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "New סדר"
+
+msgid "My orders"
+msgstr "מיין אָרדערס"
+
+msgid "Recharge balance"
+msgstr "ריטשאַרדזש וואָג"
+
+msgid "Administrator"
+msgstr "אַדמיניסטראַטאָר"
+
+msgid "Incorrect event ID"
+msgstr "פאַלש געשעעניש שייַן"
+
+msgid "Tech.params"
+msgstr "טעטש.פּאַראַמס"
+
+msgid "Edit contractor"
+msgstr "רעדאַגירן קאַנטראַקטער"
+
+msgid "Create contractor"
+msgstr "שאַפֿן קאַנטראַקטער"
+
+msgid "Edit question"
+msgstr "רעדאַגירן קשיא"
+
+msgid "Create question"
+msgstr "שאַפֿן קשיא"
+
+msgid "Edit order"
+msgstr "רעדאַגירן סדר"
+
+msgid "Create order"
+msgstr "שאַפֿן סדר"
+
+msgid "Edit product"
+msgstr "רעדאַגירן פּראָדוקט"
+
+msgid "Create product"
+msgstr "שאַפֿן פּראָדוקט"
+
+msgid "Edit product type"
+msgstr "רעדאַגירן פּראָדוקט טיפּ"
+
+msgid "Create product type"
+msgstr "שאַפֿן פּראָדוקט טיפּ"
+
+msgid "You have received a file"
+msgstr "איר האָבן באקומען אַ טעקע"
+
+msgid "You received a file from"
+msgstr "איר באקומען אַ טעקע פון"
+
+msgid "File has been uploaded"
+msgstr "טעקע האט שוין ופּלאָאַדעד"
+
+msgid "Min.qty"
+msgstr "מינ.קטי"
+
+msgid "Minimal quantity"
+msgstr "מינימאַל קוואַנטיטי"
+
+msgid "Max.qty"
+msgstr "מאַקס.קטי"
+
+msgid "items"
+msgstr "זאכן"
+
+msgid "Remove"
+msgstr "באַזייַטיקן"
+
+msgid "Contact person"
+msgstr "קאָנטאַקט מענטש"
+
+msgid "Email"
+msgstr "email"
+
+msgid "Contractor phone"
+msgstr "קאָנטראַקטאָר טעלעפאָנירן"
+
+msgid "Contractor name"
+msgstr "קאָנטראַקטאָר נאָמען"
+
+msgid "Contractor details"
+msgstr "קאָנטראַקטאָר דעטאַילס"
+
+msgid "Order ID"
+msgstr "סדר שייַן"
+
+msgid "Sum"
+msgstr "סאַכאַקל"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "קלייַבן די פּאַסיק צאָלונג סיסטעם צו ריטשאַרדזש דיין וואָג"
+
+msgid "Recharge amount"
+msgstr "ריטשאַרדזש סומע"
+
+msgid "Paid"
+msgstr "באַצאָלט"
+
+msgid "Shipped"
+msgstr "שיפּט"
+
+msgid "- No products in this order -"
+msgstr "- ניין פּראָדוקטן אין דעם סדר -"
+
+msgid "month"
+msgstr "מאָנאַט"
+
+msgid "No user found"
+msgstr "קיין באַניצער געפֿונען"
+
+msgid "Achievement"
+msgstr "דערגרייה"
+
+msgid "Confirmed accomplishments"
+msgstr "באשטעטיקט אַקאַמפּלישמאַנץ"
+
+msgid "Remove achievement"
+msgstr "נעם דערגרייה"
+
+msgid "Headquaters"
+msgstr "העאַדקוואַטערס"
+
+msgid "Phone"
+msgstr "טעלעפאָנירן"
+
+msgid "Site URL and email"
+msgstr "מאַפּע URL און עמאַיל"
+
+msgid "Remove address"
+msgstr "נעם אַדרעס"
+
+msgid "Members"
+msgstr "מיטגלידער"
+
+msgid "Requires a payment"
+msgstr "רעקווירעס אַ צאָלונג"
+
+msgid "Shipping"
+msgstr "שיפּפּינג"
+
+msgid "Ready"
+msgstr "גרייט"
+
+msgid "Find user..."
+msgstr "געפֿינען באַניצער ..."
+
+msgid "Order it"
+msgstr "סדר עס"
+
+msgid "Find group..."
+msgstr "געפֿינען גרופּע ..."
+
+msgid "Find user or community..."
+msgstr "געפֿינען באַניצער אָדער קהל ..."
+
+msgid "No item found"
+msgstr "קיין נומער געפֿונען"
+
+msgid "years"
+msgstr "יאָרן"
+
+msgid "Send message"
+msgstr "שיקן אָנזאָג"
+
+msgid "Message"
+msgstr "אָנזאָג"
+
+msgid "To send message press Enter"
+msgstr "צו שיקן אָנזאָג דרוקן קום"
+
+msgid "To send message press CTRL+Enter"
+msgstr "צו שיקן אָנזאָג דרוקן קטרל + קום"
+
+msgid "Processing file(s)..."
+msgstr "פּראַסעסינג טעקע ( s ) ..."
+
+msgid "Group settings"
+msgstr "גרופּע סעטטינגס"
+
+msgid "Create group"
+msgstr "שאַפֿן גרופּע"
+
+msgid "Group has been successfully saved"
+msgstr "גרופּע האט שוין הצלחה געזונט"
+
+msgid "Group title"
+msgstr "גרופּע טיטל"
+
+msgid "Group video"
+msgstr "גרופּע ווידעא"
+
+msgid "Description"
+msgstr "באַשרייַבונג"
+
+msgid "Your role in group"
+msgstr "דיין ראָלע אין גרופּע"
+
+msgid "Role"
+msgstr "ראָלע"
+
+msgid "Photo or video gallery"
+msgstr "Photo אָדער ווידעא גאַלערי"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "צופֿעליקער ווידיאס"
+
+msgid "Add group address"
+msgstr "לייג גרופּע אַדרעס"
+
+msgid "Group articles"
+msgstr "גרופּע ארטיקלען"
+
+msgid "No addresses yet"
+msgstr "קיין ווענדט נאָך"
+
+msgid "Add group achievement"
+msgstr "לייג גרופּע דערגרייה"
+
+msgid "No achivements yet"
+msgstr "קיין אַטשיוועמענץ נאָך"
+
+msgid "Are you sure to delete this user"
+msgstr "ביסט איר זיכער צו אויסמעקן דעם באַניצער"
+
+msgid "Add member"
+msgstr "לייג מיטגליד"
+
+msgid "Are you sure to delete this record?"
+msgstr "ביסט איר זיכער צו אויסמעקן דעם רעקאָרד ?"
+
+msgid "Join this group"
+msgstr "תאריך דעם גרופּע"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "אייער פאַרבעטונג איז געשיקט צו די גרופּע אַדמיניסטראַטאָר"
+
+msgid "All addresses"
+msgstr "כל ווענדט"
+
+msgid "Collapse"
+msgstr "ייַנבראָך"
+
+msgid "Achievements"
+msgstr "דערגרייכונגען"
+
+msgid "Show more"
+msgstr "ווייַזן מער"
+
+msgid "Team"
+msgstr "קאָלעקטיוו"
+
+msgid "Projects"
+msgstr "פּראַדזשעקס"
+
+msgid "New project"
+msgstr "ניו פּרויעקט"
+
+msgid "Project has not been created yet"
+msgstr "פּראָיעקט האט ניט געווען Created נאָך"
+
+msgid "Messanger"
+msgstr "מעססאַנגער"
+
+msgid "Balance"
+msgstr "וואָג"
+
+msgid "Main page"
+msgstr "הויפּט בלאַט"
+
+msgid "Upload image"
+msgstr "צופֿעליקער בילד"
+
+msgid "My time"
+msgstr "מיין צייַט"
+
+msgid "Day"
+msgstr "טאָג"
+
+msgid "Week"
+msgstr "וואָך"
+
+msgid "Project settings"
+msgstr "פּראָיעקט סעטטינגס"
+
+msgid "Create project"
+msgstr "שאַפֿן פּרויעקט"
+
+msgid "Project has been successfully saved"
+msgstr "פּראָיעקט האט שוין הצלחה געזונט"
+
+msgid "Project name"
+msgstr "פּראָיעקט נאָמען"
+
+msgid "Deadline"
+msgstr "טערמין"
+
+msgid "Close"
+msgstr "נאָענט"
+
+msgid "Manager"
+msgstr "פאַרוואַלטער"
+
+msgid "Assigned to"
+msgstr "אַסיינד צו"
+
+msgid "Discussion"
+msgstr "דיסקוסיע"
+
+msgid "Task was created"
+msgstr "אַרבעט איז Created"
+
+msgid "Task was closed"
+msgstr "אַרבעט איז פֿאַרמאַכט"
+
+msgid "Go to Group"
+msgstr "גיין צו גרופּע"
+
+msgid "Closed"
+msgstr "קלאָוזד"
+
+msgid "Last updates"
+msgstr "לעצטע ופּדאַטעס"
+
+msgid "Project is closed"
+msgstr "פּראָיעקט איז פֿאַרמאַכט"
+
+msgid "No open tasks"
+msgstr "קיין עפענען טאַסקס"
+
+msgid "New task"
+msgstr "New אַרבעט"
+
+msgid "Closed tasks"
+msgstr "קלאָוזד טאַסקס"
+
+msgid "Add subproject"
+msgstr "לייג סובפּראָדזשעקט"
+
+msgid "Add task"
+msgstr "לייג צו אַרבעט"
+
+msgid "Sun"
+msgstr "זונטיק"
+
+msgid "Mon"
+msgstr "מאָנטיק"
+
+msgid "Tue"
+msgstr "דינסטיק"
+
+msgid "Wed"
+msgstr "מיטוואָך"
+
+msgid "Thur"
+msgstr "דאָנערשטיק"
+
+msgid "Fri"
+msgstr "פרייַטיק"
+
+msgid "Sat"
+msgstr "שבת"
+
+msgid "Event title"
+msgstr "געשעעניש טיטל"
+
+msgid "Event description"
+msgstr "געשעעניש באַשרייַבונג"
+
+msgid "I registered on this site"
+msgstr "איך רעגיסטרירט אויף דעם פּלאַץ"
+
+msgid "Last created groups"
+msgstr "לעצטע Created גרופּעס"
+
+msgid "You joined this group as"
+msgstr "איר זיך איינגעשריבן די גרופּע ווי"
+
+msgid "You received a request to join the group"
+msgstr "איר באקומען אַ בקשה צו באַהעפטן די גרופּע"
+
+msgid "Updated site"
+msgstr "ופּדאַטעד פּלאַץ"
+
+msgid "Site is under construction"
+msgstr "מאַפּע איז אונטער קאַנסטראַקשאַן"
+
+msgid "Last registered users"
+msgstr "לעצטע רעגיסטרירט ניצערס"
+
+msgid "User settings"
+msgstr "באַניצער סעטטינגס"
+
+msgid "Technical support"
+msgstr "טעכניש שטיצן"
+
+msgid "Change email"
+msgstr "טוישן עמאַיל"
+
+msgid "Change password"
+msgstr "טוישן Password"
+
+msgid "User has been successfully saved"
+msgstr "באַניצער האט שוין הצלחה געזונט"
+
+msgid "Full name"
+msgstr "גאַנץ נאָמען"
+
+msgid "My video"
+msgstr "מיין וידאו"
+
+msgid "Skills"
+msgstr "סקיללס"
+
+msgid "Birthday"
+msgstr "טאָג"
+
+msgid "Country of residence"
+msgstr "לאַנד פון וווינאָרט"
+
+msgid "Country"
+msgstr "לאַנד"
+
+msgid "Zip Code"
+msgstr "זיפּ קאָוד"
+
+msgid "City/town of residence"
+msgstr "סיטי / שטאָט פון וווינאָרט"
+
+msgid "University/college"
+msgstr "אוניווערסיטעט / קאָלעגע"
+
+msgid "University/college photo"
+msgstr "אוניווערסיטעט / קאָלעגע Photo"
+
+msgid "Add user\'s accomplishments"
+msgstr "לייג צו באַניצער ס אַקאַמפּלישמאַנץ"
+
+msgid "Interface language"
+msgstr "צובינד שפּראַך"
+
+msgid "How other people see this page"
+msgstr "ווי אנדערע מענטשן זען דעם בלאַט"
+
+msgid "Video with me"
+msgstr "ווידעא מיט מיר"
+
+msgid "Groups"
+msgstr "גרופּעס"
+
+msgid "Registered today"
+msgstr "רעגיסטרירט הייַנט"
+
+msgid "Qty"
+msgstr "קטי"
+
+msgid "No registered users yet"
+msgstr "קיין רעגיסטרירט ניצערס נאָך"
+
+msgid "Total"
+msgstr "גאַנץ"
+
+msgid "Registered total"
+msgstr "רעגיסטרירט גאַנץ"
+
+msgid "You received a file"
+msgstr "איר באקומען אַ טעקע"
+
+msgid "You were invited into this room"
+msgstr "איר זענען געבעטן אין דעם צימער"
+
+msgid "Request is being processed"
+msgstr "בקשה איז ווייל פּראַסעסט"
+
+msgid "Fax"
+msgstr "fax"
+
+msgid "Messenger"
+msgstr "מעסינדזשער"
+
+msgid "New subproject"
+msgstr "ניו סובפּראָדזשעקט"
+
+msgid "messages written."
+msgstr "אַרטיקלען געשריבן ."
+
+msgid "projects created based on groups."
+msgstr "פּראַדזשעקס Created באזירט אויף גרופּעס."
+
+msgid "users registered on website."
+msgstr "ניצערס רעגיסטרירט אויף וועבזייַטל ."
+
+msgid "New email"
+msgstr "ניו בליצפּאָסט"
+
+msgid "Confirm email"
+msgstr "באַשטעטיקן בליצפּאָסט"
+
+msgid "New password"
+msgstr "ניו פּאַראָל"
+
+msgid "Confirm password"
+msgstr "באַשטעטיקן שפּריכוואָרט"
+
+msgid "Occupation"
+msgstr "ספּעסיאַליטי"
+
+msgid "Timezone"
+msgstr "טימעזאָנע"
+
+msgid "Answer"
+msgstr "ענטפער"
+
+msgid "Articles"
+msgstr "ארטיקלען"
+
+msgid "Article"
+msgstr "אַרטיקל"
+
+msgid "Video-article"
+msgstr "ווידעא- אַרטיקל"
+
+msgid "Find article..."
+msgstr "געפֿינען אַרטיקל ..."
+
+msgid "Politics"
+msgstr "פּאָליטיק"
+
+msgid "Economics"
+msgstr "עקאנאמיק"
+
+msgid "Community"
+msgstr "קיבעץ"
+
+msgid "Culture"
+msgstr "קולטור"
+
+msgid "Sports"
+msgstr "ספּאָרט"
+
+msgid "Hi-tech"
+msgstr "הי-טעק"
+
+msgid "Cars"
+msgstr "קאַרס"
+
+msgid "Fashion"
+msgstr "שניט"
+
+msgid "Games"
+msgstr "גאַמעס"
+
+msgid "Other"
+msgstr "אנדערע"
+
+msgid "Invalid mediafile"
+msgstr "אינוואליד מעדיאַפילע"
+
+msgid "No articles in this category yet"
+msgstr "קיין ארטיקלען אין דעם קאַטעגאָריע נאָך"
+
+msgid "Back to profile"
+msgstr "צוריק צו פּראָפיל"
+
+msgid "View article"
+msgstr "View אַרטיקל"
+
+msgid "Edit article"
+msgstr "רעדאַגירן אַרטיקל"
+
+msgid "Create article"
+msgstr "שאַפֿן אַרטיקל"
+
+msgid "Article title"
+msgstr "אַרטיקל טיטל"
+
+msgid "Article section"
+msgstr "אַרטיקל אָפּטיילונג"
+
+msgid "Choose image"
+msgstr "קלייַבן בילד"
+
+msgid "Save and upload"
+msgstr "היט און ופּלאָאַד"
+
+msgid "Show more..."
+msgstr "ווייַזן מער ..."
+
+msgid "Create"
+msgstr "מאַכן"
+
+msgid "Edit"
+msgstr "רעדאַגירן"
+
+msgid "Project"
+msgstr "פּרויעקט"
+
+msgid "Team"
+msgstr "מאַנשאַפֿט"
+
+msgid "A new article was published"
+msgstr "א נייַ אַרטיקל איז ארויס"
+
+msgid "You joined this project"
+msgstr "איר דזשוינד דעם פּרויעקט"
+
+msgid "Enter your information in the User settings"
+msgstr "אַרייַן אייער אינפֿאָרמאַציע אין דער באַניצער סעטטינגס"
+
+msgid "Communities"
+msgstr "קאָממוניטיעס"
+
+msgid "Video presentation of my accomplishments"
+msgstr "וידאו פּרעזענטירונג פון מיין אַקאַמפּלישמאַנץ"
+
+msgid "My articles"
+msgstr "מיין אַרטיקלען"
+
+msgid "User"
+msgstr "באַניצער"
+
+msgid "Users"
+msgstr "ניצערס"
+
+msgid "Add new list"
+msgstr "לייג נייַ רשימה"
+
+msgid "List title"
+msgstr "רשימה טיטל"
+
+msgid "Add"
+msgstr "שטעלן"
+
+msgid "Add to favorites"
+msgstr "לייג צו favorites"
+
+msgid "Delete from favorites"
+msgstr "ויסמעקן פון favorites"
+
+msgid "Select list"
+msgstr "סעלעקטירן רשימה"
+
+msgid "Subscriptions"
+msgstr "סובסקריפּטיאָנס"
+
+msgid "Subscribe"
+msgstr "אַבאָנירן"
+
+msgid "Unsubscribe"
+msgstr "אַנסאַבסקרייב"
+
+msgid "General list"
+msgstr "אַלגעמיינע רשימה"
+
+msgid "No users in this list"
+msgstr "קיין ניצערס אין דעם רשימה"
+
+msgid "Publish"
+msgstr "אַרויסגעבן"
+
+msgid "Unpublish"
+msgstr "ונפּובליש"
+
+msgid "Add user"
+msgstr "לייג צו וסערס"
+
+msgid "Create document"
+msgstr "שאַפֿן דאָקומענט"
+
+msgid "Edit document"
+msgstr "רעדאַגירן דאָקומענט"
+
+msgid "View"
+msgstr "קוק"
+
+msgid "Document title"
+msgstr "דאָקומענט טיטל"
+
+msgid "Find document..."
+msgstr "געפֿינען דאָקומענט ..."
+
+msgid "Share your thoughts"
+msgstr "שער דיין געדאנקען"
+
+msgid "Leave your comment"
+msgstr "לאָזן דיין באַמערקונג"
+
+msgid "Accept"
+msgstr "אָננעמען"
+
+msgid "Decline"
+msgstr "אַראָפּגיין"
+
+msgid "Add article"
+msgstr "צוגעבן אַרטיקל"
+
+msgid "Link to verified accomplishments"
+msgstr "לינק צו וועריפיעד אַקאַמפּלישמאַנץ"
+
+msgid "No articles here yet..."
+msgstr "קיין ארטיקלען דאָ נאָך ..."
+
+msgid "Find file or folder..."
+msgstr "געפֿינען טעקע אָדער טעקע ..."
+
+msgid "Sort"
+msgstr "סאָרט"
+
+msgid "By name"
+msgstr "דורך נאָמען"
+
+msgid "By date"
+msgstr "דורך דאַטע"
+
+msgid "By updated date"
+msgstr "דורך ופּדאַטעד טאָג"
+
+msgid "By size"
+msgstr "דורך גרייס"
+
+msgid "By type"
+msgstr "דורך דרוקן"
+
+msgid "Move"
+msgstr "מאַך"
+
+msgid "File Manager"
+msgstr "טעקע מאַנאַגער"
+
+msgid "Share link"
+msgstr "שער לינק"
+
+msgid "Responsible"
+msgstr "פאַראַנטוואָרטלעך"
+
+msgid "Performer"
+msgstr "פּערפאָרמער"
+
+msgid "New Folder"
+msgstr "ניו טעקע"
+
+msgid "Folder name"
+msgstr "טעקע נאָמען"
+
+msgid "By default"
+msgstr "דורכ פעליקייַט"
+
+msgid "Back to group"
+msgstr "צוריק צו גרופּע"
+
+msgid "year(s)"
+msgstr "יאָר (s)"
+
+msgid "January"
+msgstr "יאַנואַר"
+
+msgid "February"
+msgstr "פעברואַר"
+
+msgid "March"
+msgstr "מאַרץ"
+
+msgid "April"
+msgstr "אַפּריל"
+
+msgid "May"
+msgstr "מייַ"
+
+msgid "June"
+msgstr "יוני"
+
+msgid "July"
+msgstr "יולי"
+
+msgid "August"
+msgstr "ויגוסט"
+
+msgid "September"
+msgstr "סעפּטעמבער"
+
+msgid "October"
+msgstr "אָקטאָבער"
+
+msgid "November"
+msgstr "נאָוועמבער"
+
+msgid "December"
+msgstr "דעצעמבער"
+
+msgid "Password Reminder"
+msgstr "פּאַראָל דערמאָנונג"
+
+msgid "Log In"
+msgstr "קלאָץ אין"
+
+msgid "Sign in"
+msgstr "צייכן אין"
+
+msgid "Register"
+msgstr "פאַרשרייַבן"
+
+msgid "First name"
+msgstr "ערשטער נאָמען"
+
+msgid "Last name"
+msgstr "לעצטע נאָמען"
+
+msgid "I agree with rules"
+msgstr "איך שטימען מיט כּללים"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "א באַשטעטיקונג פּאָסט איז געשיקט צו אייער בליצפּאָסט אַדרעס."
+
+msgid "Thanks"
+msgstr "דאַנק"
+
+msgid "Password must be at least 6 characters"
+msgstr "שפּריכוואָרט מוזן זיין לפּחות 6 אותיות"
+
+msgid "Creative Environment"
+msgstr "קרעאַטיווע סוויווע"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "איר דאַרפֿן צו זיין לפּחות דרייַצן יאר אלט צו נוצן דעם דינסט"
+
+msgid "Order status"
+msgstr "סדר סטאַטוס"
+
+msgid "Processing order"
+msgstr "פּראַסעסינג סדר"
+
+msgid "Requires a payment"
+msgstr "רעקווירעס אַ צאָלונג"
+
+msgid "Shipping"
+msgstr "שיפּינג"
+
+msgid "Ready"
+msgstr "פאַרטיק"
+
+msgid "Thank you for your payment"
+msgstr "דאנק איר פֿאַר דיין צאָלונג"
+
+msgid "Your payment has been cancelled"
+msgstr "דיין צאָלונג האט שוין קאַנסאַלד"
+
+msgid "page"
+msgstr "בלאַט"
+
+msgid "Rent period"
+msgstr "דינגען צייַט"
+
+msgid "Total, month"
+msgstr "גאַנץ, חודש"
+
+msgid "Order items"
+msgstr "סדר זאכן"
+
+msgid "No records found"
+msgstr "קיין רעקאָרדס געפֿונען"
+
+msgid "User with this email is already exist"
+msgstr "באַניצער מיט דעם אימעיל איז שוין עקסיסטירן"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "טעקע אָדער טעקע מיט אַזאַ נאָמען איז שוין אין דעסטיניישאַן טעקע"
+
+msgid "Minimal quantity"
+msgstr "מינימאַל קוואַנטיטי"
+
+msgid "mob.spots"
+msgstr "מאָב.ספּאָץ"
+
+msgid "stat.spots"
+msgstr "סטאַט.ספּאָץ"
+
+msgid "print copies"
+msgstr "דרוק קאָפּיעס"
+
+msgid "Terms of Use"
+msgstr "תּנאָים פון נוצן"
+
+msgid "Privacy Policy"
+msgstr "פּריוואַטקייט פּאָליטיק"
+
+msgid "Find project..."
+msgstr "געפֿינען פּרויעקט ..."
+
+msgid "New Project"
+msgstr "ניו פּראָיעקט"
+
+msgid "Accounts"
+msgstr "אַקקאָונץ"
+
+msgid "Operations"
+msgstr "אָפּעראַטיאָנס"
+
+msgid "All accounts"
+msgstr "אַלע אַקאַונץ"
+
+msgid "All categories"
+msgstr "אַלע קאַטעגאָריעס"
+
+msgid "Expense"
+msgstr "קאָסט"
+
+msgid "Income"
+msgstr "האַכנאָסע"
+
+msgid "Transfer"
+msgstr "אַריבערפירן"
+
+msgid "Expense"
+msgstr "קאָסט"
+
+msgid "income"
+msgstr "האַכנאָסע"
+
+msgid "tax"
+msgstr "שטייַער"
+
+msgid "percent"
+msgstr "פּראָצענט"
+
+msgid "transfer"
+msgstr "אַריבערפירן"
+
+msgid "Make operation"
+msgstr "מאַכן אָפּעראַציע"
+
+msgid "Select date"
+msgstr "סעלעקטירן טאָג"
+
+msgid "Select account"
+msgstr "סעלעקטירן חשבון"
+
+msgid "Month"
+msgstr "חודש"
+
+msgid "Quarter"
+msgstr "פערטל"
+
+msgid "Year"
+msgstr "יאָר"
+
+msgid "From"
+msgstr "פון"
+
+msgid "To"
+msgstr "צו"
+
+msgid "Expense amount"
+msgstr "עקספּענסע סומע"
+
+msgid "Categories"
+msgstr "קאַטעגאָריעס"
+
+msgid "Comments"
+msgstr "באַמערקונגען"
+
+msgid "Income amount"
+msgstr "האַכנאָסע סומע"
+
+msgid "Transfer amount"
+msgstr "אַריבערפירן סומע"
+
+msgid "From account"
+msgstr "פון חשבון"
+
+msgid "To account"
+msgstr "צו חשבון"
+
+msgid "New Account"
+msgstr "ניו אַקאַונט"
+
+msgid "New Category"
+msgstr "ניו קאַטעגאָריע"
+
+msgid "All"
+msgstr "אַלץ"
+
+msgid "Name"
+msgstr "נאמען"
+
+msgid "Enter category name"
+msgstr "קום קאַטעגאָריע נאָמען"
+
+msgid "Select type"
+msgstr "סעלעקטירן טיפּ"
+
+msgid "Credit card"
+msgstr "קרעדיט קאָרט"
+
+msgid "Debit card"
+msgstr "דעביט קאַרטל"
+
+msgid "Bank account"
+msgstr "באַנק חשבון"
+
+msgid "Cash"
+msgstr "געלט"
+
+msgid "Balance is empty"
+msgstr "וואָג איז ליידיק"
+
+msgid "Statistic is empty"
+msgstr "סטאַטיסטיק איז ליידיק"
+
+msgid "Regular payments"
+msgstr "רעגולער פּיימאַנץ"
+
+msgid "Are you sure ?"
+msgstr "ביסט איר זיכער?"
+
+msgid "Are you sure to close this project?"
+msgstr "ביסט איר זיכער צו נאָענט דעם פּרויעקט?"
+
+msgid "Project was deleted successfully"
+msgstr "פּראָיעקט איז אויסגעמעקט הצלחה"
+
+msgid "Select currency"
+msgstr "סעלעקטירן קראַנטקייַט"
+
+msgid "Account"
+msgstr "באַריכטן"
+
+msgid "Orders list"
+msgstr "אָרדערס רשימה"
+
+msgid "Order payments"
+msgstr "סדר פּיימאַנץ"
+
+msgid "View order"
+msgstr "View סדר"
+
+msgid "No response from Printer API"
+msgstr "קיין ענטפער פון פּרינטער אַפּי"
+
+msgid "Bad response from Printer API"
+msgstr "שלעכט ענטפער פון פּרינטער אַפּי"
+
+msgid "User ID"
+msgstr "באַניצער שייַן"
+
+msgid "Contact Person"
+msgstr "קאָנטאַקט פּערסאָן"
+
+msgid "No orders to process"
+msgstr "קיין אָרדערס צו פּראָצעס"
+
+msgid "Article announce image"
+msgstr "אַרטיקל מעלדן בילד"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "אינוואליד וידאו URL. לאָזן ליידיק אָדער אַרייַנלייגן גילטיק יאָוטובע URL"
+
+msgid "Please, enter Contractor data"
+msgstr "ביטע, אַרייַן קאָנטראַקטאָר דאַטע"
+
+msgid "Distribute devices"
+msgstr "פאַרשפּרייטן דעוויסעס"
+
+msgid "Quantity"
+msgstr "קוואַנטיטי"
+
+msgid "Devices left"
+msgstr "דעוויסעס לינקס"
+
+msgid "Distributed devices"
+msgstr "דיסטריבוטעד דעוויסעס"
+
+msgid "You must enter quantity"
+msgstr "איר מוזן אַרייַן קוואַנטיטי"
+
+msgid "All devices are distributed"
+msgstr "אַלע דעוויסעס זענען צעשיקט"
+
+msgid "IP address"
+msgstr "IP אַדרעס"
+
+msgid "Only for printer"
+msgstr "בלויז פֿאַר דרוקער"
+
+msgid "Counter"
+msgstr "טאָמבאַנק"
+
+msgid "You was excluded from this room"
+msgstr "איר איז געווען יקסקלודיד פון דעם פּלאַץ"
+
+msgid "Compare"
+msgstr "פאַרגלייַכן"
+
+msgid "Scheduled transaction"
+msgstr "סטשעדולעד מאַסע"
+
+msgid "Select transfer account"
+msgstr "סעלעקטירן אַריבערפירן חשבון"
+
+msgid "Select income account"
+msgstr "סעלעקטירן האַכנאָסע חשבון"
+
+msgid "Reports"
+msgstr "רעפּאָרץ"
+
+msgid "Goals"
+msgstr "גאָאַלס"
+
+msgid "Budgets"
+msgstr "בודגעץ"
+
+msgid "Enter user name or email..."
+msgstr "קום באַניצער נאָמען אָדער email ..."
+
+msgid "Invite had been sended"
+msgstr "לאַדן האט שוין סענדעד"
+
+msgid "Statistics"
+msgstr "סטאַטיסטיק"
+
+msgid "Updated site began to work"
+msgstr "ופּדאַטעד פּלאַץ אנגעהויבן צו אַרבעטן"
+
+msgid "City of residence"
+msgstr "שטאָט פון וווינאָרט"
+
+msgid "Edit favourites list"
+msgstr "רעדאַגירן favorites רשימה"
+
+msgid "Add favourites list"
+msgstr "לייג favorites רשימה"
+
+msgid "Categories is required"
+msgstr "קאַטעגאָריעס איז required"
+
+msgid "Type new category name and hit Enter"
+msgstr "טיפּע נייַ קאַטעגאָריע נאָמען און שלאָגן קום"
+
+msgid "You created an order"
+msgstr "איר Created אַ סדר"
+
+msgid "You received a device due to this order"
+msgstr "איר באקומען אַ מיטל רעכט צו דעם סדר"
+
+msgid "%s attached %s to task %s"
+msgstr "s% אַטאַטשט %s צו אַרבעט %s"
+
+msgid "member(s)"
+msgstr "מיטגליד (s)"
+
+msgid "%s commented task %s"
+msgstr "s% קאַמענטאַד אַרבעט %s"
+
+msgid "%s closed task %s"
+msgstr "s% פֿאַרמאַכט אַרבעט %s"
+
+msgid "%s created task %s"
+msgstr "s% Created אַרבעט %s"
+
+msgid "%s created this project"
+msgstr "s% Created דעם פּרויעקט"
+
+msgid "%s created subproject \"%s\""
+msgstr "s% Created סובפּראָדזשעקט \" %s\""
+
+msgid "%s closed project \"%s\""
+msgstr "s% פֿאַרמאַכט פּרויעקט \" %s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "s% פֿאַרמאַכט סובפּראָדזשעקט \" %s\""
+
+msgid "This field must not be blank"
+msgstr "דאס פעלד מוזן נישט זיין פּוסט"
+
+msgid "Document with such name is already exist"
+msgstr "דאָקומענט מיט אַזאַ נאָמען איז שוין עקסיסטירן"
+
+msgid "Wait until image upload"
+msgstr "וואַרטן ביז בילד ופּלאָאַד"
+
+msgid "Video"
+msgstr "וידאו"
+
+msgid "Message can not be empty"
+msgstr "אַרטיקל קענען ניט זיין ליידיק"
+
+msgid "Yes"
+msgstr "יא"
+
+msgid "No"
+msgstr "נישט"
+
+msgid "Created"
+msgstr "קרעאַטעד"
+
+msgid "Compare is empty"
+msgstr "קאָמפּאַרע איז ליידיק"
+
+msgid "Are you sure you want to delete operation"
+msgstr "ביסט איר זיכער איר ווילן צו ויסמעקן אָפּעראַציע"
+
+msgid "Do you really want to delete transaction"
+msgstr "צי איר טאַקע ווילן צו ויסמעקן מאַסע"
+
+msgid "Project with same name already exists"
+msgstr "פּראָיעקט מיט זעלביקער נאָמען שוין יגזיסץ"
+
+msgid "Account is not found"
+msgstr "חשבון איז ניט געפֿונען"
+
+msgid "Currency is required"
+msgstr "קראַנטקייַט איז required"
+
+msgid "error while deleting document"
+msgstr "טעות בשעת דיליטינג דאָקומענט"
+
+msgid "Expences"
+msgstr "עקספּענסעס"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "איר געבעטן באַניצער \" %s\" אין דעם צימער"
+
+msgid "User \"%s\" joined this room"
+msgstr "באַניצער \" %s\" דזשוינד דעם צימער"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "איר יקסקלודיד באַניצער \" %s\" פון דעם פּלאַץ"
+
+msgid "User \"%s\" left this room"
+msgstr "באַניצער \"%s \" לינקס דעם צימער"
+
+msgid "Add account"
+msgstr "לייג צו חשבון"
+
+msgid "The requested page is not found"
+msgstr "געבעטענעם בלאט איז ניט געפֿונען"
+
+msgid "Document"
+msgstr "דאָקומענט"
+
+msgid "Table"
+msgstr "טיש"
+
+msgid "file(s)"
+msgstr "טעקע (s)"
+
+msgid "Residue"
+msgstr "רעזאַדו"
+
+msgid "Result is empty"
+msgstr "רעזולטאַט איז ליידיק"
+
+msgid "The total amount is %s for %s mo"
+msgstr "די גאַנץ סומע איז s% פֿאַר s% מאָ"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "איר האָבן צו אַוועקלייגן s% כוידעשלעך צו Related חשבון"
+
+msgid "Start"
+msgstr "אָנהייבן"
+
+msgid "finish"
+msgstr "ענדיקן"
+
+msgid "Selected account is already in use for another goal"
+msgstr "אויסגעקליבן חשבון איז שוין אין נוצן פֿאַר אן אנדער ציל"
+
+msgid "Amount required"
+msgstr "אַמאָונט required"
+
+msgid "New goal"
+msgstr "ניו ציל"
+
+msgid "Goal"
+msgstr "ציל"
+
+msgid "Goal name"
+msgstr "ציל נאָמען"
+
+msgid "Invalid date"
+msgstr "אינוואליד טאָג"
+
+msgid "Necessary sum must be a positive number"
+msgstr "נייטיק סאַכאַקל מוזן זיין אַ positive נומער"
+
+msgid "Remain"
+msgstr "בלייַבן"
+
+msgid "Last day"
+msgstr "לעצטע טאָג"
+
+msgid "Accumulated"
+msgstr "אַקיומיאַלייטיד"
+
+msgid "Put aside"
+msgstr "שטעלן באַזונדער"
+
+msgid "January"
+msgstr "יאַנואַר"
+
+msgid "February"
+msgstr "פעברואַר"
+
+msgid "March"
+msgstr "מאַרץ"
+
+msgid "April"
+msgstr "אַפּריל"
+
+msgid "May"
+msgstr "מייַ"
+
+msgid "June"
+msgstr "יוני"
+
+msgid "July"
+msgstr "יולי"
+
+msgid "August"
+msgstr "ויגוסט"
+
+msgid "September"
+msgstr "סעפּטעמבער"
+
+msgid "October"
+msgstr "אָקטאָבער"
+
+msgid "November"
+msgstr "נאָוועמבער"
+
+msgid "December"
+msgstr "דעצעמבער"
+
+msgid "Expenses projected/actual"
+msgstr "הוצאות פּראַדזשעקטאַד / פאַקטיש"
+
+msgid "Net Income projected/actual"
+msgstr "נעץ האַכנאָסע פּראַדזשעקטאַד / פאַקטיש"
+
+msgid "New budget"
+msgstr "ניו בודזשעט"
+
+msgid "Revenue and Expenses Chart"
+msgstr "רעוועך און הוצאות טשאַרט"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "בודזשעט מיט זעלבע פּאָר פון חשבון און קאַטעגאָריע שוין יגזיסץ"
+
+msgid "Budget is empty"
+msgstr "בודזשעט איז ליידיק"
+
+msgid "Budget"
+msgstr "בודזשעט"
+
+msgid "plan"
+msgstr "פּלאַן"
+
+msgid "fact"
+msgstr "פאַקט"
+
+msgid "diff"
+msgstr "אונטערשייד"
+
+msgid "Show More"
+msgstr "ווייַזן מער"
+
+msgid "Cancel"
+msgstr "באָטל מאַכן"
+
+msgid "d"
+msgstr "ד"
+
+msgid "h"
+msgstr "ה"
+
+msgid "min"
+msgstr "מין"
+
+msgid "My sales"
+msgstr "מיין סאַלעס"
+
+msgid "Time spent"
+msgstr "צייַט אויסגעגעבן"
+
+msgid "Total time spent"
+msgstr "גאַנץ צייַט אויסגעגעבן"
+
+msgid "Earnings per hour"
+msgstr "פאַרדינסט פּער שעה"
+
+msgid "Total earnings"
+msgstr "גאַנץ פאַרדינסט"
+
+msgid "Call"
+msgstr "רופן"
+
+msgid "Phone call"
+msgstr "טעלעפאָנירן רופן"
+
+msgid "Telephone calls"
+msgstr "טעלעפאָן קאַללס"
+
+msgid "Send email"
+msgstr "שיקט בליצפּאָסט"
+
+msgid "Emails"
+msgstr "עמאַילס"
+
+msgid "Meeting"
+msgstr "באַגעגעניש"
+
+msgid "Meetings"
+msgstr "מעעטינגס"
+
+msgid "All events"
+msgstr "אַלע געשעענישן"
+
+msgid "Task"
+msgstr "אַרבעט"
+
+msgid "Event"
+msgstr "פּאַסירונג"
+
+msgid "Events"
+msgstr "עווענץ"
+
+msgid "Time"
+msgstr "צייַט"
+
+msgid "Events statistics"
+msgstr "עווענץ סטאַטיסטיק"
+
+msgid "days"
+msgstr "טעג"
+
+msgid "hours"
+msgstr "שעה"
+
+msgid "minutes"
+msgstr "מינוט"
+
+msgid "Income & expense"
+msgstr "האַכנאָסע & קאָסט"
+
+msgid "Show chart"
+msgstr "ווייַזן טשאַרט"
+
+msgid "Hide chart"
+msgstr "באַהאַלטן טשאַרט"
+
+msgid "Add event"
+msgstr "לייג געשעעניש"
+
+msgid "Add financial data"
+msgstr "לייג צו פינאַנציעל דאַטן"
+
+msgid "Select contractor"
+msgstr "סעלעקטירן קאַנטראַקטער"
+
+msgid "Net Income"
+msgstr "נעץ האַכנאָסע"
+
+msgid "Revenue"
+msgstr "האַכנאָסע"
+
+msgid "Taxes"
+msgstr "טאַקסעס"
+
+msgid "Amount planned"
+msgstr "סומע פּלאַננעד"
+
+msgid "Amount"
+msgstr "סומע"
+
+msgid "Period"
+msgstr "צייַט"
+
+msgid "Are you sure to close this task?"
+msgstr "ביסט איר זיכער צו נאָענט דעם אַרבעט?"
+
+msgid "(Сlosed)"
+msgstr "( Сלאָסעד )"
+
+msgid "All groups"
+msgstr "אַלע גרופּעס"
+
+msgid "added from task"
+msgstr "צוגעגעבן פֿון אַרבעט"
+
+msgid "Monthly repeat"
+msgstr "כוידעשלעך איבערחזרן"
+
+msgid "Select category"
+msgstr "Select Category"
+
+msgid "Event type"
+msgstr "געשעעניש טיפּ"
+
+msgid "Margin"
+msgstr "זאַפּאַס"
+
+msgid "Use finance project"
+msgstr "נוצן פינאַנצן פּרויעקט"
+
+msgid "New investment project"
+msgstr "ניו ינוועסמאַנט פּרויעקט"
+
+msgid "Investment project settings"
+msgstr "ינוועסמאַנט פּרויעקט סעטטינגס"
+
+msgid "Picture, for the announcement project"
+msgstr "בילד, פֿאַר די מעלדן פּרויעקט"
+
+msgid "Announcement project"
+msgstr "מעלדן פּרויעקט"
+
+msgid "Video"
+msgstr "וידאו"
+
+msgid "Photos or videos gallery"
+msgstr "Photos אָדער ווידיאס גאַלעריע"
+
+msgid "required amount"
+msgstr "required סומע"
+
+msgid "Project duration (60 days maximum)"
+msgstr "פּראָיעקט געדויער ( 60 טעג העכסטן)"
+
+msgid "Project duration"
+msgstr "פּראָיעקט געדויער"
+
+msgid "Add reward"
+msgstr "לייג צו באַלוינונג"
+
+msgid "Delivery date"
+msgstr "עקספּרעס טאָג"
+
+msgid "Payment systems"
+msgstr "צאָלונג סיסטעמס"
+
+msgid "Terms of service"
+msgstr "תּנאָים פון דינסט"
+
+msgid "Agreement"
+msgstr "העסקעם"
+
+msgid "Payment"
+msgstr "צאָלונג"
+
+msgid "My projects"
+msgstr "מיין פּראַדזשעקס"
+
+msgid "Search result"
+msgstr "זוכן רעזולטאַט"
+
+msgid "Nothing not found"
+msgstr "גאָרנישט ניט געפֿונען"
+
+msgid "The project has no sponsors"
+msgstr "די פּרויעקט האט קיין ספּאָנסאָרס"
+
+msgid "Design"
+msgstr "צייכענען"
+
+msgid "Food"
+msgstr "שפּייַז"
+
+msgid "Journalism"
+msgstr "דזשאָורנאַליסם"
+
+msgid "Games"
+msgstr "גאַמעס"
+
+msgid "Art"
+msgstr "קונסט"
+
+msgid "Сomics"
+msgstr "сאָמיקס"
+
+msgid "Music"
+msgstr "מוזיק"
+
+msgid "Handicrafts"
+msgstr "האַנדיקראַפץ"
+
+msgid "Publishing"
+msgstr "ארויסגעבן"
+
+msgid "Theater"
+msgstr "טעאַטער"
+
+msgid "Technology"
+msgstr "טעכנאָלאָגיע"
+
+msgid "Film/Video"
+msgstr "פֿילם / וידאו"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Dance"
+msgstr "טאַנצן"
+
+msgid "Invalid youtube video"
+msgstr "אינוואליד יאָוטובע ווידעא"
+
+msgid "is required"
+msgstr "איז required"
+
+msgid "User"
+msgstr "באַניצער"
+
+msgid "Date"
+msgstr "טייטל"
+
+msgid "Collected"
+msgstr "געזאמלט"
+
+msgid "Choose period"
+msgstr "קלייַבן צייַט"
+
+msgid "Choose region"
+msgstr "קלייַבן געגנט"
+
+msgid "Country"
+msgstr "לאַנד"
+
+msgid "Today"
+msgstr "הייַנט"
+
+msgid "Week"
+msgstr "וואָך"
+
+msgid "Month"
+msgstr "חודש"
+
+msgid "Year"
+msgstr "יאָר"
+
+msgid "Free registration"
+msgstr "Free רעגיסטראַציע"
+
+msgid "Join"
+msgstr "באַהעפטן"
+
+msgid "Log in using"
+msgstr "קלאָץ אין ניצן"
+
+msgid "Vacancies"
+msgstr "עמפּלוימענט אַפּערטונאַטיז"
+
+msgid "About Us"
+msgstr "וועגן אונדז"
+
+msgid "You will need email to log in"
+msgstr "איר וועט דאַרפֿן בליצפּאָסט צו קלאָץ אין"
+
+msgid "A combination of 6 digits and characters"
+msgstr "אַ קאָמבינאַציע פון 6 דידזשאַץ און אותיות"
+
+msgid "Search users, groups, articles..."
+msgstr "זוכן ניצערס, גרופּעס , אַרטיקלען ..."
+
+msgid "Cloud"
+msgstr "כמאַרע"
+
+msgid "Sunday"
+msgstr "זונטיק"
+
+msgid "Monday"
+msgstr "מאָנטיק"
+
+msgid "Tuesday"
+msgstr "דינסטיק"
+
+msgid "Wednesday"
+msgstr "מיטוואָך"
+
+msgid "Thursday"
+msgstr "דאָנערשטיק"
+
+msgid "Friday"
+msgstr "פרייַטיק"
+
+msgid "Saturday"
+msgstr "שבת"
+
+msgid "Edit"
+msgstr "רעדאַגירן"
+
+msgid "Create group"
+msgstr "שאַפֿן גרופּע"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "ביסט איר זיכער איר ווילן צו לאָזן דעם בלאַט ?"
+
+msgid "More"
+msgstr "נאָך"
+
+msgid "Less"
+msgstr "ווינציקער"
+
+msgid "Pending"
+msgstr "פּענדינג"
+
+msgid "Approved"
+msgstr "באוויליקט"
+
+msgid "Rejected"
+msgstr "פֿאַראַכט"
+
+msgid "Subprojects"
+msgstr "סובפּראָדזשעקץ"
+
+msgid "Group edit"
+msgstr "גרופּע רעדאַגירן"
+
+msgid "Startup"
+msgstr "סטאַרטאַפּ"
+
+msgid "Tattoo"
+msgstr "טאַטוירונג"
+
+msgid "Health"
+msgstr "געזונטהייַט"
+
+msgid "Weapon"
+msgstr "וואָפן"
+
+msgid "Astronomy"
+msgstr "אַסטראָנאָמיע"
+
+msgid "All articles"
+msgstr "כל אַרטיקלען"
+
+msgid "Article editor"
+msgstr "אַרטיקל רעדאַקטאָר"
+
+msgid "Document editor"
+msgstr "דאָקומענט רעדאַקטאָר"
+
+msgid "Apply changes"
+msgstr "צולייגן ענדערונגען"
+
+msgid "Save changes?"
+msgstr "היט ענדערונגען?"
+
+msgid "published an article"
+msgstr "ארויס אַן אַרטיקל"
+
+msgid "Users"
+msgstr "ניצערס"
+
+msgid "Shared With Me"
+msgstr "שערד מיט מיר"
+
+msgid "share"
+msgstr "ייַנטיילן"
+
+msgid "Select Group Responsible"
+msgstr "סעלעקטירן גרופּע רעספּאָנסיבלע"
+
+msgid "Create folder"
+msgstr "שאַפֿן טעקע"
+
+msgid "Title must be at least 3 characters"
+msgstr "טיטל מוזן זיין לפּחות 3 אותיות"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Free 10 גיגאבייט , פינאַנצן פאַרוואַלטער , ינוועסטירן מאָדולע, און פילע אנדערע פֿאַר פּאָטער און אויף אייביק"
+
+msgid "Best regards"
+msgstr "בעסטער גרוס"
+
+msgid "Updates in last 12 hours:"
+msgstr "ופּדאַטעס אין די לעצטע 12 שעה :"
+
+msgid "expense"
+msgstr "קאָסט"
+
+msgid "Commentary on the event:"
+msgstr "קאָמענטאַר אויף דער געשעעניש :"
+
+msgid "Event place"
+msgstr "געשעעניש אָרט"
+
+msgid "Project was updated"
+msgstr "פּרויעקט איז ופּדאַטעד"
+
+msgid "Project was created"
+msgstr "פּרויעקט איז Created"
+
+msgid "Project was closed"
+msgstr "פּראָיעקט איז פֿאַרמאַכט"
+
+msgid "account"
+msgstr "באַריכט"
+
+msgid "removed task"
+msgstr "אַוועקגענומען אַרבעט"
+
+msgid "removed subproject"
+msgstr "אַוועקגענומען סובפּראָדזשעקט"
+
+msgid "Title can not be empty"
+msgstr "טיטל קענען ניט זיין ליידיק"
+
+msgid "Do not select the type of event"
+msgstr "דו זאלסט נישט סעלעקט די טיפּ פון געשעעניש"
+
+msgid "Error while saving comment"
+msgstr "טעות בשעת שפּאָרן באַמערקן"
+
+msgid "Save error: access denied"
+msgstr "היט טעות: צוטריט געלייקנט"
+
+msgid "Remains"
+msgstr "בלייבט"
+
+msgid "Time spent, h."
+msgstr "צייַט אויסגעגעבן , ה."
+
+msgid "Emails"
+msgstr "עמאַילס"
+
+msgid "Meetings"
+msgstr "מעעטינגס"
+
+msgid "All users"
+msgstr "כל ניצערס"
+
+msgid "Category"
+msgstr "קאַטעגאָריע"
+
+msgid "Finance project"
+msgstr "פינאַנצן פּרויעקט"
+
+msgid "Investment project"
+msgstr "ינוועסמאַנט פּרויעקט"
+
+msgid "Nature"
+msgstr "נאַטור"
+
+msgid "Data is empty"
+msgstr "דאַטע איז ליידיק"
+
+msgid "Visitors"
+msgstr "וויסיטאָרס"
+
+msgid "My profile"
+msgstr "מיין פּראָפיל"
+
+msgid "Sponsors"
+msgstr "ספּאָנסאָרס"
+
+msgid "Prior to completion"
+msgstr "איידער צו קאַמפּלישאַן"
+
+msgid "Select"
+msgstr "קלייַבן"
+
+msgid "My groups"
+msgstr "מיין גרופּעס"
+
+msgid "The invitation has been sent successfully"
+msgstr "די פאַרבעטונג איז געשיקט געווארן הצלחה"
+
+msgid "Username has already been invited to this project"
+msgstr "נאמען האט שוין געבעטן צו דעם פּרויעקט"
+
+msgid "The user is the creator of the project"
+msgstr "דער באַניצער איז דער שאַפֿער פון די פּרויעקט"
+
+msgid "Provide full access"
+msgstr "צושטעלן פול צוטריט"
+
+msgid "Select elements to provide access"
+msgstr "סעלעקטירן יסודות צו צושטעלן צוטריט"
+
+msgid "Select all"
+msgstr "סעלעקטירן אַלע"
+
+msgid "User E-mail"
+msgstr "באַניצער E- פּאָסט"
+
+msgid "Click on the field to select a category"
+msgstr "דריקט אויף די פעלד צו סעלעקטירן אַ קאַטעגאָריע"
+
+msgid "Invitation was deleted"
+msgstr "פאַרבעטונג איז אויסגעמעקט"
+
+msgid "Permission denied"
+msgstr "דערלויבעניש געלייקנט"
+
+msgid "Printed"
+msgstr "געדרוקט"
+
+msgid "Incorrect Contractor email"
+msgstr "פאַלש קאָנטראַקטאָר בליצפּאָסט"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "צי איר ווילן צו לייגן פּרויעקט צו פינאַנצן פאַרוואַלטער ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "צו פאַרענדיקן די רעגיסטראַציע פּראָצעס ביטע פּלאָמבירן אַראָפּ דיין סקילז"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "אַ פּאָסט מיט ווייַטער ינסטראַקשאַנז איז געשיקט צו אייער בליצפּאָסט אַדרעס"
+
+msgid "Submit"
+msgstr "פאָרלייגן"
+
+msgid "Cars"
+msgstr "קאַרס"
+
+msgid "Science"
+msgstr "וויסנשאַפט"
+
+msgid "Donation"
+msgstr "בייַשטייַער"
+
+msgid "Interests"
+msgstr "ינטערעסץ"
+
+msgid "Driver"
+msgstr "שאָפער"
+
+msgid "Sportsman"
+msgstr "ספּאָרצמען"
+
+msgid "Businessman"
+msgstr "געשעפצמאַן"
+
+msgid "Accountant"
+msgstr "כעזשבנ-פירער"
+
+msgid "Engineer"
+msgstr "ענגינעער"
+
+msgid "Soldier"
+msgstr "סאָלדאַט"
+
+msgid "Next"
+msgstr "ווייַטער"
+
+msgid "Hide group"
+msgstr "באַהאַלטן גרופּע"
+
+msgid "groups created"
+msgstr "גרופּעס Created"
+
+msgid "articles written"
+msgstr "ארטיקלען געשריבן"
+
+msgid "These groups may be interesting for you"
+msgstr "די גרופּעס קען זיין טשיקאַווע פֿאַר איר"
+
+msgid "About Group"
+msgstr "וועגן גרופּע"
+
+msgid "view(s)"
+msgstr "מיינונג (s)"
+
+msgid "Favorite users"
+msgstr "באַליבט ניצערס"
+
+msgid "No accounts"
+msgstr "ניט קיין אַקאַונץ"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook דערלויבעניש אַנדערש."
+
+msgid "Authorization Required"
+msgstr "דערלויבעניש רעקווירעד"
+
+msgid "You have to make a call:"
+msgstr "איר האָבן צו מאַכן אַ רוף :"
+
+msgid "You have to send an email:"
+msgstr "איר האָבן צו שיקן אַ בליצבריוו :"
+
+msgid "You have a meetup:"
+msgstr "איר האָבן אַ מעעטופּ :"
+
+msgid "You event :"
+msgstr "איר געשעעניש:"
+
+msgid "Participants:"
+msgstr "פּאַרטיסיפּאַנץ :"
+
+msgid "Search"
+msgstr "זוכן"
+
+msgid "News"
+msgstr "נייַעס"
+
+msgid "Investments"
+msgstr "ינוועסטמענץ"
+
+msgid "Back to Cloud"
+msgstr "צוריק צו וואָלקן"
+
+msgid "Documents"
+msgstr "דאָקומענץ"
+
+msgid "Planet"
+msgstr "פּלאַנעט"
+
+msgid "Group url"
+msgstr "גרופּע URL"
+
+msgid "Profile url"
+msgstr "פּראָפיל URL"
+
+msgid "Already taken"
+msgstr "שוין גענומען"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "לפּחות 1 בריוו און 3 טשאַרס לענג required"
+
+msgid "Digit can not be the first character"
+msgstr "ציפֿער קענען ניט זיין דער ערשטער כאַראַקטער"
+
+msgid "Enter valid email address"
+msgstr "אַרייַן גילטיק email אַדרעס"
+
+msgid "Enter your skills"
+msgstr "אַרייַן אייער סקילז"
+
+msgid "Enter your first name"
+msgstr "אַרייַן דיין ערשטער נאָמען"
+
+msgid "Enter your last name"
+msgstr "אַרייַן דיין לעצטע נאָמען"
+
+msgid "Enter your first name and last name"
+msgstr "אַרייַן דיין ערשטער נאָמען און לעצטע נאָמען"
+
+msgid "Your first name?"
+msgstr "דיין ערשטער נאָמען?"
+
+msgid "Your last name?"
+msgstr "דיין לעצטע נאָמען?"
+
+msgid "What are your proficiencies?"
+msgstr "וואָס זענען אייערע פּראָפיסיענסיעס ?"
+
+msgid "Select country"
+msgstr "סעלעקטירן לאַנד"
+
+msgid "Select user"
+msgstr "סעלעקטירן וסערס"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "מקיים דיין חלום! שאַפֿן און מיטאַרבעטן ."
+
+msgid "date moved from"
+msgstr "טאָג באווויגן פון"
+
+msgid "work"
+msgstr "אַרבעט"
+
+msgid "Conference"
+msgstr "באַראַטונג"
+
+msgid "personal"
+msgstr "פּערזענלעך"
+
+msgid "Holiday"
+msgstr "יום טוּב"
+
+msgid "Past"
+msgstr "פאַרגאַנגענהייַט"
+
+msgid "Future"
+msgstr "צוקונפט"
+
+msgid "Purchase"
+msgstr "קויפן"
+
+msgid "Personal events"
+msgstr "פּריוואַט געשעענישן"
+
+msgid "Conferences"
+msgstr "באַגעגעניש"
+
+msgid "Holidays"
+msgstr "יום טוּב"
+
+msgid "Sport events"
+msgstr "ספּאָרט געשעענישן"
+
+msgid "Tasks"
+msgstr "טאַסקס"
+
+msgid "Other events"
+msgstr "אנדערע געשעענישן"
+
+msgid "Set aside"
+msgstr "טאַקעאָוט"
+
+msgid "Set aside"
+msgstr "דעפעררעד"
+
+msgid "Time management"
+msgstr "צייט מאַנאַגעמענט"
+
+msgid "Delayed events"
+msgstr "דעפעררעד געשעענישן"
+
+msgid "Delayed"
+msgstr "דעפעררעד"
+
+msgid "Bind to"
+msgstr "באַשטימען"
+
+msgid "answered your comment to"
+msgstr "איך געזאגט (אַ) באַמערקונג אויף דעם אַרטיקל"
+
+msgid "commented your article"
+msgstr "איך קאַמענטאַד אויף דיין אַרטיקל"
+
+msgid "You\'ve answered on comment to"
+msgstr "איר געזאָגט צו די באַמערקונג אויף דעם אַרטיקל"
+
+msgid "You\'ve commented an article"
+msgstr "איר קאַמענטאַד אויף דעם אַרטיקל"
+
+msgid "Terms and Conditions"
+msgstr "תּנאָים און קאָנדיטיאָנס"
+
+msgid "Privacy Policy"
+msgstr "פּריוואַטקייט פּאָליטיק"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "דורך געבן אַ קליק אויף \"צייכן אַרויף\" איר שטימען מיט אונדזער און באַשטעטיקן אַז איר האָבן לייענען אונדזער"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "תאריך דער קהל פון שעפעריש מענטשן פון אַלע איבער דער וועלט! איר וועט באַקומען: ינוועסטינג אין דיין געדאנקען, אַ געלעגנהייט צו קלייַבן זיין קאָלעקטיוו, ארבעטן אין אַ גרופּע, די פינאַנציעל פאַרוואַלטער, אָנפירונג זייער צייַט, 2 גיגאבייט אין סטאָרידזש און מער. און עס ס פּאָטער!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "אנטשולדיגט, אָבער דעם בלאַט איר זענען קוקן פֿאַר טוט נישט עקסיסטירן. אויב איר טראַכטן אַז צו באַשולדיקן אונדז | קאָנטאַקט אונדז"
+
+msgid "Return"
+msgstr "צוריקקומען"
+
+msgid "COMMON"
+msgstr "גאַנץ"
+
+msgid "My events"
+msgstr "מיין עווענץ"
+
+msgid "Job opening"
+msgstr "ניו פרייַ אָרט"
+
+msgid "Employment"
+msgstr "טיפּ באַשעפטיקונג"
+
+msgid "Working hours"
+msgstr "עפן שעה"
+
+msgid "City"
+msgstr "שטאָט"
+
+msgid "Wages"
+msgstr "געצאָלט"
+
+msgid "Currency"
+msgstr "קראַנטקייַט"
+
+msgid "Experience"
+msgstr "דערפאַרונג"
+
+msgid "Full-time"
+msgstr "גאַנץ באַשעפטיקונג"
+
+msgid "Part-time"
+msgstr "טייל-מאָל"
+
+msgid "Project employment"
+msgstr "פּראָיעקט / צייטווייליגע"
+
+msgid "Volunteer"
+msgstr "וואָלונטעערינג"
+
+msgid "Internship"
+msgstr "טראַינעעשיפּ"
+
+msgid "Full day"
+msgstr "גאַנץ צייט"
+
+msgid "Shifts"
+msgstr "רעפּלאַסעמענט פּלאַן"
+
+msgid "Flexible shifts"
+msgstr "Flexible פּלאַן"
+
+msgid "Remote work"
+msgstr "רימאָוט אַרבעט"
+
+msgid "Rotational basis"
+msgstr "יבעררוק אופֿן"
+
+msgid "Do you really want to delete this comment?"
+msgstr "ביסט איר זיכער איר ווילן צו ויסמעקן די באַמערקונג?"
+
+msgid "Do you really want to delete this task?"
+msgstr "ביסט איר זיכער איר ווילן צו ויסמעקן דעם אַרבעט?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "ביסט איר זיכער איר ווילן צו ויסמעקן דעם סאַב-פּרויעקט?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "איר האָבן געווענדט צו דער פירמע אין די שטעלע. ביטע מאַכן זיכער אַז די"
+
+msgid "Your request to for job has been rejected"
+msgstr "דיין בקשה צו די פירמע צו פּאָסטן האט שוין פֿאַראַכט"
+
+msgid "Your request to for job has been accepted"
+msgstr "דיין בקשה צו די פירמע צו פּאָסטן איז געווען אנגענומען"
+
+msgid "profile is completed"
+msgstr "דיין פּראָפיל איז פול"
+
+msgid "Use account"
+msgstr "נוצן חשבון"
+
+msgid "$/hr"
+msgstr "$ / שעה"
+
+msgid "Finance category"
+msgstr "פינאַנציעל קאַטעגאָריע"
+
+msgid "No projects"
+msgstr "קיין פּראַדזשעקס"
+
+msgid "Bind to finances"
+msgstr "באַשטימען פינאַנציעל פּרויעקט"
+
+msgid "Preview"
+msgstr "קוק"
+
+msgid "Download"
+msgstr "דאַונלאָוד"
+
+msgid "Save to my cloud"
+msgstr "קאָפּי די ריפּאַזאַטאָרי"
+
+msgid "File successfully saved to your cloud"
+msgstr "טעקע הצלחה סטאָרד אין דיין ריפּאַזאַטאָרי"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "היט דעם טעקע אין אייער ריפּאַזאַטאָרי?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "קלייַבן אַ קאַטעגאָריע אַרטיקל"
+
+msgid "Type something"
+msgstr "שרייב עפּעס"
+
+msgid "Founded users"
+msgstr "געפֿונען ניצערס"
+
+msgid "Founded articles"
+msgstr "געפֿונען אַרטיקל"
+
+msgid "Founded groups"
+msgstr "געגרינדעט גרופּע"
+
+msgid "What are your skills?"
+msgstr "וואָס זענען אייערע סקילז?"
+
+msgid "Select at least 2 interests"
+msgstr "סעלעקטירן לפּחות 2 אינטערעס"
+
+msgid "Need more interests"
+msgstr "ניט גענוג אינטערעס אויסגעקליבן"
+
+msgid "What are you interesting in?"
+msgstr "וואָס זענען איר אינטערעסירט?"
+
+msgid "You have no dialogs"
+msgstr "איר טאָן ניט האָבן דייאַלאָגז"
+
+msgid "Usage Stats"
+msgstr "שטאַט פון"
+
+msgid "Founded files"
+msgstr "טעקעס געפֿונען"
+
+msgid "Big tiles"
+msgstr "גרויס טיילז"
+
+msgid "Small tiles"
+msgstr "קליין טיילז"
+
+msgid "Table view"
+msgstr "טיש מיינונג"
+
+msgid "Root folder"
+msgstr "דער שורש Directory"
+
+msgid "My files"
+msgstr "מיין טעקעס"
+
+msgid "Save as draft"
+msgstr "היט ווי פּלאַן"
+
+msgid "Buy More Space"
+msgstr "קויפן מער פּלאַץ"
+
+msgid "Buy"
+msgstr "קויפן"
+
+msgid "You have been invited to group as"
+msgstr "איר האָט שוין געבעטן צו די גרופּע ווי אַ"
+
+msgid "User wants to join your group"
+msgstr "דער באַניצער וויל צו באַהעפטן דיין גרופּע"
+
+msgid "Section is coming soon!"
+msgstr "אָפּטיילונג אונטער קאַנסטראַקשאַן!"
+
+msgid "Shared"
+msgstr "ראַסשאַרענניע"
+
+msgid "Views in last 24 hours:"
+msgstr "קוקן אין די לעצטע 24 שעה:"
+
+msgid "Task was updated"
+msgstr "די אַרבעט האט שוין ופּדאַטעד"
+
+msgid "Task was closed"
+msgstr "די אַרויסרופן האט שוין פֿאַרמאַכט"
+
+msgid "Task was created"
+msgstr "די אַרבעט איז געווען שטעלן"
+
+msgid "Current balance"
+msgstr "קראַנט וואָג"
+
+msgid "Add funds"
+msgstr "שטעלן"
+
+msgid "Pay"
+msgstr "ויסשרייַבן"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "איר האָבן יקסידיד די נומער פון לאָגין אַטטעמפּץ. איר זענט בלאַקט פֿאַר 15 מינוט"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "ביטע באַשטעטיקן אייער E- פּאָסט. דער בריוו געשיקט צו איר דורך פּאָסט."
+
+msgid "Resend confirmation email"
+msgstr "שיקן באַשטעטיקונג ווידער"
+
+msgid "Disk 2Gb Monthly"
+msgstr "דיסק 2 גיגאבייט פּער חודש"
+
+msgid "Disk 10Gb Monthly"
+msgstr "דרייוו 10 גיגאבייט פּער יאָר"
+
+msgid "Disk 100Gb Yearly"
+msgstr "דיסק 100 גיגאבייט יעדער יאָר"
+
+msgid "Disk 1Tb Monthly"
+msgstr "דיסק 1 טב כוידעשלעך"
+
+msgid "Disk 1Tb Yearly"
+msgstr "דרייוו 1 טב יעדער יאָר"
+
+msgid "Project members monthly"
+msgstr "פּאַרטיסיפּאַנץ פון די פּרויעקט אויף אַ כוידעשלעך יקער"
+
+msgid "Project members yearly"
+msgstr "פּראָיעקט פּאַרטיסאַפּאַנץ אַניואַלי"
+
+msgid "Member(s) yearly"
+msgstr "מיטגליד (s) פּער יאָר"
+
+msgid "Member(s) monthly"
+msgstr "מיטגליד (s) אויף אַ כוידעשלעך יקער"
+
+msgid "Authorized"
+msgstr "אַוטהאָריזעד"
+
+msgid "Authorization expired"
+msgstr "דערלויבעניש אויסגעגאנגען"
+
+msgid "Processor declined"
+msgstr "פֿאַראַכט פּראַסעסינג סיסטעם"
+
+msgid "Gateway rejected"
+msgstr "פֿאַראַכט צאָלונג גייטוויי"
+
+msgid "Failed"
+msgstr "טעות"
+
+msgid "Voided"
+msgstr "אָפּשאַפן"
+
+msgid "Submitted for settlement"
+msgstr "געשיקט צו פאַרשרייַבן"
+
+msgid "Settlement declined"
+msgstr "ענראָללמענט האט שוין פֿאַראַכט"
+
+msgid "Settlement pending"
+msgstr "פּענדינג ענראָולמאַנט"
+
+msgid "Verified"
+msgstr "אָפּגעשטעלט"
+
+msgid "Pending"
+msgstr "פּענדינג"
+
+msgid "Active"
+msgstr "טעטיק"
+
+msgid "Past Due"
+msgstr "אויסגעגאנגען"
+
+msgid "Expired"
+msgstr "געענדיקט"
+
+msgid "Marketer"
+msgstr "מאַרקעטער"
+
+msgid "India"
+msgstr "אינדיע"
+
+msgid "Malaysia"
+msgstr "מאלייזיע"
+
+msgid "Thailand"
+msgstr "טיילאַנד"
+
+msgid "South Korea"
+msgstr "דרום קארעע"
+
+msgid "Kazakhstan"
+msgstr "קאַזאַכסטאַן"
+
+msgid "Israel"
+msgstr "ישראל"
+
+msgid "Ukraine"
+msgstr "אוקריינא"
+
+msgid "Belarus"
+msgstr "בעלאַרוס"
+
+msgid "Bulgaria"
+msgstr "בולגאַריאַ"
+
+msgid "Turkey"
+msgstr "טערקיי"
+
+msgid "Armenia"
+msgstr "אַרמעניאַ"
+
+msgid "Serbia"
+msgstr "סערביע"
+
+msgid "Austria"
+msgstr "עסטרייך"
+
+msgid "Poland"
+msgstr "פוילן"
+
+msgid "Germany"
+msgstr "דייטשלאנד"
+
+msgid "Italy"
+msgstr "איטאליע"
+
+msgid "Netherlands"
+msgstr "האלאנד"
+
+msgid "Ireland"
+msgstr "אירלאנד"
+
+msgid "United Kingdom"
+msgstr "גרויס בריטאַן"
+
+msgid "Portugal"
+msgstr "פּאָרטוגאַל"
+
+msgid "Norway"
+msgstr "נארוועגיע"
+
+msgid "United States"
+msgstr "פאַרייניקטע שטאַטן"
+
+msgid "Canada"
+msgstr "קאַנאַדע"
+
+msgid "Brazil"
+msgstr "בראזיל"
+
+msgid "Saudi Arabia"
+msgstr "סאַודי אַראַביאַ"
+
+msgid "Canada"
+msgstr "מצרים"
+
+msgid "Russia"
+msgstr "רוסלאַנד"
+
+msgid "Hong Kong"
+msgstr "האָנג קאָנג"
+
+msgid "There was no any transactions yet."
+msgstr "אין דעם מאָמענט, עס איז געווען ניט אַ איין מאַסע"
+
+msgid "Fulfill your dream"
+msgstr "מקיים דיין חלום"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "תאריך אונדזער קהל פון שעפעריש מענטשן פון אַלע אַרום דער גלאָבוס."
+
+msgid "Create and Collaborate"
+msgstr "שאַפֿן און מיטאַרבעטן"
+
+msgid "Start Dreaming"
+msgstr "מקיים חלום איצט"
+
+msgid "or"
+msgstr "אָדער"
+
+msgid "Our mission:"
+msgstr "אונדזער מישאַן:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "צו פאַרייניקן שעפעריש און אַקטיוו מען צו ינסטרומענט געדאנקען פון פּשוט און אין מאָנען צו גלייבן און פאַנטאַסטיש, וואָס קענען פאָרעם אונדזער צוקונפֿט."
+
+msgid "What is Konstruktor?"
+msgstr "וואָס איז קאָנסטרוקטאָר?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "קאָנסטרוקטאָר - איז אַ טייל פון אונדזער פאַקטיש לעבן, וואָס באטייטיק פאַסיליטאַטעס און סימפּליפיעס"
+
+msgid "*business processes"
+msgstr "* ביזנעס פּראַסעסאַז"
+
+msgid "*materialization of creative ideas"
+msgstr "* מאַטעריאַליזאַטיאָן פון שעפעריש געדאנקען"
+
+msgid "*constructive cooperation"
+msgstr "* קאַנסטראַקטיוו קוואַפּעריישאַן"
+
+msgid "Make your dream!"
+msgstr "מאַכן דיין חלום!"
+
+msgid "Vlad Krishtop"
+msgstr "וולאַד קרישטאָפּ"
+
+msgid "CEO"
+msgstr "סעאָ"
+
+msgid "Yuriy Chekalenko"
+msgstr "יוריי טשעקאַלענקאָ"
+
+msgid "Special Advisor"
+msgstr "ספּעציעלע אַדווייזער"
+
+msgid "Yaroslav Eroshenko"
+msgstr "יאַראָסלאַוו עראָשענקאָ"
+
+msgid "Manager, Software Development"
+msgstr "מאַנאַגער, ווייכווארג אנטוויקלונג"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "סוועטלאַנאַ קאַמישאַנסקייַאַ"
+
+msgid "Senior lawyer"
+msgstr "עלטער אַדוואָקאַט"
+
+msgid "Yuriy Himka"
+msgstr "יוריי הימקאַ"
+
+msgid "Designer"
+msgstr "דיזיינער"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "דורך געבן אַ קליק אויף די \"קומענדיקע\" קנעפּל, איר זענט אַקסעפּטינג און אַגריינג מיט אונדזער תּנאָים און קאָנדיטיאָנס, און איר זענט אַקנאַלידזשינג אַז איר האָבן לייענען אונדזער פּריוואַטקייט פּאָליטיק."
+
+msgid "Incorrect login or password."
+msgstr "פאַלש לאָגין אָדער פּאַראָל."
+
+msgid "Password must be at least 6 characters"
+msgstr "שפּריכוואָרט מוזן זיין לפּחות 6 אותיות"
+
+msgid "January"
+msgstr "יאַנואַר"
+
+msgid "February"
+msgstr "פעברואַר"
+
+msgid "March"
+msgstr "מאַרץ"
+
+msgid "April"
+msgstr "אַפּריל"
+
+msgid "May"
+msgstr "מייַ"
+
+msgid "June"
+msgstr "יוני"
+
+msgid "July"
+msgstr "יולי"
+
+msgid "August"
+msgstr "ויגוסט"
+
+msgid "September"
+msgstr "סעפּטעמבער"
+
+msgid "October"
+msgstr "אָקטאָבער"
+
+msgid "November"
+msgstr "נאָוועמבער"
+
+msgid "December"
+msgstr "דעצעמבער"
+
+msgid "Chat"
+msgstr "שמועס"
+
+msgid "Files"
+msgstr "טעקעס"
+
+msgid "Statistic"
+msgstr "סטאַטיסטיק"
+
+msgid "Support"
+msgstr "סופּפּאָרט"
+
+msgid "Exit"
+msgstr "אַרויסגאַנג"
+
+msgid "Brest"
+msgstr "ברעסט"
+
+msgid "Belarus"
+msgstr "בעלאַרוס"
+
+msgid "Marketing specialist"
+msgstr "מאַרקעטינג מומכע"
+
+msgid "Administrator"
+msgstr "אַדמיניסטראַטאָר"
+
+msgid "Shared with me"
+msgstr "שערד מיט מיר"
+
+msgid "File Sharing"
+msgstr "טעקע שערינג"
+
+msgid "Provide access by link"
+msgstr "צושטעלן צוטריט דורך לינק"
+
+msgid "Provide Individual access"
+msgstr "צושטעלן יחיד צוטריט"
+
+msgid "Provide edit access"
+msgstr "צושטעלן רעדאַגירן צוטריט"
+
+msgid "Share"
+msgstr "ייַנטיילן"
+
+msgid "Files will be available only for selected users"
+msgstr "טעקעס וועט זיין פאַראַנען בלויז פֿאַר אויסגעקליבן ניצערס"
+
+msgid "With this link everyone can access to the files"
+msgstr "מיט דעם לינקס אַלעמען קענען צוטריט צו די טעקעס"
+
+msgid "Search users, groups, articles..."
+msgstr "זוכן ניצערס, גרופּעס, אַרטיקלען ..."
+
+msgid "My Group"
+msgstr "מיין גרופּע"
+
+msgid "Mo"
+msgstr "מאָ"
+
+msgid "Tu"
+msgstr "טו"
+
+msgid "We"
+msgstr "מיר"
+
+msgid "Th"
+msgstr "טה"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "סאַ"
+
+msgid "Su"
+msgstr "סו"
+
+msgid "The file is not selected"
+msgstr "דער טעקע איז ניט אויסגעקליבן"
+
+msgid "Set aside"
+msgstr "שטעלן באַזונדער"
+
+msgid "Event time"
+msgstr "געשעעניש צייַט"
+
+msgid "Work"
+msgstr "אַרבעטן"
+
+msgid "Personal"
+msgstr "פּערזענלעך"
+
+msgid "Time spent for work:"
+msgstr "צייַט אויסגעגעבן פֿאַר ווערק:"
+
+msgid "Personal time spent:"
+msgstr "פּערזענלעך צייַט אויסגעגעבן:"
+
+msgid "Present"
+msgstr "פאָרשטעלן"
+
+msgid "Common"
+msgstr "געוויינטלעך"
+
+msgid "Sport"
+msgstr "ספּאָרט"
+
+msgid "Entertainment"
+msgstr "פאַרווייַלונג"
+
+msgid "Select:"
+msgstr "סעלעקטירן:"
+
+msgid "Invalid username or password."
+msgstr "אינוואליד נאמען אָדער פּאַראָל."
+
+msgid "Try again."
+msgstr "פּרובירן ווידער."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "וואָס זענען איר אינטערעסירט אין?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "סעלעקטירן לפּחות 2 סקילז: בלייבט 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "סעלעקטירן לפּחות 2 סקילז: בלייבט 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "סעלעקטירן לפּחות 2 סקילז: בלייבט"
+
+msgid "Active life"
+msgstr "אַקטיוו לעבן"
+
+msgid "Arts and culture"
+msgstr "Arts און קולטור"
+
+msgid "Business"
+msgstr "געשעפט"
+
+msgid "Cinema"
+msgstr "סינעמאַ"
+
+msgid "Communications"
+msgstr "קאָממוניקאַטיאָנס"
+
+msgid "Construction and repair"
+msgstr "קאַנסטראַקשאַן און פאַרריכטן"
+
+msgid "Cooking"
+msgstr "קוקינג"
+
+msgid "Education"
+msgstr "חינוך"
+
+msgid "Electronics"
+msgstr "עלעקטראָניקס"
+
+msgid "Finances"
+msgstr "פינאַנסעס"
+
+msgid "Graphics and design"
+msgstr "Graphics און פּלאַן"
+
+msgid "Health"
+msgstr "געזונטהייַט"
+
+msgid "Home and family"
+msgstr "היים און משפּחה"
+
+msgid "Humor"
+msgstr "הומאָר"
+
+msgid "IT"
+msgstr "עס"
+
+msgid "Industry"
+msgstr "אינדוסטריע"
+
+msgid "Insurance"
+msgstr "פאַרזיכערונג"
+
+msgid "Literature"
+msgstr "ליטעראַטור"
+
+msgid "Mobile communications and internet"
+msgstr "מאָביל קאָמוניקאַציע און אינטערנעט"
+
+msgid "News and Media"
+msgstr "נייַעס און מידיאַ"
+
+msgid "Pets"
+msgstr "פּעץ"
+
+msgid "Products and service"
+msgstr "פּראָדוקטן און דינסט"
+
+msgid "Real Estate"
+msgstr "גרונטייגנס"
+
+msgid "Religion"
+msgstr "רעליגיע"
+
+msgid "Science and techs"
+msgstr "וויסנשאַפֿט און טעקס"
+
+msgid "Security"
+msgstr "זיכערהייַט"
+
+msgid "Society"
+msgstr "געזעלשאַפט"
+
+msgid "Television"
+msgstr "טעלעוויזיע"
+
+msgid "Travel"
+msgstr "אַרומפאָרן"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "ארגענטינע"
+
+msgid "Australia"
+msgstr "אויסטראַליע"
+
+msgid "Austria"
+msgstr "עסטרייך"
+
+msgid "Belarus"
+msgstr "בעלאַרוס"
+
+msgid "Belgium"
+msgstr "בעלגיע"
+
+msgid "Brazil"
+msgstr "בראזיל"
+
+msgid "Bulgaria"
+msgstr "בולגאַריאַ"
+
+msgid "Canada"
+msgstr "קאַנאַדע"
+
+msgid "Chile"
+msgstr "טשילע"
+
+msgid "Denmark"
+msgstr "דענמאַרק"
+
+msgid "France"
+msgstr "France"
+
+msgid "Germany"
+msgstr "דייטשלאנד"
+
+msgid "Greece"
+msgstr "גריכנלאנד"
+
+msgid "Hungary"
+msgstr "אונגארן"
+
+msgid "Iceland"
+msgstr "יסעלאַנד"
+
+msgid "Ireland"
+msgstr "אירלאנד"
+
+msgid "Israel"
+msgstr "ישראל"
+
+msgid "Italy"
+msgstr "איטאליע"
+
+msgid "Japan"
+msgstr "יאַפּאַן"
+
+msgid "Mexico"
+msgstr "מעקסיקא"
+
+msgid "Netherlands"
+msgstr "האלאנד"
+
+msgid "New Zealand"
+msgstr "ניו זילאַנד"
+
+msgid "Norway"
+msgstr "נארוועגיע"
+
+msgid "Poland"
+msgstr "פוילן"
+
+msgid "Portugal"
+msgstr "פּאָרטוגאַל"
+
+msgid "Russia"
+msgstr "רוסלאַנד"
+
+msgid "Slovakia"
+msgstr "סלאוואקיי"
+
+msgid "South Africa"
+msgstr "South Africa"
+
+msgid "South Korea"
+msgstr "דרום קארעע"
+
+msgid "Spain"
+msgstr "ספּאַין"
+
+msgid "Sweden"
+msgstr "שוועדן"
+
+msgid "Switzerland"
+msgstr "שווייץ"
+
+msgid "Turkey"
+msgstr "טערקיי"
+
+msgid "Ukraine"
+msgstr "אוקריינא"
+
+msgid "United Arab Emirates"
+msgstr "פאראייניקטע אַראַבער עמיראַטעס"
+
+msgid "United Kingdom"
+msgstr "פֿאַראייניקטע קינגדאָם"
+
+msgid "United States"
+msgstr "פאַרייניקטע שטאַטן"
+
+msgid "achievements"
+msgstr "דערגרייכונגען"
+
+msgid "Investment management"
+msgstr "ינוועסטמענט מאַנאַגעמענט"
+
+msgid "Select..."
+msgstr "סעלעקטירן ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "ינוועסטמענט מאַנאַגעמענט"
+
+msgid "Investors list"
+msgstr "ינוועסטאָרס רשימה"
+
+msgid "My investments"
+msgstr "מיין ינוועסטמאַנץ"
+
+msgid "Create date"
+msgstr "שאַפֿן דאַטע"
+
+msgid "Author of the project"
+msgstr "מחבר פון די פּרויעקט"
+
+msgid "Date and time"
+msgstr "טאָג און צייַט"
+
+msgid "Status"
+msgstr "סטאַטוס"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+msgid "Next"
+msgstr "ווייַטער"
+
+msgid "Apply"
+msgstr "פּאַסן"
+
+msgid "Kazakhstan"
+msgstr "קאַזאַכסטאַן"
+
+msgid "Almaty"
+msgstr "אַלמאַטי"
+
+msgid "Hong Kong"
+msgstr "האָנג קאָנג"
+
+msgid "Science"
+msgstr "וויסנשאַפט"
+
+msgid "Architecture"
+msgstr "אַרטשיטעקטורע"
+
+msgid "Photography"
+msgstr "פאָטאָגראַפיע"
+
+msgid "Designer"
+msgstr "דיזיינער"
+
+msgid "IT specialist"
+msgstr "עס מומכע"
+
+msgid "Agronomist"
+msgstr "אַגראָנאָמיסט"
+
+msgid "Architect"
+msgstr "אַרטשיטעקט"
+
+msgid "Lawyer"
+msgstr "אַדוואָקאַט"
+
+msgid "Writer"
+msgstr "שרייַבער"
+
+msgid "Doctor"
+msgstr "דאָקטאָר"
+
+msgid "Scientist"
+msgstr "געלערנטער"
+
+msgid "Marketer"
+msgstr "מאַרקעטער"
+
+msgid "Teacher"
+msgstr "רבי"
+
+msgid "Cook"
+msgstr "קאָכן"
+
+msgid "Artist"
+msgstr "קינסטלער"
+
+msgid "Photographer"
+msgstr "פאָטאָגראַף"
+
+msgid "Ecologist"
+msgstr "עקאָלאָגיסט"
+
+msgid "Economist"
+msgstr "עקאָנאָמיסט"
+
+msgid "Logistician"
+msgstr "לאָגיסטיסיאַן"
+
+msgid "Journalist"
+msgstr "זשורנאַליסט"
+
+msgid "Builder"
+msgstr "בילדער"
+
+msgid "These users may be interesting for you"
+msgstr "די ניצערס זאל זיין אינטערעסאנט פֿאַר איר"
+
+msgid "These articles may be interesting for you"
+msgstr "די ארטיקלען קען זיין טשיקאַווע פֿאַר איר"
+
+msgid "You joined this group as Аdministrator"
+msgstr "איר זיך איינגעשריבן די גרופּע ווי аדמיניסטראַטאָר"
+
+msgid "articles written."
+msgstr "ארטיקלען געשריבן."
+
+msgid "groups created."
+msgstr "גרופּעס Created."
+
+msgid "Creation"
+msgstr "שאַפונג"
+
+msgid "Build a dream"
+msgstr "בויען אַ חלום"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "לייענען מער טשיקאַווע אַרטיקלען - גיין פּאָטער רעגיסטראַציע"
+

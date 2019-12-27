@@ -1,0 +1,3344 @@
+# עברית(Иврит) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: עברית(Иврит) <support@konstruktor.com>\n"
+"Language: עברית(Иврит)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "שם משתמש"
+
+msgid "Invalid username or password, try again"
+msgstr "שם משתמש או סיסמא שגוי. נסה שוב."
+
+msgid "Settings"
+msgstr "הגדרות"
+
+msgid "Home"
+msgstr "בית"
+
+msgid "You must log in to access this page"
+msgstr "צריך להיכנס למערכת כדי לגשת לדף זה"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "ההפעלה שלך כבר פגה . אנא , שוב אל לבצע פעולה זו"
+
+msgid "Save"
+msgstr "שמור"
+
+msgid "Head Office"
+msgstr "משרד ראשי"
+
+msgid "Address"
+msgstr "כתובת"
+
+msgid "Back"
+msgstr "חזור"
+
+msgid "Apply"
+msgstr "החל"
+
+msgid "Upload files…"
+msgstr "להעלות קבצים ..."
+
+msgid "Set as main"
+msgstr "קבע כעיקרי"
+
+msgid "Delete"
+msgstr "מחק"
+
+msgid "Original image"
+msgstr "תמונה מקורית"
+
+msgid "Uploaded"
+msgstr "נטען"
+
+msgid "File name"
+msgstr "שם קובץ"
+
+msgid "File size"
+msgstr "גודל קובץ"
+
+msgid "Resolution"
+msgstr "רזולוציה"
+
+msgid "Enlarge"
+msgstr "הגדלת"
+
+msgid "Links"
+msgstr "קישורים"
+
+msgid "Original size"
+msgstr "גודל מקורי"
+
+msgid "For editor"
+msgstr "לעורך"
+
+msgid "Resize"
+msgstr "שינוי גודל"
+
+msgid "Width"
+msgstr "רוחב"
+
+msgid "Height"
+msgstr "גובה"
+
+msgid "Media URL"
+msgstr "כתובת אתר של המדיה"
+
+msgid "Add record"
+msgstr "הוסף רשומה"
+
+msgid "Show filter settings"
+msgstr "הגדרות מסננת הצג"
+
+msgid "Edit record"
+msgstr "שיא עריכה"
+
+msgid "Delete record"
+msgstr "למחוק רשומה"
+
+msgid "Delete checked records"
+msgstr "מחיקה רשומות בדקו"
+
+msgid "Dashboard"
+msgstr "לוח מחוונים"
+
+msgid "Password"
+msgstr "סיסמא"
+
+msgid "Remember me"
+msgstr "זכור אותי"
+
+msgid "Login"
+msgstr "התחברתי"
+
+msgid "Clean image cache"
+msgstr "מטמון תמונה נקי"
+
+msgid "Processing query..."
+msgstr "שאילתא עיבוד ..."
+
+msgid "CMS Development"
+msgstr "פיתוח CMS"
+
+msgid "Admin Home Page"
+msgstr "Admin דף הבית"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "דף בית הפתוח של Front-endבכרטיסייה חדשה"
+
+msgid "Go to Site"
+msgstr "עבור לאתר"
+
+msgid "Log out"
+msgstr "להתנתק"
+
+msgid "Send"
+msgstr "שלח"
+
+msgid "General"
+msgstr "כללי"
+
+msgid "Title"
+msgstr "כותרת"
+
+msgid "Teaser"
+msgstr "טיזר"
+
+msgid "Published"
+msgstr "פורסם"
+
+msgid "Featured"
+msgstr "הקלק"
+
+msgid "Active"
+msgstr "פעיל"
+
+msgid "Field is mandatory"
+msgstr "שדה הוא חובה"
+
+msgid "Sort Order"
+msgstr "סדר מיון"
+
+msgid "Upload"
+msgstr "העלאה"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "יאן"
+
+msgid "Feb"
+msgstr "פבואר"
+
+msgid "Mar"
+msgstr "מרץ"
+
+msgid "Apr"
+msgstr "אפריל"
+
+msgid "May"
+msgstr "מאי"
+
+msgid "Jun"
+msgstr "יוני"
+
+msgid "Jul"
+msgstr "יולי"
+
+msgid "Aug"
+msgstr "אוגוסט"
+
+msgid "Sep"
+msgstr "ספטמבר"
+
+msgid "Oct"
+msgstr "אוקטובר"
+
+msgid "Nov"
+msgstr "נובמבר"
+
+msgid "Dec"
+msgstr "דצמבר"
+
+msgid "Product already exists in the order"
+msgstr "מוצר כבר קיים בצו"
+
+msgid "Product does not exist"
+msgstr "מוצר לא קיימת"
+
+msgid "Incorrect request"
+msgstr "בקשה שגויה"
+
+msgid "Products"
+msgstr "מוצרים"
+
+msgid "Product types"
+msgstr "סוגי מוצרים"
+
+msgid "Contractors"
+msgstr "קבלנים"
+
+msgid "Contractor"
+msgstr "קבלן"
+
+msgid "Orders"
+msgstr "הזמנות"
+
+msgid "FAQ"
+msgstr "שאלות נפוצות"
+
+msgid "New order"
+msgstr "הזמנה חדשה"
+
+msgid "My orders"
+msgstr "ההזמנות שלי"
+
+msgid "Recharge balance"
+msgstr "איזון טעינה"
+
+msgid "Administrator"
+msgstr "מנהל"
+
+msgid "Incorrect event ID"
+msgstr "מזהה אירוע שגוי"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "קבלן לערוך"
+
+msgid "Create contractor"
+msgstr "צור קבלן"
+
+msgid "Edit question"
+msgstr "שאלת עריכה"
+
+msgid "Create question"
+msgstr "צור שאלה"
+
+msgid "Edit order"
+msgstr "כדי לערוך"
+
+msgid "Create order"
+msgstr "ליצור סדר"
+
+msgid "Edit product"
+msgstr "מוצר עריכה"
+
+msgid "Create product"
+msgstr "צור מוצר"
+
+msgid "Edit product type"
+msgstr "סוג מוצר עריכה"
+
+msgid "Create product type"
+msgstr "צור סוג המוצר"
+
+msgid "You have received a file"
+msgstr "קיבלתקובץ"
+
+msgid "You received a file from"
+msgstr "קיבלתקובץ מ"
+
+msgid "File has been uploaded"
+msgstr "קובץ הועלה"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "כמות מינימאלית"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "פריטים"
+
+msgid "Remove"
+msgstr "הסר"
+
+msgid "Contact person"
+msgstr "איש קשר"
+
+msgid "Email"
+msgstr "דוא\"ל"
+
+msgid "Contractor phone"
+msgstr "טלפון קבלן"
+
+msgid "Contractor name"
+msgstr "שם קבלן"
+
+msgid "Contractor details"
+msgstr "פרטי קבלן"
+
+msgid "Order ID"
+msgstr "להזמין זיהוי"
+
+msgid "Sum"
+msgstr "סכום"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "בחר את מערכת התשלום המתאימה כדי להטעין את היתרה שלך"
+
+msgid "Recharge amount"
+msgstr "סכום טעינה"
+
+msgid "Paid"
+msgstr "בתשלום"
+
+msgid "Shipped"
+msgstr "נשלח"
+
+msgid "- No products in this order -"
+msgstr "- אין מוצריםבצו זה -"
+
+msgid "month"
+msgstr "חודש"
+
+msgid "No user found"
+msgstr "לא נמצאו משתמשים"
+
+msgid "Achievement"
+msgstr "הישג"
+
+msgid "Confirmed accomplishments"
+msgstr "הישגים אישרו"
+
+msgid "Remove achievement"
+msgstr "הסר הישג"
+
+msgid "Headquaters"
+msgstr "מטה"
+
+msgid "Phone"
+msgstr "טלפון"
+
+msgid "Site URL and email"
+msgstr "כתובת אתר ודואר אלקטרוני"
+
+msgid "Remove address"
+msgstr "להסיר את כתובת"
+
+msgid "Members"
+msgstr "חברים"
+
+msgid "Requires a payment"
+msgstr "דורשתשלום"
+
+msgid "Shipping"
+msgstr "משלוח"
+
+msgid "Ready"
+msgstr "מוכן"
+
+msgid "Find user..."
+msgstr "מצא משתמש ..."
+
+msgid "Order it"
+msgstr "להזמין אותו"
+
+msgid "Find group..."
+msgstr "מצא את הקבוצה ..."
+
+msgid "Find user or community..."
+msgstr "מצא משתמש או קהילה ..."
+
+msgid "No item found"
+msgstr "לא מצא פריט"
+
+msgid "years"
+msgstr "שנים"
+
+msgid "Send message"
+msgstr "לשלוח הודעה"
+
+msgid "Message"
+msgstr "הודעה"
+
+msgid "To send message press Enter"
+msgstr "כדי לשלוח הודעה לעיתונות הזן"
+
+msgid "To send message press CTRL+Enter"
+msgstr "כדי לשלוח הודעה לחץ על CTRL + Enter"
+
+msgid "Processing file(s)..."
+msgstr "קובץ עיבוד (ים ) ..."
+
+msgid "Group settings"
+msgstr "הגדרות קבוצה"
+
+msgid "Create group"
+msgstr "צור קבוצה"
+
+msgid "Group has been successfully saved"
+msgstr "הקבוצה נשמרה בהצלחה"
+
+msgid "Group title"
+msgstr "כותרת הקבוצה"
+
+msgid "Group video"
+msgstr "וידאו קבוצה"
+
+msgid "Description"
+msgstr "תיאור"
+
+msgid "Your role in group"
+msgstr "התפקיד שלךבקבוצה"
+
+msgid "Role"
+msgstr "תפקיד"
+
+msgid "Photo or video gallery"
+msgstr "גלריית תמונות או וידאו"
+
+msgid "Youtube.com URL"
+msgstr "כתובת אתר Youtube.com"
+
+msgid "Upload video"
+msgstr "וידאו העלאה"
+
+msgid "Add group address"
+msgstr "הוסף את כתובת קבוצה"
+
+msgid "Group articles"
+msgstr "מאמרי קבוצה"
+
+msgid "No addresses yet"
+msgstr "אין עדיין כתובות"
+
+msgid "Add group achievement"
+msgstr "להוסיף הישג ​​קבוצה"
+
+msgid "No achivements yet"
+msgstr "אין עדיין Achivements"
+
+msgid "Are you sure to delete this user"
+msgstr "האם אתה בטוח למחוק משתמש זה"
+
+msgid "Add member"
+msgstr "הוסף חבר"
+
+msgid "Are you sure to delete this record?"
+msgstr "האם אתה בטוח למחוק רשומה זו?"
+
+msgid "Join this group"
+msgstr "הצטרף לקבוצה זו"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "ההזמנה שלך נשלחהלמנהל הקבוצה"
+
+msgid "All addresses"
+msgstr "כל הכתובות"
+
+msgid "Collapse"
+msgstr "קריסה"
+
+msgid "Achievements"
+msgstr "הישגים"
+
+msgid "Show more"
+msgstr "להראות יותר"
+
+msgid "Team"
+msgstr "צוות"
+
+msgid "Projects"
+msgstr "פרויקטים"
+
+msgid "New project"
+msgstr "פרויקט חדש"
+
+msgid "Project has not been created yet"
+msgstr "פרויקט לא נוצר עדיין"
+
+msgid "Messanger"
+msgstr "messanger"
+
+msgid "Balance"
+msgstr "מאזן"
+
+msgid "Main page"
+msgstr "דף ראשי"
+
+msgid "Upload image"
+msgstr "תמונת העלאה"
+
+msgid "My time"
+msgstr "הזמן שלי"
+
+msgid "Day"
+msgstr "יום"
+
+msgid "Week"
+msgstr "שבוע"
+
+msgid "Project settings"
+msgstr "הגדרות פרויקט"
+
+msgid "Create project"
+msgstr "צור פרויקט"
+
+msgid "Project has been successfully saved"
+msgstr "פרויקט נשמר בהצלחה"
+
+msgid "Project name"
+msgstr "שם פרויקט"
+
+msgid "Deadline"
+msgstr "מועד אחרון"
+
+msgid "Close"
+msgstr "לסגור"
+
+msgid "Manager"
+msgstr "מנהל"
+
+msgid "Assigned to"
+msgstr "שהוקצה ל"
+
+msgid "Discussion"
+msgstr "דיון"
+
+msgid "Task was created"
+msgstr "המשימה נוצרה"
+
+msgid "Task was closed"
+msgstr "המשימה הייתה סגורה"
+
+msgid "Go to Group"
+msgstr "עבור לקבוצה"
+
+msgid "Closed"
+msgstr "סגור"
+
+msgid "Last updates"
+msgstr "עדכונים אחרונים"
+
+msgid "Project is closed"
+msgstr "פרויקט סגור"
+
+msgid "No open tasks"
+msgstr "אין משימות פתוחות"
+
+msgid "New task"
+msgstr "משימה חדשה"
+
+msgid "Closed tasks"
+msgstr "משימות סגורות"
+
+msgid "Add subproject"
+msgstr "להוסיף subproject"
+
+msgid "Add task"
+msgstr "הוסף משימה"
+
+msgid "Sun"
+msgstr "יום ראשון"
+
+msgid "Mon"
+msgstr "יום שני"
+
+msgid "Tue"
+msgstr "יום שלישי"
+
+msgid "Wed"
+msgstr "יום רביעי"
+
+msgid "Thur"
+msgstr "יום חמישי"
+
+msgid "Fri"
+msgstr "יום שישי"
+
+msgid "Sat"
+msgstr "יום שבת"
+
+msgid "Event title"
+msgstr "כותרת אירוע"
+
+msgid "Event description"
+msgstr "תיאור אירוע"
+
+msgid "I registered on this site"
+msgstr "אני רשום באתר זה"
+
+msgid "Last created groups"
+msgstr "קבוצות יצרו אחרונות"
+
+msgid "You joined this group as"
+msgstr "אתה הצטרף לקבוצה כ"
+
+msgid "You received a request to join the group"
+msgstr "אתה קיבלת בקשה להצטרף לקבוצה"
+
+msgid "Updated site"
+msgstr "אתר מתעדכן"
+
+msgid "Site is under construction"
+msgstr "אתר בבנייה"
+
+msgid "Last registered users"
+msgstr "משתמשים רשומים אחרונים"
+
+msgid "User settings"
+msgstr "הגדרות משתמש"
+
+msgid "Technical support"
+msgstr "תמיכה טכנית"
+
+msgid "Change email"
+msgstr "שינוי דואר אלקטרוני"
+
+msgid "Change password"
+msgstr "שנת סיסמא"
+
+msgid "User has been successfully saved"
+msgstr "המשתמש נשמר בהצלחה"
+
+msgid "Full name"
+msgstr "שם מלא"
+
+msgid "My video"
+msgstr "הווידאו שלי"
+
+msgid "Skills"
+msgstr "מיומנויות"
+
+msgid "Birthday"
+msgstr "יום הולדת"
+
+msgid "Country of residence"
+msgstr "ארץ מגורים"
+
+msgid "Country"
+msgstr "מדינה"
+
+msgid "Zip Code"
+msgstr "מיקוד"
+
+msgid "City/town of residence"
+msgstr "העיר / יישוב מגורים"
+
+msgid "University/college"
+msgstr "אוניברסיטה / מכללה"
+
+msgid "University/college photo"
+msgstr "אוניברסיטה / מכללת תמונה"
+
+msgid "Add user\'s accomplishments"
+msgstr "להוסיף הישגים של המשתמש"
+
+msgid "Interface language"
+msgstr "שפת ממשק"
+
+msgid "How other people see this page"
+msgstr "איך אנשים אחרים רואים את דף זה"
+
+msgid "Video with me"
+msgstr "וידאו איתי"
+
+msgid "Groups"
+msgstr "קבוצות"
+
+msgid "Registered today"
+msgstr "היום רשום"
+
+msgid "Qty"
+msgstr "כמות"
+
+msgid "No registered users yet"
+msgstr "אין משתמשים רשומים עדיין"
+
+msgid "Total"
+msgstr "סה\"כ"
+
+msgid "Registered total"
+msgstr "סך הכל נרשם"
+
+msgid "You received a file"
+msgstr "קיבלתקובץ"
+
+msgid "You were invited into this room"
+msgstr "אתה מוזמן לחדר זה"
+
+msgid "Request is being processed"
+msgstr "בקשה נמצאת בתהליך עיבוד"
+
+msgid "Fax"
+msgstr "פקס"
+
+msgid "Messenger"
+msgstr "Messenger"
+
+msgid "New subproject"
+msgstr "subproject החדש"
+
+msgid "messages written."
+msgstr "הודעות שנכתבו ."
+
+msgid "projects created based on groups."
+msgstr "פרויקטים שנוצרו על פי קבוצות ."
+
+msgid "users registered on website."
+msgstr "משתמשים רשומים באתר ."
+
+msgid "New email"
+msgstr "מייל חדש"
+
+msgid "Confirm email"
+msgstr "אשר אימייל"
+
+msgid "New password"
+msgstr "סיסמא חדשה"
+
+msgid "Confirm password"
+msgstr "אשר סיסמא"
+
+msgid "Occupation"
+msgstr "מומחיות"
+
+msgid "Timezone"
+msgstr "אזור זמן"
+
+msgid "Answer"
+msgstr "תשובה"
+
+msgid "Articles"
+msgstr "מאמרים"
+
+msgid "Article"
+msgstr "מאמר"
+
+msgid "Video-article"
+msgstr "וידאו - מאמר"
+
+msgid "Find article..."
+msgstr "מצא את המאמר ..."
+
+msgid "Politics"
+msgstr "פוליטיקה"
+
+msgid "Economics"
+msgstr "כלכלה"
+
+msgid "Community"
+msgstr "קהילה"
+
+msgid "Culture"
+msgstr "תרבות"
+
+msgid "Sports"
+msgstr "ספורט"
+
+msgid "Hi-tech"
+msgstr "היי -טק"
+
+msgid "Cars"
+msgstr "מכוניות"
+
+msgid "Fashion"
+msgstr "אופנה"
+
+msgid "Games"
+msgstr "משחקים"
+
+msgid "Other"
+msgstr "אחר"
+
+msgid "Invalid mediafile"
+msgstr "mediafile לא חוקי"
+
+msgid "No articles in this category yet"
+msgstr "אין מאמרים בקטגוריה זו עדיין"
+
+msgid "Back to profile"
+msgstr "חזרה לפרופיל"
+
+msgid "View article"
+msgstr "צפה במאמר"
+
+msgid "Edit article"
+msgstr "מאמר עריכה"
+
+msgid "Create article"
+msgstr "צור מאמר"
+
+msgid "Article title"
+msgstr "כותרת מאמר"
+
+msgid "Article section"
+msgstr "סעיף סעיף"
+
+msgid "Choose image"
+msgstr "בחר תמונה"
+
+msgid "Save and upload"
+msgstr "לשמור ולהעלות"
+
+msgid "Show more..."
+msgstr "להראות יותר..."
+
+msgid "Create"
+msgstr "צור"
+
+msgid "Edit"
+msgstr "עריכה"
+
+msgid "Project"
+msgstr "פרויקט"
+
+msgid "Team"
+msgstr "צוות"
+
+msgid "A new article was published"
+msgstr "מאמר חדש שפורסם"
+
+msgid "You joined this project"
+msgstr "אתה הצטרף פרויקט זה"
+
+msgid "Enter your information in the User settings"
+msgstr "הזן את הפרטים שלךבהגדרות המשתמש"
+
+msgid "Communities"
+msgstr "קהילות"
+
+msgid "Video presentation of my accomplishments"
+msgstr "מצגת וידאו של ההישגים שלי"
+
+msgid "My articles"
+msgstr "המאמרים שלי"
+
+msgid "User"
+msgstr "משתמש"
+
+msgid "Users"
+msgstr "משתמשים"
+
+msgid "Add new list"
+msgstr "הוסף רשימה חדשה"
+
+msgid "List title"
+msgstr "כותרת רשימה"
+
+msgid "Add"
+msgstr "להוסיף"
+
+msgid "Add to favorites"
+msgstr "הוסף למועדפים"
+
+msgid "Delete from favorites"
+msgstr "למחוק מהמועדפים"
+
+msgid "Select list"
+msgstr "רשימה בחר"
+
+msgid "Subscriptions"
+msgstr "מנויים"
+
+msgid "Subscribe"
+msgstr "הירשם"
+
+msgid "Unsubscribe"
+msgstr "ביטול מנוי"
+
+msgid "General list"
+msgstr "רשימה כללית"
+
+msgid "No users in this list"
+msgstr "אין משתמשיםברשימה זו"
+
+msgid "Publish"
+msgstr "לפרסם"
+
+msgid "Unpublish"
+msgstr "ביטול פרסום"
+
+msgid "Add user"
+msgstr "הוסף משתמש"
+
+msgid "Create document"
+msgstr "צור מסמך"
+
+msgid "Edit document"
+msgstr "מסמך העריכה"
+
+msgid "View"
+msgstr "צפה ב"
+
+msgid "Document title"
+msgstr "כותרת מסמך"
+
+msgid "Find document..."
+msgstr "מצא את המסמך ..."
+
+msgid "Share your thoughts"
+msgstr "שתף את המחשבות שלך"
+
+msgid "Leave your comment"
+msgstr "עזוב את ההערה שלך"
+
+msgid "Accept"
+msgstr "קבל"
+
+msgid "Decline"
+msgstr "ירידה"
+
+msgid "Add article"
+msgstr "הוסף מאמר"
+
+msgid "Link to verified accomplishments"
+msgstr "קישור להישגים מאומתים"
+
+msgid "No articles here yet..."
+msgstr "אין מאמרים כאן עדיין ..."
+
+msgid "Find file or folder..."
+msgstr "מצא את הקובץ או תיקייה ..."
+
+msgid "Sort"
+msgstr "מיין"
+
+msgid "By name"
+msgstr "לפי שם"
+
+msgid "By date"
+msgstr "לפי תאריך"
+
+msgid "By updated date"
+msgstr "לפי תאריך מעודכן"
+
+msgid "By size"
+msgstr "לפי גודל"
+
+msgid "By type"
+msgstr "לפי סוג"
+
+msgid "Move"
+msgstr "מהלך"
+
+msgid "File Manager"
+msgstr "מנהל קבצים"
+
+msgid "Share link"
+msgstr "שתף קישור"
+
+msgid "Responsible"
+msgstr "אחראי"
+
+msgid "Performer"
+msgstr "ההופעה"
+
+msgid "New Folder"
+msgstr "תיקיה חדשה"
+
+msgid "Folder name"
+msgstr "שם תיקייה"
+
+msgid "By default"
+msgstr "כברירת מחדל"
+
+msgid "Back to group"
+msgstr "חזרה לקבוצה"
+
+msgid "year(s)"
+msgstr "שנה (ים)"
+
+msgid "January"
+msgstr "ינואר"
+
+msgid "February"
+msgstr "פבואר"
+
+msgid "March"
+msgstr "חודש מרץ"
+
+msgid "April"
+msgstr "אפריל"
+
+msgid "May"
+msgstr "חודש מאי"
+
+msgid "June"
+msgstr "חודש יוני"
+
+msgid "July"
+msgstr "חודש יולי"
+
+msgid "August"
+msgstr "אוגוסט"
+
+msgid "September"
+msgstr "ספטמבר"
+
+msgid "October"
+msgstr "אוקטובר"
+
+msgid "November"
+msgstr "נובמבר"
+
+msgid "December"
+msgstr "דצמבר"
+
+msgid "Password Reminder"
+msgstr "תזכורת סיסמא"
+
+msgid "Log In"
+msgstr "התחבר"
+
+msgid "Sign in"
+msgstr "הירשם"
+
+msgid "Register"
+msgstr "הרשמה"
+
+msgid "First name"
+msgstr "שם פרטי"
+
+msgid "Last name"
+msgstr "שם משפחה"
+
+msgid "I agree with rules"
+msgstr "אני מסכים עם כללים"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "דואר אישור נשלח לכתובת הדוא\"ל שלך."
+
+msgid "Thanks"
+msgstr "תודה"
+
+msgid "Password must be at least 6 characters"
+msgstr "סיסמא חייבת להיות לפחות 6 תווים"
+
+msgid "Creative Environment"
+msgstr "סביבה יצירתית"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "אתה צריך להיות לפחות שלושה עשר שנים של גיל לשימוש בשירות זה"
+
+msgid "Order status"
+msgstr "מצב הזמנה"
+
+msgid "Processing order"
+msgstr "כדי עיבוד"
+
+msgid "Requires a payment"
+msgstr "דורש תשלום"
+
+msgid "Shipping"
+msgstr "משלוח"
+
+msgid "Ready"
+msgstr "מוכן"
+
+msgid "Thank you for your payment"
+msgstr "תודה לך על התשלום"
+
+msgid "Your payment has been cancelled"
+msgstr "התשלום שלך בוטל"
+
+msgid "page"
+msgstr "דף"
+
+msgid "Rent period"
+msgstr "תקופת השכרה"
+
+msgid "Total, month"
+msgstr "סה\"כ, בחודש"
+
+msgid "Order items"
+msgstr "פריטים להזמין"
+
+msgid "No records found"
+msgstr "לא נמצא רשומות"
+
+msgid "User with this email is already exist"
+msgstr "משתמש בדוא\"ל זה כבר קיים"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "תיקייה או קובץ בשם כזה כבר קיימת בתיקיית יעד"
+
+msgid "Minimal quantity"
+msgstr "כמות מינימאלית"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "עותקי הדפסה"
+
+msgid "Terms of Use"
+msgstr "תנאי שימוש"
+
+msgid "Privacy Policy"
+msgstr "מדיניות פרטיות"
+
+msgid "Find project..."
+msgstr "מצא את הפרויקט ..."
+
+msgid "New Project"
+msgstr "פרוייקט חדש"
+
+msgid "Accounts"
+msgstr "חשבונות"
+
+msgid "Operations"
+msgstr "פעולות"
+
+msgid "All accounts"
+msgstr "כל החשבונות"
+
+msgid "All categories"
+msgstr "כל הקטגוריות"
+
+msgid "Expense"
+msgstr "חשבון"
+
+msgid "Income"
+msgstr "הכנסה"
+
+msgid "Transfer"
+msgstr "העברה"
+
+msgid "Expense"
+msgstr "חשבון"
+
+msgid "income"
+msgstr "הכנסה"
+
+msgid "tax"
+msgstr "מס"
+
+msgid "percent"
+msgstr "אחוזים"
+
+msgid "transfer"
+msgstr "העברה"
+
+msgid "Make operation"
+msgstr "הפוך פעולה"
+
+msgid "Select date"
+msgstr "תאריך בחר"
+
+msgid "Select account"
+msgstr "חשבון בחר"
+
+msgid "Month"
+msgstr "חודש"
+
+msgid "Quarter"
+msgstr "רוֹבַע"
+
+msgid "Year"
+msgstr "שָׁנָה"
+
+msgid "From"
+msgstr "מִן"
+
+msgid "To"
+msgstr "ל"
+
+msgid "Expense amount"
+msgstr "סכום הוצאה"
+
+msgid "Categories"
+msgstr "קטגוריות"
+
+msgid "Comments"
+msgstr "תגובות"
+
+msgid "Income amount"
+msgstr "סכום הכנסה"
+
+msgid "Transfer amount"
+msgstr "העברת סכום"
+
+msgid "From account"
+msgstr "מחשבון"
+
+msgid "To account"
+msgstr "לקחת בחשבון"
+
+msgid "New Account"
+msgstr "חשבון חדש"
+
+msgid "New Category"
+msgstr "קטגוריה חדשה"
+
+msgid "All"
+msgstr "את כל"
+
+msgid "Name"
+msgstr "שֵׁם"
+
+msgid "Enter category name"
+msgstr "הזן את שם קטגוריה"
+
+msgid "Select type"
+msgstr "סוג בחר"
+
+msgid "Credit card"
+msgstr "כרטיס אשראי"
+
+msgid "Debit card"
+msgstr "כרטיס חיוב"
+
+msgid "Bank account"
+msgstr "חשבון בנק"
+
+msgid "Cash"
+msgstr "מזומנים"
+
+msgid "Balance is empty"
+msgstr "האיזון הוא ריק"
+
+msgid "Statistic is empty"
+msgstr "נתון ריק"
+
+msgid "Regular payments"
+msgstr "תשלומים קבועים"
+
+msgid "Are you sure ?"
+msgstr "אתה בטוח ?"
+
+msgid "Are you sure to close this project?"
+msgstr "האם אתה בטוח כדי לסגור את הפרויקט הזה ?"
+
+msgid "Project was deleted successfully"
+msgstr "פרויקט נמחק בהצלחה"
+
+msgid "Select currency"
+msgstr "מטבע בחר"
+
+msgid "Account"
+msgstr "חֶשְׁבּוֹן"
+
+msgid "Orders list"
+msgstr "רשימת הזמנות"
+
+msgid "Order payments"
+msgstr "תשלומים להזמין"
+
+msgid "View order"
+msgstr "צפה כדי"
+
+msgid "No response from Printer API"
+msgstr "אין תגובה ממדפסת ה- API"
+
+msgid "Bad response from Printer API"
+msgstr "תגובה רעהמAPI המדפסת"
+
+msgid "User ID"
+msgstr "שם משתמש"
+
+msgid "Contact Person"
+msgstr "איש קשר"
+
+msgid "No orders to process"
+msgstr "אין הזמנות לעבד"
+
+msgid "Article announce image"
+msgstr "מאמר להודיע ​​תמונה"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "כתובת אתר וידאו לא חוקי . השאר ריק או הכניסו כתובת YouTube חוקית"
+
+msgid "Please, enter Contractor data"
+msgstr "אנא , להזין נתונים קבלן"
+
+msgid "Distribute devices"
+msgstr "להפיץ מכשירים"
+
+msgid "Quantity"
+msgstr "כמות"
+
+msgid "Devices left"
+msgstr "מכשירים עזבו"
+
+msgid "Distributed devices"
+msgstr "מכשירי Distributed"
+
+msgid "You must enter quantity"
+msgstr "עליך להזין כמות"
+
+msgid "All devices are distributed"
+msgstr "כל המכשירים מופצים"
+
+msgid "IP address"
+msgstr "כתובת ה - IP"
+
+msgid "Only for printer"
+msgstr "רקלמדפסת"
+
+msgid "Counter"
+msgstr "דלפק"
+
+msgid "You was excluded from this room"
+msgstr "אתה לא נכלל בחדר הזה"
+
+msgid "Compare"
+msgstr "שקלו"
+
+msgid "Scheduled transaction"
+msgstr "עסקה מתוכננת"
+
+msgid "Select transfer account"
+msgstr "חשבון העברה בחר"
+
+msgid "Select income account"
+msgstr "חשבון הכנסות בחר"
+
+msgid "Reports"
+msgstr "דוחות"
+
+msgid "Goals"
+msgstr "מטרות"
+
+msgid "Budgets"
+msgstr "תקציבים"
+
+msgid "Enter user name or email..."
+msgstr "הזן את שם משתמש או דוא\"ל ..."
+
+msgid "Invite had been sended"
+msgstr "הזמןשsended"
+
+msgid "Statistics"
+msgstr "סטטיסטיקה"
+
+msgid "Updated site began to work"
+msgstr "אתר מתעדכן התחיל לעבוד"
+
+msgid "City of residence"
+msgstr "עיר מגורים"
+
+msgid "Edit favourites list"
+msgstr "רשימת המועדפים של עריכה"
+
+msgid "Add favourites list"
+msgstr "הוסף רשימת מועדפים"
+
+msgid "Categories is required"
+msgstr "קטגוריות נדרש"
+
+msgid "Type new category name and hit Enter"
+msgstr "הקלד את שם קטגוריה חדשהופגעת הזן"
+
+msgid "You created an order"
+msgstr "שיצרתכדי"
+
+msgid "You received a device due to this order"
+msgstr "אתה קיבלתמכשיר בשל צו זה"
+
+msgid "%s attached %s to task %s"
+msgstr "% S S % צמודים למשימת %s"
+
+msgid "member(s)"
+msgstr "חבר (ים )"
+
+msgid "%s commented task %s"
+msgstr "%s משימה הגיבה %s"
+
+msgid "%s closed task %s"
+msgstr "%s משימה סגורה %s"
+
+msgid "%s created task %s"
+msgstr "%s משימה נוצרה %s"
+
+msgid "%s created this project"
+msgstr "%s יצר את הפרויקט הזה"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s subproject נוצר \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s פרויקט \"%s\" הסגור"
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s subproject \"%s\" הסגור"
+
+msgid "This field must not be blank"
+msgstr "שדה זה לא יכול להיות ריק"
+
+msgid "Document with such name is already exist"
+msgstr "מסמך עם שם כזה הוא כבר קיים"
+
+msgid "Wait until image upload"
+msgstr "חכה עד שהעלאת תמונה"
+
+msgid "Video"
+msgstr "וידאו"
+
+msgid "Message can not be empty"
+msgstr "הודעה לא יכולה להיות ריקה"
+
+msgid "Yes"
+msgstr "כן"
+
+msgid "No"
+msgstr "לא"
+
+msgid "Created"
+msgstr "נוצר"
+
+msgid "Compare is empty"
+msgstr "שקלו ריק"
+
+msgid "Are you sure you want to delete operation"
+msgstr "האם אתה בטוח שאתה רוצה למחוק את פעולה"
+
+msgid "Do you really want to delete transaction"
+msgstr "האם אתה באמת רוצה למחוק עסקה"
+
+msgid "Project with same name already exists"
+msgstr "פרויקט עם אותו שם כבר קיים"
+
+msgid "Account is not found"
+msgstr "החשבון לא נמצא"
+
+msgid "Currency is required"
+msgstr "מטבע נדרש"
+
+msgid "error while deleting document"
+msgstr "שגיאה בעת מחיקת מסמך"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "אתה מוזמן משתמש \" %s\" בחדר הזה"
+
+msgid "User \"%s\" joined this room"
+msgstr "משתמש הצטרף \"% ​​s\" החדר הזה"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "אתה לא נכלל משתמש \" %s\"מהחדר הזה"
+
+msgid "User \"%s\" left this room"
+msgstr "משתמש \" %s\" עזב את החדר הזה"
+
+msgid "Add account"
+msgstr "להוסיף את חשבון"
+
+msgid "The requested page is not found"
+msgstr "הדף המבוקש לא נמצא"
+
+msgid "Document"
+msgstr "מסמך"
+
+msgid "Table"
+msgstr "שולחן"
+
+msgid "file(s)"
+msgstr "קובץ (ים )"
+
+msgid "Residue"
+msgstr "שאריות"
+
+msgid "Result is empty"
+msgstr "התוצאה היא ריקה"
+
+msgid "The total amount is %s for %s mo"
+msgstr "הסכום הכולל הוא%s עבור %s מו"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "אתה צריך להפקיד %s חודשית לחשבון קשור"
+
+msgid "Start"
+msgstr "התחל"
+
+msgid "finish"
+msgstr "גימור"
+
+msgid "Selected account is already in use for another goal"
+msgstr "חשבון נבחרים כבר נמצא בשימושלמטרה אחרת"
+
+msgid "Amount required"
+msgstr "הסכום הנדרש"
+
+msgid "New goal"
+msgstr "מטרה חדשה"
+
+msgid "Goal"
+msgstr "מטרה"
+
+msgid "Goal name"
+msgstr "שם מטרה"
+
+msgid "Invalid date"
+msgstr "תאריך לא חוקי"
+
+msgid "Necessary sum must be a positive number"
+msgstr "סכום דרוש חייב להיות מספר חיובי"
+
+msgid "Remain"
+msgstr "להישאר"
+
+msgid "Last day"
+msgstr "אתמול"
+
+msgid "Accumulated"
+msgstr "צבר"
+
+msgid "Put aside"
+msgstr "לשים בצד"
+
+msgid "January"
+msgstr "ינואר"
+
+msgid "February"
+msgstr "פבואר"
+
+msgid "March"
+msgstr "חודש מרץ"
+
+msgid "April"
+msgstr "אפריל"
+
+msgid "May"
+msgstr "חודש מאי"
+
+msgid "June"
+msgstr "חודש יוני"
+
+msgid "July"
+msgstr "חודש יולי"
+
+msgid "August"
+msgstr "אוגוסט"
+
+msgid "September"
+msgstr "ספטמבר"
+
+msgid "October"
+msgstr "אוקטובר"
+
+msgid "November"
+msgstr "נובמבר"
+
+msgid "December"
+msgstr "דצמבר"
+
+msgid "Expenses projected/actual"
+msgstr "הוצאות צפויות / בפועל"
+
+msgid "Net Income projected/actual"
+msgstr "רווח נקי חזוי / בפועל"
+
+msgid "New budget"
+msgstr "תקציב חדש"
+
+msgid "Revenue and Expenses Chart"
+msgstr "תרשים הכנסותוהוצאות"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "תקציב עם אותו זוג החשבוןוקטגוריה כבר קיים"
+
+msgid "Budget is empty"
+msgstr "התקציב הוא ריק"
+
+msgid "Budget"
+msgstr "תקציב"
+
+msgid "plan"
+msgstr "תכנית"
+
+msgid "fact"
+msgstr "עובדה"
+
+msgid "diff"
+msgstr "הבדל"
+
+msgid "Show More"
+msgstr "להראות יותר"
+
+msgid "Cancel"
+msgstr "לבטל"
+
+msgid "d"
+msgstr "ד"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "דקות"
+
+msgid "My sales"
+msgstr "המכירות שלי"
+
+msgid "Time spent"
+msgstr "בזבוז זמן"
+
+msgid "Total time spent"
+msgstr "סה\"כ זמן בילה"
+
+msgid "Earnings per hour"
+msgstr "הרווח לשעה"
+
+msgid "Total earnings"
+msgstr "סה\"כ רווח"
+
+msgid "Call"
+msgstr "שיחה"
+
+msgid "Phone call"
+msgstr "שיחת טלפון"
+
+msgid "Telephone calls"
+msgstr "שיחות טלפון"
+
+msgid "Send email"
+msgstr "שלח אימייל"
+
+msgid "Emails"
+msgstr "הודעות דוא\"ל"
+
+msgid "Meeting"
+msgstr "פגישה"
+
+msgid "Meetings"
+msgstr "מפגשים"
+
+msgid "All events"
+msgstr "כל האירועים"
+
+msgid "Task"
+msgstr "משימה"
+
+msgid "Event"
+msgstr "אירוע"
+
+msgid "Events"
+msgstr "אירועים"
+
+msgid "Time"
+msgstr "זמן"
+
+msgid "Events statistics"
+msgstr "סטטיסטיקת אירועים"
+
+msgid "days"
+msgstr "ימים"
+
+msgid "hours"
+msgstr "שעות"
+
+msgid "minutes"
+msgstr "דקות"
+
+msgid "Income & expense"
+msgstr "הכנסותוהוצאות"
+
+msgid "Show chart"
+msgstr "תרשים הצג"
+
+msgid "Hide chart"
+msgstr "תרשים הסתר"
+
+msgid "Add event"
+msgstr "הוסף אירוע"
+
+msgid "Add financial data"
+msgstr "להוסיף נתונים כספיים"
+
+msgid "Select contractor"
+msgstr "קבלן בחר"
+
+msgid "Net Income"
+msgstr "הכנסה נטו"
+
+msgid "Revenue"
+msgstr "הכנסות"
+
+msgid "Taxes"
+msgstr "מסים"
+
+msgid "Amount planned"
+msgstr "הסכום מתוכנן"
+
+msgid "Amount"
+msgstr "כמות"
+
+msgid "Period"
+msgstr "תקופה"
+
+msgid "Are you sure to close this task?"
+msgstr "האם אתה בטוח כדי לסגור משימה זו ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "כל הקבוצות"
+
+msgid "added from task"
+msgstr "הגיע ממשימה"
+
+msgid "Monthly repeat"
+msgstr "חזור חודשי"
+
+msgid "Select category"
+msgstr "בחר קטגוריה"
+
+msgid "Event type"
+msgstr "סוג האירוע"
+
+msgid "Margin"
+msgstr "שוליים"
+
+msgid "Use finance project"
+msgstr "השתמש במימון פרויקטים"
+
+msgid "New investment project"
+msgstr "פרויקט השקעה חדש"
+
+msgid "Investment project settings"
+msgstr "הגדרות פרויקט השקעות"
+
+msgid "Picture, for the announcement project"
+msgstr "תמונה ,לפרויקט ההודעה"
+
+msgid "Announcement project"
+msgstr "פרויקט הודעה"
+
+msgid "Video"
+msgstr "וידאו"
+
+msgid "Photos or videos gallery"
+msgstr "תמונות או קטעי וידאו גלריה"
+
+msgid "required amount"
+msgstr "סכום הנדרש"
+
+msgid "Project duration (60 days maximum)"
+msgstr "משך פרויקט ( 60 ימים לכל היותר )"
+
+msgid "Project duration"
+msgstr "משך פרויקט"
+
+msgid "Add reward"
+msgstr "להוסיף גמול"
+
+msgid "Delivery date"
+msgstr "תאריך משלוח"
+
+msgid "Payment systems"
+msgstr "מערכות תשלום"
+
+msgid "Terms of service"
+msgstr "תנאי השירות"
+
+msgid "Agreement"
+msgstr "הסכם"
+
+msgid "Payment"
+msgstr "תשלום"
+
+msgid "My projects"
+msgstr "הפרויקטים שלי"
+
+msgid "Search result"
+msgstr "תוצאות חיפוש"
+
+msgid "Nothing not found"
+msgstr "שום דבר לא נמצא"
+
+msgid "The project has no sponsors"
+msgstr "ישהפרויקט לא ספונסרים"
+
+msgid "Design"
+msgstr "עיצוב"
+
+msgid "Food"
+msgstr "מזון"
+
+msgid "Journalism"
+msgstr "עיתונות"
+
+msgid "Games"
+msgstr "משחקים"
+
+msgid "Art"
+msgstr "אמנות"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "מוסיקה"
+
+msgid "Handicrafts"
+msgstr "עבודות יד"
+
+msgid "Publishing"
+msgstr "הוצאה לאור"
+
+msgid "Theater"
+msgstr "תיאטרון"
+
+msgid "Technology"
+msgstr "טכנולוגיה"
+
+msgid "Film/Video"
+msgstr "סרט / וידאו"
+
+msgid "Photo"
+msgstr "צילום"
+
+msgid "Dance"
+msgstr "ריקוד"
+
+msgid "Invalid youtube video"
+msgstr "וידאו YouTube לא חוקי"
+
+msgid "is required"
+msgstr "נדרש"
+
+msgid "User"
+msgstr "משתמש"
+
+msgid "Date"
+msgstr "תאריך"
+
+msgid "Collected"
+msgstr "אסף"
+
+msgid "Choose period"
+msgstr "בחר תקופה"
+
+msgid "Choose region"
+msgstr "בחר אזור"
+
+msgid "Country"
+msgstr "מדינה"
+
+msgid "Today"
+msgstr "היום"
+
+msgid "Week"
+msgstr "שבוע"
+
+msgid "Month"
+msgstr "חודש"
+
+msgid "Year"
+msgstr "שנה"
+
+msgid "Free registration"
+msgstr "הרשמה חינם"
+
+msgid "Join"
+msgstr "לְהִצְטַרֵף"
+
+msgid "Log in using"
+msgstr "התחבר באמצעות"
+
+msgid "Vacancies"
+msgstr "הזדמנויות תעסוקה"
+
+msgid "About Us"
+msgstr "עלינו"
+
+msgid "You will need email to log in"
+msgstr "תצטרך הדוא\"ל להתחבר"
+
+msgid "A combination of 6 digits and characters"
+msgstr "שילוב של 6 ספרותותווים"
+
+msgid "Search users, groups, articles..."
+msgstr "משתמשי חיפוש , קבוצות , מאמרים ..."
+
+msgid "Cloud"
+msgstr "עָנָן"
+
+msgid "Sunday"
+msgstr "יוֹם רִאשׁוֹן"
+
+msgid "Monday"
+msgstr "יוֹם שֵׁנִי"
+
+msgid "Tuesday"
+msgstr "יוֹם שְׁלִישִׁי"
+
+msgid "Wednesday"
+msgstr "יום רביעי"
+
+msgid "Thursday"
+msgstr "יוֹם חֲמִישִׁי"
+
+msgid "Friday"
+msgstr "יוֹם שִׁישִׁי"
+
+msgid "Saturday"
+msgstr "שַׁבָּת"
+
+msgid "Edit"
+msgstr "לַעֲרוֹך"
+
+msgid "Create group"
+msgstr "צור קבוצה"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "האם אתה בטוח שאתה רוצה לצאת מדף זה ?"
+
+msgid "More"
+msgstr "יותר"
+
+msgid "Less"
+msgstr "פָּחוּת"
+
+msgid "Pending"
+msgstr "תָלוּי וְעוֹמֵד"
+
+msgid "Approved"
+msgstr "אושר"
+
+msgid "Rejected"
+msgstr "נִדחֶה"
+
+msgid "Subprojects"
+msgstr "תת-מיזמים"
+
+msgid "Group edit"
+msgstr "עריכת קבוצה"
+
+msgid "Startup"
+msgstr "לִקְפּוֹץ"
+
+msgid "Tattoo"
+msgstr "לְקַעֲקֵעַ"
+
+msgid "Health"
+msgstr "בְּרִיאוּת"
+
+msgid "Weapon"
+msgstr "נֶשֶׁק"
+
+msgid "Astronomy"
+msgstr "אַסטרוֹנוֹמִיָה"
+
+msgid "All articles"
+msgstr "כל הכתבות"
+
+msgid "Article editor"
+msgstr "עורך מאמר"
+
+msgid "Document editor"
+msgstr "עורך מסמך"
+
+msgid "Apply changes"
+msgstr "החל שינויים"
+
+msgid "Save changes?"
+msgstr "שמור שינויים?"
+
+msgid "published an article"
+msgstr "פרסם מאמר"
+
+msgid "Users"
+msgstr "משתמשים"
+
+msgid "Shared With Me"
+msgstr "משותף איתי"
+
+msgid "share"
+msgstr "לַחֲלוֹק"
+
+msgid "Select Group Responsible"
+msgstr "בחר קבוצה אחראית"
+
+msgid "Create folder"
+msgstr "צור תיקייה"
+
+msgid "Title must be at least 3 characters"
+msgstr "כותרת חייבת להיות לפחות 3 תווים"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "חינם 10 GB , מנהל כספים , מודול להשקיע , ורבים אחרים בחינםולתמיד"
+
+msgid "Best regards"
+msgstr "בברכה"
+
+msgid "Updates in last 12 hours:"
+msgstr "עדכונים ב- 12 השעות האחרונות :"
+
+msgid "expense"
+msgstr "הוֹצָאָה"
+
+msgid "Commentary on the event:"
+msgstr "פרשנות על האירוע :"
+
+msgid "Event place"
+msgstr "מקום אירוע"
+
+msgid "Project was updated"
+msgstr "פרויקט עודכן"
+
+msgid "Project was created"
+msgstr "פרויקט נוצר"
+
+msgid "Project was closed"
+msgstr "פרויקט נסגר"
+
+msgid "account"
+msgstr "חֶשְׁבּוֹן"
+
+msgid "removed task"
+msgstr "משימה הוסרה"
+
+msgid "removed subproject"
+msgstr "subproject הוסר"
+
+msgid "Title can not be empty"
+msgstr "כותרת לא יכולה להיות ריקה"
+
+msgid "Do not select the type of event"
+msgstr "אל תבחר את סוג האירוע"
+
+msgid "Error while saving comment"
+msgstr "שגיאה בעת שמירת תגובה"
+
+msgid "Save error: access denied"
+msgstr "להציל את השגיאה : גישה נדחתה"
+
+msgid "Remains"
+msgstr "שְׂרִידִים"
+
+msgid "Time spent, h."
+msgstr "משך הזמן , ח ."
+
+msgid "Emails"
+msgstr "הודעות דוא\"ל"
+
+msgid "Meetings"
+msgstr "מפגשים"
+
+msgid "All users"
+msgstr "כל המשתמשים"
+
+msgid "Category"
+msgstr "קָטֵגוֹרִיָה"
+
+msgid "Finance project"
+msgstr "פרויקט האוצר"
+
+msgid "Investment project"
+msgstr "פרויקט השקעה"
+
+msgid "Nature"
+msgstr "טֶבַע"
+
+msgid "Data is empty"
+msgstr "נתונים ריק"
+
+msgid "Visitors"
+msgstr "מבקרים"
+
+msgid "My profile"
+msgstr "הפרופיל שלי"
+
+msgid "Sponsors"
+msgstr "נותני חסות"
+
+msgid "Prior to completion"
+msgstr "לפני ההשלמה"
+
+msgid "Select"
+msgstr "בחר"
+
+msgid "My groups"
+msgstr "הקבוצות שלי"
+
+msgid "The invitation has been sent successfully"
+msgstr "ההזמנה נשלחה בהצלחה"
+
+msgid "Username has already been invited to this project"
+msgstr "שם משתמש כבר הוזמןלפרויקט זה"
+
+msgid "The user is the creator of the project"
+msgstr "המשתמש הואהיוצר של הפרויקט"
+
+msgid "Provide full access"
+msgstr "ספק גישה מלאה"
+
+msgid "Select elements to provide access"
+msgstr "בחר אלמנטים כדי לספק גישה"
+
+msgid "Select all"
+msgstr "בחר הכל"
+
+msgid "User E-mail"
+msgstr "דואר אלקטרוני למשתמש"
+
+msgid "Click on the field to select a category"
+msgstr "לחץ עלהשדה כדי לבחורקטגוריה"
+
+msgid "Invitation was deleted"
+msgstr "הזמנה נמחקה"
+
+msgid "Permission denied"
+msgstr "ההרשאה נדחתה"
+
+msgid "Printed"
+msgstr "מודפס"
+
+msgid "Incorrect Contractor email"
+msgstr "הדוא\"ל קבלן שגוי"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "האם ברצונך להוסיף למימון פרויקט מנהל ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "כדי להשלים את תהליך הרישום אנא מלא את הכישורים שלך"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "אלקטרוני עם הוראות נוספות נשלח לכתובת הדוא\"ל שלך"
+
+msgid "Submit"
+msgstr "לְהַגִישׁ"
+
+msgid "Cars"
+msgstr "מכוניות"
+
+msgid "Science"
+msgstr "מַדָע"
+
+msgid "Donation"
+msgstr "תְרוּמָה"
+
+msgid "Interests"
+msgstr "תחומי עניין"
+
+msgid "Driver"
+msgstr "נֶהָג"
+
+msgid "Sportsman"
+msgstr "ספּוֹרטַאִי"
+
+msgid "Businessman"
+msgstr "איש עסקים"
+
+msgid "Accountant"
+msgstr "חֶשׁבּוֹנַאי"
+
+msgid "Engineer"
+msgstr "מהנדס"
+
+msgid "Soldier"
+msgstr "לוֹחֶם"
+
+msgid "Next"
+msgstr "הַבָּא"
+
+msgid "Hide group"
+msgstr "קבוצת הסתר"
+
+msgid "groups created"
+msgstr "קבוצות שנוצרו"
+
+msgid "articles written"
+msgstr "מאמרים שנכתבו"
+
+msgid "These groups may be interesting for you"
+msgstr "קבוצות אלה עשויות להיות מעניינות בשבילך"
+
+msgid "About Group"
+msgstr "אודות קבוצה"
+
+msgid "view(s)"
+msgstr "תצוגה ( ים)"
+
+msgid "Favorite users"
+msgstr "משתמשים מועדפים"
+
+msgid "No accounts"
+msgstr "אין חשבונות"
+
+msgid "Facebook authorization failed."
+msgstr "אישור פייסבוק נכשל ."
+
+msgid "Authorization Required"
+msgstr "האישור נדרש"
+
+msgid "You have to make a call:"
+msgstr "אתה צריך לבצע שיחה :"
+
+msgid "You have to send an email:"
+msgstr "אתה צריך לשלוח מייל :"
+
+msgid "You have a meetup:"
+msgstr "יש לך Meetup :"
+
+msgid "You event :"
+msgstr "אם אתה :"
+
+msgid "Participants:"
+msgstr "משתתפים:"
+
+msgid "Search"
+msgstr "לְחַפֵּשׂ"
+
+msgid "News"
+msgstr "חֲדָשׁוֹת"
+
+msgid "Investments"
+msgstr "השקעות"
+
+msgid "Back to Cloud"
+msgstr "חזרה לענן"
+
+msgid "Documents"
+msgstr "מסמכים"
+
+msgid "Planet"
+msgstr "כוכב לכת"
+
+msgid "Group url"
+msgstr "כתובת אתר קבוצה"
+
+msgid "Profile url"
+msgstr "כתובת אתר של פרופיל"
+
+msgid "Already taken"
+msgstr "כבר נלקח"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "מכתב לפחות 1 ו -3 אורך תווים הנדרש"
+
+msgid "Digit can not be the first character"
+msgstr "ספרה לא יכולה להיותהתו הראשון"
+
+msgid "Enter valid email address"
+msgstr "הזן כתובת דוא\"ל חוקית"
+
+msgid "Enter your skills"
+msgstr "הזן את היכולות שלך"
+
+msgid "Enter your first name"
+msgstr "הזן את השם הפרטי שלך"
+
+msgid "Enter your last name"
+msgstr "הזן את שם המשפחה שלך"
+
+msgid "Enter your first name and last name"
+msgstr "הזן את שמך הפרטיושם המשפחה"
+
+msgid "Your first name?"
+msgstr "השם הפרטי שלך?"
+
+msgid "Your last name?"
+msgstr "שם משפחתך?"
+
+msgid "What are your proficiencies?"
+msgstr "מה הן המיומנויות שלך ?"
+
+msgid "Select country"
+msgstr "בחר מדינה"
+
+msgid "Select user"
+msgstr "משתמשים בחרו"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "להגשים את החלום שלך ! ליצור ולשתף פעולה ."
+
+msgid "date moved from"
+msgstr "התאריך עבר מ"
+
+msgid "work"
+msgstr "עֲבוֹדָה"
+
+msgid "Conference"
+msgstr "וְעִידָה"
+
+msgid "personal"
+msgstr "אִישִׁי"
+
+msgid "Holiday"
+msgstr "חַג"
+
+msgid "Past"
+msgstr "האחרון"
+
+msgid "Future"
+msgstr "עתיד"
+
+msgid "Purchase"
+msgstr "רכישה"
+
+msgid "Personal events"
+msgstr "אירועים פרטיים"
+
+msgid "Conferences"
+msgstr "פגישה"
+
+msgid "Holidays"
+msgstr "חגים"
+
+msgid "Sport events"
+msgstr "אירועי ספורט"
+
+msgid "Tasks"
+msgstr "משימות"
+
+msgid "Other events"
+msgstr "אירועים אחרים"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "נדחים"
+
+msgid "Time management"
+msgstr "ניהול זמן"
+
+msgid "Delayed events"
+msgstr "אירועים נדחים"
+
+msgid "Delayed"
+msgstr "נדחים"
+
+msgid "Bind to"
+msgstr "להקצות"
+
+msgid "answered your comment to"
+msgstr "אמרתי (א) תגובה על המאמר"
+
+msgid "commented your article"
+msgstr "הערתי על המאמר שלך"
+
+msgid "You\'ve answered on comment to"
+msgstr "אתה הגיב לתגובה על המאמר"
+
+msgid "You\'ve commented an article"
+msgstr "אתה הגיב על המאמר"
+
+msgid "Terms and Conditions"
+msgstr "תנאים והגבלות"
+
+msgid "Privacy Policy"
+msgstr "מדיניות פרטיות"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "על ידי לחיצה על \"להירשם\" אתה מסכים עימנו ולהכיר בכך שיש לך לקרוא שלנו"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "הצטרף לקהילה של אנשים יצירתיים מכל רחבי העולם! אתה תקבל: השקעה ברעיונות שלך, הזדמנות לאסוף צוות שלו, עובד בקבוצה, מנהל הכספים, ניהול זמנם, 2 ג\'יגה-בתים באחסון ועוד. וזה בחינם!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "מצטער, אבל את הדף שאתה מחפש לא קיים. אם אתה חושב שלהאשים אותנו ליצור איתנו קשר"
+
+msgid "Return"
+msgstr "חזור"
+
+msgid "COMMON"
+msgstr "Total"
+
+msgid "My events"
+msgstr "אירועים שלי"
+
+msgid "Job opening"
+msgstr "פנוי חדש"
+
+msgid "Employment"
+msgstr "סוג של תעסוקה"
+
+msgid "Working hours"
+msgstr "שעות פתיחה"
+
+msgid "City"
+msgstr "עיר"
+
+msgid "Wages"
+msgstr "שכר"
+
+msgid "Currency"
+msgstr "מטבע"
+
+msgid "Experience"
+msgstr "ניסיון"
+
+msgid "Full-time"
+msgstr "תעסוקה מלאה"
+
+msgid "Part-time"
+msgstr "משרה חלקית"
+
+msgid "Project employment"
+msgstr "פרויקט / זמני"
+
+msgid "Volunteer"
+msgstr "התנדבות"
+
+msgid "Internship"
+msgstr "התמחות"
+
+msgid "Full day"
+msgstr "זמן מלא"
+
+msgid "Shifts"
+msgstr "לוח זמנים להחלפה"
+
+msgid "Flexible shifts"
+msgstr "לוח זמנים גמישים"
+
+msgid "Remote work"
+msgstr "עבודה מרחוק"
+
+msgid "Rotational basis"
+msgstr "שיטת Shift"
+
+msgid "Do you really want to delete this comment?"
+msgstr "האם אתה בטוח שאתה רוצה למחוק את התגובה?"
+
+msgid "Do you really want to delete this task?"
+msgstr "האם אתה בטוח שאתה רוצה למחוק משימה זו?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "האם אתה בטוח שאתה רוצה למחוק את תת-הפרויקט הזה?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "יש לך להחיל את החברה בעמדה. אנא ודא ש"
+
+msgid "Your request to for job has been rejected"
+msgstr "בקשתך לחברה לתפקיד נדחתה"
+
+msgid "Your request to for job has been accepted"
+msgstr "בקשתך לחברה לעמדה אומצה"
+
+msgid "profile is completed"
+msgstr "הפרופיל שלך הוא מלא"
+
+msgid "Use account"
+msgstr "השתמש בחשבון"
+
+msgid "$/hr"
+msgstr "$ / שעה"
+
+msgid "Finance category"
+msgstr "קטגוריה פיננסית"
+
+msgid "No projects"
+msgstr "אין פרויקטים"
+
+msgid "Bind to finances"
+msgstr "הקצאת פרויקט פיננסי"
+
+msgid "Preview"
+msgstr "צפה ב"
+
+msgid "Download"
+msgstr "הורדה"
+
+msgid "Save to my cloud"
+msgstr "העתק את המאגר"
+
+msgid "File successfully saved to your cloud"
+msgstr "קובץ מאוחסן בהצלחה במאגר שלך"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "שמור קובץ זה במאגר שלך?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "בחר מאמר קטגוריה"
+
+msgid "Type something"
+msgstr "לכתוב משהו"
+
+msgid "Founded users"
+msgstr "משתמשים מצאו"
+
+msgid "Founded articles"
+msgstr "מאמר נמצא"
+
+msgid "Founded groups"
+msgstr "קבוצה נוסדה"
+
+msgid "What are your skills?"
+msgstr "מה הם הכישורים שלך?"
+
+msgid "Select at least 2 interests"
+msgstr "בחר לפחות 2 ריבית"
+
+msgid "Need more interests"
+msgstr "לא מספיק עניין הנבחר"
+
+msgid "What are you interesting in?"
+msgstr "מה אתה מתעניין?"
+
+msgid "You have no dialogs"
+msgstr "אין לך דיאלוגים"
+
+msgid "Usage Stats"
+msgstr "המדינה"
+
+msgid "Founded files"
+msgstr "קבצים נמצאו"
+
+msgid "Big tiles"
+msgstr "אריחים גדולים"
+
+msgid "Small tiles"
+msgstr "אריחים קטנים"
+
+msgid "Table view"
+msgstr "תצוגת טבלה"
+
+msgid "Root folder"
+msgstr "ספריית השורש"
+
+msgid "My files"
+msgstr "הקבצים שלי"
+
+msgid "Save as draft"
+msgstr "שמור כטיוטה"
+
+msgid "Buy More Space"
+msgstr "קנה יותר מקום"
+
+msgid "Buy"
+msgstr "קנה"
+
+msgid "You have been invited to group as"
+msgstr "הוזמנת לקבוצה כ"
+
+msgid "User wants to join your group"
+msgstr "המשתמש רוצה להצטרף לקבוצה שלך"
+
+msgid "Section is coming soon!"
+msgstr "סעיף בבנייה!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "צפיות ב -24 השעות האחרונות:"
+
+msgid "Task was updated"
+msgstr "המשימה עודכנה"
+
+msgid "Task was closed"
+msgstr "האתגר נסגר"
+
+msgid "Task was created"
+msgstr "המשימה הוקמה"
+
+msgid "Current balance"
+msgstr "יתרה נוכחית"
+
+msgid "Add funds"
+msgstr "להוסיף"
+
+msgid "Pay"
+msgstr "לקופה"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "חרגת ממספר ניסיונות כניסה. אתה חסום במשך 15 דקות"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "אנא אשר הדואר האלקטרוני שלך. המכתב שנשלח אליך בדואר."
+
+msgid "Resend confirmation email"
+msgstr "שלח אישור שוב"
+
+msgid "Disk 2Gb Monthly"
+msgstr "הדיסק GB 2 לחודש"
+
+msgid "Disk 10Gb Monthly"
+msgstr "מרחק של 10 GB בשנה"
+
+msgid "Disk 100Gb Yearly"
+msgstr "הדיסק 100 GB בכל שנה"
+
+msgid "Disk 1Tb Monthly"
+msgstr "הדיסק 1TB חודשי"
+
+msgid "Disk 1Tb Yearly"
+msgstr "כונן 1 TB בכל שנה"
+
+msgid "Project members monthly"
+msgstr "משתתפי הפרויקט על בסיס חודשי"
+
+msgid "Project members yearly"
+msgstr "משתתפי פרויקט בשנה"
+
+msgid "Member(s) yearly"
+msgstr "חבר (ים) בשנה"
+
+msgid "Member(s) monthly"
+msgstr "חבר (ים) על בסיס חודשי"
+
+msgid "Authorized"
+msgstr "מורשה"
+
+msgid "Authorization expired"
+msgstr "האישור פג"
+
+msgid "Processor declined"
+msgstr "מערכת עיבוד שנדחו"
+
+msgid "Gateway rejected"
+msgstr "שער תשלום שנדחו"
+
+msgid "Failed"
+msgstr "שגיאה"
+
+msgid "Voided"
+msgstr "ביטול"
+
+msgid "Submitted for settlement"
+msgstr "נשלח להירשם"
+
+msgid "Settlement declined"
+msgstr "הרשמה נדחתה"
+
+msgid "Settlement pending"
+msgstr "הרשמה ממתינה ל"
+
+msgid "Verified"
+msgstr "בדק"
+
+msgid "Pending"
+msgstr "ממתין ל"
+
+msgid "Active"
+msgstr "פעיל"
+
+msgid "Past Due"
+msgstr "פג תוקף"
+
+msgid "Expired"
+msgstr "הסתיים"
+
+msgid "Marketer"
+msgstr "משווק"
+
+msgid "India"
+msgstr "הודו"
+
+msgid "Malaysia"
+msgstr "מלזיה"
+
+msgid "Thailand"
+msgstr "תאילנד"
+
+msgid "South Korea"
+msgstr "דרום קוריאה"
+
+msgid "Kazakhstan"
+msgstr "קזחסטן"
+
+msgid "Israel"
+msgstr "ישראל"
+
+msgid "Ukraine"
+msgstr "אוקראינה"
+
+msgid "Belarus"
+msgstr "בלארוס"
+
+msgid "Bulgaria"
+msgstr "בולגריה"
+
+msgid "Turkey"
+msgstr "טורקיה"
+
+msgid "Armenia"
+msgstr "ארמניה"
+
+msgid "Serbia"
+msgstr "סרביה"
+
+msgid "Austria"
+msgstr "אוסטריה"
+
+msgid "Poland"
+msgstr "פולין"
+
+msgid "Germany"
+msgstr "גרמניה"
+
+msgid "Italy"
+msgstr "איטליה"
+
+msgid "Netherlands"
+msgstr "הולנד"
+
+msgid "Ireland"
+msgstr "אירלנד"
+
+msgid "United Kingdom"
+msgstr "בריטניה"
+
+msgid "Portugal"
+msgstr "פורטוגל"
+
+msgid "Norway"
+msgstr "נורבגיה"
+
+msgid "United States"
+msgstr "ארצות הברית"
+
+msgid "Canada"
+msgstr "קנדה"
+
+msgid "Brazil"
+msgstr "ברזיל"
+
+msgid "Saudi Arabia"
+msgstr "סעודיה"
+
+msgid "Canada"
+msgstr "מצרים"
+
+msgid "Russia"
+msgstr "רוסיה"
+
+msgid "Hong Kong"
+msgstr "הונג קונג"
+
+msgid "There was no any transactions yet."
+msgstr "כרגע, לא הייתה עסקה אחת"
+
+msgid "Fulfill your dream"
+msgstr "להגשים את החלום שלך"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "הצטרף לקהילה של אנשים יצירתיים מכל רחבי העולם שלנו."
+
+msgid "Create and Collaborate"
+msgstr "יצירה ושיתוף פעולה"
+
+msgid "Start Dreaming"
+msgstr "להגשים את החלום עם החברה"
+
+msgid "or"
+msgstr "אוֹ"
+
+msgid "Our mission:"
+msgstr "המשימה שלנו:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "לאחד אנשים יצירתיים ופעילים ליישם את רעיונות פשוטים ובביקוש למדהים ונפלא, שיכול לעצב את עתידנו."
+
+msgid "What is Konstruktor?"
+msgstr "מה הוא Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - הוא חלק מהחיים שלנו האמיתיים, המאפשר באופן משמעותי ומפשט"
+
+msgid "*business processes"
+msgstr "*תהליך עסקי"
+
+msgid "*materialization of creative ideas"
+msgstr "* התממשות רעיונות יצירתיים"
+
+msgid "*constructive cooperation"
+msgstr "* שיתוף פעולה בונה"
+
+msgid "Make your dream!"
+msgstr "להפוך את החלום שלך!"
+
+msgid "Vlad Krishtop"
+msgstr "ולאד Krishtop"
+
+msgid "CEO"
+msgstr "מנכ\"ל"
+
+msgid "Yuriy Chekalenko"
+msgstr "יורי Chekalenko"
+
+msgid "Special Advisor"
+msgstr "יועץ מיוחד"
+
+msgid "Yaroslav Eroshenko"
+msgstr "ירוסלב Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "מנהל, פיתוח תוכנה"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "סבטלנה Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "בכיר עורך דין"
+
+msgid "Yuriy Himka"
+msgstr "יורי Himka"
+
+msgid "Designer"
+msgstr "מְעַצֵב"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "על ידי לחיצה על הכפתור \"הבא\", אתה מקבל ומסכים עם תנאים וההגבלות שלנו, ואתה מכיר בכך שיש לך לקרוא מדיניות הפרטיות שלנו."
+
+msgid "Incorrect login or password."
+msgstr "התחברות או סיסמא שגויה."
+
+msgid "Password must be at least 6 characters"
+msgstr "סיסמא חייבת להיות לפחות 6 תווים"
+
+msgid "January"
+msgstr "יָנוּאָר"
+
+msgid "February"
+msgstr "פֶבּרוּאָר"
+
+msgid "March"
+msgstr "מרץ"
+
+msgid "April"
+msgstr "אַפּרִיל"
+
+msgid "May"
+msgstr "חודש מאי"
+
+msgid "June"
+msgstr "חודש יוני"
+
+msgid "July"
+msgstr "חודש יולי"
+
+msgid "August"
+msgstr "אוגוסט"
+
+msgid "September"
+msgstr "סֶפּטֶמבֶּר"
+
+msgid "October"
+msgstr "אוֹקְטוֹבֶּר"
+
+msgid "November"
+msgstr "נוֹבֶמבֶּר"
+
+msgid "December"
+msgstr "דֵצֶמבֶּר"
+
+msgid "Chat"
+msgstr "לְשׂוֹחֵחַ"
+
+msgid "Files"
+msgstr "קבצים"
+
+msgid "Statistic"
+msgstr "נתון"
+
+msgid "Support"
+msgstr "תְמִיכָה"
+
+msgid "Exit"
+msgstr "יְצִיאָה"
+
+msgid "Brest"
+msgstr "ברסט"
+
+msgid "Belarus"
+msgstr "בלארוס"
+
+msgid "Marketing specialist"
+msgstr "מומחה לשיווק"
+
+msgid "Administrator"
+msgstr "מנהל"
+
+msgid "Shared with me"
+msgstr "משותף איתי"
+
+msgid "File Sharing"
+msgstr "שיתוף קבצים"
+
+msgid "Provide access by link"
+msgstr "ספק גישה על ידי קישור"
+
+msgid "Provide Individual access"
+msgstr "ספק גישה אישית"
+
+msgid "Provide edit access"
+msgstr "ספק גישה לערוך"
+
+msgid "Share"
+msgstr "לַחֲלוֹק"
+
+msgid "Files will be available only for selected users"
+msgstr "קבצים יהיו זמינים רק למשתמשים נבחרים"
+
+msgid "With this link everyone can access to the files"
+msgstr "עם זה מקשר כל אחד יכול לגשת לקבצים"
+
+msgid "Search users, groups, articles..."
+msgstr "משתמשי חיפוש, קבוצות, מאמרים ..."
+
+msgid "My Group"
+msgstr "הקבוצה שלי"
+
+msgid "Mo"
+msgstr "מו"
+
+msgid "Tu"
+msgstr "ט\"ו ב"
+
+msgid "We"
+msgstr "אָנוּ"
+
+msgid "Th"
+msgstr "ה"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "סו"
+
+msgid "The file is not selected"
+msgstr "הקובץ לא נבחר"
+
+msgid "Set aside"
+msgstr "לְהַפְרִישׁ"
+
+msgid "Event time"
+msgstr "זמן אירוע"
+
+msgid "Work"
+msgstr "עֲבוֹדָה"
+
+msgid "Personal"
+msgstr "אִישִׁי"
+
+msgid "Time spent for work:"
+msgstr "משך זמן לעבודה:"
+
+msgid "Personal time spent:"
+msgstr "זמן אישי בילה:"
+
+msgid "Present"
+msgstr "הווה"
+
+msgid "Common"
+msgstr "מְשׁוּתָף"
+
+msgid "Sport"
+msgstr "ספּוֹרט"
+
+msgid "Entertainment"
+msgstr "בידור"
+
+msgid "Select:"
+msgstr "בחר:"
+
+msgid "Invalid username or password."
+msgstr "שם משתמש או סיסמא לא חוקי."
+
+msgid "Try again."
+msgstr "נסה שוב."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "במה אתה מתעניין?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "בחר לפחות 2 מיומנויות: נשאר 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "בחר לפחות 2 מיומנויות: נשאר 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "בחר לפחות 2 מיומנויות: שרידים"
+
+msgid "Active life"
+msgstr "חיים פעילים"
+
+msgid "Arts and culture"
+msgstr "אמנויות ותרבות"
+
+msgid "Business"
+msgstr "עֵסֶק"
+
+msgid "Cinema"
+msgstr "קוֹלנוֹעַ"
+
+msgid "Communications"
+msgstr "תקשורת"
+
+msgid "Construction and repair"
+msgstr "בנייה ושיפוץ"
+
+msgid "Cooking"
+msgstr "בישול"
+
+msgid "Education"
+msgstr "הַשׂכָּלָה"
+
+msgid "Electronics"
+msgstr "אלקטרוניקה"
+
+msgid "Finances"
+msgstr "פיננסים"
+
+msgid "Graphics and design"
+msgstr "גרפיקה ועיצוב"
+
+msgid "Health"
+msgstr "בְּרִיאוּת"
+
+msgid "Home and family"
+msgstr "בית ומשפחה"
+
+msgid "Humor"
+msgstr "הוּמוֹר"
+
+msgid "IT"
+msgstr "את זה"
+
+msgid "Industry"
+msgstr "תַעֲשִׂיָה"
+
+msgid "Insurance"
+msgstr "ביטוח"
+
+msgid "Literature"
+msgstr "סִפְרוּת"
+
+msgid "Mobile communications and internet"
+msgstr "תקשורת ואינטרנט סלולרי"
+
+msgid "News and Media"
+msgstr "חדשות ואמצעי תקשורת"
+
+msgid "Pets"
+msgstr "חיות מחמד"
+
+msgid "Products and service"
+msgstr "מוצרים ושירותים"
+
+msgid "Real Estate"
+msgstr "נדל\"ן"
+
+msgid "Religion"
+msgstr "דָת"
+
+msgid "Science and techs"
+msgstr "מדע וטכנאים"
+
+msgid "Security"
+msgstr "בִּטָחוֹן"
+
+msgid "Society"
+msgstr "חֶברָה"
+
+msgid "Television"
+msgstr "טֵלֶוִיזִיָה"
+
+msgid "Travel"
+msgstr "לִנְסוֹעַ"
+
+msgid "URL"
+msgstr "כתובת אתר"
+
+msgid "Argentina"
+msgstr "ארגנטינה"
+
+msgid "Australia"
+msgstr "אוֹסטְרַלִיָה"
+
+msgid "Austria"
+msgstr "אוֹסְטְרֵיָה"
+
+msgid "Belarus"
+msgstr "בלארוס"
+
+msgid "Belgium"
+msgstr "בלגיה"
+
+msgid "Brazil"
+msgstr "בְּרָזִיל"
+
+msgid "Bulgaria"
+msgstr "בולגריה"
+
+msgid "Canada"
+msgstr "קנדה"
+
+msgid "Chile"
+msgstr "צ\'ילה"
+
+msgid "Denmark"
+msgstr "דנמרק"
+
+msgid "France"
+msgstr "צָרְפַת"
+
+msgid "Germany"
+msgstr "גֶרמָנִיָה"
+
+msgid "Greece"
+msgstr "יָוָן"
+
+msgid "Hungary"
+msgstr "הונגריה"
+
+msgid "Iceland"
+msgstr "אִיסלַנד"
+
+msgid "Ireland"
+msgstr "אירלנד"
+
+msgid "Israel"
+msgstr "יִשְׂרָאֵל"
+
+msgid "Italy"
+msgstr "אִיטַלִיָה"
+
+msgid "Japan"
+msgstr "יַפָּן"
+
+msgid "Mexico"
+msgstr "מקסיקו"
+
+msgid "Netherlands"
+msgstr "הוֹלַנד"
+
+msgid "New Zealand"
+msgstr "ניו זילנד"
+
+msgid "Norway"
+msgstr "נורבגיה"
+
+msgid "Poland"
+msgstr "פּוֹלִין"
+
+msgid "Portugal"
+msgstr "פּוֹרטוּגָל"
+
+msgid "Russia"
+msgstr "רוּסִיָה"
+
+msgid "Slovakia"
+msgstr "סלובקיה"
+
+msgid "South Africa"
+msgstr "דרום אפריקה"
+
+msgid "South Korea"
+msgstr "דרום קוריאה"
+
+msgid "Spain"
+msgstr "סְפָרַד"
+
+msgid "Sweden"
+msgstr "שוודיה"
+
+msgid "Switzerland"
+msgstr "שווייץ"
+
+msgid "Turkey"
+msgstr "טורקיה"
+
+msgid "Ukraine"
+msgstr "אוקראינה"
+
+msgid "United Arab Emirates"
+msgstr "איחוד האמירויות הערבי"
+
+msgid "United Kingdom"
+msgstr "בריטניה"
+
+msgid "United States"
+msgstr "ארצות הברית"
+
+msgid "achievements"
+msgstr "הישגים"
+
+msgid "Investment management"
+msgstr "ניהול השקעות"
+
+msgid "Select..."
+msgstr "בחר..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "ניהול השקעות"
+
+msgid "Investors list"
+msgstr "רשימת משקיעים"
+
+msgid "My investments"
+msgstr "ההשקעות שלי"
+
+msgid "Create date"
+msgstr "צור תאריך"
+
+msgid "Author of the project"
+msgstr "מחבר של הפרויקט"
+
+msgid "Date and time"
+msgstr "תאריך ושעה"
+
+msgid "Status"
+msgstr "סטָטוּס"
+
+msgid "NEXT"
+msgstr "הַבָּא"
+
+msgid "Next"
+msgstr "הַבָּא"
+
+msgid "Apply"
+msgstr "להגיש מועמדות"
+
+msgid "Kazakhstan"
+msgstr "קזחסטן"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "הונג קונג"
+
+msgid "Science"
+msgstr "מַדָע"
+
+msgid "Architecture"
+msgstr "אַדְרִיכָלוּת"
+
+msgid "Photography"
+msgstr "צילום"
+
+msgid "Designer"
+msgstr "מְעַצֵב"
+
+msgid "IT specialist"
+msgstr "מומחה IT"
+
+msgid "Agronomist"
+msgstr "אַגרוֹנוֹם"
+
+msgid "Architect"
+msgstr "אַדְרִיכָל"
+
+msgid "Lawyer"
+msgstr "עורך דין"
+
+msgid "Writer"
+msgstr "סוֹפֵר"
+
+msgid "Doctor"
+msgstr "דוֹקטוֹר"
+
+msgid "Scientist"
+msgstr "מַדְעָן"
+
+msgid "Marketer"
+msgstr "משווק"
+
+msgid "Teacher"
+msgstr "מוֹרֶה"
+
+msgid "Cook"
+msgstr "לְבַשֵׁל"
+
+msgid "Artist"
+msgstr "אָמָן"
+
+msgid "Photographer"
+msgstr "צַלָם"
+
+msgid "Ecologist"
+msgstr "אֵקוֹלוֹג"
+
+msgid "Economist"
+msgstr "כַּלכָּלָן"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "עִתוֹנָאִי"
+
+msgid "Builder"
+msgstr "בּוֹנֶה"
+
+msgid "These users may be interesting for you"
+msgstr "משתמשים אלו יכולים להיות מעניינים בשבילך"
+
+msgid "These articles may be interesting for you"
+msgstr "מאמרים אלה עשויים להיות מעניינים בשבילך"
+
+msgid "You joined this group as Аdministrator"
+msgstr "אתה הצטרף לקבוצה כАdministrator"
+
+msgid "articles written."
+msgstr "מאמרים שנכתבו."
+
+msgid "groups created."
+msgstr "קבוצות שנוצרו."
+
+msgid "Creation"
+msgstr "יְצִירָה"
+
+msgid "Build a dream"
+msgstr "לבנות חלום"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "קראו מאמרים מעניינים יותר - ללכת רישום חינם"
+

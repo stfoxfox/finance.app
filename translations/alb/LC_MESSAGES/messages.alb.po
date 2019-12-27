@@ -1,0 +1,3347 @@
+# shqiptar (Албанский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: shqiptar (Албанский) <support@konstruktor.com>\n"
+"Language: shqiptar (Албанский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "emri i përdoruesit"
+
+msgid "Invalid username or password, try again"
+msgstr "Emrin e përdoruesit apo fjalëkalimin e gabuar . Provoni përsëri ."
+
+msgid "Settings"
+msgstr "Cilësimet"
+
+msgid "Home"
+msgstr "shtëpi"
+
+msgid "You must log in to access this page"
+msgstr "Ju duhet të hyni në për të hyrë në këtë faqe"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Sesioni juaj ka qenë i skaduar . Ju lutem , relogin për të kryer këtë veprim"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Head Office"
+msgstr "Zyra Qendrore"
+
+msgid "Address"
+msgstr "adresë"
+
+msgid "Back"
+msgstr "prapa"
+
+msgid "Apply"
+msgstr "aplikoni"
+
+msgid "Upload files…"
+msgstr "Ngarko fotografi ..."
+
+msgid "Set as main"
+msgstr "Bëje si kryesor"
+
+msgid "Delete"
+msgstr "fshij"
+
+msgid "Original image"
+msgstr "image origjinal"
+
+msgid "Uploaded"
+msgstr "Ngarkuar"
+
+msgid "File name"
+msgstr "File name"
+
+msgid "File size"
+msgstr "madhësia e dokumentit"
+
+msgid "Resolution"
+msgstr "zgjidhje"
+
+msgid "Enlarge"
+msgstr "zgjeroj"
+
+msgid "Links"
+msgstr "Lidhjet"
+
+msgid "Original size"
+msgstr "madhësia origjinale"
+
+msgid "For editor"
+msgstr "për redaktor"
+
+msgid "Resize"
+msgstr "resize"
+
+msgid "Width"
+msgstr "gjerësi"
+
+msgid "Height"
+msgstr "lartësi"
+
+msgid "Media URL"
+msgstr "Media URL"
+
+msgid "Add record"
+msgstr "Shto rekord"
+
+msgid "Show filter settings"
+msgstr "Settings shfaqje filtër"
+
+msgid "Edit record"
+msgstr "Edit rekord"
+
+msgid "Delete record"
+msgstr "Fshij rekord"
+
+msgid "Delete checked records"
+msgstr "Fshij të dhënat kontrolluar"
+
+msgid "Dashboard"
+msgstr "baltëpritëse"
+
+msgid "Password"
+msgstr "fjalëkalim"
+
+msgid "Remember me"
+msgstr "më mbaj në mend"
+
+msgid "Login"
+msgstr "hyrje"
+
+msgid "Clean image cache"
+msgstr "Clean image cache"
+
+msgid "Processing query..."
+msgstr "Query përpunim ..."
+
+msgid "CMS Development"
+msgstr "Zhvillimi CMS"
+
+msgid "Admin Home Page"
+msgstr "Admin Faqja Kryesore"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Faqe Hapur Faqja e Frontit fund në një skedë të re"
+
+msgid "Go to Site"
+msgstr "Shko tek Faqes"
+
+msgid "Log out"
+msgstr "Identifikohu out"
+
+msgid "Send"
+msgstr "dërgoj"
+
+msgid "General"
+msgstr "i përgjithshëm"
+
+msgid "Title"
+msgstr "titull"
+
+msgid "Teaser"
+msgstr "ngacmues"
+
+msgid "Published"
+msgstr "Publikuar"
+
+msgid "Featured"
+msgstr "Të zgjedhura"
+
+msgid "Active"
+msgstr "aktiv"
+
+msgid "Field is mandatory"
+msgstr "Fusha është e detyrueshme"
+
+msgid "Sort Order"
+msgstr "Rendit"
+
+msgid "Upload"
+msgstr "Ngarko"
+
+msgid "Loading..."
+msgstr "Duke u ngarkuar ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "shkurt"
+
+msgid "Mar"
+msgstr "mars"
+
+msgid "Apr"
+msgstr "prill"
+
+msgid "May"
+msgstr "mund"
+
+msgid "Jun"
+msgstr "qershor"
+
+msgid "Jul"
+msgstr "korrik"
+
+msgid "Aug"
+msgstr "gusht"
+
+msgid "Sep"
+msgstr "shtator"
+
+msgid "Oct"
+msgstr "tetor"
+
+msgid "Nov"
+msgstr "nëntor"
+
+msgid "Dec"
+msgstr "dhjetor"
+
+msgid "Product already exists in the order"
+msgstr "Produkt tashmë ekziston në mënyrë"
+
+msgid "Product does not exist"
+msgstr "Produkti nuk ekziston"
+
+msgid "Incorrect request"
+msgstr "kërkesa e gabuar"
+
+msgid "Products"
+msgstr "Produkte"
+
+msgid "Product types"
+msgstr "Llojet e produktit"
+
+msgid "Contractors"
+msgstr "kontraktorët"
+
+msgid "Contractor"
+msgstr "kontraktues"
+
+msgid "Orders"
+msgstr "urdhërat"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "rend i ri"
+
+msgid "My orders"
+msgstr "urdhërat e mia"
+
+msgid "Recharge balance"
+msgstr "Bilanci Recharge"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Incorrect event ID"
+msgstr "Pasaktë ID ngjarje"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid ""
+msgstr "Teknike . parametrat"
+
+msgid "Edit contractor"
+msgstr "ndrysho kontraktor"
+
+msgid "Create contractor"
+msgstr "Krijo kontraktor"
+
+msgid "Edit question"
+msgstr "ndrysho pyetje"
+
+msgid "Create question"
+msgstr "Krijo pyetjen"
+
+msgid "Edit order"
+msgstr "mënyrë Edit"
+
+msgid "Create order"
+msgstr "Krijo rendit"
+
+msgid "Edit product"
+msgstr "ndrysho produkt"
+
+msgid "Create product"
+msgstr "Krijo produkt"
+
+msgid "Edit product type"
+msgstr "Ndrysho lloj produkti"
+
+msgid "Create product type"
+msgstr "Krijo lloj produkti"
+
+msgid "You have received a file"
+msgstr "Ju keni marrë një fotografi"
+
+msgid "You received a file from"
+msgstr "Keni marrë një fotografi nga"
+
+msgid "File has been uploaded"
+msgstr "Skeda është ngarkuar"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "sasia minimale"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "artikuj"
+
+msgid "Remove"
+msgstr "largoj"
+
+msgid "Contact person"
+msgstr "personi kontaktues"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Contractor phone"
+msgstr "telefoni Kontraktor"
+
+msgid "Contractor name"
+msgstr "Emri Kontraktor"
+
+msgid "Contractor details"
+msgstr "detaje Kontraktor"
+
+msgid "Order ID"
+msgstr "Rendit ID"
+
+msgid "Sum"
+msgstr "shumë"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Zgjidhni sistemin e pagesave të përshtatshme për të plotësuar bilancin tuaj"
+
+msgid "Recharge amount"
+msgstr "shuma Recharge"
+
+msgid "Paid"
+msgstr "i paguar"
+
+msgid "Shipped"
+msgstr "dërguar"
+
+msgid "- No products in this order -"
+msgstr "- Nuk ka produkte në këtë mënyrë -"
+
+msgid "month"
+msgstr "muaj"
+
+msgid "No user found"
+msgstr "Asnjë përdorues gjetur"
+
+msgid "Achievement"
+msgstr "arritje"
+
+msgid "Confirmed accomplishments"
+msgstr "arritjet konfirmuar"
+
+msgid "Remove achievement"
+msgstr "Hiq arritje"
+
+msgid "Headquaters"
+msgstr "Selia"
+
+msgid "Phone"
+msgstr "telefon"
+
+msgid "Site URL and email"
+msgstr "Site URL dhe email"
+
+msgid "Remove address"
+msgstr "Hiq adresë"
+
+msgid "Members"
+msgstr "anëtarët"
+
+msgid "Requires a payment"
+msgstr "Kërkon një pagesë"
+
+msgid "Shipping"
+msgstr "Transporti"
+
+msgid "Ready"
+msgstr "gati"
+
+msgid "Find user..."
+msgstr "Gjej përdorues ..."
+
+msgid "Order it"
+msgstr "urdhërojë atë"
+
+msgid "Find group..."
+msgstr "Gjej grup ..."
+
+msgid "Find user or community..."
+msgstr "Gjej përdorues apo komunitet ..."
+
+msgid "No item found"
+msgstr "Nuk ka artikull gjetur"
+
+msgid "years"
+msgstr "vjet"
+
+msgid "Send message"
+msgstr "Dërgo mesazh"
+
+msgid "Message"
+msgstr "mesazh"
+
+msgid "To send message press Enter"
+msgstr "Për të dërguar mesazh shtypni Enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Për të dërguar mesazh për shtyp Ctrl + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Fotografi përpunimi ( s ) ..."
+
+msgid "Group settings"
+msgstr "Konfigurimet Grupi"
+
+msgid "Create group"
+msgstr "Krijo grup"
+
+msgid "Group has been successfully saved"
+msgstr "Grupi ka qenë i ruajtur me sukses"
+
+msgid "Group title"
+msgstr "Titulli grup"
+
+msgid "Group video"
+msgstr "Video grup"
+
+msgid "Description"
+msgstr "përshkrim"
+
+msgid "Your role in group"
+msgstr "Roli juaj në grup"
+
+msgid "Role"
+msgstr "rol"
+
+msgid "Photo or video gallery"
+msgstr "Foto apo Video Galeri"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Ngarko Video"
+
+msgid "Add group address"
+msgstr "Shto adresën grup"
+
+msgid "Group articles"
+msgstr "artikuj Grupi"
+
+msgid "No addresses yet"
+msgstr "Nuk adresat ende"
+
+msgid "Add group achievement"
+msgstr "Shto arritje grup"
+
+msgid "No achivements yet"
+msgstr "Ende nuk ka achivements"
+
+msgid "Are you sure to delete this user"
+msgstr "A jeni i sigurt për të fshini këtë përdorues"
+
+msgid "Add member"
+msgstr "Shto anëtarit"
+
+msgid "Are you sure to delete this record?"
+msgstr "A jeni i sigurt për të fshini këtë rekord ?"
+
+msgid "Join this group"
+msgstr "Bashkohu në grup"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Ftesa juaj u dërgua nga administratori grupit"
+
+msgid "All addresses"
+msgstr "Të gjitha adresat"
+
+msgid "Collapse"
+msgstr "shembje"
+
+msgid "Achievements"
+msgstr "Arritjet"
+
+msgid "Show more"
+msgstr "Trego më shumë"
+
+msgid "Team"
+msgstr "ekip"
+
+msgid "Projects"
+msgstr "projektet"
+
+msgid "New project"
+msgstr "projekt i ri"
+
+msgid "Project has not been created yet"
+msgstr "Projekti nuk është krijuar ende"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "ekuilibër"
+
+msgid "Main page"
+msgstr "Faqja kryesore"
+
+msgid "Upload image"
+msgstr "ngarkoni imazhin"
+
+msgid "My time"
+msgstr "koha ime"
+
+msgid "Day"
+msgstr "ditë"
+
+msgid "Week"
+msgstr "javë"
+
+msgid "Project settings"
+msgstr "parametrat e projektit"
+
+msgid "Create project"
+msgstr "Krijo projektin"
+
+msgid "Project has been successfully saved"
+msgstr "Projekti është ruajtur me sukses"
+
+msgid "Project name"
+msgstr "Emri i projektit"
+
+msgid "Deadline"
+msgstr "Afati"
+
+msgid "Close"
+msgstr "afër"
+
+msgid "Manager"
+msgstr "menaxher"
+
+msgid "Assigned to"
+msgstr "caktuar për"
+
+msgid "Discussion"
+msgstr "diskutim"
+
+msgid "Task was created"
+msgstr "Detyra u krijua"
+
+msgid "Task was closed"
+msgstr "Detyra ishte e mbyllur"
+
+msgid "Go to Group"
+msgstr "Shko tek Grupit"
+
+msgid "Closed"
+msgstr "mbyllur"
+
+msgid "Last updates"
+msgstr "përditësimet më të fundit"
+
+msgid "Project is closed"
+msgstr "Projekti është i mbyllur"
+
+msgid "No open tasks"
+msgstr "Nuk ka detyra të hapur"
+
+msgid "New task"
+msgstr "detyrë të re"
+
+msgid "Closed tasks"
+msgstr "detyrat e mbyllura"
+
+msgid "Add subproject"
+msgstr "Shto nënprojektit"
+
+msgid "Add task"
+msgstr "Shto detyrë"
+
+msgid "Sun"
+msgstr "e diel"
+
+msgid "Mon"
+msgstr "e hënë"
+
+msgid "Tue"
+msgstr "e martë"
+
+msgid "Wed"
+msgstr "e mërkurë"
+
+msgid "Thur"
+msgstr "e enjte"
+
+msgid "Fri"
+msgstr "e premte"
+
+msgid "Sat"
+msgstr "e shtunë"
+
+msgid "Event title"
+msgstr "Titulli i ngjarjes"
+
+msgid "Event description"
+msgstr "përshkrim ngjarje"
+
+msgid "I registered on this site"
+msgstr "I regjistruar në këtë faqe"
+
+msgid "Last created groups"
+msgstr "Grupet e fundit të krijuara"
+
+msgid "You joined this group as"
+msgstr "Ju bashkua këtij grupi si"
+
+msgid "You received a request to join the group"
+msgstr "Ju mori një kërkesë për t\'u bashkuar me grupin"
+
+msgid "Updated site"
+msgstr "faqe përditësuar"
+
+msgid "Site is under construction"
+msgstr "Faqe është në ndërtim e sipër"
+
+msgid "Last registered users"
+msgstr "Përdoruesit e fundit e regjistruar"
+
+msgid "User settings"
+msgstr "vetitë e përdoruesve"
+
+msgid "Technical support"
+msgstr "mbështetje teknike"
+
+msgid "Change email"
+msgstr "ndryshimi email"
+
+msgid "Change password"
+msgstr "Ndryshimi fjalëkalimin"
+
+msgid "User has been successfully saved"
+msgstr "Përdoruesi është ruajtur me sukses"
+
+msgid "Full name"
+msgstr "Emri i plotë"
+
+msgid "My video"
+msgstr "Video e mia"
+
+msgid "Skills"
+msgstr "Aftësi"
+
+msgid "Birthday"
+msgstr "ditëlindje"
+
+msgid "Country of residence"
+msgstr "Vendi i banimit"
+
+msgid "Country"
+msgstr "vend"
+
+msgid "Zip Code"
+msgstr "Zip Kodi"
+
+msgid "City/town of residence"
+msgstr "Qyteti / Qyteti i banimit"
+
+msgid "University/college"
+msgstr "Universitet / kolegj"
+
+msgid "University/college photo"
+msgstr "Universitet / kolegj foto"
+
+msgid "Add user\'s accomplishments"
+msgstr "Shto arritjet e përdoruesit"
+
+msgid "Interface language"
+msgstr "Interface gjuhë"
+
+msgid "How other people see this page"
+msgstr "Si njerëz të tjerë të parë këtë faqe"
+
+msgid "Video with me"
+msgstr "Video me mua"
+
+msgid "Groups"
+msgstr "Grupet"
+
+msgid "Registered today"
+msgstr "sot regjistruar"
+
+msgid "Qty"
+msgstr "Qty"
+
+msgid "No registered users yet"
+msgstr "Nuk ka përdorues regjistruar ende"
+
+msgid "Total"
+msgstr "total"
+
+msgid "Registered total"
+msgstr "i përgjithshëm i regjistruar"
+
+msgid "You received a file"
+msgstr "Keni marrë një fotografi"
+
+msgid "You were invited into this room"
+msgstr "Ju keni qenë të ftuar në këtë dhomë"
+
+msgid "Request is being processed"
+msgstr "Kërkesa është duke u përpunuar"
+
+msgid "Fax"
+msgstr "faks"
+
+msgid "Messenger"
+msgstr "Messenger"
+
+msgid "New subproject"
+msgstr "nënprojekti i ri"
+
+msgid "messages written."
+msgstr "mesazhet e shkruara ."
+
+msgid "projects created based on groups."
+msgstr "Projektet e krijuar në bazë të grupeve ."
+
+msgid "users registered on website."
+msgstr "Përdoruesit e regjistruar në faqen e internetit ."
+
+msgid "New email"
+msgstr "Albumi i ri"
+
+msgid "Confirm email"
+msgstr "Konfirmo email"
+
+msgid "New password"
+msgstr "fjalëkalimi i ri"
+
+msgid "Confirm password"
+msgstr "Konfirmo fjalëkalimin"
+
+msgid "Occupation"
+msgstr "Specialiteti"
+
+msgid "Timezone"
+msgstr "Ora"
+
+msgid "Answer"
+msgstr "përgjigje"
+
+msgid "Articles"
+msgstr "Artikuj"
+
+msgid "Article"
+msgstr "artikull"
+
+msgid "Video-article"
+msgstr "Video - artikull"
+
+msgid "Find article..."
+msgstr "Gjej artikull ..."
+
+msgid "Politics"
+msgstr "politikë"
+
+msgid "Economics"
+msgstr "ekonomi"
+
+msgid "Community"
+msgstr "Komuniteti"
+
+msgid "Culture"
+msgstr "kulturë"
+
+msgid "Sports"
+msgstr "sportiv"
+
+msgid "Hi-tech"
+msgstr "Hi-tech"
+
+msgid "Cars"
+msgstr "makina"
+
+msgid "Fashion"
+msgstr "modës"
+
+msgid "Games"
+msgstr "Lojërat"
+
+msgid "Other"
+msgstr "tjetri"
+
+msgid "Invalid mediafile"
+msgstr "mediafile pavlefshme"
+
+msgid "No articles in this category yet"
+msgstr "Nuk ka artikuj në këtë kategori ende"
+
+msgid "Back to profile"
+msgstr "Kthehu tek profili"
+
+msgid "View article"
+msgstr "Shiko artikullin"
+
+msgid "Edit article"
+msgstr "Edit artikull"
+
+msgid "Create article"
+msgstr "Krijo artikull"
+
+msgid "Article title"
+msgstr "Titulli i Artikullit"
+
+msgid "Article section"
+msgstr "Neni seksion"
+
+msgid "Choose image"
+msgstr "të zgjedhur imazhin"
+
+msgid "Save and upload"
+msgstr "Ruaj dhe ngarkoni"
+
+msgid "Show more..."
+msgstr "Trego më shumë ..."
+
+msgid "Create"
+msgstr "krijoj"
+
+msgid "Edit"
+msgstr "redaktoj"
+
+msgid "Project"
+msgstr "projekt"
+
+msgid "Team"
+msgstr "ekip"
+
+msgid "A new article was published"
+msgstr "Një artikull i ri është publikuar"
+
+msgid "You joined this project"
+msgstr "Ju bashkua këtë projekt"
+
+msgid "Enter your information in the User settings"
+msgstr "Shkruani të dhënat tuaja në vetitë e përdoruesve"
+
+msgid "Communities"
+msgstr "komunitetet"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Prezantimi Video nga arritjet e mia"
+
+msgid "My articles"
+msgstr "artikujt e mia"
+
+msgid "User"
+msgstr "përdorues"
+
+msgid "Users"
+msgstr "përdoruesit"
+
+msgid "Add new list"
+msgstr "Shtoni listën e re"
+
+msgid "List title"
+msgstr "Titulli lista"
+
+msgid "Add"
+msgstr "Shto"
+
+msgid "Add to favorites"
+msgstr "Shtoni në të preferuarat"
+
+msgid "Delete from favorites"
+msgstr "Fshij nga të preferuarat"
+
+msgid "Select list"
+msgstr "Zgjidh lista"
+
+msgid "Subscriptions"
+msgstr "Abonimet"
+
+msgid "Subscribe"
+msgstr "Subscribe"
+
+msgid "Unsubscribe"
+msgstr "unsubscribe"
+
+msgid "General list"
+msgstr "Lista Përgjithshme"
+
+msgid "No users in this list"
+msgstr "Asnjë përdorues në këtë listë"
+
+msgid "Publish"
+msgstr "publikoj"
+
+msgid "Unpublish"
+msgstr "Unpublish"
+
+msgid "Add user"
+msgstr "Shto përdorues"
+
+msgid "Create document"
+msgstr "Krijo dokument"
+
+msgid "Edit document"
+msgstr "ndrysho dokument"
+
+msgid "View"
+msgstr "pikëpamje"
+
+msgid "Document title"
+msgstr "Titulli dokument"
+
+msgid "Find document..."
+msgstr "Gjej dokument ..."
+
+msgid "Share your thoughts"
+msgstr "Ndani mendimet tuaja"
+
+msgid "Leave your comment"
+msgstr "Lini komentin tuaj"
+
+msgid "Accept"
+msgstr "pranoj"
+
+msgid "Decline"
+msgstr "rënie"
+
+msgid "Add article"
+msgstr "Shto artikull"
+
+msgid "Link to verified accomplishments"
+msgstr "Link të arritjeve të verifikuara"
+
+msgid "No articles here yet..."
+msgstr "Ende ka artikuj këtu ..."
+
+msgid "Find file or folder..."
+msgstr "Gjej skedar apo dosje ..."
+
+msgid "Sort"
+msgstr "lloj"
+
+msgid "By name"
+msgstr "sipas emrit"
+
+msgid "By date"
+msgstr "sipas datës"
+
+msgid "By updated date"
+msgstr "Nga data updated"
+
+msgid "By size"
+msgstr "nga madhësia"
+
+msgid "By type"
+msgstr "sipas llojit"
+
+msgid "Move"
+msgstr "veprim"
+
+msgid "File Manager"
+msgstr "File Manager"
+
+msgid "Share link"
+msgstr "Share lidhje"
+
+msgid "Responsible"
+msgstr "përgjegjës"
+
+msgid "Performer"
+msgstr "interpretues"
+
+msgid "New Folder"
+msgstr "dosje të re"
+
+msgid "Folder name"
+msgstr "Emri dosje"
+
+msgid "By default"
+msgstr "By default"
+
+msgid "Back to group"
+msgstr "Kthehu tek grupi"
+
+msgid "year(s)"
+msgstr "vit (s)"
+
+msgid "January"
+msgstr "janar"
+
+msgid "February"
+msgstr "shkurt"
+
+msgid "March"
+msgstr "mars"
+
+msgid "April"
+msgstr "prill"
+
+msgid "May"
+msgstr "Mund"
+
+msgid "June"
+msgstr "qershor"
+
+msgid "July"
+msgstr "korrik"
+
+msgid "August"
+msgstr "gusht"
+
+msgid "September"
+msgstr "shtator"
+
+msgid "October"
+msgstr "tetor"
+
+msgid "November"
+msgstr "nëntor"
+
+msgid "December"
+msgstr "dhjetor"
+
+msgid "Password Reminder"
+msgstr "Kujtesë fjalë-kalimi"
+
+msgid "Log In"
+msgstr "log In"
+
+msgid "Sign in"
+msgstr "Hyni"
+
+msgid "Register"
+msgstr "Regjistrohu"
+
+msgid "First name"
+msgstr "Emri"
+
+msgid "Last name"
+msgstr "Mbiemri"
+
+msgid "I agree with rules"
+msgstr "Unë pajtohem me rregullat e"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Një email vërtetimi është dërguar tek adresa juaj e postës elektronike."
+
+msgid "Thanks"
+msgstr "Faleminderit"
+
+msgid "Password must be at least 6 characters"
+msgstr "Fjalëkalimi duhet të jetë të paktën 6 karaktere"
+
+msgid "Creative Environment"
+msgstr "Mjedisi Creative"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Ju duhet të jetë të paktën trembëdhjetë vjeç për të përdorur këtë shërbim"
+
+msgid "Order status"
+msgstr "Statusi Rendit"
+
+msgid "Processing order"
+msgstr "qëllim të përpunimit"
+
+msgid "Requires a payment"
+msgstr "Kërkon një pagesë"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Ready"
+msgstr "gati"
+
+msgid "Thank you for your payment"
+msgstr "Faleminderit për pagesën tuaj"
+
+msgid "Your payment has been cancelled"
+msgstr "Pagesa juaj është anuluar"
+
+msgid "page"
+msgstr "faqe"
+
+msgid "Rent period"
+msgstr "periudha qira"
+
+msgid "Total, month"
+msgstr "Gjithsej, muaj"
+
+msgid "Order items"
+msgstr "artikuj Order"
+
+msgid "No records found"
+msgstr "Ka të dhëna gjetur"
+
+msgid "User with this email is already exist"
+msgstr "Përdoruesi me këtë e-mail është tashmë ekzistojnë"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Dosje ose skedar me emër të tillë tashmë ekzistojnë në dosjen e destinacionit"
+
+msgid "Minimal quantity"
+msgstr "sasia minimale"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "kopje të shtypura"
+
+msgid "Terms of Use"
+msgstr "Kushtet e Përdorimit"
+
+msgid "Privacy Policy"
+msgstr "Politika e privatësisë"
+
+msgid "Find project..."
+msgstr "Gjej projekt ..."
+
+msgid "New Project"
+msgstr "Projekti i ri"
+
+msgid "Accounts"
+msgstr "llogaritë"
+
+msgid "Operations"
+msgstr "operacionet"
+
+msgid "All accounts"
+msgstr "Të gjitha llogaritë"
+
+msgid "All categories"
+msgstr "Të gjitha kategoritë"
+
+msgid "Expense"
+msgstr "shpenzim"
+
+msgid "Income"
+msgstr "të ardhura"
+
+msgid "Transfer"
+msgstr "transferim"
+
+msgid "Expense"
+msgstr "shpenzim"
+
+msgid "income"
+msgstr "të ardhura"
+
+msgid "tax"
+msgstr "taksë"
+
+msgid "percent"
+msgstr "përqind"
+
+msgid "transfer"
+msgstr "transferim"
+
+msgid "Make operation"
+msgstr "bëni operacion"
+
+msgid "Select date"
+msgstr "Zgjidh data"
+
+msgid "Select account"
+msgstr "Zgjidh llogari"
+
+msgid "Month"
+msgstr "muaj"
+
+msgid "Quarter"
+msgstr "çerek"
+
+msgid "Year"
+msgstr "vit"
+
+msgid "From"
+msgstr "nga"
+
+msgid "To"
+msgstr "në"
+
+msgid "Expense amount"
+msgstr "shuma e shpenzim"
+
+msgid "Categories"
+msgstr "Temat"
+
+msgid "Comments"
+msgstr "komente"
+
+msgid "Income amount"
+msgstr "shuma e të ardhurave"
+
+msgid "Transfer amount"
+msgstr "shuma e transferimit të"
+
+msgid "From account"
+msgstr "nga llogaria"
+
+msgid "To account"
+msgstr "në llogari"
+
+msgid "New Account"
+msgstr "Llogari e re"
+
+msgid "New Category"
+msgstr "Kategoria e re"
+
+msgid "All"
+msgstr "të gjithë"
+
+msgid "Name"
+msgstr "emër"
+
+msgid "Enter category name"
+msgstr "Shkruani emrin kategori"
+
+msgid "Select type"
+msgstr "Zgjidh llojin"
+
+msgid "Credit card"
+msgstr "Kartë Krediti"
+
+msgid "Debit card"
+msgstr "Kartë debiti"
+
+msgid "Bank account"
+msgstr "llogari bankare"
+
+msgid "Cash"
+msgstr "para në dorë"
+
+msgid "Balance is empty"
+msgstr "Bilanci është bosh"
+
+msgid "Statistic is empty"
+msgstr "Statistikë është bosh"
+
+msgid "Regular payments"
+msgstr "pagesat e rregullta"
+
+msgid "Are you sure ?"
+msgstr "A je i sigurt ?"
+
+msgid "Are you sure to close this project?"
+msgstr "A jeni i sigurt për të mbyllur këtë projekt ?"
+
+msgid "Project was deleted successfully"
+msgstr "Projekt u hoq"
+
+msgid "Select currency"
+msgstr "Zgjidh monedhën"
+
+msgid "Account"
+msgstr "llogari"
+
+msgid "Orders list"
+msgstr "Lista urdhërat"
+
+msgid "Order payments"
+msgstr "pagesat e Rendit"
+
+msgid "View order"
+msgstr "Order"
+
+msgid "No response from Printer API"
+msgstr "Asnjë përgjigje nga Printer API"
+
+msgid "Bad response from Printer API"
+msgstr "Përgjigje të këqija nga Printer API"
+
+msgid "User ID"
+msgstr "User ID"
+
+msgid "Contact Person"
+msgstr "Personi i kontaktit"
+
+msgid "No orders to process"
+msgstr "Asnjë urdhër për të përpunuar"
+
+msgid "Article announce image"
+msgstr "Neni shpall imazhin"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Url pavlefshme Video . Lini bosh ose futur YouTube URL të vlefshme"
+
+msgid "Please, enter Contractor data"
+msgstr "Ju lutem, shkruani të dhënat e Kontraktuesit"
+
+msgid "Distribute devices"
+msgstr "Ndahet pajisje"
+
+msgid "Quantity"
+msgstr "sasi"
+
+msgid "Devices left"
+msgstr "Devices la"
+
+msgid "Distributed devices"
+msgstr "pajisjet shpërndarë"
+
+msgid "You must enter quantity"
+msgstr "Ju duhet të hyjë sasi"
+
+msgid "All devices are distributed"
+msgstr "Të gjitha pajisjet janë të shpërndara"
+
+msgid "IP address"
+msgstr "adresa IP"
+
+msgid "Only for printer"
+msgstr "Vetëm për printer"
+
+msgid "Counter"
+msgstr "kundër"
+
+msgid "You was excluded from this room"
+msgstr "Ju u përjashtua nga kjo dhomë"
+
+msgid "Compare"
+msgstr "Krahaso"
+
+msgid "Scheduled transaction"
+msgstr "transaksion Scheduled"
+
+msgid "Select transfer account"
+msgstr "Zgjidh transferim llogari"
+
+msgid "Select income account"
+msgstr "Zgjidh llogaria e të ardhurave"
+
+msgid "Reports"
+msgstr "raportet"
+
+msgid "Goals"
+msgstr "qëllimet"
+
+msgid "Budgets"
+msgstr "buxhetet"
+
+msgid "Enter user name or email..."
+msgstr "Futni emrin e përdoruesit ose e-mail ..."
+
+msgid "Invite had been sended"
+msgstr "Fto kishte qenë sended"
+
+msgid "Statistics"
+msgstr "të dhëna statistikore"
+
+msgid "Updated site began to work"
+msgstr "Faqe Përditësuar filloi të punojë"
+
+msgid "City of residence"
+msgstr "Qyteti i banimit"
+
+msgid "Edit favourites list"
+msgstr "Lista Ndrysho preferuarat"
+
+msgid "Add favourites list"
+msgstr "Shtoni listën preferuarat"
+
+msgid "Categories is required"
+msgstr "Kategoritë është e nevojshme"
+
+msgid "Type new category name and hit Enter"
+msgstr "Shkruani emrin e ri kategorisë dhe hit Enter"
+
+msgid "You created an order"
+msgstr "Keni krijuar një urdhër"
+
+msgid "You received a device due to this order"
+msgstr "Ju mori një pajisje për shkak të këtij urdhri"
+
+msgid "%s attached %s to task %s"
+msgstr "%s %s bashkangjitur në detyrë %s"
+
+msgid "member(s)"
+msgstr "anëtar (s)"
+
+msgid "%s commented task %s"
+msgstr "%s detyrë komentoi %s"
+
+msgid "%s closed task %s"
+msgstr "%s detyrë të mbyllura %s"
+
+msgid "%s created task %s"
+msgstr "%s detyrë krijuar %s"
+
+msgid "%s created this project"
+msgstr "%s krijuar këtë projekt"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s nënprojekt krijuar \" %s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s projekt i mbyllur \" %s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s nënprojekt mbyllur \" %s \""
+
+msgid "This field must not be blank"
+msgstr "Kjo fushë nuk duhet të jetë bosh"
+
+msgid "Document with such name is already exist"
+msgstr "Dokument me emër të tillë tashmë ekzistojnë"
+
+msgid "Wait until image upload"
+msgstr "Prisni derisa imazhin Ngarkoni"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Message can not be empty"
+msgstr "Mesazhi nuk mund të jetë bosh"
+
+msgid "Yes"
+msgstr "po"
+
+msgid "No"
+msgstr "asnjë"
+
+msgid "Created"
+msgstr "krijuar"
+
+msgid "Compare is empty"
+msgstr "Krahaso është bosh"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Jeni te sigurte qe doni te fshini operacion"
+
+msgid "Do you really want to delete transaction"
+msgstr "A jeni të vërtetë dëshironi të fshini transaksion"
+
+msgid "Project with same name already exists"
+msgstr "Projekt me të njëjtin emër ekziston"
+
+msgid "Account is not found"
+msgstr "Llogaria nuk është gjetur"
+
+msgid "Currency is required"
+msgstr "Valuta është e nevojshme"
+
+msgid "error while deleting document"
+msgstr "Gabim gjatë fshirjes së dokumentit"
+
+msgid "Expences"
+msgstr "gjithmbarshme"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Ju ftoi përdoruesit \"%s\" në këtë dhomë"
+
+msgid "User \"%s\" joined this room"
+msgstr "Përdoruesi \" %s \" u bashkua me këtë dhomë"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Ju përjashtuar përdoruesit \"%s\" nga kjo dhomë"
+
+msgid "User \"%s\" left this room"
+msgstr "Përdoruesi \" %s \" la këtë dhomë"
+
+msgid "Add account"
+msgstr "Shto llogarinë"
+
+msgid "The requested page is not found"
+msgstr "Faqja që kërkuat nuk është gjetur"
+
+msgid "Document"
+msgstr "dokument"
+
+msgid "Table"
+msgstr "tryezë"
+
+msgid "file(s)"
+msgstr "file ( s )"
+
+msgid "Residue"
+msgstr "mbetje"
+
+msgid "Result is empty"
+msgstr "Rezultati është bosh"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Shuma totale është %s për %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Ju duhet të depozitojnë %s mujore në llogarinë lidhur"
+
+msgid "Start"
+msgstr "fillim"
+
+msgid "finish"
+msgstr "finish"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Llogaria zgjedhur është tashmë në përdorim për një gol tjetër"
+
+msgid "Amount required"
+msgstr "shuma e kërkuar"
+
+msgid "New goal"
+msgstr "Qëllimi i ri"
+
+msgid "Goal"
+msgstr "gol"
+
+msgid "Goal name"
+msgstr "Emri Goal"
+
+msgid "Invalid date"
+msgstr "data e pavlefshme"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Shumën e nevojshme duhet të jetë një numër pozitiv"
+
+msgid "Remain"
+msgstr "qëndroj"
+
+msgid "Last day"
+msgstr "Dita e fundit"
+
+msgid "Accumulated"
+msgstr "akumuluar"
+
+msgid "Put aside"
+msgstr "Vendos mënjanë"
+
+msgid "January"
+msgstr "janar"
+
+msgid "February"
+msgstr "shkurt"
+
+msgid "March"
+msgstr "mars"
+
+msgid "April"
+msgstr "prill"
+
+msgid "May"
+msgstr "Mund"
+
+msgid "June"
+msgstr "qershor"
+
+msgid "July"
+msgstr "korrik"
+
+msgid "August"
+msgstr "gusht"
+
+msgid "September"
+msgstr "shtator"
+
+msgid "October"
+msgstr "tetor"
+
+msgid "November"
+msgstr "nëntor"
+
+msgid "December"
+msgstr "dhjetor"
+
+msgid "Expenses projected/actual"
+msgstr "Shpenzimet projektuar / aktuale"
+
+msgid "Net Income projected/actual"
+msgstr "Të ardhurat neto të projektuara / aktual"
+
+msgid "New budget"
+msgstr "buxheti i ri"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Të ardhurat dhe Shpenzimet Grafiku"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Buxheti me të njëjtën palë e llogarisë dhe kategori tashmë ekziston"
+
+msgid "Budget is empty"
+msgstr "Buxheti është bosh"
+
+msgid "Budget"
+msgstr "buxheti"
+
+msgid "plan"
+msgstr "plan"
+
+msgid "fact"
+msgstr "fakt"
+
+msgid "diff"
+msgstr "ndrysh"
+
+msgid "Show More"
+msgstr "Trego më shumë"
+
+msgid "Cancel"
+msgstr "anuloj"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "orë"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "shitjet e mia"
+
+msgid "Time spent"
+msgstr "Koha e kaluar"
+
+msgid "Total time spent"
+msgstr "Koha totale që shpenzonin"
+
+msgid "Earnings per hour"
+msgstr "Fitimet në orë"
+
+msgid "Total earnings"
+msgstr "Gjithsej të ardhurat"
+
+msgid "Call"
+msgstr "thirrje"
+
+msgid "Phone call"
+msgstr "Telefonatë"
+
+msgid "Telephone calls"
+msgstr "thirrjet telefonike"
+
+msgid "Send email"
+msgstr "Dërgoni një email"
+
+msgid "Emails"
+msgstr "Emails"
+
+msgid "Meeting"
+msgstr "takim"
+
+msgid "Meetings"
+msgstr "Takimet"
+
+msgid "All events"
+msgstr "Të gjitha ngjarjet"
+
+msgid "Task"
+msgstr "detyrë"
+
+msgid "Event"
+msgstr "ngjarje"
+
+msgid "Events"
+msgstr "Ngjarje"
+
+msgid "Time"
+msgstr "kohë"
+
+msgid "Events statistics"
+msgstr "Ngjarje statistikat"
+
+msgid "days"
+msgstr "ditë"
+
+msgid "hours"
+msgstr "orë"
+
+msgid "minutes"
+msgstr "minuta"
+
+msgid "Income & expense"
+msgstr "Të ardhurat dhe shpenzimet e"
+
+msgid "Show chart"
+msgstr "tabelë tregojnë"
+
+msgid "Hide chart"
+msgstr "tabelë Fshih"
+
+msgid "Add event"
+msgstr "Shto ngjarje"
+
+msgid "Add financial data"
+msgstr "Shto të dhënat financiare"
+
+msgid "Select contractor"
+msgstr "Zgjidh kontraktori"
+
+msgid "Net Income"
+msgstr "Të ardhurat neto"
+
+msgid "Revenue"
+msgstr "Të ardhurat"
+
+msgid "Taxes"
+msgstr "Tatimet"
+
+msgid "Amount planned"
+msgstr "shuma e planifikuar"
+
+msgid "Amount"
+msgstr "sasi"
+
+msgid "Period"
+msgstr "periudhë"
+
+msgid "Are you sure to close this task?"
+msgstr "A jeni i sigurt për të mbyllur këtë detyrë ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "Të gjitha grupet"
+
+msgid "added from task"
+msgstr "shtuar nga detyra"
+
+msgid "Monthly repeat"
+msgstr "përsëritje mujore"
+
+msgid "Select category"
+msgstr "Zgjidhni kategori"
+
+msgid "Event type"
+msgstr "lloj ngjarje"
+
+msgid "Margin"
+msgstr "diferencë"
+
+msgid "Use finance project"
+msgstr "Përdorni projektin e financave"
+
+msgid "New investment project"
+msgstr "Projekt i ri investim"
+
+msgid "Investment project settings"
+msgstr "Cilësimet projekt investimi"
+
+msgid "Picture, for the announcement project"
+msgstr "Foto , për projektin e shpalljes"
+
+msgid "Announcement project"
+msgstr "Projekti Lajmërim"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Photos or videos gallery"
+msgstr "Foto ose video galeri"
+
+msgid "required amount"
+msgstr "shuma e kërkuar"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Kohëzgjatja e projektit ( maksimumi 60 ditë )"
+
+msgid "Project duration"
+msgstr "kohëzgjatja e projektit"
+
+msgid "Add reward"
+msgstr "Shto shpërblim"
+
+msgid "Delivery date"
+msgstr "Data e dërgesës"
+
+msgid "Payment systems"
+msgstr "sistemet e pagesave"
+
+msgid "Terms of service"
+msgstr "Kushtet e shërbimit"
+
+msgid "Agreement"
+msgstr "marrëveshje"
+
+msgid "Payment"
+msgstr "pagesa"
+
+msgid "My projects"
+msgstr "projektet e mia"
+
+msgid "Search result"
+msgstr "Rezultati i kërkimit"
+
+msgid "Nothing not found"
+msgstr "Asgjë nuk u gjet"
+
+msgid "The project has no sponsors"
+msgstr "Projekti ka sponsorë"
+
+msgid "Design"
+msgstr "dizajni"
+
+msgid "Food"
+msgstr "ushqim"
+
+msgid "Journalism"
+msgstr "gazetari"
+
+msgid "Games"
+msgstr "Lojërat"
+
+msgid "Art"
+msgstr "art"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "muzikë"
+
+msgid "Handicrafts"
+msgstr "zejtarisë"
+
+msgid "Publishing"
+msgstr "Botime"
+
+msgid "Theater"
+msgstr "teatër"
+
+msgid "Technology"
+msgstr "teknologji"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "foto"
+
+msgid "Dance"
+msgstr "valle"
+
+msgid "Invalid youtube video"
+msgstr "Pavlefshme youtube video"
+
+msgid "is required"
+msgstr "Kërkohet"
+
+msgid "User"
+msgstr "përdorues"
+
+msgid "Date"
+msgstr "data"
+
+msgid "Collected"
+msgstr "i mbledhur"
+
+msgid "Choose period"
+msgstr "zgjidhni periudhën"
+
+msgid "Choose region"
+msgstr "zgjidhni qytetin"
+
+msgid "Country"
+msgstr "vend"
+
+msgid "Today"
+msgstr "sot"
+
+msgid "Week"
+msgstr "javë"
+
+msgid "Month"
+msgstr "muaj"
+
+msgid "Year"
+msgstr "vit"
+
+msgid "Free registration"
+msgstr "regjistrim falas"
+
+msgid "Join"
+msgstr "Join"
+
+msgid "Log in using"
+msgstr "Identifikohu duke përdorur"
+
+msgid "Vacancies"
+msgstr "mundësitë e punësimit"
+
+msgid "About Us"
+msgstr "Rreth Nesh"
+
+msgid "You will need email to log in"
+msgstr "Ju do të duhet të identifikohesh për email"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Një kombinim i 6 shifra dhe karaktere"
+
+msgid "Search users, groups, articles..."
+msgstr "Kërko përdoruesit , grupet , artikuj ..."
+
+msgid "Cloud"
+msgstr "re"
+
+msgid "Sunday"
+msgstr "e diel"
+
+msgid "Monday"
+msgstr "e hënë"
+
+msgid "Tuesday"
+msgstr "e martë"
+
+msgid "Wednesday"
+msgstr "e mërkurë"
+
+msgid "Thursday"
+msgstr "e enjte"
+
+msgid "Friday"
+msgstr "e premte"
+
+msgid "Saturday"
+msgstr "e shtunë"
+
+msgid "Edit"
+msgstr "redaktoj"
+
+msgid "Create group"
+msgstr "Krijo grupin"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Jeni te sigurte qe doni për të lënë këtë faqe ?"
+
+msgid "More"
+msgstr "më shumë"
+
+msgid "Less"
+msgstr "më pak"
+
+msgid "Pending"
+msgstr "në pritje të"
+
+msgid "Approved"
+msgstr "i miratuar"
+
+msgid "Rejected"
+msgstr "refuzuar"
+
+msgid "Subprojects"
+msgstr "nënprojekte"
+
+msgid "Group edit"
+msgstr "grup edit"
+
+msgid "Startup"
+msgstr "Startup"
+
+msgid "Tattoo"
+msgstr "tatuazh"
+
+msgid "Health"
+msgstr "shëndetësor"
+
+msgid "Weapon"
+msgstr "armë"
+
+msgid "Astronomy"
+msgstr "astronomi"
+
+msgid "All articles"
+msgstr "Të gjithë artikujt"
+
+msgid "Article editor"
+msgstr "Neni redaktor"
+
+msgid "Document editor"
+msgstr "redaktor dokument"
+
+msgid "Apply changes"
+msgstr "aplikoni ndryshimeve"
+
+msgid "Save changes?"
+msgstr "Ruaj ndryshimet?"
+
+msgid "published an article"
+msgstr "botoi një artikull"
+
+msgid "Users"
+msgstr "përdoruesit"
+
+msgid "Shared With Me"
+msgstr "Ndau me mua"
+
+msgid "share"
+msgstr "aksion"
+
+msgid "Select Group Responsible"
+msgstr "Zgjidh Grupi Përgjegjës"
+
+msgid "Create folder"
+msgstr "Krijo dosje"
+
+msgid "Title must be at least 3 characters"
+msgstr "Titulli duhet të jetë së paku 3 karaktere"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Pa pagesë 10 GB , menaxher i financave , të investojnë modul , dhe shumë të tjera për të lira dhe përgjithmonë"
+
+msgid "Best regards"
+msgstr "Të fala"
+
+msgid "Updates in last 12 hours:"
+msgstr "Updates në 12 orët e fundit:"
+
+msgid "expense"
+msgstr "shpenzim"
+
+msgid "Commentary on the event:"
+msgstr "Komentari mbi ngjarjen :"
+
+msgid "Event place"
+msgstr "vend ngjarje"
+
+msgid "Project was updated"
+msgstr "Projekt u përditësua"
+
+msgid "Project was created"
+msgstr "Projekt u krijua"
+
+msgid "Project was closed"
+msgstr "Projekt u mbyll"
+
+msgid "account"
+msgstr "llogari"
+
+msgid "removed task"
+msgstr "Detyra hequr"
+
+msgid "removed subproject"
+msgstr "nënprojekti hequr"
+
+msgid "Title can not be empty"
+msgstr "Titulli nuk mund të jetë bosh"
+
+msgid "Do not select the type of event"
+msgstr "Mos zgjidhni llojin e ngjarjes"
+
+msgid "Error while saving comment"
+msgstr "Gabim gjatë ruajtjes koment"
+
+msgid "Save error: access denied"
+msgstr "Ruaj gabim : qasja mohuar"
+
+msgid "Remains"
+msgstr "mbetjet"
+
+msgid "Time spent, h."
+msgstr "Koha e kaluar , h ."
+
+msgid "Emails"
+msgstr "Emails"
+
+msgid "Meetings"
+msgstr "Takimet"
+
+msgid "All users"
+msgstr "Te gjithe perdoruesit"
+
+msgid "Category"
+msgstr "kategori"
+
+msgid "Finance project"
+msgstr "Projekti i financave"
+
+msgid "Investment project"
+msgstr "Projekti i investimit"
+
+msgid "Nature"
+msgstr "natyra"
+
+msgid "Data is empty"
+msgstr "Të dhënat është bosh"
+
+msgid "Visitors"
+msgstr "vizitorët"
+
+msgid "My profile"
+msgstr "Profili im"
+
+msgid "Sponsors"
+msgstr "sponsorët"
+
+msgid "Prior to completion"
+msgstr "Para përfundimit"
+
+msgid "Select"
+msgstr "përzgjedh"
+
+msgid "My groups"
+msgstr "grupet e mia"
+
+msgid "The invitation has been sent successfully"
+msgstr "Ftesa u dërgua me sukses"
+
+msgid "Username has already been invited to this project"
+msgstr "Emri i përdoruesit tashmë është ftuar në këtë projekt"
+
+msgid "The user is the creator of the project"
+msgstr "Ky përdorues është krijuesi i projektit"
+
+msgid "Provide full access"
+msgstr "Të sigurojë qasje të plotë"
+
+msgid "Select elements to provide access"
+msgstr "Zgjidhni elementet për të siguruar qasje"
+
+msgid "Select all"
+msgstr "Selektoj të gjitha"
+
+msgid "User E-mail"
+msgstr "User E-mail"
+
+msgid "Click on the field to select a category"
+msgstr "Kliko në fushë për të zgjedhur një kategori"
+
+msgid "Invitation was deleted"
+msgstr "Ftesë është fshirë"
+
+msgid "Permission denied"
+msgstr "leja mohoi"
+
+msgid "Printed"
+msgstr "i shtypur"
+
+msgid "Incorrect Contractor email"
+msgstr "Albumi i pasaktë Kontraktor"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "A doni të shtoni projektit të financuar menaxher ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Për të përfunduar procesin e regjistrimit ju lutemi plotësoni poshtë aftësitë tuaja"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Një postë me udhëzime të mëtejshme është dërguar në adresën tuaj e-mail"
+
+msgid "Submit"
+msgstr "paraqes"
+
+msgid "Cars"
+msgstr "makina"
+
+msgid "Science"
+msgstr "shkencë"
+
+msgid "Donation"
+msgstr "dhurim"
+
+msgid "Interests"
+msgstr "interesat"
+
+msgid "Driver"
+msgstr "shofer"
+
+msgid "Sportsman"
+msgstr "sportist"
+
+msgid "Businessman"
+msgstr "biznesmen"
+
+msgid "Accountant"
+msgstr "llogaritar"
+
+msgid "Engineer"
+msgstr "inxhinier"
+
+msgid "Soldier"
+msgstr "ushtar"
+
+msgid "Next"
+msgstr "tjetër"
+
+msgid "Hide group"
+msgstr "grupi Fshih"
+
+msgid "groups created"
+msgstr "grupet e krijuar"
+
+msgid "articles written"
+msgstr "artikuj të shkruar"
+
+msgid "These groups may be interesting for you"
+msgstr "Këto grupe mund të jenë interesante për ju"
+
+msgid "About Group"
+msgstr "Rreth Grupit"
+
+msgid "view(s)"
+msgstr "View (s )"
+
+msgid "Favorite users"
+msgstr "përdoruesit e preferuar"
+
+msgid "No accounts"
+msgstr "Nuk ka llogari"
+
+msgid "Facebook authorization failed."
+msgstr "Autorizim facebook dështuar ."
+
+msgid "Authorization Required"
+msgstr "autorizimin e kërkuar"
+
+msgid "You have to make a call:"
+msgstr "Ju duhet të bëni një telefonatë :"
+
+msgid "You have to send an email:"
+msgstr "Ju duhet të dërgoni një e-mail :"
+
+msgid "You have a meetup:"
+msgstr "Ju keni një Meetup :"
+
+msgid "You event :"
+msgstr "You ngjarje :"
+
+msgid "Participants:"
+msgstr "pjesëmarrësit :"
+
+msgid "Search"
+msgstr "Kërko"
+
+msgid "News"
+msgstr "lajm"
+
+msgid "Investments"
+msgstr "investimet"
+
+msgid "Back to Cloud"
+msgstr "Mbrapsht në Cloud"
+
+msgid "Documents"
+msgstr "dokumentet"
+
+msgid "Planet"
+msgstr "planet"
+
+msgid "Group url"
+msgstr "url grup"
+
+msgid "Profile url"
+msgstr "url profilin"
+
+msgid "Already taken"
+msgstr "marrë tashmë"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Të paktën 1 letër dhe 3 gjatësia chars nevojshme"
+
+msgid "Digit can not be the first character"
+msgstr "Digit nuk mund të jetë karakteri i parë"
+
+msgid "Enter valid email address"
+msgstr "Shkruani adresë e vlefshme email"
+
+msgid "Enter your skills"
+msgstr "Shkruani aftësitë tuaja"
+
+msgid "Enter your first name"
+msgstr "Shkruani emrin tuaj të parë"
+
+msgid "Enter your last name"
+msgstr "Shkruani emrin tuaj të fundit"
+
+msgid "Enter your first name and last name"
+msgstr "Shkruani emrin tuaj të parë dhe mbiemri"
+
+msgid "Your first name?"
+msgstr "Emri juaj i parë ?"
+
+msgid "Your last name?"
+msgstr "Emri juaj e fundit ?"
+
+msgid "What are your proficiencies?"
+msgstr "Cilat janë aftësimet e tua ?"
+
+msgid "Select country"
+msgstr "Zgjidh vendi"
+
+msgid "Select user"
+msgstr "Zgjidh përdorues"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Të përmbushur ëndrrën tuaj ! Krijo dhe të bashkëpunojnë ."
+
+msgid "date moved from"
+msgstr "datë u zhvendos nga"
+
+msgid "work"
+msgstr "punë"
+
+msgid "Conference"
+msgstr "konferencë"
+
+msgid "personal"
+msgstr "personal"
+
+msgid "Holiday"
+msgstr "festë"
+
+msgid "Past"
+msgstr "E kaluara"
+
+msgid "Future"
+msgstr "I ardhshëm"
+
+msgid "Purchase"
+msgstr "Blerje"
+
+msgid "Personal events"
+msgstr "Ngjarjet private"
+
+msgid "Conferences"
+msgstr "Takim"
+
+msgid "Holidays"
+msgstr "Pushime"
+
+msgid "Sport events"
+msgstr "Ngjarjet sportive"
+
+msgid "Tasks"
+msgstr "Detyrat"
+
+msgid "Other events"
+msgstr "Ngjarje të tjera"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Shtyrë"
+
+msgid "Time management"
+msgstr "Time Management"
+
+msgid "Delayed events"
+msgstr "Ngjarjet e shtyra"
+
+msgid "Delayed"
+msgstr "Shtyrë"
+
+msgid "Bind to"
+msgstr "Caktoj"
+
+msgid "answered your comment to"
+msgstr "Unë i thashë (a) Koment mbi artikullin"
+
+msgid "commented your article"
+msgstr "Unë komentoi mbi artikullin tuaj"
+
+msgid "You\'ve answered on comment to"
+msgstr "Ju përgjigjur të komentuar mbi artikullin"
+
+msgid "You\'ve commented an article"
+msgstr "Ju komentoi mbi artikullin"
+
+msgid "Terms and Conditions"
+msgstr "Termat dhe Kushtet"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Duke klikuar mbi \"regjistrohu\" jeni dakord me tonë dhe pranojmë se ju keni lexuar tonë"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Join komunitetin e njerëzve krijues nga e gjithë bota! Ju do të merrni: Investimi në idetë tuaja, një mundësi për të mbledhur ekipin e tij, duke punuar në grup, menaxher financiar, menaxhimin kohën e tyre, 2 gigabajt në ruajtjen dhe më shumë. Dhe është e lirë!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Na vjen keq, por faqja e ju kërkoni nuk ekziston. Nëse ju mendoni se për të fajësuar na na kontaktoni"
+
+msgid "Return"
+msgstr "Kthimi"
+
+msgid "COMMON"
+msgstr "Totali"
+
+msgid "My events"
+msgstr "Ngjarjet e mia"
+
+msgid "Job opening"
+msgstr "Konkursi i ri"
+
+msgid "Employment"
+msgstr "Lloji i punës"
+
+msgid "Working hours"
+msgstr "Orari i punës"
+
+msgid "City"
+msgstr "Qytet"
+
+msgid "Wages"
+msgstr "Pagë"
+
+msgid "Currency"
+msgstr "Monedhë"
+
+msgid "Experience"
+msgstr "Përvojë"
+
+msgid "Full-time"
+msgstr "Punësimi i plotë"
+
+msgid "Part-time"
+msgstr "Me kohë të pjesshme"
+
+msgid "Project employment"
+msgstr "Projekt / e përkohshme"
+
+msgid "Volunteer"
+msgstr "Vullnetarizmi"
+
+msgid "Internship"
+msgstr "Trening"
+
+msgid "Full day"
+msgstr "Full Time"
+
+msgid "Shifts"
+msgstr "Orari zëvendësim"
+
+msgid "Flexible shifts"
+msgstr "Orar fleksibil"
+
+msgid "Remote work"
+msgstr "Punës në distancë"
+
+msgid "Rotational basis"
+msgstr "Metoda ndryshim"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Jeni te sigurte qe doni ta fshini këtë koment?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Jeni te sigurte qe doni ta fshini këtë detyrë?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Jeni te sigurte qe doni te fshini këtë nën-projekt?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Ju keni aplikuar për kompaninë në pozitë. Ju lutem sigurohuni që"
+
+msgid "Your request to for job has been rejected"
+msgstr "Kërkesa juaj për të kompanisë për pozicionin është refuzuar"
+
+msgid "Your request to for job has been accepted"
+msgstr "U miratua Kërkesa juaj për kompaninë në pozitë"
+
+msgid "profile is completed"
+msgstr "Profili juaj është e plotë"
+
+msgid "Use account"
+msgstr "Përdorni llogarinë"
+
+msgid "$/hr"
+msgstr "$ / Orë"
+
+msgid "Finance category"
+msgstr "Kategoria Financiare"
+
+msgid "No projects"
+msgstr "Nuk ka projekte"
+
+msgid "Bind to finances"
+msgstr "Cakto projekt financiar"
+
+msgid "Preview"
+msgstr "Pikëpamje"
+
+msgid "Download"
+msgstr "Shkarko"
+
+msgid "Save to my cloud"
+msgstr "Kopjoni depo"
+
+msgid "File successfully saved to your cloud"
+msgstr "File ruajtur me sukses në depo tuaj"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Ruaj këtë fotografi në depo tuaj?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Zgjidhni një kategori Neni"
+
+msgid "Type something"
+msgstr "Shkruaj diçka"
+
+msgid "Founded users"
+msgstr "Përdoruesit e gjetur"
+
+msgid "Founded articles"
+msgstr "Artikulli gjetur"
+
+msgid "Founded groups"
+msgstr "Grupi i themeluar"
+
+msgid "What are your skills?"
+msgstr "Cilat janë aftësitë tuaja?"
+
+msgid "Select at least 2 interests"
+msgstr "Zgjidh të paktën 2 interes"
+
+msgid "Need more interests"
+msgstr "Jo interes mjaft të zgjedhura"
+
+msgid "What are you interesting in?"
+msgstr "Cilat janë të interesuar?"
+
+msgid "You have no dialogs"
+msgstr "Ju nuk keni dialogje"
+
+msgid "Usage Stats"
+msgstr "Gjendja e"
+
+msgid "Founded files"
+msgstr "Files Found"
+
+msgid "Big tiles"
+msgstr "Pllaka të mëdha"
+
+msgid "Small tiles"
+msgstr "Pllaka të vogla"
+
+msgid "Table view"
+msgstr "Tabela view"
+
+msgid "Root folder"
+msgstr "Directory rrënjë"
+
+msgid "My files"
+msgstr "My Files"
+
+msgid "Save as draft"
+msgstr "Ruaj si Draft"
+
+msgid "Buy More Space"
+msgstr "Blej më shumë hapësirë"
+
+msgid "Buy"
+msgstr "Blej"
+
+msgid "You have been invited to group as"
+msgstr "Ju keni qenë të ftuar për grupin si një"
+
+msgid "User wants to join your group"
+msgstr "Përdoruesi dëshiron të bashkohet me grupin tuaj"
+
+msgid "Section is coming soon!"
+msgstr "Seksioni në ndërtim e sipër!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Shikime në 24 orët e fundit:"
+
+msgid "Task was updated"
+msgstr "Detyra është përditësuar"
+
+msgid "Task was closed"
+msgstr "Sfida është mbyllur"
+
+msgid "Task was created"
+msgstr "Detyra ishte vendosur"
+
+msgid "Current balance"
+msgstr "Bilanci aktual"
+
+msgid "Add funds"
+msgstr "Shto"
+
+msgid "Pay"
+msgstr "Arkë"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Ju kanë tejkaluar numrin e përpjekjeve login. Ju jeni bllokuar për 15 minuta"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Ju lutem konfirmoni e-mailin tuaj. Letra dërguar te ju me postë."
+
+msgid "Resend confirmation email"
+msgstr "Dërgo konfirmim përsëri"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB në muaj"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Drive 10 GB në vit"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB çdo vit"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1TB mujore"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Makinë 1 TB çdo vit"
+
+msgid "Project members monthly"
+msgstr "Pjesëmarrësit e projektit në baza mujore"
+
+msgid "Project members yearly"
+msgstr "Pjesëmarrësit në projekt në vit"
+
+msgid "Member(s) yearly"
+msgstr "Anëtar (ë) në vit"
+
+msgid "Member(s) monthly"
+msgstr "Anëtar (ë) në baza mujore"
+
+msgid "Authorized"
+msgstr "I autorizuar"
+
+msgid "Authorization expired"
+msgstr "Autorizimi skaduar"
+
+msgid "Processor declined"
+msgstr "Sistemi i hodhi poshtë të përpunimit të"
+
+msgid "Gateway rejected"
+msgstr "Portë refuzuar pagesës"
+
+msgid "Failed"
+msgstr "Gabim"
+
+msgid "Voided"
+msgstr "Anuloj"
+
+msgid "Submitted for settlement"
+msgstr "Dërguar për t\'u regjistruar"
+
+msgid "Settlement declined"
+msgstr "Regjistrimi është refuzuar"
+
+msgid "Settlement pending"
+msgstr "Në pritje të regjistrimit"
+
+msgid "Verified"
+msgstr "Kontrolluar"
+
+msgid "Pending"
+msgstr "Në pritje të"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Past Due"
+msgstr "Skaduar"
+
+msgid "Expired"
+msgstr "Përfundoi"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "Indi"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Thailand"
+msgstr "Tajlandë"
+
+msgid "South Korea"
+msgstr "Korea e Jugut"
+
+msgid "Kazakhstan"
+msgstr "Kazahstan"
+
+msgid "Israel"
+msgstr "Izrael"
+
+msgid "Ukraine"
+msgstr "Ukrainë"
+
+msgid "Belarus"
+msgstr "Bjellorusi"
+
+msgid "Bulgaria"
+msgstr "Bulgari"
+
+msgid "Turkey"
+msgstr "Turqi"
+
+msgid "Armenia"
+msgstr "Armeni"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Austri"
+
+msgid "Poland"
+msgstr "Poloni"
+
+msgid "Germany"
+msgstr "Gjermani"
+
+msgid "Italy"
+msgstr "Itali"
+
+msgid "Netherlands"
+msgstr "Holandë"
+
+msgid "Ireland"
+msgstr "Irlandë"
+
+msgid "United Kingdom"
+msgstr "Britani e Madhe"
+
+msgid "Portugal"
+msgstr "Portugali"
+
+msgid "Norway"
+msgstr "Norvegji"
+
+msgid "United States"
+msgstr "SHBA"
+
+msgid "Canada"
+msgstr "Kanadë"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Saudi Arabia"
+msgstr "Arabia Saudite"
+
+msgid "Canada"
+msgstr "Egjipt"
+
+msgid "Russia"
+msgstr "Rusi"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Në këtë moment, nuk ishte një transaksion të vetëm"
+
+msgid "Fulfill your dream"
+msgstr "Të përmbushur ëndrrën tuaj"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Regjistrohuni në komunitetit tonë të individëve krijues nga e gjithë bota."
+
+msgid "Create and Collaborate"
+msgstr "Krijo dhe të bashkëpunojnë"
+
+msgid "Start Dreaming"
+msgstr "Përmbushur ëndrrën TANI"
+
+msgid "or"
+msgstr "ose"
+
+msgid "Our mission:"
+msgstr "Misioni ynë:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Për të bashkuar njerëzit kreative dhe aktive për të zbatuar idetë nga e thjeshtë dhe në kërkesë të pabesueshme dhe fantastike, që mund të formësojnë të ardhmen tonë."
+
+msgid "What is Konstruktor?"
+msgstr "Çfarë është Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - është një pjesë e jetës tonë të vërtetë, e cila në mënyrë të konsiderueshme lehtëson dhe thjeshton"
+
+msgid "*business processes"
+msgstr "* proceset e biznesit"
+
+msgid "*materialization of creative ideas"
+msgstr "* realizimi i ideve kreative"
+
+msgid "*constructive cooperation"
+msgstr "* Bashkëpunimi konstruktiv"
+
+msgid "Make your dream!"
+msgstr "Bëni ëndrrën tuaj!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Këshilltar Special"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Jaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Menaxher, Software Development"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Avokat i lartë"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Projektues"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Duke klikuar në butonin \"Next\", ju jeni duke pranuar dhe duke rënë dakord me termave dhe kushteve tona, dhe ju jeni pranuar se e keni lexuar tonë Privacy Policy."
+
+msgid "Incorrect login or password."
+msgstr "Login pasaktë ose fjalëkalimin."
+
+msgid "Password must be at least 6 characters"
+msgstr "Fjalëkalimi duhet të jetë të paktën 6 karaktere"
+
+msgid "January"
+msgstr "Janar"
+
+msgid "February"
+msgstr "Shkurt"
+
+msgid "March"
+msgstr "mars"
+
+msgid "April"
+msgstr "Prill"
+
+msgid "May"
+msgstr "Mund"
+
+msgid "June"
+msgstr "Qershor"
+
+msgid "July"
+msgstr "Korrik"
+
+msgid "August"
+msgstr "Gusht"
+
+msgid "September"
+msgstr "Shtator"
+
+msgid "October"
+msgstr "Tetor"
+
+msgid "November"
+msgstr "Nëntor"
+
+msgid "December"
+msgstr "Dhjetor"
+
+msgid "Chat"
+msgstr "Bisedë"
+
+msgid "Files"
+msgstr "Files"
+
+msgid "Statistic"
+msgstr "Statistikor"
+
+msgid "Support"
+msgstr "Mbështetje"
+
+msgid "Exit"
+msgstr "Dalje"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Bjellorusi"
+
+msgid "Marketing specialist"
+msgstr "Specialist Marketingu"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Shared with me"
+msgstr "Ndau me mua"
+
+msgid "File Sharing"
+msgstr "File Sharing"
+
+msgid "Provide access by link"
+msgstr "Të sigurojë qasje me lidhje"
+
+msgid "Provide Individual access"
+msgstr "Të sigurojë qasje individuale"
+
+msgid "Provide edit access"
+msgstr "Sigurimi i qasjes redakto"
+
+msgid "Share"
+msgstr "Aksion"
+
+msgid "Files will be available only for selected users"
+msgstr "Fotografi do të jetë në dispozicion vetëm për përdoruesit e zgjedhura"
+
+msgid "With this link everyone can access to the files"
+msgstr "Me këtë lidh të gjithë mund të kenë qasje në dosjet"
+
+msgid "Search users, groups, articles..."
+msgstr "Kërko përdoruesit, grupet, artikuj ..."
+
+msgid "My Group"
+msgstr "Grupi im"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Ne"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Skedari nuk është zgjedhur"
+
+msgid "Set aside"
+msgstr "Le menjane"
+
+msgid "Event time"
+msgstr "Ora ngjarje"
+
+msgid "Work"
+msgstr "Punë"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Time spent for work:"
+msgstr "Koha për punë:"
+
+msgid "Personal time spent:"
+msgstr "Ora Personale kaluar:"
+
+msgid "Present"
+msgstr "I pranishëm"
+
+msgid "Common"
+msgstr "I përbashkët"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "Entertainment"
+msgstr "Argëtim"
+
+msgid "Select:"
+msgstr "Zgjidh:"
+
+msgid "Invalid username or password."
+msgstr "Emrin e përdoruesit apo fjalëkalimin e pavlefshme."
+
+msgid "Try again."
+msgstr "Provo përsëri."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "ÇFARË jeni të interesuar?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Zgjidh të paktën 2 aftësitë: mbetet 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Zgjidh të paktën 2 aftësitë: mbetet 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Zgjidh të paktën 2 Aftësitë: mbetjet"
+
+msgid "Active life"
+msgstr "Jeta aktive"
+
+msgid "Arts and culture"
+msgstr "Artit dhe kulturës"
+
+msgid "Business"
+msgstr "Biznes"
+
+msgid "Cinema"
+msgstr "Kinema"
+
+msgid "Communications"
+msgstr "Komunikimet"
+
+msgid "Construction and repair"
+msgstr "Ndërtimi dhe riparimi"
+
+msgid "Cooking"
+msgstr "Gatim"
+
+msgid "Education"
+msgstr "Edukim"
+
+msgid "Electronics"
+msgstr "Elektronikë"
+
+msgid "Finances"
+msgstr "Financa"
+
+msgid "Graphics and design"
+msgstr "Grafika dhe dizajn"
+
+msgid "Health"
+msgstr "Shëndetësor"
+
+msgid "Home and family"
+msgstr "SHTËPIA DHE FAMILJA"
+
+msgid "Humor"
+msgstr "Humor"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Industri"
+
+msgid "Insurance"
+msgstr "Sigurim"
+
+msgid "Literature"
+msgstr "Letërsi"
+
+msgid "Mobile communications and internet"
+msgstr "Komunikimit mobil dhe internetit"
+
+msgid "News and Media"
+msgstr "Lajme dhe Media"
+
+msgid "Pets"
+msgstr "Pets"
+
+msgid "Products and service"
+msgstr "Produkteve dhe shërbimeve"
+
+msgid "Real Estate"
+msgstr "Real Estate"
+
+msgid "Religion"
+msgstr "Fe"
+
+msgid "Science and techs"
+msgstr "Shkencë dhe techs"
+
+msgid "Security"
+msgstr "Sigurimit"
+
+msgid "Society"
+msgstr "Shoqëria"
+
+msgid "Television"
+msgstr "Televizion"
+
+msgid "Travel"
+msgstr "Udhëtim"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argjentinë"
+
+msgid "Australia"
+msgstr "Australi"
+
+msgid "Austria"
+msgstr "Austri"
+
+msgid "Belarus"
+msgstr "Bjellorusi"
+
+msgid "Belgium"
+msgstr "Belgjikë"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Bulgaria"
+msgstr "Bulgari"
+
+msgid "Canada"
+msgstr "Kanadë"
+
+msgid "Chile"
+msgstr "Kili"
+
+msgid "Denmark"
+msgstr "Danimarkë"
+
+msgid "France"
+msgstr "Francë"
+
+msgid "Germany"
+msgstr "Gjermani"
+
+msgid "Greece"
+msgstr "Greqi"
+
+msgid "Hungary"
+msgstr "Hungari"
+
+msgid "Iceland"
+msgstr "Islandë"
+
+msgid "Ireland"
+msgstr "Irlandë"
+
+msgid "Israel"
+msgstr "Izrael"
+
+msgid "Italy"
+msgstr "Itali"
+
+msgid "Japan"
+msgstr "Japoni"
+
+msgid "Mexico"
+msgstr "Meksikë"
+
+msgid "Netherlands"
+msgstr "Holandë"
+
+msgid "New Zealand"
+msgstr "Zelanda e Re"
+
+msgid "Norway"
+msgstr "Norvegji"
+
+msgid "Poland"
+msgstr "Poloni"
+
+msgid "Portugal"
+msgstr "Portugali"
+
+msgid "Russia"
+msgstr "Rusi"
+
+msgid "Slovakia"
+msgstr "Sllovakia"
+
+msgid "South Africa"
+msgstr "Afrika e Jugut"
+
+msgid "South Korea"
+msgstr "Korea e jugut"
+
+msgid "Spain"
+msgstr "Spanjë"
+
+msgid "Sweden"
+msgstr "Suedi"
+
+msgid "Switzerland"
+msgstr "Zvicra"
+
+msgid "Turkey"
+msgstr "Turqi"
+
+msgid "Ukraine"
+msgstr "Ukrainë"
+
+msgid "United Arab Emirates"
+msgstr "Emiratet e Bashkuara Arabe"
+
+msgid "United Kingdom"
+msgstr "Mbretëria e Bashkuar"
+
+msgid "United States"
+msgstr "Shtetet e Bashkuara"
+
+msgid "achievements"
+msgstr "arritjet"
+
+msgid "Investment management"
+msgstr "Menaxhimi i Investimeve"
+
+msgid "Select..."
+msgstr "Zgjidh ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "Menaxhimi i investimeve"
+
+msgid "Investors list"
+msgstr "Lista Investitorët"
+
+msgid "My investments"
+msgstr "Investimet e mia"
+
+msgid "Create date"
+msgstr "Krijo datën"
+
+msgid "Author of the project"
+msgstr "Autor i projektit"
+
+msgid "Date and time"
+msgstr "Data dhe koha"
+
+msgid "Status"
+msgstr "Statusi"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+msgid "Next"
+msgstr "Tjetër"
+
+msgid "Apply"
+msgstr "Aplikoni"
+
+msgid "Kazakhstan"
+msgstr "Kazahstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Shkencë"
+
+msgid "Architecture"
+msgstr "Arkitekturë"
+
+msgid "Photography"
+msgstr "Fotografi"
+
+msgid "Designer"
+msgstr "Projektues"
+
+msgid "IT specialist"
+msgstr "IT specialist"
+
+msgid "Agronomist"
+msgstr "Agronom"
+
+msgid "Architect"
+msgstr "Arkitekt"
+
+msgid "Lawyer"
+msgstr "Avokat"
+
+msgid "Writer"
+msgstr "Shkrimtar"
+
+msgid "Doctor"
+msgstr "Mjek"
+
+msgid "Scientist"
+msgstr "Shkencëtar"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Mësues"
+
+msgid "Cook"
+msgstr "Kuzhinier"
+
+msgid "Artist"
+msgstr "Artist"
+
+msgid "Photographer"
+msgstr "Fotograf"
+
+msgid "Ecologist"
+msgstr "Ekolog"
+
+msgid "Economist"
+msgstr "Ekonomist"
+
+msgid "Logistician"
+msgstr "Logjistikës"
+
+msgid "Journalist"
+msgstr "Gazetar"
+
+msgid "Builder"
+msgstr "Ndërtues"
+
+msgid "These users may be interesting for you"
+msgstr "Këto përdoruesit mund të jenë interesante për ju"
+
+msgid "These articles may be interesting for you"
+msgstr "Këto artikuj mund të jenë interesante për ju"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Ju bashkua këtij grupi si Аdministrator"
+
+msgid "articles written."
+msgstr "Artikuj të shkruar."
+
+msgid "groups created."
+msgstr "Grupet e krijuar."
+
+msgid "Creation"
+msgstr "Krijim"
+
+msgid "Build a dream"
+msgstr "Ndërtimi i një ëndërr"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Lexo artikuj më interesante - shkoni regjistrim të lirë"
+

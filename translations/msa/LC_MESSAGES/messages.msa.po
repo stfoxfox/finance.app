@@ -1,0 +1,3344 @@
+# Melayu (Малайский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Melayu (Малайский) <support@konstruktor.com>\n"
+"Language: Melayu (Малайский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "nama pengguna"
+
+msgid "Invalid username or password, try again"
+msgstr "Nama pengguna atau kata laluan salah . Cuba lagi ."
+
+msgid "Settings"
+msgstr "Tetapan"
+
+msgid "Home"
+msgstr "Laman Utama"
+
+msgid "You must log in to access this page"
+msgstr "Anda mesti log masuk untuk mengakses halaman ini"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Sesi anda telah tamat tempoh. Sila , relogin untuk melakukan tindakan ini"
+
+msgid "Save"
+msgstr "Simpan"
+
+msgid "Head Office"
+msgstr "Ibu Pejabat"
+
+msgid "Address"
+msgstr "Alamat"
+
+msgid "Back"
+msgstr "Kembali"
+
+msgid "Apply"
+msgstr "memohon"
+
+msgid "Upload files…"
+msgstr "Gambar fail ..."
+
+msgid "Set as main"
+msgstr "Tetapkan sebagai utama"
+
+msgid "Delete"
+msgstr "Padam"
+
+msgid "Original image"
+msgstr "imej asal"
+
+msgid "Uploaded"
+msgstr "dimuat naik"
+
+msgid "File name"
+msgstr "nama fail"
+
+msgid "File size"
+msgstr "saiz fail"
+
+msgid "Resolution"
+msgstr "resolusi"
+
+msgid "Enlarge"
+msgstr "membesarkan"
+
+msgid "Links"
+msgstr "Pautan"
+
+msgid "Original size"
+msgstr "saiz asal"
+
+msgid "For editor"
+msgstr "untuk editor"
+
+msgid "Resize"
+msgstr "Saiz semula"
+
+msgid "Width"
+msgstr "lebar"
+
+msgid "Height"
+msgstr "ketinggian"
+
+msgid "Media URL"
+msgstr "URL Media"
+
+msgid "Add record"
+msgstr "tambah rekod"
+
+msgid "Show filter settings"
+msgstr "Tunjukkan tetapan penapis"
+
+msgid "Edit record"
+msgstr "Edit rekod"
+
+msgid "Delete record"
+msgstr "Padam rekod"
+
+msgid "Delete checked records"
+msgstr "Padam rekod diperiksa"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Password"
+msgstr "kata laluan"
+
+msgid "Remember me"
+msgstr "ingat saya"
+
+msgid "Login"
+msgstr "Log masuk"
+
+msgid "Clean image cache"
+msgstr "Cache imej bersih"
+
+msgid "Processing query..."
+msgstr "Pemprosesan pertanyaan ..."
+
+msgid "CMS Development"
+msgstr "Pembangunan CMS"
+
+msgid "Admin Home Page"
+msgstr "Admin Laman Utama"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Laman rumah terbuka Front -end dalam tab baru"
+
+msgid "Go to Site"
+msgstr "Pergi ke Laman"
+
+msgid "Log out"
+msgstr "Log keluar"
+
+msgid "Send"
+msgstr "Hantar"
+
+msgid "General"
+msgstr "Ketua"
+
+msgid "Title"
+msgstr "Tajuk"
+
+msgid "Teaser"
+msgstr "teaser"
+
+msgid "Published"
+msgstr "diterbitkan"
+
+msgid "Featured"
+msgstr "Disediakan"
+
+msgid "Active"
+msgstr "aktif"
+
+msgid "Field is mandatory"
+msgstr "Field adalah wajib"
+
+msgid "Sort Order"
+msgstr "Sort Order"
+
+msgid "Upload"
+msgstr "muat naik"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "februari"
+
+msgid "Mar"
+msgstr "Mac"
+
+msgid "Apr"
+msgstr "April"
+
+msgid "May"
+msgstr "boleh"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "Jul"
+msgstr "Julai"
+
+msgid "Aug"
+msgstr "ogos"
+
+msgid "Sep"
+msgstr "September"
+
+msgid "Oct"
+msgstr "Oktober"
+
+msgid "Nov"
+msgstr "November"
+
+msgid "Dec"
+msgstr "Disember"
+
+msgid "Product already exists in the order"
+msgstr "Produk telah wujud dalam perintah itu"
+
+msgid "Product does not exist"
+msgstr "Produk tidak wujud"
+
+msgid "Incorrect request"
+msgstr "permintaan yang tidak betul"
+
+msgid "Products"
+msgstr "produk"
+
+msgid "Product types"
+msgstr "jenis produk"
+
+msgid "Contractors"
+msgstr "kontraktor"
+
+msgid "Contractor"
+msgstr "kontraktor"
+
+msgid "Orders"
+msgstr "pesanan"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "perintah baru"
+
+msgid "My orders"
+msgstr "എന്റെ ഓർഡറുകൾ"
+
+msgid "Recharge balance"
+msgstr "keseimbangan Recharge"
+
+msgid "Administrator"
+msgstr "pentadbir"
+
+msgid "Incorrect event ID"
+msgstr "ID peristiwa yang tidak betul"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Edit kontraktor"
+
+msgid "Create contractor"
+msgstr "Buat kontraktor"
+
+msgid "Edit question"
+msgstr "Edit soalan"
+
+msgid "Create question"
+msgstr "mencipta soalan"
+
+msgid "Edit order"
+msgstr "Edit perintah"
+
+msgid "Create order"
+msgstr "Buat pesanan"
+
+msgid "Edit product"
+msgstr "Edit produk"
+
+msgid "Create product"
+msgstr "mencipta produk"
+
+msgid "Edit product type"
+msgstr "Edit jenis produk"
+
+msgid "Create product type"
+msgstr "Mencipta jenis produk"
+
+msgid "You have received a file"
+msgstr "Anda telah menerima fail"
+
+msgid "You received a file from"
+msgstr "Anda menerima fail daripada"
+
+msgid "File has been uploaded"
+msgstr "Fail telah dimuat naik"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "kuantiti minimum"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "perkara"
+
+msgid "Remove"
+msgstr "Buang"
+
+msgid "Contact person"
+msgstr "orang yang boleh dihubungi"
+
+msgid "Email"
+msgstr "E-mel"
+
+msgid "Contractor phone"
+msgstr "telefon kontraktor"
+
+msgid "Contractor name"
+msgstr "nama kontraktor"
+
+msgid "Contractor details"
+msgstr "butir-butir kontraktor"
+
+msgid "Order ID"
+msgstr "Order ID"
+
+msgid "Sum"
+msgstr "jumlah"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Memilih sistem pembayaran yang sesuai untuk mengecas semula baki anda"
+
+msgid "Recharge amount"
+msgstr "jumlah caj semula"
+
+msgid "Paid"
+msgstr "dibayar"
+
+msgid "Shipped"
+msgstr "dihantar"
+
+msgid "- No products in this order -"
+msgstr "- Tiada produk dalam usaha ini -"
+
+msgid "month"
+msgstr "bulan"
+
+msgid "No user found"
+msgstr "Tiada pengguna dijumpai"
+
+msgid "Achievement"
+msgstr "pencapaian"
+
+msgid "Confirmed accomplishments"
+msgstr "pencapaian yang disahkan"
+
+msgid "Remove achievement"
+msgstr "Buang pencapaian"
+
+msgid "Headquaters"
+msgstr "Ibu Pejabat"
+
+msgid "Phone"
+msgstr "telefon"
+
+msgid "Site URL and email"
+msgstr "URL laman web dan e-mel"
+
+msgid "Remove address"
+msgstr "Buang alamat"
+
+msgid "Members"
+msgstr "ahli"
+
+msgid "Requires a payment"
+msgstr "Memerlukan bayaran"
+
+msgid "Shipping"
+msgstr "Penghantaran"
+
+msgid "Ready"
+msgstr "bersedia"
+
+msgid "Find user..."
+msgstr "Cari pengguna ..."
+
+msgid "Order it"
+msgstr "Perintah itu"
+
+msgid "Find group..."
+msgstr "Cari kumpulan ..."
+
+msgid "Find user or community..."
+msgstr "Termasuk pengguna atau masyarakat ..."
+
+msgid "No item found"
+msgstr "Tiada benda yang dijumpai"
+
+msgid "years"
+msgstr "tahun"
+
+msgid "Send message"
+msgstr "Hantar mesej"
+
+msgid "Message"
+msgstr "mesej"
+
+msgid "To send message press Enter"
+msgstr "Untuk menghantar mesej Masukkan akhbar"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Untuk menghantar mesej tekan CTRL + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Fail pemprosesan ( s) ..."
+
+msgid "Group settings"
+msgstr "tetapan kumpulan"
+
+msgid "Create group"
+msgstr "Buat kumpulan"
+
+msgid "Group has been successfully saved"
+msgstr "Kumpulan telah berjaya disimpan"
+
+msgid "Group title"
+msgstr "tajuk kumpulan"
+
+msgid "Group video"
+msgstr "video kumpulan"
+
+msgid "Description"
+msgstr "Penerangan"
+
+msgid "Your role in group"
+msgstr "Peranan anda dalam kumpulan"
+
+msgid "Role"
+msgstr "peranan"
+
+msgid "Photo or video gallery"
+msgstr "Foto atau video galeri"
+
+msgid "Youtube.com URL"
+msgstr "URL Youtube.com"
+
+msgid "Upload video"
+msgstr "muat naik video"
+
+msgid "Add group address"
+msgstr "Tambah alamat kumpulan"
+
+msgid "Group articles"
+msgstr "Kumpulan artikel"
+
+msgid "No addresses yet"
+msgstr "Tiada alamat lagi"
+
+msgid "Add group achievement"
+msgstr "Tambah pencapaian kumpulan"
+
+msgid "No achivements yet"
+msgstr "Tiada Achivements lagi"
+
+msgid "Are you sure to delete this user"
+msgstr "Adakah anda pasti untuk memadam pengguna ini"
+
+msgid "Add member"
+msgstr "Tambah ahli"
+
+msgid "Are you sure to delete this record?"
+msgstr "Adakah anda pasti untuk memadam rekod ini ?"
+
+msgid "Join this group"
+msgstr "Sertai kumpulan ini"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Jemputan anda telah dihantar ke pentadbir kumpulan"
+
+msgid "All addresses"
+msgstr "semua alamat"
+
+msgid "Collapse"
+msgstr "Tutup"
+
+msgid "Achievements"
+msgstr "Pencapaian"
+
+msgid "Show more"
+msgstr "Tunjuk banyak"
+
+msgid "Team"
+msgstr "pasukan"
+
+msgid "Projects"
+msgstr "projek"
+
+msgid "New project"
+msgstr "projek baru"
+
+msgid "Project has not been created yet"
+msgstr "Projek belum dicipta lagi"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "Baki"
+
+msgid "Main page"
+msgstr "muka surat utama"
+
+msgid "Upload image"
+msgstr "muat naik imej"
+
+msgid "My time"
+msgstr "masa saya"
+
+msgid "Day"
+msgstr "hari"
+
+msgid "Week"
+msgstr "minggu"
+
+msgid "Project settings"
+msgstr "tetapan projek"
+
+msgid "Create project"
+msgstr "Cipta projek"
+
+msgid "Project has been successfully saved"
+msgstr "Projek telah berjaya disimpan"
+
+msgid "Project name"
+msgstr "nama Projek"
+
+msgid "Deadline"
+msgstr "Tarikh Akhir"
+
+msgid "Close"
+msgstr "Tutup"
+
+msgid "Manager"
+msgstr "Pengurus"
+
+msgid "Assigned to"
+msgstr "ditugaskan untuk"
+
+msgid "Discussion"
+msgstr "perbincangan"
+
+msgid "Task was created"
+msgstr "Petugas telah dicipta"
+
+msgid "Task was closed"
+msgstr "Petugas telah ditutup"
+
+msgid "Go to Group"
+msgstr "Pergi ke Kumpulan"
+
+msgid "Closed"
+msgstr "ditutup"
+
+msgid "Last updates"
+msgstr "kemas kini terakhir"
+
+msgid "Project is closed"
+msgstr "Projek ditutup"
+
+msgid "No open tasks"
+msgstr "Tiada tugasan terbuka"
+
+msgid "New task"
+msgstr "tugas baru"
+
+msgid "Closed tasks"
+msgstr "tugas tertutup"
+
+msgid "Add subproject"
+msgstr "Tambah Subproject"
+
+msgid "Add task"
+msgstr "Tambah tugas"
+
+msgid "Sun"
+msgstr "Ahad"
+
+msgid "Mon"
+msgstr "isnin"
+
+msgid "Tue"
+msgstr "Selasa"
+
+msgid "Wed"
+msgstr "rabu"
+
+msgid "Thur"
+msgstr "Khamis"
+
+msgid "Fri"
+msgstr "Jumaat"
+
+msgid "Sat"
+msgstr "Sabtu"
+
+msgid "Event title"
+msgstr "tajuk acara"
+
+msgid "Event description"
+msgstr "Penerangan acara"
+
+msgid "I registered on this site"
+msgstr "Saya telah mendaftar di laman web ini"
+
+msgid "Last created groups"
+msgstr "Lepas kumpulan dicipta"
+
+msgid "You joined this group as"
+msgstr "Anda menyertai kumpulan ini sebagai"
+
+msgid "You received a request to join the group"
+msgstr "Anda menerima permintaan untuk menyertai kumpulan"
+
+msgid "Updated site"
+msgstr "laman web dikemaskini"
+
+msgid "Site is under construction"
+msgstr "Laman sedang dalam pembinaan"
+
+msgid "Last registered users"
+msgstr "Lepas -ahli"
+
+msgid "User settings"
+msgstr "tetapan pengguna"
+
+msgid "Technical support"
+msgstr "sokongan teknikal"
+
+msgid "Change email"
+msgstr "Tukar e-mel"
+
+msgid "Change password"
+msgstr "tukar kata laluan"
+
+msgid "User has been successfully saved"
+msgstr "Pengguna telah berjaya disimpan"
+
+msgid "Full name"
+msgstr "Nama penuh"
+
+msgid "My video"
+msgstr "video saya"
+
+msgid "Skills"
+msgstr "kemahiran"
+
+msgid "Birthday"
+msgstr "Hari Lahir"
+
+msgid "Country of residence"
+msgstr "Negara tempat tinggal"
+
+msgid "Country"
+msgstr "negara"
+
+msgid "Zip Code"
+msgstr "Kod Zip"
+
+msgid "City/town of residence"
+msgstr "Bandar / pekan kediaman"
+
+msgid "University/college"
+msgstr "Universiti / kolej"
+
+msgid "University/college photo"
+msgstr "Universiti / kolej foto"
+
+msgid "Add user\'s accomplishments"
+msgstr "Tambah pencapaian pengguna"
+
+msgid "Interface language"
+msgstr "bahasa antara muka"
+
+msgid "How other people see this page"
+msgstr "Bagaimana orang lain melihat halaman ini"
+
+msgid "Video with me"
+msgstr "Video dengan saya"
+
+msgid "Groups"
+msgstr "kumpulan"
+
+msgid "Registered today"
+msgstr "hari ini berdaftar"
+
+msgid "Qty"
+msgstr "Kuantiti"
+
+msgid "No registered users yet"
+msgstr "Tiada pengguna berdaftar lagi"
+
+msgid "Total"
+msgstr "Jumlah"
+
+msgid "Registered total"
+msgstr "jumlah berdaftar"
+
+msgid "You received a file"
+msgstr "Anda menerima fail"
+
+msgid "You were invited into this room"
+msgstr "Anda telah dijemput ke dalam bilik ini"
+
+msgid "Request is being processed"
+msgstr "Permintaan sedang diproses"
+
+msgid "Fax"
+msgstr "Faks"
+
+msgid "Messenger"
+msgstr "Rasul"
+
+msgid "New subproject"
+msgstr "Subproject baru"
+
+msgid "messages written."
+msgstr "mesej yang ditulis ."
+
+msgid "projects created based on groups."
+msgstr "projek-projek yang dibuat berdasarkan kumpulan."
+
+msgid "users registered on website."
+msgstr "pengguna berdaftar di laman web."
+
+msgid "New email"
+msgstr "e-mel baru"
+
+msgid "Confirm email"
+msgstr "Sahkan e-mail"
+
+msgid "New password"
+msgstr "Kata kunci baru"
+
+msgid "Confirm password"
+msgstr "sahkan kata laluan"
+
+msgid "Occupation"
+msgstr "Speciality"
+
+msgid "Timezone"
+msgstr "Zon masa"
+
+msgid "Answer"
+msgstr "jawapan"
+
+msgid "Articles"
+msgstr "artikel"
+
+msgid "Article"
+msgstr "Perkara"
+
+msgid "Video-article"
+msgstr "Video- artikel"
+
+msgid "Find article..."
+msgstr "Cari artikel ..."
+
+msgid "Politics"
+msgstr "Politik"
+
+msgid "Economics"
+msgstr "Ekonomi"
+
+msgid "Community"
+msgstr "komuniti"
+
+msgid "Culture"
+msgstr "Kebudayaan"
+
+msgid "Sports"
+msgstr "Sukan"
+
+msgid "Hi-tech"
+msgstr "Hi -tech"
+
+msgid "Cars"
+msgstr "kereta"
+
+msgid "Fashion"
+msgstr "Fesyen"
+
+msgid "Games"
+msgstr "Permainan"
+
+msgid "Other"
+msgstr "lain-lain"
+
+msgid "Invalid mediafile"
+msgstr "mediafile tidak sah"
+
+msgid "No articles in this category yet"
+msgstr "Tiada artikel dalam kategori ini"
+
+msgid "Back to profile"
+msgstr "Kembali ke profil"
+
+msgid "View article"
+msgstr "Lihat artikel"
+
+msgid "Edit article"
+msgstr "Edit artikel"
+
+msgid "Create article"
+msgstr "Buat artikel"
+
+msgid "Article title"
+msgstr "tajuk artikel"
+
+msgid "Article section"
+msgstr "bahagian Perkara"
+
+msgid "Choose image"
+msgstr "pilih imej"
+
+msgid "Save and upload"
+msgstr "Simpan dan memuat naik"
+
+msgid "Show more..."
+msgstr "Tunjukkan lagi ..."
+
+msgid "Create"
+msgstr "Buat"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Project"
+msgstr "projek"
+
+msgid "Team"
+msgstr "Pasukan"
+
+msgid "A new article was published"
+msgstr "Satu artikel baru diterbitkan"
+
+msgid "You joined this project"
+msgstr "Anda menyertai projek ini"
+
+msgid "Enter your information in the User settings"
+msgstr "Masukkan maklumat anda dalam Tetapan pengguna"
+
+msgid "Communities"
+msgstr "Communities"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Persembahan video pencapaian saya"
+
+msgid "My articles"
+msgstr "artikel saya"
+
+msgid "User"
+msgstr "pengguna"
+
+msgid "Users"
+msgstr "pengguna"
+
+msgid "Add new list"
+msgstr "Tambah senarai baru"
+
+msgid "List title"
+msgstr "tajuk senarai"
+
+msgid "Add"
+msgstr "Tambah"
+
+msgid "Add to favorites"
+msgstr "Tambah ke kegemaran"
+
+msgid "Delete from favorites"
+msgstr "Padam dari kegemaran"
+
+msgid "Select list"
+msgstr "pilih Senarai"
+
+msgid "Subscriptions"
+msgstr "langganan"
+
+msgid "Subscribe"
+msgstr "Langgan"
+
+msgid "Unsubscribe"
+msgstr "Batal langganan"
+
+msgid "General list"
+msgstr "senarai Ketua"
+
+msgid "No users in this list"
+msgstr "Tiada pengguna dalam senarai ini"
+
+msgid "Publish"
+msgstr "Terbitkan"
+
+msgid "Unpublish"
+msgstr "Nyahterbit"
+
+msgid "Add user"
+msgstr "Tambah pengguna"
+
+msgid "Create document"
+msgstr "Buat dokumen"
+
+msgid "Edit document"
+msgstr "Edit dokumen"
+
+msgid "View"
+msgstr "Lihat"
+
+msgid "Document title"
+msgstr "tajuk dokumen"
+
+msgid "Find document..."
+msgstr "Cari dokumen ..."
+
+msgid "Share your thoughts"
+msgstr "Kongsi pendapat anda"
+
+msgid "Leave your comment"
+msgstr "Tinggalkan komen anda"
+
+msgid "Accept"
+msgstr "terima"
+
+msgid "Decline"
+msgstr "Tolak"
+
+msgid "Add article"
+msgstr "menambah artikel"
+
+msgid "Link to verified accomplishments"
+msgstr "Pautan ke pencapaian disahkan"
+
+msgid "No articles here yet..."
+msgstr "Tiada artikel di sini lagi ..."
+
+msgid "Find file or folder..."
+msgstr "Cari fail atau folder ..."
+
+msgid "Sort"
+msgstr "Jenis"
+
+msgid "By name"
+msgstr "mengikut nama"
+
+msgid "By date"
+msgstr "mengikut tarikh"
+
+msgid "By updated date"
+msgstr "Mengikut tarikh dikemaskini"
+
+msgid "By size"
+msgstr "oleh saiz"
+
+msgid "By type"
+msgstr "Mengikut jenis"
+
+msgid "Move"
+msgstr "Pindah"
+
+msgid "File Manager"
+msgstr "file Manager"
+
+msgid "Share link"
+msgstr "Kongsi pautan"
+
+msgid "Responsible"
+msgstr "bertanggungjawab"
+
+msgid "Performer"
+msgstr "pelaku"
+
+msgid "New Folder"
+msgstr "Fail baharu"
+
+msgid "Folder name"
+msgstr "nama folder"
+
+msgid "By default"
+msgstr "Secara amnya"
+
+msgid "Back to group"
+msgstr "Kembali ke kumpulan"
+
+msgid "year(s)"
+msgstr "tahun (s)"
+
+msgid "January"
+msgstr "januari"
+
+msgid "February"
+msgstr "februari"
+
+msgid "March"
+msgstr "Mac"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "June"
+msgstr "Jun"
+
+msgid "July"
+msgstr "julai"
+
+msgid "August"
+msgstr "ogos"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "oktober"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "Disember"
+
+msgid "Password Reminder"
+msgstr "password"
+
+msgid "Log In"
+msgstr "Log masuk"
+
+msgid "Sign in"
+msgstr "Daftar masuk"
+
+msgid "Register"
+msgstr "Daftar"
+
+msgid "First name"
+msgstr "Nama pertama"
+
+msgid "Last name"
+msgstr "Nama akhir"
+
+msgid "I agree with rules"
+msgstr "Saya bersetuju dengan peraturan"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "A mel pengesahan telah dihantar ke alamat e-mel anda."
+
+msgid "Thanks"
+msgstr "Terima kasih"
+
+msgid "Password must be at least 6 characters"
+msgstr "Kata laluan mestilah sekurang-kurangnya 6 aksara"
+
+msgid "Creative Environment"
+msgstr "Alam Sekitar kreatif"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Anda perlu sekurang-kurangnya tiga belas tahun untuk menggunakan perkhidmatan ini"
+
+msgid "Order status"
+msgstr "status pesanan"
+
+msgid "Processing order"
+msgstr "untuk pemprosesan"
+
+msgid "Requires a payment"
+msgstr "Memerlukan bayaran"
+
+msgid "Shipping"
+msgstr "penghantaran"
+
+msgid "Ready"
+msgstr "sedia"
+
+msgid "Thank you for your payment"
+msgstr "terima kasih atas pembayaran anda"
+
+msgid "Your payment has been cancelled"
+msgstr "Bayaran anda telah dibatalkan"
+
+msgid "page"
+msgstr "laman"
+
+msgid "Rent period"
+msgstr "tempoh sewa"
+
+msgid "Total, month"
+msgstr "Jumlah, bulan"
+
+msgid "Order items"
+msgstr "barangan Order"
+
+msgid "No records found"
+msgstr "Tiada rekod dijumpai"
+
+msgid "User with this email is already exist"
+msgstr "Pengguna dengan e-mel ini sudah wujud"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Folder atau fail dengan nama itu sudah wujud dalam folder destinasi"
+
+msgid "Minimal quantity"
+msgstr "kuantiti minimum"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "salinan cetak"
+
+msgid "Terms of Use"
+msgstr "Syarat-syarat Penggunaan"
+
+msgid "Privacy Policy"
+msgstr "Dasar Privasi"
+
+msgid "Find project..."
+msgstr "Cari projek ..."
+
+msgid "New Project"
+msgstr "Projek Baru"
+
+msgid "Accounts"
+msgstr "akaun"
+
+msgid "Operations"
+msgstr "operasi"
+
+msgid "All accounts"
+msgstr "semua akaun"
+
+msgid "All categories"
+msgstr "Semua Kategori"
+
+msgid "Expense"
+msgstr "perbelanjaan"
+
+msgid "Income"
+msgstr "pendapatan"
+
+msgid "Transfer"
+msgstr "pemindahan"
+
+msgid "Expense"
+msgstr "perbelanjaan"
+
+msgid "income"
+msgstr "pendapatan"
+
+msgid "tax"
+msgstr "cukai"
+
+msgid "percent"
+msgstr "peratus"
+
+msgid "transfer"
+msgstr "pemindahan"
+
+msgid "Make operation"
+msgstr "membuat operasi"
+
+msgid "Select date"
+msgstr "Pilih tarikh"
+
+msgid "Select account"
+msgstr "Pilih akaun"
+
+msgid "Month"
+msgstr "bulan"
+
+msgid "Quarter"
+msgstr "suku"
+
+msgid "Year"
+msgstr "tahun"
+
+msgid "From"
+msgstr "dari"
+
+msgid "To"
+msgstr "untuk"
+
+msgid "Expense amount"
+msgstr "jumlah perbelanjaan"
+
+msgid "Categories"
+msgstr "Kategori"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "Income amount"
+msgstr "jumlah pendapatan"
+
+msgid "Transfer amount"
+msgstr "Pindahkan amaun"
+
+msgid "From account"
+msgstr "dari akaun"
+
+msgid "To account"
+msgstr "untuk mengambil kira"
+
+msgid "New Account"
+msgstr "Akaun Baru"
+
+msgid "New Category"
+msgstr "Kategori Baru"
+
+msgid "All"
+msgstr "semua"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "Enter category name"
+msgstr "Masukkan nama kategori"
+
+msgid "Select type"
+msgstr "Pilih jenis"
+
+msgid "Credit card"
+msgstr "Kad kredit"
+
+msgid "Debit card"
+msgstr "Kad Debit"
+
+msgid "Bank account"
+msgstr "akaun bank"
+
+msgid "Cash"
+msgstr "Tunai"
+
+msgid "Balance is empty"
+msgstr "Baki kosong"
+
+msgid "Statistic is empty"
+msgstr "Statistik kosong"
+
+msgid "Regular payments"
+msgstr "bayaran tetap"
+
+msgid "Are you sure ?"
+msgstr "Adakah anda pasti ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Adakah anda pasti untuk menutup projek ini?"
+
+msgid "Project was deleted successfully"
+msgstr "Projek telah berjaya dipadamkan"
+
+msgid "Select currency"
+msgstr "Pilih mata wang"
+
+msgid "Account"
+msgstr "akaun"
+
+msgid "Orders list"
+msgstr "senarai pesanan"
+
+msgid "Order payments"
+msgstr "bayaran Order"
+
+msgid "View order"
+msgstr "Lihat pesanan"
+
+msgid "No response from Printer API"
+msgstr "Tiada jawapan dari API Printer"
+
+msgid "Bad response from Printer API"
+msgstr "Tindak balas buruk daripada API Printer"
+
+msgid "User ID"
+msgstr "ID Pengguna"
+
+msgid "Contact Person"
+msgstr "Perhubungan"
+
+msgid "No orders to process"
+msgstr "Tiada arahan untuk memproses"
+
+msgid "Article announce image"
+msgstr "Perkara mengumumkan imej"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Url video tidak sah . Biarkan kosong atau masukkan url youtube sah"
+
+msgid "Please, enter Contractor data"
+msgstr "Tolong, masukkan data Kontraktor"
+
+msgid "Distribute devices"
+msgstr "peranti mengedarkan"
+
+msgid "Quantity"
+msgstr "kuantiti"
+
+msgid "Devices left"
+msgstr "peranti meninggalkan"
+
+msgid "Distributed devices"
+msgstr "peranti diedarkan"
+
+msgid "You must enter quantity"
+msgstr "Anda mesti memasukkan kuantiti"
+
+msgid "All devices are distributed"
+msgstr "Semua peranti diedarkan"
+
+msgid "IP address"
+msgstr "alamat IP"
+
+msgid "Only for printer"
+msgstr "Hanya untuk pencetak"
+
+msgid "Counter"
+msgstr "kaunter"
+
+msgid "You was excluded from this room"
+msgstr "Anda telah dikecualikan daripada bilik ini"
+
+msgid "Compare"
+msgstr "Bandingkan"
+
+msgid "Scheduled transaction"
+msgstr "transaksi Berjadual"
+
+msgid "Select transfer account"
+msgstr "Pilih akaun pindahan"
+
+msgid "Select income account"
+msgstr "Pilih akaun pendapatan"
+
+msgid "Reports"
+msgstr "laporan"
+
+msgid "Goals"
+msgstr "matlamat"
+
+msgid "Budgets"
+msgstr "belanjawan"
+
+msgid "Enter user name or email..."
+msgstr "Masukkan nama pengguna atau e-mel ..."
+
+msgid "Invite had been sended"
+msgstr "Jemput telah sended"
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Updated site began to work"
+msgstr "Laman web yang dikemas kini mula bekerja"
+
+msgid "City of residence"
+msgstr "Bandar kediaman"
+
+msgid "Edit favourites list"
+msgstr "Senarai Edit kegemaran"
+
+msgid "Add favourites list"
+msgstr "Tambah senarai kegemaran"
+
+msgid "Categories is required"
+msgstr "Kategori diperlukan"
+
+msgid "Type new category name and hit Enter"
+msgstr "Taipkan nama kategori baru dan tekan Enter"
+
+msgid "You created an order"
+msgstr "Anda buat pesanan"
+
+msgid "You received a device due to this order"
+msgstr "Anda menerima peranti kerana perintah ini"
+
+msgid "%s attached %s to task %s"
+msgstr "%s %s dilampirkan menyelar %s"
+
+msgid "member(s)"
+msgstr "ahli ( s)"
+
+msgid "%s commented task %s"
+msgstr "%s tugas mengulas %s"
+
+msgid "%s closed task %s"
+msgstr "%s tugas tertutup %s"
+
+msgid "%s created task %s"
+msgstr "%s tugas dicipta %s"
+
+msgid "%s created this project"
+msgstr "%s mencipta projek ini"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s Subproject dicipta \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s projek tertutup \" %s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s Subproject tertutup \" %s\""
+
+msgid "This field must not be blank"
+msgstr "Bidang ini tidak boleh kosong"
+
+msgid "Document with such name is already exist"
+msgstr "Dokumen dengan nama itu sudah wujud"
+
+msgid "Wait until image upload"
+msgstr "Tunggu sehingga naik imej"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Message can not be empty"
+msgstr "Mesej tidak boleh kosong"
+
+msgid "Yes"
+msgstr "Ya"
+
+msgid "No"
+msgstr "Tiada"
+
+msgid "Created"
+msgstr "Dibuat"
+
+msgid "Compare is empty"
+msgstr "Bandingkan kosong"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Adakah anda pasti anda mahu memadam operasi"
+
+msgid "Do you really want to delete transaction"
+msgstr "Adakah anda pasti ingin menghapuskan transaksi"
+
+msgid "Project with same name already exists"
+msgstr "Projek dengan nama yang sama sudah wujud"
+
+msgid "Account is not found"
+msgstr "Akaun tidak ditemui"
+
+msgid "Currency is required"
+msgstr "Mata wang diperlukan"
+
+msgid "error while deleting document"
+msgstr "ralat semasa memadamkan dokumen"
+
+msgid "Expences"
+msgstr "expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Anda dijemput pengguna \" %s\" di dalam bilik ini"
+
+msgid "User \"%s\" joined this room"
+msgstr "Pengguna \" %s\" menyertai bilik ini"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Anda dikecualikan pengguna \" %s\" dari bilik ini"
+
+msgid "User \"%s\" left this room"
+msgstr "Pengguna \" %s\" meninggalkan bilik ini"
+
+msgid "Add account"
+msgstr "Tambah akaun"
+
+msgid "The requested page is not found"
+msgstr "Laman yang diminta tidak dijumpai"
+
+msgid "Document"
+msgstr "dokumen"
+
+msgid "Table"
+msgstr "Jadual"
+
+msgid "file(s)"
+msgstr "file (s)"
+
+msgid "Residue"
+msgstr "sisa"
+
+msgid "Result is empty"
+msgstr "Keputusan kosong"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Jumlah keseluruhan adalah%s untuk mo %s"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Anda perlu mendepositkan %s bulanan ke akaun berkaitan"
+
+msgid "Start"
+msgstr "Bermula"
+
+msgid "finish"
+msgstr "selesai"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Akaun yang dipilih telah digunakan untuk satu lagi gol"
+
+msgid "Amount required"
+msgstr "jumlah yang diperlukan"
+
+msgid "New goal"
+msgstr "matlamat baru"
+
+msgid "Goal"
+msgstr "matlamat"
+
+msgid "Goal name"
+msgstr "nama tujuan"
+
+msgid "Invalid date"
+msgstr "tarikh tidak sah"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Jumlah wang yang diperlukan mestilah nombor positif"
+
+msgid "Remain"
+msgstr "kekal"
+
+msgid "Last day"
+msgstr "Hari terakhir"
+
+msgid "Accumulated"
+msgstr "terkumpul"
+
+msgid "Put aside"
+msgstr "ketepikan"
+
+msgid "January"
+msgstr "januari"
+
+msgid "February"
+msgstr "februari"
+
+msgid "March"
+msgstr "Mac"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "June"
+msgstr "jun"
+
+msgid "July"
+msgstr "Julai"
+
+msgid "August"
+msgstr "Ogos"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "oktober"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "disember"
+
+msgid "Expenses projected/actual"
+msgstr "Perbelanjaan unjuran / sebenar"
+
+msgid "Net Income projected/actual"
+msgstr "Pendapatan bersih dapat / sebenar"
+
+msgid "New budget"
+msgstr "bajet baru"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Hasil dan Perbelanjaan Carta"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Bajet dengan pasangan sama akaun dan kategori sudah wujud"
+
+msgid "Budget is empty"
+msgstr "Bajet kosong"
+
+msgid "Budget"
+msgstr "bajet"
+
+msgid "plan"
+msgstr "pelan"
+
+msgid "fact"
+msgstr "fakta"
+
+msgid "diff"
+msgstr "beza"
+
+msgid "Show More"
+msgstr "Tunjukkan Lagi"
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "jualan saya"
+
+msgid "Time spent"
+msgstr "masa"
+
+msgid "Total time spent"
+msgstr "Jumlah masa yang digunakan"
+
+msgid "Earnings per hour"
+msgstr "Perolehan bagi setiap jam"
+
+msgid "Total earnings"
+msgstr "jumlah pendapatan"
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Phone call"
+msgstr "Panggilan telefon"
+
+msgid "Telephone calls"
+msgstr "panggilan telefon"
+
+msgid "Send email"
+msgstr "Menghantar e-mel"
+
+msgid "Emails"
+msgstr "E-mel"
+
+msgid "Meeting"
+msgstr "mesyuarat"
+
+msgid "Meetings"
+msgstr "mesyuarat"
+
+msgid "All events"
+msgstr "aktiviti yang"
+
+msgid "Task"
+msgstr "Petugas"
+
+msgid "Event"
+msgstr "peristiwa"
+
+msgid "Events"
+msgstr "Peristiwa"
+
+msgid "Time"
+msgstr "masa"
+
+msgid "Events statistics"
+msgstr "statistik Peristiwa"
+
+msgid "days"
+msgstr "hari"
+
+msgid "hours"
+msgstr "jam"
+
+msgid "minutes"
+msgstr "minit"
+
+msgid "Income & expense"
+msgstr "Pendapatan & perbelanjaan"
+
+msgid "Show chart"
+msgstr "rancangan carta"
+
+msgid "Hide chart"
+msgstr "Menyembunyikan carta"
+
+msgid "Add event"
+msgstr "Tambah acara"
+
+msgid "Add financial data"
+msgstr "Menambah data kewangan"
+
+msgid "Select contractor"
+msgstr "Pilih kontraktor"
+
+msgid "Net Income"
+msgstr "Pendapatan bersih"
+
+msgid "Revenue"
+msgstr "hasil"
+
+msgid "Taxes"
+msgstr "cukai"
+
+msgid "Amount planned"
+msgstr "jumlah dirancang"
+
+msgid "Amount"
+msgstr "jumlah"
+
+msgid "Period"
+msgstr "tempoh"
+
+msgid "Are you sure to close this task?"
+msgstr "Adakah anda pasti untuk menutup tugas ini?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "semua kumpulan"
+
+msgid "added from task"
+msgstr "ditambah dari tugas"
+
+msgid "Monthly repeat"
+msgstr "ulangan bulanan"
+
+msgid "Select category"
+msgstr "Pilih kategori"
+
+msgid "Event type"
+msgstr "jenis acara"
+
+msgid "Margin"
+msgstr "margin"
+
+msgid "Use finance project"
+msgstr "Gunakan projek kewangan"
+
+msgid "New investment project"
+msgstr "Projek pelaburan baru"
+
+msgid "Investment project settings"
+msgstr "Tetapan projek pelaburan"
+
+msgid "Picture, for the announcement project"
+msgstr "Gambar, untuk projek pengumuman"
+
+msgid "Announcement project"
+msgstr "projek Pengumuman"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Photos or videos gallery"
+msgstr "Gambar atau video Galeri"
+
+msgid "required amount"
+msgstr "jumlah yang diperlukan"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Tempoh Projek ( 60 hari maksimum)"
+
+msgid "Project duration"
+msgstr "tempoh projek"
+
+msgid "Add reward"
+msgstr "menambah ganjaran"
+
+msgid "Delivery date"
+msgstr "Tarikh penghantaran"
+
+msgid "Payment systems"
+msgstr "sistem pembayaran"
+
+msgid "Terms of service"
+msgstr "Syarat-syarat perkhidmatan"
+
+msgid "Agreement"
+msgstr "Perjanjian"
+
+msgid "Payment"
+msgstr "pembayaran"
+
+msgid "My projects"
+msgstr "projek-projek saya"
+
+msgid "Search result"
+msgstr "keputusan carian"
+
+msgid "Nothing not found"
+msgstr "Tiada apa-apa tidak dijumpai"
+
+msgid "The project has no sponsors"
+msgstr "Projek ini tiada penaja"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Food"
+msgstr "makanan"
+
+msgid "Journalism"
+msgstr "kewartawanan"
+
+msgid "Games"
+msgstr "Permainan"
+
+msgid "Art"
+msgstr "Seni"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "Muzik"
+
+msgid "Handicrafts"
+msgstr "kraftangan"
+
+msgid "Publishing"
+msgstr "Penerbitan"
+
+msgid "Theater"
+msgstr "teater"
+
+msgid "Technology"
+msgstr "Teknologi"
+
+msgid "Film/Video"
+msgstr "Filem / Video"
+
+msgid "Photo"
+msgstr "photo"
+
+msgid "Dance"
+msgstr "Dance"
+
+msgid "Invalid youtube video"
+msgstr "Video youtube tak sah"
+
+msgid "is required"
+msgstr "adalah diperlukan"
+
+msgid "User"
+msgstr "pengguna"
+
+msgid "Date"
+msgstr "tarikh"
+
+msgid "Collected"
+msgstr "dikumpul"
+
+msgid "Choose period"
+msgstr "pilih tempoh"
+
+msgid "Choose region"
+msgstr "pilih rantau"
+
+msgid "Country"
+msgstr "negara"
+
+msgid "Today"
+msgstr "hari ini"
+
+msgid "Week"
+msgstr "minggu"
+
+msgid "Month"
+msgstr "bulan"
+
+msgid "Year"
+msgstr "tahun"
+
+msgid "Free registration"
+msgstr "pendaftaran Percuma"
+
+msgid "Join"
+msgstr "Sertai"
+
+msgid "Log in using"
+msgstr "Log masuk dengan menggunakan"
+
+msgid "Vacancies"
+msgstr "peluang pekerjaan"
+
+msgid "About Us"
+msgstr "Tentang kita"
+
+msgid "You will need email to log in"
+msgstr "Anda perlu e-mel untuk log masuk"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Gabungan 6 digit dan aksara"
+
+msgid "Search users, groups, articles..."
+msgstr "Cari pengguna , kumpulan, artikel ..."
+
+msgid "Cloud"
+msgstr "Cloud"
+
+msgid "Sunday"
+msgstr "Ahad"
+
+msgid "Monday"
+msgstr "isnin"
+
+msgid "Tuesday"
+msgstr "Selasa"
+
+msgid "Wednesday"
+msgstr "rabu"
+
+msgid "Thursday"
+msgstr "Khamis"
+
+msgid "Friday"
+msgstr "Jumaat"
+
+msgid "Saturday"
+msgstr "Sabtu"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Create group"
+msgstr "Buat kumpulan"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Adakah anda pasti anda mahu meninggalkan halaman ini?"
+
+msgid "More"
+msgstr "lebih"
+
+msgid "Less"
+msgstr "kurang"
+
+msgid "Pending"
+msgstr "Sementara menunggu"
+
+msgid "Approved"
+msgstr "diluluskan"
+
+msgid "Rejected"
+msgstr "Telah"
+
+msgid "Subprojects"
+msgstr "subprojek"
+
+msgid "Group edit"
+msgstr "mengedit Kumpulan"
+
+msgid "Startup"
+msgstr "Memulakan"
+
+msgid "Tattoo"
+msgstr "Tattoo"
+
+msgid "Health"
+msgstr "Kesihatan"
+
+msgid "Weapon"
+msgstr "senjata"
+
+msgid "Astronomy"
+msgstr "Astronomi"
+
+msgid "All articles"
+msgstr "semua artikel"
+
+msgid "Article editor"
+msgstr "editor artikel"
+
+msgid "Document editor"
+msgstr "editor dokumen"
+
+msgid "Apply changes"
+msgstr "Guna perubahan"
+
+msgid "Save changes?"
+msgstr "Simpan perubahan?"
+
+msgid "published an article"
+msgstr "menerbitkan artikel yang"
+
+msgid "Users"
+msgstr "pengguna"
+
+msgid "Shared With Me"
+msgstr "Berkongsi Dengan Saya"
+
+msgid "share"
+msgstr "saham"
+
+msgid "Select Group Responsible"
+msgstr "Pilih Kumpulan Bertanggungjawab"
+
+msgid "Create folder"
+msgstr "Buat folder"
+
+msgid "Title must be at least 3 characters"
+msgstr "Tajuk mestilah sekurang-kurangnya 3 watak"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Percuma 10 GB, pengurus kewangan , melabur modul , dan banyak lagi secara percuma dan selama-lamanya"
+
+msgid "Best regards"
+msgstr "Selamat sejahtera"
+
+msgid "Updates in last 12 hours:"
+msgstr "Kemas kini dalam 12 jam terakhir :"
+
+msgid "expense"
+msgstr "perbelanjaan"
+
+msgid "Commentary on the event:"
+msgstr "Ulasan mengenai acara:"
+
+msgid "Event place"
+msgstr "tempat acara"
+
+msgid "Project was updated"
+msgstr "Projek dikemaskini"
+
+msgid "Project was created"
+msgstr "Projek telah dicipta"
+
+msgid "Project was closed"
+msgstr "Projek telah ditutup"
+
+msgid "account"
+msgstr "akaun"
+
+msgid "removed task"
+msgstr "tugas dikeluarkan"
+
+msgid "removed subproject"
+msgstr "Subproject dikeluarkan"
+
+msgid "Title can not be empty"
+msgstr "Tajuk tidak boleh kosong"
+
+msgid "Do not select the type of event"
+msgstr "Jangan pilih jenis acara"
+
+msgid "Error while saving comment"
+msgstr "Ralat semasa menyimpan komen"
+
+msgid "Save error: access denied"
+msgstr "Jimat ralat: akses ditolak"
+
+msgid "Remains"
+msgstr "jenazah"
+
+msgid "Time spent, h."
+msgstr "Masa , h ."
+
+msgid "Emails"
+msgstr "E-mel"
+
+msgid "Meetings"
+msgstr "mesyuarat"
+
+msgid "All users"
+msgstr "Semua pengguna"
+
+msgid "Category"
+msgstr "kategori"
+
+msgid "Finance project"
+msgstr "projek Kewangan"
+
+msgid "Investment project"
+msgstr "projek pelaburan"
+
+msgid "Nature"
+msgstr "Alam"
+
+msgid "Data is empty"
+msgstr "Data kosong"
+
+msgid "Visitors"
+msgstr "Pelawat"
+
+msgid "My profile"
+msgstr "Profil Saya"
+
+msgid "Sponsors"
+msgstr "penaja"
+
+msgid "Prior to completion"
+msgstr "Sebelum selesai"
+
+msgid "Select"
+msgstr "pilih"
+
+msgid "My groups"
+msgstr "kumpulan saya"
+
+msgid "The invitation has been sent successfully"
+msgstr "Jemputan telah berjaya dihantar"
+
+msgid "Username has already been invited to this project"
+msgstr "Nama pengguna telah dijemput untuk projek ini"
+
+msgid "The user is the creator of the project"
+msgstr "Pengguna adalah pencipta projek"
+
+msgid "Provide full access"
+msgstr "Memberi akses"
+
+msgid "Select elements to provide access"
+msgstr "Pilih unsur-unsur untuk menyediakan akses"
+
+msgid "Select all"
+msgstr "Pilih semua"
+
+msgid "User E-mail"
+msgstr "Pengguna E -mel"
+
+msgid "Click on the field to select a category"
+msgstr "Klik di padang untuk memilih kategori"
+
+msgid "Invitation was deleted"
+msgstr "Jemputan telah dipadam"
+
+msgid "Permission denied"
+msgstr "Tiada kebenaran"
+
+msgid "Printed"
+msgstr "dicetak"
+
+msgid "Incorrect Contractor email"
+msgstr "E-mel Kontraktor yang tidak betul"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Adakah anda mahu menambah projek untuk membiayai pengurus?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Untuk melengkapkan proses pendaftaran sila isi turun kemahiran anda"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "An mel dengan arahan lanjut telah dihantar ke alamat e-mel anda"
+
+msgid "Submit"
+msgstr "hantar"
+
+msgid "Cars"
+msgstr "kereta"
+
+msgid "Science"
+msgstr "Sains"
+
+msgid "Donation"
+msgstr "derma"
+
+msgid "Interests"
+msgstr "minat"
+
+msgid "Driver"
+msgstr "pemandu"
+
+msgid "Sportsman"
+msgstr "Sportsman"
+
+msgid "Businessman"
+msgstr "Ahli Perniagaan"
+
+msgid "Accountant"
+msgstr "Akauntan"
+
+msgid "Engineer"
+msgstr "jurutera"
+
+msgid "Soldier"
+msgstr "Soldier"
+
+msgid "Next"
+msgstr "Seterusnya"
+
+msgid "Hide group"
+msgstr "Menyembunyikan kumpulan"
+
+msgid "groups created"
+msgstr "kumpulan dicipta"
+
+msgid "articles written"
+msgstr "artikel yang ditulis"
+
+msgid "These groups may be interesting for you"
+msgstr "Kumpulan-kumpulan ini mungkin menarik untuk anda"
+
+msgid "About Group"
+msgstr "tentang Kumpulan"
+
+msgid "view(s)"
+msgstr "view (s)"
+
+msgid "Favorite users"
+msgstr "pengguna kegemaran"
+
+msgid "No accounts"
+msgstr "Tiada akaun"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook kebenaran gagal."
+
+msgid "Authorization Required"
+msgstr "kebenaran Diperlukan"
+
+msgid "You have to make a call:"
+msgstr "Anda perlu membuat panggilan:"
+
+msgid "You have to send an email:"
+msgstr "Anda perlu menghantar e-mel :"
+
+msgid "You have a meetup:"
+msgstr "Anda perlu perjumpaan yang lain:"
+
+msgid "You event :"
+msgstr "Anda acara:"
+
+msgid "Participants:"
+msgstr "peserta:"
+
+msgid "Search"
+msgstr "carian"
+
+msgid "News"
+msgstr "Berita"
+
+msgid "Investments"
+msgstr "pelaburan"
+
+msgid "Back to Cloud"
+msgstr "Kembali ke Cloud"
+
+msgid "Documents"
+msgstr "dokumen"
+
+msgid "Planet"
+msgstr "planet"
+
+msgid "Group url"
+msgstr "url Kumpulan"
+
+msgid "Profile url"
+msgstr "url Profil"
+
+msgid "Already taken"
+msgstr "Sudah diambil"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Sekurang-kurangnya 1 huruf dan 3 aksara panjang diperlukan"
+
+msgid "Digit can not be the first character"
+msgstr "Angka tidak boleh menjadi watak pertama"
+
+msgid "Enter valid email address"
+msgstr "Masukkan alamat e-mel yang sah"
+
+msgid "Enter your skills"
+msgstr "Masukkan kemahiran anda"
+
+msgid "Enter your first name"
+msgstr "Masukkan nama pertama anda"
+
+msgid "Enter your last name"
+msgstr "Masukkan nama akhir anda"
+
+msgid "Enter your first name and last name"
+msgstr "Masukkan nama pertama anda dan nama akhir"
+
+msgid "Your first name?"
+msgstr "Nama pertama anda?"
+
+msgid "Your last name?"
+msgstr "Nama akhir anda?"
+
+msgid "What are your proficiencies?"
+msgstr "Apakah kecekapan anda?"
+
+msgid "Select country"
+msgstr "Pilih negara"
+
+msgid "Select user"
+msgstr "Pilih pengguna"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Memenuhi impian anda! Buat dan Bekerjasama ."
+
+msgid "date moved from"
+msgstr "Tarikh berpindah dari"
+
+msgid "work"
+msgstr "kerja"
+
+msgid "Conference"
+msgstr "persidangan"
+
+msgid "personal"
+msgstr "peribadi"
+
+msgid "Holiday"
+msgstr "Holiday"
+
+msgid "Past"
+msgstr "Masa lalu"
+
+msgid "Future"
+msgstr "Masa Depan"
+
+msgid "Purchase"
+msgstr "Pembelian"
+
+msgid "Personal events"
+msgstr "Acara peribadi"
+
+msgid "Conferences"
+msgstr "Mesyuarat"
+
+msgid "Holidays"
+msgstr "Cuti"
+
+msgid "Sport events"
+msgstr "Acara sukan"
+
+msgid "Tasks"
+msgstr "Tugas"
+
+msgid "Other events"
+msgstr "Acara-acara lain"
+
+msgid "Set aside"
+msgstr "Ambilan"
+
+msgid "Set aside"
+msgstr "Tertunda"
+
+msgid "Time management"
+msgstr "Pengurusan Masa"
+
+msgid "Delayed events"
+msgstr "Acara tertunda"
+
+msgid "Delayed"
+msgstr "Tertunda"
+
+msgid "Bind to"
+msgstr "Berikan"
+
+msgid "answered your comment to"
+msgstr "Saya berkata (a) Komen pada artikel"
+
+msgid "commented your article"
+msgstr "Saya memberi komen pada artikel anda"
+
+msgid "You\'ve answered on comment to"
+msgstr "Kamu menjawab komen pada artikel"
+
+msgid "You\'ve commented an article"
+msgstr "Anda mengulas mengenai artikel"
+
+msgid "Terms and Conditions"
+msgstr "Terma dan Syarat"
+
+msgid "Privacy Policy"
+msgstr "Dasar Privasi"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Dengan klik pada \"mendaftar\" anda bersetuju dengan kami dan mengakui bahawa anda telah membaca kami"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Sertai komuniti orang kreatif dari seluruh dunia! Anda akan menerima: Melabur dalam idea-idea anda, peluang untuk mengumpulkan pasukannya, bekerja dalam kumpulan, pengurus kewangan, menguruskan masa mereka, 2 gigabait dalam simpanan dan banyak lagi. Dan ianya percuma!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Maaf, tetapi halaman yang anda cari tidak wujud. Jika anda berfikir bahawa untuk menyalahkan kami hubungi kami"
+
+msgid "Return"
+msgstr "Pulangan"
+
+msgid "COMMON"
+msgstr "Jumlah"
+
+msgid "My events"
+msgstr "My Events"
+
+msgid "Job opening"
+msgstr "Kekosongan baru"
+
+msgid "Employment"
+msgstr "Jenis pekerjaan"
+
+msgid "Working hours"
+msgstr "Waktu dibuka"
+
+msgid "City"
+msgstr "Bandar"
+
+msgid "Wages"
+msgstr "Gaji"
+
+msgid "Currency"
+msgstr "Mata Wang"
+
+msgid "Experience"
+msgstr "Pengalaman"
+
+msgid "Full-time"
+msgstr "Guna tenaga penuh"
+
+msgid "Part-time"
+msgstr "Separuh masa"
+
+msgid "Project employment"
+msgstr "Projek / Sementara"
+
+msgid "Volunteer"
+msgstr "Sukarela"
+
+msgid "Internship"
+msgstr "Masa latihan"
+
+msgid "Full day"
+msgstr "Sepenuh Masa"
+
+msgid "Shifts"
+msgstr "Jadual penggantian"
+
+msgid "Flexible shifts"
+msgstr "Jadual fleksibel"
+
+msgid "Remote work"
+msgstr "Kerja jauh"
+
+msgid "Rotational basis"
+msgstr "Kaedah anjakan"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Adakah anda pasti anda mahu memadamkan komen?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Adakah anda pasti anda mahu memadam tugas ini?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Adakah anda pasti anda mahu memadam sub-projek ini?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Anda telah memohon kepada syarikat itu dalam jawatan tersebut. Sila pastikan bahawa"
+
+msgid "Your request to for job has been rejected"
+msgstr "Permintaan anda untuk syarikat itu ke kedudukan telah ditolak"
+
+msgid "Your request to for job has been accepted"
+msgstr "Permintaan anda untuk syarikat itu ke kedudukan telah diterima pakai"
+
+msgid "profile is completed"
+msgstr "Profil anda penuh"
+
+msgid "Use account"
+msgstr "Gunakan akaun"
+
+msgid "$/hr"
+msgstr "$ / Jam"
+
+msgid "Finance category"
+msgstr "Kategori Kewangan"
+
+msgid "No projects"
+msgstr "Tiada projek"
+
+msgid "Bind to finances"
+msgstr "Berikan projek kewangan"
+
+msgid "Preview"
+msgstr "Lihat"
+
+msgid "Download"
+msgstr "Muat turun"
+
+msgid "Save to my cloud"
+msgstr "Salin repositori"
+
+msgid "File successfully saved to your cloud"
+msgstr "Fail berjaya disimpan di dalam tabung anda"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Simpan fail ini di dalam tabung anda?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Pilih kategori Artikel"
+
+msgid "Type something"
+msgstr "Menulis sesuatu"
+
+msgid "Founded users"
+msgstr "Pengguna mendapati"
+
+msgid "Founded articles"
+msgstr "Barang yang dijumpai"
+
+msgid "Founded groups"
+msgstr "Kumpulan Ditubuhkan"
+
+msgid "What are your skills?"
+msgstr "Apakah kemahiran anda?"
+
+msgid "Select at least 2 interests"
+msgstr "Pilih sekurang-kurangnya 2 faedah"
+
+msgid "Need more interests"
+msgstr "Bukan kepentingan cukup dipilih"
+
+msgid "What are you interesting in?"
+msgstr "Apa yang anda berminat?"
+
+msgid "You have no dialogs"
+msgstr "Anda tidak mempunyai dialog"
+
+msgid "Usage Stats"
+msgstr "Negeri"
+
+msgid "Founded files"
+msgstr "Fail-fail Terdapat"
+
+msgid "Big tiles"
+msgstr "Jubin besar"
+
+msgid "Small tiles"
+msgstr "Jubin kecil"
+
+msgid "Table view"
+msgstr "Paparan jadual"
+
+msgid "Root folder"
+msgstr "Direktori root"
+
+msgid "My files"
+msgstr "Fail-fail saya"
+
+msgid "Save as draft"
+msgstr "Jadikan Draf"
+
+msgid "Buy More Space"
+msgstr "Beli lebih banyak ruang"
+
+msgid "Buy"
+msgstr "Membeli"
+
+msgid "You have been invited to group as"
+msgstr "Anda telah dijemput ke kumpulan sebagai"
+
+msgid "User wants to join your group"
+msgstr "Pengguna ingin menyertai kumpulan anda"
+
+msgid "Section is coming soon!"
+msgstr "Seksyen dalam pembinaan!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Views dalam masa 24 jam:"
+
+msgid "Task was updated"
+msgstr "Tugas ini telah dikemaskini"
+
+msgid "Task was closed"
+msgstr "Cabaran telah ditutup"
+
+msgid "Task was created"
+msgstr "Tugasa ini telah ditetapkan"
+
+msgid "Current balance"
+msgstr "Baki semasa"
+
+msgid "Add funds"
+msgstr "Tambah"
+
+msgid "Pay"
+msgstr "Checkout"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Anda telah melebihi bilangan percubaan login. Anda disekat selama 15 minit"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Sila sahkan e-mel anda. Surat yang dihantar kepada anda melalui pos."
+
+msgid "Resend confirmation email"
+msgstr "Menghantar pengesahan lagi"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB sebulan"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Memandu 10 GB setiap tahun"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Cakera 100 GB setiap tahun"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1TB bulanan"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Memandu 1 TB setiap tahun"
+
+msgid "Project members monthly"
+msgstr "Peserta projek pada setiap bulan"
+
+msgid "Project members yearly"
+msgstr "Peserta projek setiap tahun"
+
+msgid "Member(s) yearly"
+msgstr "Ahli (s) bagi setiap tahun"
+
+msgid "Member(s) monthly"
+msgstr "Ahli (s) pada setiap bulan"
+
+msgid "Authorized"
+msgstr "Yang diberi kuasa"
+
+msgid "Authorization expired"
+msgstr "Kebenaran tamat"
+
+msgid "Processor declined"
+msgstr "Sistem pemprosesan Telah"
+
+msgid "Gateway rejected"
+msgstr "Gerbang pembayaran ditolak"
+
+msgid "Failed"
+msgstr "Ralat"
+
+msgid "Voided"
+msgstr "Membatalkan"
+
+msgid "Submitted for settlement"
+msgstr "Dihantar untuk mendaftar"
+
+msgid "Settlement declined"
+msgstr "Pendaftaran telah ditolak"
+
+msgid "Settlement pending"
+msgstr "Sementara menunggu pendaftaran"
+
+msgid "Verified"
+msgstr "Diperiksa"
+
+msgid "Pending"
+msgstr "Sementara menunggu"
+
+msgid "Active"
+msgstr "Aktif"
+
+msgid "Past Due"
+msgstr "Tamat"
+
+msgid "Expired"
+msgstr "Berakhir"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "India"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "South Korea"
+msgstr "Korea Selatan"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Turkey"
+msgstr "Turki"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Germany"
+msgstr "Jerman"
+
+msgid "Italy"
+msgstr "Itali"
+
+msgid "Netherlands"
+msgstr "Belanda"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "United Kingdom"
+msgstr "Great Britain"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "United States"
+msgstr "Amerika Syarikat"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Saudi Arabia"
+msgstr "Arab Saudi"
+
+msgid "Canada"
+msgstr "Mesir"
+
+msgid "Russia"
+msgstr "Rusia"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Pada masa ini, tidak ada satu transaksi"
+
+msgid "Fulfill your dream"
+msgstr "MEMENUHI IMPIAN ANDA"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Sertai komuniti kami individu kreatif dari seluruh dunia."
+
+msgid "Create and Collaborate"
+msgstr "Buat dan Bekerjasama"
+
+msgid "Fulfill your dream"
+msgstr "Memenuhi impian SEKARANG"
+
+msgid "or"
+msgstr "atau"
+
+msgid "Our mission:"
+msgstr "Misi kita:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Untuk menyatukan orang kreatif dan aktif untuk melaksanakan idea-idea dari yang mudah dan permintaan untuk yang luar biasa dan hebat, yang boleh membentuk masa depan kita."
+
+msgid "What is Konstruktor?"
+msgstr "Apakah Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - adalah sebahagian daripada kehidupan sebenar, yang ketara memudahkan dan memudahkan"
+
+msgid "*business processes"
+msgstr "* proses perniagaan"
+
+msgid "*materialization of creative ideas"
+msgstr "* Terwujudnya idea-idea kreatif"
+
+msgid "*constructive cooperation"
+msgstr "* kerjasama yang membina"
+
+msgid "Make your dream!"
+msgstr "Membuat impian anda!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "Ketua Pegawai Eksekutif"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Penasihat Khas"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Brigitte Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Pengurus, Pembangunan Perisian"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Peguam kanan"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Designer"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Dengan klik pada butang \"Next\", anda menerima dan bersetuju dengan Terma dan Syarat, dan anda mengakui bahawa anda telah membaca Dasar Privasi kami."
+
+msgid "Incorrect login or password."
+msgstr "Log masuk atau kata laluan salah."
+
+msgid "Password must be at least 6 characters"
+msgstr "Kata laluan mestilah sekurang-kurangnya 6 aksara"
+
+msgid "January"
+msgstr "Januari"
+
+msgid "February"
+msgstr "Februari"
+
+msgid "March"
+msgstr "Mac"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "June"
+msgstr "Jun"
+
+msgid "July"
+msgstr "Julai"
+
+msgid "August"
+msgstr "Ogos"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "Disember"
+
+msgid "Chat"
+msgstr "Dinding"
+
+msgid "Files"
+msgstr "Fail-fail"
+
+msgid "Statistic"
+msgstr "Statistik"
+
+msgid "Support"
+msgstr "Sokongan"
+
+msgid "Exit"
+msgstr "Keluar"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Marketing specialist"
+msgstr "Pakar pemasaran"
+
+msgid "Administrator"
+msgstr "Pentadbir"
+
+msgid "Shared with me"
+msgstr "Berkongsi dengan saya"
+
+msgid "File Sharing"
+msgstr "Perkongsian Fail"
+
+msgid "Provide access by link"
+msgstr "Menyediakan akses dengan link"
+
+msgid "Provide Individual access"
+msgstr "Menyediakan akses Individu"
+
+msgid "Provide edit access"
+msgstr "Menyediakan mengedit akses"
+
+msgid "Share"
+msgstr "Kongsi"
+
+msgid "Files will be available only for selected users"
+msgstr "Fail-fail yang boleh didapati hanya untuk pengguna yang dipilih"
+
+msgid "With this link everyone can access to the files"
+msgstr "Dengan ini menghubungkan semua orang boleh akses ke fail"
+
+msgid "Search users, groups, articles..."
+msgstr "Cari pengguna, kumpulan, artikel ..."
+
+msgid "My Group"
+msgstr "Kumpulan Saya"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Kami"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Fail tidak dipilih"
+
+msgid "Set aside"
+msgstr "Mengetepikan"
+
+msgid "Event time"
+msgstr "Masa acara"
+
+msgid "Work"
+msgstr "Kerja"
+
+msgid "Personal"
+msgstr "Peribadi"
+
+msgid "Time spent for work:"
+msgstr "Masa untuk kerja-kerja:"
+
+msgid "Personal time spent:"
+msgstr "Masa peribadi dibelanjakan:"
+
+msgid "Present"
+msgstr "Hadir"
+
+msgid "Common"
+msgstr "Common"
+
+msgid "Sport"
+msgstr "Sukan"
+
+msgid "Entertainment"
+msgstr "Hiburan"
+
+msgid "Select:"
+msgstr "Pilih:"
+
+msgid "Invalid username or password."
+msgstr "Nama pengguna atau kata laluan tidak sah."
+
+msgid "Try again."
+msgstr "Cuba lagi."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "APAKAH ANDA TERTARIK?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Pilih sekurang-kurangnya 2 kemahiran: kekal 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Pilih sekurang-kurangnya 2 kemahiran: kekal 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Pilih sekurang-kurangnya 2 kemahiran: Jenazah"
+
+msgid "Active life"
+msgstr "Kehidupan aktif"
+
+msgid "Arts and culture"
+msgstr "Kesenian dan kebudayaan"
+
+msgid "Business"
+msgstr "Perniagaan"
+
+msgid "Cinema"
+msgstr "Pawagam"
+
+msgid "Communications"
+msgstr "Komunikasi"
+
+msgid "Construction and repair"
+msgstr "Pembinaan dan pembaikan"
+
+msgid "Cooking"
+msgstr "Memasak"
+
+msgid "Education"
+msgstr "Pendidikan"
+
+msgid "Electronics"
+msgstr "Elektronik"
+
+msgid "Finances"
+msgstr "Kewangan"
+
+msgid "Graphics and design"
+msgstr "Grafik dan reka bentuk"
+
+msgid "Health"
+msgstr "Kesihatan"
+
+msgid "Home and family"
+msgstr "Rumah dan keluarga"
+
+msgid "Humor"
+msgstr "Humor"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Industri"
+
+msgid "Insurance"
+msgstr "Insurance"
+
+msgid "Literature"
+msgstr "Kesusasteraan"
+
+msgid "Mobile communications and internet"
+msgstr "Komunikasi mudah alih dan internet"
+
+msgid "News and Media"
+msgstr "Berita dan Media"
+
+msgid "Pets"
+msgstr "Haiwan"
+
+msgid "Products and service"
+msgstr "Produk dan Perkhidmatan"
+
+msgid "Real Estate"
+msgstr "Hartanah"
+
+msgid "Religion"
+msgstr "Agama"
+
+msgid "Science and techs"
+msgstr "Sains dan techs"
+
+msgid "Security"
+msgstr "Keselamatan"
+
+msgid "Society"
+msgstr "Persatuan"
+
+msgid "Television"
+msgstr "Televisyen"
+
+msgid "Travel"
+msgstr "Pelancongan"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belgium"
+msgstr "Belgium"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Denmark"
+
+msgid "France"
+msgstr "Perancis"
+
+msgid "Germany"
+msgstr "Jerman"
+
+msgid "Greece"
+msgstr "Greece"
+
+msgid "Hungary"
+msgstr "Hungary"
+
+msgid "Iceland"
+msgstr "Iceland"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Itali"
+
+msgid "Japan"
+msgstr "Jepun"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Netherlands"
+msgstr "Belanda"
+
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Russia"
+msgstr "Rusia"
+
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgid "South Africa"
+msgstr "Afrika Selatan"
+
+msgid "South Korea"
+msgstr "Korea Selatan"
+
+msgid "Spain"
+msgstr "Sepanyol"
+
+msgid "Sweden"
+msgstr "Sweden"
+
+msgid "Switzerland"
+msgstr "Switzerland"
+
+msgid "Turkey"
+msgstr "Turki"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "United Arab Emirates"
+msgstr "Emiriah Arab Bersatu"
+
+msgid "United Kingdom"
+msgstr "United Kingdom"
+
+msgid "United States"
+msgstr "Amerika Syarikat"
+
+msgid "achievements"
+msgstr "pencapaian"
+
+msgid "Investment management"
+msgstr "Pengurusan pelaburan"
+
+msgid "Select..."
+msgstr "Pilih ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "PENGURUSAN PELABURAN"
+
+msgid "Investors list"
+msgstr "Senarai pelabur"
+
+msgid "My investments"
+msgstr "Pelaburan saya"
+
+msgid "Create date"
+msgstr "Buat tarikh"
+
+msgid "Author of the project"
+msgstr "Pengarang projek"
+
+msgid "Date and time"
+msgstr "Tarikh dan masa"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+msgid "Next"
+msgstr "Seterusnya"
+
+msgid "Apply"
+msgstr "Memohon"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Sains"
+
+msgid "Architecture"
+msgstr "Architecture"
+
+msgid "Photography"
+msgstr "Photography"
+
+msgid "Designer"
+msgstr "Designer"
+
+msgid "IT specialist"
+msgstr "Pakar IT"
+
+msgid "Agronomist"
+msgstr "Agronomi"
+
+msgid "Architect"
+msgstr "Architect"
+
+msgid "Lawyer"
+msgstr "Peguam"
+
+msgid "Writer"
+msgstr "Penulis"
+
+msgid "Doctor"
+msgstr "Doktor"
+
+msgid "Scientist"
+msgstr "Saintis"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Guru"
+
+msgid "Cook"
+msgstr "Cook"
+
+msgid "Artist"
+msgstr "Artist"
+
+msgid "Photographer"
+msgstr "Photographer"
+
+msgid "Ecologist"
+msgstr "Ekologi"
+
+msgid "Economist"
+msgstr "Economist"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Wartawan"
+
+msgid "Builder"
+msgstr "Pembina"
+
+msgid "These users may be interesting for you"
+msgstr "Pengguna ini mungkin menarik untuk anda"
+
+msgid "These articles may be interesting for you"
+msgstr "Artikel ini mungkin menarik untuk anda"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Anda menyertai kumpulan ini sebagai Аdministrator"
+
+msgid "articles written."
+msgstr "artikel yang ditulis."
+
+msgid "groups created."
+msgstr "kumpulan diwujudkan."
+
+msgid "Creation"
+msgstr "Penciptaan"
+
+msgid "Build a dream"
+msgstr "Membina mimpi"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Baca artikel lebih menarik - pergi pendaftaran percuma"
+

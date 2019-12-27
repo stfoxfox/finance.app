@@ -1,0 +1,3347 @@
+# 中国（简体）(Китайский (Упрощенный)) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: 中国（简体）(Китайский (Упрощенный)) <support@konstruktor.com>\n"
+"Language: 中国（简体）(Китайский (Упрощенный))\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "用户名Yònghù míng"
+
+msgid "Invalid username or password, try again"
+msgstr "不正确的用户名和密码。再试一次。"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Home"
+msgstr "家"
+
+msgid "You must log in to access this page"
+msgstr "你必须登录才能访问此页面"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "您的会话已过期。请重新登录才能执行此操作"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Head Office"
+msgstr "总公司"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "Back"
+msgstr "背部"
+
+msgid "Apply"
+msgstr "申请"
+
+msgid "Upload files…"
+msgstr "上传文件..."
+
+msgid "Set as main"
+msgstr "设置为主"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Original image"
+msgstr "原始图像"
+
+msgid "Uploaded"
+msgstr "上传"
+
+msgid "File name"
+msgstr "文件名"
+
+msgid "File size"
+msgstr "文件大小"
+
+msgid "Resolution"
+msgstr "决议案"
+
+msgid "Enlarge"
+msgstr "扩大"
+
+msgid "Links"
+msgstr "链接"
+
+msgid "Original size"
+msgstr "原稿尺寸"
+
+msgid "For editor"
+msgstr "对于编辑器"
+
+msgid "Resize"
+msgstr "调整"
+
+msgid "Width"
+msgstr "宽度"
+
+msgid "Height"
+msgstr "高度"
+
+msgid "Media URL"
+msgstr "媒体URL"
+
+msgid "Add record"
+msgstr "添加记录"
+
+msgid "Show filter settings"
+msgstr "显示过滤器设置"
+
+msgid "Edit record"
+msgstr "编辑记录"
+
+msgid "Delete record"
+msgstr "删除记录"
+
+msgid "Delete checked records"
+msgstr "删除检查记录"
+
+msgid "Dashboard"
+msgstr "仪表盘"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Remember me"
+msgstr "记得我"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "Clean image cache"
+msgstr "干净的图像缓存"
+
+msgid "Processing query..."
+msgstr "处理查询..."
+
+msgid "CMS Development"
+msgstr "CMS开发"
+
+msgid "Admin Home Page"
+msgstr "联系主页"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "前端在新标签中打开主页"
+
+msgid "Go to Site"
+msgstr "转到网站"
+
+msgid "Log out"
+msgstr "注销"
+
+msgid "Send"
+msgstr "发送"
+
+msgid "General"
+msgstr "一般"
+
+msgid "Title"
+msgstr "称号"
+
+msgid "Teaser"
+msgstr "传情"
+
+msgid "Published"
+msgstr "发布时间"
+
+msgid "Featured"
+msgstr "精选"
+
+msgid "Active"
+msgstr "活跃"
+
+msgid "Field is mandatory"
+msgstr "字段是强制性的"
+
+msgid "Sort Order"
+msgstr "排序"
+
+msgid "Upload"
+msgstr "上传"
+
+msgid "Loading..."
+msgstr "加载中..."
+
+msgid "Jan"
+msgstr "一月"
+
+msgid "Feb"
+msgstr "二月"
+
+msgid "Mar"
+msgstr "三月"
+
+msgid "Apr"
+msgstr "四月"
+
+msgid "May"
+msgstr "五月"
+
+msgid "Jun"
+msgstr "六月"
+
+msgid "Jul"
+msgstr "七月"
+
+msgid "Aug"
+msgstr "八月"
+
+msgid "Sep"
+msgstr "九月"
+
+msgid "Oct"
+msgstr "十月"
+
+msgid "Nov"
+msgstr "十一月"
+
+msgid "Dec"
+msgstr "十二月"
+
+msgid "Product already exists in the order"
+msgstr "产品中已存在的顺序"
+
+msgid "Product does not exist"
+msgstr "产品不存在"
+
+msgid "Incorrect request"
+msgstr "不正确的请求"
+
+msgid "Products"
+msgstr "制品"
+
+msgid "Product types"
+msgstr "产品类型"
+
+msgid "Contractors"
+msgstr "承包商"
+
+msgid "Contractor"
+msgstr "承包商"
+
+msgid "Orders"
+msgstr "订单"
+
+msgid "FAQ"
+msgstr "常问问题"
+
+msgid "New order"
+msgstr "新订单"
+
+msgid "My orders"
+msgstr "我的订单"
+
+msgid "Recharge balance"
+msgstr "充值余额"
+
+msgid "Administrator"
+msgstr "管理员"
+
+msgid "Incorrect event ID"
+msgstr "不正确的事件ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid ""
+msgstr "技术。参数"
+
+msgid "Edit contractor"
+msgstr "编辑承包商"
+
+msgid "Create contractor"
+msgstr "创建承包商"
+
+msgid "Edit question"
+msgstr "编辑问题"
+
+msgid "Create question"
+msgstr "创建问题"
+
+msgid "Edit order"
+msgstr "编辑订单"
+
+msgid "Create order"
+msgstr "创建订单"
+
+msgid "Edit product"
+msgstr "编辑产品"
+
+msgid "Create product"
+msgstr "创建产品"
+
+msgid "Edit product type"
+msgstr "编辑产品类型"
+
+msgid "Create product type"
+msgstr "创建产品类型"
+
+msgid "You have received a file"
+msgstr "您收到文件"
+
+msgid "You received a file from"
+msgstr "从收到文件"
+
+msgid "File has been uploaded"
+msgstr "文件已被上传"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "最小量"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "项目"
+
+msgid "Remove"
+msgstr "拆除"
+
+msgid "Contact person"
+msgstr "联络人"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "Contractor phone"
+msgstr "承包商电话"
+
+msgid "Contractor name"
+msgstr "承包人名称"
+
+msgid "Contractor details"
+msgstr "承包细节"
+
+msgid "Order ID"
+msgstr "订单ID"
+
+msgid "Sum"
+msgstr "总和"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "选择合适的支付系统进行充值您的余额"
+
+msgid "Recharge amount"
+msgstr "充值金额"
+
+msgid "Paid"
+msgstr "付费"
+
+msgid "Shipped"
+msgstr "发货"
+
+msgid "- No products in this order -"
+msgstr "- 没有产品在这个顺序 -"
+
+msgid "month"
+msgstr "月"
+
+msgid "No user found"
+msgstr "找不到用户"
+
+msgid "Achievement"
+msgstr "成就"
+
+msgid "Confirmed accomplishments"
+msgstr "确认成就"
+
+msgid "Remove achievement"
+msgstr "删除成就"
+
+msgid "Headquaters"
+msgstr "指挥部"
+
+msgid "Phone"
+msgstr "电话"
+
+msgid "Site URL and email"
+msgstr "网站的网址和电子邮件"
+
+msgid "Remove address"
+msgstr "删除地址"
+
+msgid "Members"
+msgstr "会员"
+
+msgid "Requires a payment"
+msgstr "要求付款"
+
+msgid "Shipping"
+msgstr "航运"
+
+msgid "Ready"
+msgstr "准备"
+
+msgid "Find user..."
+msgstr "查找用户..."
+
+msgid "Order it"
+msgstr "定购"
+
+msgid "Find group..."
+msgstr "查找组..."
+
+msgid "Find user or community..."
+msgstr "查找用户或社区......"
+
+msgid "No item found"
+msgstr "未发现商品"
+
+msgid "years"
+msgstr "岁月"
+
+msgid "Send message"
+msgstr "发送信息"
+
+msgid "Message"
+msgstr "信息"
+
+msgid "To send message press Enter"
+msgstr "发送邮件并按Enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "发送邮件按Ctrl + Enter"
+
+msgid "Processing file(s)..."
+msgstr "处理文件（县） ..."
+
+msgid "Group settings"
+msgstr "组设置"
+
+msgid "Create group"
+msgstr "创建组"
+
+msgid "Group has been successfully saved"
+msgstr "集团已成功保存"
+
+msgid "Group title"
+msgstr "组标题"
+
+msgid "Group video"
+msgstr "集团视频"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Your role in group"
+msgstr "您的角色组"
+
+msgid "Role"
+msgstr "角色"
+
+msgid "Photo or video gallery"
+msgstr "照片或视频库"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com网址"
+
+msgid "Upload video"
+msgstr "上传视频"
+
+msgid "Add group address"
+msgstr "添加组地址"
+
+msgid "Group articles"
+msgstr "集团篇"
+
+msgid "No addresses yet"
+msgstr "没有地址尚未"
+
+msgid "Add group achievement"
+msgstr "添加组成绩"
+
+msgid "No achivements yet"
+msgstr "没有achivements还"
+
+msgid "Are you sure to delete this user"
+msgstr "您确定要删除这个用户"
+
+msgid "Add member"
+msgstr "加入会员"
+
+msgid "Are you sure to delete this record?"
+msgstr "您确定要删除此记录？"
+
+msgid "Join this group"
+msgstr "加入该组群"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "您的邀请发送到管理员组"
+
+msgid "All addresses"
+msgstr "所有的地址"
+
+msgid "Collapse"
+msgstr "崩溃"
+
+msgid "Achievements"
+msgstr "成就"
+
+msgid "Show more"
+msgstr "显示更多"
+
+msgid "Team"
+msgstr "球队"
+
+msgid "Projects"
+msgstr "工程"
+
+msgid "New project"
+msgstr "新项目"
+
+msgid "Project has not been created yet"
+msgstr "项目尚未创建"
+
+msgid "Messanger"
+msgstr "信使"
+
+msgid "Balance"
+msgstr "平衡"
+
+msgid "Main page"
+msgstr "主页"
+
+msgid "Upload image"
+msgstr "上传图片"
+
+msgid "My time"
+msgstr "我的时间"
+
+msgid "Day"
+msgstr "天"
+
+msgid "Week"
+msgstr "周"
+
+msgid "Project settings"
+msgstr "项目设置"
+
+msgid "Create project"
+msgstr "创建项目"
+
+msgid "Project has been successfully saved"
+msgstr "项目已成功保存"
+
+msgid "Project name"
+msgstr "项目名称"
+
+msgid "Deadline"
+msgstr "期限"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Manager"
+msgstr "经理"
+
+msgid "Assigned to"
+msgstr "分配给"
+
+msgid "Discussion"
+msgstr "讨论"
+
+msgid "Task was created"
+msgstr "任务是创建"
+
+msgid "Task was closed"
+msgstr "任务被关闭"
+
+msgid "Go to Group"
+msgstr "转到集团"
+
+msgid "Closed"
+msgstr "关闭"
+
+msgid "Last updates"
+msgstr "最后更新"
+
+msgid "Project is closed"
+msgstr "项目关闭"
+
+msgid "No open tasks"
+msgstr "没有开放的任务"
+
+msgid "New task"
+msgstr "新任务"
+
+msgid "Closed tasks"
+msgstr "封闭式任务"
+
+msgid "Add subproject"
+msgstr "添加子项目"
+
+msgid "Add task"
+msgstr "添加任务"
+
+msgid "Sun"
+msgstr "星期天"
+
+msgid "Mon"
+msgstr "星期一"
+
+msgid "Tue"
+msgstr "星期二"
+
+msgid "Wed"
+msgstr "星期三"
+
+msgid "Thur"
+msgstr "星期四"
+
+msgid "Fri"
+msgstr "星期五"
+
+msgid "Sat"
+msgstr "星期六"
+
+msgid "Event title"
+msgstr "活动名称"
+
+msgid "Event description"
+msgstr "事件描述"
+
+msgid "I registered on this site"
+msgstr "我注册了这个网站"
+
+msgid "Last created groups"
+msgstr "最后创建的组"
+
+msgid "You joined this group as"
+msgstr "你加入这个组作为"
+
+msgid "You received a request to join the group"
+msgstr "您收到请求加入群"
+
+msgid "Updated site"
+msgstr "更新网站"
+
+msgid "Site is under construction"
+msgstr "网站正在建设中"
+
+msgid "Last registered users"
+msgstr "最后注册用户"
+
+msgid "User settings"
+msgstr "用户设置"
+
+msgid "Technical support"
+msgstr "技术支持"
+
+msgid "Change email"
+msgstr "更改电子邮件"
+
+msgid "Change password"
+msgstr "更改密码"
+
+msgid "User has been successfully saved"
+msgstr "用户已成功保存"
+
+msgid "Full name"
+msgstr "全名"
+
+msgid "My video"
+msgstr "我的视频"
+
+msgid "Skills"
+msgstr "技能"
+
+msgid "Birthday"
+msgstr "生日"
+
+msgid "Country of residence"
+msgstr "居住国家"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "Zip Code"
+msgstr "邮政编码"
+
+msgid "City/town of residence"
+msgstr "城市/城镇住宅"
+
+msgid "University/college"
+msgstr "大学/学院"
+
+msgid "University/college photo"
+msgstr "大学/学院照片"
+
+msgid "Add user\'s accomplishments"
+msgstr "添加用户的成绩"
+
+msgid "Interface language"
+msgstr "界面语言"
+
+msgid "How other people see this page"
+msgstr "别人怎么看这页"
+
+msgid "Video with me"
+msgstr "视频与我"
+
+msgid "Groups"
+msgstr "群体"
+
+msgid "Registered today"
+msgstr "现在注册"
+
+msgid "Qty"
+msgstr "数量"
+
+msgid "No registered users yet"
+msgstr "没有注册用户还"
+
+msgid "Total"
+msgstr "总"
+
+msgid "Registered total"
+msgstr "总注册"
+
+msgid "You received a file"
+msgstr "你收到的文件"
+
+msgid "You were invited into this room"
+msgstr "你被邀请到这间屋里"
+
+msgid "Request is being processed"
+msgstr "请求处理中"
+
+msgid "Fax"
+msgstr "传真"
+
+msgid "Messenger"
+msgstr "信差"
+
+msgid "New subproject"
+msgstr "新的子项目"
+
+msgid "messages written."
+msgstr "信息写入。"
+
+msgid "projects created based on groups."
+msgstr "基于组项目所创造。"
+
+msgid "users registered on website."
+msgstr "注册用户在网站上。"
+
+msgid "New email"
+msgstr "新的电子邮件"
+
+msgid "Confirm email"
+msgstr "确认电子邮件"
+
+msgid "New password"
+msgstr "新密码"
+
+msgid "Confirm password"
+msgstr "确认密码"
+
+msgid "Occupation"
+msgstr "专业"
+
+msgid "Timezone"
+msgstr "时区"
+
+msgid "Answer"
+msgstr "响应"
+
+msgid "Articles"
+msgstr "文章"
+
+msgid "Article"
+msgstr "文章"
+
+msgid "Video-article"
+msgstr "视频文章"
+
+msgid "Find article..."
+msgstr "查找文章..."
+
+msgid "Politics"
+msgstr "政"
+
+msgid "Economics"
+msgstr "经济学"
+
+msgid "Community"
+msgstr "社会的"
+
+msgid "Culture"
+msgstr "文"
+
+msgid "Sports"
+msgstr "体育运动"
+
+msgid "Hi-tech"
+msgstr "高新"
+
+msgid "Cars"
+msgstr "汽车"
+
+msgid "Fashion"
+msgstr "时尚"
+
+msgid "Games"
+msgstr "游戏"
+
+msgid "Other"
+msgstr "另"
+
+msgid "Invalid mediafile"
+msgstr "无效的媒体文件"
+
+msgid "No articles in this category yet"
+msgstr "此类别中没有文章还"
+
+msgid "Back to profile"
+msgstr "返回至个人档案"
+
+msgid "View article"
+msgstr "查看文章"
+
+msgid "Edit article"
+msgstr "编辑文章"
+
+msgid "Create article"
+msgstr "创建文章"
+
+msgid "Article title"
+msgstr "文章标题"
+
+msgid "Article section"
+msgstr "第三部分"
+
+msgid "Choose image"
+msgstr "选择图片"
+
+msgid "Save and upload"
+msgstr "保存并上传"
+
+msgid "Show more..."
+msgstr "再表达一些..."
+
+msgid "Create"
+msgstr "创"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Project"
+msgstr "工程"
+
+msgid "Team"
+msgstr "团队"
+
+msgid "A new article was published"
+msgstr "新文章发表"
+
+msgid "You joined this project"
+msgstr "你加入这个项目"
+
+msgid "Enter your information in the User settings"
+msgstr "在用户设置中输入您的信息"
+
+msgid "Communities"
+msgstr "社区"
+
+msgid "Video presentation of my accomplishments"
+msgstr "我的成就视频演示"
+
+msgid "My articles"
+msgstr "我的文章"
+
+msgid "User"
+msgstr "用户"
+
+msgid "Users"
+msgstr "用户"
+
+msgid "Add new list"
+msgstr "添加新的列表"
+
+msgid "List title"
+msgstr "列表标题"
+
+msgid "Add"
+msgstr "加"
+
+msgid "Add to favorites"
+msgstr "添加到收藏夹"
+
+msgid "Delete from favorites"
+msgstr "从收藏夹中删除"
+
+msgid "Select list"
+msgstr "选择列表"
+
+msgid "Subscriptions"
+msgstr "订阅"
+
+msgid "Subscribe"
+msgstr "订"
+
+msgid "Unsubscribe"
+msgstr "退订"
+
+msgid "General list"
+msgstr "一般列表"
+
+msgid "No users in this list"
+msgstr "在这个列表中没有任何用户"
+
+msgid "Publish"
+msgstr "公布"
+
+msgid "Unpublish"
+msgstr "取消发布"
+
+msgid "Add user"
+msgstr "添加用户"
+
+msgid "Create document"
+msgstr "创建文件"
+
+msgid "Edit document"
+msgstr "编辑文档"
+
+msgid "View"
+msgstr "查看"
+
+msgid "Document title"
+msgstr "文件标题"
+
+msgid "Find document..."
+msgstr "查找文档..."
+
+msgid "Share your thoughts"
+msgstr "分享您的想法"
+
+msgid "Leave your comment"
+msgstr "留下您的评论"
+
+msgid "Accept"
+msgstr "收"
+
+msgid "Decline"
+msgstr "下降"
+
+msgid "Add article"
+msgstr "添加文章"
+
+msgid "Link to verified accomplishments"
+msgstr "鏈接到驗證成就"
+
+msgid "No articles here yet..."
+msgstr "沒有文章現在還沒有到"
+
+msgid "Find file or folder..."
+msgstr "查找文件或文件夹..."
+
+msgid "Sort"
+msgstr "种类"
+
+msgid "By name"
+msgstr "按名称"
+
+msgid "By date"
+msgstr "创作时间"
+
+msgid "By updated date"
+msgstr "更新日期"
+
+msgid "By size"
+msgstr "飞度"
+
+msgid "By type"
+msgstr "按类型"
+
+msgid "Move"
+msgstr "搬家"
+
+msgid "File Manager"
+msgstr "文件管理器"
+
+msgid "Share link"
+msgstr "股票"
+
+msgid "Responsible"
+msgstr "主管"
+
+msgid "Performer"
+msgstr "演员"
+
+msgid "New Folder"
+msgstr "新建文件夹"
+
+msgid "Folder name"
+msgstr "文件夹名称"
+
+msgid "By default"
+msgstr "默认情况下"
+
+msgid "Back to group"
+msgstr "回到组"
+
+msgid "year(s)"
+msgstr "今年（S）"
+
+msgid "January"
+msgstr "一月"
+
+msgid "February"
+msgstr "二月"
+
+msgid "March"
+msgstr "三月"
+
+msgid "April"
+msgstr "四月"
+
+msgid "May"
+msgstr "五月"
+
+msgid "June"
+msgstr "六月"
+
+msgid "July"
+msgstr "七月"
+
+msgid "August"
+msgstr "八月"
+
+msgid "September"
+msgstr "九月"
+
+msgid "October"
+msgstr "十月"
+
+msgid "November"
+msgstr "十一月"
+
+msgid "December"
+msgstr "十二月"
+
+msgid "Password Reminder"
+msgstr "密碼提示"
+
+msgid "Log In"
+msgstr "登錄"
+
+msgid "Sign in"
+msgstr "請登錄"
+
+msgid "Register"
+msgstr "註冊"
+
+msgid "First name"
+msgstr "名字"
+
+msgid "Last name"
+msgstr "姓"
+
+msgid "I agree with rules"
+msgstr "我同意規則"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "確認郵件發送到您的電子郵件地址。"
+
+msgid "Thanks"
+msgstr "謝意"
+
+msgid "Password must be at least 6 characters"
+msgstr "密碼必須至少6個字符"
+
+msgid "Creative Environment"
+msgstr "創作環境"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "你必須至少13歲才能使用此服務"
+
+msgid "Order status"
+msgstr "訂單狀態"
+
+msgid "Processing order"
+msgstr "處理訂單"
+
+msgid "Requires a payment"
+msgstr "要求付款"
+
+msgid "Shipping"
+msgstr "航運"
+
+msgid "Ready"
+msgstr "願"
+
+msgid "Thank you for your payment"
+msgstr "謝謝您的付款"
+
+msgid "Your payment has been cancelled"
+msgstr "您的付款已被取消"
+
+msgid "page"
+msgstr "頁面"
+
+msgid "Rent period"
+msgstr "租賃期"
+
+msgid "Total, month"
+msgstr "總計，月"
+
+msgid "Order items"
+msgstr "訂購項目"
+
+msgid "No records found"
+msgstr "沒有找到記錄"
+
+msgid "User with this email is already exist"
+msgstr "用戶使用此電子郵件已經存在"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "文件夾或文件名等在目標文件夾中已存在"
+
+msgid "Minimal quantity"
+msgstr "最小數量"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "打印副本"
+
+msgid "Terms of Use"
+msgstr "使用條款"
+
+msgid "Privacy Policy"
+msgstr "隱私政策"
+
+msgid "Find project..."
+msgstr "尋找項目..."
+
+msgid "New Project"
+msgstr "新建項目"
+
+msgid "Accounts"
+msgstr "帳戶"
+
+msgid "Operations"
+msgstr "操作"
+
+msgid "All accounts"
+msgstr "所有帳戶"
+
+msgid "All categories"
+msgstr "所有分類"
+
+msgid "Expense"
+msgstr "花費"
+
+msgid "Income"
+msgstr "收"
+
+msgid "Transfer"
+msgstr "轉讓"
+
+msgid "Expense"
+msgstr "花費"
+
+msgid "income"
+msgstr "收入"
+
+msgid "tax"
+msgstr "稅"
+
+msgid "percent"
+msgstr "百分"
+
+msgid "transfer"
+msgstr "轉讓"
+
+msgid "Make operation"
+msgstr "使操作"
+
+msgid "Select date"
+msgstr "選擇日期"
+
+msgid "Select account"
+msgstr "選擇賬戶"
+
+msgid "Month"
+msgstr "一個月"
+
+msgid "Quarter"
+msgstr "季"
+
+msgid "Year"
+msgstr "新年"
+
+msgid "From"
+msgstr "離"
+
+msgid "To"
+msgstr "到"
+
+msgid "Expense amount"
+msgstr "消费金额"
+
+msgid "Categories"
+msgstr "分类"
+
+msgid "Comments"
+msgstr "评论"
+
+msgid "Income amount"
+msgstr "收入金额"
+
+msgid "Transfer amount"
+msgstr "转让金额"
+
+msgid "From account"
+msgstr "从账户"
+
+msgid "To account"
+msgstr "为了说明"
+
+msgid "New Account"
+msgstr "新账户"
+
+msgid "New Category"
+msgstr "新类别"
+
+msgid "All"
+msgstr "所有"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Enter category name"
+msgstr "输入类别名称"
+
+msgid "Select type"
+msgstr "选择类型"
+
+msgid "Credit card"
+msgstr "信用卡"
+
+msgid "Debit card"
+msgstr "借记卡"
+
+msgid "Bank account"
+msgstr "银行户口"
+
+msgid "Cash"
+msgstr "现金"
+
+msgid "Balance is empty"
+msgstr "平衡是空的"
+
+msgid "Statistic is empty"
+msgstr "统计是空的"
+
+msgid "Regular payments"
+msgstr "定期付款"
+
+msgid "Are you sure ?"
+msgstr "你确定 ？"
+
+msgid "Are you sure to close this project?"
+msgstr "您确定要关闭这个项目？"
+
+msgid "Project was deleted successfully"
+msgstr "项目已成功删除"
+
+msgid "Select currency"
+msgstr "选择货币"
+
+msgid "Account"
+msgstr "帐户"
+
+msgid "Orders list"
+msgstr "订单列表"
+
+msgid "Order payments"
+msgstr "订购付款"
+
+msgid "View order"
+msgstr "查看订单"
+
+msgid "No response from Printer API"
+msgstr "从打印机API无响应"
+
+msgid "Bad response from Printer API"
+msgstr "从打印机API不良反应"
+
+msgid "User ID"
+msgstr "用户帐号"
+
+msgid "Contact Person"
+msgstr "联系人"
+
+msgid "No orders to process"
+msgstr "没有订单处理"
+
+msgid "Article announce image"
+msgstr "文章发布图像"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "无效的视频网址。保留为空或插入有效的YouTube网址"
+
+msgid "Please, enter Contractor data"
+msgstr "请输入承包商数据"
+
+msgid "Distribute devices"
+msgstr "分发设备"
+
+msgid "Quantity"
+msgstr "数量"
+
+msgid "Devices left"
+msgstr "左设备"
+
+msgid "Distributed devices"
+msgstr "分布式设备"
+
+msgid "You must enter quantity"
+msgstr "您必须输入数量"
+
+msgid "All devices are distributed"
+msgstr "所有设备均分布"
+
+msgid "IP address"
+msgstr "IP地址"
+
+msgid "Only for printer"
+msgstr "仅适用于打印机"
+
+msgid "Counter"
+msgstr "计数器"
+
+msgid "You was excluded from this room"
+msgstr "你被排除在这个房间"
+
+msgid "Compare"
+msgstr "比"
+
+msgid "Scheduled transaction"
+msgstr "计划交易"
+
+msgid "Select transfer account"
+msgstr "选择转帐"
+
+msgid "Select income account"
+msgstr "选择损益"
+
+msgid "Reports"
+msgstr "报告"
+
+msgid "Goals"
+msgstr "进球"
+
+msgid "Budgets"
+msgstr "预算"
+
+msgid "Enter user name or email..."
+msgstr "输入用户名或电子邮件..."
+
+msgid "Invite had been sended"
+msgstr "邀请已经sended"
+
+msgid "Statistics"
+msgstr "统计"
+
+msgid "Updated site began to work"
+msgstr "更新的网站开始工作"
+
+msgid "City of residence"
+msgstr "居住城市"
+
+msgid "Edit favourites list"
+msgstr "编辑收藏夹列表"
+
+msgid "Add favourites list"
+msgstr "加入收藏夹"
+
+msgid "Categories is required"
+msgstr "分类是必需的"
+
+msgid "Type new category name and hit Enter"
+msgstr "键入新的类别名称，然后按Enter"
+
+msgid "You created an order"
+msgstr "您创建了一个订单"
+
+msgid "You received a device due to this order"
+msgstr "你因该顺序接收设备"
+
+msgid "%s attached %s to task %s"
+msgstr "％s的连接％s到任务％s的"
+
+msgid "member(s)"
+msgstr "构件（S ）"
+
+msgid "%s commented task %s"
+msgstr "％S评价任务％S"
+
+msgid "%s closed task %s"
+msgstr "％S闭合任务％S"
+
+msgid "%s created task %s"
+msgstr "％S创建的任务％S"
+
+msgid "%s created this project"
+msgstr "％S创建此项目"
+
+msgid "%s created subproject \"%s\""
+msgstr "％S创建子项目“ ％S ”"
+
+msgid "%s closed project \"%s\""
+msgstr "％S闭合工程“ ％s的”"
+
+msgid "%s closed subproject \"%s\""
+msgstr "％S闭合子项目“ ％S ”"
+
+msgid "This field must not be blank"
+msgstr "此字段不能为空"
+
+msgid "Document with such name is already exist"
+msgstr "文档这样的名字已经存在"
+
+msgid "Wait until image upload"
+msgstr "等到图片上传"
+
+msgid "Video"
+msgstr "视频"
+
+msgid "Message can not be empty"
+msgstr "信息不能为空"
+
+msgid "Yes"
+msgstr "对"
+
+msgid "No"
+msgstr "否"
+
+msgid "Created"
+msgstr "创建"
+
+msgid "Compare is empty"
+msgstr "比较是空的"
+
+msgid "Are you sure you want to delete operation"
+msgstr "你确定要删除操作"
+
+msgid "Do you really want to delete transaction"
+msgstr "难道你真的要删除事务"
+
+msgid "Project with same name already exists"
+msgstr "项目具有相同的名称已经存在"
+
+msgid "Account is not found"
+msgstr "账户未找到"
+
+msgid "Currency is required"
+msgstr "货币是必需的"
+
+msgid "error while deleting document"
+msgstr "在删除文件错误"
+
+msgid "Expences"
+msgstr "笔开支"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "你在这个房间里邀请的用户“ ％S ”"
+
+msgid "User \"%s\" joined this room"
+msgstr "网友“ ％S ”加入了这个房间"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "你从这个房间排除用户“ ％S ”"
+
+msgid "User \"%s\" left this room"
+msgstr "网友“ ％S ”离开这个房间"
+
+msgid "Add account"
+msgstr "新增帐户"
+
+msgid "The requested page is not found"
+msgstr "找不到请求的页面"
+
+msgid "Document"
+msgstr "文件"
+
+msgid "Table"
+msgstr "桌"
+
+msgid "file(s)"
+msgstr "文件（S）"
+
+msgid "Residue"
+msgstr "残留"
+
+msgid "Result is empty"
+msgstr "结果为空"
+
+msgid "The total amount is %s for %s mo"
+msgstr "总额为％s ％s的莫"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "你必须存入％的月相关账户"
+
+msgid "Start"
+msgstr "开端"
+
+msgid "finish"
+msgstr "结束"
+
+msgid "Selected account is already in use for another goal"
+msgstr "选择的帐户已在使用的另一个目标"
+
+msgid "Amount required"
+msgstr "所需金额"
+
+msgid "New goal"
+msgstr "新目标"
+
+msgid "Goal"
+msgstr "目的"
+
+msgid "Goal name"
+msgstr "目标名称"
+
+msgid "Invalid date"
+msgstr "无效的日期"
+
+msgid "Necessary sum must be a positive number"
+msgstr "必要总和必须为正数"
+
+msgid "Remain"
+msgstr "留"
+
+msgid "Last day"
+msgstr "最后一天"
+
+msgid "Accumulated"
+msgstr "累计"
+
+msgid "Put aside"
+msgstr "放在一边"
+
+msgid "January"
+msgstr "一月"
+
+msgid "February"
+msgstr "二月"
+
+msgid "March"
+msgstr "三月"
+
+msgid "April"
+msgstr "四月"
+
+msgid "May"
+msgstr "五月"
+
+msgid "June"
+msgstr "六月"
+
+msgid "July"
+msgstr "七月"
+
+msgid "August"
+msgstr "八月"
+
+msgid "September"
+msgstr "九月"
+
+msgid "October"
+msgstr "十月"
+
+msgid "November"
+msgstr "十一月"
+
+msgid "December"
+msgstr "十二月"
+
+msgid "Expenses projected/actual"
+msgstr "预计费用/实际"
+
+msgid "Net Income projected/actual"
+msgstr "收入净额预计/实际"
+
+msgid "New budget"
+msgstr "新预算"
+
+msgid "Revenue and Expenses Chart"
+msgstr "收入和支出表"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "与同一对帐户和类别预算已经存在"
+
+msgid "Budget is empty"
+msgstr "预算是空的"
+
+msgid "Budget"
+msgstr "预算"
+
+msgid "plan"
+msgstr "计划"
+
+msgid "fact"
+msgstr "事实"
+
+msgid "diff"
+msgstr "差异"
+
+msgid "Show More"
+msgstr "再表达一些"
+
+msgid "Cancel"
+msgstr "撤消"
+
+msgid "d"
+msgstr "ð"
+
+msgid "h"
+msgstr "H"
+
+msgid "min"
+msgstr "分"
+
+msgid "My sales"
+msgstr "我的销售"
+
+msgid "Time spent"
+msgstr "所花费的时间"
+
+msgid "Total time spent"
+msgstr "总时间"
+
+msgid "Earnings per hour"
+msgstr "每小时收益"
+
+msgid "Total earnings"
+msgstr "总收入"
+
+msgid "Call"
+msgstr "呼"
+
+msgid "Phone call"
+msgstr "电话"
+
+msgid "Telephone calls"
+msgstr "电话费"
+
+msgid "Send email"
+msgstr "发电子邮件"
+
+msgid "Emails"
+msgstr "电子邮件"
+
+msgid "Meeting"
+msgstr "会晤"
+
+msgid "Meetings"
+msgstr "会议"
+
+msgid "All events"
+msgstr "所有事件"
+
+msgid "Task"
+msgstr "课题"
+
+msgid "Event"
+msgstr "大事"
+
+msgid "Events"
+msgstr "活动"
+
+msgid "Time"
+msgstr "时刻"
+
+msgid "Events statistics"
+msgstr "活动统计"
+
+msgid "days"
+msgstr "天"
+
+msgid "hours"
+msgstr "小时"
+
+msgid "minutes"
+msgstr "分钟"
+
+msgid "Income & expense"
+msgstr "收入及费用"
+
+msgid "Show chart"
+msgstr "显示图"
+
+msgid "Hide chart"
+msgstr "隐藏图表"
+
+msgid "Add event"
+msgstr "添加事件"
+
+msgid "Add financial data"
+msgstr "添加财务数据"
+
+msgid "Select contractor"
+msgstr "选择承包商"
+
+msgid "Net Income"
+msgstr "净利"
+
+msgid "Revenue"
+msgstr "财政收入"
+
+msgid "Taxes"
+msgstr "税"
+
+msgid "Amount planned"
+msgstr "计划金额"
+
+msgid "Amount"
+msgstr "多少"
+
+msgid "Period"
+msgstr "期"
+
+msgid "Are you sure to close this task?"
+msgstr "您确定要关闭这个任务吗？"
+
+msgid "(Сlosed)"
+msgstr "（ Сlosed ）"
+
+msgid "All groups"
+msgstr "所有组"
+
+msgid "added from task"
+msgstr "从任务中添加"
+
+msgid "Monthly repeat"
+msgstr "每月重复"
+
+msgid "Select category"
+msgstr "选择分类"
+
+msgid "Event type"
+msgstr "事件类型"
+
+msgid "Margin"
+msgstr "保证金"
+
+msgid "Use finance project"
+msgstr "使用金融工程"
+
+msgid "New investment project"
+msgstr "新的投资项目"
+
+msgid "Investment project settings"
+msgstr "投资项目设置"
+
+msgid "Picture, for the announcement project"
+msgstr "图片，对公告的项目"
+
+msgid "Announcement project"
+msgstr "公告项目"
+
+msgid "Video"
+msgstr "视频"
+
+msgid "Photos or videos gallery"
+msgstr "照片或视频画廊"
+
+msgid "required amount"
+msgstr "所需金额"
+
+msgid "Project duration (60 days maximum)"
+msgstr "项目期限（60天最大）"
+
+msgid "Project duration"
+msgstr "项目周期"
+
+msgid "Add reward"
+msgstr "加入奖励"
+
+msgid "Delivery date"
+msgstr "交货日期"
+
+msgid "Payment systems"
+msgstr "支付系统"
+
+msgid "Terms of service"
+msgstr "服务条款"
+
+msgid "Agreement"
+msgstr "合约"
+
+msgid "Payment"
+msgstr "付款"
+
+msgid "My projects"
+msgstr "我的项目"
+
+msgid "Search result"
+msgstr "搜索结果"
+
+msgid "Nothing not found"
+msgstr "没有找不到"
+
+msgid "The project has no sponsors"
+msgstr "该项目有没有赞助商"
+
+msgid "Design"
+msgstr "图案"
+
+msgid "Food"
+msgstr "食"
+
+msgid "Journalism"
+msgstr "新闻"
+
+msgid "Games"
+msgstr "游戏"
+
+msgid "Art"
+msgstr "艺术"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "音乐"
+
+msgid "Handicrafts"
+msgstr "工艺品"
+
+msgid "Publishing"
+msgstr "公布"
+
+msgid "Theater"
+msgstr "剧院"
+
+msgid "Technology"
+msgstr "技术"
+
+msgid "Film/Video"
+msgstr "电影/视频"
+
+msgid "Photo"
+msgstr "照"
+
+msgid "Dance"
+msgstr "舞会"
+
+msgid "Invalid youtube video"
+msgstr "无效的YouTube视频"
+
+msgid "is required"
+msgstr "是必须的"
+
+msgid "User"
+msgstr "用户"
+
+msgid "Date"
+msgstr "迄今"
+
+msgid "Collected"
+msgstr "收集"
+
+msgid "Choose period"
+msgstr "选择期"
+
+msgid "Choose region"
+msgstr "选择区域"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "Today"
+msgstr "今"
+
+msgid "Week"
+msgstr "周"
+
+msgid "Month"
+msgstr "一个月"
+
+msgid "Year"
+msgstr "新年"
+
+msgid "Free registration"
+msgstr "免费注册"
+
+msgid "Join"
+msgstr "加入"
+
+msgid "Log in using"
+msgstr "登录使用"
+
+msgid "Vacancies"
+msgstr "就业机会"
+
+msgid "About Us"
+msgstr "关于我们"
+
+msgid "You will need email to log in"
+msgstr "您需要电子邮件登录"
+
+msgid "A combination of 6 digits and characters"
+msgstr "6个数字和字符的组合"
+
+msgid "Search users, groups, articles..."
+msgstr "搜索用户，组，文章..."
+
+msgid "Cloud"
+msgstr "云"
+
+msgid "Sunday"
+msgstr "星期天"
+
+msgid "Monday"
+msgstr "星期一"
+
+msgid "Tuesday"
+msgstr "星期二"
+
+msgid "Wednesday"
+msgstr "星期三"
+
+msgid "Thursday"
+msgstr "星期四"
+
+msgid "Friday"
+msgstr "星期五"
+
+msgid "Saturday"
+msgstr "星期六"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Create group"
+msgstr "创建组"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "你确定要离开这个页面？"
+
+msgid "More"
+msgstr "更多"
+
+msgid "Less"
+msgstr "减"
+
+msgid "Pending"
+msgstr "待定"
+
+msgid "Approved"
+msgstr "批准"
+
+msgid "Rejected"
+msgstr "拒绝"
+
+msgid "Subprojects"
+msgstr "子项目"
+
+msgid "Group edit"
+msgstr "集团编辑"
+
+msgid "Startup"
+msgstr "启动"
+
+msgid "Tattoo"
+msgstr "黥"
+
+msgid "Health"
+msgstr "健康"
+
+msgid "Weapon"
+msgstr "武器"
+
+msgid "Astronomy"
+msgstr "天文学"
+
+msgid "All articles"
+msgstr "所有文章"
+
+msgid "Article editor"
+msgstr "文章编辑器"
+
+msgid "Document editor"
+msgstr "文档编辑器"
+
+msgid "Apply changes"
+msgstr "应用更改"
+
+msgid "Save changes?"
+msgstr "保存更改？"
+
+msgid "published an article"
+msgstr "发表文章"
+
+msgid "Users"
+msgstr "用户"
+
+msgid "Shared With Me"
+msgstr "与我分享"
+
+msgid "share"
+msgstr "分享"
+
+msgid "Select Group Responsible"
+msgstr "选择组负责"
+
+msgid "Create folder"
+msgstr "创建文件夹"
+
+msgid "Title must be at least 3 characters"
+msgstr "标题必须至少3个字符"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "免费的10 GB ，财务经理，投资模块，和其他许多免费的，永远"
+
+msgid "Best regards"
+msgstr "诚挚的问候"
+
+msgid "Updates in last 12 hours:"
+msgstr "更新在过去的12小时："
+
+msgid "expense"
+msgstr "费用"
+
+msgid "Commentary on the event:"
+msgstr "述评事件："
+
+msgid "Event place"
+msgstr "事件发生"
+
+msgid "Project was updated"
+msgstr "项目已更新"
+
+msgid "Project was created"
+msgstr "创建项目"
+
+msgid "Project was closed"
+msgstr "项目被关闭"
+
+msgid "account"
+msgstr "帐户"
+
+msgid "removed task"
+msgstr "删除任务"
+
+msgid "removed subproject"
+msgstr "删除子项目"
+
+msgid "Title can not be empty"
+msgstr "标题不能为空"
+
+msgid "Do not select the type of event"
+msgstr "不要选择事件的类型"
+
+msgid "Error while saving comment"
+msgstr "同时节省注释错误"
+
+msgid "Save error: access denied"
+msgstr "保存错误：拒绝访问"
+
+msgid "Remains"
+msgstr "遗迹"
+
+msgid "Time spent, h."
+msgstr "花费的时间，H 。"
+
+msgid "Emails"
+msgstr "电子邮件"
+
+msgid "Meetings"
+msgstr "会议"
+
+msgid "All users"
+msgstr "全部用户"
+
+msgid "Category"
+msgstr "类别"
+
+msgid "Finance project"
+msgstr "金融工程"
+
+msgid "Investment project"
+msgstr "投资项目"
+
+msgid "Nature"
+msgstr "性质"
+
+msgid "Data is empty"
+msgstr "数据为空"
+
+msgid "Visitors"
+msgstr "游客"
+
+msgid "My profile"
+msgstr "我的简历"
+
+msgid "Sponsors"
+msgstr "赞助商"
+
+msgid "Prior to completion"
+msgstr "在此之前完成"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "My groups"
+msgstr "我的组"
+
+msgid "The invitation has been sent successfully"
+msgstr "邀请函已经发送成功"
+
+msgid "Username has already been invited to this project"
+msgstr "用户名已被邀请参加这一项目"
+
+msgid "The user is the creator of the project"
+msgstr "用户是该项目的创建者"
+
+msgid "Provide full access"
+msgstr "提供全部访问权限"
+
+msgid "Select elements to provide access"
+msgstr "选择元素来提供访问"
+
+msgid "Select all"
+msgstr "全选"
+
+msgid "User E-mail"
+msgstr "用户电子邮件"
+
+msgid "Click on the field to select a category"
+msgstr "点击字段选择一个类别"
+
+msgid "Invitation was deleted"
+msgstr "邀请函已被删除"
+
+msgid "Permission denied"
+msgstr "没有权限"
+
+msgid "Printed"
+msgstr "印刷的"
+
+msgid "Incorrect Contractor email"
+msgstr "不正确承包商电子邮件"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "你要添加的项目融资经理吗？"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "为了完成注册过程，请填写下你的技能"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "进一步说明的邮件发送到您的电子邮件地址"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Cars"
+msgstr "汽车"
+
+msgid "Science"
+msgstr "科学"
+
+msgid "Donation"
+msgstr "捐款"
+
+msgid "Interests"
+msgstr "兴趣爱好"
+
+msgid "Driver"
+msgstr "司机"
+
+msgid "Sportsman"
+msgstr "运动员"
+
+msgid "Businessman"
+msgstr "商人"
+
+msgid "Accountant"
+msgstr "会计"
+
+msgid "Engineer"
+msgstr "工程师"
+
+msgid "Soldier"
+msgstr "士兵"
+
+msgid "Next"
+msgstr "下一个"
+
+msgid "Hide group"
+msgstr "隐藏组"
+
+msgid "groups created"
+msgstr "创建的组"
+
+msgid "articles written"
+msgstr "文章写到"
+
+msgid "These groups may be interesting for you"
+msgstr "这些基团可以是有趣为您"
+
+msgid "About Group"
+msgstr "集团简介"
+
+msgid "view(s)"
+msgstr "视图（多个）"
+
+msgid "Favorite users"
+msgstr "喜欢的用户"
+
+msgid "No accounts"
+msgstr "没有账户"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook的授权失败。"
+
+msgid "Authorization Required"
+msgstr "需要授权"
+
+msgid "You have to make a call:"
+msgstr "你必须拨打电话："
+
+msgid "You have to send an email:"
+msgstr "您发送电子邮件："
+
+msgid "You have a meetup:"
+msgstr "你有一个聚会："
+
+msgid "You event :"
+msgstr "您事件："
+
+msgid "Participants:"
+msgstr "参与者："
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "News"
+msgstr "新闻"
+
+msgid "Investments"
+msgstr "投资"
+
+msgid "Back to Cloud"
+msgstr "回到云"
+
+msgid "Documents"
+msgstr "文件"
+
+msgid "Planet"
+msgstr "行星"
+
+msgid "Group url"
+msgstr "集团网址"
+
+msgid "Profile url"
+msgstr "个人资料网址"
+
+msgid "Already taken"
+msgstr "已经拿了"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "至少有1个字母和3个字符长度的要求"
+
+msgid "Digit can not be the first character"
+msgstr "位不能是第一个字符"
+
+msgid "Enter valid email address"
+msgstr "请输入有效的电子邮件地址"
+
+msgid "Enter your skills"
+msgstr "输入你的技能"
+
+msgid "Enter your first name"
+msgstr "请输入您的名字"
+
+msgid "Enter your last name"
+msgstr "请输入您的姓氏"
+
+msgid "Enter your first name and last name"
+msgstr "输入你的名字和姓氏"
+
+msgid "Your first name?"
+msgstr "你的名字？"
+
+msgid "Your last name?"
+msgstr "你的姓氏？"
+
+msgid "What are your proficiencies?"
+msgstr "什么是你的熟练程度？"
+
+msgid "Select country"
+msgstr "选择国家"
+
+msgid "Select user"
+msgstr "选择用户"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "实现你的梦想！创建和协作。"
+
+msgid "date moved from"
+msgstr "从日移动"
+
+msgid "work"
+msgstr "工作"
+
+msgid "Conference"
+msgstr "会议"
+
+msgid "personal"
+msgstr "个人"
+
+msgid "Holiday"
+msgstr "假日"
+
+msgid "Past"
+msgstr "往事"
+
+msgid "Future"
+msgstr "未来"
+
+msgid "Purchase"
+msgstr "购买"
+
+msgid "Personal events"
+msgstr "私人事件"
+
+msgid "Conferences"
+msgstr "会晤"
+
+msgid "Holidays"
+msgstr "假期"
+
+msgid "Sport events"
+msgstr "体育事件"
+
+msgid "Tasks"
+msgstr "任务"
+
+msgid "Other events"
+msgstr "其他活动"
+
+msgid "Set aside"
+msgstr "外卖"
+
+msgid "Set aside"
+msgstr "递延"
+
+msgid "Time management"
+msgstr "时间管理"
+
+msgid "Delayed events"
+msgstr "递延事件"
+
+msgid "Delayed"
+msgstr "递延"
+
+msgid "Bind to"
+msgstr "分派"
+
+msgid "answered your comment to"
+msgstr "我说（一）评论文章"
+
+msgid "commented your article"
+msgstr "我在你的文章"
+
+msgid "You\'ve answered on comment to"
+msgstr "您回应了评论文章"
+
+msgid "You\'ve commented an article"
+msgstr "您评论文章"
+
+msgid "Terms and Conditions"
+msgstr "条款和条件"
+
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "通过点击“注册”，您同意我们，并确认您已经阅读我们"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "加入创意人的社会，从世界各地！您将得到：投资于自己的想法，有机会收集他的团队，在一组，财务经理的工作，管理自己的时间，2千兆字节的存储等。而且它是免费的！"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "很抱歉，您所查找的页面不存在。如果您认为要怪我们联系我们"
+
+msgid "Return"
+msgstr "返回"
+
+msgid "COMMON"
+msgstr "总"
+
+msgid "My events"
+msgstr "我的活动"
+
+msgid "Job opening"
+msgstr "新空缺"
+
+msgid "Employment"
+msgstr "就业类型"
+
+msgid "Working hours"
+msgstr "开放时间"
+
+msgid "City"
+msgstr "都市"
+
+msgid "Wages"
+msgstr "工资"
+
+msgid "Currency"
+msgstr "币"
+
+msgid "Experience"
+msgstr "经验"
+
+msgid "Full-time"
+msgstr "充分就业"
+
+msgid "Part-time"
+msgstr "兼职"
+
+msgid "Project employment"
+msgstr "项目/临时"
+
+msgid "Volunteer"
+msgstr "当志工"
+
+msgid "Internship"
+msgstr "培训实习"
+
+msgid "Full day"
+msgstr "全职"
+
+msgid "Shifts"
+msgstr "更换时间表"
+
+msgid "Flexible shifts"
+msgstr "灵活的时间表"
+
+msgid "Remote work"
+msgstr "远程工作"
+
+msgid "Rotational basis"
+msgstr "移法"
+
+msgid "Do you really want to delete this comment?"
+msgstr "你确定要删除评论？"
+
+msgid "Do you really want to delete this task?"
+msgstr "你确定要删除这个任务吗？"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "你确定要删除这个分项目？"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "你的位置应用到该公司。请确保该"
+
+msgid "Your request to for job has been rejected"
+msgstr "您的要求来公司位置已被拒绝"
+
+msgid "Your request to for job has been accepted"
+msgstr "您的要求来公司位置获得通过"
+
+msgid "profile is completed"
+msgstr "您的个人资料是完整的"
+
+msgid "Use account"
+msgstr "使用帐户"
+
+msgid "$/hr"
+msgstr "$ /小时"
+
+msgid "Finance category"
+msgstr "财经类"
+
+msgid "No projects"
+msgstr "没有项目"
+
+msgid "Bind to finances"
+msgstr "指定金融项目"
+
+msgid "Preview"
+msgstr "查看"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Save to my cloud"
+msgstr "复制库"
+
+msgid "File successfully saved to your cloud"
+msgstr "文件成功储存在你的仓库"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "保存到你的资料库文件？"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "选择类别文章"
+
+msgid "Type something"
+msgstr "写的东西"
+
+msgid "Founded users"
+msgstr "找到用户"
+
+msgid "Founded articles"
+msgstr "找到文章"
+
+msgid "Founded groups"
+msgstr "成立集团"
+
+msgid "What are your skills?"
+msgstr "你有什么技能？"
+
+msgid "Select at least 2 interests"
+msgstr "至少选择2兴趣"
+
+msgid "Need more interests"
+msgstr "选择没有足够的兴趣"
+
+msgid "What are you interesting in?"
+msgstr "你对什么感兴趣？"
+
+msgid "You have no dialogs"
+msgstr "您没有对话"
+
+msgid "Usage Stats"
+msgstr "国家"
+
+msgid "Founded files"
+msgstr "找到的文件"
+
+msgid "Big tiles"
+msgstr "大型瓷砖"
+
+msgid "Small tiles"
+msgstr "小青瓦"
+
+msgid "Table view"
+msgstr "表视图"
+
+msgid "Root folder"
+msgstr "根目录"
+
+msgid "My files"
+msgstr "我的文件"
+
+msgid "Save as draft"
+msgstr "保存为草稿"
+
+msgid "Buy More Space"
+msgstr "购买更多的空间"
+
+msgid "Buy"
+msgstr "购买"
+
+msgid "You have been invited to group as"
+msgstr "你被邀请到组作为"
+
+msgid "User wants to join your group"
+msgstr "用户希望加入你的团队"
+
+msgid "Section is coming soon!"
+msgstr "正在建设中科！"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "在过去24小时内访问量："
+
+msgid "Task was updated"
+msgstr "该任务已被更新"
+
+msgid "Task was closed"
+msgstr "我们面临的挑战已关闭"
+
+msgid "Task was created"
+msgstr "任务设置"
+
+msgid "Current balance"
+msgstr "当前余额"
+
+msgid "Add funds"
+msgstr "加"
+
+msgid "Pay"
+msgstr "结帐"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "您已超过登录尝试的次数。你被封锁15分钟"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "请确认您的电子邮件。通过邮件发送给你的信。"
+
+msgid "Resend confirmation email"
+msgstr "重新发送验证"
+
+msgid "Disk 2Gb Monthly"
+msgstr "每月光盘2 GB"
+
+msgid "Disk 10Gb Monthly"
+msgstr "开车每年10 GB"
+
+msgid "Disk 100Gb Yearly"
+msgstr "每年硬盘100 GB"
+
+msgid "Disk 1Tb Monthly"
+msgstr "磁盘1TB每月"
+
+msgid "Disk 1Tb Yearly"
+msgstr "每年驱动器1 TB"
+
+msgid "Project members monthly"
+msgstr "该项目的按月的参与者"
+
+msgid "Project members yearly"
+msgstr "每年项目参与"
+
+msgid "Member(s) yearly"
+msgstr "每年的会员（S）"
+
+msgid "Member(s) monthly"
+msgstr "构件（多个）按月"
+
+msgid "Authorized"
+msgstr "授权"
+
+msgid "Authorization expired"
+msgstr "授权过期"
+
+msgid "Processor declined"
+msgstr "拒绝处理系统"
+
+msgid "Gateway rejected"
+msgstr "拒绝支付网关"
+
+msgid "Failed"
+msgstr "误"
+
+msgid "Voided"
+msgstr "废止"
+
+msgid "Submitted for settlement"
+msgstr "发送到报名"
+
+msgid "Settlement declined"
+msgstr "招生已被拒绝"
+
+msgid "Settlement pending"
+msgstr "待报名"
+
+msgid "Verified"
+msgstr "经过"
+
+msgid "Pending"
+msgstr "待定"
+
+msgid "Active"
+msgstr "主动"
+
+msgid "Past Due"
+msgstr "过期"
+
+msgid "Expired"
+msgstr "截止"
+
+msgid "Marketer"
+msgstr "营销"
+
+msgid "India"
+msgstr "印度"
+
+msgid "Malaysia"
+msgstr "马来西亚"
+
+msgid "Thailand"
+msgstr "泰国"
+
+msgid "South Korea"
+msgstr "韩国"
+
+msgid "Kazakhstan"
+msgstr "哈萨克斯坦"
+
+msgid "Israel"
+msgstr "以色列"
+
+msgid "Ukraine"
+msgstr "乌克兰"
+
+msgid "Belarus"
+msgstr "白俄罗斯"
+
+msgid "Bulgaria"
+msgstr "保加利亚"
+
+msgid "Turkey"
+msgstr "土耳其"
+
+msgid "Armenia"
+msgstr "亚美尼亚"
+
+msgid "Serbia"
+msgstr "塞尔维亚"
+
+msgid "Austria"
+msgstr "奥地利"
+
+msgid "Poland"
+msgstr "波兰"
+
+msgid "Germany"
+msgstr "德国"
+
+msgid "Italy"
+msgstr "意大利"
+
+msgid "Netherlands"
+msgstr "荷兰"
+
+msgid "Ireland"
+msgstr "爱尔兰"
+
+msgid "United Kingdom"
+msgstr "大不列颠"
+
+msgid "Portugal"
+msgstr "葡萄牙"
+
+msgid "Norway"
+msgstr "挪威"
+
+msgid "United States"
+msgstr "美国"
+
+msgid "Canada"
+msgstr "加拿大"
+
+msgid "Brazil"
+msgstr "巴西"
+
+msgid "Saudi Arabia"
+msgstr "沙特阿拉伯"
+
+msgid "Canada"
+msgstr "埃及"
+
+msgid "Russia"
+msgstr "俄罗斯"
+
+msgid "Hong Kong"
+msgstr "香港"
+
+msgid "There was no any transactions yet."
+msgstr "此刻，没有一个单独的事务"
+
+msgid "Fulfill your dream"
+msgstr "实现你的梦想"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "加入我们的创意人员从全球各地的社区。"
+
+msgid "Create and Collaborate"
+msgstr "创建和协作"
+
+msgid "Start Dreaming"
+msgstr "满足现在的梦想"
+
+msgid "or"
+msgstr "要么"
+
+msgid "Our mission:"
+msgstr "我们的任务："
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "团结创新，积极人们从简单的需求令人难以置信和美妙的实施思路，即可以塑造我们的未来。"
+
+msgid "What is Konstruktor?"
+msgstr "什么是Konstruktor？"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - 是我们的现实生活中，这显著促进和简化的一部分"
+
+msgid "*business processes"
+msgstr "*业务流程"
+
+msgid "*materialization of creative ideas"
+msgstr "*创意的想法具体化"
+
+msgid "*constructive cooperation"
+msgstr "*建设性合作"
+
+msgid "Make your dream!"
+msgstr "让你的梦想！"
+
+msgid "Vlad Krishtop"
+msgstr "弗拉德Krishtop"
+
+msgid "CEO"
+msgstr "首席执行官"
+
+msgid "Yuriy Chekalenko"
+msgstr "尤里Chekalenko"
+
+msgid "Special Advisor"
+msgstr "特别顾问"
+
+msgid "Yaroslav Eroshenko"
+msgstr "雅罗斯拉夫Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "经理，软件开发"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "斯韦特兰娜Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "资深律师"
+
+msgid "Yuriy Himka"
+msgstr "尤里Himka"
+
+msgid "Designer"
+msgstr "设计师"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "通过点击“下一步”按钮，您接受和我们的条款达成一致，并且您确认您已经阅读我们的隐私政策。"
+
+msgid "Incorrect login or password."
+msgstr "不正确的登录或密码。"
+
+msgid "Password must be at least 6 characters"
+msgstr "密码必须至少6个字符"
+
+msgid "January"
+msgstr "一月"
+
+msgid "February"
+msgstr "二月"
+
+msgid "March"
+msgstr "游行"
+
+msgid "April"
+msgstr "四月"
+
+msgid "May"
+msgstr "可能"
+
+msgid "June"
+msgstr "六月"
+
+msgid "July"
+msgstr "七月"
+
+msgid "August"
+msgstr "八月"
+
+msgid "September"
+msgstr "九月"
+
+msgid "October"
+msgstr "十月"
+
+msgid "November"
+msgstr "十一月"
+
+msgid "December"
+msgstr "十二月"
+
+msgid "Chat"
+msgstr "聊"
+
+msgid "Files"
+msgstr "档"
+
+msgid "Statistic"
+msgstr "统计"
+
+msgid "Support"
+msgstr "支持"
+
+msgid "Exit"
+msgstr "出口"
+
+msgid "Brest"
+msgstr "布雷斯特"
+
+msgid "Belarus"
+msgstr "白俄罗斯"
+
+msgid "Marketing specialist"
+msgstr "市场营销专家"
+
+msgid "Administrator"
+msgstr "管理员"
+
+msgid "Shared with me"
+msgstr "与我分享"
+
+msgid "File Sharing"
+msgstr "文件共享"
+
+msgid "Provide access by link"
+msgstr "通过提供链路接入"
+
+msgid "Provide Individual access"
+msgstr "提供个性化的访问"
+
+msgid "Provide edit access"
+msgstr "提供编辑访问"
+
+msgid "Share"
+msgstr "分享"
+
+msgid "Files will be available only for selected users"
+msgstr "文件将只可用于选定的用户"
+
+msgid "With this link everyone can access to the files"
+msgstr "有了这个链接每个人都可以访问这些文件"
+
+msgid "Search users, groups, articles..."
+msgstr "搜索用户，组，文章..."
+
+msgid "My Group"
+msgstr "我的群"
+
+msgid "Mo"
+msgstr "莫"
+
+msgid "Tu"
+msgstr "涂"
+
+msgid "We"
+msgstr "我们"
+
+msgid "Th"
+msgstr "钍"
+
+msgid "Fr"
+msgstr "神父"
+
+msgid "Sa"
+msgstr "萨"
+
+msgid "Su"
+msgstr "苏"
+
+msgid "The file is not selected"
+msgstr "该文件未选择"
+
+msgid "Set aside"
+msgstr "搁置"
+
+msgid "Event time"
+msgstr "活动时间"
+
+msgid "Work"
+msgstr "工作"
+
+msgid "Personal"
+msgstr "个人"
+
+msgid "Time spent for work:"
+msgstr "花费的时间工作："
+
+msgid "Personal time spent:"
+msgstr "个人所花费的时间："
+
+msgid "Present"
+msgstr "当下"
+
+msgid "Common"
+msgstr "共同"
+
+msgid "Sport"
+msgstr "运动"
+
+msgid "Entertainment"
+msgstr "娱乐"
+
+msgid "Select:"
+msgstr "选择："
+
+msgid "Invalid username or password."
+msgstr "无效的用户名或密码。"
+
+msgid "Try again."
+msgstr "再试一次。"
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "你对什么感兴趣？"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "至少选择2个技能：仍然是2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "至少选择2个技能：保持1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "至少选择2个技能：遗体"
+
+msgid "Active life"
+msgstr "积极的生活"
+
+msgid "Arts and culture"
+msgstr "文化艺术"
+
+msgid "Business"
+msgstr "商业"
+
+msgid "Cinema"
+msgstr "电影"
+
+msgid "Communications"
+msgstr "通信"
+
+msgid "Construction and repair"
+msgstr "建设和修复"
+
+msgid "Cooking"
+msgstr "烹饪"
+
+msgid "Education"
+msgstr "教育"
+
+msgid "Electronics"
+msgstr "电子"
+
+msgid "Finances"
+msgstr "财政"
+
+msgid "Graphics and design"
+msgstr "图形和设计"
+
+msgid "Health"
+msgstr "健康"
+
+msgid "Home and family"
+msgstr "家庭和家庭"
+
+msgid "Humor"
+msgstr "幽默"
+
+msgid "IT"
+msgstr "它"
+
+msgid "Industry"
+msgstr "行业"
+
+msgid "Insurance"
+msgstr "保险"
+
+msgid "Literature"
+msgstr "文学"
+
+msgid "Mobile communications and internet"
+msgstr "移动通信和互联网"
+
+msgid "News and Media"
+msgstr "新闻与媒体"
+
+msgid "Pets"
+msgstr "宠物"
+
+msgid "Products and service"
+msgstr "产品与服务"
+
+msgid "Real Estate"
+msgstr "房地产"
+
+msgid "Religion"
+msgstr "宗教"
+
+msgid "Science and techs"
+msgstr "科学与科技股"
+
+msgid "Security"
+msgstr "安全"
+
+msgid "Society"
+msgstr "社会"
+
+msgid "Television"
+msgstr "电视"
+
+msgid "Travel"
+msgstr "旅行"
+
+msgid "URL"
+msgstr "网址"
+
+msgid "Argentina"
+msgstr "阿根廷"
+
+msgid "Australia"
+msgstr "澳大利亚"
+
+msgid "Austria"
+msgstr "奥地利"
+
+msgid "Belarus"
+msgstr "白俄罗斯"
+
+msgid "Belgium"
+msgstr "比利时"
+
+msgid "Brazil"
+msgstr "巴西"
+
+msgid "Bulgaria"
+msgstr "保加利亚"
+
+msgid "Canada"
+msgstr "加拿大"
+
+msgid "Chile"
+msgstr "智利"
+
+msgid "Denmark"
+msgstr "丹麦"
+
+msgid "France"
+msgstr "法国"
+
+msgid "Germany"
+msgstr "德国"
+
+msgid "Greece"
+msgstr "希腊"
+
+msgid "Hungary"
+msgstr "匈牙利"
+
+msgid "Iceland"
+msgstr "冰岛"
+
+msgid "Ireland"
+msgstr "爱尔兰"
+
+msgid "Israel"
+msgstr "以色列"
+
+msgid "Italy"
+msgstr "意大利"
+
+msgid "Japan"
+msgstr "日本"
+
+msgid "Mexico"
+msgstr "墨西哥"
+
+msgid "Netherlands"
+msgstr "荷兰"
+
+msgid "New Zealand"
+msgstr "新西兰"
+
+msgid "Norway"
+msgstr "挪威"
+
+msgid "Poland"
+msgstr "波兰"
+
+msgid "Portugal"
+msgstr "葡萄牙"
+
+msgid "Russia"
+msgstr "俄国"
+
+msgid "Slovakia"
+msgstr "斯洛伐克"
+
+msgid "South Africa"
+msgstr "南非"
+
+msgid "South Korea"
+msgstr "韩国"
+
+msgid "Spain"
+msgstr "西班牙"
+
+msgid "Sweden"
+msgstr "瑞典"
+
+msgid "Switzerland"
+msgstr "瑞士"
+
+msgid "Turkey"
+msgstr "火鸡"
+
+msgid "Ukraine"
+msgstr "乌克兰"
+
+msgid "United Arab Emirates"
+msgstr "阿拉伯联合酋长国"
+
+msgid "United Kingdom"
+msgstr "英国"
+
+msgid "United States"
+msgstr "美国"
+
+msgid "achievements"
+msgstr "成就"
+
+msgid "Investment management"
+msgstr "投资管理"
+
+msgid "Select..."
+msgstr "选择..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "投资管理"
+
+msgid "Investors list"
+msgstr "投资者名单"
+
+msgid "My investments"
+msgstr "我的投资"
+
+msgid "Create date"
+msgstr "创建日期"
+
+msgid "Author of the project"
+msgstr "该项目的作者"
+
+msgid "Date and time"
+msgstr "日期和时间"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "NEXT"
+msgstr "下一个"
+
+msgid "Next"
+msgstr "下一个"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Kazakhstan"
+msgstr "哈萨克斯坦"
+
+msgid "Almaty"
+msgstr "阿拉木图"
+
+msgid "Hong Kong"
+msgstr "香港"
+
+msgid "Science"
+msgstr "科学"
+
+msgid "Architecture"
+msgstr "建筑"
+
+msgid "Photography"
+msgstr "摄影"
+
+msgid "Designer"
+msgstr "设计师"
+
+msgid "IT specialist"
+msgstr "IT专家"
+
+msgid "Agronomist"
+msgstr "农学家"
+
+msgid "Architect"
+msgstr "建筑师"
+
+msgid "Lawyer"
+msgstr "律师"
+
+msgid "Writer"
+msgstr "作家"
+
+msgid "Doctor"
+msgstr "医生"
+
+msgid "Scientist"
+msgstr "科学家"
+
+msgid "Marketer"
+msgstr "营销"
+
+msgid "Teacher"
+msgstr "教师"
+
+msgid "Cook"
+msgstr "厨师"
+
+msgid "Artist"
+msgstr "艺术家"
+
+msgid "Photographer"
+msgstr "摄影师"
+
+msgid "Ecologist"
+msgstr "生态学家"
+
+msgid "Economist"
+msgstr "经济学家"
+
+msgid "Logistician"
+msgstr "物流师"
+
+msgid "Journalist"
+msgstr "记者"
+
+msgid "Builder"
+msgstr "生成器"
+
+msgid "These users may be interesting for you"
+msgstr "这些用户可能会感兴趣的你"
+
+msgid "These articles may be interesting for you"
+msgstr "这些文章可能是有趣的你"
+
+msgid "You joined this group as Аdministrator"
+msgstr "你加入了这个小组的Аdministrator"
+
+msgid "articles written."
+msgstr "文章写的。"
+
+msgid "groups created."
+msgstr "集团创建。"
+
+msgid "Creation"
+msgstr "创建"
+
+msgid "Build a dream"
+msgstr "构筑梦想"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "更多有趣的文章 - 去免费注册"
+

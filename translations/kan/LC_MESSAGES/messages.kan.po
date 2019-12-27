@@ -1,0 +1,3344 @@
+# ಕನ್ನಡ(Каннада) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: ಕನ್ನಡ(Каннада) <support@konstruktor.com>\n"
+"Language: ಕನ್ನಡ(Каннада)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "ಬಳಕೆದಾರ ಹೆಸರು  Baḷakedāra hesaru"
+
+msgid "Invalid username or password, try again"
+msgstr "ತಪ್ಪಾದ ಬಳಕೆದಾರಹೆಸರು ಅಥವಾ ಪಾಸ್ವರ್ಡ್. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ ."
+
+msgid "Settings"
+msgstr "ಸೆಟ್ಟಿಂಗ್ಗಳು"
+
+msgid "Home"
+msgstr "ಮುಖಪುಟ"
+
+msgid "You must log in to access this page"
+msgstr "ಈ ಪುಟ ಪ್ರವೇಶಿಸಲು ದಾಖಲಾಗಬೇಕು"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "ನಿಮ್ಮ ಅವಧಿಯು ಮಾಡಲಾಗಿದೆ . , ಈ ಕಾರ್ಯವನ್ನು ಮಾಡಲು ದಯವಿಟ್ಟು ಮರುಲಾಗಿನ್ ಆಗಿ"
+
+msgid "Save"
+msgstr "ಉಳಿಸಿ"
+
+msgid "Head Office"
+msgstr "ಹೆಡ್ ಆಫೀಸ್"
+
+msgid "Address"
+msgstr "ವಿಳಾಸ"
+
+msgid "Back"
+msgstr "ಮತ್ತೆ"
+
+msgid "Apply"
+msgstr "ಅನ್ವಯಿಸು"
+
+msgid "Upload files…"
+msgstr "ಫೈಲ್ಗಳನ್ನು ಅಪ್ಲೋಡ್ ..."
+
+msgid "Set as main"
+msgstr "ಮುಖ್ಯ ಹೊಂದಿಸಿ"
+
+msgid "Delete"
+msgstr "ಅಳಿಸಿ"
+
+msgid "Original image"
+msgstr "ಮೂಲ ಚಿತ್ರವನ್ನು"
+
+msgid "Uploaded"
+msgstr "ಅಪ್ಲೋಡ್"
+
+msgid "File name"
+msgstr "ಫೈಲ್ ಹೆಸರು"
+
+msgid "File size"
+msgstr "ಕಡತದ ಗಾತ್ರದ"
+
+msgid "Resolution"
+msgstr "ರೆಸಲ್ಯೂಷನ್"
+
+msgid "Enlarge"
+msgstr "ದೊಡ್ಡದಕ್ಕಾಗಿ"
+
+msgid "Links"
+msgstr "ಕೊಂಡಿಗಳು"
+
+msgid "Original size"
+msgstr "ಮೂಲ ಗಾತ್ರ"
+
+msgid "For editor"
+msgstr "ಸಂಪಾದಕ"
+
+msgid "Resize"
+msgstr "ಮರುಗಾತ್ರಗೊಳಿಸಿ"
+
+msgid "Width"
+msgstr "ಅಗಲ"
+
+msgid "Height"
+msgstr "ಎತ್ತರ"
+
+msgid "Media URL"
+msgstr "ಮಾಧ್ಯಮ URL"
+
+msgid "Add record"
+msgstr "ದಾಖಲೆ ಸೇರಿಸಿ"
+
+msgid "Show filter settings"
+msgstr "ಪ್ರದರ್ಶನ ಫಿಲ್ಟರ್ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು"
+
+msgid "Edit record"
+msgstr "ಸಂಪಾದಿಸಿ ದಾಖಲೆ"
+
+msgid "Delete record"
+msgstr "ದಾಖಲೆ ಅಳಿಸಿ"
+
+msgid "Delete checked records"
+msgstr "ಪರಿಶೀಲಿಸಿದ ದಾಖಲೆಗಳನ್ನು ಅಳಿಸಿ"
+
+msgid "Dashboard"
+msgstr "ಡ್ಯಾಶ್ಬೋರ್ಡ್"
+
+msgid "Password"
+msgstr "ಪಾಸ್ವರ್ಡ್"
+
+msgid "Remember me"
+msgstr "ನನಗೆ ನೆನಪಿಡಿ"
+
+msgid "Login"
+msgstr "ಲಾಗಿನ್"
+
+msgid "Clean image cache"
+msgstr "ಕ್ಲೀನ್ ಇಮೇಜ್ ಸಂಗ್ರಹ"
+
+msgid "Processing query..."
+msgstr "ಸಂಸ್ಕರಣ ಪ್ರಶ್ನೆಗೆ ..."
+
+msgid "CMS Development"
+msgstr "CMS ಅಭಿವೃದ್ಧಿ"
+
+msgid "Admin Home Page"
+msgstr "ನಿರ್ವಹಣೆ ಮುಖಪುಟ"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "ಹೊಸ ಟ್ಯಾಬ್ನಲ್ಲಿ ಫ್ರಂಟ್ ಎಂಡ್ ಆಫ್ ಓಪನ್ ಮುಖಪುಟ"
+
+msgid "Go to Site"
+msgstr "ಸೈಟ್ ಹೋಗಿ"
+
+msgid "Log out"
+msgstr "ಲಾಗ್ ಔಟ್"
+
+msgid "Send"
+msgstr "ಕಳುಹಿಸಿ"
+
+msgid "General"
+msgstr "ಜನರಲ್"
+
+msgid "Title"
+msgstr "ಶೀರ್ಷಿಕೆ"
+
+msgid "Teaser"
+msgstr "ಟೀಸರ್"
+
+msgid "Published"
+msgstr "ಪ್ರಕಟಿತ"
+
+msgid "Featured"
+msgstr "ಒಳಗೊಂಡಿತ್ತು"
+
+msgid "Active"
+msgstr "ಸಕ್ರಿಯ"
+
+msgid "Field is mandatory"
+msgstr "ಫೀಲ್ಡ್ ಕಡ್ಡಾಯ"
+
+msgid "Sort Order"
+msgstr "ಅನುಕ್ರಮ"
+
+msgid "Upload"
+msgstr "ಅಪ್ಲೋಡ್"
+
+msgid "Loading..."
+msgstr "ಲೋಡ್ ಆಗುತ್ತಿದೆ ..."
+
+msgid "Jan"
+msgstr "ಜನವರಿ"
+
+msgid "Feb"
+msgstr "ಫೆಬ್ರವರಿ"
+
+msgid "Mar"
+msgstr "ಮಾರ್ಚ್"
+
+msgid "Apr"
+msgstr "ಏಪ್ರಿಲ್"
+
+msgid "May"
+msgstr "ಮೇ"
+
+msgid "Jun"
+msgstr "ಜೂನ್"
+
+msgid "Jul"
+msgstr "ಜುಲೈ"
+
+msgid "Aug"
+msgstr "ಆಗಸ್ಟ್"
+
+msgid "Sep"
+msgstr "ಸೆಪ್ಟೆಂಬರ್"
+
+msgid "Oct"
+msgstr "ಅಕ್ಟೋಬರ್"
+
+msgid "Nov"
+msgstr "ನವೆಂಬರ್"
+
+msgid "Dec"
+msgstr "ಡಿಸೆಂಬರ್"
+
+msgid "Product already exists in the order"
+msgstr "ಉತ್ಪನ್ನ ಈಗಾಗಲೇ ಸಲುವಾಗಿ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ"
+
+msgid "Product does not exist"
+msgstr "ಉತ್ಪನ್ನ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ"
+
+msgid "Incorrect request"
+msgstr "ತಪ್ಪಾದ ವಿನಂತಿಯನ್ನು"
+
+msgid "Products"
+msgstr "ಉತ್ಪನ್ನಗಳು"
+
+msgid "Product types"
+msgstr "ಉತ್ಪನ್ನ ರೀತಿಯ"
+
+msgid "Contractors"
+msgstr "ಗುತ್ತಿಗೆದಾರರು"
+
+msgid "Contractor"
+msgstr "ಗುತ್ತಿಗೆದಾರ"
+
+msgid "Orders"
+msgstr "ಆರ್ಡರ್ಸ್"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "ಹೊಸ ಆದೇಶ"
+
+msgid "My orders"
+msgstr "ನನ್ನ ಆದೇಶಗಳನ್ನು"
+
+msgid "Recharge balance"
+msgstr "ರೀಚಾರ್ಜ್ ಸಮತೋಲನ"
+
+msgid "Administrator"
+msgstr "ನಿರ್ವಾಹಕ"
+
+msgid "Incorrect event ID"
+msgstr "ತಪ್ಪಾದ ಕ್ರಿಯೆಯನ್ನು ಐಡಿ"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "ಸಂಪಾದಿಸಿ ಗುತ್ತಿಗೆದಾರ"
+
+msgid "Create contractor"
+msgstr "ಗುತ್ತಿಗೆದಾರ ರಚಿಸಿ"
+
+msgid "Edit question"
+msgstr "ಪ್ರಶ್ನೆಯನ್ನು ಸಂಪಾದಿಸಿ"
+
+msgid "Create question"
+msgstr "ಪ್ರಶ್ನೆ ರಚಿಸಿ"
+
+msgid "Edit order"
+msgstr "ಸಂಪಾದಿಸಿ ಸಲುವಾಗಿ"
+
+msgid "Create order"
+msgstr "ಸಲುವಾಗಿ ರಚಿಸಿ"
+
+msgid "Edit product"
+msgstr "ಸಂಪಾದಿಸಿ ಉತ್ಪನ್ನ"
+
+msgid "Create product"
+msgstr "ಉತ್ಪನ್ನ ರಚಿಸಲು"
+
+msgid "Edit product type"
+msgstr "ಸಂಪಾದಿಸಿ ಉತ್ಪನ್ನ ಮಾದರಿ"
+
+msgid "Create product type"
+msgstr "ಉತ್ಪನ್ನ ಪ್ರಕಾರ ರಚಿಸಿ"
+
+msgid "You have received a file"
+msgstr "ಒಂದು ಕಡತವನ್ನು ನೀವು ಸ್ವೀಕರಿಸಿದ್ದೇವೆ"
+
+msgid "You received a file from"
+msgstr "ನೀವು ಫೈಲ್ ಪಡೆದರು"
+
+msgid "File has been uploaded"
+msgstr "ಫೈಲ್ ಅಪ್ಲೋಡ್ ಮಾಡಲಾಗಿದೆ"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "ಕನಿಷ್ಠ ಪ್ರಮಾಣ"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "ಐಟಂಗಳನ್ನು"
+
+msgid "Remove"
+msgstr "ತೆಗೆದುಹಾಕಿ"
+
+msgid "Contact person"
+msgstr "ಸಂಪರ್ಕ ವ್ಯಕ್ತಿಯ"
+
+msgid "Email"
+msgstr "ಇಮೇಲ್"
+
+msgid "Contractor phone"
+msgstr "ಗುತ್ತಿಗೆದಾರ ಫೋನ್"
+
+msgid "Contractor name"
+msgstr "ಗುತ್ತಿಗೆದಾರ ಹೆಸರು"
+
+msgid "Contractor details"
+msgstr "ಗುತ್ತಿಗೆದಾರ ವಿವರಗಳು"
+
+msgid "Order ID"
+msgstr "ಆದೇಶ ID"
+
+msgid "Sum"
+msgstr "ಮೊತ್ತ"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "ನಿಮ್ಮ ಸಮತೋಲನ ಪುನಃ ಸೂಕ್ತ ಪಾವತಿ ವ್ಯವಸ್ಥೆಯನ್ನು ಆಯ್ಕೆ"
+
+msgid "Recharge amount"
+msgstr "ರೀಚಾರ್ಜ್ ಪ್ರಮಾಣದ"
+
+msgid "Paid"
+msgstr "ಪಾವತಿಸಿದ"
+
+msgid "Shipped"
+msgstr "ಕಳುಹಿಸಲಾದ"
+
+msgid "- No products in this order -"
+msgstr "- ಈ ಸಲುವಾಗಿ ಯಾವುದೇ ಉತ್ಪನ್ನಗಳು -"
+
+msgid "month"
+msgstr "ತಿಂಗಳು"
+
+msgid "No user found"
+msgstr "ಯಾವುದೇ ಬಳಕೆದಾರರು"
+
+msgid "Achievement"
+msgstr "ಸಾಧನೆ"
+
+msgid "Confirmed accomplishments"
+msgstr "ದೃಢಪಡಿಸಿದರು ಸಾಧನೆಗಳು"
+
+msgid "Remove achievement"
+msgstr "ಸಾಧನೆ ತೆಗೆದುಹಾಕಿ"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "ಫೋನ್"
+
+msgid "Site URL and email"
+msgstr "ಸೈಟ್ URL ಮತ್ತು ಇಮೇಲ್"
+
+msgid "Remove address"
+msgstr "ವಿಳಾಸ ತೆಗೆದುಹಾಕು"
+
+msgid "Members"
+msgstr "ಸದಸ್ಯರು"
+
+msgid "Requires a payment"
+msgstr "ಪಾವತಿ ಅಗತ್ಯವಿರುತ್ತದೆ"
+
+msgid "Shipping"
+msgstr "ಶಿಪ್ಪಿಂಗ್"
+
+msgid "Ready"
+msgstr "ರೆಡಿ"
+
+msgid "Find user..."
+msgstr "ಬಳಕೆದಾರ ಹುಡುಕಿ ..."
+
+msgid "Order it"
+msgstr "ಆದೇಶ"
+
+msgid "Find group..."
+msgstr "ಗುಂಪು ಹುಡುಕಿ ..."
+
+msgid "Find user or community..."
+msgstr "ಬಳಕೆದಾರ ಅಥವಾ ಸಮುದಾಯ ಹುಡುಕಿ ..."
+
+msgid "No item found"
+msgstr "ಯಾವುದೇ ಐಟಂ ಕಂಡುಬರುವುದಿಲ್ಲ"
+
+msgid "years"
+msgstr "ವರ್ಷಗಳ"
+
+msgid "Send message"
+msgstr "ಸಂದೇಶ ಕಳುಹಿಸಿ"
+
+msgid "Message"
+msgstr "ಸಂದೇಶ"
+
+msgid "To send message press Enter"
+msgstr "ಸಂದೇಶವನ್ನು ಪತ್ರಿಕಾ ನಮೂದಿಸಿ ಕಳುಹಿಸಲು"
+
+msgid "To send message press CTRL+Enter"
+msgstr "ಸಂದೇಶವನ್ನು ಒತ್ತಿ ಕಳುಹಿಸಲು + ನಮೂದಿಸಿ"
+
+msgid "Processing file(s)..."
+msgstr "ಸಂಸ್ಕರಣ ಕಡತ (ಗಳು) ..."
+
+msgid "Group settings"
+msgstr "ಗುಂಪು ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು"
+
+msgid "Create group"
+msgstr "ಗುಂಪು ರಚಿಸಿ"
+
+msgid "Group has been successfully saved"
+msgstr "ಗುಂಪು ಯಶಸ್ವಿಯಾಗಿ ಉಳಿಸಲಾಗಿದೆ"
+
+msgid "Group title"
+msgstr "ಗ್ರೂಪ್ ಶೀರ್ಷಿಕೆ"
+
+msgid "Group video"
+msgstr "ಗ್ರೂಪ್ ವಿಡಿಯೋ"
+
+msgid "Description"
+msgstr "ವಿವರಣೆ"
+
+msgid "Your role in group"
+msgstr "ಗುಂಪಿನಲ್ಲಿ ನಿಮ್ಮ ಪಾತ್ರ"
+
+msgid "Role"
+msgstr "ಪಾತ್ರ"
+
+msgid "Photo or video gallery"
+msgstr "ಫೋಟೋ ಅಥವಾ ವೀಡಿಯೊ ಗ್ಯಾಲರಿ"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "ವೀಡಿಯೋ ಅಪ್ಲೋಡ್ ಮಾಡಿ"
+
+msgid "Add group address"
+msgstr "ಗುಂಪು ವಿಳಾಸ ಸೇರಿಸಿ"
+
+msgid "Group articles"
+msgstr "ಗ್ರೂಪ್ ಲೇಖನಗಳು"
+
+msgid "No addresses yet"
+msgstr "ಇನ್ನೂ ಇಲ್ಲ ವಿಳಾಸಗಳನ್ನು"
+
+msgid "Add group achievement"
+msgstr "ಗುಂಪು ಸಾಧನೆ ಸೇರಿಸಿ"
+
+msgid "No achivements yet"
+msgstr "ಇನ್ನೂ ಇಲ್ಲ achivements"
+
+msgid "Are you sure to delete this user"
+msgstr "ಈ ಬಳಕೆದಾರ ಅಳಿಸಲು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ"
+
+msgid "Add member"
+msgstr "ಸದಸ್ಯ ಸೇರಿಸಿ"
+
+msgid "Are you sure to delete this record?"
+msgstr "ನೀವು ಈ ದಾಖಲೆಯನ್ನು ಅಳಿಸಲು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"
+
+msgid "Join this group"
+msgstr "ಈ ಗುಂಪನ್ನು ಸೇರಲು"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "ನಿಮ್ಮ ಆಮಂತ್ರಣವನ್ನು ಗುಂಪು ನಿರ್ವಾಹಕರು ಕಳುಹಿಸಲಾಗಿದೆ"
+
+msgid "All addresses"
+msgstr "ಎಲ್ಲಾ ವಿಳಾಸಗಳನ್ನು"
+
+msgid "Collapse"
+msgstr "ಸಂಕುಚಿಸಿ"
+
+msgid "Achievements"
+msgstr "ಸಾಧನೆಗಳು"
+
+msgid "Show more"
+msgstr "ಹೆಚ್ಚು ಆಯ್ಕೆಗಳನ್ನು ತೋರಿಸಿ"
+
+msgid "Team"
+msgstr "ತಂಡ"
+
+msgid "Projects"
+msgstr "ಯೋಜನೆಗಳು"
+
+msgid "New project"
+msgstr "ಹೊಸ ಯೋಜನೆಯ"
+
+msgid "Project has not been created yet"
+msgstr "ಪ್ರಾಜೆಕ್ಟ್ ಇನ್ನೂ ದಾಖಲಿಸಿದವರು ಮಾಡಿಲ್ಲ"
+
+msgid "Messanger"
+msgstr "messanger"
+
+msgid "Balance"
+msgstr "ಬ್ಯಾಲೆನ್ಸ್"
+
+msgid "Main page"
+msgstr "ಮುಖ್ಯ ಪುಟ"
+
+msgid "Upload image"
+msgstr "ಅಪ್ಲೋಡ್ ಚಿತ್ರ"
+
+msgid "My time"
+msgstr "ನನ್ನ ಸಮಯ"
+
+msgid "Day"
+msgstr "ದಿನ"
+
+msgid "Week"
+msgstr "ವಾರ"
+
+msgid "Project settings"
+msgstr "ಪ್ರಾಜೆಕ್ಟ್ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು"
+
+msgid "Create project"
+msgstr "ಯೋಜನೆಯನ್ನು ರಚಿಸಿ"
+
+msgid "Project has been successfully saved"
+msgstr "ಪ್ರಾಜೆಕ್ಟ್ ಯಶಸ್ವಿಯಾಗಿ ಉಳಿಸಲಾಗಿದೆ"
+
+msgid "Project name"
+msgstr "ಯೋಜನೆಯ ಹೆಸರು"
+
+msgid "Deadline"
+msgstr "ಗಡುವು"
+
+msgid "Close"
+msgstr "ಮುಚ್ಚು"
+
+msgid "Manager"
+msgstr "ಮ್ಯಾನೇಜರ್"
+
+msgid "Assigned to"
+msgstr "ನಿಗದಿಪಡಿಸಲಾಗಿದೆ"
+
+msgid "Discussion"
+msgstr "ಚರ್ಚೆ"
+
+msgid "Task was created"
+msgstr "ಟಾಸ್ಕ್ ಸ್ಥಾಪಿಸಲಾಯಿತು"
+
+msgid "Task was closed"
+msgstr "ಟಾಸ್ಕ್ ಮುಚ್ಚಲಾಯಿತು"
+
+msgid "Go to Group"
+msgstr "ಗುಂಪು ಹೋಗಿ"
+
+msgid "Closed"
+msgstr "ಮುಚ್ಚಲಾಗಿದೆ"
+
+msgid "Last updates"
+msgstr "ಕೊನೆಯ ನವೀಕರಣಗಳನ್ನು"
+
+msgid "Project is closed"
+msgstr "ಪ್ರಾಜೆಕ್ಟ್ ಮುಚ್ಚಲಾಗಿದೆ"
+
+msgid "No open tasks"
+msgstr "ಯಾವುದೇ ಮುಕ್ತ ಕಾರ್ಯಗಳನ್ನು"
+
+msgid "New task"
+msgstr "ಹೊಸ ಕಾರ್ಯ"
+
+msgid "Closed tasks"
+msgstr "ಮುಚ್ಚಿದ ಕಾರ್ಯಗಳನ್ನು"
+
+msgid "Add subproject"
+msgstr "ಸಬ್ ಪ್ರಾಜೆಕ್ಟ್ ಸೇರಿಸಿ"
+
+msgid "Add task"
+msgstr "ಕಾರ್ಯ ಸೇರಿಸಿ"
+
+msgid "Sun"
+msgstr "ಭಾನುವಾರ"
+
+msgid "Mon"
+msgstr "ಸೋಮವಾರ"
+
+msgid "Tue"
+msgstr "ಮಂಗಳವಾರ"
+
+msgid "Wed"
+msgstr "ಬುಧವಾರ"
+
+msgid "Thur"
+msgstr "ಗುರುವಾರ"
+
+msgid "Fri"
+msgstr "ಶುಕ್ರವಾರ"
+
+msgid "Sat"
+msgstr "ಶನಿವಾರ"
+
+msgid "Event title"
+msgstr "ಈವೆಂಟ್ ಶೀರ್ಷಿಕೆ"
+
+msgid "Event description"
+msgstr "ಈವೆಂಟ್ ವಿವರಣೆ"
+
+msgid "I registered on this site"
+msgstr "ನಾನು ಈ ಸೈಟ್ ನೋಂದಣಿ"
+
+msgid "Last created groups"
+msgstr "ಕೊನೆಯ ಗುಂಪುಗಳನ್ನು ರಚಿಸಲಾಗಿದೆ"
+
+msgid "You joined this group as"
+msgstr "ನೀವು ಈ ಗುಂಪು ಸೇರಿದರು"
+
+msgid "You received a request to join the group"
+msgstr "ನೀವು ಗುಂಪು ಸೇರಲು ಕೋರಿಕೆ ಬಂದಿದೆ"
+
+msgid "Updated site"
+msgstr "ಅಪ್ಡೇಟ್ಗೊಳಿಸಲಾಗಿದೆ ಸೈಟ್"
+
+msgid "Site is under construction"
+msgstr "ಸೈಟ್ ನಿರ್ಮಾಣ ಹಂತದಲ್ಲಿದೆ"
+
+msgid "Last registered users"
+msgstr "ಕೊನೆಯ ನೋಂದಾಯಿತ ಬಳಕೆದಾರರು"
+
+msgid "User settings"
+msgstr "ಬಳಕೆದಾರ ಸೆಟ್ಟಿಂಗ್ಗಳು"
+
+msgid "Technical support"
+msgstr "ತಾಂತ್ರಿಕ ಬೆಂಬಲ"
+
+msgid "Change email"
+msgstr "ಇಮೇಲ್ ಬದಲಾಯಿಸಿ"
+
+msgid "Change password"
+msgstr "ಪಾಸ್ವರ್ಡ್ ಬದಲಾಯಿಸಿ"
+
+msgid "User has been successfully saved"
+msgstr "ಬಳಕೆದಾರ ಯಶಸ್ವಿಯಾಗಿ ಉಳಿಸಲಾಗಿದೆ"
+
+msgid "Full name"
+msgstr "ಪೂರ್ಣ ಹೆಸರು"
+
+msgid "My video"
+msgstr "ನನ್ನ ವೀಡಿಯೊ"
+
+msgid "Skills"
+msgstr "ಸ್ಕಿಲ್ಸ್"
+
+msgid "Birthday"
+msgstr "ಜನ್ಮದಿನ"
+
+msgid "Country of residence"
+msgstr "ಇರುವ ದೇಶ"
+
+msgid "Country"
+msgstr "ಕಂಟ್ರಿ"
+
+msgid "Zip Code"
+msgstr "ZIP ಕೋಡ್"
+
+msgid "City/town of residence"
+msgstr "ನಿವಾಸದ ನಗರ / ಪಟ್ಟಣ"
+
+msgid "University/college"
+msgstr "ವಿಶ್ವವಿದ್ಯಾಲಯ / ಕಾಲೇಜು"
+
+msgid "University/college photo"
+msgstr "ವಿಶ್ವವಿದ್ಯಾಲಯ / ಕಾಲೇಜು ಫೋಟೋ"
+
+msgid "Add user\'s accomplishments"
+msgstr "ಬಳಕೆದಾರರ ಸಾಧನೆಗಳು ಸೇರಿಸಿ"
+
+msgid "Interface language"
+msgstr "ಸಂಪರ್ಕ ಭಾಷೆ"
+
+msgid "How other people see this page"
+msgstr "ಇತರ ಜನರು ಈ ಪುಟ ನೋಡಿ"
+
+msgid "Video with me"
+msgstr "ನನ್ನೊಂದಿಗೆ ವಿಡಿಯೋ"
+
+msgid "Groups"
+msgstr "ಗುಂಪುಗಳು"
+
+msgid "Registered today"
+msgstr "ನೋಂದಾಯಿತ ಇಂದು"
+
+msgid "Qty"
+msgstr "ಪ್ರಮಾಣ"
+
+msgid "No registered users yet"
+msgstr "ಇನ್ನೂ ಇಲ್ಲ ನೋಂದಾಯಿತ ಬಳಕೆದಾರರು"
+
+msgid "Total"
+msgstr "ಒಟ್ಟು"
+
+msgid "Registered total"
+msgstr "ನೋಂದಾಯಿತ ಒಟ್ಟು"
+
+msgid "You received a file"
+msgstr "ನೀವು ಫೈಲ್ ಪಡೆದರು"
+
+msgid "You were invited into this room"
+msgstr "ಈ ಕೊಠಡಿ ಆಹ್ವಾನಿಸಲಾಯಿತು"
+
+msgid "Request is being processed"
+msgstr "ವಿನಂತಿ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿದೆ"
+
+msgid "Fax"
+msgstr "ಫ್ಯಾಕ್ಸ್"
+
+msgid "Messenger"
+msgstr "ಮೆಸೆಂಜರ್"
+
+msgid "New subproject"
+msgstr "ಹೊಸ ಸಬ್ ಪ್ರಾಜೆಕ್ಟ್"
+
+msgid "messages written."
+msgstr "ಸಂದೇಶಗಳನ್ನು ಬರೆಯಲಾಗಿದೆ ."
+
+msgid "projects created based on groups."
+msgstr "ಯೋಜನೆಗಳು ಗುಂಪುಗಳು ಆಧರಿಸಿ ರಚಿಸಿದ ."
+
+msgid "users registered on website."
+msgstr "ಬಳಕೆದಾರರು ವೆಬ್ಸೈಟ್ ನೋಂದಣಿ ."
+
+msgid "New email"
+msgstr "ಹೊಸ ಇಮೇಲ್"
+
+msgid "Confirm email"
+msgstr "ಇಮೇಲ್ ಅನ್ನು"
+
+msgid "New password"
+msgstr "ಹೊಸ ಗುಪ್ತಪದವನ್ನು"
+
+msgid "Confirm password"
+msgstr "ಗುಪ್ತಪದವನ್ನು ಖಚಿತಪಡಿಸಿ"
+
+msgid "Occupation"
+msgstr "ಸ್ಪೆಷಾಲಿಟಿ"
+
+msgid "Timezone"
+msgstr "ಕಾಲವಲಯ"
+
+msgid "Answer"
+msgstr "ಉತ್ತರ"
+
+msgid "Articles"
+msgstr "ಲೇಖನಗಳು"
+
+msgid "Article"
+msgstr "ಲೇಖನ"
+
+msgid "Video-article"
+msgstr "ವೀಡಿಯೊ ಲೇಖನ"
+
+msgid "Find article..."
+msgstr "ಲೇಖನ ಹುಡುಕಿ ..."
+
+msgid "Politics"
+msgstr "ರಾಜಕೀಯ"
+
+msgid "Economics"
+msgstr "ಅರ್ಥಶಾಸ್ತ್ರ"
+
+msgid "Community"
+msgstr "ಸಮುದಾಯ"
+
+msgid "Culture"
+msgstr "ಸಂಸ್ಕೃತಿ"
+
+msgid "Sports"
+msgstr "ಕ್ರೀಡೆ"
+
+msgid "Hi-tech"
+msgstr "ಹೈಟೆಕ್"
+
+msgid "Cars"
+msgstr "ಕಾರುಗಳು"
+
+msgid "Fashion"
+msgstr "ಫ್ಯಾಷನ್"
+
+msgid "Games"
+msgstr "ಆಟಗಳು"
+
+msgid "Other"
+msgstr "ಇತರೆ"
+
+msgid "Invalid mediafile"
+msgstr "ಅಮಾನ್ಯವಾದ mediafile"
+
+msgid "No articles in this category yet"
+msgstr "ಇನ್ನೂ ಈ ವರ್ಗದಲ್ಲಿ ಯಾವ ಲೇಖನಗಳು"
+
+msgid "Back to profile"
+msgstr "ಪ್ರೊಫೈಲ್ಗೆ ಹಿಂದಿರುಗಿ"
+
+msgid "View article"
+msgstr "ಲೇಖನ ವೀಕ್ಷಿಸಿ"
+
+msgid "Edit article"
+msgstr "ಸಂಪಾದಿಸಿ ಲೇಖನ"
+
+msgid "Create article"
+msgstr "ಲೇಖನ ರಚಿಸಿ"
+
+msgid "Article title"
+msgstr "ಲೇಖನ ಶೀರ್ಷಿಕೆ"
+
+msgid "Article section"
+msgstr "ಲೇಖನ ವಿಭಾಗ"
+
+msgid "Choose image"
+msgstr "ಚಿತ್ರವನ್ನು ಆರಿಸಿ"
+
+msgid "Save and upload"
+msgstr "ಉಳಿಸಿ ಮತ್ತು ಅಪ್ಲೋಡ್"
+
+msgid "Show more..."
+msgstr "ಹೆಚ್ಚು ಆಯ್ಕೆಗಳನ್ನು ತೋರಿಸಿ ..."
+
+msgid "Create"
+msgstr "ರಚಿಸಿ"
+
+msgid "Edit"
+msgstr "ಸಂಪಾದಿಸಿ"
+
+msgid "Project"
+msgstr "ಪ್ರಾಜೆಕ್ಟ್"
+
+msgid "Team"
+msgstr "ತಂಡ"
+
+msgid "A new article was published"
+msgstr "ಹೊಸ ಲೇಖನ ಪ್ರಕಟವಾಯಿತು"
+
+msgid "You joined this project"
+msgstr "ಈ ಯೋಜನೆಯಲ್ಲಿ ಪಾಲ್ಗೊಂಡರು"
+
+msgid "Enter your information in the User settings"
+msgstr "ಬಳಕೆದಾರ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ನಿಮ್ಮ ಮಾಹಿತಿಯನ್ನು ನಮೂದಿಸಿ"
+
+msgid "Communities"
+msgstr "ಸಮುದಾಯಗಳು"
+
+msgid "Video presentation of my accomplishments"
+msgstr "ನನ್ನ ಸಾಧನೆಗಳ ವಿಡಿಯೋ ಪ್ರಸ್ತುತಿ"
+
+msgid "My articles"
+msgstr "ನನ್ನ ಲೇಖನಗಳು"
+
+msgid "User"
+msgstr "ಬಳಕೆದಾರ"
+
+msgid "Users"
+msgstr "ಬಳಕೆದಾರರು"
+
+msgid "Add new list"
+msgstr "ಹೊಸ ಪಟ್ಟಿಯಲ್ಲಿ ಸೇರಿಸಿ"
+
+msgid "List title"
+msgstr "ಪಟ್ಟಿ ಶೀರ್ಷಿಕೆ"
+
+msgid "Add"
+msgstr "ಸೇರಿಸಿ"
+
+msgid "Add to favorites"
+msgstr "ಮೆಚ್ಚಿನವುಗಳಿಗೆ ಸೇರಿಸಿ"
+
+msgid "Delete from favorites"
+msgstr "ಮೆಚ್ಚಿನವುಗಳು ಅಳಿಸಿ"
+
+msgid "Select list"
+msgstr "ಆಯ್ಕೆ ಪಟ್ಟಿಯನ್ನು"
+
+msgid "Subscriptions"
+msgstr "ಚಂದಾದಾರಿಕೆಗಳು"
+
+msgid "Subscribe"
+msgstr "ಚಂದಾದಾರರಾಗಿ"
+
+msgid "Unsubscribe"
+msgstr "ಅನ್ಸಬ್ಸ್ಕ್ರೈಬ್"
+
+msgid "General list"
+msgstr "ಸಾಮಾನ್ಯ ಪಟ್ಟಿ"
+
+msgid "No users in this list"
+msgstr "ಈ ಪಟ್ಟಿಯಲ್ಲಿ ಯಾವುದೇ ಬಳಕೆದಾರರು"
+
+msgid "Publish"
+msgstr "ಪ್ರಕಟಿಸಿ"
+
+msgid "Unpublish"
+msgstr "ಅಪ್ರಕಟಿಸು"
+
+msgid "Add user"
+msgstr "ಬಳಕೆದಾರ ಸೇರಿಸಿ"
+
+msgid "Create document"
+msgstr "ಡಾಕ್ಯುಮೆಂಟ್ ರಚಿಸಿ"
+
+msgid "Edit document"
+msgstr "ಸಂಪಾದಿಸಿ ದಾಖಲೆ"
+
+msgid "View"
+msgstr "ವೀಕ್ಷಿಸಿ"
+
+msgid "Document title"
+msgstr "ಡಾಕ್ಯುಮೆಂಟ್ ಶೀರ್ಷಿಕೆ"
+
+msgid "Find document..."
+msgstr "ಡಾಕ್ಯುಮೆಂಟ್ ಹುಡುಕಿ ..."
+
+msgid "Share your thoughts"
+msgstr "ನಿಮ್ಮ ಆಲೋಚನೆಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಿ"
+
+msgid "Leave your comment"
+msgstr "ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯಿಸುವಾಗ"
+
+msgid "Accept"
+msgstr "ಸ್ವೀಕರಿಸಿ"
+
+msgid "Decline"
+msgstr "ಡಿಕ್ಲೈನ್"
+
+msgid "Add article"
+msgstr "ಲೇಖನ ಸೇರಿಸಿ"
+
+msgid "Link to verified accomplishments"
+msgstr "ಪರಿಶೀಲಿಸಿದ ಸಾಧನೆಗಳು ಲಿಂಕ್"
+
+msgid "No articles here yet..."
+msgstr "ಈವರೆಗೆ ಯಾವುದೇ ಲೇಖನಗಳು ..."
+
+msgid "Find file or folder..."
+msgstr "ಕಡತ ಯಾ ಕಡತಕೋಶವನ್ನು ಹುಡುಕಿ ..."
+
+msgid "Sort"
+msgstr "ವಿಂಗಡಿಸಿ"
+
+msgid "By name"
+msgstr "ಹೆಸರಿನಿಂದ"
+
+msgid "By date"
+msgstr "ಸೃಷ್ಟಿಯ ದಿನಾಂಕ"
+
+msgid "By updated date"
+msgstr "ನವೀಕರಣ ದಿನಾಂಕ"
+
+msgid "By size"
+msgstr "ಫಿಟ್"
+
+msgid "By type"
+msgstr "ರೀತಿಯಿಂದ"
+
+msgid "Move"
+msgstr "ಮೂವ್"
+
+msgid "File Manager"
+msgstr "ಕಡತ ವ್ಯವಸ್ಥಾಪಕ"
+
+msgid "Share link"
+msgstr "ಹಂಚಿಕೊಳ್ಳಿ"
+
+msgid "Responsible"
+msgstr "ಜವಾಬ್ದಾರಿಯುತ"
+
+msgid "Performer"
+msgstr "ಸಾಧಕ"
+
+msgid "New Folder"
+msgstr "ಹೊಸ ಫೋಲ್ಡರ್"
+
+msgid "Folder name"
+msgstr "ಫೋಲ್ಡರ್ ಹೆಸರು"
+
+msgid "By default"
+msgstr "ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ"
+
+msgid "Back to group"
+msgstr "ಗುಂಪಿಗೆ ಹಿಂದಿರುಗಿ"
+
+msgid "year(s)"
+msgstr "ವರ್ಷ (ಗಳ)"
+
+msgid "January"
+msgstr "ಜನವರಿ"
+
+msgid "February"
+msgstr "ಫೆಬ್ರವರಿ"
+
+msgid "March"
+msgstr "ಮಾರ್ಚ್"
+
+msgid "April"
+msgstr "ಏಪ್ರಿಲ್"
+
+msgid "May"
+msgstr "ಮೇ"
+
+msgid "June"
+msgstr "ಜೂನ್"
+
+msgid "July"
+msgstr "ಜುಲೈ"
+
+msgid "August"
+msgstr "ಆಗಸ್ಟ್"
+
+msgid "September"
+msgstr "ಸೆಪ್ಟೆಂಬರ್"
+
+msgid "October"
+msgstr "ಅಕ್ಟೋಬರ್"
+
+msgid "November"
+msgstr "ನವೆಂಬರ್"
+
+msgid "December"
+msgstr "ಡಿಸೆಂಬರ್"
+
+msgid "Password Reminder"
+msgstr "ಪಾಸ್ವರ್ಡ್ ಜ್ಞಾಪನೆ"
+
+msgid "Log In"
+msgstr "ಪ್ರವೇಶಿಸಲು"
+
+msgid "Sign in"
+msgstr "ಸೈನ್ ಇನ್"
+
+msgid "Register"
+msgstr "ನೋಂದಣಿ"
+
+msgid "First name"
+msgstr "ಮೊದಲ ಹೆಸರು"
+
+msgid "Last name"
+msgstr "ಕೊನೆಯ ಹೆಸರು"
+
+msgid "I agree with rules"
+msgstr "ನಾನು ನಿಯಮಗಳನ್ನು ಒಪ್ಪುತ್ತೇನೆ"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "ಒಂದು ದೃಢೀಕರಣ ನಿಮ್ಮ ಇಮೇಲ್ ವಿಳಾಸಕ್ಕೆ ಕಳುಹಿಸಲಾಗಿದೆ."
+
+msgid "Thanks"
+msgstr "ಧನ್ಯವಾದಗಳು"
+
+msgid "Password must be at least 6 characters"
+msgstr "ಪಾಸ್ವರ್ಡ್ ಕನಿಷ್ಠ 6 ಅಕ್ಷರಗಳು ಆಗಿರಬೇಕು"
+
+msgid "Creative Environment"
+msgstr "ಕ್ರಿಯೇಟಿವ್ ಪರಿಸರ"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "ಈ ಸೇವೆಯನ್ನು ಬಳಸಲು ವಯಸ್ಸಿನ ಕನಿಷ್ಠ ಹದಿಮೂರು ವರ್ಷಗಳ ಅಗತ್ಯವಿದೆ"
+
+msgid "Order status"
+msgstr "ಆರ್ಡರ್ ಸ್ಥಿತಿ"
+
+msgid "Processing order"
+msgstr "ಸಂಸ್ಕರಣ ಸಲುವಾಗಿ"
+
+msgid "Requires a payment"
+msgstr "ಪಾವತಿ ಅಗತ್ಯವಿರುತ್ತದೆ"
+
+msgid "Shipping"
+msgstr "ಶಿಪ್ಪಿಂಗ್"
+
+msgid "Ready"
+msgstr "ರೆಡಿ"
+
+msgid "Thank you for your payment"
+msgstr "ನಿಮ್ಮ ಪಾವತಿ ಧನ್ಯವಾದಗಳು"
+
+msgid "Your payment has been cancelled"
+msgstr "ನಿಮ್ಮ ಪಾವತಿ ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ"
+
+msgid "page"
+msgstr "ಪುಟ"
+
+msgid "Rent period"
+msgstr "ಬಾಡಿಗೆ ಅವಧಿ"
+
+msgid "Total, month"
+msgstr "ಒಟ್ಟು, ತಿಂಗಳು"
+
+msgid "Order items"
+msgstr "ಆರ್ಡರ್ ಐಟಂಗಳನ್ನು"
+
+msgid "No records found"
+msgstr "ಯಾವುದೇ ದಾಖಲೆಗಳು ಕಂಡುಬಂದಿಲ್ಲ"
+
+msgid "User with this email is already exist"
+msgstr "ಈ ಇಮೇಲ್ ಬಳಕೆದಾರ ಈಗಾಗಲೇ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ ಆಗಿದೆ"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "ಇಂತಹ ಹೆಸರಿನ ಫೋಲ್ಡರ್ ಅಥವಾ ಫೈಲ್ ಈಗಾಗಲೇ ಗಮ್ಯಸ್ಥಾನ ಫೋಲ್ಡರ್ ಅಸ್ತಿತ್ವ ಇದೆ"
+
+msgid "Minimal quantity"
+msgstr "ಕನಿಷ್ಠ ಪ್ರಮಾಣ"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "ಮುದ್ರಣ ಪ್ರತಿಗಳನ್ನು"
+
+msgid "Terms of Use"
+msgstr "ಬಳಕೆಯ ನಿಯಮಗಳು"
+
+msgid "Privacy Policy"
+msgstr "ಗೌಪ್ಯತಾ ನೀತಿ"
+
+msgid "Find project..."
+msgstr "ಯೋಜನೆಯ ಹುಡುಕಿ ..."
+
+msgid "New Project"
+msgstr "ಹೊಸ ಯೋಜನೆ"
+
+msgid "Accounts"
+msgstr "ಖಾತೆಗಳು"
+
+msgid "Operations"
+msgstr "ಕಾರ್ಯಾಚರಣೆ"
+
+msgid "All accounts"
+msgstr "ಎಲ್ಲ ಖಾತೆಗಳನ್ನು"
+
+msgid "All categories"
+msgstr "ಉದ್ಯೋಗ"
+
+msgid "Expense"
+msgstr "ಖರ್ಚು"
+
+msgid "Income"
+msgstr "ಆದಾಯ"
+
+msgid "Transfer"
+msgstr "ಟ್ರಾನ್ಸ್ಫರ್"
+
+msgid "Expense"
+msgstr "ಖರ್ಚು"
+
+msgid "income"
+msgstr "ಆದಾಯ"
+
+msgid "tax"
+msgstr "ತೆರಿಗೆ"
+
+msgid "percent"
+msgstr "ಶೇಕಡಾ"
+
+msgid "transfer"
+msgstr "ವರ್ಗಾವಣೆ"
+
+msgid "Make operation"
+msgstr "ಕಾರ್ಯಾಚರಣೆ ಮಾಡಿ"
+
+msgid "Select date"
+msgstr "ದಿನಾಂಕ ಆಯ್ಕೆ"
+
+msgid "Select account"
+msgstr "ಖಾತೆಯನ್ನು ಆರಿಸಿ"
+
+msgid "Month"
+msgstr "ತಿಂಗಳ"
+
+msgid "Quarter"
+msgstr "ಕ್ವಾರ್ಟರ್"
+
+msgid "Year"
+msgstr "ವರ್ಷದ"
+
+msgid "From"
+msgstr "ಗೆ"
+
+msgid "To"
+msgstr "ಗೆ"
+
+msgid "Expense amount"
+msgstr "ಖರ್ಚು ಪ್ರಮಾಣವನ್ನು"
+
+msgid "Categories"
+msgstr "ವರ್ಗಗಳು"
+
+msgid "Comments"
+msgstr "ಪ್ರತಿಕ್ರಿಯೆಗಳು"
+
+msgid "Income amount"
+msgstr "ಆದಾಯ ಪ್ರಮಾಣವನ್ನು"
+
+msgid "Transfer amount"
+msgstr "ವರ್ಗಾವಣೆ ಪ್ರಮಾಣವನ್ನು"
+
+msgid "From account"
+msgstr "ಖಾತೆಯಿಂದ"
+
+msgid "To account"
+msgstr "ಖಾತೆಗೆ"
+
+msgid "New Account"
+msgstr "ಹೊಸ ಖಾತೆ"
+
+msgid "New Category"
+msgstr "ಹೊಸ ವರ್ಗ"
+
+msgid "All"
+msgstr "ಎಲ್ಲಾ"
+
+msgid "Name"
+msgstr "ಹೆಸರು"
+
+msgid "Enter category name"
+msgstr "ವರ್ಗದಲ್ಲಿ ಹೆಸರನ್ನು ನಮೂದಿಸಿ"
+
+msgid "Select type"
+msgstr "ಪ್ರಕಾರವನ್ನುಆರಿಸಿ"
+
+msgid "Credit card"
+msgstr "ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್"
+
+msgid "Debit card"
+msgstr "ಡೆಬಿಟ್ ಕಾರ್ಡ್"
+
+msgid "Bank account"
+msgstr "ಬ್ಯಾಂಕ್ ಖಾತೆ"
+
+msgid "Cash"
+msgstr "ನಗದು"
+
+msgid "Balance is empty"
+msgstr "ಬ್ಯಾಲೆನ್ಸ್ ಖಾಲಿಯಾಗಿದೆ"
+
+msgid "Statistic is empty"
+msgstr "ಅಂಕಿ ಖಾಲಿಯಾಗಿದೆ"
+
+msgid "Regular payments"
+msgstr "ನಿಯಮಿತ ಪಾವತಿ"
+
+msgid "Are you sure ?"
+msgstr "ನೀವು ಖಚಿತವಾಗಿರುವಿರಾ ?"
+
+msgid "Are you sure to close this project?"
+msgstr "ಈ ಯೋಜನೆಯಲ್ಲಿ ಮುಚ್ಚಲು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"
+
+msgid "Project was deleted successfully"
+msgstr "ಪ್ರಾಜೆಕ್ಟ್ ಯಶಸ್ವಿಯಾಗಿ ಅಳಿಸಲಾಗಿದೆ"
+
+msgid "Select currency"
+msgstr "ಆಯ್ಕೆ ಕರೆನ್ಸಿ"
+
+msgid "Account"
+msgstr "ಖಾತೆ"
+
+msgid "Orders list"
+msgstr "ಆರ್ಡರ್ಸ್ ಪಟ್ಟಿ"
+
+msgid "Order payments"
+msgstr "ಆರ್ಡರ್ ಪಾವತಿ"
+
+msgid "View order"
+msgstr "ವೀಕ್ಷಿಸಿ ಸಲುವಾಗಿ"
+
+msgid "No response from Printer API"
+msgstr "ಮುದ್ರಕವು API ನಿಂದ ಯಾವುದೇ ಪ್ರತಿಕ್ರಿಯೆ"
+
+msgid "Bad response from Printer API"
+msgstr "ಮುದ್ರಕವು API ಕಳಪೆ ಪ್ರತಿಕ್ರಿಯೆ"
+
+msgid "User ID"
+msgstr "ಬಳಕೆದಾರರ ಗುರುತು"
+
+msgid "Contact Person"
+msgstr "ಸಂಪರ್ಕ ವ್ಯಕ್ತಿ"
+
+msgid "No orders to process"
+msgstr "ಯಾವುದೇ ಆದೇಶಗಳನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲು"
+
+msgid "Article announce image"
+msgstr "ಲೇಖನ ಚಿತ್ರ ಘೋಷಿಸಲು"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "ಅಮಾನ್ಯವಾದ ವೀಡಿಯೊ URL. ಖಾಲಿ ಬಿಡಿ ಅಥವಾ ಮಾನ್ಯ YouTube URL ಸೇರಿಸಲು"
+
+msgid "Please, enter Contractor data"
+msgstr ", ಗುತ್ತಿಗೆದಾರ ಡೇಟಾ ನಮೂದಿಸಿ"
+
+msgid "Distribute devices"
+msgstr "ಸಾಧನಗಳು ವಿತರಿಸಿ"
+
+msgid "Quantity"
+msgstr "ಪ್ರಮಾಣ"
+
+msgid "Devices left"
+msgstr "ಸಾಧನಗಳು ಬಿಟ್ಟು"
+
+msgid "Distributed devices"
+msgstr "ಡಿಸ್ಟ್ರಿಬ್ಯುಟೆಡ್ ಸಾಧನಗಳು"
+
+msgid "You must enter quantity"
+msgstr "ನೀವು ಪ್ರಮಾಣ ನಮೂದಿಸಬೇಕು"
+
+msgid "All devices are distributed"
+msgstr "ಎಲ್ಲಾ ಸಾಧನಗಳು ವಿತರಿಸಲಾಗಿದೆ"
+
+msgid "IP address"
+msgstr "IP ವಿಳಾಸ"
+
+msgid "Only for printer"
+msgstr "ಮಾತ್ರ ಪ್ರಿಂಟರ್"
+
+msgid "Counter"
+msgstr "ಕೌಂಟರ್"
+
+msgid "You was excluded from this room"
+msgstr "ಈ ಕೋಣೆಯಲ್ಲಿ ಹೊರಗಿಡಬೇಕೆಂದು"
+
+msgid "Compare"
+msgstr "ಹೋಲಿಸಿ"
+
+msgid "Scheduled transaction"
+msgstr "ಪರಿಶಿಷ್ಟ ವ್ಯವಹಾರ"
+
+msgid "Select transfer account"
+msgstr "ಆಯ್ಕೆ ವರ್ಗಾವಣೆ ಖಾತೆ"
+
+msgid "Select income account"
+msgstr "ಆಯ್ಕೆ ಆದಾಯದ ಖಾತೆಯ"
+
+msgid "Reports"
+msgstr "ವರದಿಗಳು"
+
+msgid "Goals"
+msgstr "ಗುರಿಗಳು"
+
+msgid "Budgets"
+msgstr "ಬಜೆಟ್"
+
+msgid "Enter user name or email..."
+msgstr "ಬಳಕೆದಾರ ಹೆಸರು ಅಥವಾ ಇಮೇಲ್ ನಮೂದಿಸಿ ..."
+
+msgid "Invite had been sended"
+msgstr "Sended ಎಂದು ಆಹ್ವಾನಿಸಿ"
+
+msgid "Statistics"
+msgstr "ಅಂಕಿಅಂಶ"
+
+msgid "Updated site began to work"
+msgstr "ಅಪ್ಡೇಟ್ಗೊಳಿಸಲಾಗಿದೆ ಸೈಟ್ ಕೆಲಸ ಆರಂಭಿಸಿದರು"
+
+msgid "City of residence"
+msgstr "ನಿವಾಸದ ನಗರ"
+
+msgid "Edit favourites list"
+msgstr "ಸಂಪಾದಿಸಿ ನೆಚ್ಚಿನ ಪಟ್ಟಿಗೆ"
+
+msgid "Add favourites list"
+msgstr "ನೆಚ್ಚಿನ ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ"
+
+msgid "Categories is required"
+msgstr "ವರ್ಗಗಳು ಅಗತ್ಯವಿದೆ"
+
+msgid "Type new category name and hit Enter"
+msgstr "ಹೊಸ ವರ್ಗದಲ್ಲಿ ಹೆಸರನ್ನು ನಮೂದಿಸಿ ಹಾಗು Enter ಅನ್ನು ಒತ್ತುವ"
+
+msgid "You created an order"
+msgstr "ನೀವು ಆದೇಶವನ್ನು ದಾಖಲಿಸಿದವರು"
+
+msgid "You received a device due to this order"
+msgstr "ನೀವು ಕಾರಣ ಈ ಆದೇಶಕ್ಕೆ ಸಾಧನ ಪಡೆದರು"
+
+msgid "%s attached %s to task %s"
+msgstr "%s ಲಗತ್ತಿಸಲಾದ %s %s ಕೆಲಸವನ್ನು"
+
+msgid "member(s)"
+msgstr "ಸದಸ್ಯ (ರ)"
+
+msgid "%s commented task %s"
+msgstr "% ಕಾಮೆಂಟ್ ಕೆಲಸವನ್ನು %s"
+
+msgid "%s closed task %s"
+msgstr "%s ಮುಚ್ಚಿದ ಕೆಲಸವನ್ನು %s"
+
+msgid "%s created task %s"
+msgstr "%s ದಾಖಲಿಸಿದವರು ಕೆಲಸವನ್ನು %s"
+
+msgid "%s created this project"
+msgstr "%s ಈ ಯೋಜನೆಗೆ ದಾಖಲಿಸಿದವರು"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s ದಾಖಲಿಸಿದವರು ಸಬ್ ಪ್ರಾಜೆಕ್ಟ್ \" %s\" ಎಂಬುದು"
+
+msgid "%s closed project \"%s\""
+msgstr "%s ಮುಚ್ಚಿದ ಯೋಜನೆ \" %s\" ಎಂಬುದು"
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s ಮುಚ್ಚಿದ ಸಬ್ ಪ್ರಾಜೆಕ್ಟ್ \" %s\" ಎಂಬುದು"
+
+msgid "This field must not be blank"
+msgstr "ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಖಾಲಿ ಬಿಡುವಂತಿಲ್ಲ"
+
+msgid "Document with such name is already exist"
+msgstr "ಇಂತಹ ಹೆಸರಿನ ಡಾಕ್ಯುಮೆಂಟ್ ಈಗಾಗಲೇ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ ಆಗಿದೆ"
+
+msgid "Wait until image upload"
+msgstr "ಚಿತ್ರ ಅಪ್ಲೋಡ್ ನಿರೀಕ್ಷಿಸಿ"
+
+msgid "Video"
+msgstr "ವೀಡಿಯೊ"
+
+msgid "Message can not be empty"
+msgstr "ಸಂದೇಶ ಖಾಲಿಯಾಗಿರುವಂತಿಲ್ಲ"
+
+msgid "Yes"
+msgstr "ಹೌದು"
+
+msgid "No"
+msgstr "ಯಾವುದೇ"
+
+msgid "Created"
+msgstr "ದಾಖಲಿಸಿದವರು"
+
+msgid "Compare is empty"
+msgstr "ಖಾಲಿಯಾಗಿದೆ ಹೋಲಿಸಿ"
+
+msgid "Are you sure you want to delete operation"
+msgstr "ನೀವು ಕಾರ್ಯಾಚರಣೆ ಅಳಿಸಲು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ"
+
+msgid "Do you really want to delete transaction"
+msgstr "ನೀವು ನಿಜವಾಗಿಯೂ ವ್ಯವಹಾರ ತೆಗೆದು ಹಾಕಲು ಇಚ್ಛಿಸುತ್ತೀರೇನು"
+
+msgid "Project with same name already exists"
+msgstr "ಅದೇ ಹೆಸರಿನ ಪ್ರಾಜೆಕ್ಟ್ ಈಗಾಗಲೇ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ"
+
+msgid "Account is not found"
+msgstr "ಖಾತೆ ದೊರೆಯಲಿಲ್ಲ"
+
+msgid "Currency is required"
+msgstr "ಕರೆನ್ಸಿ ಅಗತ್ಯವಿದೆ"
+
+msgid "error while deleting document"
+msgstr "ದೋಷ ಡಾಕ್ಯುಮೆಂಟ್ ಅಳಿಸುವಾಗ"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "ಈ ಕೋಣೆಯಲ್ಲಿ ಬಳಕೆದಾರ \" %s\" ಎಂಬುದು ಆಹ್ವಾನಿಸಿದ್ದಾರೆ"
+
+msgid "User \"%s\" joined this room"
+msgstr "ಬಳಕೆದಾರ \" %s\" ಎಂಬುದು ಈ ಕೊಠಡಿ ಸೇರಿದರು"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "ಈ ಕೊಠಡಿಯ ಬಳಕೆದಾರ \" %s\" ಎಂಬುದು ಹೊರತುಪಡಿಸಿದ"
+
+msgid "User \"%s\" left this room"
+msgstr "ಬಳಕೆದಾರ \" %s\" ಎಂಬುದು ಈ ಕೋಣೆ ಬಿಟ್ಟು"
+
+msgid "Add account"
+msgstr "ಖಾತೆಯನ್ನು ಸೇರಿಸಿ"
+
+msgid "The requested page is not found"
+msgstr "ವಿನಂತಿಸಿದ ಪುಟ ದೊರೆಯಲಿಲ್ಲ"
+
+msgid "Document"
+msgstr "ಡಾಕ್ಯುಮೆಂಟ್"
+
+msgid "Table"
+msgstr "ಟೇಬಲ್"
+
+msgid "file(s)"
+msgstr "ಕಡತ (ಗಳು)"
+
+msgid "Residue"
+msgstr "ಶೇಷ"
+
+msgid "Result is empty"
+msgstr "ಪರಿಣಾಮವಾಗಿ ಖಾಲಿಯಾಗಿದೆ"
+
+msgid "The total amount is %s for %s mo"
+msgstr "ಒಟ್ಟು ಪ್ರಮಾಣವನ್ನು %s ತಿಂಗಳುಗಳು %s ಆಗಿದೆ"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "ನೀವು ಸಂಬಂಧಿತ ಖಾತೆಗೆ % ಮಾಸಿಕ ಠೇವಣಿ"
+
+msgid "Start"
+msgstr "ಪ್ರಾರಂಭಿಸಿ"
+
+msgid "finish"
+msgstr "ಮುಕ್ತಾಯದ"
+
+msgid "Selected account is already in use for another goal"
+msgstr "ಆಯ್ದ ಖಾತೆಯನ್ನು ಮತ್ತೊಂದು ಗೋಲಿಗಾಗಿ ಈಗಾಗಲೇ ಬಳಕೆಯಲ್ಲಿದೆ"
+
+msgid "Amount required"
+msgstr "ಪ್ರಮಾಣದ ಅಗತ್ಯವಿದೆ"
+
+msgid "New goal"
+msgstr "ಹೊಸ ಗುರಿ"
+
+msgid "Goal"
+msgstr "ಗೋಲ್"
+
+msgid "Goal name"
+msgstr "ಗೋಲ್ ಹೆಸರು"
+
+msgid "Invalid date"
+msgstr "ಅಮಾನ್ಯವಾದ ದಿನಾಂಕ"
+
+msgid "Necessary sum must be a positive number"
+msgstr "ಅಗತ್ಯ ಮೊತ್ತ ಧನಾತ್ಮಕ ಸಂಖ್ಯೆ ಇರಬೇಕು"
+
+msgid "Remain"
+msgstr "ಉಳಿಯುತ್ತದೆ"
+
+msgid "Last day"
+msgstr "ಕೊನೆಯ ದಿನ"
+
+msgid "Accumulated"
+msgstr "ತನ್ನತ್ತ"
+
+msgid "Put aside"
+msgstr "ಬದಿಗಿರಿಸಿ"
+
+msgid "January"
+msgstr "ಜನವರಿ"
+
+msgid "February"
+msgstr "ಫೆಬ್ರವರಿ"
+
+msgid "March"
+msgstr "ಮಾರ್ಚ್"
+
+msgid "April"
+msgstr "ಏಪ್ರಿಲ್"
+
+msgid "May"
+msgstr "ಮೇ"
+
+msgid "June"
+msgstr "ಜೂನ್"
+
+msgid "July"
+msgstr "ಜುಲೈ"
+
+msgid "August"
+msgstr "ಆಗಸ್ಟ್"
+
+msgid "September"
+msgstr "ಸೆಪ್ಟೆಂಬರ್"
+
+msgid "October"
+msgstr "ಅಕ್ಟೋಬರ್"
+
+msgid "November"
+msgstr "ನವೆಂಬರ್"
+
+msgid "December"
+msgstr "ಡಿಸೆಂಬರ್"
+
+msgid "Expenses projected/actual"
+msgstr "ಯೋಜಿತ / ನಿಜವಾದ ವೆಚ್ಚಗಳು"
+
+msgid "Net Income projected/actual"
+msgstr "ನಿವ್ವಳ ವರಮಾನ / ನಿಜವಾದ ಯೋಜಿತ"
+
+msgid "New budget"
+msgstr "ಹೊಸ ಬಜೆಟ್"
+
+msgid "Revenue and Expenses Chart"
+msgstr "ಕಂದಾಯ ಮತ್ತು ವೆಚ್ಚಗಳು ಚಾರ್ಟ್"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "ಅದೇ ಖಾತೆಯ ಜೋಡಿ ಮತ್ತು ವರ್ಗದಲ್ಲಿ ಬಜೆಟ್ ಈಗಾಗಲೇ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ"
+
+msgid "Budget is empty"
+msgstr "ಬಜೆಟ್ ಖಾಲಿಯಾಗಿದೆ"
+
+msgid "Budget"
+msgstr "ಬಜೆಟ್"
+
+msgid "plan"
+msgstr "ಯೋಜನೆ"
+
+msgid "fact"
+msgstr "ವಾಸ್ತವವಾಗಿ"
+
+msgid "diff"
+msgstr "ವ್ಯತ್ಯಾಸ"
+
+msgid "Show More"
+msgstr "ಇನ್ನಷ್ಟು ತೋರಿಸು"
+
+msgid "Cancel"
+msgstr "ರದ್ದು"
+
+msgid "d"
+msgstr "ಡಿ"
+
+msgid "h"
+msgstr "ಗಂ"
+
+msgid "min"
+msgstr "ನಿಮಿಷ"
+
+msgid "My sales"
+msgstr "ನನ್ನ ಮಾರಾಟ"
+
+msgid "Time spent"
+msgstr "ಸಮಯ ಕಳೆದರು"
+
+msgid "Total time spent"
+msgstr "ಒಟ್ಟು ಸಮಯ ಕಳೆದರು"
+
+msgid "Earnings per hour"
+msgstr "ಗಂಟೆಗೆ ಅರ್ನಿಂಗ್ಸ್"
+
+msgid "Total earnings"
+msgstr "ಒಟ್ಟು ಆದಾಯ"
+
+msgid "Call"
+msgstr "ಕಾಲ್"
+
+msgid "Phone call"
+msgstr "ದೂರವಾಣಿ ಕರೆ"
+
+msgid "Telephone calls"
+msgstr "ದೂರವಾಣಿ ಕರೆಗಳು"
+
+msgid "Send email"
+msgstr "ಇಮೇಲ್ ಕಳುಹಿಸಿ"
+
+msgid "Emails"
+msgstr "ಇಮೇಲ್ಗಳನ್ನು"
+
+msgid "Meeting"
+msgstr "ಸಭೆ"
+
+msgid "Meetings"
+msgstr "ಸಭೆಗಳು"
+
+msgid "All events"
+msgstr "ಎಲ್ಲಾ ಘಟನೆಗಳು"
+
+msgid "Task"
+msgstr "ಟಾಸ್ಕ್"
+
+msgid "Event"
+msgstr "ಈವೆಂಟ್"
+
+msgid "Events"
+msgstr "ಕ್ರಿಯೆಗಳು"
+
+msgid "Time"
+msgstr "ಟೈಮ್"
+
+msgid "Events statistics"
+msgstr "ಕ್ರಿಯೆಗಳು ಅಂಕಿಅಂಶಗಳು"
+
+msgid "days"
+msgstr "ದಿನಗಳ"
+
+msgid "hours"
+msgstr "ಗಂಟೆಗಳ"
+
+msgid "minutes"
+msgstr "ನಿಮಿಷಗಳ"
+
+msgid "Income & expense"
+msgstr "ಆದಾಯ ಮತ್ತು ಖರ್ಚು"
+
+msgid "Show chart"
+msgstr "ಶೋ ಚಾರ್ಟ್"
+
+msgid "Hide chart"
+msgstr "ಮರೆಮಾಡಿ ಚಾರ್ಟ್"
+
+msgid "Add event"
+msgstr "ಕ್ರಿಯೆಯನ್ನು ಸೇರಿಸಿ"
+
+msgid "Add financial data"
+msgstr "ಆರ್ಥಿಕ ಮಾಹಿತಿ ಸೇರಿಸಿ"
+
+msgid "Select contractor"
+msgstr "ಆಯ್ಕೆ ಗುತ್ತಿಗೆದಾರ"
+
+msgid "Net Income"
+msgstr "ನಿವ್ವಳ ವರಮಾನ"
+
+msgid "Revenue"
+msgstr "ಕಂದಾಯ"
+
+msgid "Taxes"
+msgstr "ತೆರಿಗೆಗಳು"
+
+msgid "Amount planned"
+msgstr "ಪ್ರಮಾಣದ ಯೋಜನೆ"
+
+msgid "Amount"
+msgstr "ಪ್ರಮಾಣ"
+
+msgid "Period"
+msgstr "ಅವಧಿಯ"
+
+msgid "Are you sure to close this task?"
+msgstr "ನೀವು ಈ ಕೆಲಸವನ್ನು ಮುಚ್ಚಲು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "ಎಲ್ಲಾ ಗುಂಪುಗಳು"
+
+msgid "added from task"
+msgstr "ಕಾರ್ಯ ಸೇರಿಸಲಾಗಿದೆ"
+
+msgid "Monthly repeat"
+msgstr "ಮಾಸಿಕ ಮತ್ತೆ"
+
+msgid "Select category"
+msgstr "ವರ್ಗ ಆಯ್ಕೆ ಮಾಡಿ"
+
+msgid "Event type"
+msgstr "ಈವೆಂಟ್ ಕೌಟುಂಬಿಕತೆ"
+
+msgid "Margin"
+msgstr "ಅಂಚು"
+
+msgid "Use finance project"
+msgstr "ಹಣಕಾಸು ಯೋಜನೆ ಬಳಕೆಗೆ"
+
+msgid "New investment project"
+msgstr "ಹೊಸ ಹೂಡಿಕೆ ಯೋಜನೆಯನ್ನು"
+
+msgid "Investment project settings"
+msgstr "ಹೂಡಿಕೆ ಯೋಜನೆಯನ್ನು ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು"
+
+msgid "Picture, for the announcement project"
+msgstr "ಪ್ರಕಟಣೆ ಯೋಜನೆಗೆ ಚಿತ್ರ ,"
+
+msgid "Announcement project"
+msgstr "ಪ್ರಕಟಣೆ ಯೋಜನೆಯ"
+
+msgid "Video"
+msgstr "ವೀಡಿಯೊ"
+
+msgid "Photos or videos gallery"
+msgstr "ಫೋಟೋಗಳನ್ನು ಅಥವಾ ವೀಡಿಯೊಗಳನ್ನು ಗ್ಯಾಲರಿ"
+
+msgid "required amount"
+msgstr "ಪ್ರಮಾಣದ"
+
+msgid "Project duration (60 days maximum)"
+msgstr "ಪ್ರಾಜೆಕ್ಟ್ ಅವಧಿಯನ್ನು ( 60 ದಿನಗಳ ಗರಿಷ್ಠ )"
+
+msgid "Project duration"
+msgstr "ಪ್ರಾಜೆಕ್ಟ್ ಅವಧಿಯನ್ನು"
+
+msgid "Add reward"
+msgstr "ಪ್ರತಿಫಲ ಸೇರಿಸಿ"
+
+msgid "Delivery date"
+msgstr "ವಿತರಣಾ ದಿನಾಂಕ"
+
+msgid "Payment systems"
+msgstr "ಪಾವತಿ ವ್ಯವಸ್ಥೆಯನ್ನು"
+
+msgid "Terms of service"
+msgstr "ಸೇವಾ ನಿಯಮಗಳು"
+
+msgid "Agreement"
+msgstr "ಒಪ್ಪಂದ"
+
+msgid "Payment"
+msgstr "ಪಾವತಿ"
+
+msgid "My projects"
+msgstr "ನನ್ನ ಯೋಜನೆಗಳು"
+
+msgid "Search result"
+msgstr "ಹುಡುಕಾಟ ಫಲಿತಾಂಶ"
+
+msgid "Nothing not found"
+msgstr "ಏನೂ ಕಂಡುಬಂದಿಲ್ಲ"
+
+msgid "The project has no sponsors"
+msgstr "ಯೋಜನೆಯನ್ನು ಯಾವುದೇ ಪ್ರಾಯೋಜಕರು ಹೊಂದಿದೆ"
+
+msgid "Design"
+msgstr "ಡಿಸೈನ್"
+
+msgid "Food"
+msgstr "ಆಹಾರ"
+
+msgid "Journalism"
+msgstr "ಪತ್ರಿಕೋದ್ಯಮ"
+
+msgid "Games"
+msgstr "ಆಟಗಳು"
+
+msgid "Art"
+msgstr "ಆರ್ಟ್"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "ಸಂಗೀತ"
+
+msgid "Handicrafts"
+msgstr "ಕರಕುಶಲ ಕಲೆ"
+
+msgid "Publishing"
+msgstr "ಪಬ್ಲಿಷಿಂಗ್"
+
+msgid "Theater"
+msgstr "ಥಿಯೇಟರ್"
+
+msgid "Technology"
+msgstr "ತಂತ್ರಜ್ಞಾನ"
+
+msgid "Film/Video"
+msgstr "ಚಲನಚಿತ್ರ / ವಿಡಿಯೋ"
+
+msgid "Photo"
+msgstr "ಫೋಟೋ"
+
+msgid "Dance"
+msgstr "ಡಾನ್ಸ್"
+
+msgid "Invalid youtube video"
+msgstr "ಅಮಾನ್ಯವಾದ YouTube ವೀಡಿಯೊ"
+
+msgid "is required"
+msgstr "ಅಗತ್ಯವಿದೆ"
+
+msgid "User"
+msgstr "ಬಳಕೆದಾರ"
+
+msgid "Date"
+msgstr "ದಿನಾಂಕ"
+
+msgid "Collected"
+msgstr "ಕಲೆಕ್ಟೆಡ್"
+
+msgid "Choose period"
+msgstr "ಅವಧಿಯನ್ನು ಆರಿಸಿ"
+
+msgid "Choose region"
+msgstr "ಪ್ರದೇಶವನ್ನು ಆಯ್ಕೆ"
+
+msgid "Country"
+msgstr "ದೇಶದ"
+
+msgid "Today"
+msgstr "ಇಂದು"
+
+msgid "Week"
+msgstr "ವಾರ"
+
+msgid "Month"
+msgstr "ತಿಂಗಳ"
+
+msgid "Year"
+msgstr "ವರ್ಷದ"
+
+msgid "Free registration"
+msgstr "ಉಚಿತ ನೋಂದಣಿ"
+
+msgid "Join"
+msgstr "ಸೇರಲು"
+
+msgid "Log in using"
+msgstr "ಬಳಸಿಕೊಂಡು ಪ್ರವೇಶಿಸಲು"
+
+msgid "Vacancies"
+msgstr "ಉದ್ಯೋಗದ ಅವಕಾಶಗಳು"
+
+msgid "About Us"
+msgstr "ನಮ್ಮ ಬಗ್ಗೆ"
+
+msgid "You will need email to log in"
+msgstr "ನೀವು ಲಾಗ್ ಇನ್ ಇಮೇಲ್ ಅಗತ್ಯವಿದೆ"
+
+msgid "A combination of 6 digits and characters"
+msgstr "6 ಅಂಕೆಗಳು ಮತ್ತು ಪಾತ್ರಗಳು ಒಂದು ಸಂಯೋಜನೆಯನ್ನು"
+
+msgid "Search users, groups, articles..."
+msgstr "ಹುಡುಕು ಬಳಕೆದಾರರು, ಸಮೂಹಗಳು, ಲೇಖನಗಳು ..."
+
+msgid "Cloud"
+msgstr "ಮೇಘ"
+
+msgid "Sunday"
+msgstr "ಭಾನುವಾರ"
+
+msgid "Monday"
+msgstr "ಸೋಮವಾರ"
+
+msgid "Tuesday"
+msgstr "ಮಂಗಳವಾರ"
+
+msgid "Wednesday"
+msgstr "ಬುಧವಾರ"
+
+msgid "Thursday"
+msgstr "ಗುರುವಾರ"
+
+msgid "Friday"
+msgstr "ಶುಕ್ರವಾರ"
+
+msgid "Saturday"
+msgstr "ಶನಿವಾರ"
+
+msgid "Edit"
+msgstr "ಸಂಪಾದಿಸಿ"
+
+msgid "Create group"
+msgstr "ಗುಂಪು ರಚಿಸಿ"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "ನೀವು ಈ ಪುಟವನ್ನು ನಿರ್ಗಮಿಸಲು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ ?"
+
+msgid "More"
+msgstr "ಹೆಚ್ಚು"
+
+msgid "Less"
+msgstr "ಕಡಿಮೆ"
+
+msgid "Pending"
+msgstr "ಬಾಕಿ"
+
+msgid "Approved"
+msgstr "ಅನುಮೋದನೆ"
+
+msgid "Rejected"
+msgstr "ತಿರಸ್ಕರಿಸಲಾಗಿದೆ"
+
+msgid "Subprojects"
+msgstr "Subprojects"
+
+msgid "Group edit"
+msgstr "ಗುಂಪು ಸಂಪಾದಿಸಿ"
+
+msgid "Startup"
+msgstr "ಆರಂಭಿಕ"
+
+msgid "Tattoo"
+msgstr "ಭೇರಿ"
+
+msgid "Health"
+msgstr "ಆರೋಗ್ಯ"
+
+msgid "Weapon"
+msgstr "ವೆಪನ್"
+
+msgid "Astronomy"
+msgstr "ಖಗೋಳವಿಜ್ಞಾನ"
+
+msgid "All articles"
+msgstr "ಎಲ್ಲಾ ಲೇಖನಗಳು"
+
+msgid "Article editor"
+msgstr "ಲೇಖನ ಸಂಪಾದಕ"
+
+msgid "Document editor"
+msgstr "ಡಾಕ್ಯುಮೆಂಟ್ ಸಂಪಾದಕ"
+
+msgid "Apply changes"
+msgstr "ಈ ಬದಲಾವಣೆಗಳನ್ನು ಅನ್ವಯಿಸಲಿಚ್ಛಿಸುತ್ತೀರಾ"
+
+msgid "Save changes?"
+msgstr "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸು?"
+
+msgid "published an article"
+msgstr "ಒಂದು ಲೇಖನ ಪ್ರಕಟಿಸಿತು"
+
+msgid "Users"
+msgstr "ಬಳಕೆದಾರರು"
+
+msgid "Shared With Me"
+msgstr "ನನ್ನೊಂದಿಗೆ ಹಂಚಿಕೊಂಡ"
+
+msgid "share"
+msgstr "ಪಾಲು"
+
+msgid "Select Group Responsible"
+msgstr "ಗ್ರೂಪ್ ಜವಾಬ್ದಾರಿಯುತ ಆಯ್ಕೆ"
+
+msgid "Create folder"
+msgstr "ಫೋಲ್ಡರ್ ರಚಿಸಿ"
+
+msgid "Title must be at least 3 characters"
+msgstr "ಶೀರ್ಷಿಕೆಯು ಕನಿಷ್ಠ ಪಕ್ಷ 3 ಅಕ್ಷರಗಳು ಆಗಿರಬೇಕು"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "ಉಚಿತ 10 ಜಿಬಿ , ಹಣಕಾಸು ವ್ಯವಸ್ಥಾಪಕ , ಘಟಕ ಹೂಡಿಕೆ, ಮತ್ತು ಶಾಶ್ವತವಾಗಿ ಉಚಿತ ಮತ್ತು ಅನೇಕ ಇತರ"
+
+msgid "Best regards"
+msgstr "ಇಂತಿ ನಿಮ್ಮ"
+
+msgid "Updates in last 12 hours:"
+msgstr "ಕಳೆದ 12 ಗಂಟೆಗಳಲ್ಲಿ ಅಪ್ಡೇಟ್ಗಳು"
+
+msgid "expense"
+msgstr "ವೆಚ್ಚದಲ್ಲಿ"
+
+msgid "Commentary on the event:"
+msgstr "ಕ್ರಿಯೆಯನ್ನು ಕಾಮೆಂಟರಿ :"
+
+msgid "Event place"
+msgstr "ಈವೆಂಟ್ ಸ್ಥಳ"
+
+msgid "Project was updated"
+msgstr "ಪ್ರಾಜೆಕ್ಟ್ ನವೀಕರಿಸಲಾಯಿತು"
+
+msgid "Project was created"
+msgstr "ಪ್ರಾಜೆಕ್ಟ್ ರಚಿಸಲಾಗಿದೆ"
+
+msgid "Project was closed"
+msgstr "ಪ್ರಾಜೆಕ್ಟ್ ಮುಚ್ಚಲಾಯಿತು"
+
+msgid "account"
+msgstr "ಖಾತೆ"
+
+msgid "removed task"
+msgstr "ತೆಗೆದು ಕಾರ್ಯ"
+
+msgid "removed subproject"
+msgstr "ತೆಗೆದು ಸಬ್ ಪ್ರಾಜೆಕ್ಟ್"
+
+msgid "Title can not be empty"
+msgstr "ಶೀರ್ಷಿಕೆ ಖಾಲಿಯಾಗಿರುವಂತಿಲ್ಲ"
+
+msgid "Do not select the type of event"
+msgstr "ಘಟನೆಯ ರೀತಿಯ ಆರಿಸಬೇಡಿ"
+
+msgid "Error while saving comment"
+msgstr "ದೋಷ ಕಾಮೆಂಟ್ ಉಳಿಸುವಾಗ"
+
+msgid "Save error: access denied"
+msgstr "ದೋಷ ಉಳಿಸಿ : ನಿಷೇಧಿಸಿದರು"
+
+msgid "Remains"
+msgstr "ಅವಶೇಷಗಳು"
+
+msgid "Time spent, h."
+msgstr "ಟೈಮ್ , ಗಂ ಕಳೆದರು."
+
+msgid "Emails"
+msgstr "ಇಮೇಲ್ಗಳನ್ನು"
+
+msgid "Meetings"
+msgstr "ಸಭೆಗಳು"
+
+msgid "All users"
+msgstr "ಎಲ್ಲಾ ಬಳಕೆದಾರರಿಗೆ"
+
+msgid "Category"
+msgstr "ವರ್ಗ"
+
+msgid "Finance project"
+msgstr "ಹಣಕಾಸು ಯೋಜನೆಯ"
+
+msgid "Investment project"
+msgstr "ಹೂಡಿಕೆ ಯೋಜನೆಯನ್ನು"
+
+msgid "Nature"
+msgstr "ಪ್ರಕೃತಿ"
+
+msgid "Data is empty"
+msgstr "ಡೇಟಾ ಖಾಲಿಯಾಗಿದೆ"
+
+msgid "Visitors"
+msgstr "ಭೇಟಿ"
+
+msgid "My profile"
+msgstr "ನನ್ನ ಪ್ರೊಫೈಲ್"
+
+msgid "Sponsors"
+msgstr "ಪ್ರಾಯೋಜಕರು"
+
+msgid "Prior to completion"
+msgstr "ಮೊದಲು ಪೂರ್ಣಗೊಂಡ"
+
+msgid "Select"
+msgstr "ಆಯ್ಕೆ"
+
+msgid "My groups"
+msgstr "ನನ್ನ ಗುಂಪುಗಳು"
+
+msgid "The invitation has been sent successfully"
+msgstr "ಆಮಂತ್ರಣವನ್ನು ಸರಿಯಾಗಿ ಕಳುಹಿಸಲಾಗಿದೆ"
+
+msgid "Username has already been invited to this project"
+msgstr "ಬಳಕೆದಾರ ಹೆಸರು ಈಗಾಗಲೇ ಈ ಯೋಜನೆಯ ಆಹ್ವಾನಿಸಲಾಗಿದೆ"
+
+msgid "The user is the creator of the project"
+msgstr "ಬಳಕೆದಾರ ಯೋಜನೆಯ ಸೃಷ್ಟಿಕರ್ತ"
+
+msgid "Provide full access"
+msgstr "ಪೂರ್ಣ ಪ್ರವೇಶವನ್ನು ಒದಗಿಸಲು"
+
+msgid "Select elements to provide access"
+msgstr "ಪ್ರವೇಶವನ್ನು ಒದಗಿಸಲು ಅಂಶಗಳನ್ನು ಆಯ್ಕೆ"
+
+msgid "Select all"
+msgstr "ಎಲ್ಲಾ ಆಯ್ಕೆ"
+
+msgid "User E-mail"
+msgstr "ಬಳಕೆದಾರ ಮೇಲ್"
+
+msgid "Click on the field to select a category"
+msgstr "ವರ್ಗವನ್ನು ಆಯ್ಕೆಮಾಡಲು ಮೈದಾನದಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ"
+
+msgid "Invitation was deleted"
+msgstr "ಆಮಂತ್ರಣ ಅಳಿಸಲಾಗಿದೆ"
+
+msgid "Permission denied"
+msgstr "ಅವಕಾಶ ನೀಡಲಾಗಿಲ್ಲ"
+
+msgid "Printed"
+msgstr "ಮುದ್ರಿತ"
+
+msgid "Incorrect Contractor email"
+msgstr "ತಪ್ಪಾದ ಗುತ್ತಿಗೆದಾರ ಇಮೇಲ್"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "ನೀವು ಮ್ಯಾನೇಜರ್ ಹಣಕಾಸು ಯೋಜನೆಯ ಸೇರಿಸಲು ಬಯಸುತ್ತೀರಿ ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "ನೋಂದಣಿ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ನಿಮ್ಮ ಮಕ್ಕಳನ್ನು ಕೆಳಗೆ ಭರ್ತಿ ಮಾಡಿ"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "ಮತ್ತಷ್ಟು ಸೂಚನೆಗಳೊಂದಿಗೆ ನಿಮ್ಮ ಇಮೇಲ್ ವಿಳಾಸಕ್ಕೆ ಕಳುಹಿಸಲಾಗಿದೆ"
+
+msgid "Submit"
+msgstr "ಸಲ್ಲಿಸಿ"
+
+msgid "Cars"
+msgstr "ಕಾರುಗಳು"
+
+msgid "Science"
+msgstr "ವಿಜ್ಞಾನ"
+
+msgid "Donation"
+msgstr "ಕೊಡುಗೆ"
+
+msgid "Interests"
+msgstr "ಆಸಕ್ತಿಗಳು"
+
+msgid "Driver"
+msgstr "ಚಾಲಕ"
+
+msgid "Sportsman"
+msgstr "ಕ್ರೀಡಾ"
+
+msgid "Businessman"
+msgstr "ಉದ್ಯಮಿ"
+
+msgid "Accountant"
+msgstr "ಅಕೌಂಟೆಂಟ್"
+
+msgid "Engineer"
+msgstr "ಇಂಜಿನಿಯರ್"
+
+msgid "Soldier"
+msgstr "ಸೋಲ್ಜರ್"
+
+msgid "Next"
+msgstr "ಮುಂದಿನ"
+
+msgid "Hide group"
+msgstr "ಮರೆಮಾಡಿ ಗುಂಪು"
+
+msgid "groups created"
+msgstr "ಗುಂಪುಗಳು ದಾಖಲಿಸಿದವರು"
+
+msgid "articles written"
+msgstr "ಲೇಖನಗಳನ್ನು ಬರೆದಿದ್ದಾರೆ"
+
+msgid "These groups may be interesting for you"
+msgstr "ಈ ಗುಂಪುಗಳು ನೀವು ಆಸಕ್ತಿದಾಯಕ ವಿಚಾರ"
+
+msgid "About Group"
+msgstr "ಗ್ರೂಪ್ ಬಗ್ಗೆ"
+
+msgid "view(s)"
+msgstr "ನೋಟ (ರು)"
+
+msgid "Favorite users"
+msgstr "ಮೆಚ್ಚಿನ ಬಳಕೆದಾರರು"
+
+msgid "No accounts"
+msgstr "ಯಾವುದೇ ಖಾತೆಗಳನ್ನು"
+
+msgid "Facebook authorization failed."
+msgstr "ಫೇಸ್ಬುಕ್ ಅನುಮೋದನೆ ವಿಫಲವಾಗಿದೆ."
+
+msgid "Authorization Required"
+msgstr "ದೃಢೀಕರಣದ ಅಗತ್ಯವಿದೆ"
+
+msgid "You have to make a call:"
+msgstr "ನೀವು ಕರೆ ಮಾಡಲು ಹೊಂದಿವೆ :"
+
+msgid "You have to send an email:"
+msgstr "ನೀವು ಇಮೇಲ್ ಕಳುಹಿಸಲು ಹೊಂದಿವೆ :"
+
+msgid "You have a meetup:"
+msgstr "ನೀವು ಒಂದು Meetup ಹೊಂದಿವೆ :"
+
+msgid "You event :"
+msgstr "ನೀವು ಈವೆಂಟ್ :"
+
+msgid "Participants:"
+msgstr "ಭಾಗವಹಿಸುವವರು :"
+
+msgid "Search"
+msgstr "ಹುಡುಕು"
+
+msgid "News"
+msgstr "ನ್ಯೂಸ್"
+
+msgid "Investments"
+msgstr "ಇನ್ವೆಸ್ಟ್ಮೆಂಟ್ಸ್"
+
+msgid "Back to Cloud"
+msgstr "ಬ್ಯಾಕ್ ಮೇಘ"
+
+msgid "Documents"
+msgstr "ಡಾಕ್ಯುಮೆಂಟ್ಸ್"
+
+msgid "Planet"
+msgstr "ಪ್ಲಾನೆಟ್"
+
+msgid "Group url"
+msgstr "ಗುಂಪು URL"
+
+msgid "Profile url"
+msgstr "ಪ್ರೊಫೈಲ್ URL"
+
+msgid "Already taken"
+msgstr "ಈಗಾಗಲೇ ತೆಗೆದುಕೊಳ್ಳಲಾಗಿದೆ"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "ಅಗತ್ಯವಿದೆ ಕನಿಷ್ಠ 1 ಅಕ್ಷರದ ಮತ್ತು 3 ಅಕ್ಷರಗಳನ್ನು ಉದ್ದ"
+
+msgid "Digit can not be the first character"
+msgstr "ಅಂಕಿಯ ಮೊದಲ ಅಕ್ಷರ ಸಾಧ್ಯವಿಲ್ಲ"
+
+msgid "Enter valid email address"
+msgstr "ಮಾನ್ಯ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ"
+
+msgid "Enter your skills"
+msgstr "ನಿಮ್ಮ ಮಕ್ಕಳನ್ನು ನಮೂದಿಸಿ"
+
+msgid "Enter your first name"
+msgstr "ನಿಮ್ಮ ಮೊದಲ ಹೆಸರನ್ನು ನಮೂದಿಸಿ"
+
+msgid "Enter your last name"
+msgstr "ನಿಮ್ಮ ಕೊನೆಯ ಹೆಸರು ನಮೂದಿಸಿ"
+
+msgid "Enter your first name and last name"
+msgstr "ನಿಮ್ಮ ಮೊದಲ ಹೆಸರು ಮತ್ತು ಕೊನೆಯ ಹೆಸರನ್ನು ನಮೂದಿಸಿ"
+
+msgid "Your first name?"
+msgstr "ನಿಮ್ಮ ಮೊದಲ ಹೆಸರು?"
+
+msgid "Your last name?"
+msgstr "ನಿಮ್ಮ ಕೊನೆಯ ಹೆಸರು ?"
+
+msgid "What are your proficiencies?"
+msgstr "ನಿಮ್ಮ ತಂತ್ರಗಳನ್ನು ಯಾವುವು?"
+
+msgid "Select country"
+msgstr "ಆಯ್ದ ದೇಶದ"
+
+msgid "Select user"
+msgstr "ಆಯ್ಕೆ ಬಳಕೆದಾರ"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "ನಿಮ್ಮ ಕನಸನ್ನು ಪೂರೈಸಲು ! ರಚಿಸಿ ಮತ್ತು ಸಹಯೋಗ."
+
+msgid "date moved from"
+msgstr "ದಿನಾಂಕ ಸ್ಥಳಾಂತರಿಸಿ"
+
+msgid "work"
+msgstr "ಕೆಲಸ"
+
+msgid "Conference"
+msgstr "ಕಾನ್ಫರೆನ್ಸ್"
+
+msgid "personal"
+msgstr "ವೈಯಕ್ತಿಕ"
+
+msgid "Holiday"
+msgstr "ಹಾಲಿಡೇ"
+
+msgid "Past"
+msgstr "ಕಳೆದ"
+
+msgid "Future"
+msgstr "ಫ್ಯೂಚರ್"
+
+msgid "Purchase"
+msgstr "ಖರೀದಿ"
+
+msgid "Personal events"
+msgstr "ಖಾಸಗಿ ಘಟನೆಗಳು"
+
+msgid "Conferences"
+msgstr "ಸಭೆ"
+
+msgid "Holidays"
+msgstr "ರಜಾದಿನಗಳು"
+
+msgid "Sport events"
+msgstr "ಕ್ರೀಡೆ ಘಟನೆಗಳು"
+
+msgid "Tasks"
+msgstr "ಕಾರ್ಯಗಳು"
+
+msgid "Other events"
+msgstr "ದಿನಾಚರಣೆಗಳನ್ನು"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "ಮುಂದೂಡಲ್ಪಟ್ಟ"
+
+msgid "Time management"
+msgstr "ಟೈಮ್ ಮ್ಯಾನೇಜ್ಮೆಂಟ್"
+
+msgid "Delayed events"
+msgstr "ಮುಂದೂಡಲ್ಪಟ್ಟ ಘಟನೆಗಳು"
+
+msgid "Delayed"
+msgstr "ಮುಂದೂಡಲ್ಪಟ್ಟ"
+
+msgid "Bind to"
+msgstr "ನಿಗದಿಪಡಿಸಿ"
+
+msgid "answered your comment to"
+msgstr "ನಾನು (ಒಂದು) ಲೇಖನದ ಮೇಲೆ ಕಾಮೆಂಟ್ ಹೇಳಿದರು"
+
+msgid "commented your article"
+msgstr "ನಾನು ನಿಮ್ಮ ಲೇಖನ ಕಾಮೆಂಟ್"
+
+msgid "You\'ve answered on comment to"
+msgstr "ನೀವು ಲೇಖನದ ಮೇಲೆ ಕಾಮೆಂಟ್ ಪ್ರತಿಕ್ರಿಯಿಸಿದ"
+
+msgid "You\'ve commented an article"
+msgstr "ನೀವು ಲೇಖನ ಕಾಮೆಂಟ್"
+
+msgid "Terms and Conditions"
+msgstr "ನಿಯಮಗಳು ಮತ್ತು ನಿಯಮಗಳು"
+
+msgid "Privacy Policy"
+msgstr "ಖಾಸಗಿ ನಿಯಮಾವಳಿ"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "ಕ್ಲಿಕ್ಕಿಸಿ ನೀವು ನಮ್ಮ ಒಪ್ಪುತ್ತೇನೆ ಮತ್ತು ನೀವು ಓದಲು ಅಂಗೀಕರಿಸಿ \"ಸೈನ್ ಅಪ್\" ನಮ್ಮ"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "ವಿಶ್ವದಾದ್ಯಂತ ಕ್ರಿಯಾತ್ಮಕ ಜನರ ಸಮುದಾಯವನ್ನು ಸೇರಿ! ನೀವು ಸ್ವೀಕರಿಸುತ್ತೀರಿ ಇನ್ವೆಸ್ಟಿಂಗ್ ನಿಮ್ಮ ಆಲೋಚನೆಗಳಲ್ಲಿ, ತನ್ನ ತಂಡದ ಸಂಗ್ರಹಿಸಲು ಅವಕಾಶ, ಶೇಖರಣಾ ಮತ್ತು ಹೆಚ್ಚು 2 ಗಿಗಾಬೈಟ್, ಗುಂಪು, ಹಣಕಾಸು ವ್ಯವಸ್ಥಾಪಕ ಕೆಲಸ ತಮ್ಮ ಸಮಯ ನಿರ್ವಹಣೆ. ಮತ್ತು ಇದು ಉಚಿತ!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "ಕ್ಷಮಿಸಿ, ಆದರೆ ನೀವು ಹುಡುಕುತ್ತಿರುವ ಪುಟ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ. ನೀವು ಬ್ಲೇಮ್ ಭಾವಿಸಿದರೆ ನಮಗೆ ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ"
+
+msgid "Return"
+msgstr "ರಿಟರ್ನ್"
+
+msgid "COMMON"
+msgstr "ಒಟ್ಟು"
+
+msgid "My events"
+msgstr "ನನ್ನ ಕ್ರಿಯೆಗಳು"
+
+msgid "Job opening"
+msgstr "ಹೊಸ ಖಾಲಿ"
+
+msgid "Employment"
+msgstr "ಉದ್ಯೋಗದ ಕೌಟುಂಬಿಕತೆ"
+
+msgid "Working hours"
+msgstr "ಆರಂಭಿಕ ಗಂಟೆಗಳ"
+
+msgid "City"
+msgstr "ನಗರ"
+
+msgid "Wages"
+msgstr "ಸಂಬಳ"
+
+msgid "Currency"
+msgstr "ಕರೆನ್ಸಿ"
+
+msgid "Experience"
+msgstr "ಅನುಭವ"
+
+msgid "Full-time"
+msgstr "ಪೂರ್ಣ ಉದ್ಯೋಗ"
+
+msgid "Part-time"
+msgstr "ಅರೆಕಾಲಿಕ"
+
+msgid "Project employment"
+msgstr "ಪ್ರಾಜೆಕ್ಟ್ / ತಾತ್ಕಾಲಿಕ"
+
+msgid "Volunteer"
+msgstr "ಸ್ವಯಂ ಸೇವಕರಿಗೆ"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "ಫುಲ್ಲ್ ಟೈಮ್"
+
+msgid "Shifts"
+msgstr "ಬದಲಾವಣೆ ವೇಳಾಪಟ್ಟಿಯ"
+
+msgid "Flexible shifts"
+msgstr "ಹೊಂದಾಣಿಕೆ ವೇಳಾಪಟ್ಟಿ"
+
+msgid "Remote work"
+msgstr "ರಿಮೋಟ್ ಕೆಲಸ"
+
+msgid "Rotational basis"
+msgstr "ಶಿಫ್ಟ್ ವಿಧಾನ"
+
+msgid "Do you really want to delete this comment?"
+msgstr "ನೀವು ಕಾಮೆಂಟ್ ಅನ್ನು ಅಳಿಸಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"
+
+msgid "Do you really want to delete this task?"
+msgstr "ನೀವು ಈ ಕೆಲಸವನ್ನು ಅಳಿಸಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "ಈ ಉಪ ಯೋಜನೆಯ ಅಳಿಸಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "ನೀವು ಸ್ಥಾನದಲ್ಲಿ ಕಂಪನಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿವೆ. ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ ದಯವಿಟ್ಟು"
+
+msgid "Your request to for job has been rejected"
+msgstr "ಸ್ಥಾನಕ್ಕೆ ಕಂಪನಿಗೆ ನಿಮ್ಮ ವಿನಂತಿಯನ್ನು ತಿರಸ್ಕರಿಸಲಾಗಿದೆ"
+
+msgid "Your request to for job has been accepted"
+msgstr "ಸ್ಥಾನಕ್ಕೆ ಕಂಪನಿಗೆ ನಿಮ್ಮ ವಿನಂತಿಯನ್ನು ಅಳವಡಿಸಿಕೊಂಡಿತು"
+
+msgid "profile is completed"
+msgstr "ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ತುಂಬಿರುತ್ತವೆ"
+
+msgid "Use account"
+msgstr "ಖಾತೆಯನ್ನು ಬಳಸಿ"
+
+msgid "$/hr"
+msgstr "$ / ಗಂಟೆ"
+
+msgid "Finance category"
+msgstr "ಹಣಕಾಸು ವರ್ಗದಲ್ಲಿ"
+
+msgid "No projects"
+msgstr "ಯಾವುದೇ ಯೋಜನೆಗಳು"
+
+msgid "Bind to finances"
+msgstr "ಆರ್ಥಿಕ ಯೋಜನೆಯ ನಿಗದಿಪಡಿಸಿ"
+
+msgid "Preview"
+msgstr "ವೀಕ್ಷಿಸಿ"
+
+msgid "Download"
+msgstr "ಡೌನ್ಲೋಡ್"
+
+msgid "Save to my cloud"
+msgstr "ಭಂಡಾರ ನಕಲಿಸಿ"
+
+msgid "File successfully saved to your cloud"
+msgstr "ಯಶಸ್ವಿಯಾಗಿ ನಿಮ್ಮ ಭಂಡಾರದಲ್ಲಿ ಶೇಖರಿಸಿಡಲು ಫೈಲ್"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "ನಿಮ್ಮ ಆಕರದಿಂದ ಈ ಕಡತವನ್ನು ಉಳಿಸಿ?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "ಒಂದು ವರ್ಗದಲ್ಲಿ ಲೇಖನ ಆಯ್ಕೆ"
+
+msgid "Type something"
+msgstr "ಏನೋ ಬರೆಯಲು"
+
+msgid "Founded users"
+msgstr "ಕಂಡುಬಂದಿಲ್ಲ ಬಳಕೆದಾರರು"
+
+msgid "Founded articles"
+msgstr "ಕಂಡುಬಂದಿಲ್ಲ ಲೇಖನ"
+
+msgid "Founded groups"
+msgstr "ಸ್ಥಾಪಿತವಾದ ಗುಂಪು"
+
+msgid "What are your skills?"
+msgstr "ನಿಮ್ಮ ಮಕ್ಕಳನ್ನು ಯಾವುವು?"
+
+msgid "Select at least 2 interests"
+msgstr "ಕನಿಷ್ಠ 2 ಆಸಕ್ತಿ ಆಯ್ಕೆ"
+
+msgid "Need more interests"
+msgstr "ಸಾಕಷ್ಟು ಆಸಕ್ತಿ ಆಯ್ಕೆ"
+
+msgid "What are you interesting in?"
+msgstr "ನೀವು ಆಸಕ್ತಿ ಯಾವುವು?"
+
+msgid "You have no dialogs"
+msgstr "ನೀವು ಸಂಭಾಷಣೆ ಇಲ್ಲ"
+
+msgid "Usage Stats"
+msgstr "ರಾಜ್ಯ"
+
+msgid "Founded files"
+msgstr "ಫೈಲ್ಸ್ ಕಂಡುಬಂದಿಲ್ಲ"
+
+msgid "Big tiles"
+msgstr "ದೊಡ್ಡ ಅಂಚುಗಳನ್ನು"
+
+msgid "Small tiles"
+msgstr "ಸಣ್ಣ ಅಂಚುಗಳನ್ನು"
+
+msgid "Table view"
+msgstr "ಟೇಬಲ್ ವೀಕ್ಷಿಸಿ"
+
+msgid "Root folder"
+msgstr "ಮೂಲ ಡೈರೆಕ್ಟರಿ"
+
+msgid "My files"
+msgstr "ನನ್ನ ಫೈಲ್ಸ್"
+
+msgid "Save as draft"
+msgstr "ಡ್ರಾಫ್ಟ್ ಉಳಿಸಿ"
+
+msgid "Buy More Space"
+msgstr "ಹೆಚ್ಚು ಜಾಗವನ್ನು ಖರೀದಿ"
+
+msgid "Buy"
+msgstr "ಖರೀದಿ"
+
+msgid "You have been invited to group as"
+msgstr "ನೀವು ಗುಂಪಿನ ಆಮಂತ್ರಿಸಲಾಗಿದೆ"
+
+msgid "User wants to join your group"
+msgstr "ಬಳಕೆದಾರ ನಿಮ್ಮ ಗುಂಪು ಸೇರಲು ಇಚ್ಚಿಸುವ"
+
+msgid "Section is coming soon!"
+msgstr "ನಿರ್ಮಾಣ ಅಡಿಯಲ್ಲಿ ವಿಭಾಗ!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "ಕಳೆದ 24 ಗಂಟೆಗಳಲ್ಲಿ ವೀಕ್ಷಣೆಗಳು:"
+
+msgid "Task was updated"
+msgstr "ಕೆಲಸವನ್ನು ಅಪ್ಡೇಟ್ ಮಾಡಲಾಗಿದೆ"
+
+msgid "Task was closed"
+msgstr "ಸವಾಲು ಮುಚ್ಚಲಾಗಿದೆ"
+
+msgid "Task was created"
+msgstr "ಕಾರ್ಯ ಸ್ಥಾಪಿಸಲಾಯಿತು"
+
+msgid "Current balance"
+msgstr "ಪ್ರಸ್ತುತ ಸಮತೋಲನ"
+
+msgid "Add funds"
+msgstr "ಸೇರಿಸಿ"
+
+msgid "Pay"
+msgstr "ಚೆಕ್ಔಟ್"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "ನೀವು ಲಾಗಿನ್ ಪ್ರಯತ್ನಗಳ ಸಂಖ್ಯೆ ಮೀರಿದ್ದೀರಿ. ನೀವು 15 ನಿಮಿಷಗಳ ಕಾಲ ನಿರ್ಬಂಧಿಸಲಾಗುತ್ತದೆ"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "ನಿಮ್ಮ ಇಮೇಲ್ ಖಾತ್ರಿ ಮಾಡಿ. ಮೇಲ್ ನಿಮಗೆ ಕಳುಹಿಸಿದ ಪತ್ರದ."
+
+msgid "Resend confirmation email"
+msgstr "ಮತ್ತೆ ದೃಢೀಕರಣ ಕಳುಹಿಸಿ"
+
+msgid "Disk 2Gb Monthly"
+msgstr "ತಿಂಗಳಿಗೆ ಡಿಸ್ಕ್ 2 ಜಿಬಿ"
+
+msgid "Disk 10Gb Monthly"
+msgstr "ವರ್ಷಕ್ಕೆ 10 ಜಿಬಿ ಚಾಲನೆ"
+
+msgid "Disk 100Gb Yearly"
+msgstr "ಡಿಸ್ಕ್ 100 ಜಿಬಿ ಪ್ರತಿ ವರ್ಷ"
+
+msgid "Disk 1Tb Monthly"
+msgstr "ಡಿಸ್ಕ್ 1TB ಮಾಸಿಕ"
+
+msgid "Disk 1Tb Yearly"
+msgstr "ಪ್ರತಿ ವರ್ಷ 1 ಟಿಬಿ ಡ್ರೈವ್"
+
+msgid "Project members monthly"
+msgstr "ತಿಂಗಳಿಗೆ ಯೋಜನೆಯ ಭಾಗವಹಿಸುವವರು"
+
+msgid "Project members yearly"
+msgstr "ವಾರ್ಷಿಕವಾಗಿ ಯೋಜನೆಯಲ್ಲಿ ಪಾಲ್ಗೊಳ್ಳುವವರು"
+
+msgid "Member(s) yearly"
+msgstr "ವರ್ಷಕ್ಕೆ ಸದಸ್ಯ (ರ)"
+
+msgid "Member(s) monthly"
+msgstr "ತಿಂಗಳಿಗೆ ಸದಸ್ಯ (ರ)"
+
+msgid "Authorized"
+msgstr "ಅಧಿಕಾರ"
+
+msgid "Authorization expired"
+msgstr "ಅಧಿಕಾರ ಅವಧಿ"
+
+msgid "Processor declined"
+msgstr "ತಿರಸ್ಕರಿಸಲಾಗಿದೆ ಪ್ರಕ್ರಿಯೆ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ"
+
+msgid "Gateway rejected"
+msgstr "ತಿರಸ್ಕರಿಸಲಾಗಿದೆ ಪಾವತಿ ಗೇಟ್ವೇ"
+
+msgid "Failed"
+msgstr "ದೋಷ"
+
+msgid "Voided"
+msgstr "ರದ್ದು"
+
+msgid "Submitted for settlement"
+msgstr "ದಾಖಲು ಕಳುಹಿಸಲಾಗಿದೆ"
+
+msgid "Settlement declined"
+msgstr "ನೋಂದಣಿ ನಿರಾಕರಿಸಿದೆ"
+
+msgid "Settlement pending"
+msgstr "ಬಾಕಿ ನೋಂದಣಿ"
+
+msgid "Verified"
+msgstr "ಪರಿಶೀಲಿಸಲ್ಪಟ್ಟ"
+
+msgid "Pending"
+msgstr "ಬಾಕಿ"
+
+msgid "Active"
+msgstr "ಸಕ್ರಿಯ"
+
+msgid "Past Due"
+msgstr "ಅವಧಿ"
+
+msgid "Expired"
+msgstr "ಕೊನೆಗೊಂಡಿತು"
+
+msgid "Marketer"
+msgstr "ಮಾರ್ಕೇಟರ್ಸ್"
+
+msgid "India"
+msgstr "ಭಾರತ"
+
+msgid "Malaysia"
+msgstr "ಮಲೇಷ್ಯಾ"
+
+msgid "Thailand"
+msgstr "ಥೈಲ್ಯಾಂಡ್"
+
+msgid "South Korea"
+msgstr "ದಕ್ಷಿಣ ಕೊರಿಯಾ"
+
+msgid "Kazakhstan"
+msgstr "ಕಝಾಕಿಸ್ತಾನ್"
+
+msgid "Israel"
+msgstr "ಇಸ್ರೇಲ್"
+
+msgid "Ukraine"
+msgstr "ಉಕ್ರೇನ್"
+
+msgid "Belarus"
+msgstr "ಬೆಲಾರಸ್"
+
+msgid "Bulgaria"
+msgstr "ಬಲ್ಗೇರಿಯ"
+
+msgid "Turkey"
+msgstr "ಟರ್ಕಿ"
+
+msgid "Armenia"
+msgstr "ಅರ್ಮೇನಿಯ"
+
+msgid "Serbia"
+msgstr "ಸರ್ಬಿಯಾ"
+
+msgid "Austria"
+msgstr "ಆಸ್ಟ್ರಿಯಾ"
+
+msgid "Poland"
+msgstr "ಪೋಲೆಂಡ್"
+
+msgid "Germany"
+msgstr "ಜರ್ಮನಿ"
+
+msgid "Italy"
+msgstr "ಇಟಲಿ"
+
+msgid "Netherlands"
+msgstr "ನೆದರ್ಲ್ಯಾಂಡ್ಸ್"
+
+msgid "Ireland"
+msgstr "ಐರ್ಲೆಂಡ್"
+
+msgid "United Kingdom"
+msgstr "ಗ್ರೇಟ್ ಬ್ರಿಟನ್"
+
+msgid "Portugal"
+msgstr "ಪೋರ್ಚುಗಲ್"
+
+msgid "Norway"
+msgstr "ನಾರ್ವೆ"
+
+msgid "United States"
+msgstr "ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್"
+
+msgid "Canada"
+msgstr "ಕೆನಡಾ"
+
+msgid "Brazil"
+msgstr "ಬ್ರೆಜಿಲ್"
+
+msgid "Saudi Arabia"
+msgstr "ಸೌದಿ ಅರೇಬಿಯಾ"
+
+msgid "Canada"
+msgstr "ಈಜಿಪ್ಟ್"
+
+msgid "Russia"
+msgstr "ರಶಿಯಾ"
+
+msgid "Hong Kong"
+msgstr "ಹಾಂಗ್ ಕಾಂಗ್"
+
+msgid "There was no any transactions yet."
+msgstr "ಕ್ಷಣದಲ್ಲಿ, ಒಂದು ವ್ಯವಹಾರ ಇರಲಿಲ್ಲ"
+
+msgid "Fulfill your dream"
+msgstr "ನಿಮ್ಮ ಕನಸನ್ನು ಪೂರೈಸಲು"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "ಜಗತ್ತಿನಾದ್ಯಂತ ಎಲ್ಲ ಸೃಜನಶೀಲ ವ್ಯಕ್ತಿಗಳ ಸೇರಿ ನಮ್ಮ ಸಮುದಾಯ."
+
+msgid "Create and Collaborate"
+msgstr "ರಚಿಸಿ ಮತ್ತು ಒಡನಾಟವನ್ನಿಟ್ಟುಕೊಳ್ಳಿ"
+
+msgid "Fulfill your dream"
+msgstr "ಈಗ ಕನಸನ್ನು ಪೂರೈಸಲು"
+
+msgid "or"
+msgstr "ಅಥವಾ"
+
+msgid "Our mission:"
+msgstr "ನಮ್ಮ ಮಿಷನ್:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "ನಮ್ಮ ಭವಿಷ್ಯದ ಆಕಾರ ಎಂದು, ಸರಳ ಮತ್ತು ಅದ್ಭುತ ಮತ್ತು ಅದ್ಭುತ ಬೇಡಿಕೆಯಲ್ಲಿ ಕಲ್ಪನೆಯನ್ನು ಕಾರ್ಯಗತಗೊಳಿಸಲು ಸೃಜನಶೀಲ ಮತ್ತು ಸಕ್ರಿಯ ಜನರು ಒಟ್ಟುಗೂಡಲು ಕಾರಣವಾಯಿತು."
+
+msgid "What is Konstruktor?"
+msgstr "Konstruktor ಏನು?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - ನಮ್ಮ ನಿಜವಾದ ಗಮನಾರ್ಹವಾಗಿ ಸುಗಮಗೊಳಿಸುತ್ತದೆ ಇದು ಜೀವನ, ಮತ್ತು ಸುಲಭಗೊಳಿಸುತ್ತದೆ ಒಂದು ಭಾಗವಾಗಿದೆ"
+
+msgid "*business processes"
+msgstr "* ವ್ಯಾಪಾರ ಪ್ರಕ್ರಿಯೆಗಳ"
+
+msgid "*materialization of creative ideas"
+msgstr "* ಸೃಜನಾತ್ಮಕ ಕಲ್ಪನೆಗಳನ್ನು ಸಾಧಿಸಿ"
+
+msgid "*constructive cooperation"
+msgstr "* ರಚನಾತ್ಮಕ ಸಹಕಾರ"
+
+msgid "Make your dream!"
+msgstr "ನಿಮ್ಮ ಕನಸಿನ ಮಾಡಿ!"
+
+msgid "Vlad Krishtop"
+msgstr "ವ್ಲಾಡ್ Krishtop"
+
+msgid "CEO"
+msgstr "ಸಿಇಒ"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "ವಿಶೇಷ ಸಲಹೆಗಾರ"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "ಮ್ಯಾನೇಜರ್, ತಂತ್ರಾಂಶ ಅಭಿವೃದ್ಧಿ"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "ಸ್ವೆಟ್ಲಾನಾ Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "ಹಿರಿಯ ವಕೀಲ"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "ಡಿಸೈನರ್"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "ಮುಂದೆ ಗುಂಡಿಯನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ, ನೀವು ಒಪ್ಪಿಕೊಂಡಿರುವ ಮತ್ತು ನಮ್ಮ ನಿಯಮಗಳು ಮತ್ತು ನಿಯಮಗಳು ಒಪ್ಪುತ್ತೀರಿ ಮತ್ತು ನೀವು ನಮ್ಮ ಗೌಪ್ಯತೆ ನೀತಿ ಓದಲು ಅಂಗೀಕರಿಸುವ ಮಾಡಲಾಗುತ್ತದೆ."
+
+msgid "Incorrect login or password."
+msgstr "ಲಾಗಿನ್ ತಪ್ಪು ಅಥವಾ ಪಾಸ್ವರ್ಡ್."
+
+msgid "Password must be at least 6 characters"
+msgstr "ಪಾಸ್ವರ್ಡ್ ಕನಿಷ್ಠ 6 ಅಕ್ಷರಗಳು ಆಗಿರಬೇಕು"
+
+msgid "January"
+msgstr "ಜನವರಿ"
+
+msgid "February"
+msgstr "ಫೆಬ್ರವರಿ"
+
+msgid "March"
+msgstr "ಮಾರ್ಚ್"
+
+msgid "April"
+msgstr "ಏಪ್ರಿಲ್"
+
+msgid "May"
+msgstr "ಮೇ"
+
+msgid "June"
+msgstr "ಜೂನ್"
+
+msgid "July"
+msgstr "ಜುಲೈ"
+
+msgid "August"
+msgstr "ಆಗಸ್ಟ್"
+
+msgid "September"
+msgstr "ಸೆಪ್ಟೆಂಬರ್"
+
+msgid "October"
+msgstr "ಅಕ್ಟೋಬರ್"
+
+msgid "November"
+msgstr "ನವೆಂಬರ್"
+
+msgid "December"
+msgstr "ಡಿಸೆಂಬರ್"
+
+msgid "Chat"
+msgstr "ಚಾಟಿಂಗ್"
+
+msgid "Files"
+msgstr "ಫೈಲ್ಸ್"
+
+msgid "Statistic"
+msgstr "ಅಂಕಿ"
+
+msgid "Support"
+msgstr "ಬೆಂಬಲ"
+
+msgid "Exit"
+msgstr "ನಿರ್ಗಮಿಸಿ"
+
+msgid "Brest"
+msgstr "ಬ್ರೆಸ್ಟ್"
+
+msgid "Belarus"
+msgstr "ಬೆಲಾರಸ್"
+
+msgid "Marketing specialist"
+msgstr "ಮಾರ್ಕೆಟಿಂಗ್ ತಜ್ಞ"
+
+msgid "Administrator"
+msgstr "ನಿರ್ವಾಹಕ"
+
+msgid "Shared with me"
+msgstr "ನನ್ನೊಂದಿಗೆ ಹಂಚಿಕೊಂಡ"
+
+msgid "File Sharing"
+msgstr "ಫೈಲ್ ಹಂಚಿಕೆ"
+
+msgid "Provide access by link"
+msgstr "ಲಿಂಕ್ ಮೂಲಕ ಪ್ರವೇಶವನ್ನು ಒದಗಿಸಲು"
+
+msgid "Provide Individual access"
+msgstr "ಇಂಡಿವಿಜುವಲ್ ಪ್ರವೇಶವನ್ನು ಒದಗಿಸಲು"
+
+msgid "Provide edit access"
+msgstr "ಬದಲಾಯಿಸಿ ಪ್ರವೇಶವನ್ನು ಒದಗಿಸಲು"
+
+msgid "Share"
+msgstr "ಹಂಚಿಕೊಳ್ಳಿ"
+
+msgid "Files will be available only for selected users"
+msgstr "ಕಡತಗಳನ್ನು ಆಯ್ಕೆ ಬಳಕೆದಾರರಿಗೆ ಲಭ್ಯವಾಗುತ್ತದೆ"
+
+msgid "With this link everyone can access to the files"
+msgstr "ಈ ಲಿಂಕ್ಸ್ ಎಲ್ಲರೂ ಕಡತಗಳನ್ನು ಪ್ರವೇಶಿಸಬಹುದು"
+
+msgid "Search users, groups, articles..."
+msgstr "ಹುಡುಕು ಬಳಕೆದಾರರು, ಸಮೂಹಗಳು, ಲೇಖನಗಳು ..."
+
+msgid "My Group"
+msgstr "ನನ್ನ ಗ್ರೂಪ್"
+
+msgid "Mo"
+msgstr "ಮೊ"
+
+msgid "Tu"
+msgstr "ತು"
+
+msgid "We"
+msgstr "ನಾವು"
+
+msgid "Th"
+msgstr "ನೇ"
+
+msgid "Fr"
+msgstr "ಫಾ"
+
+msgid "Sa"
+msgstr "ಸ"
+
+msgid "Su"
+msgstr "ಸು"
+
+msgid "The file is not selected"
+msgstr "ಫೈಲ್ ಆಯ್ಕೆ ಮಾಡಿಲ್ಲ"
+
+msgid "Set aside"
+msgstr "ಪಕ್ಕಕ್ಕೆ"
+
+msgid "Event time"
+msgstr "ಈವೆಂಟ್ ಸಮಯ"
+
+msgid "Work"
+msgstr "ಕೆಲಸ"
+
+msgid "Personal"
+msgstr "ವೈಯಕ್ತಿಕ"
+
+msgid "Time spent for work:"
+msgstr "ಟೈಮ್ ಕೆಲಸಕ್ಕೆ ಖರ್ಚು:"
+
+msgid "Personal time spent:"
+msgstr "ವೈಯಕ್ತಿಕ ಸಮಯ ಕಳೆದರು:"
+
+msgid "Present"
+msgstr "ಪ್ರಸ್ತುತ"
+
+msgid "Common"
+msgstr "ಸಾಮಾನ್ಯ"
+
+msgid "Sport"
+msgstr "ಕ್ರೀಡೆ"
+
+msgid "Entertainment"
+msgstr "ಮನರಂಜನೆ"
+
+msgid "Select:"
+msgstr "ಆಯ್ಕೆ:"
+
+msgid "Invalid username or password."
+msgstr "ಅಮಾನ್ಯ ಬಳಕೆದಾರ ಹೆಸರು ಅಥವಾ ಪಾಸ್ವರ್ಡ್."
+
+msgid "Try again."
+msgstr "ಮತ್ತೆ ಪ್ರಯತ್ನಿಸು."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "ನೀವು ಆಸಕ್ತಿತೋರುತ್ತಿದ್ದೇವೆ ಯಾವುವು?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "ಕನಿಷ್ಠ 2 ಮಕ್ಕಳನ್ನು ಆಯ್ಕೆ: 2 ಉಳಿದಿದೆ"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "ಕನಿಷ್ಠ 2 ಮಕ್ಕಳನ್ನು ಆಯ್ಕೆ: 1 ಉಳಿದಿದೆ"
+
+msgid "Select at least 2 skills: remains"
+msgstr "ಕನಿಷ್ಠ 2 ಮಕ್ಕಳನ್ನು ಆಯ್ಕೆ: ಅವಶೇಷಗಳು"
+
+msgid "Active life"
+msgstr "ಸಕ್ರಿಯ ಜೀವನ"
+
+msgid "Arts and culture"
+msgstr "ಕಲೆ ಮತ್ತು ಸಂಸ್ಕೃತಿ"
+
+msgid "Business"
+msgstr "ಉದ್ಯಮ"
+
+msgid "Cinema"
+msgstr "ಸಿನಿಮಾ"
+
+msgid "Communications"
+msgstr "ಸಂಪರ್ಕ"
+
+msgid "Construction and repair"
+msgstr "ನಿರ್ಮಾಣ ಮತ್ತು ದುರಸ್ತಿ"
+
+msgid "Cooking"
+msgstr "ಅಡುಗೆ"
+
+msgid "Education"
+msgstr "ಶಿಕ್ಷಣ"
+
+msgid "Electronics"
+msgstr "ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್"
+
+msgid "Finances"
+msgstr "ಹಣಕಾಸು"
+
+msgid "Graphics and design"
+msgstr "ಗ್ರಾಫಿಕ್ಸ್ ಮತ್ತು ವಿನ್ಯಾಸ"
+
+msgid "Health"
+msgstr "ಆರೋಗ್ಯ"
+
+msgid "Home and family"
+msgstr "ಮುಖಪುಟ ಮತ್ತು ಕುಟುಂಬ"
+
+msgid "Humor"
+msgstr "ಹಾಸ್ಯ"
+
+msgid "IT"
+msgstr "ಐಟಿ"
+
+msgid "Industry"
+msgstr "ಉದ್ಯಮ"
+
+msgid "Insurance"
+msgstr "ವಿಮೆ"
+
+msgid "Literature"
+msgstr "ಸಾಹಿತ್ಯ"
+
+msgid "Mobile communications and internet"
+msgstr "ಮೊಬೈಲ್ ಸಂಪರ್ಕ ಮತ್ತು ಇಂಟರ್ನೆಟ್"
+
+msgid "News and Media"
+msgstr "ಸುದ್ದಿ ಮತ್ತು ಮಾಧ್ಯಮ"
+
+msgid "Pets"
+msgstr "ಮುದ್ದಿನ"
+
+msgid "Products and service"
+msgstr "ಉತ್ಪನ್ನಗಳು ಮತ್ತು ಸೇವೆ"
+
+msgid "Real Estate"
+msgstr "ವಸತಿ"
+
+msgid "Religion"
+msgstr "ಧರ್ಮ"
+
+msgid "Science and techs"
+msgstr "ವಿಜ್ಞಾನ ಮತ್ತು techs"
+
+msgid "Security"
+msgstr "ಭದ್ರತಾ"
+
+msgid "Society"
+msgstr "ಸೊಸೈಟಿ"
+
+msgid "Television"
+msgstr "ಟೆಲಿವಿಷನ್"
+
+msgid "Travel"
+msgstr "ಪ್ರವಾಸ"
+
+msgid "URL"
+msgstr "URL ಅನ್ನು"
+
+msgid "Argentina"
+msgstr "ಅರ್ಜೆಂಟೀನಾ"
+
+msgid "Australia"
+msgstr "ಆಸ್ಟ್ರೇಲಿಯಾ"
+
+msgid "Austria"
+msgstr "ಆಸ್ಟ್ರಿಯಾ"
+
+msgid "Belarus"
+msgstr "ಬೆಲಾರಸ್"
+
+msgid "Belgium"
+msgstr "ಬೆಲ್ಜಿಯಂ"
+
+msgid "Brazil"
+msgstr "ಬ್ರೆಜಿಲ್"
+
+msgid "Bulgaria"
+msgstr "ಬಲ್ಗೇರಿಯ"
+
+msgid "Canada"
+msgstr "ಕೆನಡಾ"
+
+msgid "Chile"
+msgstr "ಚಿಲಿ"
+
+msgid "Denmark"
+msgstr "ಡೆನ್ಮಾರ್ಕ್"
+
+msgid "France"
+msgstr "ಫ್ರಾನ್ಸ್"
+
+msgid "Germany"
+msgstr "ಜರ್ಮನಿ"
+
+msgid "Greece"
+msgstr "ಗ್ರೀಸ್"
+
+msgid "Hungary"
+msgstr "ಹಂಗೇರಿ"
+
+msgid "Iceland"
+msgstr "ಐಸ್ಲ್ಯಾಂಡ್"
+
+msgid "Ireland"
+msgstr "ಐರ್ಲೆಂಡ್"
+
+msgid "Israel"
+msgstr "ಇಸ್ರೇಲ್"
+
+msgid "Italy"
+msgstr "ಇಟಲಿ"
+
+msgid "Japan"
+msgstr "ಜಪಾನ್"
+
+msgid "Mexico"
+msgstr "ಮೆಕ್ಸಿಕೋ"
+
+msgid "Netherlands"
+msgstr "ನೆದರ್ಲ್ಯಾಂಡ್ಸ್"
+
+msgid "New Zealand"
+msgstr "ನ್ಯೂಜಿಲ್ಯಾಂಡ್"
+
+msgid "Norway"
+msgstr "ನಾರ್ವೆ"
+
+msgid "Poland"
+msgstr "ಪೋಲೆಂಡ್"
+
+msgid "Portugal"
+msgstr "ಪೋರ್ಚುಗಲ್"
+
+msgid "Russia"
+msgstr "ರಶಿಯಾ"
+
+msgid "Slovakia"
+msgstr "ಸ್ಲೊವಾಕಿಯ"
+
+msgid "South Africa"
+msgstr "ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ"
+
+msgid "South Korea"
+msgstr "ದಕ್ಷಿಣ ಕೊರಿಯಾ"
+
+msgid "Spain"
+msgstr "ಸ್ಪೇನ್"
+
+msgid "Sweden"
+msgstr "ಸ್ವೀಡನ್"
+
+msgid "Switzerland"
+msgstr "ಸ್ವಿಜರ್ಲ್ಯಾಂಡ್"
+
+msgid "Turkey"
+msgstr "ಟರ್ಕಿ"
+
+msgid "Ukraine"
+msgstr "ಉಕ್ರೇನ್"
+
+msgid "United Arab Emirates"
+msgstr "ಸಂಯುಕ್ತ ಅರಬ್ ಸಂಸ್ಥಾಪನೆಗಳು"
+
+msgid "United Kingdom"
+msgstr "ಯುನೈಟೆಡ್ ಕಿಂಗ್ಡಮ್"
+
+msgid "United States"
+msgstr "ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನಗಳು"
+
+msgid "achievements"
+msgstr "ಸಾಧನೆಗಳು"
+
+msgid "Investment management"
+msgstr "ಬಂಡವಾಳ ಹೂಡಿಕೆ ನಿರ್ವಹಣೆ"
+
+msgid "Select..."
+msgstr "ಆಯ್ಕೆ ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "ಹೂಡಿಕೆ ನಿರ್ವಹಣೆ"
+
+msgid "Investors list"
+msgstr "ಹೂಡಿಕೆದಾರರು ಪಟ್ಟಿ"
+
+msgid "My investments"
+msgstr "ನನ್ನ ಹೂಡಿಕೆ"
+
+msgid "Create date"
+msgstr "ದಿನಾಂಕ ರಚಿಸಿ"
+
+msgid "Author of the project"
+msgstr "ಯೋಜನೆಯ ಲೇಖಕ"
+
+msgid "Date and time"
+msgstr "ದಿನಾಂಕ ಮತ್ತು ಸಮಯ"
+
+msgid "Status"
+msgstr "ಸ್ಥಿತಿ"
+
+msgid "NEXT"
+msgstr "ಮುಂದಿನ"
+
+msgid "Next"
+msgstr "ಮುಂದಿನ"
+
+msgid "Apply"
+msgstr "ಅನ್ವಯಿಸು"
+
+msgid "Kazakhstan"
+msgstr "ಕಝಾಕಿಸ್ತಾನ್"
+
+msgid "Almaty"
+msgstr "ಅಲ್ಮಾಟಿ"
+
+msgid "Hong Kong"
+msgstr "ಹಾಂಗ್ ಕಾಂಗ್"
+
+msgid "Science"
+msgstr "ವಿಜ್ಞಾನ"
+
+msgid "Architecture"
+msgstr "ಆರ್ಕಿಟೆಕ್ಚರ್"
+
+msgid "Photography"
+msgstr "ಛಾಯಾಗ್ರಹಣ"
+
+msgid "Designer"
+msgstr "ಡಿಸೈನರ್"
+
+msgid "IT specialist"
+msgstr "ಐಟಿ ತಜ್ಞ"
+
+msgid "Agronomist"
+msgstr "ಕೃಷಿಕ"
+
+msgid "Architect"
+msgstr "ವಾಸ್ತುಶಿಲ್ಪಿ"
+
+msgid "Lawyer"
+msgstr "ವಕೀಲ"
+
+msgid "Writer"
+msgstr "ರೈಟರ್"
+
+msgid "Doctor"
+msgstr "ಡಾಕ್ಟರ್"
+
+msgid "Scientist"
+msgstr "ವಿಜ್ಞಾನಿ"
+
+msgid "Marketer"
+msgstr "ಮಾರ್ಕೇಟರ್ಸ್"
+
+msgid "Teacher"
+msgstr "ಶಿಕ್ಷಕರ"
+
+msgid "Cook"
+msgstr "ಅಡುಗೆ"
+
+msgid "Artist"
+msgstr "ಕಲಾವಿದ"
+
+msgid "Photographer"
+msgstr "ಛಾಯಾಗ್ರಾಹಕ"
+
+msgid "Ecologist"
+msgstr "ಪರಿಸರವಾದಿ"
+
+msgid "Economist"
+msgstr "ಎಕನಾಮಿಸ್ಟ್"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "ಪತ್ರಕರ್ತ"
+
+msgid "Builder"
+msgstr "ಬಿಲ್ಡರ್"
+
+msgid "These users may be interesting for you"
+msgstr "ಈ ಬಳಕೆದಾರರು ನಿಮಗೆ ಆಸಕ್ತಿದಾಯಕ ವಿಚಾರ"
+
+msgid "These articles may be interesting for you"
+msgstr "ಈ ಲೇಖನಗಳನ್ನು ನೀವು ಆಸಕ್ತಿದಾಯಕ ವಿಚಾರ"
+
+msgid "You joined this group as Аdministrator"
+msgstr "ನೀವು Аdministrator ಈ ಗುಂಪು ಸೇರಿದರು"
+
+msgid "articles written."
+msgstr "ಲೇಖನಗಳನ್ನು ಬರೆದಿದ್ದಾರೆ."
+
+msgid "groups created."
+msgstr "ಗುಂಪುಗಳು ದಾಖಲಿಸಿದವರು."
+
+msgid "Creation"
+msgstr "ಸೃಷ್ಟಿ"
+
+msgid "Build a dream"
+msgstr "ಕನಸಿನ ಬಿಲ್ಡ್"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "ಹೆಚ್ಚು ಆಸಕ್ತಿಕರ ಲೇಖನಗಳನ್ನು ಓದಿ - ಉಚಿತ ನೋಂದಣಿ ಹೋಗಿ"
+

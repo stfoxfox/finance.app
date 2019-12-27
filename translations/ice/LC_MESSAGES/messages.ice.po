@@ -1,0 +1,2768 @@
+# Icelandic translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Icelandic <support@konstruktor.com>\n"
+"Language: Icelandic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "notandanafn"
+
+msgid "Invalid username or password, try again"
+msgstr "Ógilt notandanafn eða lykilorð . Reyndu aftur ."
+
+msgid "Settings"
+msgstr "Stillingar"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "You must log in to access this page"
+msgstr "Þú verður að skrá þig inn til að opna þessa síðu"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Lotan þín hefur verið útrunnið . Vinsamlegast relogin að framkvæma þessa aðgerð"
+
+msgid "Save"
+msgstr "Vista"
+
+msgid "Head Office"
+msgstr "Head Office"
+
+msgid "Address"
+msgstr "heimilisfang"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Apply"
+msgstr "Sækja"
+
+msgid "Upload files…"
+msgstr "Hlaða inn skrá ..."
+
+msgid "Set as main"
+msgstr "Setja sem helstu"
+
+msgid "Delete"
+msgstr "eyða"
+
+msgid "Original image"
+msgstr "upprunalega myndin"
+
+msgid "Uploaded"
+msgstr "hlaðið"
+
+msgid "File name"
+msgstr "Skráarnafn"
+
+msgid "File size"
+msgstr "File stærð"
+
+msgid "Resolution"
+msgstr "upplausn"
+
+msgid "Enlarge"
+msgstr "stækka"
+
+msgid "Links"
+msgstr "Tenglar"
+
+msgid "Original size"
+msgstr "Original stærð"
+
+msgid "For editor"
+msgstr "fyrir ritstjóri"
+
+msgid "Resize"
+msgstr "Breyta stærð"
+
+msgid "Width"
+msgstr "breidd"
+
+msgid "Height"
+msgstr "Hæð"
+
+msgid "Media URL"
+msgstr "Media URL"
+
+msgid "Add record"
+msgstr "Bæta færslu"
+
+msgid "Show filter settings"
+msgstr "Sýna síustillingar"
+
+msgid "Edit record"
+msgstr "Breyta færslu"
+
+msgid "Delete record"
+msgstr "eyða færslu"
+
+msgid "Delete checked records"
+msgstr "Eyða merktum færslum"
+
+msgid "Dashboard"
+msgstr "Mælaborð"
+
+msgid "Password"
+msgstr "Lykilorð"
+
+msgid "Remember me"
+msgstr "muna eftir mér"
+
+msgid "Login"
+msgstr "Innskráning"
+
+msgid "Clean image cache"
+msgstr "Clean mynd skyndiminni"
+
+msgid "Processing query..."
+msgstr "Vinnsla fyrirspurn ..."
+
+msgid "CMS Development"
+msgstr "CMS Development"
+
+msgid "Admin Home Page"
+msgstr "Admin Home Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Open Heimasíða á andlit-endir í nýjum flipa"
+
+msgid "Go to Site"
+msgstr "Fara á vef"
+
+msgid "Log out"
+msgstr "Skrá út"
+
+msgid "Send"
+msgstr "Senda"
+
+msgid "General"
+msgstr "General"
+
+msgid "Title"
+msgstr "Titill"
+
+msgid "Teaser"
+msgstr "Teaser"
+
+msgid "Published"
+msgstr "Útgefið"
+
+msgid "Featured"
+msgstr "Grein"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Field is mandatory"
+msgstr "Field er nauðsynlegur"
+
+msgid "Sort Order"
+msgstr "Raða Order"
+
+msgid "Upload"
+msgstr "Senda inn"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "febrúar"
+
+msgid "Mar"
+msgstr "mars"
+
+msgid "Apr"
+msgstr "apríl"
+
+msgid "May"
+msgstr "maí"
+
+msgid "Jun"
+msgstr "júní"
+
+msgid "Jul"
+msgstr "júlí"
+
+msgid "Aug"
+msgstr "ágúst"
+
+msgid "Sep"
+msgstr "September"
+
+msgid "Oct"
+msgstr "október"
+
+msgid "Nov"
+msgstr "nóvember"
+
+msgid "Dec"
+msgstr "desember"
+
+msgid "Product already exists in the order"
+msgstr "Vara er þegar til í því skyni"
+
+msgid "Product does not exist"
+msgstr "Vara er ekki til"
+
+msgid "Incorrect request"
+msgstr "röng beiðni"
+
+msgid "Products"
+msgstr "Vörur"
+
+msgid "Product types"
+msgstr "vörutegundir"
+
+msgid "Contractors"
+msgstr "Verktakar"
+
+msgid "Contractor"
+msgstr "verktaki"
+
+msgid "Orders"
+msgstr "pantanir"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "New röð"
+
+msgid "My orders"
+msgstr "pantanir mínar"
+
+msgid "Recharge balance"
+msgstr "endurhlaða jafnvægi"
+
+msgid "Administrator"
+msgstr "stjórnandi"
+
+msgid "Incorrect event ID"
+msgstr "Röng atburður ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Breyta verktaka"
+
+msgid "Create contractor"
+msgstr "Búa verktaka"
+
+msgid "Edit question"
+msgstr "Breyta spurning"
+
+msgid "Create question"
+msgstr "Búa spurningu"
+
+msgid "Edit order"
+msgstr "Breyta röð"
+
+msgid "Create order"
+msgstr "Búa röð"
+
+msgid "Edit product"
+msgstr "Breyta vara"
+
+msgid "Create product"
+msgstr "Búa vöru"
+
+msgid "Edit product type"
+msgstr "Breyta vara tegund"
+
+msgid "Create product type"
+msgstr "Búa vörugerð"
+
+msgid "You have received a file"
+msgstr "Þú hefur fengið skrá"
+
+msgid "You received a file from"
+msgstr "Þú fékk skrá frá"
+
+msgid "File has been uploaded"
+msgstr "File hefur verið hlaðið"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "lágmarks magn"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "atriði"
+
+msgid "Remove"
+msgstr "fjarlægja"
+
+msgid "Contact person"
+msgstr "tengiliður"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Contractor phone"
+msgstr "verktaki sími"
+
+msgid "Contractor name"
+msgstr "nafn verktaka"
+
+msgid "Contractor details"
+msgstr "Verktaki upplýsingar"
+
+msgid "Order ID"
+msgstr "Order ID"
+
+msgid "Sum"
+msgstr "Sum"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Veldu viðeigandi greiðslukerfi að hlaða inneign"
+
+msgid "Recharge amount"
+msgstr "endurhlaða upphæð"
+
+msgid "Paid"
+msgstr "greiddur"
+
+msgid "Shipped"
+msgstr "flutt"
+
+msgid "- No products in this order -"
+msgstr "- Engar vörur í þessari röð -"
+
+msgid "month"
+msgstr "mánuði"
+
+msgid "No user found"
+msgstr "Enginn notandi fannst"
+
+msgid "Achievement"
+msgstr "Achievement"
+
+msgid "Confirmed accomplishments"
+msgstr "staðfest afreka"
+
+msgid "Remove achievement"
+msgstr "fjarlægja afrek"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "Sími"
+
+msgid "Site URL and email"
+msgstr "Site URL og tölvupósti"
+
+msgid "Remove address"
+msgstr "fjarlægja netfang"
+
+msgid "Members"
+msgstr "Members"
+
+msgid "Requires a payment"
+msgstr "Krefst greiðslu"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Ready"
+msgstr "tilbúinn"
+
+msgid "Find user..."
+msgstr "Finna notanda ..."
+
+msgid "Order it"
+msgstr "panta það"
+
+msgid "Find group..."
+msgstr "Finna hóp ..."
+
+msgid "Find user or community..."
+msgstr "Finna notanda eða samfélagi ..."
+
+msgid "No item found"
+msgstr "Engin atriði fannst"
+
+msgid "years"
+msgstr "ár"
+
+msgid "Send message"
+msgstr "Senda skilaboð"
+
+msgid "Message"
+msgstr "skilaboð"
+
+msgid "To send message press Enter"
+msgstr "Til að senda skilaboð enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Til að senda skilaboð ýta á Ctrl + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Vinnsla skrá ( s ) ..."
+
+msgid "Group settings"
+msgstr "stillingar Group"
+
+msgid "Create group"
+msgstr "Búa til hóp"
+
+msgid "Group has been successfully saved"
+msgstr "Group hefur verið vistuð"
+
+msgid "Group title"
+msgstr "titill Group"
+
+msgid "Group video"
+msgstr "Group vídeó"
+
+msgid "Description"
+msgstr "lýsing"
+
+msgid "Your role in group"
+msgstr "Hlutverk þitt í hópnum"
+
+msgid "Role"
+msgstr "hlutverk"
+
+msgid "Photo or video gallery"
+msgstr "Mynd eða myndskeið gallerí"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Senda vídeó"
+
+msgid "Add group address"
+msgstr "Bæta veffang hópsins"
+
+msgid "Group articles"
+msgstr "Group greinar"
+
+msgid "No addresses yet"
+msgstr "Engar heimilisföng enn sem"
+
+msgid "Add group achievement"
+msgstr "Bæta hóp afrek"
+
+msgid "No achivements yet"
+msgstr "Engar Achivements enn sem"
+
+msgid "Are you sure to delete this user"
+msgstr "Ertu viss um að eyða þessum notanda"
+
+msgid "Add member"
+msgstr "Bæta við félaga"
+
+msgid "Are you sure to delete this record?"
+msgstr "Ertu viss um að eyða þessari færslu ?"
+
+msgid "Join this group"
+msgstr "Ganga í hópinn"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Boðið var sent í hópinn stjórnandi"
+
+msgid "All addresses"
+msgstr "Öll netföng"
+
+msgid "Collapse"
+msgstr "Collapse"
+
+msgid "Achievements"
+msgstr "Afrek"
+
+msgid "Show more"
+msgstr "sýna fleiri"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "Projects"
+msgstr "verkefni"
+
+msgid "New project"
+msgstr "nýtt verkefni"
+
+msgid "Project has not been created yet"
+msgstr "Verkefnið hefur ekki verið búinn til enn"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "Balance"
+
+msgid "Main page"
+msgstr "Aðalsíða"
+
+msgid "Upload image"
+msgstr "Senda inn mynd"
+
+msgid "My time"
+msgstr "minn tími"
+
+msgid "Day"
+msgstr "Day"
+
+msgid "Week"
+msgstr "Vika"
+
+msgid "Project settings"
+msgstr "Project stillingar"
+
+msgid "Create project"
+msgstr "Búa verkefni"
+
+msgid "Project has been successfully saved"
+msgstr "Verkefnið hefur verið vistuð"
+
+msgid "Project name"
+msgstr "heiti verkefnis"
+
+msgid "Deadline"
+msgstr "Tímamörk"
+
+msgid "Close"
+msgstr "Loka"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Assigned to"
+msgstr "úthlutað til"
+
+msgid "Discussion"
+msgstr "Umræður"
+
+msgid "Task was created"
+msgstr "Task var búin"
+
+msgid "Task was closed"
+msgstr "Task var lokað"
+
+msgid "Go to Group"
+msgstr "Fara Group"
+
+msgid "Closed"
+msgstr "lokað"
+
+msgid "Last updates"
+msgstr "Síðasta uppfærslur"
+
+msgid "Project is closed"
+msgstr "Verkefnið er lokað"
+
+msgid "No open tasks"
+msgstr "Engar opin verkefni"
+
+msgid "New task"
+msgstr "nýtt verkefni"
+
+msgid "Closed tasks"
+msgstr "lokað verkefni"
+
+msgid "Add subproject"
+msgstr "Bæta subproject"
+
+msgid "Add task"
+msgstr "Bæta við verkefni"
+
+msgid "Sun"
+msgstr "Sunnudagur"
+
+msgid "Mon"
+msgstr "Mánudagur"
+
+msgid "Tue"
+msgstr "Þriðjudagur"
+
+msgid "Wed"
+msgstr "miðvikudagur"
+
+msgid "Thur"
+msgstr "Fimmtudagur"
+
+msgid "Fri"
+msgstr "Föstudagur"
+
+msgid "Sat"
+msgstr "Laugardagur"
+
+msgid "Event title"
+msgstr "Event titill"
+
+msgid "Event description"
+msgstr "Event lýsing"
+
+msgid "I registered on this site"
+msgstr "Ég skráði á þessum vef"
+
+msgid "Last created groups"
+msgstr "Síðustu búið hópar"
+
+msgid "You joined this group as"
+msgstr "Þú þátt í þessum hópi sem"
+
+msgid "You received a request to join the group"
+msgstr "Þú fékk beiðni um að ganga í hópinn"
+
+msgid "Updated site"
+msgstr "Uppfært síða"
+
+msgid "Site is under construction"
+msgstr "Site er í vinnslu"
+
+msgid "Last registered users"
+msgstr "Síðustu skráðir notendur"
+
+msgid "User settings"
+msgstr "stillingar notanda"
+
+msgid "Technical support"
+msgstr "tæknileg aðstoð"
+
+msgid "Change email"
+msgstr "Breyta netfangi"
+
+msgid "Change password"
+msgstr "Breyta lykilorði"
+
+msgid "User has been successfully saved"
+msgstr "Notandi hefur verið vistuð"
+
+msgid "Full name"
+msgstr "Fullt nafn"
+
+msgid "My video"
+msgstr "myndbandið"
+
+msgid "Skills"
+msgstr "Kunnátta"
+
+msgid "Birthday"
+msgstr "afmæli"
+
+msgid "Country of residence"
+msgstr "Dvalarlandi"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Zip Code"
+msgstr "Zip Code"
+
+msgid "City/town of residence"
+msgstr "City / Town búsetu"
+
+msgid "University/college"
+msgstr "University / háskóli"
+
+msgid "University/college photo"
+msgstr "University / háskóli mynd"
+
+msgid "Add user\'s accomplishments"
+msgstr "Bæta afrek notanda"
+
+msgid "Interface language"
+msgstr "tengi tungumál"
+
+msgid "How other people see this page"
+msgstr "Hvernig aðrir sjá þessa síðu"
+
+msgid "Video with me"
+msgstr "Myndband með mér"
+
+msgid "Groups"
+msgstr "hópar"
+
+msgid "Registered today"
+msgstr "Skráðir í dag"
+
+msgid "Qty"
+msgstr "Magn"
+
+msgid "No registered users yet"
+msgstr "Engir skráðir notendur enn sem"
+
+msgid "Total"
+msgstr "alls"
+
+msgid "Registered total"
+msgstr "skráðir alls"
+
+msgid "You received a file"
+msgstr "Þú fékkst skrá"
+
+msgid "You were invited into this room"
+msgstr "Þú varst boðið í þessu herbergi"
+
+msgid "Request is being processed"
+msgstr "Beiðni er í vinnslu"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Messenger"
+msgstr "Messenger"
+
+msgid "New subproject"
+msgstr "New subproject"
+
+msgid "messages written."
+msgstr "skilaboð skrifuð."
+
+msgid "projects created based on groups."
+msgstr "verkefni sem byggjast á hópa ."
+
+msgid "users registered on website."
+msgstr "notendur skráð á vefsvæðið ."
+
+msgid "New email"
+msgstr "nýr tölvupóstur"
+
+msgid "Confirm email"
+msgstr "staðfesta tölvupóst"
+
+msgid "New password"
+msgstr "nýtt lykilorð"
+
+msgid "Confirm password"
+msgstr "staðfesta lykilorð"
+
+msgid "Occupation"
+msgstr "Sérsvið"
+
+msgid "Timezone"
+msgstr "Tímabelti"
+
+msgid "Answer"
+msgstr "svar"
+
+msgid "Articles"
+msgstr "Greinar"
+
+msgid "Article"
+msgstr "grein"
+
+msgid "Video-article"
+msgstr "Video- grein"
+
+msgid "Find article..."
+msgstr "Finna grein ..."
+
+msgid "Politics"
+msgstr "Stjórnmál"
+
+msgid "Economics"
+msgstr "hagfræði"
+
+msgid "Community"
+msgstr "Community"
+
+msgid "Culture"
+msgstr "Menning"
+
+msgid "Sports"
+msgstr "Íþróttir"
+
+msgid "Hi-tech"
+msgstr "Hi -Tech"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Fashion"
+msgstr "Tíska"
+
+msgid "Games"
+msgstr "Leikir"
+
+msgid "Other"
+msgstr "Annað"
+
+msgid "Invalid mediafile"
+msgstr "Ógilt mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Engar greinar í þessum flokki"
+
+msgid "Back to profile"
+msgstr "Til baka"
+
+msgid "View article"
+msgstr "Skoða grein"
+
+msgid "Edit article"
+msgstr "Edit grein"
+
+msgid "Create article"
+msgstr "Búa grein"
+
+msgid "Article title"
+msgstr "Titillinn grein"
+
+msgid "Article section"
+msgstr "grein kafla"
+
+msgid "Choose image"
+msgstr "Veldu mynd"
+
+msgid "Save and upload"
+msgstr "Vista og hlaða"
+
+msgid "Show more..."
+msgstr "Sýna meira ..."
+
+msgid "Create"
+msgstr "Búa"
+
+msgid "Edit"
+msgstr "Breyta"
+
+msgid "Project"
+msgstr "Project"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "A new article was published"
+msgstr "Ný grein var birt"
+
+msgid "You joined this project"
+msgstr "Þú tengdist þessu verkefni"
+
+msgid "Enter your information in the User settings"
+msgstr "Sláðu inn upplýsingar um þig í Notandastillingar"
+
+msgid "Communities"
+msgstr "samfélög"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Vídeó kynningu af afrekum mínum"
+
+msgid "My articles"
+msgstr "Mínar greinar"
+
+msgid "User"
+msgstr "Notandi"
+
+msgid "Users"
+msgstr "Notendur"
+
+msgid "Add new list"
+msgstr "Bæta nýjan lista"
+
+msgid "List title"
+msgstr "List titill"
+
+msgid "Add"
+msgstr "Bæta"
+
+msgid "Add to favorites"
+msgstr "Bæta við eftirlæti"
+
+msgid "Delete from favorites"
+msgstr "Eyða úr eftirlæti"
+
+msgid "Select list"
+msgstr "Veldu listi"
+
+msgid "Subscriptions"
+msgstr "Áskriftir"
+
+msgid "Subscribe"
+msgstr "Gerast áskrifandi"
+
+msgid "Unsubscribe"
+msgstr "afskrá"
+
+msgid "General list"
+msgstr "General lista"
+
+msgid "No users in this list"
+msgstr "Engir notendur í þessum lista"
+
+msgid "Publish"
+msgstr "birta"
+
+msgid "Unpublish"
+msgstr "Unpublish"
+
+msgid "Add user"
+msgstr "Bæta notanda"
+
+msgid "Create document"
+msgstr "Búa skjal"
+
+msgid "Edit document"
+msgstr "Breyta skjali"
+
+msgid "View"
+msgstr "View"
+
+msgid "Document title"
+msgstr "Document titill"
+
+msgid "Find document..."
+msgstr "Finna skjal ..."
+
+msgid "Share your thoughts"
+msgstr "Deila hugsunum þínum"
+
+msgid "Leave your comment"
+msgstr "Leyfi athugasemd"
+
+msgid "Accept"
+msgstr "samþykkja"
+
+msgid "Decline"
+msgstr "Hafna"
+
+msgid "Add article"
+msgstr "Bæta við grein"
+
+msgid "Link to verified accomplishments"
+msgstr "Tengill á staðfest árangri"
+
+msgid "No articles here yet..."
+msgstr "Engar greinar hér enn ..."
+
+msgid "Find file or folder..."
+msgstr "Finna skrá eða möppu ..."
+
+msgid "Sort"
+msgstr "Raða"
+
+msgid "By name"
+msgstr "með nafni"
+
+msgid "By date"
+msgstr "eftir dagsetningu"
+
+msgid "By updated date"
+msgstr "By uppfært dagsetning"
+
+msgid "By size"
+msgstr "eftir stærð"
+
+msgid "By type"
+msgstr "eftir tegund"
+
+msgid "Move"
+msgstr "færa"
+
+msgid "File Manager"
+msgstr "File Manager"
+
+msgid "Share link"
+msgstr "Deila tengilinn"
+
+msgid "Responsible"
+msgstr "ábyrg"
+
+msgid "Performer"
+msgstr "Performer"
+
+msgid "New Folder"
+msgstr "Ný mappa"
+
+msgid "Folder name"
+msgstr "Möppuheitið"
+
+msgid "By default"
+msgstr "Sjálfgefið"
+
+msgid "Back to group"
+msgstr "Til baka í hóp"
+
+msgid "year(s)"
+msgstr "ár (s)"
+
+msgid "January"
+msgstr "janúar"
+
+msgid "February"
+msgstr "febrúar"
+
+msgid "March"
+msgstr "mars"
+
+msgid "April"
+msgstr "apríl"
+
+msgid "May"
+msgstr "Maí"
+
+msgid "June"
+msgstr "júní"
+
+msgid "July"
+msgstr "júlí"
+
+msgid "August"
+msgstr "ágúst"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "október"
+
+msgid "November"
+msgstr "nóvember"
+
+msgid "December"
+msgstr "desember"
+
+msgid "Password Reminder"
+msgstr "Lykilorð Áminning"
+
+msgid "Log In"
+msgstr "Skrá inn"
+
+msgid "Sign in"
+msgstr "Skráðu þig inn"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "First name"
+msgstr "Fornafn"
+
+msgid "Last name"
+msgstr "Eftirnafn"
+
+msgid "I agree with rules"
+msgstr "Ég er sammála með reglum"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Staðfesting póstur var sendur á netfangið þitt."
+
+msgid "Thanks"
+msgstr "takk"
+
+msgid "Password must be at least 6 characters"
+msgstr "Lykilorð verður að vera minnst 6 stafir"
+
+msgid "Creative Environment"
+msgstr "skapandi umhverfi"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Þú þarft að vera að minnsta kosti þrettán ára aldri til að nota þessa þjónustu"
+
+msgid "Order status"
+msgstr "Pöntunar staða"
+
+msgid "Processing order"
+msgstr "Vinnsla röð"
+
+msgid "Requires a payment"
+msgstr "Krefst greiðslu"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Ready"
+msgstr "tilbúinn"
+
+msgid "Thank you for your payment"
+msgstr "Þakka þér fyrir greiðslunni"
+
+msgid "Your payment has been cancelled"
+msgstr "Greiðsla hefur verið lokað"
+
+msgid "page"
+msgstr "síðu"
+
+msgid "Rent period"
+msgstr "leigu tímabil"
+
+msgid "Total, month"
+msgstr "Total, mánuð"
+
+msgid "Order items"
+msgstr "Panta atriði"
+
+msgid "No records found"
+msgstr "Engar skrár finnast"
+
+msgid "User with this email is already exist"
+msgstr "Notandi með þessu bréfi er þegar til staðar"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Möppu eða skrá með svona nafn er þegar til staðar í áfangastað möppu"
+
+msgid "Minimal quantity"
+msgstr "Minimal magn"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "prenta afrit"
+
+msgid "Terms of Use"
+msgstr "Notenda Skilmálar"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "Find project..."
+msgstr "Finna verkefni ..."
+
+msgid "New Project"
+msgstr "New Project"
+
+msgid "Accounts"
+msgstr "reikningar"
+
+msgid "Operations"
+msgstr "rekstur"
+
+msgid "All accounts"
+msgstr "Allir reikningar"
+
+msgid "All categories"
+msgstr "Allir flokkar"
+
+msgid "Expense"
+msgstr "kostnað"
+
+msgid "Income"
+msgstr "tekjur"
+
+msgid "Transfer"
+msgstr "Transfer"
+
+msgid "Expense"
+msgstr "kostnað"
+
+msgid "income"
+msgstr "tekjur"
+
+msgid "tax"
+msgstr "skattur"
+
+msgid "percent"
+msgstr "prósent"
+
+msgid "transfer"
+msgstr "flytja"
+
+msgid "Make operation"
+msgstr "gera aðgerð"
+
+msgid "Select date"
+msgstr "velja dag"
+
+msgid "Select account"
+msgstr "Veldu Áskrift"
+
+msgid "Month"
+msgstr "mánuður"
+
+msgid "Quarter"
+msgstr "Quarter"
+
+msgid "Year"
+msgstr "ár"
+
+msgid "From"
+msgstr "frá"
+
+msgid "To"
+msgstr "til"
+
+msgid "Expense amount"
+msgstr "kostnað upphæð"
+
+msgid "Categories"
+msgstr "Flokkar"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "Income amount"
+msgstr "tekjur fjárhæð"
+
+msgid "Transfer amount"
+msgstr "flytja upphæð"
+
+msgid "From account"
+msgstr "af reikningi"
+
+msgid "To account"
+msgstr "til reikning"
+
+msgid "New Account"
+msgstr "New Account"
+
+msgid "New Category"
+msgstr "New Category"
+
+msgid "All"
+msgstr "allt"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Enter category name"
+msgstr "Sláðu inn nafn flokk"
+
+msgid "Select type"
+msgstr "Veldu tegund"
+
+msgid "Credit card"
+msgstr "Kreditkort"
+
+msgid "Debit card"
+msgstr "Debetkort"
+
+msgid "Bank account"
+msgstr "bankareikning"
+
+msgid "Cash"
+msgstr "Cash"
+
+msgid "Balance is empty"
+msgstr "Jafnvægi er tóm"
+
+msgid "Statistic is empty"
+msgstr "Tölfræði er tóm"
+
+msgid "Regular payments"
+msgstr "reglubundnar greiðslur"
+
+msgid "Are you sure ?"
+msgstr "Ert þú viss ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Ert þú viss um að loka þessu verkefni?"
+
+msgid "Project was deleted successfully"
+msgstr "Verkefnið hefur verið eytt"
+
+msgid "Select currency"
+msgstr "Veldu gjaldmiðil"
+
+msgid "Account"
+msgstr "Reikningur"
+
+msgid "Orders list"
+msgstr "pantanir lista"
+
+msgid "Order payments"
+msgstr "Panta greiðslur"
+
+msgid "View order"
+msgstr "Skoða Panta"
+
+msgid "No response from Printer API"
+msgstr "Ekkert svar frá Printer API"
+
+msgid "Bad response from Printer API"
+msgstr "Bad svar frá Printer API"
+
+msgid "User ID"
+msgstr "notandanafn"
+
+msgid "Contact Person"
+msgstr "Tengiliður"
+
+msgid "No orders to process"
+msgstr "Engar pantanir að vinna"
+
+msgid "Article announce image"
+msgstr "Grein tilkynna myndina"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Ógild vefslóð . Skildu eftir autt eða setja gilt æska url"
+
+msgid "Please, enter Contractor data"
+msgstr "Vinsamlegast sláðu inn verktaka gögn"
+
+msgid "Distribute devices"
+msgstr "dreifa tæki"
+
+msgid "Quantity"
+msgstr "magn"
+
+msgid "Devices left"
+msgstr "tæki til vinstri"
+
+msgid "Distributed devices"
+msgstr "dreift tæki"
+
+msgid "You must enter quantity"
+msgstr "Þú verður að slá inn magn"
+
+msgid "All devices are distributed"
+msgstr "Öll tæki eru dreift"
+
+msgid "IP address"
+msgstr "IP-tala"
+
+msgid "Only for printer"
+msgstr "Aðeins fyrir prentara"
+
+msgid "Counter"
+msgstr "Counter"
+
+msgid "You was excluded from this room"
+msgstr "Þú útilokaður frá þessu herbergi"
+
+msgid "Compare"
+msgstr "Berðu"
+
+msgid "Scheduled transaction"
+msgstr "áætlunarferðir viðskipti"
+
+msgid "Select transfer account"
+msgstr "Veldu flytja reikning"
+
+msgid "Select income account"
+msgstr "Veldu Áskrift tekjur"
+
+msgid "Reports"
+msgstr "skýrslur"
+
+msgid "Goals"
+msgstr "markmið"
+
+msgid "Budgets"
+msgstr "fjárveitingar"
+
+msgid "Enter user name or email..."
+msgstr "Sláðu inn nafn notanda eða email ..."
+
+msgid "Invite had been sended"
+msgstr "Bjóða hafði verið sended"
+
+msgid "Statistics"
+msgstr "Tölfræði"
+
+msgid "Updated site began to work"
+msgstr "Uppfært á síðuna fór að vinna"
+
+msgid "City of residence"
+msgstr "City búsetu"
+
+msgid "Edit favourites list"
+msgstr "Breyta uppáhalds listanum"
+
+msgid "Add favourites list"
+msgstr "Bæta uppáhalds listann"
+
+msgid "Categories is required"
+msgstr "Flokkar þarf"
+
+msgid "Type new category name and hit Enter"
+msgstr "Slá nýjan flokk nafn og ýttu á Enter"
+
+msgid "You created an order"
+msgstr "Þú hefur búið til röð"
+
+msgid "You received a device due to this order"
+msgstr "Þú fékk tæki vegna þessa röð"
+
+msgid "%s attached %s to task %s"
+msgstr "%s fylgir %s til verkefni %s"
+
+msgid "member(s)"
+msgstr "member (s )"
+
+msgid "%s commented task %s"
+msgstr "%s sagði verkefni %s"
+
+msgid "%s closed task %s"
+msgstr "%s lokað verkefni %s"
+
+msgid "%s created task %s"
+msgstr "%s búin verkefni %s"
+
+msgid "%s created this project"
+msgstr "%s búið þetta verkefni"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s búin subproject \" %s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s lokað verkefnið \" %s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s lokað subproject \" %s \""
+
+msgid "This field must not be blank"
+msgstr "Þessi reitur má ekki vera auður"
+
+msgid "Document with such name is already exist"
+msgstr "Skjal með svona nafn er þegar til staðar"
+
+msgid "Wait until image upload"
+msgstr "Bíddu þar til mynd hlaða"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Message can not be empty"
+msgstr "Message má ekki vera autt"
+
+msgid "Yes"
+msgstr "já"
+
+msgid "No"
+msgstr "No"
+
+msgid "Created"
+msgstr "búið"
+
+msgid "Compare is empty"
+msgstr "Berðu er tóm"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Ertu viss um að þú viljir eyða rekstri"
+
+msgid "Do you really want to delete transaction"
+msgstr "Viltu virkilega eyða færslu"
+
+msgid "Project with same name already exists"
+msgstr "Verkefni með sama nafni er þegar til"
+
+msgid "Account is not found"
+msgstr "Reikningur er ekki"
+
+msgid "Currency is required"
+msgstr "Gjaldmiðill þarf"
+
+msgid "error while deleting document"
+msgstr "Villa við eyðingu skjal"
+
+msgid "Expences"
+msgstr "rekstrargjöld"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Þú boðið notanda \"%s\" í þessu herbergi"
+
+msgid "User \"%s\" joined this room"
+msgstr "User \" %s \" byrjuðu þessu herbergi"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Þú útiloka notanda \"%s\" úr þessu herbergi"
+
+msgid "User \"%s\" left this room"
+msgstr "User \" %s \" vinstri þessu herbergi"
+
+msgid "Add account"
+msgstr "Bæta við reikningi"
+
+msgid "The requested page is not found"
+msgstr "Umbeðin síða fannst ekki"
+
+msgid "Document"
+msgstr "Document"
+
+msgid "Table"
+msgstr "Tafla"
+
+msgid "file(s)"
+msgstr "skrá ( s )"
+
+msgid "Residue"
+msgstr "leifa"
+
+msgid "Result is empty"
+msgstr "Niðurstaðan er tóm"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Heildarfjárhæð er%s %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Þú þarft að leggja %s mánaðarlega til viðkomandi reikningi"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "finish"
+msgstr "ljúka"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Valinn reikningur er nú þegar í notkun fyrir marki"
+
+msgid "Amount required"
+msgstr "upphæð sem þarf"
+
+msgid "New goal"
+msgstr "New markmið"
+
+msgid "Goal"
+msgstr "Markmið"
+
+msgid "Goal name"
+msgstr "nafnið markmið"
+
+msgid "Invalid date"
+msgstr "Ógilt"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Nauðsynlegt Summa verður að vera jákvæð tala"
+
+msgid "Remain"
+msgstr "Verið"
+
+msgid "Last day"
+msgstr "Seinasti dagur"
+
+msgid "Accumulated"
+msgstr "Uppsafnaður"
+
+msgid "Put aside"
+msgstr "Setja til hliðar"
+
+msgid "January"
+msgstr "janúar"
+
+msgid "February"
+msgstr "febrúar"
+
+msgid "March"
+msgstr "mars"
+
+msgid "April"
+msgstr "apríl"
+
+msgid "May"
+msgstr "Maí"
+
+msgid "June"
+msgstr "júní"
+
+msgid "July"
+msgstr "júlí"
+
+msgid "August"
+msgstr "ágúst"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "október"
+
+msgid "November"
+msgstr "nóvember"
+
+msgid "December"
+msgstr "desember"
+
+msgid "Expenses projected/actual"
+msgstr "Útgjöld áætluð / raunveruleg"
+
+msgid "Net Income projected/actual"
+msgstr "Net Income spáð / actual"
+
+msgid "New budget"
+msgstr "New fjárhagsáætlun"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Tekjur og gjöld Mynd"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Budget með sama par af reikningi og flokki þegar til"
+
+msgid "Budget is empty"
+msgstr "Budget er tóm"
+
+msgid "Budget"
+msgstr "Budget"
+
+msgid "plan"
+msgstr "áætlun"
+
+msgid "fact"
+msgstr "staðreynd"
+
+msgid "diff"
+msgstr "breyting"
+
+msgid "Show More"
+msgstr "sýna Meira"
+
+msgid "Cancel"
+msgstr "Hætta"
+
+msgid "d"
+msgstr "D"
+
+msgid "h"
+msgstr "klst"
+
+msgid "min"
+msgstr "mín"
+
+msgid "My sales"
+msgstr "velta minn"
+
+msgid "Time spent"
+msgstr "tími sem fer"
+
+msgid "Total time spent"
+msgstr "Samtals tími"
+
+msgid "Earnings per hour"
+msgstr "Hagnaður á klukkustund"
+
+msgid "Total earnings"
+msgstr "heildartekjur"
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Phone call"
+msgstr "Símtal"
+
+msgid "Telephone calls"
+msgstr "símtöl"
+
+msgid "Send email"
+msgstr "Senda tölvupóst"
+
+msgid "Emails"
+msgstr "tölvupóst"
+
+msgid "Meeting"
+msgstr "Fundur"
+
+msgid "Meetings"
+msgstr "Fundir"
+
+msgid "All events"
+msgstr "Allir viðburðir"
+
+msgid "Task"
+msgstr "verkefni"
+
+msgid "Event"
+msgstr "Event"
+
+msgid "Events"
+msgstr "viðburðir"
+
+msgid "Time"
+msgstr "Time"
+
+msgid "Events statistics"
+msgstr "viðburðir tölfræði"
+
+msgid "days"
+msgstr "daga"
+
+msgid "hours"
+msgstr "klst"
+
+msgid "minutes"
+msgstr "mínútur"
+
+msgid "Income & expense"
+msgstr "Tekjur og gjöld"
+
+msgid "Show chart"
+msgstr "Sýna graf"
+
+msgid "Hide chart"
+msgstr "fela graf"
+
+msgid "Add event"
+msgstr "Bæta atburði"
+
+msgid "Add financial data"
+msgstr "Bæta fjárhagslegum gögnum"
+
+msgid "Select contractor"
+msgstr "Veldu verktaka"
+
+msgid "Net Income"
+msgstr "Net Income"
+
+msgid "Revenue"
+msgstr "tekjur"
+
+msgid "Taxes"
+msgstr "Skattar"
+
+msgid "Amount planned"
+msgstr "upphæð fyrirhugað"
+
+msgid "Amount"
+msgstr "upphæð"
+
+msgid "Period"
+msgstr "tímabil"
+
+msgid "Are you sure to close this task?"
+msgstr "Ert þú viss um að loka þessu verkefni ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "Allir hópar"
+
+msgid "added from task"
+msgstr "bætt úr verkefni"
+
+msgid "Monthly repeat"
+msgstr "mánaðarlega endurtaka"
+
+msgid "Select category"
+msgstr "Veldu flokk"
+
+msgid "Event type"
+msgstr "atviksgerð"
+
+msgid "Margin"
+msgstr "framlegð"
+
+msgid "Use finance project"
+msgstr "Nota fjármagna verkefnið"
+
+msgid "New investment project"
+msgstr "New fjárfestingarverkefni"
+
+msgid "Investment project settings"
+msgstr "Stillingar fjárfestingarverkefni"
+
+msgid "Picture, for the announcement project"
+msgstr "Mynd , fyrir tilkynningu verkefnisins"
+
+msgid "Announcement project"
+msgstr "Tilkynning verkefni"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Photos or videos gallery"
+msgstr "Myndir eða myndbönd gallerí"
+
+msgid "required amount"
+msgstr "nauðsynlegt magn"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Project lengd ( 60 daga hámark )"
+
+msgid "Project duration"
+msgstr "Project lengd"
+
+msgid "Add reward"
+msgstr "Bæta verðlaun"
+
+msgid "Delivery date"
+msgstr "Afhendingardagur"
+
+msgid "Payment systems"
+msgstr "greiðslukerfi"
+
+msgid "Terms of service"
+msgstr "Skilmálar þjónustu"
+
+msgid "Agreement"
+msgstr "samningur"
+
+msgid "Payment"
+msgstr "greiðsla"
+
+msgid "My projects"
+msgstr "verkefni mitt"
+
+msgid "Search result"
+msgstr "niðurstöður leitar"
+
+msgid "Nothing not found"
+msgstr "Ekkert fannst ekki"
+
+msgid "The project has no sponsors"
+msgstr "Verkefnið hefur engar styrktaraðili"
+
+msgid "Design"
+msgstr "hönnun"
+
+msgid "Food"
+msgstr "Food"
+
+msgid "Journalism"
+msgstr "blaðamennsku"
+
+msgid "Games"
+msgstr "Leikir"
+
+msgid "Art"
+msgstr "Art"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "tónlist"
+
+msgid "Handicrafts"
+msgstr "handverk"
+
+msgid "Publishing"
+msgstr "Publishing"
+
+msgid "Theater"
+msgstr "Theater"
+
+msgid "Technology"
+msgstr "tækni"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Dance"
+msgstr "Dance"
+
+msgid "Invalid youtube video"
+msgstr "Ógild æska vídeó"
+
+msgid "is required"
+msgstr "er krafist"
+
+msgid "User"
+msgstr "Notandi"
+
+msgid "Date"
+msgstr "Dagsetning"
+
+msgid "Collected"
+msgstr "safnað"
+
+msgid "Choose period"
+msgstr "Veldu tímabil"
+
+msgid "Choose region"
+msgstr "Veldu svæði"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Today"
+msgstr "í dag"
+
+msgid "Week"
+msgstr "vika"
+
+msgid "Month"
+msgstr "mánuður"
+
+msgid "Year"
+msgstr "ár"
+
+msgid "Free registration"
+msgstr "frjáls skráning"
+
+msgid "Join"
+msgstr "Join"
+
+msgid "Log in using"
+msgstr "Skráðu þig inn með"
+
+msgid "Vacancies"
+msgstr "atvinnutækifæri"
+
+msgid "About Us"
+msgstr "Um okkur"
+
+msgid "You will need email to log in"
+msgstr "Þú þarft tölvupóst til að skrá þig inn"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Sambland af 6 tölustöfum og stafi"
+
+msgid "Search users, groups, articles..."
+msgstr "Leita notendur , hópa, greinar ..."
+
+msgid "Cloud"
+msgstr "Cloud"
+
+msgid "Sunday"
+msgstr "Sunnudagur"
+
+msgid "Monday"
+msgstr "Mánudagur"
+
+msgid "Tuesday"
+msgstr "Þriðjudagur"
+
+msgid "Wednesday"
+msgstr "miðvikudagur"
+
+msgid "Thursday"
+msgstr "Fimmtudagur"
+
+msgid "Friday"
+msgstr "Föstudagur"
+
+msgid "Saturday"
+msgstr "Laugardagur"
+
+msgid "Edit"
+msgstr "Breyta"
+
+msgid "Create group"
+msgstr "Búa til hóp"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Ertu viss um að þú viljir fara af síðunni?"
+
+msgid "More"
+msgstr "meira"
+
+msgid "Less"
+msgstr "minna"
+
+msgid "Pending"
+msgstr "Bíður"
+
+msgid "Approved"
+msgstr "samþykkt"
+
+msgid "Rejected"
+msgstr "hafnað"
+
+msgid "Subprojects"
+msgstr "subprojects"
+
+msgid "Group edit"
+msgstr "Group breyta"
+
+msgid "Startup"
+msgstr "Startup"
+
+msgid "Tattoo"
+msgstr "Tattoo"
+
+msgid "Health"
+msgstr "Heilsa"
+
+msgid "Weapon"
+msgstr "vopn"
+
+msgid "Astronomy"
+msgstr "Stjörnufræði"
+
+msgid "All articles"
+msgstr "Allar greinar"
+
+msgid "Article editor"
+msgstr "grein ritstjóri"
+
+msgid "Document editor"
+msgstr "Document ritstjóri"
+
+msgid "Apply changes"
+msgstr "Virkja breytingar"
+
+msgid "Save changes?"
+msgstr "Vista breytingar?"
+
+msgid "published an article"
+msgstr "birti grein"
+
+msgid "Users"
+msgstr "Notendur"
+
+msgid "Shared With Me"
+msgstr "Deilt með mér"
+
+msgid "share"
+msgstr "Deila"
+
+msgid "Select Group Responsible"
+msgstr "Veldu Group Ábyrg"
+
+msgid "Create folder"
+msgstr "Búa möppu"
+
+msgid "Title must be at least 3 characters"
+msgstr "Titillinn verður að vera að minnsta kosti 3 stafir"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Free 10 GB , fjármál framkvæmdastjóri , fjárfesta mát , og mörg önnur ókeypis og eilífu"
+
+msgid "Best regards"
+msgstr "Bestu kveðjur"
+
+msgid "Updates in last 12 hours:"
+msgstr "Uppfærslur í síðustu 12 klst :"
+
+msgid "expense"
+msgstr "kostnað"
+
+msgid "Commentary on the event:"
+msgstr "Athugasemd um atburði:"
+
+msgid "Event place"
+msgstr "Event stað"
+
+msgid "Project was updated"
+msgstr "Verkefnið var uppfært"
+
+msgid "Project was created"
+msgstr "Verkefnið var búin"
+
+msgid "Project was closed"
+msgstr "Verkefnið var lokað"
+
+msgid "account"
+msgstr "reikningur"
+
+msgid "removed task"
+msgstr "fjarri verkefni"
+
+msgid "removed subproject"
+msgstr "fjarlægt subproject"
+
+msgid "Title can not be empty"
+msgstr "Titill má ekki vera autt"
+
+msgid "Do not select the type of event"
+msgstr "Ekki velja tegund samskipta"
+
+msgid "Error while saving comment"
+msgstr "Villa við vistun athugasemd"
+
+msgid "Save error: access denied"
+msgstr "Vista villa : aðgangi hafnað"
+
+msgid "Remains"
+msgstr "leifar"
+
+msgid "Time spent, h."
+msgstr "Tíma varið , h ."
+
+msgid "Emails"
+msgstr "tölvupóst"
+
+msgid "Meetings"
+msgstr "Fundir"
+
+msgid "All users"
+msgstr "Allir notendur"
+
+msgid "Category"
+msgstr "Category"
+
+msgid "Finance project"
+msgstr "Fjármál verkefni"
+
+msgid "Investment project"
+msgstr "fjárfestingarverkefni"
+
+msgid "Nature"
+msgstr "Nature"
+
+msgid "Data is empty"
+msgstr "Gögn er tóm"
+
+msgid "Visitors"
+msgstr "gestir"
+
+msgid "My profile"
+msgstr "Prófílinn minn"
+
+msgid "Sponsors"
+msgstr "Styrktaraðilar"
+
+msgid "Prior to completion"
+msgstr "Áður en lokið"
+
+msgid "Select"
+msgstr "Veldu"
+
+msgid "My groups"
+msgstr "hópar mínir"
+
+msgid "The invitation has been sent successfully"
+msgstr "Í boðinu hefur verið sendur"
+
+msgid "Username has already been invited to this project"
+msgstr "Username hefur þegar verið boðið í þetta verkefni"
+
+msgid "The user is the creator of the project"
+msgstr "Notandinn er höfundur verkefnisins"
+
+msgid "Provide full access"
+msgstr "Veita fullan aðgang"
+
+msgid "Select elements to provide access"
+msgstr "Veldu þætti til að veita aðgang"
+
+msgid "Select all"
+msgstr "Velja allt"
+
+msgid "User E-mail"
+msgstr "User E - mail"
+
+msgid "Click on the field to select a category"
+msgstr "Smelltu á sviði til að velja flokk"
+
+msgid "Invitation was deleted"
+msgstr "Boðið var eytt"
+
+msgid "Permission denied"
+msgstr "Aðgangi hafnað"
+
+msgid "Printed"
+msgstr "prentað"
+
+msgid "Incorrect Contractor email"
+msgstr "Rangt verktaka tölvupósti"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Viltu bæta verkefni að fjármagna framkvæmdastjóri ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Til að ljúka skráningunni vinsamlegast fyllið niður færni þína"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "An mail með frekari leiðbeiningum var sendur á netfangið þitt"
+
+msgid "Submit"
+msgstr "Senda"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Science"
+msgstr "Vísindi"
+
+msgid "Donation"
+msgstr "Safnast"
+
+msgid "Interests"
+msgstr "Áhugasvið"
+
+msgid "Driver"
+msgstr "Driver"
+
+msgid "Sportsman"
+msgstr "Sportsman"
+
+msgid "Businessman"
+msgstr "kaupsýslumaður"
+
+msgid "Accountant"
+msgstr "endurskoðandi"
+
+msgid "Engineer"
+msgstr "verkfræðingur"
+
+msgid "Soldier"
+msgstr "Soldier"
+
+msgid "Next"
+msgstr "næsta"
+
+msgid "Hide group"
+msgstr "fela hópur"
+
+msgid "groups created"
+msgstr "hópar búin"
+
+msgid "articles written"
+msgstr "greinar skrifaðar"
+
+msgid "These groups may be interesting for you"
+msgstr "Þessir hópar geta verið áhugavert fyrir þig"
+
+msgid "About Group"
+msgstr "um Group"
+
+msgid "view(s)"
+msgstr "Skoða ( s )"
+
+msgid "Favorite users"
+msgstr "uppáhalds notendur"
+
+msgid "No accounts"
+msgstr "engir reikningar"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook heimild mistókst."
+
+msgid "Authorization Required"
+msgstr "leyfis er krafist"
+
+msgid "You have to make a call:"
+msgstr "Þú þarft að hringja :"
+
+msgid "You have to send an email:"
+msgstr "Þú þarft að senda tölvupóst :"
+
+msgid "You have a meetup:"
+msgstr "Þú ert með Meetup :"
+
+msgid "You event :"
+msgstr "You Viðburður:"
+
+msgid "Participants:"
+msgstr "þátttakendur:"
+
+msgid "Search"
+msgstr "Leita"
+
+msgid "News"
+msgstr "Fréttir"
+
+msgid "Investments"
+msgstr "Fjárfestingar"
+
+msgid "Back to Cloud"
+msgstr "Til baka Cloud"
+
+msgid "Documents"
+msgstr "skjöl"
+
+msgid "Planet"
+msgstr "Planet"
+
+msgid "Group url"
+msgstr "url Group"
+
+msgid "Profile url"
+msgstr "Profile url"
+
+msgid "Already taken"
+msgstr "þegar tekið"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Að minnsta kosti 1 bréf og 3 stafir lengd krafist"
+
+msgid "Digit can not be the first character"
+msgstr "Stafa getur ekki verið fyrsta staf"
+
+msgid "Enter valid email address"
+msgstr "Sláðu gilt netfang"
+
+msgid "Enter your skills"
+msgstr "Sláðu færni þína"
+
+msgid "Enter your first name"
+msgstr "Sláðu inn eiginnafn þitt"
+
+msgid "Enter your last name"
+msgstr "Sláðu inn eftirnafn"
+
+msgid "Enter your first name and last name"
+msgstr "Sláðu fyrsta nafn þitt og eftirnafn"
+
+msgid "Your first name?"
+msgstr "Fyrsta nafnið þitt ?"
+
+msgid "Your last name?"
+msgstr "Eftirnafnið ?"
+
+msgid "What are your proficiencies?"
+msgstr "Hvað eru proficiencies þín ?"
+
+msgid "Select country"
+msgstr "Veldu land"
+
+msgid "Select user"
+msgstr "Veldu notanda"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Uppfylla draum þinn! Búa til og samstarf ."
+
+msgid "date moved from"
+msgstr "dagsetning flutt frá"
+
+msgid "work"
+msgstr "vinna"
+
+msgid "Conference"
+msgstr "Ráðstefna"
+
+msgid "personal"
+msgstr "persónulega"
+
+msgid "Holiday"
+msgstr "Holiday"
+
+msgid "Past"
+msgstr "Past"
+
+msgid "Future"
+msgstr "Future"
+
+msgid "Purchase"
+msgstr "Purchase"
+
+msgid "Personal events"
+msgstr "Private viðburðir"
+
+msgid "Conferences"
+msgstr "Fundur"
+
+msgid "Holidays"
+msgstr "Holidays"
+
+msgid "Sport events"
+msgstr "Íþróttaviðburðir"
+
+msgid "Tasks"
+msgstr "Verkefni"
+
+msgid "Other events"
+msgstr "Aðrir viðburðir"
+
+msgid "Set aside"
+msgstr "Skyndibitastaður"
+
+msgid "Set aside"
+msgstr "Frestaður"
+
+msgid "Time management"
+msgstr "Time Management"
+
+msgid "Delayed events"
+msgstr "Reiknuð viðburðir"
+
+msgid "Delayed"
+msgstr "Frestaður"
+
+msgid "Bind to"
+msgstr "Úthluta"
+
+msgid "answered your comment to"
+msgstr "Ég sagði (a) Skrifa grein"
+
+msgid "commented your article"
+msgstr "Ég sagði á greininni"
+
+msgid "You\'ve answered on comment to"
+msgstr "Þú svaraði athugasemdinni á grein"
+
+msgid "You\'ve commented an article"
+msgstr "Þú sagði á grein"
+
+msgid "Terms and Conditions"
+msgstr "Skilmálar og skilyrði"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Með því að smella á \"skrá sig\" þú sammála okkar og viðurkenna að þú hafir lesið okkar"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Join samfélagi skapandi fólk frá öllum heimshornum! Þú færð: Fjárfesting í hugmyndum þínum, tækifæri til að safna liði sínu, að vinna í hóp, fjármálastjóra, stjórna tíma sínum, 2 gígabæta í geymslu og fleira. Og það er ókeypis!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Því miður, en síðan sem þú ert að leita að er ekki til. Ef þú heldur að til að kenna okkur að hafa samband við okkur"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "COMMON"
+msgstr "Total"
+
+msgid "My events"
+msgstr "Viðburðir mínir"
+
+msgid "Job opening"
+msgstr "New sætið"
+
+msgid "Employment"
+msgstr "Tegund vinnu"
+
+msgid "Working hours"
+msgstr "Opnunartími"
+
+msgid "City"
+msgstr "City"
+
+msgid "Wages"
+msgstr "Laun"
+
+msgid "Currency"
+msgstr "Gjaldmiðill"
+
+msgid "Experience"
+msgstr "Reynsla"
+
+msgid "Full-time"
+msgstr "Full atvinna"
+
+msgid "Part-time"
+msgstr "Hlutastarfi"
+
+msgid "Project emplyment (опечатка на сайте)"
+msgstr "Project / Temporary"
+
+msgid "Volunteer"
+msgstr "Sjálfboðaliðastarf"
+
+msgid "Internship"
+msgstr "Starfsþjálfun"
+
+msgid "Full day"
+msgstr "Full Time"
+
+msgid "Shifts"
+msgstr "Skipti áætlun"
+
+msgid "Flexible shifts"
+msgstr "Sveigjanlegur tímaáætlun"
+
+msgid "Remote work"
+msgstr "Remote vinna"
+
+msgid "Rotational basis"
+msgstr "Shift aðferð"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Ertu viss um að þú viljir eyða ummælum?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Ertu viss um að þú viljir eyða þessu verkefni?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Ertu viss um að þú viljir eyða þessari undir-verkefni?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Þú hefur sótt til félagsins í stöðu. Vinsamlegast gakktu úr skugga um að"
+
+msgid "Your request to for job has been rejected"
+msgstr "Beiðni þín til félagsins stöðu hefur verið hafnað"
+
+msgid "Your request to for job has been accepted"
+msgstr "Beiðni þín um að félaginu til stöðu var samþykkt"
+
+msgid "profile is completed"
+msgstr "Sniðið er fullur"
+
+msgid "Use account"
+msgstr "Notað reikninginn"
+
+msgid "$/hr"
+msgstr "$ / Klst"
+
+msgid "Finance category"
+msgstr "Financial flokki"
+
+msgid "No projects"
+msgstr "Engar verkefni"
+
+msgid "Bind to finances"
+msgstr "Úthluta fjárhagslega verkefni"
+
+msgid "Preview"
+msgstr "View"
+
+msgid "Download"
+msgstr "Sækja"
+
+msgid "Save to my cloud"
+msgstr "Afritaðu geymsla"
+
+msgid "File successfully saved to your cloud"
+msgstr "File tókst geymd í geymsla þinn"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Vista þessa skrá í geymsla þinn?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Veldu flokk grein"
+
+msgid "Type something"
+msgstr "Skrifa eitthvað"
+
+msgid "Founded users"
+msgstr "Fundust notendur"
+
+msgid "Founded articles"
+msgstr "Fann grein"
+
+msgid "Founded groups"
+msgstr "Stofnað hópur"
+
+msgid "What are your skills?"
+msgstr "Hvað eru færni þína?"
+
+msgid "Select at least 2 interests"
+msgstr "Veldu að minnsta kosti 2 áhuga"
+
+msgid "Need more interests"
+msgstr "Ekki nógu áhuga valinn"
+
+msgid "What are you interesting in?"
+msgstr "Hvað ert þú áhuga á?"
+
+msgid "You have no dialogs"
+msgstr "Þú ert ekki samræður"
+
+msgid "Usage Stats"
+msgstr "Ríki"
+
+msgid "Founded files"
+msgstr "Skrár Fann"
+
+msgid "Big tiles"
+msgstr "Stór bolta"
+
+msgid "Small tiles"
+msgstr "Lítil flísar"
+
+msgid "Table view"
+msgstr "Tafla skoða"
+
+msgid "Root folder"
+msgstr "Rótarmappa"
+
+msgid "My files"
+msgstr "Skrár minn"
+
+msgid "Save as draft"
+msgstr "Vista sem uppkast"
+
+msgid "Buy More Space"
+msgstr "Kaupa meira pláss"
+
+msgid "Buy"
+msgstr "Kaupa"
+
+msgid "You have been invited to group as"
+msgstr "Þér hefur verið boðið að hópnum sem"
+
+msgid "User wants to join your group"
+msgstr "Sem notandinn vill taka þátt í hópnum þínum"
+
+msgid "Section is coming soon!"
+msgstr "Kafla í vinnslu!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Views í síðustu 24 klst:"
+
+msgid "Task was updated"
+msgstr "Verkefni hefur verið uppfærð"
+
+msgid "Task was closed"
+msgstr "Áskorunin hefur verið lokað"
+
+msgid "Task was created"
+msgstr "The verkefni var sett"
+
+msgid "Current balance"
+msgstr "Núverandi staða"
+
+msgid "Add funds"
+msgstr "Bæta"
+
+msgid "Pay"
+msgstr "Checkout"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Þú hefur farið yfir fjölda innskráningu tilraunir. Þú ert læst í 15 mínútur"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Vinsamlegast staðfestu tölvupóstinn þinn. Bréfið sent til þín í pósti."
+
+msgid "Resend confirmation email"
+msgstr "Senda staðfestingu aftur"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB á mánuði"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Aka 10 GB á ári"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB á hverju ári"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1TB mánaðarlega"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Aka 1 TB hverju ári"
+
+msgid "Project members monthly"
+msgstr "Þátttakendur verkefnisins mánaðarlega"
+
+msgid "Project members yearly"
+msgstr "Þátttakendur í verkefninu árlega"
+
+msgid "Member(s) yearly"
+msgstr "Member (s) á ári"
+
+msgid "Member(s) monthly"
+msgstr "Member (s) á mánaðarlega"
+
+msgid "Authorized"
+msgstr "Leyft"
+
+msgid "Authorization expired"
+msgstr "Heimildin rennur út"
+
+msgid "Processor declined"
+msgstr "Hafnað vinnslukerfi"
+
+msgid "Gateway rejected"
+msgstr "Hafnað greiðslu hlið"
+
+msgid "Failed"
+msgstr "Villa"
+
+msgid "Voided"
+msgstr "Ógilda"
+
+msgid "Submitted for settlement"
+msgstr "Sendir til að skrá"
+
+msgid "Settlement declined"
+msgstr "Skólasókn hefur verið hafnað"
+
+msgid "Settlement pending"
+msgstr "Bíður innritun"
+
+msgid "Verified"
+msgstr "Köflóttur"
+
+msgid "Pending"
+msgstr "Bíður"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Past Due"
+msgstr "Útrunnið"
+
+msgid "Expired"
+msgstr "Endaði"
+
+msgid "Marketer"
+msgstr "Markaður"
+
+msgid "India"
+msgstr "India"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "South Korea"
+msgstr "South Korea"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Ukraine"
+msgstr "Úkraína"
+
+msgid "Belarus"
+msgstr "Hvíta"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Turkey"
+msgstr "Kalkúnn"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Germany"
+msgstr "Þýskaland"
+
+msgid "Italy"
+msgstr "Ítalía"
+
+msgid "Netherlands"
+msgstr "Holland"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "United Kingdom"
+msgstr "Great Britain"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "United States"
+msgstr "United States"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+msgid "Canada"
+msgstr "Egyptaland"
+
+msgid "Russia"
+msgstr "Russia"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Á því augnabliki, það var ekki ein viðskipti"
+
+msgid "Build a dream"
+msgstr "Byggja draumur"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Lesa meira áhugaverðar greinar - fara frjáls skráning"
+

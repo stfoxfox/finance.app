@@ -1,0 +1,4982 @@
+# Русский translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Русский <support@konstruktor.com>\n"
+"Language: Русский\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "Имя пользователя"
+
+msgid "Invalid username or password, try again"
+msgstr "Неправильное имя пользователя или пароль. Попробуйте еще раз."
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Ideas"
+msgstr "Идеи"
+
+msgid "Home"
+msgstr "Главная"
+
+msgid "or"
+msgstr "или"
+
+msgid "You must log in to access this page"
+msgstr "Авторизируйтесь для входа на страницу"
+
+msgid "Log into your account"
+msgstr "Войти в свой аккаунт"
+
+msgid "Your session expired. Please, re-login"
+msgstr "Авторизация истекла. Пож-ста, авторизуйтесь снова"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Save version"
+msgstr "Сохранить версию"
+
+msgid "Headquarters"
+msgstr "Головной офис"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Apply"
+msgstr "Применить"
+
+msgid "Apply "
+msgstr "Оставить заявку"
+
+msgid "Uploading files…"
+msgstr "Загрузка файлов..."
+
+msgid "Set as main"
+msgstr "Назначить осн."
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Original image"
+msgstr "Оригинальное изображение"
+
+msgid "Uploaded"
+msgstr "Загружено"
+
+msgid "File name"
+msgstr "Имя файла"
+
+msgid "File size"
+msgstr "Размер файла"
+
+msgid "Resolution"
+msgstr "Разрешение"
+
+msgid "Enlarge"
+msgstr "Увеличить"
+
+msgid "Links"
+msgstr "Ссылки"
+
+msgid "Original size"
+msgstr "Оригинальный размер"
+
+msgid "For editor"
+msgstr "Для редактора"
+
+msgid "Resize"
+msgstr "Изменить размеры"
+
+msgid "Width"
+msgstr "Ширина"
+
+msgid "Height"
+msgstr "Высота"
+
+msgid "Media URL"
+msgstr "Media URL"
+
+msgid "Add a note"
+msgstr "Добавить запись"
+
+msgid "Show filter settings"
+msgstr "Показать настройки фильтра"
+
+msgid "Edit note"
+msgstr "Редактировать запись"
+
+msgid "Delete note"
+msgstr "Удалить запись"
+
+msgid "Delete checked notes"
+msgstr "Удалить просмотренные записи"
+
+msgid "Dashboard"
+msgstr "Панель инструментов"
+
+msgid "User name"
+msgstr "Имя пользователя"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Remember me"
+msgstr "Запомнить"
+
+msgid "Login"
+msgstr "Вход"
+
+msgid "Clean image cache"
+msgstr "Очистить кэш изображений"
+
+msgid "Processing request..."
+msgstr "Обработка запроса..."
+
+msgid "CMS Development"
+msgstr "Разработка CMS"
+
+msgid "Admin Home Page"
+msgstr "Главная страница Админа"
+
+msgid "Open Home page in a new tab"
+msgstr "Открыть главную страницу сайта в новой вкладке"
+
+msgid "Go to Site"
+msgstr "Перейти к сайту"
+
+msgid "Log out"
+msgstr "Выход"
+
+msgid "Send"
+msgstr "Отправить"
+
+msgid "General"
+msgstr "Общее"
+
+msgid "Title"
+msgstr "Название"
+
+msgid "Teaser"
+msgstr "Анонс"
+
+msgid "Published"
+msgstr "Опубликовано"
+
+msgid "Unpublished"
+msgstr "Не опубликовано"
+
+msgid "Featured"
+msgstr "Особое"
+
+msgid "Active"
+msgstr "Активен"
+
+msgid "Field is mandatory"
+msgstr "Поле обязательно для заполнения"
+
+msgid "Sort Order"
+msgstr "Сортировка"
+
+msgid "Upload"
+msgstr "Загрузить"
+
+msgid "Loading..."
+msgstr "Загрузка..."
+
+msgid "Jan"
+msgstr "Янв"
+
+msgid "Feb"
+msgstr "Фев"
+
+msgid "Mar"
+msgstr "Мар"
+
+msgid "Apr"
+msgstr "Апр"
+
+msgid "May"
+msgstr "Май"
+
+msgid "Jul"
+msgstr "Июл"
+
+msgid "Jun"
+msgstr "Июн"
+
+msgid "Aug"
+msgstr "Авг"
+
+msgid "Sep"
+msgstr "Сен"
+
+msgid "Oct"
+msgstr "Окт"
+
+msgid "Nov"
+msgstr "Ноя"
+
+msgid "Dec"
+msgstr "Дек"
+
+msgid "Product is available to order"
+msgstr "Продукт доступен для заказа"
+
+msgid "Product does not exist"
+msgstr "Такого продукта не существует"
+
+msgid "Incorrect request"
+msgstr "Неверный запрос"
+
+msgid "Products"
+msgstr "Продукты"
+
+msgid "Product types"
+msgstr "Выбор продукта"
+
+msgid "Contractors"
+msgstr "Контрагенты"
+
+msgid "Contractor"
+msgstr "Контрагент"
+
+msgid "Orders"
+msgstr "Заказы"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "Новый заказ"
+
+msgid "My orders"
+msgstr "Мои заказы"
+
+msgid "Add funds"
+msgstr "Пополнить баланс"
+
+msgid "Admin"
+msgstr "Администратор"
+
+msgid "Incorrect event ID"
+msgstr "Неверный ID"
+
+msgid "Tech parameters"
+msgstr "Тех. параметры"
+
+msgid "Edit contractor"
+msgstr "Редактировать контрагента"
+
+msgid "Create contractor"
+msgstr "Создать контрагента"
+
+msgid "Edit question"
+msgstr "Редактировать вопрос"
+
+msgid "Create question"
+msgstr "Задать вопрос"
+
+msgid "Edit order"
+msgstr "Изменить заказ"
+
+msgid "Create order"
+msgstr "Создать заказ"
+
+msgid "Edit product"
+msgstr "Изменить продукт"
+
+msgid "Create product"
+msgstr "Новый продукт"
+
+msgid "Edit product type"
+msgstr "Изменить тип продукта"
+
+msgid "Create product type"
+msgstr "Создать новый продукт"
+
+msgid "You have received a file"
+msgstr "Вы получили файл"
+
+msgid "You received a file from "
+msgstr "Вы получили файл от "
+
+msgid "File upload completed"
+msgstr "Файл загружен"
+
+msgid "Min.qty"
+msgstr "Мин.кол-во"
+
+msgid "Minimal quantity"
+msgstr "Минимальное количество"
+
+msgid "Max.qty"
+msgstr "Макс.кол-во"
+
+msgid "items"
+msgstr "шт."
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Contact person"
+msgstr "Контактное лицо"
+
+msgid "Email"
+msgstr "Ваш email"
+
+msgid "Contractor phone"
+msgstr "Телефон контрагента"
+
+msgid "Contractor name"
+msgstr "Имя контрагента"
+
+msgid "Contractor details"
+msgstr "Информация о контрагенте"
+
+msgid "Order ID"
+msgstr "Номер заказа"
+
+msgid "Sum"
+msgstr "Итого"
+
+msgid "Choose payment system to reload your balance"
+msgstr "Выберите подходящую систему для пополнения баланса"
+
+msgid "Reload amount"
+msgstr "Сумма пополнения"
+
+msgid "Paid"
+msgstr "Оплачено"
+
+msgid "Shipped"
+msgstr "Доставлено"
+
+msgid "- No products in this order -"
+msgstr "- Нет продуктов в текущем заказе"
+
+msgid "month"
+msgstr "месяц"
+
+msgid "User not found"
+msgstr "Пользователь не найден"
+
+msgid "Finished"
+msgstr "Сделано"
+
+msgid "Confirmed accomplishments"
+msgstr "Подтвержденные достижения"
+
+msgid "Remove achievement"
+msgstr "Удалить текущую операцию"
+
+msgid "Headquarters"
+msgstr "Головной офис"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Site URL and email"
+msgstr "Название сайта и email"
+
+msgid "Remove address"
+msgstr "Удалить адрес"
+
+msgid "Members"
+msgstr "Участники"
+
+msgid "members"
+msgstr "участники"
+
+msgid "member"
+msgstr "участник"
+
+msgid "Payment required"
+msgstr "Требуется осуществить платеж"
+
+msgid "Shipping"
+msgstr "Доставка"
+
+msgid "Completed"
+msgstr "Готово"
+
+msgid "Find user..."
+msgstr "Найти пользователя..."
+
+msgid "Order"
+msgstr "Сделать заказ"
+
+msgid "Find group..."
+msgstr "Найти группу..."
+
+msgid "Find user or group..."
+msgstr "Найти пользователя или сообщество..."
+
+msgid "No item found"
+msgstr "Нет записей"
+
+msgid "year"
+msgstr "год"
+
+msgid "years"
+msgstr "года"
+
+msgid "years "
+msgstr "лет "
+
+msgid "Send message"
+msgstr "Отправить сообщение"
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "Press Enter to send message"
+msgstr "Чтобы отправить сообщение, нажмите Enter"
+
+msgid "Press CTRL+Enter to send message"
+msgstr "Чтобы отправить сообщение, нажмите CTRL+Enter"
+
+msgid "Processing file(s)..."
+msgstr "Обработка файла(ов)..."
+
+msgid "Group settings"
+msgstr "Настройки группы"
+
+msgid "Create group"
+msgstr "Создать сообщество"
+
+msgid "Group has been successfully saved"
+msgstr "Группа успешно сохранена"
+
+msgid "Group title"
+msgstr "Название группы"
+
+msgid "Group video"
+msgstr "Видео группы"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Your role in group"
+msgstr "Ваш статус в группе"
+
+msgid "Role"
+msgstr "Роль"
+
+msgid "Photo or video gallery"
+msgstr "Фото или видео галерея"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Загрузить видео"
+
+msgid "Add group address"
+msgstr "Добавить адрес группы"
+
+msgid "Group articles"
+msgstr "Статьи сообщества"
+
+msgid "No addresses yet"
+msgstr "Адресов еще нет"
+
+msgid "Add group achievement"
+msgstr "Добавить достижения группы"
+
+msgid "No achievements yet"
+msgstr "Достижений пока нет"
+
+msgid "Please confirm your intent to delete user"
+msgstr "Вы уверены, что хотите удалить пользователя"
+
+msgid "Add member"
+msgstr "Добавить пользователя"
+
+msgid "Please confirm your intent to delete this record"
+msgstr "Вы уверены, что хотите удалить эту запись?"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Вы уверены, что хотите уйти с этой страницы?"
+
+msgid "Join this group"
+msgstr "Вступить в группу"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Ваше приглашение отправлено администратору группы"
+
+msgid "All addresses"
+msgstr "Все адреса"
+
+msgid "Collapse"
+msgstr "Свернуть"
+
+msgid "Achievements"
+msgstr "Достижения"
+
+msgid "Show more"
+msgstr "Показать больше"
+
+msgid "More"
+msgstr "Больше"
+
+msgid "Less"
+msgstr "Меньше"
+
+msgid "Pending"
+msgstr "Не подтвержденные"
+
+msgid "Approved"
+msgstr "Утвержденные"
+
+msgid "Rejected"
+msgstr "Отклоненые"
+
+msgid "Team"
+msgstr "Команда"
+
+msgid "Projects"
+msgstr "Проекты"
+
+msgid "New project"
+msgstr "Новый проект"
+
+msgid "Project has not been created yet"
+msgstr "Проект еще не создан"
+
+msgid "Messanger"
+msgstr "Мессенджер"
+
+msgid "Balance"
+msgstr "Баланс"
+
+msgid "Main page"
+msgstr "Главная страница"
+
+msgid "Upload image"
+msgstr "Загрузить фото"
+
+msgid "Timeline"
+msgstr "Мое время"
+
+msgid "Day"
+msgstr "День"
+
+msgid "Week"
+msgstr "Неделя"
+
+msgid "Project settings"
+msgstr "Настройки проекта"
+
+msgid "Create project"
+msgstr "Создать проект"
+
+msgid "Project has been successfully saved"
+msgstr "Проект успешно сохранен"
+
+msgid "Project title"
+msgstr "Название проекта"
+
+msgid "Deadline"
+msgstr "Дедлайн"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Manager"
+msgstr "Менеджер"
+
+msgid "Assigned to"
+msgstr "Назначен"
+
+msgid "Discussion"
+msgstr "Обсуждение"
+
+msgid "Task was created"
+msgstr "Задача создана"
+
+msgid "Task was closed"
+msgstr "Задача закрыта"
+
+msgid "Go to Group"
+msgstr "Перейти в группу"
+
+msgid "Completed"
+msgstr "Выполнено"
+
+msgid "Last updates"
+msgstr "Последние обновления"
+
+msgid "Project is archived"
+msgstr "Данный проект закрыт"
+
+msgid "No open tasks"
+msgstr "Нет открытых задач"
+
+msgid "New task"
+msgstr "Новая задача"
+
+msgid "Closed tasks"
+msgstr "Закрытые задачи"
+
+msgid "Subprojects"
+msgstr "Подпроекты"
+
+msgid "Subproject"
+msgstr "Подпроект"
+
+msgid "Add subproject"
+msgstr "Добавить подпроект"
+
+msgid "Add task"
+msgstr "Добавить задачу"
+
+msgid "Sun"
+msgstr "ВС"
+
+msgid "Mon"
+msgstr "ПН"
+
+msgid "Tue"
+msgstr "ВТ"
+
+msgid "Wed"
+msgstr "СР"
+
+msgid "Thur"
+msgstr "ЧТ"
+
+msgid "Fri"
+msgstr "ПТ"
+
+msgid "Sat"
+msgstr "СБ"
+
+msgid "Sunday"
+msgstr "Воскресенье"
+
+msgid "Monday"
+msgstr "Понедельник"
+
+msgid "Tuesday"
+msgstr "Вторник"
+
+msgid "Wednesday"
+msgstr "Среда"
+
+msgid "Thursday"
+msgstr "Четверг"
+
+msgid "Friday"
+msgstr "Пятница"
+
+msgid "Saturday"
+msgstr "Суббота"
+
+msgid "Event title"
+msgstr "Название события"
+
+msgid "Event description"
+msgstr "Описание события"
+
+msgid "I am a registered user"
+msgstr "Я зарегистрировался на этом сайте"
+
+msgid "Latest created groups"
+msgstr "Последние созданные группы"
+
+msgid "You joined this group as "
+msgstr "Вы присоединились к группе как "
+
+msgid "You received a request to join the group"
+msgstr "Вы получили запрос встпить в группу"
+
+msgid "Last update"
+msgstr "Сайт обновлен"
+
+msgid "Site is under construction"
+msgstr "Происходит обновление сайта"
+
+msgid "Latest registered users"
+msgstr "Последние зарегистрированные пользователи"
+
+msgid "User settings"
+msgstr "Настройки пользователя"
+
+msgid "Technical support"
+msgstr "Тех.поддержка"
+
+msgid "Support"
+msgstr "Тех.поддержка"
+
+msgid "Edit email"
+msgstr "Изменить email"
+
+msgid "Change password"
+msgstr "Изменить пароль"
+
+msgid "User has been successfully saved"
+msgstr "Пользователь успешно сохранен"
+
+msgid "Full name"
+msgstr "Имя и фамилия"
+
+msgid "My video"
+msgstr "Мое видео"
+
+msgid "Skills"
+msgstr "Навыки"
+
+msgid "Birthday"
+msgstr "Дата рождения"
+
+msgid "Country of residence"
+msgstr "Страна проживания"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "Zip Code"
+msgstr "Индекс"
+
+msgid "City/town of residence"
+msgstr "Город проживания"
+
+msgid "University/college"
+msgstr "Университет"
+
+msgid "University/college photo"
+msgstr "Фото университета"
+
+msgid "Add user accomplishments"
+msgstr "Добавить достижения"
+
+msgid "Interface language"
+msgstr "Язык интерфейса"
+
+msgid "How other people see this page"
+msgstr "Как остальные пользователи видят эту страницу"
+
+msgid "Video with me"
+msgstr "Видео со мной"
+
+msgid "Groups"
+msgstr "Сообщества"
+
+msgid "Groups "
+msgstr "Сообщества"
+
+msgid "Group"
+msgstr "Сообщество"
+
+msgid "Group edit"
+msgstr "Редактирование сообщесва"
+
+msgid "Registered today"
+msgstr "Зарегистрированы сегодня"
+
+msgid "Qty"
+msgstr "Кол-во"
+
+msgid "No registered users yet"
+msgstr "Нет зарегистрированных пользователей"
+
+msgid "Total"
+msgstr "Всего"
+
+msgid "Registered total"
+msgstr "Всего зарегистрировано"
+
+msgid "You received a file"
+msgstr "Вы получили файл"
+
+msgid "You were invited into this room"
+msgstr "Вас пригласили в эту комнату"
+
+msgid "Request is being processed"
+msgstr "Обработка запроса..."
+
+msgid "Fax"
+msgstr "Факс"
+
+msgid "Messenger"
+msgstr "Чат"
+
+msgid "New subproject"
+msgstr "Новый подпроект"
+
+msgid "messages written."
+msgstr "сообщений написано."
+
+msgid "projects created by groups."
+msgstr "проектов создано на основе сообществ."
+
+msgid "users registered on site."
+msgstr "пользователей зарегистрировано на сайте."
+
+msgid "New email"
+msgstr "Новый email"
+
+msgid "Confirm email"
+msgstr "Подтвердить email"
+
+msgid "New password"
+msgstr "Новый пароль"
+
+msgid "Confirm password"
+msgstr "Подтвердить пароль"
+
+msgid "Occupation"
+msgstr "Специальность"
+
+msgid "Timezone"
+msgstr "Часовой пояс"
+
+msgid "Answer"
+msgstr "Ответить"
+
+msgid "Articles"
+msgstr "Публикации"
+
+msgid "Article"
+msgstr "Статья"
+
+msgid "Video-article"
+msgstr "Видео-статья"
+
+msgid "Find article..."
+msgstr "Найти статью..."
+
+msgid "Politics"
+msgstr "Политика"
+
+msgid "Economy"
+msgstr "Экономика"
+
+msgid "Community"
+msgstr "Сообщество"
+
+msgid "Culture"
+msgstr "Культура"
+
+msgid "Sports"
+msgstr "Спорт"
+
+msgid "Startup"
+msgstr "Стартапы"
+
+msgid "Hi-tech"
+msgstr "Хай-тек"
+
+msgid "Cars"
+msgstr "Авто"
+
+msgid "Tattoo"
+msgstr "Татуировки"
+
+msgid "Fashion"
+msgstr "Мода"
+
+msgid "Games"
+msgstr "Игры"
+
+msgid "Health"
+msgstr "Медицина"
+
+msgid "Weapon"
+msgstr "Оружие"
+
+msgid "Astronomy"
+msgstr "Астрономия"
+
+msgid "Other"
+msgstr "Разное"
+
+msgid "All articles"
+msgstr "Все публикации"
+
+msgid "All publications"
+msgstr "Все публикации"
+
+msgid "Article editor"
+msgstr "Редактор статей"
+
+msgid "Document editor"
+msgstr "Редактор документов"
+
+msgid "Invalid media file"
+msgstr "некорректный медиа-файл"
+
+msgid "No articles in this category yet"
+msgstr "В этой категории пока нет статей"
+
+msgid "Back to profile"
+msgstr "Вернуться к профилю"
+
+msgid "View article"
+msgstr "Просмотр статьи"
+
+msgid "Edit article"
+msgstr "Изменить статью"
+
+msgid "Create publication"
+msgstr "Создать публикацию"
+
+msgid "Article title"
+msgstr "Заголовок статьи"
+
+msgid "Article section"
+msgstr "Категория статьи"
+
+msgid "Choose image"
+msgstr "Выбрать фото"
+
+msgid "Save image"
+msgstr "Сохранить фото"
+
+msgid "Show more..."
+msgstr "Показать еще..."
+
+msgid "Create"
+msgstr "Создать"
+
+msgid "Edit"
+msgstr "Изменить"
+
+msgid "Apply changes"
+msgstr "Применить изменения"
+
+msgid "Save changes?"
+msgstr "Сохранить изменения?"
+
+msgid "Project"
+msgstr "Проект"
+
+msgid "Team"
+msgstr "Команда"
+
+msgid "A new article was published"
+msgstr "Опубликована новая статья"
+
+msgid "published an article"
+msgstr "опубликовал статью"
+
+msgid "You joined this project"
+msgstr "Вы вступили в проект"
+
+msgid "Enter your information in the User settings"
+msgstr "Внесите свои данные в настройках профиля"
+
+msgid "Communities"
+msgstr "Сообщества"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Видеопрезентация моих достижений"
+
+msgid "My articles"
+msgstr "Мои статьи"
+
+msgid "User"
+msgstr "Пользователь"
+
+msgid "Users"
+msgstr "Пользователи"
+
+msgid "Users "
+msgstr "Люди"
+
+msgid "Add new list"
+msgstr "Добавить новый список"
+
+msgid "List title"
+msgstr "Название списка"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Add to favorites"
+msgstr "В избранные"
+
+msgid "Delete from favorites"
+msgstr "Удалить из избранных"
+
+msgid "-- Select list --"
+msgstr "-- Список --"
+
+msgid "Subscriptions"
+msgstr "Подписки"
+
+msgid "Subscribe"
+msgstr "Подписаться"
+
+msgid "Unsubscribe"
+msgstr "Отписаться"
+
+msgid "General list"
+msgstr "Общий список"
+
+msgid "No users in this list"
+msgstr "В списке пока нет пользователей"
+
+msgid "Publish"
+msgstr "Опубликовать"
+
+msgid "Make private"
+msgstr "Скрыть"
+
+msgid "Add user"
+msgstr "Добавить пользователя"
+
+msgid "Shared with me"
+msgstr "Расшарено со мной"
+
+msgid "Create document"
+msgstr "Создать документ"
+
+msgid "Edit document"
+msgstr "Редактировать документ"
+
+msgid "View"
+msgstr "Просмотр"
+
+msgid "Document title"
+msgstr "Название документа"
+
+msgid "Find document..."
+msgstr "Найти документ..."
+
+msgid "Share your thoughts"
+msgstr "Поделиться своими мыслями"
+
+msgid "Leave your comment"
+msgstr "Оставьте свой комментарий"
+
+msgid "Accept"
+msgstr "Принять"
+
+msgid "Decline"
+msgstr "Отклонить"
+
+msgid "Add article"
+msgstr "Написать статью"
+
+msgid "Link to verified accomplishments"
+msgstr "Ссылка с подтверждением достижения"
+
+msgid "No articles here yet..."
+msgstr "Здесь пока нет статей..."
+
+msgid "Find file or folder..."
+msgstr "Найти файл или папку..."
+
+msgid "Sort by.."
+msgstr "Сортировать"
+
+msgid "By name"
+msgstr "По имени"
+
+msgid "By date"
+msgstr "По дате создания"
+
+msgid "Updated"
+msgstr "По дате обновления"
+
+msgid "Size"
+msgstr "По размеру"
+
+msgid "Type"
+msgstr "По типу"
+
+msgid "Move"
+msgstr "Перенести"
+
+msgid "File Manager"
+msgstr "Файловый менеджер"
+
+msgid "Share link"
+msgstr "Поделиться ссылкой"
+
+msgid "share"
+msgstr "поделиться"
+
+msgid "Responsible"
+msgstr "Ответственный"
+
+msgid "Select Group Responsible"
+msgstr "Выберите ответственного группы"
+
+msgid "Performer"
+msgstr "Исполнитель"
+
+msgid "New Folder"
+msgstr "Новая Папка"
+
+msgid "Create folder"
+msgstr "Создать папку"
+
+msgid "Folder name"
+msgstr "Название папки"
+
+msgid "By default"
+msgstr "По умолчанию"
+
+msgid "Back to group"
+msgstr "Вернуться к группе"
+
+msgid "year(s)"
+msgstr "лет, год(а)"
+
+msgid " January"
+msgstr " Января"
+
+msgid " February"
+msgstr " Февраля"
+
+msgid " March"
+msgstr " Марта"
+
+msgid " April"
+msgstr " Апреля"
+
+msgid " May"
+msgstr " Мая"
+
+msgid " June"
+msgstr " Июня"
+
+msgid " July"
+msgstr " Июля"
+
+msgid " August"
+msgstr " Августа"
+
+msgid " September"
+msgstr " Сентября"
+
+msgid " October"
+msgstr " Октября"
+
+msgid " November"
+msgstr " Ноября"
+
+msgid " December"
+msgstr " Декабря"
+
+msgid "Jan"
+msgstr "Янв"
+
+msgid "Feb"
+msgstr "Фев"
+
+msgid "Mar"
+msgstr "Мар"
+
+msgid "Apr"
+msgstr " Апр"
+
+msgid "May"
+msgstr "Май"
+
+msgid "Jun"
+msgstr "Июнь"
+
+msgid "Jul"
+msgstr "Июль"
+
+msgid "Aug"
+msgstr "Авг"
+
+msgid "Sep"
+msgstr "Сен"
+
+msgid "Oct"
+msgstr "Окт"
+
+msgid "Nov"
+msgstr "Ноя"
+
+msgid "Dec"
+msgstr "Дек"
+
+msgid "Recover Password"
+msgstr "Забыли пароль?"
+
+msgid "Log In"
+msgstr "Войти"
+
+msgid "Sign in"
+msgstr "Вход"
+
+msgid "Register"
+msgstr "Регистрация"
+
+msgid "First name"
+msgstr "Имя"
+
+msgid "Last name"
+msgstr "Фамилия"
+
+msgid "I agree with Terms of Use"
+msgstr "Я согласен с правилами"
+
+msgid "A confirmation email was sent to your email address."
+msgstr "Письмо с подтверждением отправлено Вам на почту."
+
+msgid "Thank you"
+msgstr "Спасибо"
+
+msgid "Incorrect login or password. Password must be at least 6 characters long"
+msgstr "Некорректный логин или пароль. Пароль должен быть не менее 6 символов"
+
+msgid "Password must be at least 6 characters long"
+msgstr "Пароль должен быть не менее 6 символов"
+
+msgid "Title must be at least 3 characters"
+msgstr "Название должно быть не менее 3 символов"
+
+msgid "Creative Environment"
+msgstr "Креативная среда"
+
+msgid "Free registration"
+msgstr "Бесплатная регистрация"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "10 ГБ бесплатно, финансовый менеджер, инвестиционный модуль и многое другое бесплатно и навсегда"
+
+msgid "You will get: investments in your ideas, financial manager, work in groups, timeline control, 2 GB cloud, and many other things. And everything is free."
+msgstr "Вы получите: инвестиции в Ваши идеи, финансовый менеджер, работу в группах, управление временем, 2 гигабайта в хранилище и многое другое. И все это бесплатно."
+
+msgid "your %s"
+msgstr "ваш %s"
+
+msgid "With best regards"
+msgstr "С найлучшими пожеланиями"
+
+msgid "Updates in last 12 hours:"
+msgstr "Обновления за последние 12 часов:"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Вам должно быть не менее 13 лет, что бы иметь возможность пользоваться данным сервисом"
+
+msgid "Order status"
+msgstr "Статус заказа"
+
+msgid "Processing order"
+msgstr "Обработка заказа"
+
+msgid "Payment required"
+msgstr "Требует оплаты"
+
+msgid "Shipping"
+msgstr "Поставка"
+
+msgid "Completed"
+msgstr "Готов"
+
+msgid "Thank you for your payment"
+msgstr "Спасибо за ваш платеж"
+
+msgid "Your payment has been cancelled"
+msgstr "Ваш платеж был отменен"
+
+msgid "page"
+msgstr "стр."
+
+msgid "Rent period"
+msgstr "Срок аренды"
+
+msgid "Total per month"
+msgstr "Итого, месяц"
+
+msgid "Order items"
+msgstr "Состав заказа"
+
+msgid "No records found"
+msgstr "Нет записей"
+
+msgid "User with this email already exists"
+msgstr "Пользователь с таким адресом уже существует"
+
+msgid "Folder or file with this name already exists in destination folder"
+msgstr "Файл или папка с таким именем уже существуют"
+
+msgid "Minimal quantity"
+msgstr "Минимальное количество"
+
+msgid "mob.spots"
+msgstr "моб.точек"
+
+msgid "stat.spots"
+msgstr "стац.точек"
+
+msgid "print copies"
+msgstr "копий печати"
+
+msgid "Terms of Use"
+msgstr "Правила пользования"
+
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+msgid "Find project..."
+msgstr "Найти проект..."
+
+msgid "New Project"
+msgstr "Новый Проект"
+
+msgid "Accounts"
+msgstr "Счета"
+
+msgid "Operations"
+msgstr "Операции"
+
+msgid "All accounts"
+msgstr "Все счета"
+
+msgid "All categories"
+msgstr "Все категории"
+
+msgid "Expenses"
+msgstr "Расход"
+
+msgid "Income"
+msgstr "Доход"
+
+msgid "Transfer"
+msgstr "Перевод"
+
+msgid "income"
+msgstr "доход"
+
+msgid "tax"
+msgstr "налог"
+
+msgid "percent"
+msgstr "процент"
+
+msgid "transfer"
+msgstr "перевод"
+
+msgid "Add operation"
+msgstr "Внести операцию"
+
+msgid "Select date"
+msgstr "Выберите дату"
+
+msgid "Select account"
+msgstr "Выберите счет"
+
+msgid "Month"
+msgstr "Месяц"
+
+msgid "Quarter"
+msgstr "Квартал"
+
+msgid "Year"
+msgstr "Год"
+
+msgid "From"
+msgstr "С"
+
+msgid "To"
+msgstr "По"
+
+msgid "Expense amount"
+msgstr "Сумма расхода"
+
+msgid "Categories"
+msgstr "Категории"
+
+msgid "Event comment:"
+msgstr "Комментарий к событию:"
+
+msgid "Event place:"
+msgstr "Место события:"
+
+msgid "Event place"
+msgstr "Место события"
+
+msgid "Comments"
+msgstr "Комментарии"
+
+msgid "Income amount"
+msgstr "Сумма дохода"
+
+msgid "Transfer amount"
+msgstr "Сумма перевода"
+
+msgid "From account"
+msgstr "Со счета"
+
+msgid "To account"
+msgstr "На счет"
+
+msgid "New Account"
+msgstr "Новый счет"
+
+msgid "New Category"
+msgstr "Новая категория"
+
+msgid "All"
+msgstr "Все"
+
+msgid "All time"
+msgstr "Все время"
+
+msgid "Name"
+msgstr "Название"
+
+msgid "Enter category name"
+msgstr "Введите название категории"
+
+msgid "Select type"
+msgstr "Выберите тип"
+
+msgid "Credit card"
+msgstr "Кредитная карта"
+
+msgid "Debit card"
+msgstr "Дебетная карта"
+
+msgid "Bank account"
+msgstr "Банковский счет"
+
+msgid "Cash"
+msgstr "Наличные"
+
+msgid "Balance is empty"
+msgstr "Нет данных"
+
+msgid "Statistic is empty"
+msgstr "Нет данных"
+
+msgid "Regular payments"
+msgstr "Регулярные платежи"
+
+msgid "Please confirm"
+msgstr "Вы уверены?"
+
+msgid "Please confirm your intent to close this project"
+msgstr "Вы уверены что хотите закрыть этот проект?"
+
+msgid "Project was "
+msgstr "Проект был "
+
+msgid "updated"
+msgstr "обновлён"
+
+msgid "created"
+msgstr "создан"
+
+msgid "closed"
+msgstr "закрыт"
+
+msgid "Project was deleted successfully"
+msgstr "Проект был успешно удален"
+
+msgid "Select currency"
+msgstr "Выберите валюту"
+
+msgid "Account"
+msgstr "Счет"
+
+msgid "account"
+msgstr "счет"
+
+msgid "List of orders"
+msgstr "Список заказов"
+
+msgid "Payments"
+msgstr "Оплата заказов"
+
+msgid "View order"
+msgstr "Просмотр заказа"
+
+msgid "No response from Printer API"
+msgstr "rus:No response from Printer API!"
+
+msgid "Bad response from Printer API"
+msgstr "rus:Bad response from Printer API!"
+
+msgid "User ID"
+msgstr "ID пользователя"
+
+msgid "Contact Person"
+msgstr "Контактное лицо"
+
+msgid "No orders to process"
+msgstr "Нет заказов для обработки"
+
+msgid "Insert"
+msgstr "Вставить"
+
+msgid "Article teaser image"
+msgstr "Изображение для анонса статьи"
+
+msgid "Invalid video URL. Leave blank or insert valid YouTube URL"
+msgstr "Неверная ссылка на видео. Оставьте поле пустым либо вставьте ссылку с Youtube"
+
+msgid "Please enter Contractor data"
+msgstr "Пож-ста, введите данные Контрагента"
+
+msgid "Distribute devices"
+msgstr "Распределить устройства"
+
+msgid "Quantity"
+msgstr "Количество"
+
+msgid "Devices left"
+msgstr "Осталось устройств"
+
+msgid "Distributed devices"
+msgstr "Распределенные устройства"
+
+msgid "You must enter quantity"
+msgstr "Вы должны введсти количество"
+
+msgid "All devices are distributed"
+msgstr "Все устройства рапределены"
+
+msgid "IP address"
+msgstr "rus:IP address!"
+
+msgid "Only for printer"
+msgstr "Только для принтеров"
+
+msgid "Counter"
+msgstr "Счетчик"
+
+msgid "You were excluded from this room"
+msgstr "Вы были исключены из этой комнаты"
+
+msgid "Compare"
+msgstr "Сравнить"
+
+msgid "Scheduled transactions"
+msgstr "Запланированная операция"
+
+msgid "Select sender account"
+msgstr "Выберите исходящий счет"
+
+msgid "Select recipient account"
+msgstr "Выберите входящий счет"
+
+msgid "Reports"
+msgstr "Отчеты"
+
+msgid "Goals"
+msgstr "Цели"
+
+msgid "Budgets"
+msgstr "Бюджеты"
+
+msgid "Enter user name or email..."
+msgstr "Введите имя пользователя или email..."
+
+msgid "Invitation sent"
+msgstr "Приглашение было выслано"
+
+msgid "Statistics"
+msgstr "Статистика"
+
+msgid "Updated site began operations"
+msgstr "Обновленный сайт начал работу"
+
+msgid "City of residence"
+msgstr "Город проживания"
+
+msgid "Edit favorites"
+msgstr "Редактировать избранное"
+
+msgid "Add favourites list"
+msgstr "Добавить в избранное"
+
+msgid "Category is required"
+msgstr "Необходимо заполнить 'Категории'"
+
+msgid "Type new category name and hit Enter"
+msgstr "Введите имя категории и нажмите Enter"
+
+msgid "You created an order"
+msgstr "Вы создали заказ"
+
+msgid "You received a device listed on this order"
+msgstr "Вы получили устройство согласно данного заказа"
+
+msgid "%s attached file to task %s"
+msgstr "%s прикрепил файл к задаче %s"
+
+msgid "member(s)"
+msgstr "участника(ов)"
+
+msgid "%s commented on task %s"
+msgstr "%s прокомментировал задачу %s"
+
+msgid "%s closed task %s"
+msgstr "%s закрыл задачу %s"
+
+msgid "%s removed task %s"
+msgstr "%s удалил задачу %s"
+
+msgid "%s created task %s"
+msgstr "%s создал задачу %s"
+
+msgid "%s created this project"
+msgstr "%s создал данный проект"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s создал подпроект \"%s\""
+
+msgid "%s removed subproject \"%s\""
+msgstr "%s удалил подпроект \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s закрыл проект \"%s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s закрыл подпроект \"%s\""
+
+msgid "This field must be filled in"
+msgstr "Это поле не может быть пустым"
+
+msgid "Document with this name already exists"
+msgstr "Документ с таким именем уже существует"
+
+msgid "Wait for image to finish uploading"
+msgstr "Дождитесь завершения загрузки изображения"
+
+msgid "Video"
+msgstr "Видео"
+
+msgid "Message text is required"
+msgstr "Сообщение не может быть пустым"
+
+msgid "Title can not be empty"
+msgstr "Название не может быть пустым"
+
+msgid "Event type not selected"
+msgstr "Не выбран тип события"
+
+msgid "Error while saving comment"
+msgstr "Ошибка при сохранении комментария"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Created"
+msgstr "Создано"
+
+msgid "No data"
+msgstr "Нет данных"
+
+msgid "Confirm transaction removal"
+msgstr "Вы действительно хотите удалить операцию"
+
+msgid "Do you really want to delete transaction"
+msgstr "Вы действительно хотите удалить операцию"
+
+msgid "Project with this name already exists"
+msgstr "Проект с таким именем уже существует"
+
+msgid "Account is not found"
+msgstr "Счет не найден"
+
+msgid "Currency selection is required"
+msgstr "Необходимо выбрать валюту"
+
+msgid "error while deleting document"
+msgstr "Ошибка удаления документа"
+
+msgid "Expenses"
+msgstr "Затраты"
+
+msgid "You invited user \"%s\" to this room"
+msgstr "Вы пригласили пользователя \"%s\" в эту комнату"
+
+msgid "User \"%s\" joined this room"
+msgstr "Пользователь \"%s\" присоединился к этой комнате"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Вы исключили пользователя \"%s\" из этой комнаты"
+
+msgid "User \"%s\" left this room"
+msgstr "Пользователь \"%s\" покинул эту комнату"
+
+msgid "Add account"
+msgstr "Добавить счёт"
+
+msgid "Requested page is not found"
+msgstr "Запрашиваемая страница не найдена"
+
+msgid "Save error: access denied"
+msgstr "Ошибка при сохранении: доступ запрещён"
+
+msgid "Document"
+msgstr "Документ"
+
+msgid "Table"
+msgstr "Таблица"
+
+msgid "file(s)"
+msgstr "файло(ов)"
+
+msgid "Residue"
+msgstr "Остаток"
+
+msgid "Result is empty"
+msgstr "Нет данных"
+
+msgid "Total amount for %s month is %s"
+msgstr "Конечная сумма %s за %s мес"
+
+msgid "You are required to deposit %s monthly to associated account"
+msgstr "Ежемесячно нужно откладывать на связанный счет по %s"
+
+msgid "Start"
+msgstr "Старт"
+
+msgid "finish"
+msgstr "финиш"
+
+msgid "Thu"
+msgstr "ЧТ"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Выбранный счет уже занят для другой цели"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Выбранный счет уже занят для другой цели"
+
+msgid "requested amount"
+msgstr "Необходимая сумма"
+
+msgid "New goal"
+msgstr "Новая цель"
+
+msgid "Goal"
+msgstr "Цель"
+
+msgid "Goal name"
+msgstr "Название цели"
+
+msgid "Invalid date"
+msgstr "Неверная дата"
+
+msgid "Requested amount must be a greater than 0"
+msgstr "Необходимая сумма должна быть положительным числом"
+
+msgid "Amount remaining to reach the goal"
+msgstr "Осталось собрать"
+
+msgid "remains"
+msgstr "осталось"
+
+msgid "Last day"
+msgstr "Последний день"
+
+msgid "Accumulated"
+msgstr "Накоплено"
+
+msgid "Saved"
+msgstr "Отложил"
+
+msgid "January"
+msgstr "Январь"
+
+msgid "February"
+msgstr "Февраль"
+
+msgid "March"
+msgstr "Март"
+
+msgid "April"
+msgstr "Апрель"
+
+msgid "May"
+msgstr "Май"
+
+msgid "June"
+msgstr "Июнь"
+
+msgid "July"
+msgstr "Июль"
+
+msgid "August"
+msgstr "Август"
+
+msgid "September"
+msgstr "Сентябрь"
+
+msgid "October"
+msgstr "Октябрь"
+
+msgid "November"
+msgstr "Ноябрь"
+
+msgid "December"
+msgstr "Декабрь"
+
+msgid "Expenses projected/actual"
+msgstr "Расходы план/факт"
+
+msgid "Net Income projected/actual"
+msgstr "Доходы план/факт"
+
+msgid "New budget"
+msgstr "Новый бюджет"
+
+msgid "Revenue and Expenses Chart"
+msgstr "График расходов/доходов"
+
+msgid "Budget with same account and category already exists"
+msgstr "Бюджет для данного счета и данной категории уже существует"
+
+msgid "Budget is empty"
+msgstr "Нет данных"
+
+msgid "Budget"
+msgstr "Бюджет"
+
+msgid "plan"
+msgstr "план"
+
+msgid "fact"
+msgstr "факт"
+
+msgid "diff"
+msgstr "сопряжение"
+
+msgid "Show More"
+msgstr "Весь список"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "d"
+msgstr "д"
+
+msgid "h"
+msgstr "ч"
+
+msgid "min"
+msgstr "мин"
+
+msgid "My sales"
+msgstr "Мои продажи"
+
+msgid "Time spent"
+msgstr "Потраченное время"
+
+msgid "Time spent, h."
+msgstr "Затраченное время, ч."
+
+msgid "Total time spent"
+msgstr "Общее потраченное время"
+
+msgid "Earnings per hour"
+msgstr "Заработано в час"
+
+msgid "Total earnings"
+msgstr "Всего заработано"
+
+msgid "Call"
+msgstr "Телефонный звонок"
+
+msgid "Calls"
+msgstr "Телефонные звонки"
+
+msgid "Phone call"
+msgstr "Телефонный звонок"
+
+msgid "Telephone calls"
+msgstr "Телефонные звонки"
+
+msgid "Send email"
+msgstr "Электронное письмо"
+
+msgid "Emails"
+msgstr "Электронные письма"
+
+msgid "Meeting"
+msgstr "Встреча"
+
+msgid "Meetings"
+msgstr "Встречи"
+
+msgid "All events"
+msgstr "Все события"
+
+msgid "Task"
+msgstr "Задача"
+
+msgid "Event"
+msgstr "Событие"
+
+msgid "Events"
+msgstr "События"
+
+msgid "Time"
+msgstr "Время"
+
+msgid "Events statistics"
+msgstr "Статистика событий"
+
+msgid "days"
+msgstr "дней"
+
+msgid "days "
+msgstr "дней "
+
+msgid "day"
+msgstr "день"
+
+msgid "hours"
+msgstr "часов"
+
+msgid "hours "
+msgstr "часов "
+
+msgid "minutes"
+msgstr "минут"
+
+msgid "Income & expense"
+msgstr "Доходы и расходы"
+
+msgid "Show chart"
+msgstr "Показать график"
+
+msgid "Hide chart"
+msgstr "Свернуть график"
+
+msgid "Add event"
+msgstr "Создать событие"
+
+msgid "Add financial data"
+msgstr "Внести финансовые данные"
+
+msgid "-- Select contractor --"
+msgstr "-- Выберите контрагента --"
+
+msgid "Net Income"
+msgstr "Прибыль"
+
+msgid "Net Revenue"
+msgstr "Выручка"
+
+msgid "Taxes"
+msgstr "Налоги"
+
+msgid "Amount planned"
+msgstr "Запланированная сумма"
+
+msgid "Amount"
+msgstr "Cумма"
+
+msgid "Period"
+msgstr "Период"
+
+msgid "Confirm task closure"
+msgstr "Вы уверены что желаете закрыть эту задачу?"
+
+msgid "(Closed)"
+msgstr "(Закрыто)"
+
+msgid "All users"
+msgstr "Все пользователи"
+
+msgid "All groups"
+msgstr "Все группы"
+
+msgid "added from task"
+msgstr "добавлено из задачи"
+
+msgid "Monthly repeat"
+msgstr "Повторятся ежемесячно"
+
+msgid "Select category"
+msgstr "Выберите категорию"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Event type"
+msgstr "Тип события"
+
+msgid "Margin"
+msgstr "% накрутки"
+
+msgid "Use finance project"
+msgstr "Использовать финансовый проект"
+
+msgid "Finance project"
+msgstr "Финансовый проект"
+
+msgid "Investment project"
+msgstr "Инвестиционный проект"
+
+msgid "Edit project"
+msgstr "Редактировать проект"
+
+msgid "New investment project"
+msgstr "Новый инвестиционный проект"
+
+msgid "Investment project settings"
+msgstr "Настройки инвестиционного проекта"
+
+msgid "Image for the project announcement"
+msgstr "Картинка для анонса проекта"
+
+msgid "Project announcement"
+msgstr "Анонс проекта"
+
+msgid "Video"
+msgstr "Видео ролик"
+
+msgid "Photos or videos gallery"
+msgstr "Фотографии или видеоролики галереи"
+
+msgid "Necessary sum"
+msgstr "Необходимая сумма"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Срок проекта (60 дней максимум)"
+
+msgid "Project duration"
+msgstr "Срок проекта"
+
+msgid "Add reward"
+msgstr "Добавить вознаграждение"
+
+msgid "Delivery date"
+msgstr "Дата доставки"
+
+msgid "Payment systems"
+msgstr "Системы оплаты"
+
+msgid "Terms of service"
+msgstr "Правила сервиса"
+
+msgid "Agreement"
+msgstr "Соглашение"
+
+msgid "Payment"
+msgstr "Оплата"
+
+msgid "Payments"
+msgstr "Оплаты"
+
+msgid "My projects"
+msgstr "Мои проекты"
+
+msgid "Search result"
+msgstr "Результаты поиска"
+
+msgid "No data"
+msgstr "Ничего не найдено"
+
+msgid "This project has no sponsors"
+msgstr "У проекта нет спонсоров"
+
+msgid "Design"
+msgstr "Дизайн"
+
+msgid "Food"
+msgstr "Еда"
+
+msgid "Journalism"
+msgstr "Журналистика"
+
+msgid "Games"
+msgstr "Игры"
+
+msgid "Art"
+msgstr "Искусство"
+
+msgid "Comics"
+msgstr "Комиксы"
+
+msgid "Music"
+msgstr "Музыка"
+
+msgid "Crafts"
+msgstr "Поделки"
+
+msgid "publications"
+msgstr "Публикации"
+
+msgid "Theater"
+msgstr "Театр"
+
+msgid "Technology"
+msgstr "Технологии"
+
+msgid "Nature"
+msgstr "Природа"
+
+msgid "Architecture"
+msgstr "Архитектура"
+
+msgid "Film & Video"
+msgstr "Фильм & Видео"
+
+msgid "Photography"
+msgstr "Фотография"
+
+msgid "Dance"
+msgstr "Танец"
+
+msgid "YouTube link is invalid"
+msgstr "Неверная youtube ссылка"
+
+msgid "is required"
+msgstr "необходимо заполнить"
+
+msgid "Statistic"
+msgstr "Статистика"
+
+msgid "Present"
+msgstr "Сегодня"
+
+msgid "Select period"
+msgstr "Выберите период"
+
+msgid "Data is empty"
+msgstr "Нет данных"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Visitors"
+msgstr "Посещения"
+
+msgid "My profile"
+msgstr "Мой профиль"
+
+msgid "Sponsors"
+msgstr "Спонсоры"
+
+msgid "sponsors"
+msgstr "спонсоров"
+
+msgid "Collected from"
+msgstr "Собрано из"
+
+msgid "Prior to completion"
+msgstr "До завершения"
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid "My groups"
+msgstr "Мои сообщества"
+
+msgid "User not found"
+msgstr "Пользователь не найден"
+
+msgid "The invitation has been sent successfully"
+msgstr "Приглашение было успешно отправлено"
+
+msgid "Username has already been invited to this project"
+msgstr "Пользователь уже был приглашен в этот проект"
+
+msgid "This is user is project owner"
+msgstr "Пользователь является создателем проекта"
+
+msgid "Provide full access"
+msgstr "Предоставить полный доступ"
+
+msgid "Select elements to provide access"
+msgstr "Выберите элементы для предоставления доступа"
+
+msgid "Select all"
+msgstr "Выбрать все"
+
+msgid "User E-mail"
+msgstr "Адрес эл. почты пользователя"
+
+msgid "Log in using"
+msgstr "Войти через"
+
+msgid "Click on the field to select a category"
+msgstr "кликните в поле для выбора категории"
+
+msgid "Invitation was deleted"
+msgstr "Приглашение было удалено"
+
+msgid "Permission denied"
+msgstr "Доступ запрещен"
+
+msgid "Printed"
+msgstr "Распечатано"
+
+msgid "Incorrect Contractor email"
+msgstr "Некорректный емейл Контрагента"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Желаете создать проект в финансовом менеджере?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Для завершения регистрации введите Ваши навыки"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Сообщение с дальнейшими инструкциями было отправлено Вам на почту"
+
+msgid "Confirm"
+msgstr "Подтвердить"
+
+msgid "Active life"
+msgstr "Активный отдых"
+
+msgid "Security"
+msgstr "Безопасность"
+
+msgid "Business"
+msgstr "Бизнес"
+
+msgid "Graphics and design"
+msgstr "Дизайн и графика"
+
+msgid "Home and family"
+msgstr "Дом и семья"
+
+msgid "Cars"
+msgstr "Автомобили"
+
+msgid "Pets"
+msgstr "Домашние животные"
+
+msgid "Healt"
+msgstr "Здоровье"
+
+msgid "Communications"
+msgstr "Знакомство и общение"
+
+msgid "Games"
+msgstr "Игры"
+
+msgid "IT"
+msgstr "ИТ"
+
+msgid "Cinema"
+msgstr "Кино"
+
+msgid "Fashion"
+msgstr "Красота и мода"
+
+msgid "Cooking"
+msgstr "Кулинария"
+
+msgid "Arts and culture"
+msgstr "Культура и искусство"
+
+msgid "Literature"
+msgstr "Литература"
+
+msgid "Mobile communications and internet"
+msgstr "Мобильная связь и интернет"
+
+msgid "Music"
+msgstr "Музыка"
+
+msgid "Sciense and techs"
+msgstr "Наука и техника"
+
+msgid "Sciense"
+msgstr "Наука"
+
+msgid "Real Estate"
+msgstr "Недвижимость"
+
+msgid "News and Media"
+msgstr "Новости и СМИ"
+
+msgid "Education"
+msgstr "Образование"
+
+msgid "Construction and repair"
+msgstr "Обустройство и ремонт"
+
+msgid "Society"
+msgstr "Общество"
+
+msgid "Politics"
+msgstr "Политика"
+
+msgid "Industry"
+msgstr "Промышленность"
+
+msgid "Travel"
+msgstr "Путешествия"
+
+msgid "Entertainment"
+msgstr "Развлечения"
+
+msgid "Religion"
+msgstr "Религия"
+
+msgid "Donation"
+msgstr "Благотворительность"
+
+msgid "Sport"
+msgstr "Спорт"
+
+msgid "Insurance"
+msgstr "Страхование"
+
+msgid "Television"
+msgstr "Телевидение"
+
+msgid "Products and service"
+msgstr "Товары и услуги"
+
+msgid "Interests"
+msgstr "Интересы"
+
+msgid "Finances"
+msgstr "Финансы"
+
+msgid "Photo"
+msgstr "Фото"
+
+msgid "Electronics"
+msgstr "Электроника"
+
+msgid "Humor"
+msgstr "Юмор"
+
+msgid "Designer"
+msgstr "Дизайнер"
+
+msgid "IT specialist"
+msgstr "IT специалист"
+
+msgid "Agronomist"
+msgstr "Агроном"
+
+msgid "Architector"
+msgstr "Архитектор"
+
+msgid "Lawyer"
+msgstr "Юрист"
+
+msgid "Driver"
+msgstr "Водитель"
+
+msgid "Writer"
+msgstr "Писатель"
+
+msgid "Sportsman"
+msgstr "Спортсмен"
+
+msgid "Doctor"
+msgstr "Врач"
+
+msgid "Scientist"
+msgstr "Ученый"
+
+msgid "Businessman"
+msgstr "Предприниматель"
+
+msgid "Teacher"
+msgstr "Преподаватель"
+
+msgid "Cook"
+msgstr "Повар"
+
+msgid "Manager"
+msgstr "Менеджер"
+
+msgid "Accountant"
+msgstr "Бухгалтер"
+
+msgid "Artist"
+msgstr "Художник"
+
+msgid "Photographer"
+msgstr "Фотограф"
+
+msgid "Ecologist"
+msgstr "Эколог"
+
+msgid "Engineer"
+msgstr "Инженер"
+
+msgid "Economist"
+msgstr "Экономист"
+
+msgid "Soldier"
+msgstr "Военный"
+
+msgid "Logistician"
+msgstr "Логист"
+
+msgid "Journalist"
+msgstr "Журналист"
+
+msgid "Builder"
+msgstr "Строитель"
+
+msgid "Marketer"
+msgstr "Маркетолог"
+
+msgid "Next "
+msgstr "Далее "
+
+msgid "Next"
+msgstr "Далее"
+
+msgid "Hide group"
+msgstr "Скрыть группу"
+
+msgid "groups created."
+msgstr "созданных сообществ."
+
+msgid "articles written."
+msgstr "написанных статей."
+
+msgid "These groups may be interesting for you"
+msgstr "Эти сообщества могут быть Вам интересны"
+
+msgid "These users may be interesting for you"
+msgstr "Эти пользователи могут быть Вам интересны"
+
+msgid "These articles may be interesting for you"
+msgstr "Эти статьи могут быть Вам интересны"
+
+msgid "About Us"
+msgstr "О Нас"
+
+msgid "About Group"
+msgstr "О Компании"
+
+msgid "view(s)"
+msgstr "просмотра(ов)"
+
+msgid "Favorite users"
+msgstr "Избранные пользователи"
+
+msgid "No accounts"
+msgstr "Нет счетов"
+
+msgid "Facebook authorization failed."
+msgstr "Ошибка авторизации через Facebook."
+
+msgid "With Facebook"
+msgstr "С помощью Facebook"
+
+msgid "Authorization Required"
+msgstr "Требуется Авторизация"
+
+msgid "You have to make a call: "
+msgstr "Сделайте звонок: "
+
+msgid "You have to send an email: "
+msgstr "Отправьте сообщение: "
+
+msgid "You have a meetup: "
+msgstr "У вас встреча: "
+
+msgid "You have an event: "
+msgstr "У вас событие: "
+
+msgid "Participants: "
+msgstr "Участники: "
+
+msgid "Participants"
+msgstr "Участники"
+
+msgid "Project title"
+msgstr "Название проекта"
+
+msgid "New task"
+msgstr "Новая задача"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Chat"
+msgstr "Чат"
+
+msgid "News"
+msgstr "Новости"
+
+msgid "Investments"
+msgstr "Инвестиции"
+
+msgid "Cloud"
+msgstr "Файлы"
+
+msgid "Back to Cloud"
+msgstr "Назад в хранилище"
+
+msgid "Documents"
+msgstr "Документы"
+
+msgid "Devices"
+msgstr "Устройства"
+
+msgid "Planet"
+msgstr "Планета"
+
+msgid "Exit"
+msgstr "Выход"
+
+msgid "Group url"
+msgstr "Ссылка на группу"
+
+msgid "Profile url"
+msgstr "Ссылка на профиль"
+
+msgid "Already taken"
+msgstr "Уже занято"
+
+msgid "Atleast 1 letter and 3 chars length required"
+msgstr "Требуется минимум 1 буква и не менее 3 символов"
+
+msgid "Digit can not be the first character"
+msgstr "Число не может быть первым симолом"
+
+msgid "Enter valid email address"
+msgstr "Введите существующий адрес электронной почты"
+
+msgid "Enter your skills"
+msgstr "Укажите Ваши навыки"
+
+msgid "Enter your first name"
+msgstr "Введите Ваше имя"
+
+msgid "Enter your last name"
+msgstr "Введите Вашу фамилию"
+
+msgid "Enter your first name and last name"
+msgstr "Введите Ваши имя и фамилию"
+
+msgid "Your first name?"
+msgstr "Ваше имя?"
+
+msgid "Your last name?"
+msgstr "Ваша фамилия?"
+
+msgid "You will need email to log in"
+msgstr "Почта потребуется Вам для входа на сайт"
+
+msgid "What are your proficiencies?"
+msgstr "В чем Вы профессионал?"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Введите комбинацию из 6 цифр или букв"
+
+msgid "Select country"
+msgstr "Выберите страну"
+
+msgid "Select user"
+msgstr "Выберите пользователя"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Воплоти свою мечту! Созидай и сотрудничай."
+
+msgid "Fulfill your dream"
+msgstr "Построй свою мечту"
+
+msgid "Start Dreaming"
+msgstr "Построить мечту"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Присоединяйтесь к сообществу креативных людей со всей планеты."
+
+msgid "Create and Collaborate"
+msgstr "Созидай и сотрудничай"
+
+msgid "date moved from"
+msgstr "дата изменена с"
+
+msgid "work"
+msgstr "работа"
+
+msgid "personal"
+msgstr "личное"
+
+msgid "Work"
+msgstr "Работа"
+
+msgid "Personal"
+msgstr "Личное"
+
+msgid "Conference"
+msgstr "Совещание"
+
+msgid "Holiday"
+msgstr "Праздник"
+
+msgid "Past"
+msgstr "Прошедшие"
+
+msgid "Future"
+msgstr "Будущие"
+
+msgid "Purchase"
+msgstr "Покупка"
+
+msgid "Purchases"
+msgstr "Покупки"
+
+msgid "Personal events"
+msgstr "Личные события"
+
+msgid "Conferences"
+msgstr "Совещания"
+
+msgid "Holidays"
+msgstr "Праздники"
+
+msgid "Sport events"
+msgstr "Спортивные события"
+
+msgid "Tasks"
+msgstr "Задачи"
+
+msgid "Other events"
+msgstr "Другие события"
+
+msgid "Set aside"
+msgstr "Отложить"
+
+msgid "Set aside "
+msgstr "Отложенные"
+
+msgid "Time management"
+msgstr "Тайм менеджмент"
+
+msgid "Delayed events"
+msgstr "Отложенные события"
+
+msgid "Delayed"
+msgstr "Отложенные"
+
+msgid "Setted aside"
+msgstr "Отложенные"
+
+msgid "Bind to"
+msgstr "Связать с"
+
+msgid "%s answered your comment to %s"
+msgstr "%s ответил(а) на ваш комментарий к статье %s"
+
+msgid "%s commented your article %s"
+msgstr "%s прокомментировал вашу статью %s"
+
+msgid "You've answered on comment to %s"
+msgstr "Вы ответили на комментарий к статье %s"
+
+msgid "You've commented an article %s"
+msgstr "Вы прокомментировали статью %s"
+
+msgid "Collected"
+msgstr "Собрано"
+
+msgid "Terms and Conditions,"
+msgstr "Условиями использования"
+
+msgid " Privacy Policy"
+msgstr " Политикой конфиденциальности"
+
+msgid "Join"
+msgstr "Присоединиться"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our %s and you are acknowledging that you have read our%s."
+msgstr "Нажав на кнопку \"Далее\", вы соглашаетесь с нашими %s и подтверждаете, что ознакомились с нашей%s."
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Присоединяйтесь к сообществу креативных людей со всей планеты! Вы получите: инвестиции в Ваши идеи, возможность собрать свою команду, работу в группе, финансовый менеджер, управление своим временем, 2 гигабайта в хранилище и многое другое. И все это бесплатно!"
+
+msgid "Sorry, the page you are looking for"
+msgstr "Извините, но страница, которую вы ищете,"
+
+msgid "does not exist. If you believe this problem"
+msgstr "не существует. Если вы считаете, что во всём"
+
+msgid "is caused by us, please feel free to"
+msgstr "виноваты мы"
+
+msgid "send us a message"
+msgstr "пишите нам"
+
+msgid "Return"
+msgstr "Вернуться"
+
+msgid "COMMON"
+msgstr "ОБЩЕЕ"
+
+msgid "Common"
+msgstr "Общее"
+
+msgid "My events"
+msgstr "Мои события"
+
+msgid "Other events"
+msgstr "Другие события"
+
+msgid "Job"
+msgstr "Вакансия"
+
+msgid "Jobs"
+msgstr "Вакансии"
+
+msgid "Job opening"
+msgstr "Новая вакансия"
+
+msgid "Employment"
+msgstr "Тип занятости"
+
+msgid "Vacancies"
+msgstr "Вакансии"
+
+
+msgid "Working hours"
+msgstr "График работы"
+
+msgid "City"
+msgstr "Город"
+
+msgid "Wages"
+msgstr "Зарплата"
+
+msgid "Currency"
+msgstr "Валюта"
+
+msgid "Experience"
+msgstr "Опыт"
+
+msgid "Full-time"
+msgstr "Полная занятость"
+
+msgid "Part-time"
+msgstr "Частичная занятость"
+
+msgid "Project emplyment"
+msgstr "Проектная/Временная работа"
+
+msgid "Volunteer"
+msgstr "Волонтёрство"
+
+msgid "Internship"
+msgstr "Стажировка"
+
+msgid "Full day"
+msgstr "Полный день"
+
+msgid "Shifts"
+msgstr "Сменный график"
+
+msgid "Flexible shifts"
+msgstr "Гибкий график"
+
+msgid "Remote work"
+msgstr "Удалённая работа"
+
+msgid "Rotational basis"
+msgstr "Вахтовый метод"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Вы действительно хотите удалить комментарий?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Вы действительно хотите удалить эту задачу?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Вы действительно хотите удалить этот подпроект?"
+
+msgid "You applied to %s on the job %s. Please make sure your %s"
+msgstr "Вы подали заявку в компанию %s на вакансию %s. Пожалуйста убедитесь что %s"
+
+msgid "You applied"
+msgstr "Вы оставили заявку"
+
+msgid "Your application denied"
+msgstr "Ваша заявка отклонена"
+
+msgid "Your application approved"
+msgstr "Ваша заявка одобрена"
+
+msgid "post new job"
+msgstr "Создать вакансию"
+
+msgid "Job title"
+msgstr "Заголовок вакансии"
+
+msgid "Terms of employment"
+msgstr "Условия работы"
+
+msgid "Requirements for applicants"
+msgstr "Требования от кандидата"
+
+msgid "Job Responsibilities"
+msgstr "Обязанности"
+
+msgid "Add terms"
+msgstr "Новое условие"
+
+msgid "Add requirement"
+msgstr "Новое преимущество"
+
+msgid "Add new responsibility"
+msgstr "Новая обязанность"
+
+msgid "All jobs"
+msgstr "Все вакансии"
+
+msgid "My applications"
+msgstr "Мои заявки"
+
+msgid "My jobs"
+msgstr "Мои вакансии"
+
+msgid "Map"
+msgstr "Карта"
+
+msgid "Project Marketplace"
+msgstr "Биржа задач"
+
+msgid "New job"
+msgstr "Новая вакансия"
+
+msgid "Edit job"
+msgstr "Редактирование вакансии"
+
+msgid "Your request to %s for job %s has been rejected"
+msgstr "Ваша заявка в компанию %s на вакансию %s была отклонена"
+
+msgid "Your request to %s for job %s has been accepted"
+msgstr "Ваша заявка в компанию %s на вакансию %s была принята"
+
+msgid "profile is completed"
+msgstr "Ваш профиль заполнен"
+
+msgid "Use account"
+msgstr "Использовать счёт"
+
+msgid "Select finance project"
+msgstr "Выберите финансовый проект"
+
+msgid "Select an account"
+msgstr "Выберите счёт"
+
+msgid "$/hr"
+msgstr "$/час"
+
+msgid "Finance category"
+msgstr "Финансовая категория"
+
+msgid "No projects"
+msgstr "Нет проектов"
+
+msgid "Bind to finances"
+msgstr "Связать с финансовым проектом"
+
+msgid "Preview"
+msgstr "Просмотреть"
+
+msgid "Download"
+msgstr "Скачать"
+
+msgid "Save to my cloud"
+msgstr "Скопировать в хранилище"
+
+msgid "File successfully saved to your cloud"
+msgstr "Файл успешно сохранён в ваше хранилище"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Сохранить этот файл в ваше хранилище?"
+
+msgid "Select article category"
+msgstr "Выберите категорию статьи"
+
+msgid "Type something"
+msgstr "Напишите что-нибудь"
+
+msgid "Founded users"
+msgstr "Найденные пользователи"
+
+msgid "Founded articles"
+msgstr "Найденные статьи"
+
+msgid "Founded groups"
+msgstr "Найденные группы"
+
+msgid "Founded group"
+msgstr "Группа основана"
+
+msgid "Search users, groups, articles"
+msgstr "Найти пользователей, сообщества, статьи"
+
+msgid "Find on page"
+msgstr "Найти на странице"
+
+msgid "What are your skills?"
+msgstr "Какие у Вас навыки?"
+
+msgid "Select at least 2 interests"
+msgstr "Выберите минимум 2 интереса"
+
+msgid "Select at least 2 skills"
+msgstr "Выберите минимум 2 навыка"
+
+msgid "Need more interests"
+msgstr "Недостаточно выбранных интересов"
+
+msgid "Need more skills"
+msgstr "Недостаточно выбранных навыков"
+
+msgid "What are you Interested in?"
+msgstr "Что Вам интересно?"
+
+msgid "Interested"
+msgstr "Интересы"
+
+msgid "You have no dialogs"
+msgstr "У Вас нет диалогов?"
+
+msgid "Usage Stats"
+msgstr "Состояние"
+
+msgid "Founded files"
+msgstr "Найденные файлы"
+
+msgid "Big tiles"
+msgstr "Большая плитка"
+
+msgid "Small tiles"
+msgstr "Малая плитка"
+
+msgid "Table view"
+msgstr "Табличный вид"
+
+msgid "Root folder"
+msgstr "Корневой каталог"
+
+msgid "My files"
+msgstr "Мои файлы"
+
+msgid "Files"
+msgstr "Файлы"
+
+msgid "Save as draft"
+msgstr "В черновики"
+
+msgid "Select category"
+msgstr "Выберете категорию"
+
+msgid "Usage Stats"
+msgstr "Статистика"
+
+msgid "Buy More Space"
+msgstr "Купить больше пространства"
+
+msgid "Buy"
+msgstr "Купить"
+
+msgid "You have been invited to group %s as \"%s\""
+msgstr "Вас пригласили в группу %s в роли \"%s\""
+
+msgid "User %s wants to join your group %s"
+msgstr "Пользователь %s желает вступить в Вашу группу %s"
+
+msgid "Section is coming soon!"
+msgstr "Раздел в разработке!"
+msgid "Shared"
+msgstr "Расшаренные"
+
+msgid "Views in last 24 hours:"
+msgstr "Просмотров за последние 24 часа:"
+
+msgid "Task was updated"
+msgstr "Задача была обновлена"
+
+msgid "Task was closed"
+msgstr "Задача была закрыта"
+
+msgid "Task was created"
+msgstr "Задача была создана"
+
+msgid "Current balance"
+msgstr "Текущий баланс"
+
+msgid "Add funds"
+msgstr "Пополнить"
+
+msgid "Pay"
+msgstr "Оплатить"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Превышено количество попыток входа. Вы заблокированы на 15 минут"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Пожалуйста подтвердите Ваш e-mail. Письмо отправлено Вам на почту."
+
+msgid "Resend confirmation email"
+msgstr "Отправить подтверждение еще раз"
+
+msgid "Change email address"
+msgstr "Изменить адрес электронной почты"
+
+msgid "Snap to dream"
+msgstr "Привязать к мечте"
+
+msgid "Project Description"
+msgstr "Описание проекта"
+
+msgid "Updates"
+msgstr "Обновления"
+
+msgid "Assembled:"
+msgstr "Собрано:"
+
+msgid "Still needed:"
+msgstr "Осталось собрать:"
+
+msgid "Remains days:"
+msgstr "Осталось дней:"
+
+msgid "Sponsors:"
+msgstr "Спонсоров:"
+
+msgid "Target:"
+msgstr "Цель:"
+
+msgid "from"
+msgstr "из"
+
+msgid "Reward"
+msgstr "Вознаграждение"
+
+msgid "Project duration (to 60 days)"
+msgstr "Срок проекта (до 60 дней)"
+
+msgid "Show in the map"
+msgstr "Показано на карте"
+
+msgid "Filters"
+msgstr "Фильтр"
+
+msgid "By events"
+msgstr "По событиям"
+
+msgid "By users"
+msgstr "По пользователям"
+
+msgid "My events"
+msgstr "Мои события"
+
+msgid "People"
+msgstr "Люди"
+
+msgid "Task management"
+msgstr "Управление задачами"
+
+msgid "My invites"
+msgstr "Мои приглашения"
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "Tasks assigned by me"
+msgstr "Назначены мной задачи"
+
+msgid "Tasks proposed to me"
+msgstr "Предложенные мне задачи"
+
+msgid "My tasks"
+msgstr "Мои задачи"
+
+msgid "All tasks"
+msgstr "Все задачи"
+
+msgid "My applications"
+msgstr "Мои заявки"
+
+msgid "Tasks for me"
+msgstr "Задачи для меня"
+
+msgid "Tasks proposed to me"
+msgstr "Предложенные мне"
+
+msgid "Comments"
+msgstr "Комментарии"
+
+msgid "Send request"
+msgstr "Оставить заявку"
+
+msgid "Your comment"
+msgstr "Ваш комментарий"
+
+msgid "Popular category"
+msgstr "Популярные категории"
+
+msgid "New tasks to category"
+msgstr "Новые задачи в категории"
+
+msgid "Buy More Proposals"
+msgstr "Купить больше предложений"
+
+msgid "Proposals Limit Notification"
+msgstr "Уведомление о превышении лимита предложений"
+
+msgid "You must upgrade your subscription to add new proposals"
+msgstr "Вы должны обновить вашу подписку чтоб иметь возможность добавить новые предложений"
+
+msgid "Task name"
+msgstr "Название задачами"
+
+msgid "Author"
+msgstr "Автор"
+
+msgid "Duration"
+msgstr "Период"
+
+
+msgid "Set external"
+msgstr "Сделать внешней"
+
+msgid "Stop task"
+msgstr "Приостановить задачу"
+
+msgid "Close task"
+msgstr "Закрыть задачу"
+
+msgid "Edit task"
+msgstr "Редактирование задачи"
+
+
+msgid "Sponsor"
+msgstr "Спонсор"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "%s sponsors"
+msgstr "%s спонсоров"
+
+msgid "%s collected"
+msgstr "%s собрано"
+
+msgid "1% commissions"
+msgstr "1% комисия"
+
+msgid "Total:"
+msgstr "Итого:"
+
+msgid "Refund"
+msgstr "Возврат"
+
+msgid "Usage"
+msgstr "Используется"
+
+msgid "of"
+msgstr "из"
+
+msgid "Shared with me"
+msgstr "Расшарено со мной"
+
+msgid "File Sharing"
+msgstr "Совместный доступ к файлам"
+
+msgid "Provide access by link"
+msgstr "Предоставить доступ по ссылке"
+
+msgid "With this links everyone can access to the files"
+msgstr "По этой ссылке каждый может получить доступ к файлам"
+
+msgid "Share"
+msgstr "Поделиться"
+
+msgid "Provide Individual access"
+msgstr "Предоставить индивидуальный доступ"
+
+msgid "Select user"
+msgstr "Выберите пользователя"
+
+msgid "Files will be available only for selected users"
+msgstr "Файлы будут доступны только выбранным пользователям"
+
+msgid "Provide edit access"
+msgstr "Предоставить возможность редактирования"
+
+msgid "Files will be available only for selected users"
+msgstr "Файлы будут доступны только выбранным пользователям"
+
+msgid "Projects"
+msgstr "Проекты"
+
+msgid "Messages"
+msgstr "Сообщения"
+
+msgid "Free"
+msgstr "Свободно"
+
+msgid "Documents"
+msgstr "Документы"
+
+msgid "Tables"
+msgstr "Таблицы"
+
+msgid "Photos"
+msgstr "Фото"
+
+msgid "Music"
+msgstr "Музыка"
+
+msgid "Videos"
+msgstr "Видео"
+
+msgid "Other"
+msgstr "Разное"
+
+msgid "Trash"
+msgstr "Корзина"
+
+msgid "File Usage via Pie Chart"
+msgstr "Диаграмма использования файлового хранилища"
+
+msgid "File Usage"
+msgstr "Использует"
+
+msgid "Today"
+msgstr "Сегодня"
+
+msgid "Usage"
+msgstr "Используется"
+
+msgid "Investors list"
+msgstr "Список инвесторов"
+
+msgid "My investments"
+msgstr "Мои инвестиции"
+
+msgid "All investments"
+msgstr "Все инвестиции"
+
+msgid "My investment projects"
+msgstr "Мои инвестпроекты"
+
+msgid "create investment project"
+msgstr "Создать инвестпроект"
+
+msgid "Investment management"
+msgstr "Управление инвестициями"
+
+msgid "Author of the project"
+msgstr "Автор проекта"
+
+msgid "Date and time"
+msgstr "Дата и время"
+
+msgid "see project"
+msgstr "посмотреть проект"
+
+msgid "Back to the task"
+msgstr "Перейти к задаче"
+
+msgid "By groups"
+msgstr "По групам"
+
+msgid "By categories"
+msgstr "По категориям"
+
+msgid "By friends"
+msgstr "По друзьям"
+
+msgid "Video has been successfully added to the site and soon will be available"
+msgstr "Видео было успешно добавлено на сайт и скоро будет доступно"
+
+msgid "User video"
+msgstr "Видео пользователя"
+
+msgid "Group video"
+msgstr "Видео группы"
+
+msgid "You accepted task"
+msgstr "Задача принята"
+
+msgid "You became an Administrator of your personal community. Assemble a team, create a project, set a task, achieve your dreams"
+msgstr "Вы стали администратором Вашего личного сообщества. Наберите команду, создайте проект, поставьте задачу, добейтесь своей мечты"
+
+msgid "Activate your dream"
+msgstr "Активируйте свою мечту"
+
+msgid "You can build your own dream"
+msgstr "Можете сами построить свою мечту"
+
+msgid "Choose and join in interesting projects"
+msgstr "Выбирайте и участвуйте в интересных проектах"
+
+msgid "Or create more community"
+msgstr "Или создайте еще сообщество"
+
+msgid "Read interesting articles"
+msgstr "Читайте интересные статьи"
+
+msgid "My group"
+msgstr "Моё сообщество"
+
+msgid  "Task from"
+msgstr "Задача от"
+
+msgid  "Images"
+msgstr "Изображений"
+
+msgid  "Get the first task and news from"
+msgstr "Получай первым задачи и новости от"
+
+msgid  "%s was created task"
+msgstr "Пользователем %s была создана задача"
+
+msgid  "Similar tasks"
+msgstr "Похожие задачи"
+
+msgid  "More interesting tasks"
+msgstr "Другие интересные задачи"
+
+msgid  "weeks"
+msgstr "недель"
+
+msgid  "weeks "
+msgstr "недель "
+
+msgid  "Last viewed tasks"
+msgstr "Последние просмотренные задачи"
+
+msgid "Your password was successfully changed. Now, please, log in with your new password."
+msgstr "Ваш пароль был успешно изменен. Пожалуйста, войдите на сайт с новым паролем."
+
+msgid "Article succesfully saved"
+msgstr "Все изменения сохранены"
+
+msgid "Message sent successfully"
+msgstr "Сообщение успешно отправлено"
+
+msgid "Enter your email friend"
+msgstr "Введите email друга"
+
+msgid "Enter your Email"
+msgstr "Введите Email"
+
+msgid "Please enter a valid Email"
+msgstr "Введите корректный Email"
+
+msgid "You have been advised to the article on the site"
+msgstr "Вам порекомендовали статью на сайте"
+
+msgid "More details can be found here"
+msgstr "подробнее вы можете ознакомиться по ссылке"
+
+msgid "Similar articles"
+msgstr "Похожие статьи"
+
+msgid "Other interesting articles"
+msgstr "Другие интересные статьи"
+
+msgid "Tag cloud"
+msgstr "Облако тегов"
+
+msgid "External events"
+msgstr "Внешние задачи"
+
+msgid "You have an unread message from"
+msgstr "У Вас есть непрочитанное сообщение от"
+
+msgid "You have an event"
+msgstr "У Вас есть событие"
+
+msgid "File manager"
+msgstr "Менеджер файлов"
+
+msgid "Interface"
+msgstr "Интерфейс"
+
+msgid "Finance"
+msgstr "Финансы"
+
+msgid "My Time"
+msgstr "Мое время"
+
+msgid "While you were out:"
+msgstr "Пока Вас не было:"
+
+msgid "Support"
+msgstr "Поддержка"
+
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+
+msgid "Congratulations! You have joined our community of creative people from all over the world."
+msgstr "Поздравляем! Вы присоеденились к сообществу креативных людей со всей планеты."
+
+msgid "To complete your registration, please click on the"
+msgstr "Чтобы завершить регистрацию перейдите, пожалуйста, по"
+
+msgid "To complete your registration, please click on the"
+msgstr "Чтобы завершить регистрацию перейдите, пожалуйста, по"
+
+msgid "link"
+msgstr "ссылке"
+
+msgid "Fill out your profile within 15 days. If you have any questions, please contact our technical support."
+msgstr "Заполните Ваш профиль в течении 15 дней. Если у Вас возникнут вопросы, свяжитесь с нашей техподдержкой."
+
+msgid "Regards"
+msgstr "С наилучшими пожеланиями"
+
+msgid "Reset Password"
+msgstr "Восстановить пароль"
+
+msgid "Hello"
+msgstr "Здравствуйте"
+
+msgid "We have received a request to reset the password for your account. If it was you, click on the button below. If you did not request to reset the password, please ignore this email."
+msgstr "К нам поступил запрос на восстановление пароля для Вашего аккаунта. Если это были Вы, нажмите на кнопку ниже. Если Вы не запрашивали восстановление пароля, проигнорируйте это письмо."
+
+msgid "Please, do not reply to this email."
+msgstr "Пожалуйста, не отвечайте на это письмо."
+
+msgid "If you did not create an account for your email, please,"
+msgstr "Если Вы не создавали аккаунта на свой Email, пожалуйста,"
+
+msgid "let us know"
+msgstr "напишите нам"
+
+msgid "For you was created new task"
+msgstr "Для вас была создана новая задача"
+
+msgid "by"
+msgstr "от"
+
+msgid "Complete profile"
+msgstr "Заполнить профиль"
+
+msgid "A new article was published by"
+msgstr "Новая статья была опубликована"
+
+msgid "The selected file is not a video format"
+msgstr "Выбранный файл не относится к видеоформату"
+
+msgid "Versions"
+msgstr "Версия"
+
+msgid "No versions available"
+msgstr "Версия не доступна"
+
+msgid "Add photos / video preview"
+msgstr "Добавить фото/видео превью"
+
+msgid "Title can not be more than 50 symbols"
+msgstr "Название не может быть больше 50 символов"
+
+msgid "You"
+msgstr "Вы"
+
+msgid "invited%s at"
+msgstr "пригласил(a)%s на"
+
+msgid "Verify registration on Konstruktor.com"
+msgstr "Подтверждение регистрации на Konstruktor.com"
+
+msgid "Verify password reset on Konstruktor.com"
+msgstr "Подтверждение сброса пароля на Konstruktor.com"
+
+msgid "Recommend to friends"
+msgstr "Порекомендовать друзьям"
+
+msgid "My subscriptions"
+msgstr "Мои подписки"
+
+msgid "Choose..."
+msgstr "Выберите..."
+
+msgid "More"
+msgstr "Подробнее"
+
+msgid " You"
+msgstr " Вac"
+
+msgid " you"
+msgstr " Вac"
+
+msgid " to"
+msgstr " для"
+
+msgid " task"
+msgstr " задачу"
+
+msgid " event"
+msgstr " событие"
+
+msgid "create an%s"
+msgstr "создали%s"
+
+msgid " create an%s"
+msgstr " создал(a)%s"
+
+msgid "have assigned the%s"
+msgstr "назначили%s"
+
+msgid "invited%s at"
+msgstr "приглашает%s на"
+
+msgid "appointed%s"
+msgstr "назначил(a)%s"
+
+msgid "appointed a%s"
+msgstr "назначил(a)%s"
+
+msgid "Go to"
+msgstr "Перейти"
+
+msgid "Event from"
+msgstr "Событие от"
+
+msgid "Go to Profile"
+msgstr "Перейти к профилю"
+
+msgid "According to my interests"
+msgstr "По моим интересам"
+
+msgid "According to my skills"
+msgstr "По моим навыкам"
+
+msgid "By investment projects"
+msgstr "По инвестиционным проектам"
+
+msgid "Investment projects"
+msgstr "Инвестиционные проекты"
+
+msgid "By external tasks"
+msgstr "По внешним задачам"
+
+msgid "By investment projects"
+msgstr "По инвестиционным проектам"
+
+msgid "Investment projects"
+msgstr "Инвестиционные проекты"
+
+msgid "By external tasks"
+msgstr "По внешним задачам"
+
+msgid "By tasks"
+msgstr "По задачам"
+
+msgid "All projects"
+msgstr "Все проекты"
+
+msgid "Tasks favorites"
+msgstr "Задачи избранных"
+
+msgid "By groups"
+msgstr "По сообществам"
+
+msgid "By groups "
+msgstr "По сообществам "
+
+msgid "Show on the project marketplace"
+msgstr "Показать на бирже задач"
+
+msgid "Favorite groups"
+msgstr "Избранные сообщества"
+
+msgid "Go to Project"
+msgstr "Перейти к проекту"
+
+msgid "Go to Group "
+msgstr "Перейти в сообщество "
+
+msgid "Edit message"
+msgstr "Редактировать сообщение"
+
+msgid "Incoming Files"
+msgstr "Файлы для меня"
+
+msgid "Trash"
+msgstr "Корзина"
+
+msgid "Folder"
+msgstr "Папка"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Access"
+msgstr "Доступ"
+
+msgid "Additional"
+msgstr "Дополнительно"
+
+msgid "Relocate"
+msgstr "Переместить"
+
+msgid "Rename"
+msgstr "Переименовать"
+
+msgid "Preview"
+msgstr "Превью"
+
+msgid "Duplicate"
+msgstr "Дублировать"
+
+msgid "New title"
+msgstr "Новое название"
+
+msgid "Renew subscription"
+msgstr "Обновить подписку"
+
+msgid "Read"
+msgstr "Просматривать"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Link for easy access"
+msgstr "Ссылка для быстрого доступа"
+
+msgid "You can increase the space for their information"
+msgstr "Вы можете увеличить пространство для своей информации"
+
+msgid "Dear user"
+msgstr "Уважаемый пользователь"
+
+msgid "You have used almost all the available space. Please delete unnecessary files, or sign up for extra space"
+msgstr "Вы использовали практически все свободное пространство. Пожалуйста, удалите ненужные файлы или подпишитесь на дополнительное пространство"
+
+msgid "free space"
+msgstr "свободного места"
+
+msgid "Access to"
+msgstr "Доступ к"
+
+msgid "All changes saved"
+msgstr "Все изменения сохранены"
+
+msgid "Select the account for payment of subscription"
+msgstr "Выберите счет для оплаты подписки"
+
+msgid "Card number"
+msgstr "Номер карты"
+
+msgid "Card expiration date"
+msgstr "Срок действия"
+
+msgid "Add card"
+msgstr "Добавить карту"
+
+msgid "Add Paypal"
+msgstr "Добавить Paypal аккаунт"
+
+msgid "First name"
+msgstr "Введите имя"
+
+msgid "Last name"
+msgstr "Введите фамилию"
+
+msgid "Select file"
+msgstr "Выберите файл"
+
+msgid "Favorites"
+msgstr "Избранные"
+
+msgid "Planet K"
+msgstr "Планета К"
+
+msgid "Gallery"
+msgstr "Галерея"
+
+msgid "Notes"
+msgstr "Заметки"
+
+msgid "Build a dream"
+msgstr "Построить мечту"
+
+msgid "Enter"
+msgstr "Войти"
+
+msgid "Subscribe"
+msgstr "Подписаться"
+
+msgid "Unsubscribe"
+msgstr "Отписаться"
+
+msgid "Check for any community investment projects"
+msgstr "Следите за всеми инвестиционными проектами сообщества"
+
+msgid "Your comment"
+msgstr "Ваш комментарий"
+
+msgid "By date"
+msgstr "По дате"
+
+msgid "By rating"
+msgstr "По рейтингу"
+
+msgid "By the most active"
+msgstr "По наибольшей активности"
+
+msgid "All bets"
+msgstr "Все ставки"
+
+msgid "Accepted"
+msgstr "Принятые"
+
+msgid "Rejected"
+msgstr "Отклоненные"
+
+msgid "Waiting for confirmation"
+msgstr "Ожидают подтверждения"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Invest"
+msgstr "Инвестировать"
+
+msgid "Total invested"
+msgstr "Всего инвестировали"
+
+msgid "Of those credited"
+msgstr "Из них начислено"
+
+msgid "Project title"
+msgstr "Название проекта"
+
+msgid "Add document files from the community"
+msgstr "Добавить документ из файлов сообщества"
+
+msgid "Add a document from your computer"
+msgstr "Добавить документ с Вашего компьютера"
+
+msgid "Specify the terms"
+msgstr "Укажите условия"
+
+msgid "Amount"
+msgstr "Сумма"
+
+msgid "Write that the investor receives"
+msgstr "Напишите, что получит инвестор"
+
+msgid "Add another bet"
+msgstr "Добавить ещё ставку"
+
+msgid "Publish"
+msgstr "Опубликовать"
+
+msgid "Enter project title"
+msgstr "Введите название проекта"
+
+msgid "Exceeded the amount of the project"
+msgstr "Сумма всех условий не должна превышать сумму проекта"
+
+msgid "Overall bets for investment should not be less than three"
+msgstr "Общее количество ставок для инвестирования не должно быть меньше трех"
+
+msgid "Have reached the maximum number of bets for investment"
+msgstr "Достигнуто максимальное колличество ставок для инвестирования"
+
+msgid "The project must exist at least one day"
+msgstr "Проект должен существовать минимум один день"
+
+msgid "Can not delete a single field conditions"
+msgstr "Нельзя удалить единственное поле для условий"
+
+msgid "The maximum number of lines per unit conditions - 3"
+msgstr "Максимальное количество строк в одном блоке условий - 3"
+
+msgid "Project title can not be empty!"
+msgstr "Название проекта не может быть пустым!"
+
+msgid "Selected field can not be empty!"
+msgstr "Выделенное поле не может быть пустым!"
+
+msgid "Number must be less than"
+msgstr "Число должно быть меньше, чем"
+
+msgid "Number must be more than"
+msgstr "Число должно быть больше, чем"
+
+msgid "Number must be"
+msgstr "Число должно быть"
+
+msgid "Enter a number"
+msgstr "Введите число"
+
+msgid "In case you have questions about work of KONSTRUKTOR.COM,<br>please, create new ticket"
+msgstr "Если у Вас возникли вопросы или предложения по работе KONSTRUKTOR.COM,<br/>оставьте, пожалуйста Ваш тикет"
+
+msgid "Please start to type you question or select one ticket of below"
+msgstr "Введите Ваш вопрос (предложение, сообщение об ошибке) или выберите из списка"
+
+msgid "Create ticket"
+msgstr "Создать тикет"
+
+msgid "You create"
+msgstr "Вы создали"
+
+msgid "tickets"
+msgstr "тикет(ов)"
+
+msgid "Tickets"
+msgstr "Тикеты"
+
+msgid "All tickets"
+msgstr "Все тикеты"
+
+msgid "videos"
+msgstr "видео"
+
+msgid "How to use this site"
+msgstr "Как пользоваться сайтом"
+
+msgid "Last"
+msgstr "Последние"
+
+msgid "User rating"
+msgstr "По рейтингу пользователя"
+
+msgid "Ticket rating"
+msgstr "По рейтингу тикетов"
+
+msgid "New"
+msgstr "Новые"
+
+msgid "Under consideration"
+msgstr "На рассмотрении"
+
+msgid "In work"
+msgstr "Приняты в работу"
+
+msgid "In Work"
+msgstr "Приняты в работу"
+
+msgid "Done"
+msgstr "Выполненные"
+
+msgid "Rejected"
+msgstr "Отмененные"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "All: "
+msgstr "Всего: "
+
+msgid "You're going to update ticket:"
+msgstr "Вы собираетесь обновить тикет:"
+
+msgid "User tickets"
+msgstr "Поддержка"
+
+msgid "Complaint"
+msgstr "Жалоба"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Suggestion"
+msgstr "Предложение"
+
+msgid "Select category of ticket"
+msgstr "Выберите категорию тикета"
+
+msgid "Select section of ticket"
+msgstr "Выберите блок тикета"
+
+msgid "Ticket Title"
+msgstr "Введите название тикета"
+
+msgid "Type ticket description"
+msgstr "Введите описание тикета"
+
+msgid "Section"
+msgstr "Блок"
+
+msgid "All tickets of "
+msgstr "Все тикеты от "
+
+msgid "You are creating a ticket:"
+msgstr "Вы собираетесь создать тикет:"
+
+msgid "My Time"
+msgstr "Моё время"
+
+msgid "Groups"
+msgstr "Сообщества"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "Investments"
+msgstr "Инвестиции"
+
+msgid "Publication"
+msgstr "Публикации"
+
+msgid "Time management"
+msgstr "Тайм менеджмент"
+
+msgid "Favorites"
+msgstr "Избранные"
+
+msgid "Accepted in work"
+msgstr "Принято в работу"
+
+msgid "Discarded"
+msgstr "Отменен"
+
+msgid "Performed"
+msgstr "Выполнен"
+
+msgid "Read more interesting publications - go free registration"
+msgstr "Читайте больше интересных публикаций, - пройдите бесплатную регистрацию"
+
+msgid "Ticket Title must contain at least 2 and not more than 40 symbols"
+msgstr "Название тиккета должно содержать от 2 до 40 символов"
+
+msgid "Comment must contain at least 1 symbol"
+msgstr "Текст комментария должен содержать не менее 1 символа"
+
+msgid "Select category"
+msgstr "Пожалуйста, укажите категорию"
+
+msgid "Select section"
+msgstr "Пожалуйста, укажите блок"
+
+msgid "Video is converting"
+msgstr "Видео конвертируется"
+
+msgid "Similar investment projects"
+msgstr "Похожие инвестиционные проекты"
+
+msgid "You have successfully invested"
+msgstr "Вы успешно инвестировали"
+
+msgid "Your bet has been reserved"
+msgstr "Ваша ставка была зарезервирована"
+
+msgid "All contacts"
+msgstr "Все контакты"
+
+msgid "Dream chart"
+msgstr "График мечты"
+
+msgid "You commented task"
+msgstr "Вам прокомментировали задачу"
+
+msgid "You commented task %s"
+msgstr "Вам прокомментировали задачу %s"
+
+msgid "By latest activity"
+msgstr "По дате последней активности"
+
+msgid "By most activity"
+msgstr "По наибольшей активности"
+
+msgid "You create a new community"
+msgstr "Вы создаете новое сообщество"
+
+msgid "You invite people into the community"
+msgstr "Вы приглашаете людей в сообщество"
+
+msgid "Add to community"
+msgstr "Добавить в сообщество"
+
+msgid "Add to team"
+msgstr "Добавить в команду"
+
+msgid "Invite"
+msgstr "Пригласить"
+
+msgid "Activity"
+msgstr "Активность"
+
+msgid "By date of publication"
+msgstr "По дате публикации"
+
+msgid "By rating"
+msgstr "По рейтингу"
+
+msgid "Articles by"
+msgstr "Статьи от"
+
+msgid "Author not fined"
+msgstr "Автор не найден"
+
+msgid "Enter tags"
+msgstr "Введите теги"
+
+msgid "Write to author"
+msgstr "Написать автору"
+
+msgid "I liked Publication"
+msgstr "Публикация мне понравилась"
+
+
+msgid "All changes saved"
+msgstr "Все изменения сохранены"
+
+msgid "Video publication"
+msgstr "Видео публикация"
+
+msgid "Recommend to friends"
+msgstr "Порекомендовать друзьям"
+
+msgid "Upload from"
+msgstr "Загрузить с:"
+
+msgid "my store"
+msgstr "моего хранилища"
+
+msgid "my device"
+msgstr "моего устройства"
+
+msgid "My device"
+msgstr "Устройство"
+
+msgid "In one's own name"
+msgstr "От своего имени"
+
+msgid "Add photos"
+msgstr "Добавить фото"
+
+msgid "Upload video"
+msgstr "Загрузить видео"
+
+msgid "Draft"
+msgstr "Черновик"
+
+msgid "add tags"
+msgstr "Введите тег"
+
+msgid "Back to list"
+msgstr "Вернуться к списку"
+
+msgid "My publications"
+msgstr "Мои публикации"
+
+msgid "My publication"
+msgstr "Мои публикации"
+
+msgid "All groups of publications"
+msgstr "Все группы публикаций"
+
+msgid "General publication"
+msgstr "Обычная публикация"
+
+msgid "Idea Publication"
+msgstr "Публикация идея"
+
+msgid "Project Publication"
+msgstr "Публикация проект"
+
+msgid "Science publication"
+msgstr "Научная публикация"
+
+msgid "Publication-hypothesis"
+msgstr "Публикация-гипотеза"
+
+msgid "Publication-question"
+msgstr "Публикация-вопрос"
+
+msgid "Leaders publications"
+msgstr "Публикации лидеров"
+
+msgid "Promo-publication"
+msgstr "Промо-публикация"
+
+msgid "Appeal-publication"
+msgstr "Публикации-обращения"
+
+msgid "Save and Upload"
+msgstr "Сохранить и опубликовать"
+
+
+msgid "Original"
+msgstr "Оригинал"
+
+msgid   "Language settings"
+msgstr  "Настройки языка"
+
+msgid   "Suggest my version"
+msgstr  "Предложить свой вариант"
+
+msgid   "Rate translation"
+msgstr  "Оценить перевод"
+
+msgid   "Very bad"
+msgstr  "Плохой"
+
+msgid "Bad"
+msgstr  "Неплохой"
+
+msgid   "Good"
+msgstr  "Хороший"
+
+msgid   "Excellent"
+msgstr  "Отличный"
+
+msgid "Russian"
+msgstr "Русский"
+
+msgid "Your suggestion to title"
+msgstr "Ваше предложение для названия"
+
+msgid "Your suggestion to content"
+msgstr "Ваше предложение для описания"
+
+msgid "Suggest"
+msgstr "Предложить"
+
+msgid "Content"
+msgstr "Описание"
+
+msgid "My suggestion"
+msgstr "Свой вариант перевода"
+
+msgid "English"
+msgstr "Английский"
+
+msgid "Exchange"
+msgstr "Биржа"
+
+msgid "Customer"
+msgstr "Заказчик"
+
+msgid "It is necessary to proceed"
+msgstr "Надо приступить"
+
+msgid "It is necessary to proceed"
+msgstr "Надо приступить"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Product"
+msgstr  "Продукт"
+
+msgid "Idea"
+msgstr  "Идея"
+
+msgid "Ideas"
+msgstr  "Идеи"
+
+msgid "Charity"
+msgstr  "Благотворительность"
+
+msgid "Users\' applications"
+msgstr  "Заявки пользователей"
+
+msgid "Applicant"
+msgstr  "Заявитель"
+
+msgid "Date of posting"
+msgstr  "Дата размещения"
+
+msgid "Salary"
+msgstr  "Cумма оплаты"
+
+msgid "Jan."
+msgstr "Янв."
+
+msgid "Febr."
+msgstr "Февр."
+
+msgid "Mar."
+msgstr "Март"
+
+msgid "Apr."
+msgstr "Апр."
+
+msgid "Aug."
+msgstr "Авг."
+
+msgid "Sept."
+msgstr "Сент."
+
+msgid "Oct."
+msgstr "Окт."
+
+msgid "Nov."
+msgstr "Нояб."
+
+msgid "Dec."
+msgstr "Дек."
+
+msgid "invited you to join the community in the role"
+msgstr "предложил вам присоединиться к сообществу в роли"
+
+msgid "confirmed the entry into the community"
+msgstr "подтвердил вступление в сообщество"
+
+msgid "cancelled membership in the community"
+msgstr "отклонил вступление в сообщество"
+
+msgid "You joined to community"
+msgstr "Вы присоеденились к сообществу"
+
+msgid "You was not join to community"
+msgstr "Вы не присоеденились к сообществу"
+
+msgid "want to join the community"
+msgstr "хочет вступить в сообщество"
+
+msgid "Recipient $1 has proposed to change the conditions of task $2"
+msgstr "Участник $1 предлагает изменить условия задачи $2"
+
+msgid "Recipient $1 has proposed to change the conditions of meet $2"
+msgstr "Участник $1 предлагает изменить условия встречи $2"
+
+msgid "Recipient $1 has proposed to change the conditions of sport event $2"
+msgstr "Участник $1 предлагает изменить условия спортивного события $2"
+
+msgid "Recipient $1 has proposed to change the conditions of entertaiment $2"
+msgstr "Участник $1 предлагает изменить условия развлечения $2"
+
+
+
+msgid "$1 has created a task $2 for you"
+msgstr "$1 создал для вас задачу $2"
+
+msgid "$1 has invited you to meeting $2"
+msgstr "$1 пригласил вас на встречу $2"
+
+msgid "$1 has invited you to sport event $2"
+msgstr "$1 пригласил вас на спортивное событие $2"
+
+msgid "$1 has invited you to entertaiment $2"
+msgstr "$1 пригласил вас на развлечение $2"
+
+msgid "The task $1 was created for you"
+msgstr "Для вас была создана задача $1"
+
+msgid "The meet $1 was created for you"
+msgstr "Для вас была создана встреча $1"
+
+msgid "The sport event $1 was created for you"
+msgstr "Для вас была создано спортивное событие $1"
+
+msgid "The entertainment $1 was created for you"
+msgstr "Для вас была создано развлечение $1"
+
+msgid "You've created the meet $1 and add the participants"
+msgstr "Вы создали встречу $1 и добавили участников"
+
+msgid "You've created the task $1 and add the participants"
+msgstr "Вы создали задачу $1 и добавили участников"
+
+msgid "You've created the sport event $1 and add the participants"
+msgstr "Вы создали спортивное событие $1 и добавили участников"
+
+msgid "You've created the entertaiment $1 and add the participants"
+msgstr "Вы создали развлечение $1 и добавили участников"
+
+msgid "planned to call for you"
+msgstr "планирует вам позвонить"
+
+msgid "A call was planned for you"
+msgstr "Для вас был запланирован звонок"
+
+msgid "in community"
+msgstr "в сообществе"
+
+msgid "You've created the meet"
+msgstr "Вы создали встречу"
+
+msgid "The meet"
+msgstr "Встреча"
+
+msgid "You've created the entertain"
+msgstr "Вы создали развлечение"
+
+msgid "The entertain"
+msgstr "Развлечение"
+
+msgid "You've created the sport"
+msgstr "Вы создали спортивное событие"
+
+msgid "The sport"
+msgstr "Спортивное событие"
+
+msgid "New message"
+msgstr "Новое сообщение"
+
+msgid "created a community"
+msgstr "создал сообщество"
+
+msgid "and add participants"
+msgstr "и добавил участников"
+
+msgid "invites you to become a project participant"
+msgstr "предлагает стать вам участником проекта"
+
+msgid "confirmed the invitation to the project"
+msgstr "подтвердил приглашение в проект"
+
+msgid "declined the invitation to the project"
+msgstr "отклонил приглашение в проект"
+
+msgid "You created the subproject"
+msgstr "Вы создали подпроект"
+
+msgid "You created the project"
+msgstr "Вы создали проект"
+
+msgid "created the subproject"
+msgstr "создал подпроект"
+
+msgid "created a publication"
+msgstr "создал публикацию"
+
+msgid "created a video publication"
+msgstr "создал видеопубликацию"
+
+msgid "the new invest project $1 was opened"
+msgstr "был открыт новый инвестиционный проект $1"
+
+msgid "changed conditions of invest project"
+msgstr "изменил условия инвестиционного проекта"
+
+msgid "commented your invest project"
+msgstr "прокомментировал инвестиционный проект"
+
+msgid "answered your comment in invest project"
+msgstr "ответил на комментарий в инвестиционном проекте"
+
+msgid "commented your publication"
+msgstr "прокомментировал вашу публикацию"
+
+msgid "answered your comment in publication"
+msgstr "ответил на ваш комментарий в публикации"
+
+msgid "Conditions of"
+msgstr "Условия"
+
+msgid "was changed"
+msgstr "были изменены"
+
+msgid "Change"
+msgstr "Изменить"
+
+msgid "Private task"
+msgstr "Личная задача"
+
+msgid "Personal meet"
+msgstr "Личная встреча"
+
+msgid "Personal mail"
+msgstr "Личное письмо"
+
+msgid "Personal pay"
+msgstr "Личная оплата"
+
+msgid "Personal call"
+msgstr "Личный звонок"
+
+msgid "Personal sport"
+msgstr "Личное спорт. событие"
+
+msgid "Personal entertain"
+msgstr "Личное развл. событие"
+
+msgid "Choose a project"
+msgstr "Выберите проект"
+
+msgid "Task description"
+msgstr "Описание задачи"
+
+msgid "Meet description"
+msgstr "Описание встречи"
+
+msgid "Sport description"
+msgstr "Описание спорт. события"
+
+msgid "Entertain description"
+msgstr "Описание развл. события"
+
+msgid "Call description"
+msgstr "Описание звонка"
+
+msgid "Mail description"
+msgstr "Описание письма"
+
+msgid "Pay description"
+msgstr "Описание оплаты"
+
+msgid "enter the amount"
+msgstr "введите сумму"
+
+msgid "Junе"
+msgstr "Июнь"
+
+msgid "July"
+msgstr "Июль"
+
+msgid "Add Email"
+msgstr "Добавить Email"
+
+msgid "Plan"
+msgstr "Запланировать"
+
+msgid "You planned a call"
+msgstr "Вы запланировали звонок"
+
+msgid "YOU PLAN A CALL"
+msgstr "Вы планируете звонок"
+
+msgid "YOU PLAN A PAYMENT"
+msgstr "Вы планируете оплату"
+
+msgid "attached files to task"
+msgstr "прикрепил файлы к задаче"
+
+msgid "Mail title"
+msgstr "Тема письма"
+
+msgid "YOU CREATE A TASK"
+msgstr "Вы создаёте задачу"
+
+msgid "YOU CREATE A MEETING"
+msgstr "Вы создаёте встречу"
+
+msgid "You planned a pay"
+msgstr "Вы запланировали оплату"
+
+msgid "A pay was planned for you"
+msgstr "Для вас запланирована оплата"
+
+msgid "Football"
+msgstr "Футбол"
+
+msgid "Hockey"
+msgstr "Хоккей"
+
+msgid "Restaurant"
+msgstr "Ресторан"
+
+msgid "commented the task"
+msgstr "прокомментировал задачу"
+
+msgid "You have commented the task"
+msgstr "Вы прокомментировали задачу"
+
+msgid "decline event"
+msgstr "отклонил приглашение на событие"
+
+msgid "accept event"
+msgstr "принял приглашение на событие"
+
+msgid "Search results"
+msgstr "Результаты поиска"
+
+msgid "Enter name or E-mail"
+msgstr "Введите имя или E-mail"
+
+msgid "Your request is processing..."
+msgstr "Ваш запрос обрабатывается..."
+
+msgid "Details"
+msgstr "Подробнее"
+
+msgid "and add the participants"
+msgstr "и добавил участников"
+
+msgid "and invite the participants"
+msgstr "и добавили участников"
+
+msgid "You create a new ticket"
+msgstr "Вы создали новый тикет"
+
+msgid "You created a community"
+msgstr "Вы создали новое сообщество"
+
+msgid "You created a publication"
+msgstr "Вы создали новую публикацию"
+
+msgid "You created a video publication"
+msgstr "Вы создали новую видеопубликацию"
+
+msgid "accepted"
+msgstr "принято"
+
+msgid "Your message"
+msgstr "Ваше сообщение"
+
+msgid "celebrates birthday today"
+msgstr "сегодня празднует свой день рождения"
+
+msgid "will celebrate birthday in 2 days"
+msgstr "празднует свой день рождения через 2 дня"
+
+msgid "You replied to a comment in the investment project"
+msgstr "Вы ответили на комментарий в инвестиционном проекте"
+
+msgid "You replied to a comment in the publication"
+msgstr "Вы ответили на комментарий в статье"
+
+msgid "Service"
+msgstr "Услуга"
+
+msgid "Services"
+msgstr "Услуги"
+
+msgid "My services"
+msgstr "Мои услуги"
+
+msgid "All services"
+msgstr "Все услуги"
+
+msgid "NEW SERVICE"
+msgstr "Создать услугу"
+
+msgid "Service title"
+msgstr "Заголовок услуги"
+
+msgid "Agriculture"
+msgstr "Сельское хозяйство"
+
+msgid "Commerce"
+msgstr "Торговля"
+
+msgid "Construction"
+msgstr "Строительство"
+
+msgid "Consulting"
+msgstr "Консалтинг"
+
+msgid "Energy"
+msgstr "Энергетика"
+
+msgid "Financial services"
+msgstr "Финансовые услуги"
+
+msgid "Manufacture"
+msgstr "Производство"
+
+msgid "Tourism, sports"
+msgstr "Туризм, спорт"
+
+msgid "Transport"
+msgstr "Транспорт"
+
+msgid "Prototype"
+msgstr "Прототип"
+
+msgid "Working business"
+msgstr "Работающий бизнес"
+
+msgid "shared files for you"
+msgstr "открыл вам доступ к файлам"
+
+msgid "Your friend"
+msgstr "Ваш друг"
+
+msgid "Archive"
+msgstr "Архив"
+
+msgid "invites you to back the project."
+msgstr "приглашает Вас поддержать его."
+
+msgid "Do not skimp. Share with friends!"
+msgstr "Не скупитесь. Сделайте больше репостов!"
+
+msgid "Subscriptions"
+msgstr "Подписки"
+
+msgid "Followers"
+msgstr "Подписчики"
+
+msgid "Visits"
+msgstr "Посещения"
+
+msgid "Reposts"
+msgstr "Репосты"
+
+msgid "My e-mails"
+msgstr "Мои e-mail"
+
+msgid "Add your mails"
+msgstr "Добавьте Ваш e-mail"
+
+msgid "Add a short video about yourself to be more credible"
+msgstr "Добавьте короткое видео о себе, чтобы вызывать больше доверия"
+
+msgid "Add a short video about yourself"
+msgstr "Добавьте короткое видео о себе"
+
+msgid "Change skills"
+msgstr "Сменить навыки"
+
+msgid "Change interests"
+msgstr "Сменить интересы"
+
+msgid "Incorrect Email"
+msgstr "Неверный адрес электронной почты"
+
+msgid "Permissions"
+msgstr "Права доступа"
+
+msgid "Learn how it works"
+msgstr "Узнайте подробнее, как это работает"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Our service"
+msgstr "Наш сервис"
+
+msgid "Add new document"
+msgstr "Добавить документ"
+
+msgid "Title of the investment project"
+msgstr "Заголовок инвестиционного проекта"
+
+msgid "Create a title for the project that most closely characterizes the goal.<br>We recommend to choose simple, yet easy to remember title."
+msgstr "Придумайте название, которое наилучшим образом отразит суть проекта.<br>Рекомендуем простое и в то же время легко запоминающееся название."
+
+msgid "Add project image.<br>This image will be attracting investor attention. We recommend choosing image of best quality and content."
+msgstr "Добавьте обложку проекта.<br>Это изображение будет привлекать инвесторов. Подберите достойное изображение!"
+
+msgid "Choose status, category and desired amount of investment."
+msgstr "Выберите стадию, категорию и желаемую сумму инвестиций."
+
+msgid "Success tips:<br><br>1. Describe your idea in detail.<br>Be creative: the more color, the more examples, the more images you include, the more investor would learn about your idea.<br><br>2. Describe the problem or the task your idea is solving and it is or will be accomplished.<br><br>3. Describe competitors and why you (and not them) will succeed."
+msgstr "Рекомендации:<br><br>1. Подробно опишите Вашу идею.<br>Не скупитесь на эмоции: чем ярче и интереснее будет описание, чем больше примеров, изображений Вы добавите, тем больше инвесторы узнают о Вашей идее.<br><br>2. Опишите проблему либо задачу, которую решает Ваша идея и каким образом это реализуется/будет реализовано.<br><br>3. Опишите Ваших возможных конкурентов и преимущество перед ними."
+
+msgid "Decide the date the fundraising will end (90 days if omitted)"
+msgstr "Определитесь с датой окончания сбора средств. (по умолчанию - 90 дней)"
+
+msgid "Choose project ownership – personal or group (personal if omitted)"
+msgstr "Выберите от имени кого будете публиковать проект - себя лично, либо Вашего сообщества. (по умолчанию проект будет опубликован от вашего имени)"
+
+msgid "Publish project under ownership:"
+msgstr "Публиковать проект от имени:"
+
+msgid "Add amount and at least three offers to the investors, to attract more interest:"
+msgstr "Добавьте суммы и минимум три предложения инвесторам, чтобы их заинтересовать:"
+
+msgid "Add offer to potential investor"
+msgstr "Добавить предложение инвестору"
+
+msgid "Publish the project and share with friends. This will greatly improve your chances for success!"
+msgstr "Опубликуйте проект и расскажите о нём всем своим друзьям и знакомым. Это значительно увеличит шансы на успех!"
+
+msgid "It is highly recommended that you announce your project in social networks.<br>Ask your friends to repost your announcement. This strategy may lead to nearly double the number of potential investors."
+msgstr "Обязательно расскажите о своем инвестпроекте в социальных сетях!<br>Попросите друзей сделать репосты. Это поможет увеличить количество потенциальных инвесторов как минимум вдвое."
+
+msgid "Please confirm your intent to delete this investment project."
+msgstr "Вы действительно желаете удалить инвестпроект?"
+
+msgid "Earned money"
+msgstr "Заработали денег"
+
+msgid "Developed their idea"
+msgstr "Реализовали идею"
+
+msgid "Found inspiration"
+msgstr "Нашли вдохновение"
+
+msgid "Materialized dreams"
+msgstr "Реализованные мечты на сайте"
+
+msgid "Earn money"
+msgstr "Заработаю денег"
+
+msgid "Develop the idea"
+msgstr "Реализую идею"
+
+msgid "Find inspiration"
+msgstr "Найду вдохновение"
+
+msgid "How will you develop your dream?"
+msgstr "Каким образом Вы построите свою мечту?"
+
+msgid "He earned money using Konstruktor services to travel to Australia"
+msgstr "Отправился в путешествие в Австралию заработав денег через услуги на Konstruktor"
+
+msgid "He found a prestigious job in IT through Konstruktor Jobs"
+msgstr "Нашел престижную работу IT специалиста в вакансиях на Konstruktor"
+
+msgid "He developed an innovative application «Agro-Horizon» with financing raised via Konstruktor crowdfunding."
+msgstr "Разработал инновационную программу «Агро Горизонт» найдя финансирование в разделе краунфаундинга на Konstruktor"
+
+msgid "He started small business company with partners found through Konstruktor publishing."
+msgstr "Начал собственный бизнес найдя партнеров через публикацию идеи на Konstruktor"
+
+msgid "He became financially independent freelancing in projects found in Konstruktor Project Marketplace"
+msgstr "Стал финансово независимым работая в проектах фриланс биржи Konstruktor"
+
+msgid "He developed an idea by organizing a group with like-minded users found through Konstruktor Groups."
+msgstr "Реализовал свою идею собрав единомышленников через сообщество на Konstruktor"
+
+msgid "Economy"
+msgstr "Экономика"
+
+msgid "Comics"
+msgstr "Комиксы"
+
+msgid "Crafts"
+msgstr "Поделки"
+
+msgid "Publications"
+msgstr "Публикации"
+
+msgid "Countries"
+msgstr "Страны"
+
+msgid "Count"
+msgstr "Количество"
+
+msgid "About product"
+msgstr "О продукте"
+
+msgid "Material"
+msgstr "Материал"
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Delivery"
+msgstr "Доставка"
+
+msgid "Pre-order"
+msgstr "Предзаказ"
+
+msgid "Weight"
+msgstr "Вес"
+
+msgid "Characteristic"
+msgstr "Характеристика"
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "0 x 0 x 0 sm"
+msgstr "0 x 0 x 0 см"
+
+msgid "Choose material"
+msgstr "Укажите материал"
+
+msgid "Choose color"
+msgstr "Укажите цвет"
+
+msgid "Write a locations"
+msgstr "Напишите локации"
+
+msgid "Is there a pre-order?"
+msgstr "Есть ли предзаказ?"
+
+msgid "Enter the weight (kg)"
+msgstr "Укажите вес (кг)"
+
+msgid "Enter country"
+msgstr "Укажите страну"
+
+msgid "Write a information about the product"
+msgstr "Напишите информацию о продукте"
+
+msgid "Write a information about you"
+msgstr "Напишите информацию о Вас"
+
+msgid "Products"
+msgstr "Товары"
+
+msgid "Authors"
+msgstr "Авторы"
+
+msgid "Cart"
+msgstr "Корзина"
+
+msgid "New product"
+msgstr "Добавить товар"
+
+msgid "PRODUCT NAME"
+msgstr "НАЗВАНИЕ ТОВАРА"
+
+msgid "Contacts"
+msgstr "Контакты"
+
+msgid "All contacts"
+msgstr "Все контакты"
+
+msgid "Mobile Entry Point"
+msgstr "Мобильная точка входа"
+
+msgid "Stationary entry point"
+msgstr "Стационарная точка входа"
+
+msgid "Copy of pages"
+msgstr "Копия страниц"
+
+msgid "Insufficient funds on personal account"
+msgstr "Недостаточно средств на личном счёте"
+
+msgid "Replenish"
+msgstr "Пополнить"
+
+msgid "Windrawal"
+msgstr "Вывод средств"
+
+msgid "Balance history"
+msgstr "История операций"
+
+msgid "Transaction Date"
+msgstr "Дата транзакции"
+
+msgid "Invoice #"
+msgstr "№ Счета"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Transaction"
+msgstr "Транзакация"
+
+msgid "Periodicity"
+msgstr "Периодичность"
+
+msgid "Enter amount to replenish"
+msgstr "Введите сумму пополнения"
+
+msgid "Enter amount to windrawal"
+msgstr "Введите сумму к выводу"
+
+msgid "Commission"
+msgstr "Комиссия"
+
+msgid "Connect"
+msgstr "Подключить"
+
+msgid "Wiring a wallet"
+msgstr "Подключение кошелька"
+
+msgid "Wallet Number"
+msgstr "Номер кошелька"
+
+msgid "Sms Code"
+msgstr "Смс код"
+
+msgid "Send sms code"
+msgstr "Отправить смс-код"
+
+msgid "Wrong Sms Code"
+msgstr "Неверный смс-код"
+
+msgid "Incorrect wallet number"
+msgstr "Неверный номер кошелька"
+
+msgid "Wrong wallet type id"
+msgstr "Неверный тип кошелька"
+
+msgid "Wrong wallet id"
+msgstr "Неверный кошелек"
+
+msgid "Internal error, please try again later."
+msgstr "Внутренняя ошибка, пожалуйста попробуйте позже."
+
+msgid "Funds are sent to the conclusion"
+msgstr "Средства отправлены на вывод"
+
+msgid "Wait Pay"
+msgstr "Ожидает оплаты"
+
+msgid "Pending"
+msgstr "В обработке"
+
+msgid "Pay Canceled"
+msgstr "Отменен"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Successfuly"
+msgstr "Успешно"
+
+msgid "Withdrawals funds"
+msgstr "Снятие средств"
+
+msgid "One-time"
+msgstr "Разово"
+
+msgid "Daily"
+msgstr "Ежедневно"
+
+msgid "Weekly"
+msgstr "Еженедельно"
+
+msgid "Monthly"
+msgstr "Ежемесячно"
+
+msgid "Replinish funds"
+msgstr "Пополнение счета"
+
+msgid "Payment is declined"
+msgstr "Платеж отклонен"
+
+msgid "Payment successfuly"
+msgstr "Платеж прошел успешно"
+
+msgid "Amount is required"
+msgstr "Сумма обязательна к заполнению"
+
+msgid "Buy in Gallery"
+msgstr "Покупка в галерее"
+
+msgid "Sell in Gallery"
+msgstr "Продажа в галерее"
+
+msgid "Invest send"
+msgstr "Отправлены инвестиции"
+
+msgid "Invest receive"
+msgstr "Получены инвестиции"
+
+msgid "Transfer send"
+msgstr "Перевод средств"
+
+msgid "Transfer receive"
+msgstr "Перевод средств"
+
+msgid "Send invest to"
+msgstr "Проинвестирован проект"
+
+msgid "Receive invest from"
+msgstr "Получены инвестиции за проект"
+
+msgid "Sell gallery item"
+msgstr "Покупка продуктов галереи"
+
+msgid "Buy gallery item"
+msgstr "Продажа продуктов галереи"
+
+msgid "Send funds to"
+msgstr "Перевод средств пользователю"
+
+msgid "Receive funds from"
+msgstr "Получены средства от пользователя"
+
+msgid "Buy a place"
+msgstr "Купить место"

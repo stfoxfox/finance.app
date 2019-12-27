@@ -1,0 +1,3341 @@
+# العربية (Арабский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: العربية (Арабский) <support@konstruktor.com>\n"
+"Language: العربية (Арабский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "اسم المستخدم"
+
+msgid "Invalid username or password, try again"
+msgstr "اسم المستخدم أو كلمة المرور غير صحيحة . حاول مرة أخرى."
+
+msgid "Settings"
+msgstr "الإعدادات"
+
+msgid "Home"
+msgstr "منزل"
+
+msgid "You must log in to access this page"
+msgstr "يجب عليك تسجيل الدخول للوصول إلى هذه الصفحة"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "وقد انتهت جلسة العمل الخاصة بك . من فضلك، relogin لتنفيذ هذا الإجراء"
+
+msgid "Save"
+msgstr "حفظ"
+
+msgid "Head Office"
+msgstr "المكتب الرئيسي"
+
+msgid "Address"
+msgstr "عنوان"
+
+msgid "Back"
+msgstr "إلى الوراء"
+
+msgid "Apply"
+msgstr "تطبق"
+
+msgid "Upload files…"
+msgstr "تحميل الملفات ..."
+
+msgid "Set as main"
+msgstr "اجعلنا الرئيسية"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Original image"
+msgstr "الصورة الأصلية"
+
+msgid "Uploaded"
+msgstr "تم تحميلها."
+
+msgid "File name"
+msgstr "اسم الملف"
+
+msgid "File size"
+msgstr "حجم الملف"
+
+msgid "Resolution"
+msgstr "قرار"
+
+msgid "Enlarge"
+msgstr "تكبير"
+
+msgid "Links"
+msgstr "وصلات"
+
+msgid "Original size"
+msgstr "الحجم الأصلي"
+
+msgid "For editor"
+msgstr "لل محرر"
+
+msgid "Resize"
+msgstr "تغيير حجم"
+
+msgid "Width"
+msgstr "عرض"
+
+msgid "Height"
+msgstr "ارتفاع"
+
+msgid "Media URL"
+msgstr "URL سائل الإعلام"
+
+msgid "Add record"
+msgstr "اضافة التسجيلة"
+
+msgid "Show filter settings"
+msgstr "إعدادات مشاهدة فلتر"
+
+msgid "Edit record"
+msgstr "تحرير سجل"
+
+msgid "Delete record"
+msgstr "حذف سجل"
+
+msgid "Delete checked records"
+msgstr "حذف السجلات فحص"
+
+msgid "Dashboard"
+msgstr "لوحة القيادة"
+
+msgid "Password"
+msgstr "كلمة المرور"
+
+msgid "Remember me"
+msgstr "تذكرني"
+
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+msgid "Clean image cache"
+msgstr "مخبأ صورة نظيفة"
+
+msgid "Processing query..."
+msgstr "الاستعلام المعالجة ..."
+
+msgid "CMS Development"
+msgstr "التنمية CMS"
+
+msgid "Admin Home Page"
+msgstr "المشرف الصفحة الرئيسية"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "فتح الصفحة الرئيسية من الواجهة الأمامية في علامة تبويب جديدة"
+
+msgid "Go to Site"
+msgstr "الذهاب إلى الموقع"
+
+msgid "Log out"
+msgstr "خروج"
+
+msgid "Send"
+msgstr "إرسال"
+
+msgid "General"
+msgstr "عام"
+
+msgid "Title"
+msgstr "لقب"
+
+msgid "Teaser"
+msgstr "دعابة"
+
+msgid "Published"
+msgstr "نشرت"
+
+msgid "Featured"
+msgstr "ظهرت"
+
+msgid "Active"
+msgstr "نشط"
+
+msgid "Field is mandatory"
+msgstr "حقل إلزامي"
+
+msgid "Sort Order"
+msgstr "الترتيب"
+
+msgid "Upload"
+msgstr "تحميل"
+
+msgid "Loading..."
+msgstr "تحميل ..."
+
+msgid "Jan"
+msgstr "يناير"
+
+msgid "Feb"
+msgstr "فبراير"
+
+msgid "Mar"
+msgstr "مسيرة"
+
+msgid "Apr"
+msgstr "أبريل"
+
+msgid "May"
+msgstr "قد"
+
+msgid "Jun"
+msgstr "يونيو"
+
+msgid "Jul"
+msgstr "يوليو"
+
+msgid "Aug"
+msgstr "أغسطس"
+
+msgid "Sep"
+msgstr "سبتمبر"
+
+msgid "Oct"
+msgstr "أكتوبر"
+
+msgid "Nov"
+msgstr "تشرين الثاني"
+
+msgid "Dec"
+msgstr "ديسمبر"
+
+msgid "Product already exists in the order"
+msgstr "المنتج موجود بالفعل في النظام"
+
+msgid "Product does not exist"
+msgstr "لا وجود المنتج"
+
+msgid "Incorrect request"
+msgstr "طلب غير صحيح"
+
+msgid "Products"
+msgstr "المنتجات"
+
+msgid "Product types"
+msgstr "أنواع المنتجات"
+
+msgid "Contractors"
+msgstr "المقاولون"
+
+msgid "Contractor"
+msgstr "مقاول"
+
+msgid "Orders"
+msgstr "أوامر"
+
+msgid "FAQ"
+msgstr "التعليمات"
+
+msgid "New order"
+msgstr "طلب جديد"
+
+msgid "My orders"
+msgstr "أوامري"
+
+msgid "Recharge balance"
+msgstr "توازن التغذية"
+
+msgid "Administrator"
+msgstr "مدير"
+
+msgid "Incorrect event ID"
+msgstr "صحيح معرف الحدث"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid ""
+msgstr "التكنولوجيا . المعلمات"
+
+msgid "Edit contractor"
+msgstr "تحرير مقاول"
+
+msgid "Create contractor"
+msgstr "إنشاء المقاول"
+
+msgid "Edit question"
+msgstr "تحرير مسألة"
+
+msgid "Create question"
+msgstr "إنشاء السؤال"
+
+msgid "Edit order"
+msgstr "تحرير النظام"
+
+msgid "Create order"
+msgstr "إنشاء النظام"
+
+msgid "Edit product"
+msgstr "تحرير المنتج"
+
+msgid "Create product"
+msgstr "إنشاء المنتج"
+
+msgid "Edit product type"
+msgstr "تحرير نوع المنتج"
+
+msgid "Create product type"
+msgstr "خلق نوع المنتج"
+
+msgid "You have received a file"
+msgstr "كنت قد تلقيت ملف"
+
+msgid "You received a file from"
+msgstr "لقد تلقيت ملف من"
+
+msgid "File has been uploaded"
+msgstr "تم تحميل الملف"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "كمية الحد الأدنى"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "البنود"
+
+msgid "Remove"
+msgstr "نقل"
+
+msgid "Contact person"
+msgstr "الشخص الذي يمكن الاتصال به"
+
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+msgid "Contractor phone"
+msgstr "الهاتف المقاول"
+
+msgid "Contractor name"
+msgstr "اسم المقاول"
+
+msgid "Contractor details"
+msgstr "تفاصيل المقاول"
+
+msgid "Order ID"
+msgstr "ترتيب ID"
+
+msgid "Sum"
+msgstr "مجموع"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "اختيار نظام الدفع مناسبة لإعادة شحن رصيدك"
+
+msgid "Recharge amount"
+msgstr "كمية التغذية"
+
+msgid "Paid"
+msgstr "مدفوع"
+
+msgid "Shipped"
+msgstr "شحن"
+
+msgid "- No products in this order -"
+msgstr "- لا توجد منتجات في هذا النظام -"
+
+msgid "month"
+msgstr "شهر"
+
+msgid "No user found"
+msgstr "العثور على أي مستخدم"
+
+msgid "Achievement"
+msgstr "إنجاز"
+
+msgid "Confirmed accomplishments"
+msgstr "الإنجازات أكد"
+
+msgid "Remove achievement"
+msgstr "إزالة الإنجاز"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "هاتف"
+
+msgid "Site URL and email"
+msgstr "URL الموقع و البريد الالكتروني"
+
+msgid "Remove address"
+msgstr "إزالة عنوان"
+
+msgid "Members"
+msgstr "الأعضاء"
+
+msgid "Requires a payment"
+msgstr "يتطلب دفع"
+
+msgid "Shipping"
+msgstr "الشحن"
+
+msgid "Ready"
+msgstr "استعداد"
+
+msgid "Find user..."
+msgstr "البحث المستخدم ..."
+
+msgid "Order it"
+msgstr "من أجل ذلك"
+
+msgid "Find group..."
+msgstr "البحث عن مجموعة ..."
+
+msgid "Find user or community..."
+msgstr "العثور على المستخدم أو المجتمع ..."
+
+msgid "No item found"
+msgstr "أي بند وجد"
+
+msgid "years"
+msgstr "سنوات"
+
+msgid "Send message"
+msgstr "أرسل رسالة"
+
+msgid "Message"
+msgstr "رسالة"
+
+msgid "To send message press Enter"
+msgstr "لإرسال رسالة أدخل الصحافة"
+
+msgid "To send message press CTRL+Enter"
+msgstr "لإرسال رسالة الصحافة CTRL + أدخل"
+
+msgid "Processing file(s)..."
+msgstr "ملف معالجة ( الصورة ) ..."
+
+msgid "Group settings"
+msgstr "ضبط مجموعة"
+
+msgid "Create group"
+msgstr "إنشاء مجموعة"
+
+msgid "Group has been successfully saved"
+msgstr "تم حفظ المجموعة بنجاح"
+
+msgid "Group title"
+msgstr "عنوان المجموعة"
+
+msgid "Group video"
+msgstr "فيديو جماعية"
+
+msgid "Description"
+msgstr "وصف"
+
+msgid "Your role in group"
+msgstr "دورك في مجموعة"
+
+msgid "Role"
+msgstr "دور"
+
+msgid "Photo or video gallery"
+msgstr "الصورة أو الفيديو معرض"
+
+msgid "Youtube.com URL"
+msgstr "URL Youtube.com"
+
+msgid "Upload video"
+msgstr "تحميل الفيديو"
+
+msgid "Add group address"
+msgstr "إضافة عنوان المجموعة"
+
+msgid "Group articles"
+msgstr "مقالات المجموعة"
+
+msgid "No addresses yet"
+msgstr "أية عناوين بعد"
+
+msgid "Add group achievement"
+msgstr "إضافة تحقيق مجموعة"
+
+msgid "No achivements yet"
+msgstr "لا إنجازات حتى الآن"
+
+msgid "Are you sure to delete this user"
+msgstr "هل أنت متأكد من حذف هذا العضو"
+
+msgid "Add member"
+msgstr "إضافة عضو"
+
+msgid "Are you sure to delete this record?"
+msgstr "هل أنت متأكد من حذف هذا السجل ؟"
+
+msgid "Join this group"
+msgstr "انضم إلى هذه المجموعة"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "وقد أرسلت دعوة ل مسئول مجموعة"
+
+msgid "All addresses"
+msgstr "جميع العناوين"
+
+msgid "Collapse"
+msgstr "انهيار"
+
+msgid "Achievements"
+msgstr "الإنجازات"
+
+msgid "Show more"
+msgstr "عرض المزيد"
+
+msgid "Team"
+msgstr "فريق"
+
+msgid "Projects"
+msgstr "مشاريع"
+
+msgid "New project"
+msgstr "مشروع جديد"
+
+msgid "Project has not been created yet"
+msgstr "لم يتم إنشاء المشروع حتى الآن"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "الرصيد"
+
+msgid "Main page"
+msgstr "الصفحة الرئيسية"
+
+msgid "Upload image"
+msgstr "تحميل الصور"
+
+msgid "My time"
+msgstr "وقتي"
+
+msgid "Day"
+msgstr "يوم"
+
+msgid "Week"
+msgstr "أسبوع"
+
+msgid "Project settings"
+msgstr "إعدادات المشروع"
+
+msgid "Create project"
+msgstr "إنشاء مشروع"
+
+msgid "Project has been successfully saved"
+msgstr "تم حفظ المشروع بنجاح"
+
+msgid "Project name"
+msgstr "اسم المشروع"
+
+msgid "Deadline"
+msgstr "الموعد الأخير"
+
+msgid "Close"
+msgstr "قريب"
+
+msgid "Manager"
+msgstr "مدير"
+
+msgid "Assigned to"
+msgstr "المخصصة ل"
+
+msgid "Discussion"
+msgstr "مناقشة"
+
+msgid "Task was created"
+msgstr "تم إنشاء المهمة"
+
+msgid "Task was closed"
+msgstr "تم إغلاق مهمة"
+
+msgid "Go to Group"
+msgstr "انتقل إلى المجموعة"
+
+msgid "Closed"
+msgstr "مغلق"
+
+msgid "Last updates"
+msgstr "مشاركة التحديثات"
+
+msgid "Project is closed"
+msgstr "مغلق المشروع"
+
+msgid "No open tasks"
+msgstr "أية مهام مفتوحة"
+
+msgid "New task"
+msgstr "مهمة جديدة"
+
+msgid "Closed tasks"
+msgstr "مهام مغلقة"
+
+msgid "Add subproject"
+msgstr "إضافة فرعي"
+
+msgid "Add task"
+msgstr "إضافة مهمة"
+
+msgid "Sun"
+msgstr "الأحد"
+
+msgid "Mon"
+msgstr "الإثنين"
+
+msgid "Tue"
+msgstr "الثلاثاء"
+
+msgid "Wed"
+msgstr "الأربعاء"
+
+msgid "Thur"
+msgstr "الخميس"
+
+msgid "Fri"
+msgstr "الجمعة"
+
+msgid "Sat"
+msgstr "السبت"
+
+msgid "Event title"
+msgstr "عنوان الحدث"
+
+msgid "Event description"
+msgstr "وصف الحدث"
+
+msgid "I registered on this site"
+msgstr "لقد سجلت في هذا الموقع"
+
+msgid "Last created groups"
+msgstr "مشاركة المجموعات التي تم إنشاؤها"
+
+msgid "You joined this group as"
+msgstr "كنت انضم إلى هذه المجموعة كما"
+
+msgid "You received a request to join the group"
+msgstr "كنت قد تلقيت طلب للانضمام إلى المجموعة"
+
+msgid "Updated site"
+msgstr "تحديث الموقع"
+
+msgid "Site is under construction"
+msgstr "الموقع قيد الإنشاء"
+
+msgid "Last registered users"
+msgstr "المستخدمين المسجلين الماضي"
+
+msgid "User settings"
+msgstr "إعدادات المستخدم"
+
+msgid "Technical support"
+msgstr "الدعم الفني"
+
+msgid "Change email"
+msgstr "تغيير البريد الالكتروني"
+
+msgid "Change password"
+msgstr "تغيير كلمة المرور"
+
+msgid "User has been successfully saved"
+msgstr "حفظ المستخدم بنجاح"
+
+msgid "Full name"
+msgstr "الاسم الكامل"
+
+msgid "My video"
+msgstr "الفيديو الخاص بي"
+
+msgid "Skills"
+msgstr "المهارات"
+
+msgid "Birthday"
+msgstr "عيد ميلاد"
+
+msgid "Country of residence"
+msgstr "بلد الإقامة"
+
+msgid "Country"
+msgstr "بلد"
+
+msgid "Zip Code"
+msgstr "الرمز البريدي"
+
+msgid "City/town of residence"
+msgstr "المدينة / البلدة الإقامة"
+
+msgid "University/college"
+msgstr "الجامعة / الكلية"
+
+msgid "University/college photo"
+msgstr "جامعة / الصورة الكلية"
+
+msgid "Add user\'s accomplishments"
+msgstr "إضافة الإنجازات المستخدم"
+
+msgid "Interface language"
+msgstr "لغة واجهة"
+
+msgid "How other people see this page"
+msgstr "كيف يمكن للناس الآخرين رؤية هذه الصفحة"
+
+msgid "Video with me"
+msgstr "فيديو معي"
+
+msgid "Groups"
+msgstr "المجموعات"
+
+msgid "Registered today"
+msgstr "اليوم مسجلة"
+
+msgid "Qty"
+msgstr "الكمية"
+
+msgid "No registered users yet"
+msgstr "لا مستخدمين المسجلين حتى الآن"
+
+msgid "Total"
+msgstr "مجموع"
+
+msgid "Registered total"
+msgstr "مجموع المسجلين"
+
+msgid "You received a file"
+msgstr "لقد تلقيت ملف"
+
+msgid "You were invited into this room"
+msgstr "كنت دعيت إلى هذه الغرفة"
+
+msgid "Request is being processed"
+msgstr "يتم معالجة الطلب"
+
+msgid "Fax"
+msgstr "فاكس"
+
+msgid "Messenger"
+msgstr "رسول"
+
+msgid "New subproject"
+msgstr "فرعي جديد"
+
+msgid "messages written."
+msgstr "رسائل مكتوبة ."
+
+msgid "projects created based on groups."
+msgstr "المشاريع التي تم إنشاؤها على أساس المجموعات."
+
+msgid "users registered on website."
+msgstr "الأعضاء المسجلين في الموقع."
+
+msgid "New email"
+msgstr "بريد إلكتروني جديد"
+
+msgid "Confirm email"
+msgstr "تأكيد عنوان البريد الإلكتروني"
+
+msgid "New password"
+msgstr "كلمة المرور الجديدة"
+
+msgid "Confirm password"
+msgstr "تأكيد كلمة السر"
+
+msgid "Occupation"
+msgstr "التخصص"
+
+msgid "Timezone"
+msgstr "منطقة زمنية"
+
+msgid "Answer"
+msgstr "إجابة"
+
+msgid "Articles"
+msgstr "مقالات"
+
+msgid "Article"
+msgstr "مقالة"
+
+msgid "Video-article"
+msgstr "فيديو مادة"
+
+msgid "Find article..."
+msgstr "البحث عن المادة ..."
+
+msgid "Politics"
+msgstr "السياسة"
+
+msgid "Economics"
+msgstr "علم الاقتصاد"
+
+msgid "Community"
+msgstr "مجتمع"
+
+msgid "Culture"
+msgstr "ثقافة"
+
+msgid "Sports"
+msgstr "الرياضة"
+
+msgid "Hi-tech"
+msgstr "مرحبا التكنولوجيا"
+
+msgid "Cars"
+msgstr "سيارات"
+
+msgid "Fashion"
+msgstr "نمط"
+
+msgid "Games"
+msgstr "ألعاب"
+
+msgid "Other"
+msgstr "آخر"
+
+msgid "Invalid mediafile"
+msgstr "mediafile غير صالحة"
+
+msgid "No articles in this category yet"
+msgstr "لا توجد مقالات في هذه الفئة حتى الآن"
+
+msgid "Back to profile"
+msgstr "العودة إلى الملف الشخصي"
+
+msgid "View article"
+msgstr "اعرض الموضوع"
+
+msgid "Edit article"
+msgstr "تحرير المقال"
+
+msgid "Create article"
+msgstr "خلق المادة"
+
+msgid "Article title"
+msgstr "عنوان المقال"
+
+msgid "Article section"
+msgstr "قسم المقال"
+
+msgid "Choose image"
+msgstr "اختيار صورة"
+
+msgid "Save and upload"
+msgstr "حفظ وتحميل"
+
+msgid "Show more..."
+msgstr "عرض المزيد ..."
+
+msgid "Create"
+msgstr "خلق"
+
+msgid "Edit"
+msgstr "تحرير"
+
+msgid "Project"
+msgstr "مشروع"
+
+msgid "Team"
+msgstr "فريق"
+
+msgid "A new article was published"
+msgstr "ونشرت مقالة جديدة"
+
+msgid "You joined this project"
+msgstr "انضممت هذا المشروع"
+
+msgid "Enter your information in the User settings"
+msgstr "إدخال المعلومات الخاصة بك في إعدادات المستخدم"
+
+msgid "Communities"
+msgstr "المجتمعات"
+
+msgid "Video presentation of my accomplishments"
+msgstr "الفيديو عرض ل إنجازاتي"
+
+msgid "My articles"
+msgstr "مقالاتي"
+
+msgid "User"
+msgstr "المستخدم"
+
+msgid "Users"
+msgstr "المستخدمين"
+
+msgid "Add new list"
+msgstr "إضافة قائمة جديدة"
+
+msgid "List title"
+msgstr "عنوان القائمة"
+
+msgid "Add"
+msgstr "إضافة"
+
+msgid "Add to favorites"
+msgstr "أضف الى المفضلة"
+
+msgid "Delete from favorites"
+msgstr "حذف من المفضلة"
+
+msgid "Select list"
+msgstr "اختر قائمة"
+
+msgid "Subscriptions"
+msgstr "الاشتراكات"
+
+msgid "Subscribe"
+msgstr "الاشتراك"
+
+msgid "Unsubscribe"
+msgstr "إلغاء الاشتراك"
+
+msgid "General list"
+msgstr "القائمة العامة"
+
+msgid "No users in this list"
+msgstr "لا يوجد أعضاء في هذه القائمة"
+
+msgid "Publish"
+msgstr "نشر"
+
+msgid "Unpublish"
+msgstr "إلغاء النشر"
+
+msgid "Add user"
+msgstr "إضافة مستخدم"
+
+msgid "Create document"
+msgstr "خلق وثيقة"
+
+msgid "Edit document"
+msgstr "وثيقة تحرير"
+
+msgid "View"
+msgstr "عرض"
+
+msgid "Document title"
+msgstr "عنوان الوثيقة"
+
+msgid "Find document..."
+msgstr "البحث عن وثيقة ..."
+
+msgid "Share your thoughts"
+msgstr "شارك افكارك"
+
+msgid "Leave your comment"
+msgstr "ترك تعليقك"
+
+msgid "Accept"
+msgstr "قبول"
+
+msgid "Decline"
+msgstr "هبوط"
+
+msgid "Add article"
+msgstr "إضافة المادة"
+
+msgid "Link to verified accomplishments"
+msgstr "تصل إلى الإنجازات التحقق"
+
+msgid "No articles here yet..."
+msgstr "ات هنا بعد ..."
+
+msgid "Find file or folder..."
+msgstr "البحث عن ملف أو مجلد ..."
+
+msgid "Sort"
+msgstr "نوع"
+
+msgid "By name"
+msgstr "بالاسم"
+
+msgid "By date"
+msgstr "حسب التاريخ"
+
+msgid "By updated date"
+msgstr "حسب تاريخ تحديث"
+
+msgid "By size"
+msgstr "حسب الحجم"
+
+msgid "By type"
+msgstr "حسب نوع"
+
+msgid "Move"
+msgstr "خطوة"
+
+msgid "File Manager"
+msgstr "مدير الملفات"
+
+msgid "Share link"
+msgstr "رابط المشاركة"
+
+msgid "Responsible"
+msgstr "مسؤول"
+
+msgid "Performer"
+msgstr "مؤد"
+
+msgid "New Folder"
+msgstr "ملف جديد"
+
+msgid "Folder name"
+msgstr "إسم الملف"
+
+msgid "By default"
+msgstr "بشكل افتراضي"
+
+msgid "Back to group"
+msgstr "العودة إلى المجموعة"
+
+msgid "year(s)"
+msgstr "العام (الصورة)"
+
+msgid "January"
+msgstr "يناير"
+
+msgid "February"
+msgstr "شباط"
+
+msgid "March"
+msgstr "مارس"
+
+msgid "April"
+msgstr "نيسان"
+
+msgid "May"
+msgstr "قد"
+
+msgid "June"
+msgstr "شهر يونيو"
+
+msgid "July"
+msgstr "تموز"
+
+msgid "August"
+msgstr "آب"
+
+msgid "September"
+msgstr "أيلول"
+
+msgid "October"
+msgstr "تشرين اول"
+
+msgid "November"
+msgstr "تشرين الثاني"
+
+msgid "December"
+msgstr "كانون الاول"
+
+msgid "Password Reminder"
+msgstr "تذكير كلمة السر"
+
+msgid "Log In"
+msgstr "تسجيل الدخول"
+
+msgid "Sign in"
+msgstr "تسجيل الدخول"
+
+msgid "Register"
+msgstr "تسجيل"
+
+msgid "First name"
+msgstr "الاسم الاول"
+
+msgid "Last name"
+msgstr "اسم العائلة"
+
+msgid "I agree with rules"
+msgstr "وأنا أتفق مع قواعد"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "تم إرسال رسالة تأكيد إلى عنوان البريد الإلكتروني الخاص بك."
+
+msgid "Thanks"
+msgstr "شكر"
+
+msgid "Password must be at least 6 characters"
+msgstr "يجب أن تكون كلمة المرور 6 أحرف على الأقل"
+
+msgid "Creative Environment"
+msgstr "البيئة الإبداعية"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "عليك أن تكون على الأقل ثلاثة عشر عاما من العمر لاستخدام هذه الخدمة"
+
+msgid "Order status"
+msgstr "حالة الطلب"
+
+msgid "Processing order"
+msgstr "تجهيز النظام"
+
+msgid "Requires a payment"
+msgstr "يتطلب دفع"
+
+msgid "Shipping"
+msgstr "الشحن"
+
+msgid "Ready"
+msgstr "جاهز"
+
+msgid "Thank you for your payment"
+msgstr "شكرا لك على دفعتك"
+
+msgid "Your payment has been cancelled"
+msgstr "تم إلغاء دفعتك"
+
+msgid "page"
+msgstr "صفحة"
+
+msgid "Rent period"
+msgstr "فترة الإيجار"
+
+msgid "Total, month"
+msgstr "الكلي، الشهر"
+
+msgid "Order items"
+msgstr "بنود النظام"
+
+msgid "No records found"
+msgstr "لا توجد سجلات"
+
+msgid "User with this email is already exist"
+msgstr "المستخدم مع هذا البريد الإلكتروني غير موجودة أصلا"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "مجلد أو ملف مع هذا الاسم هو موجود بالفعل في مجلد الوجهة"
+
+msgid "Minimal quantity"
+msgstr "كمية الحد الأدنى"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "نسخ الطباعة"
+
+msgid "Terms of Use"
+msgstr "شروط الاستخدام"
+
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+msgid "Find project..."
+msgstr "العثور على مشروع ..."
+
+msgid "New Project"
+msgstr "مشروع جديد"
+
+msgid "Accounts"
+msgstr "الحسابات"
+
+msgid "Operations"
+msgstr "العمليات"
+
+msgid "All accounts"
+msgstr "جميع الحسابات"
+
+msgid "All categories"
+msgstr "جميع الفئات"
+
+msgid "Expense"
+msgstr "معدل التدفق"
+
+msgid "Income"
+msgstr "دخل"
+
+msgid "Transfer"
+msgstr "ترجمة"
+
+msgid "Expense"
+msgstr "معدل التدفق"
+
+msgid "income"
+msgstr "دخل"
+
+msgid "tax"
+msgstr "ضريبة"
+
+msgid "percent"
+msgstr "نسبة مئوية"
+
+msgid "transfer"
+msgstr "ترجمة"
+
+msgid "Make operation"
+msgstr "جعل العملية"
+
+msgid "Select date"
+msgstr "حدد التاريخ"
+
+msgid "Select account"
+msgstr "حدد حساب"
+
+msgid "Month"
+msgstr "شهر"
+
+msgid "Quarter"
+msgstr "ربع"
+
+msgid "Year"
+msgstr "سنة"
+
+msgid "From"
+msgstr "اعتبارا من"
+
+msgid "To"
+msgstr "إلى"
+
+msgid "Expense amount"
+msgstr "كمية حساب"
+
+msgid "Categories"
+msgstr "الفئات"
+
+msgid "Comments"
+msgstr "تعليقات"
+
+msgid "Income amount"
+msgstr "مقدار الدخل"
+
+msgid "Transfer amount"
+msgstr "قيمة التحويل"
+
+msgid "From account"
+msgstr "من حساب"
+
+msgid "To account"
+msgstr "لحساب"
+
+msgid "New Account"
+msgstr "حساب جديد"
+
+msgid "New Category"
+msgstr "فئة جديدة"
+
+msgid "All"
+msgstr "جميع"
+
+msgid "Name"
+msgstr "اسم"
+
+msgid "Enter category name"
+msgstr "أدخل اسم الفئة"
+
+msgid "Select type"
+msgstr "حدد نوع"
+
+msgid "Credit card"
+msgstr "بطاقة إئتمان"
+
+msgid "Debit card"
+msgstr "بطاقة ائتمان"
+
+msgid "Bank account"
+msgstr "حساب البنك"
+
+msgid "Cash"
+msgstr "السيولة النقدية"
+
+msgid "Balance is empty"
+msgstr "التوازن فارغ"
+
+msgid "Statistic is empty"
+msgstr "إحصائية فارغة"
+
+msgid "Regular payments"
+msgstr "دفعات منتظمة"
+
+msgid "Are you sure ?"
+msgstr "هل أنت متأكد ؟"
+
+msgid "Are you sure to close this project?"
+msgstr "هل أنت متأكد لإغلاق هذا المشروع؟"
+
+msgid "Project was deleted successfully"
+msgstr "تم حذف المشروع بنجاح"
+
+msgid "Select currency"
+msgstr "اختر العملة"
+
+msgid "Account"
+msgstr "حساب"
+
+msgid "Orders list"
+msgstr "قائمة أوامر"
+
+msgid "Order payments"
+msgstr "المدفوعات أجل"
+
+msgid "View order"
+msgstr "مشاهدة ترتيب"
+
+msgid "No response from Printer API"
+msgstr "أي رد من API طابعة"
+
+msgid "Bad response from Printer API"
+msgstr "استجابة سيئة من API طابعة"
+
+msgid "User ID"
+msgstr "هوية المستخدم"
+
+msgid "Contact Person"
+msgstr "الشخص الذي يمكن الاتصال به"
+
+msgid "No orders to process"
+msgstr "لا أوامر لمعالجة"
+
+msgid "Article announce image"
+msgstr "المادة نعلن صورة"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "رابط الفيديو غير صالح . اتركه فارغا أو إدراج صالح يوتيوب رابط"
+
+msgid "Please, enter Contractor data"
+msgstr "من فضلك، إدخال بيانات المقاول"
+
+msgid "Distribute devices"
+msgstr "توزيع الأجهزة"
+
+msgid "Quantity"
+msgstr "كمية"
+
+msgid "Devices left"
+msgstr "أجهزة غادرت"
+
+msgid "Distributed devices"
+msgstr "أجهزة توزيع"
+
+msgid "You must enter quantity"
+msgstr "يجب عليك إدخال كمية"
+
+msgid "All devices are distributed"
+msgstr "يتم توزيع جميع الأجهزة"
+
+msgid "IP address"
+msgstr "عنوان IP"
+
+msgid "Only for printer"
+msgstr "فقط للطابعة"
+
+msgid "Counter"
+msgstr "عداد"
+
+msgid "You was excluded from this room"
+msgstr "تم استبعاد لكم من هذه الغرفة"
+
+msgid "Compare"
+msgstr "قارن"
+
+msgid "Scheduled transaction"
+msgstr "الصفقة المقرر"
+
+msgid "Select transfer account"
+msgstr "حدد حساب التحويل"
+
+msgid "Select income account"
+msgstr "حساب الدخل حدد"
+
+msgid "Reports"
+msgstr "تقارير"
+
+msgid "Goals"
+msgstr "الأهداف"
+
+msgid "Budgets"
+msgstr "الميزانيات"
+
+msgid "Enter user name or email..."
+msgstr "إدخال اسم المستخدم أو البريد الإلكتروني ..."
+
+msgid "Invite had been sended"
+msgstr "دعوة تم sended"
+
+msgid "Statistics"
+msgstr "إحصائيات"
+
+msgid "Updated site began to work"
+msgstr "بدأ موقع محدث للعمل"
+
+msgid "City of residence"
+msgstr "مدينة الإقامة"
+
+msgid "Edit favourites list"
+msgstr "قائمة تحرير المفضلة"
+
+msgid "Add favourites list"
+msgstr "إضافة قائمة المفضلة"
+
+msgid "Categories is required"
+msgstr "مطلوب الفئات"
+
+msgid "Type new category name and hit Enter"
+msgstr "اكتب اسم الفئة الجديدة وهاهنا"
+
+msgid "You created an order"
+msgstr "قمت بإنشاء النظام"
+
+msgid "You received a device due to this order"
+msgstr "كنت قد تلقيت الجهاز بسبب هذا النظام"
+
+msgid "%s attached %s to task %s"
+msgstr "٪ الصورة المرفقة ٪ الصورة بتكليف ٪ الصورة"
+
+msgid "member(s)"
+msgstr "عضو (s )"
+
+msgid "%s commented task %s"
+msgstr "٪ ق مهمة علق ٪ الصورة"
+
+msgid "%s closed task %s"
+msgstr "٪ ق مهمة المغلقة ٪ الصورة"
+
+msgid "%s created task %s"
+msgstr "٪ الصورة التي تم إنشاؤها مهمة ٪ الصورة"
+
+msgid "%s created this project"
+msgstr "٪ ق خلق هذا المشروع"
+
+msgid "%s created subproject \"%s\""
+msgstr "٪ الصورة التي تم إنشاؤها فرعي \"٪ ق \""
+
+msgid "%s closed project \"%s\""
+msgstr "٪ المنغلق مشروع \"٪ ق \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "٪ المنغلق فرعي \"٪ ق \""
+
+msgid "This field must not be blank"
+msgstr "لا يجب أن يكون هذا الحقل فارغا"
+
+msgid "Document with such name is already exist"
+msgstr "وثيقة بمثل هذا الاسم هي موجودة بالفعل"
+
+msgid "Wait until image upload"
+msgstr "الانتظار حتى تحميل الصور"
+
+msgid "Video"
+msgstr "فيديو"
+
+msgid "Message can not be empty"
+msgstr "رسالة لا يمكن أن يكون فارغا"
+
+msgid "Yes"
+msgstr "نعم فعلا"
+
+msgid "No"
+msgstr "لا"
+
+msgid "Created"
+msgstr "خلق"
+
+msgid "Compare is empty"
+msgstr "مقارنة فارغ"
+
+msgid "Are you sure you want to delete operation"
+msgstr "هل أنت متأكد أنك تريد حذف عملية"
+
+msgid "Do you really want to delete transaction"
+msgstr "هل حقا تريد حذف المعاملات"
+
+msgid "Project with same name already exists"
+msgstr "المشروع مع نفس الاسم موجود مسبقا"
+
+msgid "Account is not found"
+msgstr "لم يتم العثور على حساب"
+
+msgid "Currency is required"
+msgstr "مطلوب العملة"
+
+msgid "error while deleting document"
+msgstr "خطأ أثناء حذف الوثيقة"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "أنت مدعو المستخدم \"٪ ق \" في هذه الغرفة"
+
+msgid "User \"%s\" joined this room"
+msgstr "المستخدم \"٪ ق \" انضمت إلى هذه الغرفة"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "يمكنك استبعاد المستخدم \"٪ ق \" من هذه الغرفة"
+
+msgid "User \"%s\" left this room"
+msgstr "المستخدم \"٪ ق \" غادر هذه الغرفة"
+
+msgid "Add account"
+msgstr "إضافة حساب"
+
+msgid "The requested page is not found"
+msgstr "لم يتم العثور على الصفحة المطلوبة"
+
+msgid "Document"
+msgstr "وثيقة"
+
+msgid "Table"
+msgstr "الطاولة"
+
+msgid "file(s)"
+msgstr "ملف (ق )"
+
+msgid "Residue"
+msgstr "بقايا"
+
+msgid "Result is empty"
+msgstr "النتيجة هي فارغة"
+
+msgid "The total amount is %s for %s mo"
+msgstr "المبلغ الإجمالي هو ٪ S ل٪ s مو"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "عليك أن تودع ٪ شهريا الصورة ل حساب ذات الصلة"
+
+msgid "Start"
+msgstr "بداية"
+
+msgid "finish"
+msgstr "إنهاء"
+
+msgid "Selected account is already in use for another goal"
+msgstr "الحساب المحدد قيد الاستخدام بالفعل ل إحراز هدف آخر ل"
+
+msgid "Amount required"
+msgstr "المبلغ المطلوب"
+
+msgid "New goal"
+msgstr "هدف جديد"
+
+msgid "Goal"
+msgstr "هدف"
+
+msgid "Goal name"
+msgstr "اسم هدف"
+
+msgid "Invalid date"
+msgstr "تاريخ غير صالح"
+
+msgid "Necessary sum must be a positive number"
+msgstr "يجب أن يكون المبلغ اللازم رقم موجب"
+
+msgid "Remain"
+msgstr "تظل"
+
+msgid "Last day"
+msgstr "اليوم الماضي"
+
+msgid "Accumulated"
+msgstr "متراكم"
+
+msgid "Put aside"
+msgstr "وضعت جانبا"
+
+msgid "January"
+msgstr "يناير"
+
+msgid "February"
+msgstr "شهر فبراير"
+
+msgid "March"
+msgstr "مارس"
+
+msgid "April"
+msgstr "أبريل"
+
+msgid "May"
+msgstr "قد"
+
+msgid "June"
+msgstr "شهر يونيو"
+
+msgid "July"
+msgstr "تموز"
+
+msgid "August"
+msgstr "أغسطس"
+
+msgid "September"
+msgstr "سبتمبر"
+
+msgid "October"
+msgstr "تشرين اول"
+
+msgid "November"
+msgstr "تشرين الثاني"
+
+msgid "December"
+msgstr "ديسمبر"
+
+msgid "Expenses projected/actual"
+msgstr "النفقات المتوقعة / الفعلية"
+
+msgid "Net Income projected/actual"
+msgstr "صافي الدخل المتوقع / الفعلية"
+
+msgid "New budget"
+msgstr "الميزانية الجديدة"
+
+msgid "Revenue and Expenses Chart"
+msgstr "الإيرادات و المصروفات الرسم البياني"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "الميزانية مع نفس الزوج من حساب وفئة موجود بالفعل"
+
+msgid "Budget is empty"
+msgstr "ميزانية فارغة"
+
+msgid "Budget"
+msgstr "ميزانية"
+
+msgid "plan"
+msgstr "خطة"
+
+msgid "fact"
+msgstr "حقيقة"
+
+msgid "diff"
+msgstr "مهرجان دبي السينمائي الدولي"
+
+msgid "Show More"
+msgstr "إظهار المزيد"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "d"
+msgstr "د"
+
+msgid "h"
+msgstr "ح"
+
+msgid "min"
+msgstr "دقيقة"
+
+msgid "My sales"
+msgstr "مبيعاتي"
+
+msgid "Time spent"
+msgstr "الوقت الذي يقضيه"
+
+msgid "Total time spent"
+msgstr "إجمالي الوقت الذي يقضيه"
+
+msgid "Earnings per hour"
+msgstr "ربحية السهم ساعة"
+
+msgid "Total earnings"
+msgstr "الأرباح الكلية"
+
+msgid "Call"
+msgstr "مكالمة"
+
+msgid "Phone call"
+msgstr "اتصال هاتفي"
+
+msgid "Telephone calls"
+msgstr "المكالمات الهاتفية"
+
+msgid "Send email"
+msgstr "ارسل ايميل"
+
+msgid "Emails"
+msgstr "رسائل البريد الإلكتروني"
+
+msgid "Meeting"
+msgstr "لقاء"
+
+msgid "Meetings"
+msgstr "اجتماعات"
+
+msgid "All events"
+msgstr "كل الأحداث"
+
+msgid "Task"
+msgstr "مهمة"
+
+msgid "Event"
+msgstr "حالة"
+
+msgid "Events"
+msgstr "أحداث"
+
+msgid "Time"
+msgstr "وقت"
+
+msgid "Events statistics"
+msgstr "الأحداث إحصاءات"
+
+msgid "days"
+msgstr "أيام"
+
+msgid "hours"
+msgstr "ساعات"
+
+msgid "minutes"
+msgstr "دقيقة"
+
+msgid "Income & expense"
+msgstr "الدخل و المصروفات"
+
+msgid "Show chart"
+msgstr "مشاهدة الرسم البياني"
+
+msgid "Hide chart"
+msgstr "إخفاء الرسم البياني"
+
+msgid "Add event"
+msgstr "إضافة حدث"
+
+msgid "Add financial data"
+msgstr "إضافة البيانات المالية"
+
+msgid "Select contractor"
+msgstr "حدد المقاول"
+
+msgid "Net Income"
+msgstr "صافي الدخل"
+
+msgid "Revenue"
+msgstr "الإيرادات"
+
+msgid "Taxes"
+msgstr "الضرائب"
+
+msgid "Amount planned"
+msgstr "المبلغ المقرر"
+
+msgid "Amount"
+msgstr "كمية"
+
+msgid "Period"
+msgstr "فترة"
+
+msgid "Are you sure to close this task?"
+msgstr "هل أنت متأكد من أن إغلاق هذه المهمة؟"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "جميع الفئات"
+
+msgid "added from task"
+msgstr "أضيفت من مهمة"
+
+msgid "Monthly repeat"
+msgstr "تكرار الشهري"
+
+msgid "Select category"
+msgstr "اختر الفئة"
+
+msgid "Event type"
+msgstr "نوع الحدث"
+
+msgid "Margin"
+msgstr "هامش"
+
+msgid "Use finance project"
+msgstr "استخدام تمويل المشاريع"
+
+msgid "New investment project"
+msgstr "مشروع استثماري جديد"
+
+msgid "Investment project settings"
+msgstr "إعدادات المشروع الاستثماري"
+
+msgid "Picture, for the announcement project"
+msgstr "الصورة، لمشروع إعلان"
+
+msgid "Announcement project"
+msgstr "مشروع إعلان"
+
+msgid "Video"
+msgstr "فيديو"
+
+msgid "Photos or videos gallery"
+msgstr "الصور أو مقاطع الفيديو معرض"
+
+msgid "required amount"
+msgstr "المبلغ المطلوب"
+
+msgid "Project duration (60 days maximum)"
+msgstr "مدة المشروع ( 60 يوما كحد أقصى)"
+
+msgid "Project duration"
+msgstr "مدة المشروع"
+
+msgid "Add reward"
+msgstr "إضافة مكافأة"
+
+msgid "Delivery date"
+msgstr "تاريخ التسليم"
+
+msgid "Payment systems"
+msgstr "أنظمة الدفع"
+
+msgid "Terms of service"
+msgstr "شروط الخدمة"
+
+msgid "Agreement"
+msgstr "اتفاقية"
+
+msgid "Payment"
+msgstr "دفع"
+
+msgid "My projects"
+msgstr "مشاريعي"
+
+msgid "Search result"
+msgstr "نتيجة البحث"
+
+msgid "Nothing not found"
+msgstr "لم يتم العثور على شيء"
+
+msgid "The project has no sponsors"
+msgstr "المشروع ليس له الراعية"
+
+msgid "Design"
+msgstr "تصميم"
+
+msgid "Food"
+msgstr "طعام"
+
+msgid "Journalism"
+msgstr "صحافة"
+
+msgid "Games"
+msgstr "ألعاب"
+
+msgid "Art"
+msgstr "فن"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "موسيقى"
+
+msgid "Handicrafts"
+msgstr "الحرف اليدوية"
+
+msgid "Publishing"
+msgstr "نشر"
+
+msgid "Theater"
+msgstr "مسرح"
+
+msgid "Technology"
+msgstr "تكنولوجيا"
+
+msgid "Film/Video"
+msgstr "فيلم / فيديو"
+
+msgid "Photo"
+msgstr "صورة فوتوغرافية"
+
+msgid "Dance"
+msgstr "رقص"
+
+msgid "Invalid youtube video"
+msgstr "يوتيوب فيديو غير صالح"
+
+msgid "is required"
+msgstr "مطلوب"
+
+msgid "User"
+msgstr "المستخدم"
+
+msgid "Date"
+msgstr "تاريخ"
+
+msgid "Collected"
+msgstr "جمعت"
+
+msgid "Choose period"
+msgstr "اختيار الفترة"
+
+msgid "Choose region"
+msgstr "اختر المنطقة"
+
+msgid "Week"
+msgstr "أسبوع"
+
+msgid "Month"
+msgstr "شهر"
+
+msgid "Year"
+msgstr "سنة"
+
+msgid "Free registration"
+msgstr "تسجيل مجاني"
+
+msgid "Join"
+msgstr "انضم"
+
+msgid "Log in using"
+msgstr "تسجيل الدخول باستخدام"
+
+msgid "Vacancies"
+msgstr "فرص توظيف"
+
+msgid "About Us"
+msgstr "عنا"
+
+msgid "You will need email to log in"
+msgstr "ستحتاج البريد الإلكتروني لتسجيل الدخول"
+
+msgid "A combination of 6 digits and characters"
+msgstr "مزيج من 6 أرقام وحروف"
+
+msgid "Search users, groups, articles..."
+msgstr "بحث المستخدمين والمجموعات و المقالات ..."
+
+msgid "Cloud"
+msgstr "سحابة"
+
+msgid "Sunday"
+msgstr "الأحد"
+
+msgid "Monday"
+msgstr "الإثنين"
+
+msgid "Tuesday"
+msgstr "الثلاثاء"
+
+msgid "Wednesday"
+msgstr "الأربعاء"
+
+msgid "Thursday"
+msgstr "الخميس"
+
+msgid "Friday"
+msgstr "الجمعة"
+
+msgid "Saturday"
+msgstr "يوم السبت"
+
+msgid "Edit"
+msgstr "تحرير"
+
+msgid "Create group"
+msgstr "إنشاء مجموعة"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "هل أنت متأكد أنك تريد أن تترك هذه الصفحة؟"
+
+msgid "More"
+msgstr "أكثر"
+
+msgid "Less"
+msgstr "أقل"
+
+msgid "Pending"
+msgstr "قيد الانتظار"
+
+msgid "Approved"
+msgstr "موافق عليه"
+
+msgid "Rejected"
+msgstr "مرفوض"
+
+msgid "Subprojects"
+msgstr "فرعية"
+
+msgid "Group edit"
+msgstr "تحرير مجموعة"
+
+msgid "Startup"
+msgstr "بدء"
+
+msgid "Tattoo"
+msgstr "وشم"
+
+msgid "Health"
+msgstr "الصحة"
+
+msgid "Weapon"
+msgstr "سلاح"
+
+msgid "Astronomy"
+msgstr "علم الفلك"
+
+msgid "All articles"
+msgstr "جميع المقالات"
+
+msgid "Article editor"
+msgstr "محرر المقال"
+
+msgid "Document editor"
+msgstr "محرر وثيقة"
+
+msgid "Apply changes"
+msgstr "نفذ التغييرات"
+
+msgid "Save changes?"
+msgstr "حفظ التغيرات؟"
+
+msgid "published an article"
+msgstr "نشرت مقالا"
+
+msgid "Users"
+msgstr "المستخدمين"
+
+msgid "Shared With Me"
+msgstr "شارك معي"
+
+msgid "share"
+msgstr "حصة"
+
+msgid "Select Group Responsible"
+msgstr "اختر المجموعة مسؤول"
+
+msgid "Create folder"
+msgstr "أنشئ مجلد"
+
+msgid "Title must be at least 3 characters"
+msgstr "يجب أن يكون عنوان 3 أحرف على الأقل"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "الحرة 10 GB ، مدير الشؤون المالية ، والاستثمار وحدة ، وغيرها الكثير مجانا و الى الابد"
+
+msgid "Best regards"
+msgstr "مع أطيب التحيات"
+
+msgid "Updates in last 12 hours:"
+msgstr "تحديثات في 12 ساعة الماضية:"
+
+msgid "expense"
+msgstr "مصروف"
+
+msgid "Commentary on the event:"
+msgstr "التعليق على هذا الحدث :"
+
+msgid "Event place"
+msgstr "مكان الحدث"
+
+msgid "Project was updated"
+msgstr "تم تحديث المشروع"
+
+msgid "Project was created"
+msgstr "تم إنشاء مشروع"
+
+msgid "Project was closed"
+msgstr "تم إغلاق المشروع"
+
+msgid "account"
+msgstr "حساب"
+
+msgid "removed task"
+msgstr "مهمة إزالة"
+
+msgid "removed subproject"
+msgstr "فرعي إزالة"
+
+msgid "Title can not be empty"
+msgstr "العنوان لا يمكن أن يكون فارغا"
+
+msgid "Do not select the type of event"
+msgstr "لم تقم بتحديد نوع الحدث"
+
+msgid "Error while saving comment"
+msgstr "خطأ أثناء حفظ تعليق"
+
+msgid "Save error: access denied"
+msgstr "حفظ خطأ : رفض الوصول"
+
+msgid "Remains"
+msgstr "بقايا"
+
+msgid "Time spent, h."
+msgstr "قضى وقتا ، ح ."
+
+msgid "Emails"
+msgstr "رسائل البريد الإلكتروني"
+
+msgid "Meetings"
+msgstr "اجتماعات"
+
+msgid "All users"
+msgstr "جميع المستخدمين"
+
+msgid "Category"
+msgstr "فئة"
+
+msgid "Finance project"
+msgstr "تمويل المشاريع"
+
+msgid "Investment project"
+msgstr "مشروع استثماري"
+
+msgid "Nature"
+msgstr "طبيعة"
+
+msgid "Data is empty"
+msgstr "بيانات فارغة"
+
+msgid "Visitors"
+msgstr "آخر"
+
+msgid "My profile"
+msgstr "ملفي الشخصي"
+
+msgid "Sponsors"
+msgstr "الرعاة"
+
+msgid "Prior to completion"
+msgstr "قبل الانتهاء"
+
+msgid "Select"
+msgstr "اختار"
+
+msgid "My groups"
+msgstr "مجموعاتي"
+
+msgid "The invitation has been sent successfully"
+msgstr "تم إرسال الدعوة بنجاح"
+
+msgid "Username has already been invited to this project"
+msgstr "وقد تم بالفعل دعوة المستخدم ل هذا المشروع"
+
+msgid "The user is the creator of the project"
+msgstr "المستخدم هو الخالق للمشروع"
+
+msgid "Provide full access"
+msgstr "توفير وصول كامل"
+
+msgid "Select elements to provide access"
+msgstr "حدد العناصر لتوفير وصول"
+
+msgid "Select all"
+msgstr "اختر الكل"
+
+msgid "User E-mail"
+msgstr "البريد الإلكتروني المستخدم"
+
+msgid "Click on the field to select a category"
+msgstr "انقر على حقل لاختيار الفئة"
+
+msgid "Invitation was deleted"
+msgstr "تم حذف دعوة"
+
+msgid "Permission denied"
+msgstr "تم رفض الإذن"
+
+msgid "Printed"
+msgstr "المطبوعة"
+
+msgid "Incorrect Contractor email"
+msgstr "البريد الإلكتروني غير صحيح المقاول"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "هل تريد إضافة مشروع لتمويل مدير؟"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "لإكمال عملية التسجيل، يرجى ملء أسفل مهاراتك"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "تم إرسال البريد مع مزيد من التعليمات إلى عنوان بريدك الإلكتروني"
+
+msgid "Submit"
+msgstr "عرض"
+
+msgid "Cars"
+msgstr "سيارات"
+
+msgid "Science"
+msgstr "العلوم"
+
+msgid "Donation"
+msgstr "تبرع"
+
+msgid "Interests"
+msgstr "الإهتمامات"
+
+msgid "Driver"
+msgstr "سائق"
+
+msgid "Sportsman"
+msgstr "رياضي"
+
+msgid "Businessman"
+msgstr "رجل اعمال"
+
+msgid "Accountant"
+msgstr "محاسب"
+
+msgid "Engineer"
+msgstr "مهندس"
+
+msgid "Soldier"
+msgstr "جندي"
+
+msgid "Next"
+msgstr "التالى"
+
+msgid "Hide group"
+msgstr "إخفاء مجموعة"
+
+msgid "groups created"
+msgstr "المجموعات التي تم إنشاؤها"
+
+msgid "articles written"
+msgstr "مقالات مكتوبة"
+
+msgid "These groups may be interesting for you"
+msgstr "قد تكون هذه الجماعات مثيرة للاهتمام بالنسبة لك"
+
+msgid "About Group"
+msgstr "معلومات عن المجموعة"
+
+msgid "view(s)"
+msgstr "عدد المشاهدات)"
+
+msgid "Favorite users"
+msgstr "المستخدمين المفضلة"
+
+msgid "No accounts"
+msgstr "لا حسابات"
+
+msgid "Facebook authorization failed."
+msgstr "فشل الفيسبوك إذن ."
+
+msgid "Authorization Required"
+msgstr "إذن مطلوب"
+
+msgid "You have to make a call:"
+msgstr "لديك لإجراء مكالمة :"
+
+msgid "You have to send an email:"
+msgstr "عليك أن ترسل بالبريد الالكتروني:"
+
+msgid "You have a meetup:"
+msgstr "لديك ميتوب :"
+
+msgid "You event :"
+msgstr "كنت الحدث :"
+
+msgid "Participants:"
+msgstr "المشاركين:"
+
+msgid "Search"
+msgstr "بحث"
+
+msgid "News"
+msgstr "أخبار"
+
+msgid "Investments"
+msgstr "الاستثمارات"
+
+msgid "Back to Cloud"
+msgstr "العودة إلى السحاب"
+
+msgid "Documents"
+msgstr "الوثائق"
+
+msgid "Planet"
+msgstr "كوكب"
+
+msgid "Group url"
+msgstr "رابط المجموعة"
+
+msgid "Profile url"
+msgstr "URL الملف الشخصي"
+
+msgid "Already taken"
+msgstr "مأخوذة"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "1 ما لا يقل عن الرسالة و 3 حرف الطول المطلوب"
+
+msgid "Digit can not be the first character"
+msgstr "أرقام لا يمكن أن يكون الحرف الأول"
+
+msgid "Enter valid email address"
+msgstr "أدخل عنوان بريد إلكتروني صالح"
+
+msgid "Enter your skills"
+msgstr "أدخل مهاراتك"
+
+msgid "Enter your first name"
+msgstr "أدخل الاسم الأول"
+
+msgid "Enter your last name"
+msgstr "أدخل اسمك الأخير"
+
+msgid "Enter your first name and last name"
+msgstr "أدخل الاسم الأول واسم العائلة"
+
+msgid "Your first name?"
+msgstr "اسمك الأول؟"
+
+msgid "Your last name?"
+msgstr "اسمك الاخير؟"
+
+msgid "What are your proficiencies?"
+msgstr "ما هي الكفاءات الخاصة بك ؟"
+
+msgid "Select country"
+msgstr "اختر البلد"
+
+msgid "Select user"
+msgstr "حدد المستخدم"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "تحقيق حلمك ! إنشاء والتعاون."
+
+msgid "date moved from"
+msgstr "التاريخ انتقل من"
+
+msgid "work"
+msgstr "عمل"
+
+msgid "Conference"
+msgstr "مؤتمر"
+
+msgid "personal"
+msgstr "الشخصية"
+
+msgid "Holiday"
+msgstr "عطلة"
+
+msgid "Past"
+msgstr "الماضي"
+
+msgid "Future"
+msgstr "مستقبل"
+
+msgid "Purchase"
+msgstr "شراء"
+
+msgid "Personal events"
+msgstr "أحداث خاصة"
+
+msgid "Conferences"
+msgstr "لقاء"
+
+msgid "Holidays"
+msgstr "العطلات"
+
+msgid "Sport events"
+msgstr "الأحداث الرياضية"
+
+msgid "Tasks"
+msgstr "المهام"
+
+msgid "Other events"
+msgstr "أحداث أخرى"
+
+msgid "Set aside"
+msgstr "تناول الطعام في الخارج"
+
+msgid "Set aside"
+msgstr "المؤجلة"
+
+msgid "Time management"
+msgstr "إدارة الوقت"
+
+msgid "Delayed events"
+msgstr "الأحداث المؤجلة"
+
+msgid "Delayed"
+msgstr "المؤجلة"
+
+msgid "Bind to"
+msgstr "عين"
+
+msgid "answered your comment to"
+msgstr "قلت (أ) التعليق على المادة"
+
+msgid "commented your article"
+msgstr "أنا علقت على مقالك"
+
+msgid "You\'ve answered on comment to"
+msgstr "هل استجابت للتعليق على هذا المقال"
+
+msgid "You\'ve commented an article"
+msgstr "كنت قد علقت على المقال"
+
+msgid "Terms and Conditions"
+msgstr "الشروط والأحكام"
+
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "بالنقر على \"اشتراك\" كنت أتفق مع دينا وتقر بأنك قد قرأت لدينا"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "إنضم إلى مجتمع المبدعين من جميع أنحاء العالم! سوف تتلقى: الاستثمار في أفكارك، فرصة لجمع فريقه، والعمل في مجموعة، المدير المالي، وإدارة وقتهم، 2 غيغابايت في التخزين وأكثر من ذلك. وأنه مجاني!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "آسف، ولكن لا وجود لها على الصفحة التي تبحث عنها. إذا كنت تعتقد أن لتلومونا الاتصال بنا"
+
+msgid "Return"
+msgstr "عودة"
+
+msgid "COMMON"
+msgstr "توتال"
+
+msgid "My events"
+msgstr "احداثي"
+
+msgid "Job opening"
+msgstr "شواغر جديدة"
+
+msgid "Employment"
+msgstr "نوع العمل"
+
+msgid "Working hours"
+msgstr "ساعات العمل"
+
+msgid "City"
+msgstr "مدينة"
+
+msgid "Wages"
+msgstr "راتب"
+
+msgid "Currency"
+msgstr "عملة"
+
+msgid "Experience"
+msgstr "تجربة"
+
+msgid "Full-time"
+msgstr "العمالة الكاملة"
+
+msgid "Part-time"
+msgstr "بدوام جزئي"
+
+msgid "Project employment"
+msgstr "مشروع / المؤقت"
+
+msgid "Volunteer"
+msgstr "تطوع"
+
+msgid "Internship"
+msgstr "تدريب"
+
+msgid "Full day"
+msgstr "دوام كامل"
+
+msgid "Shifts"
+msgstr "جدول الاستبدال"
+
+msgid "Flexible shifts"
+msgstr "جدول زمني مرن"
+
+msgid "Remote work"
+msgstr "العمل عن بعد"
+
+msgid "Rotational basis"
+msgstr "طريقة التحول"
+
+msgid "Do you really want to delete this comment?"
+msgstr "هل أنت متأكد أنك تريد حذف التعليق؟"
+
+msgid "Do you really want to delete this task?"
+msgstr "هل أنت متأكد أنك تريد حذف هذه المهمة؟"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "هل أنت متأكد أنك تريد حذف هذا المشروع الفرعي؟"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "لقد تطبيقها على الشركة في هذا المنصب. الرجاء التأكد من أن"
+
+msgid "Your request to for job has been rejected"
+msgstr "تم رفض طلبك للشركة لموقف"
+
+msgid "Your request to for job has been accepted"
+msgstr "اعتمد طلبك للشركة لموقف"
+
+msgid "profile is completed"
+msgstr "ملفك الشخصي مليء"
+
+msgid "Use account"
+msgstr "استخدام حساب"
+
+msgid "$/hr"
+msgstr "$ / ساعة"
+
+msgid "Finance category"
+msgstr "الفئة المالية"
+
+msgid "No projects"
+msgstr "أي مشاريع"
+
+msgid "Bind to finances"
+msgstr "تعيين المشروع المالي"
+
+msgid "Preview"
+msgstr "رأي"
+
+msgid "Download"
+msgstr "تحميل"
+
+msgid "Save to my cloud"
+msgstr "نسخ مستودع"
+
+msgid "File successfully saved to your cloud"
+msgstr "ملف مخزن بنجاح في مستودعك"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "حفظ هذا الملف في المخزون الخاص بك؟"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "اختر فئة المادة"
+
+msgid "Type something"
+msgstr "أكتب شيئا"
+
+msgid "Founded users"
+msgstr "العثور على المستخدمين"
+
+msgid "Founded articles"
+msgstr "المادة جدت"
+
+msgid "Founded groups"
+msgstr "تأسست مجموعة"
+
+msgid "What are your skills?"
+msgstr "ما هي مهاراتك؟"
+
+msgid "Select at least 2 interests"
+msgstr "حدد على الأقل 2 الفائدة"
+
+msgid "Need more interests"
+msgstr "لا ما يكفي من الاهتمام مختارة"
+
+msgid "What are you interesting in?"
+msgstr "ما هي تحبها؟"
+
+msgid "You have no dialogs"
+msgstr "لم يكن لديك الحوارات"
+
+msgid "Usage Stats"
+msgstr "حالة"
+
+msgid "Founded files"
+msgstr "العثور على الملفات"
+
+msgid "Big tiles"
+msgstr "بلاط كبيرة"
+
+msgid "Small tiles"
+msgstr "البلاط الصغيرة"
+
+msgid "Table view"
+msgstr "عرض جدول"
+
+msgid "Root folder"
+msgstr "الدليل الجذر"
+
+msgid "My files"
+msgstr "بلدي ملفات"
+
+msgid "Save as draft"
+msgstr "حفظ كمسودة"
+
+msgid "Buy More Space"
+msgstr "شراء المزيد من المساحة"
+
+msgid "Buy"
+msgstr "شراء"
+
+msgid "You have been invited to group as"
+msgstr "لقد وجهت الدعوة إلى مجموعة بوصفه"
+
+msgid "User wants to join your group"
+msgstr "كان المستخدم يرغب في الانضمام مجموعتك"
+
+msgid "Section is coming soon!"
+msgstr "القسم تحت الإنشاء!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "الآراء في 24 ساعة الماضية:"
+
+msgid "Task was updated"
+msgstr "تم تحديث هذه المهمة"
+
+msgid "Task was closed"
+msgstr "تم إغلاق التحدي"
+
+msgid "Task was created"
+msgstr "تم تعيين المهمة"
+
+msgid "Current balance"
+msgstr "الرصيد الحالي"
+
+msgid "Add funds"
+msgstr "إضافة"
+
+msgid "Pay"
+msgstr "الخروج"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "لقد تجاوز عدد محاولات تسجيل الدخول. أنت ممنوع لمدة 15 دقيقة"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "الرجاء التأكد من البريد الإلكتروني الخاص بك. الرسالة المرسلة إليك عن طريق البريد."
+
+msgid "Resend confirmation email"
+msgstr "إرسال تأكيد مرة أخرى"
+
+msgid "Disk 2Gb Monthly"
+msgstr "القرص 2 GB شهريا"
+
+msgid "Disk 10Gb Monthly"
+msgstr "دفع 10 GB سنويا"
+
+msgid "Disk 100Gb Yearly"
+msgstr "قرص 100 GB كل عام"
+
+msgid "Disk 1Tb Monthly"
+msgstr "القرص 1TB شهريا"
+
+msgid "Disk 1Tb Yearly"
+msgstr "دفع 1 TB كل عام"
+
+msgid "Project members monthly"
+msgstr "المشاركين في المشروع على أساس شهري"
+
+msgid "Project members yearly"
+msgstr "المشاركون في المشروع سنويا"
+
+msgid "Member(s) yearly"
+msgstr "عضو (s) سنويا"
+
+msgid "Member(s) monthly"
+msgstr "عضو (s) على أساس شهري"
+
+msgid "Authorized"
+msgstr "مخول"
+
+msgid "Authorization expired"
+msgstr "انتهت إذن"
+
+msgid "Processor declined"
+msgstr "نظام معالجة رفض"
+
+msgid "Gateway rejected"
+msgstr "بوابة الدفع رفضت"
+
+msgid "Failed"
+msgstr "خطأ"
+
+msgid "Voided"
+msgstr "فسخ"
+
+msgid "Submitted for settlement"
+msgstr "أرسلت للتسجيل"
+
+msgid "Settlement declined"
+msgstr "تم رفض الالتحاق"
+
+msgid "Settlement pending"
+msgstr "في انتظار التحاق"
+
+msgid "Verified"
+msgstr "فحص"
+
+msgid "Pending"
+msgstr "ريثما"
+
+msgid "Active"
+msgstr "نشط"
+
+msgid "Past Due"
+msgstr "انتهت"
+
+msgid "Expired"
+msgstr "انتهى"
+
+msgid "Marketer"
+msgstr "تسويق"
+
+msgid "India"
+msgstr "الهند"
+
+msgid "Malaysia"
+msgstr "ماليزيا"
+
+msgid "Thailand"
+msgstr "تايلاند"
+
+msgid "South Korea"
+msgstr "كوريا الجنوبية"
+
+msgid "Kazakhstan"
+msgstr "كازاخستان"
+
+msgid "Israel"
+msgstr "إسرائيل"
+
+msgid "Ukraine"
+msgstr "أوكرانيا"
+
+msgid "Belarus"
+msgstr "روسيا البيضاء"
+
+msgid "Bulgaria"
+msgstr "بلغاريا"
+
+msgid "Turkey"
+msgstr "تركيا"
+
+msgid "Armenia"
+msgstr "أرمينيا"
+
+msgid "Serbia"
+msgstr "صربيا"
+
+msgid "Austria"
+msgstr "النمسا"
+
+msgid "Poland"
+msgstr "بولندا"
+
+msgid "Germany"
+msgstr "ألمانيا"
+
+msgid "Italy"
+msgstr "إيطاليا"
+
+msgid "Netherlands"
+msgstr "هولندا"
+
+msgid "Ireland"
+msgstr "أيرلندا"
+
+msgid "United Kingdom"
+msgstr "بريطانيا العظمي"
+
+msgid "Portugal"
+msgstr "البرتغال"
+
+msgid "Norway"
+msgstr "النرويج"
+
+msgid "United States"
+msgstr "الولايات المتحدة الأمريكية"
+
+msgid "Canada"
+msgstr "كندا"
+
+msgid "Brazil"
+msgstr "البرازيل"
+
+msgid "Saudi Arabia"
+msgstr "العربية السعودية"
+
+msgid "Canada"
+msgstr "مصر"
+
+msgid "Russia"
+msgstr "روسيا"
+
+msgid "Hong Kong"
+msgstr "هونغ كونغ"
+
+msgid "There was no any transactions yet."
+msgstr "في هذه اللحظة، لم يكن هناك صفقة واحدة"
+
+msgid "Fulfill your dream"
+msgstr "تحقيق حلمك"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "الانضمام إلى مجتمعنا من المبدعين من جميع أنحاء العالم."
+
+msgid "Create and Collaborate"
+msgstr "إنشاء والتعاون"
+
+msgid "Start Dreaming"
+msgstr "تحقيق حلم الآن"
+
+msgid "or"
+msgstr "أو"
+
+msgid "Our mission:"
+msgstr "مهمتنا:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "لتوحيد المبدعين ونشط لتنفيذ الأفكار من البسيط والطلب للا يصدق ورائعة، التي يمكن أن تشكل مستقبلنا."
+
+msgid "What is Konstruktor?"
+msgstr "ما هو كونستراكتور؟"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "كونستراكتور - هو جزء من واقع الحياة لدينا، مما يسهل بشكل كبير ويبسط"
+
+msgid "*business processes"
+msgstr "*العمليات التجارية"
+
+msgid "*materialization of creative ideas"
+msgstr "* تجسيد الأفكار الإبداعية"
+
+msgid "*constructive cooperation"
+msgstr "* التعاون البناء"
+
+msgid "Make your dream!"
+msgstr "جعل حلمك!"
+
+msgid "Vlad Krishtop"
+msgstr "فلاد Krishtop"
+
+msgid "CEO"
+msgstr "المدير التنفيذي"
+
+msgid "Yuriy Chekalenko"
+msgstr "يوري Chekalenko"
+
+msgid "Special Advisor"
+msgstr "المستشار الخاص"
+
+msgid "Yaroslav Eroshenko"
+msgstr "ياروسلاف Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "مدير، وتطوير البرمجيات"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "سفيتلانا Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "محام بارز"
+
+msgid "Yuriy Himka"
+msgstr "يوري Himka"
+
+msgid "Designer"
+msgstr "مصمم"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "بالضغط على زر \"التالي\"، فإنك تقبل والاتفاق مع البنود والشروط، وأنت تعترف بأنك قد قرأت سياسة الخصوصية الخاصة بنا."
+
+msgid "Incorrect login or password."
+msgstr "تسجيل الدخول أو كلمة سر خاطئة."
+
+msgid "Password must be at least 6 characters"
+msgstr "يجب أن تكون كلمة المرور 6 أحرف على الأقل"
+
+msgid "January"
+msgstr "كانون الثاني"
+
+msgid "February"
+msgstr "شهر فبراير"
+
+msgid "March"
+msgstr "مارس، يسير، يتقدم"
+
+msgid "April"
+msgstr "أبريل"
+
+msgid "May"
+msgstr "قد"
+
+msgid "June"
+msgstr "حزيران"
+
+msgid "July"
+msgstr "يوليو"
+
+msgid "August"
+msgstr "أغسطس"
+
+msgid "September"
+msgstr "سبتمبر"
+
+msgid "October"
+msgstr "تشرين اول"
+
+msgid "November"
+msgstr "تشرين الثاني"
+
+msgid "December"
+msgstr "ديسمبر"
+
+msgid "Chat"
+msgstr "دردشة"
+
+msgid "Files"
+msgstr "ملفات"
+
+msgid "Statistic"
+msgstr "إحصائية"
+
+msgid "Support"
+msgstr "الدعم"
+
+msgid "Exit"
+msgstr "خروج"
+
+msgid "Brest"
+msgstr "بريست"
+
+msgid "Belarus"
+msgstr "روسيا البيضاء"
+
+msgid "Marketing specialist"
+msgstr "اخصائي تسويق"
+
+msgid "Administrator"
+msgstr "مدير"
+
+msgid "Shared with me"
+msgstr "شارك معي"
+
+msgid "File Sharing"
+msgstr "مشاركة الملفات"
+
+msgid "Provide access by link"
+msgstr "توفير إمكانية حصول صلة"
+
+msgid "Provide Individual access"
+msgstr "توفير الوصول الفردي"
+
+msgid "Provide edit access"
+msgstr "توفير الوصول تحرير"
+
+msgid "Share"
+msgstr "حصة"
+
+msgid "Files will be available only for selected users"
+msgstr "الملفات ستكون متوفرة فقط للمستخدمين اختيار"
+
+msgid "With this link everyone can access to the files"
+msgstr "مع هذا يربط الجميع يمكن الوصول إلى الملفات"
+
+msgid "Search users, groups, articles..."
+msgstr "بحث المستخدمين والمجموعات والمقالات ..."
+
+msgid "My Group"
+msgstr "مجموعتي"
+
+msgid "Mo"
+msgstr "مو"
+
+msgid "Tu"
+msgstr "تو"
+
+msgid "We"
+msgstr "نحن"
+
+msgid "Th"
+msgstr "عشر"
+
+msgid "Fr"
+msgstr "الاب"
+
+msgid "Sa"
+msgstr "سا"
+
+msgid "Su"
+msgstr "سو"
+
+msgid "The file is not selected"
+msgstr "لم يتم تحديد ملف"
+
+msgid "Set aside"
+msgstr "اجلس جانبا"
+
+msgid "Event time"
+msgstr "وقت الحدث"
+
+msgid "Work"
+msgstr "عمل"
+
+msgid "Personal"
+msgstr "الشخصية"
+
+msgid "Time spent for work:"
+msgstr "قضى وقتا للعمل:"
+
+msgid "Personal time spent:"
+msgstr "الوقت الشخصية قضى:"
+
+msgid "Present"
+msgstr "الحالي"
+
+msgid "Common"
+msgstr "مشترك"
+
+msgid "Sport"
+msgstr "رياضة"
+
+msgid "Entertainment"
+msgstr "ترفيه"
+
+msgid "Select:"
+msgstr "اختار:"
+
+msgid "Invalid username or password."
+msgstr "اسم المستخدم أو كلمة المرور غير صالحة."
+
+msgid "Try again."
+msgstr "حاول ثانية."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "ما أنت تحبها؟"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "حدد على الأقل 2 المهارات: لا تزال 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "حدد على الأقل 2 المهارات: لا يزال 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "حدد على الأقل 2 المهارات: بقايا"
+
+msgid "Active life"
+msgstr "الحياة النشطة"
+
+msgid "Arts and culture"
+msgstr "الفنون والثقافة"
+
+msgid "Business"
+msgstr "عمل"
+
+msgid "Cinema"
+msgstr "سينما"
+
+msgid "Communications"
+msgstr "الإتصالات"
+
+msgid "Construction and repair"
+msgstr "بناء واصلاح"
+
+msgid "Cooking"
+msgstr "طهي الطعام"
+
+msgid "Education"
+msgstr "التعليم"
+
+msgid "Electronics"
+msgstr "الإلكترونيات"
+
+msgid "Finances"
+msgstr "المالية"
+
+msgid "Graphics and design"
+msgstr "الرسومات والتصميم"
+
+msgid "Health"
+msgstr "الصحة"
+
+msgid "Home and family"
+msgstr "البيت والأسرة"
+
+msgid "Humor"
+msgstr "فكاهة"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "صناعة"
+
+msgid "Insurance"
+msgstr "تأمين"
+
+msgid "Literature"
+msgstr "أدب"
+
+msgid "Mobile communications and internet"
+msgstr "الاتصالات المتنقلة والإنترنت"
+
+msgid "News and Media"
+msgstr "أخبار وسائل الإعلام"
+
+msgid "Pets"
+msgstr "الحيوانات الأليفة"
+
+msgid "Products and service"
+msgstr "المنتجات والخدمات"
+
+msgid "Real Estate"
+msgstr "العقارات"
+
+msgid "Religion"
+msgstr "دين"
+
+msgid "Science and techs"
+msgstr "العلوم والتكنولوجية"
+
+msgid "Security"
+msgstr "أمن"
+
+msgid "Society"
+msgstr "المجتمع"
+
+msgid "Television"
+msgstr "تلفزيون"
+
+msgid "Travel"
+msgstr "سفر"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "الأرجنتين"
+
+msgid "Australia"
+msgstr "أستراليا"
+
+msgid "Austria"
+msgstr "النمسا"
+
+msgid "Belarus"
+msgstr "روسيا البيضاء"
+
+msgid "Belgium"
+msgstr "بلجيكا"
+
+msgid "Brazil"
+msgstr "البرازيل"
+
+msgid "Bulgaria"
+msgstr "بلغاريا"
+
+msgid "Canada"
+msgstr "كندا"
+
+msgid "Chile"
+msgstr "تشيلي"
+
+msgid "Denmark"
+msgstr "الدنمارك"
+
+msgid "France"
+msgstr "فرنسا"
+
+msgid "Germany"
+msgstr "ألمانيا"
+
+msgid "Greece"
+msgstr "اليونان"
+
+msgid "Hungary"
+msgstr "هنغاريا"
+
+msgid "Iceland"
+msgstr "أيسلندا"
+
+msgid "Ireland"
+msgstr "أيرلندا"
+
+msgid "Israel"
+msgstr "إسرائيل"
+
+msgid "Italy"
+msgstr "إيطاليا"
+
+msgid "Japan"
+msgstr "اليابان"
+
+msgid "Mexico"
+msgstr "المكسيك"
+
+msgid "Netherlands"
+msgstr "هولندا"
+
+msgid "New Zealand"
+msgstr "نيوزيلندا"
+
+msgid "Norway"
+msgstr "النرويج"
+
+msgid "Poland"
+msgstr "بولندا"
+
+msgid "Portugal"
+msgstr "البرتغال"
+
+msgid "Russia"
+msgstr "روسيا"
+
+msgid "Slovakia"
+msgstr "سلوفاكيا"
+
+msgid "South Africa"
+msgstr "جنوب أفريقيا"
+
+msgid "South Korea"
+msgstr "كوريا الجنوبية"
+
+msgid "Spain"
+msgstr "إسبانيا"
+
+msgid "Sweden"
+msgstr "السويد"
+
+msgid "Switzerland"
+msgstr "سويسرا"
+
+msgid "Turkey"
+msgstr "ديك رومي"
+
+msgid "Ukraine"
+msgstr "أوكرانيا"
+
+msgid "United Arab Emirates"
+msgstr "الإمارات العربية المتحدة"
+
+msgid "United Kingdom"
+msgstr "المملكة المتحدة"
+
+msgid "United States"
+msgstr "الولايات المتحدة"
+
+msgid "achievements"
+msgstr "الإنجازات"
+
+msgid "Investment management"
+msgstr "إدارة الاستثمار"
+
+msgid "Select..."
+msgstr "اختار..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "إدارة الاستثمار"
+
+msgid "Investors list"
+msgstr "قائمة المستثمرين"
+
+msgid "My investments"
+msgstr "استثماراتي"
+
+msgid "Create date"
+msgstr "تاريخ إنشاء"
+
+msgid "Author of the project"
+msgstr "صاحب المشروع"
+
+msgid "Date and time"
+msgstr "التاريخ و الوقت"
+
+msgid "Status"
+msgstr "الحالة"
+
+msgid "NEXT"
+msgstr "التالى"
+
+msgid "Next"
+msgstr "التالى"
+
+msgid "Apply"
+msgstr "تطبيق"
+
+msgid "Kazakhstan"
+msgstr "كازاخستان"
+
+msgid "Almaty"
+msgstr "ألماتي"
+
+msgid "Hong Kong"
+msgstr "هونج كونج"
+
+msgid "Science"
+msgstr "العلوم"
+
+msgid "Architecture"
+msgstr "هندسة معمارية"
+
+msgid "Photography"
+msgstr "التصوير"
+
+msgid "Designer"
+msgstr "مصمم"
+
+msgid "IT specialist"
+msgstr "متخصص في تكنولوجيا المعلومات"
+
+msgid "Agronomist"
+msgstr "المهندس الزراعي"
+
+msgid "Architect"
+msgstr "مهندس معماري"
+
+msgid "Lawyer"
+msgstr "محام"
+
+msgid "Writer"
+msgstr "الكاتب"
+
+msgid "Doctor"
+msgstr "دكتور"
+
+msgid "Scientist"
+msgstr "عالم"
+
+msgid "Marketer"
+msgstr "تسويق"
+
+msgid "Teacher"
+msgstr "مدرس"
+
+msgid "Cook"
+msgstr "طبخ"
+
+msgid "Artist"
+msgstr "فنان"
+
+msgid "Photographer"
+msgstr "مصور"
+
+msgid "Ecologist"
+msgstr "عالم البيئة"
+
+msgid "Economist"
+msgstr "خبير اقتصادي"
+
+msgid "Logistician"
+msgstr "وجستي"
+
+msgid "Journalist"
+msgstr "صحافي"
+
+msgid "Builder"
+msgstr "البناء"
+
+msgid "These users may be interesting for you"
+msgstr "قد يكون هؤلاء المستخدمين مثيرة للاهتمام بالنسبة لك"
+
+msgid "These articles may be interesting for you"
+msgstr "قد تكون هذه المواد للاهتمام بالنسبة لك"
+
+msgid "You joined this group as Аdministrator"
+msgstr "كنت انضم إلى هذه المجموعة كما Аdministrator"
+
+msgid "articles written."
+msgstr "مقالات مكتوبة."
+
+msgid "groups created."
+msgstr "المجموعات التي تم إنشاؤها."
+
+msgid "Creation"
+msgstr "خلق"
+
+msgid "Build a dream"
+msgstr "بناء الحلم"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "قراءة مقالات أكثر إثارة للاهتمام - ذهاب التسجيل المجاني"
+

@@ -1,0 +1,367 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: finance-configmap
+data:
+  private.pem: |
+{{ pluck .Values.global.env .Values.app.jwt_priv | first | default .Values.app.jwt_priv._default | indent 4 }}
+  public.pem: |
+{{ pluck .Values.global.env .Values.app.jwt_pub | first | default .Values.app.jwt_pub._default | indent 4 }}
+  fastcgi_params: |
+    fastcgi_param  QUERY_STRING       $query_string;
+    fastcgi_param  REQUEST_METHOD     $request_method;
+    fastcgi_param  CONTENT_TYPE       $content_type;
+    fastcgi_param  CONTENT_LENGTH     $content_length;
+    fastcgi_param  SCRIPT_NAME        $fastcgi_script_name;
+    fastcgi_param  REQUEST_URI        $request_uri;
+    fastcgi_param  DOCUMENT_URI       $document_uri;
+    fastcgi_param  DOCUMENT_ROOT      $document_root;
+    fastcgi_param  SERVER_PROTOCOL    $server_protocol;
+    fastcgi_param  REQUEST_SCHEME     $scheme;
+    fastcgi_param  HTTPS              $https if_not_empty;
+    fastcgi_param  GATEWAY_INTERFACE  CGI/1.1;
+    fastcgi_param  SERVER_SOFTWARE    nginx/$nginx_version;
+    fastcgi_param  REMOTE_ADDR        $remote_addr;
+    fastcgi_param  REMOTE_PORT        $remote_port;
+    fastcgi_param  SERVER_ADDR        $server_addr;
+    fastcgi_param  SERVER_PORT        $server_port;
+    fastcgi_param  SERVER_NAME        $server_name;
+    fastcgi_param  REDIRECT_STATUS    200;
+  newrelic.ini: |
+    newrelic.enabled = true
+    newrelic.license = {{ pluck .Values.global.env .Values.newrelic.key | first | default .Values.newrelic.key._default | quote }}
+    newrelic.appname = {{ printf "finance.app-%s" .Values.global.env | quote }}
+    newrelic.daemon.utilization.detect_docker = true
+    newrelic.browser_monitoring.auto_instrument = false
+  www.conf: |
+    [www]
+    user = www-data
+    group = www-data
+
+    listen = 127.0.0.1:9000
+    listen.owner = www-data
+    listen.group = www-data
+
+    pm = dynamic
+    pm.max_children = 10
+    pm.start_servers = 2
+    pm.min_spare_servers = 1
+    pm.max_spare_servers = 5
+    pm.process_idle_timeout = 10s;
+
+    catch_workers_output = yes
+    pm.status_path = /_tech/php-status
+    ping.path = /_tech/php-ping
+    ping.response = pong
+    clear_env = no
+
+    access.log = /proc/1/fd/2
+    access.format = "{ \"ip\": \"%{REMOTE_ADDR}e\", \"http_user\": \"%u\", \"request_id\": \"%{REQUEST_ID}e\", \"time\": \"%t\", \"method\": \"%m\", \"uri\": \"%{REQUEST_SCHEME}e://%{HTTP_HOST}e%{REQUEST_URI}e%Q%q\", \"status\": \"%s\", \"file\": \"%f\", \"run_time\": \"%{mili}d\", \"mem_usage\": \"%{kilo}M\", \"cpu_usage\": \"%C%%\"}"
+
+    php_admin_flag[expose_php] = off
+    php_admin_value[variables_order] = EGPCS
+    php_admin_value[memory_limit] = 768M
+    php_admin_value[max_input_vars] = 10000
+
+    php_admin_value[post_max_size] = 64M
+    php_admin_value[upload_max_filesize] = 64M
+    php_admin_flag[log_errors] = off
+    php_admin_value[display_errors] = stderr
+    ;php_admin_value[display_startup_errors] = off
+    ;php_admin_flag[html_errors] = off
+    php_admin_value[error_reporting] = 'E_ALL & ~E_NOTICE & ~E_WARNING & ~E_STRICT & ~E_DEPRECATED'
+    ;php_admin_value[newrelic.appname] = {{ printf "finance.app-%s" .Values.global.env | quote }}
+  nginx-finance-private-api.conf: |
+    user www-data;
+    worker_processes  1;
+
+    error_log /dev/stderr;
+    pid /var/run/nginx.pid;
+
+    worker_rlimit_nofile 200000;
+    timer_resolution 200ms;
+
+    events {
+      worker_connections 50000;
+      use epoll;
+    }
+
+    http {
+      include /etc/nginx/mime.types;
+      server_names_hash_bucket_size 128;
+      client_header_timeout 10m;
+      client_body_timeout 10m;
+      send_timeout 10m;
+      types_hash_max_size 2048;
+
+      map $http_x_forwarded_proto $thescheme {
+        default $scheme;
+        https https;
+        http http;
+      }
+
+      map $thescheme $phphttps {
+        https on;
+        http off;
+      }
+
+      log_format combined_plus '{ "ip": "$remote_addr", "http_user": "$remote_user", "time": "$time_local",'
+        ' "method": "$request_method", "uri": "$thescheme://$http_host$request_uri", "protocol": "$server_protocol", "status": "$status", "body_size": "$body_bytes_sent", "referrer": "$http_referer", '
+        ' "user_agent": "$http_user_agent", "request_time": "$request_time", "cache_status": "$upstream_cache_status",'
+        ' "upstream_response_time": "$upstream_response_time", "upstream_addr": "$upstream_addr", "upstream_status": "$upstream_status", "upstream_response_length": "$upstream_response_length", "rewrited": "$uri$is_args$args", "redirect": "$sent_http_location", "location": "$log_location"}';
+
+      sendfile on;
+      keepalive_timeout 65;
+      keepalive_requests 100;
+      tcp_nodelay on;
+      tcp_nopush on;
+
+      resolver 192.168.0.10 valid=3s;
+
+      server_tokens off;
+
+      proxy_redirect off;
+      proxy_read_timeout 300;
+      proxy_connect_timeout 300;
+
+      gzip on;
+      gzip_http_version 1.0;
+      gzip_comp_level 2;
+      gzip_proxied any;
+      gzip_vary off;
+      gzip_types text/plain text/css application/x-javascript text/xml application/xml application/rss+xml application/atom+xml text/javascript application/javascript application/json text/mathml;
+      gzip_min_length  1000;
+      gzip_disable "msie6";
+
+      server {
+        access_log /dev/stdout combined_plus;
+        error_log /dev/stderr;
+
+        charset utf-8;
+        client_max_body_size 64M;
+        fastcgi_read_timeout 300;
+
+        listen 80;
+
+        server_name _;
+        root /var/www/privateApi;
+        index api.php;
+        location / {
+          if (!-e $request_filename) {
+              rewrite ^.*$ /api.php last;
+          }
+          set $log_location "root";
+        } 
+        set $log_location "undef";
+
+        location ~* "^\/_tech\/ngx-status$" {
+          stub_status;
+          access_log off;
+          set $log_location "status";
+        }
+
+        location ~ \.php$ {
+          include fastcgi_params;
+          fastcgi_param SCRIPT_FILENAME $document_root/$fastcgi_script_name;
+          fastcgi_pass   127.0.0.1:9000;
+          try_files $uri =404;
+          set $log_location "php";
+        }
+      }
+    }
+  nginx-finance-public.conf: |
+    user www-data;
+    worker_processes  1;
+
+    error_log /dev/stderr;
+    pid /var/run/nginx.pid;
+
+    worker_rlimit_nofile 200000;
+    timer_resolution 200ms;
+
+    events {
+      worker_connections 50000;
+      use epoll;
+    }
+
+    http {
+      include /etc/nginx/mime.types;
+      server_names_hash_bucket_size 128;
+      client_header_timeout 10m;
+      client_body_timeout 10m;
+      send_timeout 10m;
+      types_hash_max_size 2048;
+
+      map $http_x_forwarded_proto $thescheme {
+        default $scheme;
+        https https;
+        http http;
+      }
+
+      map $thescheme $phphttps {
+        https on;
+        http off;
+      }
+
+      log_format combined_plus '{ "ip": "$remote_addr", "http_user": "$remote_user", "time": "$time_local",'
+        ' "method": "$request_method", "uri": "$thescheme://$http_host$request_uri", "protocol": "$server_protocol", "status": "$status", "body_size": "$body_bytes_sent", "referrer": "$http_referer", '
+        ' "user_agent": "$http_user_agent", "request_time": "$request_time", "cache_status": "$upstream_cache_status",'
+        ' "upstream_response_time": "$upstream_response_time", "upstream_addr": "$upstream_addr", "upstream_status": "$upstream_status", "upstream_response_length": "$upstream_response_length", "rewrited": "$uri$is_args$args", "redirect": "$sent_http_location", "location": "$log_location"}';
+
+      sendfile on;
+      keepalive_timeout 65;
+      keepalive_requests 100;
+      tcp_nodelay on;
+      tcp_nopush on;
+
+      resolver 192.168.0.10 valid=3s;
+
+      server_tokens off;
+
+      proxy_redirect off;
+      proxy_read_timeout 300;
+      proxy_connect_timeout 300;
+
+      gzip on;
+      gzip_http_version 1.0;
+      gzip_comp_level 2;
+      gzip_proxied any;
+      gzip_vary off;
+      gzip_types text/plain text/css application/x-javascript text/xml application/xml application/rss+xml application/atom+xml text/javascript application/javascript application/json text/mathml;
+      gzip_min_length  1000;
+      gzip_disable "msie6";
+
+      server {
+        access_log /dev/stdout combined_plus;
+        error_log /dev/stderr;
+
+        charset utf-8;
+        client_max_body_size 64M;
+        fastcgi_read_timeout 300;
+
+        listen 80;
+
+        server_name _;
+        root /var/www/public;
+        index index.php;
+        location / {
+          if (!-e $request_filename) {
+              rewrite ^.*$ /index.php last;
+          }
+          set $log_location "root";
+        } 
+        set $log_location "undef";
+
+        location ~* "^\/_tech\/ngx-status$" {
+          stub_status;
+          access_log off;
+          set $log_location "status";
+        }
+
+        location ~ \.php$ {
+          include fastcgi_params;
+          fastcgi_param SCRIPT_FILENAME $document_root/$fastcgi_script_name;
+          fastcgi_pass   127.0.0.1:9000;
+          try_files $uri =404;
+          set $log_location "php";
+        }
+      }
+    }
+  nginx-finance-public-api.conf: |
+    user www-data;
+    worker_processes  1;
+
+    error_log /dev/stderr;
+    pid /var/run/nginx.pid;
+
+    worker_rlimit_nofile 200000;
+    timer_resolution 200ms;
+
+    events {
+      worker_connections 50000;
+      use epoll;
+    }
+
+    http {
+      include /etc/nginx/mime.types;
+      server_names_hash_bucket_size 128;
+      client_header_timeout 10m;
+      client_body_timeout 10m;
+      send_timeout 10m;
+      types_hash_max_size 2048;
+
+      map $http_x_forwarded_proto $thescheme {
+        default $scheme;
+        https https;
+        http http;
+      }
+
+      map $thescheme $phphttps {
+        https on;
+        http off;
+      }
+
+      log_format combined_plus '{ "ip": "$remote_addr", "http_user": "$remote_user", "time": "$time_local",'
+        ' "method": "$request_method", "uri": "$thescheme://$http_host$request_uri", "protocol": "$server_protocol", "status": "$status", "body_size": "$body_bytes_sent", "referrer": "$http_referer", '
+        ' "user_agent": "$http_user_agent", "request_time": "$request_time", "cache_status": "$upstream_cache_status",'
+        ' "upstream_response_time": "$upstream_response_time", "upstream_addr": "$upstream_addr", "upstream_status": "$upstream_status", "upstream_response_length": "$upstream_response_length", "rewrited": "$uri$is_args$args", "redirect": "$sent_http_location", "location": "$log_location"}';
+
+      sendfile on;
+      keepalive_timeout 65;
+      keepalive_requests 100;
+      tcp_nodelay on;
+      tcp_nopush on;
+
+      resolver 192.168.0.10 valid=3s;
+
+      server_tokens off;
+
+      proxy_redirect off;
+      proxy_read_timeout 300;
+      proxy_connect_timeout 300;
+
+      gzip on;
+      gzip_http_version 1.0;
+      gzip_comp_level 2;
+      gzip_proxied any;
+      gzip_vary off;
+      gzip_types text/plain text/css application/x-javascript text/xml application/xml application/rss+xml application/atom+xml text/javascript application/javascript application/json text/mathml;
+      gzip_min_length  1000;
+      gzip_disable "msie6";
+
+      server {
+        access_log /dev/stdout combined_plus;
+        error_log /dev/stderr;
+
+        charset utf-8;
+        client_max_body_size 64M;
+        fastcgi_read_timeout 300;
+
+        listen 80;
+
+        server_name _;
+        root /var/www/public;
+        index index.php;
+       # if (!-e $request_filename) {
+       #     rewrite ^.*$ /index.php last;
+       # }
+
+ 
+        set $log_location "undef";
+
+        location ~* "^\/_tech\/ngx-status$" {
+          stub_status;
+          access_log off;
+          set $log_location "status";
+        }
+
+        location ~ \.php$ {
+          include fastcgi_params;
+          fastcgi_param SCRIPT_FILENAME $document_root/$fastcgi_script_name;
+          fastcgi_pass   127.0.0.1:9000;
+          try_files $uri =404;
+        }
+      }
+    }
+
+

@@ -1,0 +1,183 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Plugin/Queue/Controller/CronTasksController.php:36;68;95;127;159;185
+msgid "invalid record"
+msgstr ""
+
+#: Plugin/Queue/Controller/CronTasksController.php:52;143
+msgid "record add %s saved"
+msgstr ""
+
+#: Plugin/Queue/Controller/CronTasksController.php:55;77;146;168
+msgid "formContainsErrors"
+msgstr ""
+
+#: Plugin/Queue/Controller/CronTasksController.php:74;165
+msgid "record edit %s saved"
+msgstr ""
+
+#: Plugin/Queue/Controller/CronTasksController.php:101;191
+msgid "record del %s done"
+msgstr ""
+
+#: Plugin/Queue/Controller/CronTasksController.php:104;194
+msgid "record del %s not done exception"
+msgstr ""
+
+#: Plugin/Queue/Controller/QueueController.php:48
+msgid "OK"
+msgstr ""
+
+#: Plugin/Queue/Controller/QueueController.php:51
+msgid "Error"
+msgstr ""
+
+#: Plugin/Queue/Model/CronTask.php:361
+msgid "Task"
+msgstr ""
+
+#: Plugin/Queue/Model/CronTask.php:362
+msgid "Model (Method)"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_add.ctp:1;6
+#: Plugin/Queue/View/CronTasks/admin_index.ctp:67
+msgid "Add %s"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_add.ctp:1;6
+#: Plugin/Queue/View/CronTasks/admin_edit.ctp:1;6
+#: Plugin/Queue/View/CronTasks/admin_index.ctp:67
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:2;53;54
+msgid "Cron Task"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_add.ctp:14
+#: Plugin/Queue/View/CronTasks/admin_edit.ctp:15
+msgid "Active"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_add.ctp:18
+#: Plugin/Queue/View/CronTasks/admin_edit.ctp:18
+msgid "Submit"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_add.ctp:25
+#: Plugin/Queue/View/CronTasks/admin_edit.ctp:26
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:55
+msgid "List %s"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_add.ctp:25
+#: Plugin/Queue/View/CronTasks/admin_edit.ctp:26
+#: Plugin/Queue/View/CronTasks/admin_index.ctp:2
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:55
+msgid "Cron Tasks"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_edit.ctp:1;6
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:53
+msgid "Edit %s"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_edit.ctp:25
+msgid "Delete"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_edit.ctp:25
+#: Plugin/Queue/View/CronTasks/admin_index.ctp:52
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:54
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_index.ctp:12
+msgid "Actions"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:6
+msgid "Jobtype"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:11
+msgid "Data"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:16
+msgid "Created"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:21
+msgid "Notbefore"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:26
+msgid "Completed"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:31
+msgid "Failed"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:36
+msgid "Failure Message"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:41
+#: Plugin/Queue/View/Queue/admin_index.ctp:4
+msgid "Status"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:54
+msgid "Delete %s"
+msgstr ""
+
+#: Plugin/Queue/View/Queue/admin_index.ctp:2
+msgid "Queue"
+msgstr ""
+
+#: Plugin/Queue/View/Queue/admin_index.ctp:9
+msgid "Running"
+msgstr ""
+
+#: Plugin/Queue/View/Queue/admin_index.ctp:9
+msgid "Not running"
+msgstr ""
+
+#: Plugin/Queue/View/Queue/admin_index.ctp:9
+msgid "last %s"
+msgstr ""
+
+#: Plugin/Queue/View/Queue/admin_index.ctp:18
+msgid "Queued Tasks"
+msgstr ""
+
+#: Plugin/Queue/View/Queue/admin_index.ctp:40
+msgid "Statistics"
+msgstr ""
+
+#: Plugin/Queue/View/Queue/admin_index.ctp:81
+msgid "Reset %s"
+msgstr ""
+
+#: Plugin/Queue/View/Queue/admin_index.ctp:81
+msgid "Queue Tasks"
+msgstr ""
+
+#: Plugin/Queue/View/Queue/admin_index.ctp:81
+msgid "Sure? This will completely reset the queue."
+msgstr ""
+

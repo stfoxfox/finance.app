@@ -1,0 +1,222 @@
+{% extends 'balance.html.twig' %}
+
+{% block title %}
+    {{ controller_name|trans }}
+{% endblock %}
+
+{% block body %}
+    <style>
+        .example-wrapper {
+            margin: 1em auto;
+            max-width: 800px;
+            width: 95%;
+            font: 18px/1.5 sans-serif;
+        }
+        .example-wrapper code {
+            background: #F5F5F5;
+            padding: 2px 6px;
+        }
+
+        .form-group.payment-group div {
+            width: auto;
+        }
+
+        .pay-style .payment-group label {
+            line-height: 40px;
+        }
+
+        .form-group.payment-group {
+            margin-top: 0;
+        }
+
+        .payment-group .radio-inline ins {
+            top: 10px;
+        }
+
+        .checkbox label ins,
+        .checkbox-inline ins,
+        .radio label ins,
+        .radio-inline ins {
+            margin: 0 12px 0 -28px;
+        }
+    </style>
+
+    <div class="container">
+        <div class="row">
+            <div class="header-payment">{{ 'Select the account for payment of subscription'|trans }}</div>
+            <div class="payment-gr">
+                <div class="abs">
+                    {{ form_start(form, { attr : { 'id': 'choose-checkout', 'action': '/replenish', 'class': 'formSize replenish-process pay-style' }}) }}
+                    <div class="form-group form-group-double">
+                        {{ form_widget(form.operation_sum, {'attr': {'class': 'master-amount', 'autocomplete': 'off', 'placeholder': 'Amount'}}) }}
+                    </div>
+                    <div class="form-group payment-group">
+                        {% if customer.paymentMethods %}
+                            <div>
+                                <label class="radio-inline">
+                                    <input type="radio" name="demo-radio" value="" disabled="">
+                                    <ins></ins>
+                                    <span class="wrapper-info-right">
+                                        <span class="numberCard">{{ 'Card number'|trans }}</span>
+                                    </span>
+                                    <div class="clear"></div>
+                                </label>
+                            </div>
+                            {% for paymentMethod in customer.paymentMethods %}
+                                <div>
+                                    <label class="radio-inline">
+                                        <input type="radio" name="payment_method" value="{{ paymentMethod.token }}">
+                                        <ins></ins>
+                                        <span class="wrapper-info-right">
+                                            <span class="numberCard">
+                                                <img src="{{ paymentMethod.imageUrl }}" width="28" height="28">
+                                                {% if paymentMethod is instanceof('Braintree_PayPalAccount') %}
+                                                    {{ paymentMethod.email }}
+                                                {% elseif paymentMethod is instanceof('Braintree_PayPalAccount') %}
+                                                    {{ paymentMethod.maskedNumber }}
+                                                {% endif %}
+                                            </span>
+                                        </span>
+                                        <div class="clear"></div>
+                                    </label>
+                                </div>
+                            {% endfor %}
+                        {% endif %}
+                        <div class="add_card_p">
+                            <a href="#pay-popup" class="pay_add pay_addLink">{{ 'Add account'|trans }}</a>
+                        </div>
+                        <div class="text-center mar-top">
+                            <input type="button" onclick="$('#choose-checkout').submit();" class="btn btn-success" value="{{ 'Pay'|trans }}"/>
+                        </div>
+                    </div>
+                    {{ form_end(form) }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $('.pay_addLink').magnificPopup({
+            type: 'inline',
+            midClick: true,
+            callbacks: {
+                beforeOpen: function () {
+                    braintree.setup("{{clientToken}}", "custom", {
+                        id: "card-checkout",
+                        hostedFields: {
+                            number: {
+                                selector: "#braintree-card-number",
+                                placeholder: ""
+                            },
+                            cvv: {
+                                selector: "#braintree-card-cvv",
+                                placeholder: ""
+                            },
+                            expirationMonth: {
+                                selector: "#braintree-card-expirationMonth",
+                                placeholder: ""
+                            },
+                            expirationYear: {
+                                selector: "#braintree-card-expirationYear",
+                                placeholder: ""
+                            },
+                            styles: {
+                                "input": {
+                                    "border-width": "1px",
+                                    "borderColor": "d7d7d7",
+                                    "borderRadius": "4px",
+                                    "font-size": "14px",
+                                    "color": "#313131"
+                                },
+                                ".expDate": {
+                                    "display": "inline-block",
+                                    "width": "100px",
+                                    "text-align": "center"
+                                },
+                                ".invalid": {
+                                    "color": "red"
+                                }
+                            }
+                        },
+                        onError: function (error) {
+                            $('.braintreeError').html(error.message).show();
+                            setTimeout(function () {
+                                $('.braintreeError').fadeOut(800);
+                            }, 3000);
+                        }
+                    });
+                    braintree.setup("{{ clientToken }}", "paypal", {
+                        id: "paypal-checkout",
+                        container: "paypal-container",
+                        singleUse: false
+                    });
+                },
+                open: function () {
+                    $('.replenish-process-slave').find('input[name="amount"]').val($('.master-amount').val());
+                },
+                afterClose: function () {
+                    $("#braintree-card-expirationYear").empty();
+                    $("#braintree-card-expirationMonth").empty();
+                    $("#braintree-card-number").empty();
+                    $("#braintree-card-cvv").empty();
+                    $("#paypal-container").empty();
+                }
+            }
+        });
+    </script>
+
+    <div id="pay-popup" class="pay-style mfp-hide">
+        <ul id="paymentTabs" class="nav" role="tablist">
+            <li role="presentation" class="active">
+                <a href="#add-card" aria-controls="add-card" role="tab" data-toggle="tab">{{ 'Add card'|trans }}</a>
+            </li>
+            <li role="presentation">
+                <a href="#add-paypal" aria-controls="add-paypal" role="tab" data-toggle="tab">{{ 'Add Paypal'|trans }}</a>
+            </li>
+        </ul>
+        <div class="tab-content">
+            <div role="tabpanel" class="tab-pane" id="add-card">
+                {{ form_start(form, { attr : { 'class': 'replenish-process-slave', 'id': 'card-checkout', 'action': '/replenish', 'autocomplete': 'off'}}) }}
+                <div class="form-group form-group-double">
+                    <label>{{ 'First name'|trans }}</label>
+                    <input name="firstName" type="text">
+                </div>
+                <div class="form-group form-group-double">
+                    <label>{{ 'Last name'|trans }}</label>
+                    <input name="lastName" type="text">
+                </div>
+                <div class="form-group form-group-brainTree">
+                    <label>{{ 'Card number'|trans }}</label>
+                    <div id="braintree-card-number" class="styling_class_pay number_style_brain description contentEditable"></div>
+                </div>
+                <div class="form-group form-group-brainTree_small">
+                    <label>{{ 'Card expiration date'|trans }}</label>
+                    <div id="braintree-card-expirationMonth" class="styling_class_pay other_style_brain description contentEditable expDate"></div>
+                    <div id="braintree-card-expirationYear" class="styling_class_pay other_style_brain description contentEditable expDate"></div>
+                </div>
+                <div class="form-group form-group-brainTree_small_CVV">
+                    <label>{{ 'CVV'|trans }}</label>
+                    <div id="braintree-card-cvv" class="styling_class_pay other_style_brain description contentEditable"></div>
+                </div>
+                <div class="attentionBrain">?</div>
+                <div class="braintreeError"></div>
+                <div class="text-center">
+                    <input type="hidden" id="transaction_form_operation_sum" name="transaction_form[operation_sum]">
+                    <input type="hidden" name="braintree" value="1"/>
+                    <input type="submit" class="btn btn-success" value="{{ 'Pay'|trans }}">
+                </div>
+                {{ form_end(form) }}
+            </div>
+            <div role="tabpanel" class="tab-pane" id="add-paypal">
+                {{ form_start(form, { attr : { 'class': 'replenish-process-slave', 'action': '/replenish' }}) }}
+                <div id="paypal-container"></div>
+                <div class="text-center">
+                    <input type="hidden" id="transaction_form_operation_sum" name="transaction_form[operation_sum]">
+                    <input type="hidden" name="braintree" value="1"/>
+                    <input type="submit" class="btn btn-success" value="{{ 'Pay'|trans }}">
+                </div>
+                {{ form_end(form) }}
+            </div>
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,270 @@
+/* pay_popup-style
+------------------------------------*/
+
+.pay-style{
+    max-width: 570px;
+    padding: 15px;
+    margin:0 auto;
+    background:#fff;
+    border-radius:4px;
+    position: relative;
+}
+
+.pay-style ul li a{
+    text-decoration: none;
+    color:#999999;
+    font-size: 16px;
+    font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    border:1px solid #d7d7d7;
+}
+
+.pay-style ul{
+    display: table;
+    max-width: 366px;
+    width:100%;
+    margin:0 auto 38px;
+}
+
+.pay-style ul li{
+    display: table-cell;
+    text-align: center;
+}
+
+
+.pay-style ul li.active a{
+    background:#12d09b;
+    color:#fff;
+    border-color:#12d09b;
+}
+
+.pay-style .form-group{
+    border-bottom:none;
+    margin-bottom:0;
+    padding-bottom:0;
+}
+
+.pay-style .form-group label{
+    color:#666666;
+    font-size: 10px;
+    line-height: 12px;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    height: 14px;
+}
+
+.pay-style .styling_class_pay{
+    border:1px solid #d7d7d7 !important;
+    border-radius:10px !important;
+    height: 34px !important;
+    padding:0 6px !important;
+    font-size: 14px !important;
+    background: #fff;
+}
+
+.pay-style input{
+    border:1px solid #d7d7d7;
+    border-radius:4px;
+    height: 34px;
+    padding:0 6px;
+    font-size: 14px;
+}
+
+.pay-style .contentEditable{
+    border:none;
+    min-height:0;
+}
+
+.pay-style .btn.btn-success{
+    margin-top: 42px;
+    padding:0 36px;
+}
+
+.form-group.form-group-double{
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 20px;
+    width:35%;
+    max-width: 220px;
+    padding: 0 0 0 10px;
+}
+
+.form-group.form-group-double input{
+    width:100%;
+    border-radius: 10px;
+    border: 1px solid #d7d7d7;
+}
+
+.form-group.form-group-brainTree_small_CVV{
+    max-width: 50px;
+    width:100%;
+    margin-left: 75%;
+    margin-top: 6%;
+}
+
+.form-group.form-group-brainTree{
+    margin-right: 28px;
+    max-width: 220px;
+    width:100%;
+}
+
+.form-group.form-group-brainTree input{
+    display: inline-block;
+    vertical-align: top;
+    width:auto;
+    max-width: 220px;
+}
+
+.number_style_brain{
+    max-width: 220px;
+}
+
+.other_style_brain{
+    max-width: 33px;
+    width:100%;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 2px;
+}
+
+.attentionBrain{
+    margin-left: 8px;
+    display: inline-block;
+    vertical-align: top;
+    color:#999;
+    margin-top: 17px;
+    font-size: 14px;
+    font-family:'PT Sans', Arial, Helvetica, sans-serif;
+    cursor:default;
+}
+
+.form-group.form-group-double + .form-group.form-group-double{
+    /*margin-left:28px;*/
+}
+
+
+.form-group.form-group-brainTree_small, .form-group-brainTree_small_CVV, .form-group.form-group-brainTree{
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 10px;
+    margin-bottom: 10px;
+
+}
+
+.pay-style ul li:first-child a{
+    border-radius:4px 0px 0px 4px;
+}
+
+.pay-style ul li:last-child a{
+    border-radius:0px 4px 4px 0px;
+}
+
+@media (max-width: 1280px){
+
+}
+
+@media (max-width: 1024px){
+
+}
+
+@media (max-width: 980px){
+
+}
+
+@media (max-width: 780px){
+    .other_style_brain{
+        margin-right: 2px;
+    }
+
+    .pay-style{
+        padding:40px 30px;
+    }
+}
+
+@media (max-width: 580px){
+    .form-group.form-group-brainTree{
+        display: block;
+    }
+}
+
+@media (max-width: 420px){
+    .form-group.form-group-double{
+        display: block;
+        margin:0;
+        width:100%;
+        max-width: 100%;
+    }
+
+    .pay-style ul li a{
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    .form-group.form-group-double + .form-group.form-group-double{
+        margin-left: 0;
+    }
+
+    .form-group.form-group-brainTree{
+        width:100%;
+        max-width: 100%;
+    }
+
+    .number_style_brain{
+        max-width: 100%;
+    }
+
+    .pay-style .form-group{
+        margin-top: 10px;
+    }
+
+    .attentionBrain{
+        margin-top: 42px;
+    }
+}
+
+/*------------------------------------*/
+#iplWrapper{
+    min-height: 200px;
+    background: #fff;
+    border-radius: 10px;
+    position: relative;
+    padding: 20px;
+    margin: 5px auto;
+}
+#frontCard{
+    background: #eaf0f4;
+    width: 350px;
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    z-index: 2;
+}
+#frontCardUp{
+    height: 60px;
+    width: 100%;
+    padding: 10px 11px;
+}
+#backCard{
+    position: relative;
+    top: -160px;
+    left: 100px;
+    background: #d7dfe5;
+    width: 350px;
+    height: 200px;
+    border-radius: 10px;
+}
+#backCardUp1{
+    height: 30px;
+    width: 100%;
+}
+#backCardUp2{
+    height: 40px;
+    width: 100%;
+    background: #b2bac7;
+}
+#card-checkout{
+    width: 450px;
+}
+.form-group label, .form-group .achiv-lable{
+    margin: 0;
+}

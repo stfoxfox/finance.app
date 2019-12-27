@@ -1,0 +1,3347 @@
+# Тоҷикистон (Таджикский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Тоҷикистон (Таджикский) <support@konstruktor.com>\n"
+"Language: Тоҷикистон (Таджикский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "Логин"
+
+msgid "Invalid username or password, try again"
+msgstr "Номи корбарӣ ва ё убури нодуруст . Як бори дигар санҷед."
+
+msgid "Settings"
+msgstr "Танзимот"
+
+msgid "Home"
+msgstr "хона"
+
+msgid "You must log in to access this page"
+msgstr "Шумо бояд вориди систем барои дастрасӣ ба ин саҳифа"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Сеанси шумо ба охир шудааст . Лутфан , relogin барои иҷрои ин амал"
+
+msgid "Save"
+msgstr "Сабт"
+
+msgid "Head Office"
+msgstr "Идораи Марказӣ"
+
+msgid "Address"
+msgstr "Нишонӣ"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Apply"
+msgstr "Apply"
+
+msgid "Upload files…"
+msgstr "Замима файлҳо ..."
+
+msgid "Set as main"
+msgstr "Насб ҳамчун асосӣ"
+
+msgid "Delete"
+msgstr "Тозакунии"
+
+msgid "Original image"
+msgstr "симои аслии"
+
+msgid "Uploaded"
+msgstr "боргузорӣ"
+
+msgid "File name"
+msgstr "номи парванда"
+
+msgid "File size"
+msgstr "андозаи парванда"
+
+msgid "Resolution"
+msgstr "Қарори"
+
+msgid "Enlarge"
+msgstr "рӯзии"
+
+msgid "Links"
+msgstr "пайвандҳо"
+
+msgid "Original size"
+msgstr "андозаи Original"
+
+msgid "For editor"
+msgstr "барои муҳаррири"
+
+msgid "Resize"
+msgstr "Андоза"
+
+msgid "Width"
+msgstr "Васеъӣ"
+
+msgid "Height"
+msgstr "баландӣ"
+
+msgid "Media URL"
+msgstr "URL ВАО"
+
+msgid "Add record"
+msgstr "Иловаи нависед"
+
+msgid "Show filter settings"
+msgstr "Танзимоти Нишон Филтри"
+
+msgid "Edit record"
+msgstr "Edit нависед"
+
+msgid "Delete record"
+msgstr "Тозакунии нависед"
+
+msgid "Delete checked records"
+msgstr "Тоза кардани сабти месанҷад"
+
+msgid "Dashboard"
+msgstr "панели"
+
+msgid "Password"
+msgstr "Рамз"
+
+msgid "Remember me"
+msgstr "маро дар ёд дор"
+
+msgid "Login"
+msgstr "Даромадан"
+
+msgid "Clean image cache"
+msgstr "Кеш тасвири тоза"
+
+msgid "Processing query..."
+msgstr "Дархости коркарди ..."
+
+msgid "CMS Development"
+msgstr "рушди CMS"
+
+msgid "Admin Home Page"
+msgstr "Admin Page Home"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Open саҳифаи Home Асосӣ - охири дар ҷадвалбанди нав"
+
+msgid "Go to Site"
+msgstr "Рафта ба сайт"
+
+msgid "Log out"
+msgstr "баромадан аз система"
+
+msgid "Send"
+msgstr "фиристодан"
+
+msgid "General"
+msgstr "генерал"
+
+msgid "Title"
+msgstr "ном"
+
+msgid "Teaser"
+msgstr "сархати"
+
+msgid "Published"
+msgstr "Нашр шудааст"
+
+msgid "Featured"
+msgstr "тавсиф"
+
+msgid "Active"
+msgstr "фаъол"
+
+msgid "Field is mandatory"
+msgstr "Соҳаи ҳатмӣ аст"
+
+msgid "Sort Order"
+msgstr "Аз рӯйи Тартиби"
+
+msgid "Upload"
+msgstr "Боркуниҳои"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "фев"
+
+msgid "Mar"
+msgstr "март"
+
+msgid "Apr"
+msgstr "апрел"
+
+msgid "May"
+msgstr "май"
+
+msgid "Jun"
+msgstr "июн"
+
+msgid "Jul"
+msgstr "июл"
+
+msgid "Aug"
+msgstr "август"
+
+msgid "Sep"
+msgstr "September"
+
+msgid "Oct"
+msgstr "октябр"
+
+msgid "Nov"
+msgstr "ноябр"
+
+msgid "Dec"
+msgstr "декабр"
+
+msgid "Product already exists in the order"
+msgstr "Маҳсулоти аллакай дар тартибот вуҷуд дорад"
+
+msgid "Product does not exist"
+msgstr "Маҳсулоти вуҷуд надорад"
+
+msgid "Incorrect request"
+msgstr "дархости нодуруст"
+
+msgid "Products"
+msgstr "мањсулоти"
+
+msgid "Product types"
+msgstr "намуди маҳсулот"
+
+msgid "Contractors"
+msgstr "пудратчиён"
+
+msgid "Contractor"
+msgstr "пудратчї"
+
+msgid "Orders"
+msgstr "Фармонҳо"
+
+msgid "FAQ"
+msgstr "САВОЛҲОИ ЗИЁД ТАКРОРМЕШУДА"
+
+msgid "New order"
+msgstr "тартиби нави"
+
+msgid "My orders"
+msgstr "супоришҳои ман"
+
+msgid "Recharge balance"
+msgstr "тавозуни барқе,"
+
+msgid "Administrator"
+msgstr "маъмурӣ"
+
+msgid "Incorrect event ID"
+msgstr "Нодуруст сурати ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid ""
+msgstr "Tech . параметрҳо"
+
+msgid "Edit contractor"
+msgstr "вироиш пудратчӣ"
+
+msgid "Create contractor"
+msgstr "Эҷоди пудратчӣ"
+
+msgid "Edit question"
+msgstr "вироиш савол"
+
+msgid "Create question"
+msgstr "Эҷоди савол"
+
+msgid "Edit order"
+msgstr "вироиш ва тартибот"
+
+msgid "Create order"
+msgstr "Эҷоди ва тартибот"
+
+msgid "Edit product"
+msgstr "вироиш маҳсулот"
+
+msgid "Create product"
+msgstr "Эҷоди маҳсулот"
+
+msgid "Edit product type"
+msgstr "Вироиш намуди маҳсулот"
+
+msgid "Create product type"
+msgstr "Эҷоди намуди маҳсулот"
+
+msgid "You have received a file"
+msgstr "Ту файли гирифтанд"
+
+msgid "You received a file from"
+msgstr "Шумо як файл аз ба ҳузур пазируфт"
+
+msgid "File has been uploaded"
+msgstr "Парванда боргузорӣ шуд"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "миќдори њадди аќали"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "адад"
+
+msgid "Remove"
+msgstr "Нест кардани"
+
+msgid "Contact person"
+msgstr "масъули Тамос"
+
+msgid "Email"
+msgstr "Имейл"
+
+msgid "Contractor phone"
+msgstr "телефони пудратчӣ"
+
+msgid "Contractor name"
+msgstr "номи пудратчӣ"
+
+msgid "Contractor details"
+msgstr "тафсилоти пудратчӣ"
+
+msgid "Order ID"
+msgstr "ва тартибот ID"
+
+msgid "Sum"
+msgstr "маблағи"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Интихоб системаи пардохти мувофиқ ба тавозуни худ"
+
+msgid "Recharge amount"
+msgstr "маблағи барқе,"
+
+msgid "Paid"
+msgstr "пардохт"
+
+msgid "Shipped"
+msgstr "фиристода"
+
+msgid "- No products in this order -"
+msgstr "- Не ба маҳсулоти дар ин тартиби -"
+
+msgid "month"
+msgstr "моҳ"
+
+msgid "No user found"
+msgstr "Ягон корбаре ёфт"
+
+msgid "Achievement"
+msgstr "ноилшавӣ"
+
+msgid "Confirmed accomplishments"
+msgstr "комёбиҳои тасдиқ"
+
+msgid "Remove achievement"
+msgstr "Нест кардани дастоварди"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "телефон"
+
+msgid "Site URL and email"
+msgstr "URL сомона ва почтаи электронӣ"
+
+msgid "Remove address"
+msgstr "Нест кардани суроға"
+
+msgid "Members"
+msgstr "аъзоёни"
+
+msgid "Requires a payment"
+msgstr "Талаб пардохт"
+
+msgid "Shipping"
+msgstr "Фиристодан"
+
+msgid "Ready"
+msgstr "тайёр"
+
+msgid "Find user..."
+msgstr "Пайдо кардани корбар ..."
+
+msgid "Order it"
+msgstr "фармоиш ба он"
+
+msgid "Find group..."
+msgstr "Пайдо кардани гурӯҳи ..."
+
+msgid "Find user or community..."
+msgstr "Пайдо истифодабаранда ё ҷомеа ..."
+
+msgid "No item found"
+msgstr "Ягон провайдер ёфт"
+
+msgid "years"
+msgstr "сол"
+
+msgid "Send message"
+msgstr "ирсол паём"
+
+msgid "Message"
+msgstr "хабар"
+
+msgid "To send message press Enter"
+msgstr "Барои ирсоли паём пахш ворид кунед"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Барои ирсоли CTRL + Enter пахш паём"
+
+msgid "Processing file(s)..."
+msgstr "Файли коркард ( ҳо) и ..."
+
+msgid "Group settings"
+msgstr "танзимоти Group"
+
+msgid "Create group"
+msgstr "Эҷоди гурӯҳ"
+
+msgid "Group has been successfully saved"
+msgstr "Гурӯҳи шудааст, бомуваффақият наҷот"
+
+msgid "Group title"
+msgstr "унвони гурӯҳи"
+
+msgid "Group video"
+msgstr "видео гурӯҳи"
+
+msgid "Description"
+msgstr "Шарҳи"
+
+msgid "Your role in group"
+msgstr "Нақши худро дар гурӯҳи"
+
+msgid "Role"
+msgstr "наќши"
+
+msgid "Photo or video gallery"
+msgstr "Аксҳо ё видео галерея"
+
+msgid "Youtube.com URL"
+msgstr "URL Youtube.com"
+
+msgid "Upload video"
+msgstr "Боркуниҳои видео"
+
+msgid "Add group address"
+msgstr "Иловаи нишонии гурӯҳи"
+
+msgid "Group articles"
+msgstr "мақолаҳои Group"
+
+msgid "No addresses yet"
+msgstr "Нест адресҳо ҳанӯз"
+
+msgid "Add group achievement"
+msgstr "Иловаи дастоварди гурӯҳи"
+
+msgid "No achivements yet"
+msgstr "Нест achivements ҳанӯз"
+
+msgid "Are you sure to delete this user"
+msgstr "Оё боварӣ ба ин корбар барои тоза"
+
+msgid "Add member"
+msgstr "Иловаи узви"
+
+msgid "Are you sure to delete this record?"
+msgstr "Оё мутмаинед, ки дар ин сабт ба ҳузф кунед?"
+
+msgid "Join this group"
+msgstr "Садо ин гурӯҳ"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Даъвати худ ба мудири гурӯҳи фиристода шуд,"
+
+msgid "All addresses"
+msgstr "ҳамаи адресҳо роҳ"
+
+msgid "Collapse"
+msgstr "шикаст хӯрдан"
+
+msgid "Achievements"
+msgstr "дастовардҳо"
+
+msgid "Show more"
+msgstr "нишон бештар"
+
+msgid "Team"
+msgstr "гурӯҳ"
+
+msgid "Projects"
+msgstr "лоиҳаҳои"
+
+msgid "New project"
+msgstr "лоиҳаи нав"
+
+msgid "Project has not been created yet"
+msgstr "Лоиња офарида нашуда буданд , вале"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "мувозинат"
+
+msgid "Main page"
+msgstr "саҳифаи асосӣ"
+
+msgid "Upload image"
+msgstr "Боркуниҳои тасвир"
+
+msgid "My time"
+msgstr "вақт ман"
+
+msgid "Day"
+msgstr "рӯз"
+
+msgid "Week"
+msgstr "ҳафта"
+
+msgid "Project settings"
+msgstr "танзимоти лоиҳа"
+
+msgid "Create project"
+msgstr "Эҷоди лоиҳа"
+
+msgid "Project has been successfully saved"
+msgstr "Лоиҳаи шудааст бомуваффақият наҷот"
+
+msgid "Project name"
+msgstr "номи лоиҳа"
+
+msgid "Deadline"
+msgstr "мӯҳлати Охирин"
+
+msgid "Close"
+msgstr "наздик"
+
+msgid "Manager"
+msgstr "мудири"
+
+msgid "Assigned to"
+msgstr "ба зиммаи"
+
+msgid "Discussion"
+msgstr "мубоҳиса"
+
+msgid "Task was created"
+msgstr "Вазифаи таъсис дода шуд"
+
+msgid "Task was closed"
+msgstr "Вазифаи баста шуд"
+
+msgid "Go to Group"
+msgstr "Рафта, ба гурӯҳи"
+
+msgid "Closed"
+msgstr "баста"
+
+msgid "Last updates"
+msgstr "Last навсозиҳои"
+
+msgid "Project is closed"
+msgstr "Лоиҳаи пӯшида аст,"
+
+msgid "No open tasks"
+msgstr "Нест вазифаҳои озод"
+
+msgid "New task"
+msgstr "вазифаи нав"
+
+msgid "Closed tasks"
+msgstr "вазифаҳои пӯшида"
+
+msgid "Add subproject"
+msgstr "илова subproject"
+
+msgid "Add task"
+msgstr "илова вазифа"
+
+msgid "Sun"
+msgstr "якшанбе"
+
+msgid "Mon"
+msgstr "душанбе"
+
+msgid "Tue"
+msgstr "сешанбе"
+
+msgid "Wed"
+msgstr "чоршанбе"
+
+msgid "Thur"
+msgstr "Панҷшанбе"
+
+msgid "Fri"
+msgstr "Ҷумъа"
+
+msgid "Sat"
+msgstr "шанбе"
+
+msgid "Event title"
+msgstr "унвони ҳодиса"
+
+msgid "Event description"
+msgstr "Тавсифи ҳодиса"
+
+msgid "I registered on this site"
+msgstr "Ман дар бораи ин сайт ба қайд гирифта"
+
+msgid "Last created groups"
+msgstr "Охирин гурӯҳҳои таъсис"
+
+msgid "You joined this group as"
+msgstr "Шумо ин гурӯҳ мисли ҳамроҳ шуд"
+
+msgid "You received a request to join the group"
+msgstr "Ту дархост ба ҳамроҳ гурӯҳ ба ҳузур пазируфт"
+
+msgid "Updated site"
+msgstr "нав дар сомона"
+
+msgid "Site is under construction"
+msgstr "Сомонаи аст, зери сохтмон"
+
+msgid "Last registered users"
+msgstr "Охирин истифодабарандагони қайд гирифта"
+
+msgid "User settings"
+msgstr "танзимоти корбар"
+
+msgid "Technical support"
+msgstr "Пуштибонии фаннӣ"
+
+msgid "Change email"
+msgstr "тағйирёбии почтаи электронӣ"
+
+msgid "Change password"
+msgstr "ивази калидвожа"
+
+msgid "User has been successfully saved"
+msgstr "Истифодабаранда бо муваффақият наҷот"
+
+msgid "Full name"
+msgstr "Номи пурра"
+
+msgid "My video"
+msgstr "видео ман"
+
+msgid "Skills"
+msgstr "малакаи"
+
+msgid "Birthday"
+msgstr "рӯзи таваллуд"
+
+msgid "Country of residence"
+msgstr "Кишвари истиқомат"
+
+msgid "Country"
+msgstr "кишвар"
+
+msgid "Zip Code"
+msgstr "Индекси почта"
+
+msgid "City/town of residence"
+msgstr "Шаҳри / шаҳр истиқомат"
+
+msgid "University/college"
+msgstr "Донишгоҳ / коллеҷ"
+
+msgid "University/college photo"
+msgstr "Донишгоҳ / коллеҷ акс"
+
+msgid "Add user\'s accomplishments"
+msgstr "Илова комёбиҳои истифодабаранда"
+
+msgid "Interface language"
+msgstr "забони интерфейси"
+
+msgid "How other people see this page"
+msgstr "Ки чӣ тавр одамон дигар ин саҳифа дидани"
+
+msgid "Video with me"
+msgstr "Видео ман"
+
+msgid "Groups"
+msgstr "Groups"
+
+msgid "Registered today"
+msgstr "имрӯз ба қайд гирифта"
+
+msgid "Qty"
+msgstr "Qty"
+
+msgid "No registered users yet"
+msgstr "Нест истифодабарандаи сабтшуда ҳанӯз"
+
+msgid "Total"
+msgstr "умумии"
+
+msgid "Registered total"
+msgstr "умумии ба қайд гирифта"
+
+msgid "You received a file"
+msgstr "Ту файл ба ҳузур пазируфт"
+
+msgid "You were invited into this room"
+msgstr "Шумо ба ин хона даъват карда шуданд"
+
+msgid "Request is being processed"
+msgstr "Дархост аст коркард"
+
+msgid "Fax"
+msgstr "факс"
+
+msgid "Messenger"
+msgstr "ба паёмбаре,"
+
+msgid "New subproject"
+msgstr "subproject нав"
+
+msgid "messages written."
+msgstr "Паёмҳои навишта шудааст ."
+
+msgid "projects created based on groups."
+msgstr "Лоиҳаҳои офарида, ки дар байни гурӯҳҳои ."
+
+msgid "users registered on website."
+msgstr "истифодабарандагони қайд дар сомонаи ."
+
+msgid "New email"
+msgstr "почтаи нав"
+
+msgid "Confirm email"
+msgstr "Тасдиқи Имейл"
+
+msgid "New password"
+msgstr "Калидвожаи Нав"
+
+msgid "Confirm password"
+msgstr "Калидвожаро Тасдиқ Кунед"
+
+msgid "Occupation"
+msgstr "МАХСУС"
+
+msgid "Timezone"
+msgstr "сонияхо"
+
+msgid "Answer"
+msgstr "ҷавоби"
+
+msgid "Articles"
+msgstr "мақолаҳои"
+
+msgid "Article"
+msgstr "мақола"
+
+msgid "Video-article"
+msgstr "Видео мақолаи -"
+
+msgid "Find article..."
+msgstr "Пайдо мақола ..."
+
+msgid "Politics"
+msgstr "сиёсат"
+
+msgid "Economics"
+msgstr "иқтисод"
+
+msgid "Community"
+msgstr "ҷомеа"
+
+msgid "Culture"
+msgstr "маданият"
+
+msgid "Sports"
+msgstr "варзиш"
+
+msgid "Hi-tech"
+msgstr "Hi-Tech"
+
+msgid "Cars"
+msgstr "мошинҳои"
+
+msgid "Fashion"
+msgstr "муд"
+
+msgid "Games"
+msgstr "бозиҳои"
+
+msgid "Other"
+msgstr "дигар"
+
+msgid "Invalid mediafile"
+msgstr "mediafile нодурусти"
+
+msgid "No articles in this category yet"
+msgstr "Нест мақолаҳо дар ин гурӯҳ ҳоло"
+
+msgid "Back to profile"
+msgstr "Бозгашт ба профили"
+
+msgid "View article"
+msgstr "Бознигарии мақола"
+
+msgid "Edit article"
+msgstr "вироиш мақола"
+
+msgid "Create article"
+msgstr "эҷод мақола"
+
+msgid "Article title"
+msgstr "унвони мақола"
+
+msgid "Article section"
+msgstr "фасли мақола"
+
+msgid "Choose image"
+msgstr "интихоб тасвир"
+
+msgid "Save and upload"
+msgstr "Захира ва бор"
+
+msgid "Show more..."
+msgstr "Нишон бештар ..."
+
+msgid "Create"
+msgstr "сохтан"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Project"
+msgstr "лоиҳа"
+
+msgid "Team"
+msgstr "гурӯҳ"
+
+msgid "A new article was published"
+msgstr "Дар мақолаи нав ба табъ расид"
+
+msgid "You joined this project"
+msgstr "Шумо ин лоиҳа ҳамроҳ шуд"
+
+msgid "Enter your information in the User settings"
+msgstr "Маълумоти худро нависед дар танзимоти корбар"
+
+msgid "Communities"
+msgstr "ҷамоатҳо"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Навори видеоӣ аз комёбиҳои ман"
+
+msgid "My articles"
+msgstr "мақолаҳои ман"
+
+msgid "User"
+msgstr "Корбар"
+
+msgid "Users"
+msgstr "истифодабарандагони"
+
+msgid "Add new list"
+msgstr "Илова рӯйхати нав"
+
+msgid "List title"
+msgstr "унвони рӯйхат"
+
+msgid "Add"
+msgstr "илова кардан"
+
+msgid "Add to favorites"
+msgstr "Илова ба мунтахаб"
+
+msgid "Delete from favorites"
+msgstr "Тоза аз мунтахаб"
+
+msgid "Select list"
+msgstr "рӯйхати -ро интихоб кунед"
+
+msgid "Subscriptions"
+msgstr "обуна"
+
+msgid "Subscribe"
+msgstr "Обуна"
+
+msgid "Unsubscribe"
+msgstr "Нюз"
+
+msgid "General list"
+msgstr "рӯйхати умумӣ"
+
+msgid "No users in this list"
+msgstr "Нест истифодабарандагон дар ин рӯйхат"
+
+msgid "Publish"
+msgstr "нашр кардан"
+
+msgid "Unpublish"
+msgstr "Unpublish"
+
+msgid "Add user"
+msgstr "илова истифодабаранда"
+
+msgid "Create document"
+msgstr "сохтани ҳуҷҷат"
+
+msgid "Edit document"
+msgstr "вироиш ҳуҷҷат"
+
+msgid "View"
+msgstr "Бознигарии"
+
+msgid "Document title"
+msgstr "унвони ҳуҷҷат"
+
+msgid "Find document..."
+msgstr "Пайдо кардани санади ..."
+
+msgid "Share your thoughts"
+msgstr "Мубодила фикрҳои шумо"
+
+msgid "Leave your comment"
+msgstr "Назари худро тарк"
+
+msgid "Accept"
+msgstr "қабул"
+
+msgid "Decline"
+msgstr "таназзул"
+
+msgid "Add article"
+msgstr "илова мақола"
+
+msgid "Link to verified accomplishments"
+msgstr "Link ба комёбиҳои тафтиши"
+
+msgid "No articles here yet..."
+msgstr "Нест мақолаҳо дар ин ҷо ҳанӯз"
+
+msgid "Find file or folder..."
+msgstr "Пайдо кардани файл ё феҳристи ..."
+
+msgid "Sort"
+msgstr "гуна"
+
+msgid "By name"
+msgstr "бо номи"
+
+msgid "By date"
+msgstr "аз санаи"
+
+msgid "By updated date"
+msgstr "Аз санаи нав"
+
+msgid "By size"
+msgstr "бо андозаи"
+
+msgid "By type"
+msgstr "аз рўи"
+
+msgid "Move"
+msgstr "ҳаракат"
+
+msgid "File Manager"
+msgstr "Мудири Файл"
+
+msgid "Share link"
+msgstr "пайванд ҳиссаи"
+
+msgid "Responsible"
+msgstr "масъул"
+
+msgid "Performer"
+msgstr "иьрокунанда"
+
+msgid "New Folder"
+msgstr "Папкаи нав"
+
+msgid "Folder name"
+msgstr "номи папкаи"
+
+msgid "By default"
+msgstr "бо пешфарз"
+
+msgid "Back to group"
+msgstr "Ба гурӯҳи"
+
+msgid "year(s)"
+msgstr "Дар ин сол (р)"
+
+msgid "January"
+msgstr "январ"
+
+msgid "February"
+msgstr "феврал"
+
+msgid "March"
+msgstr "март"
+
+msgid "April"
+msgstr "апрел"
+
+msgid "May"
+msgstr "май"
+
+msgid "June"
+msgstr "июн"
+
+msgid "July"
+msgstr "июл"
+
+msgid "August"
+msgstr "август"
+
+msgid "September"
+msgstr "сентябр"
+
+msgid "October"
+msgstr "октябр"
+
+msgid "November"
+msgstr "ноябр"
+
+msgid "December"
+msgstr "декабр"
+
+msgid "Password Reminder"
+msgstr "гузарвожа Қуръон пандест,"
+
+msgid "Log In"
+msgstr "Даромадан"
+
+msgid "Sign in"
+msgstr "даромад"
+
+msgid "Register"
+msgstr "фењристи"
+
+msgid "First name"
+msgstr "Ном"
+
+msgid "Last name"
+msgstr "Насаб"
+
+msgid "I agree with rules"
+msgstr "Ман бо қоидаҳои розӣ"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Як номаи таъйидӣ ба почтаи электронии шумо фиристода шуд."
+
+msgid "Thanks"
+msgstr "ташаккур"
+
+msgid "Password must be at least 6 characters"
+msgstr "Парол бояд на камтар аз 6 аломат бошад"
+
+msgid "Creative Environment"
+msgstr "Муњити эҷодӣ"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Шумо бояд на камтар аз сездаҳ сол аз синну сол барои истифода бурдани ин хизматрасонӣ"
+
+msgid "Order status"
+msgstr "мақоми тартибот"
+
+msgid "Processing order"
+msgstr "ва тартибот коркарди"
+
+msgid "Requires a payment"
+msgstr "Талаб пардохт"
+
+msgid "Shipping"
+msgstr "Фиристодан"
+
+msgid "Ready"
+msgstr "тайёр"
+
+msgid "Thank you for your payment"
+msgstr "Ташаккур барои пардохти шумо"
+
+msgid "Your payment has been cancelled"
+msgstr "Пардохт кардааст, бекор карда шуд"
+
+msgid "page"
+msgstr "саҳифа"
+
+msgid "Rent period"
+msgstr "давраи иҷораи"
+
+msgid "Total, month"
+msgstr "Маҷмӯъ, моҳ"
+
+msgid "Order items"
+msgstr "адад ва тартибот"
+
+msgid "No records found"
+msgstr "Нест сабти ёфт"
+
+msgid "User with this email is already exist"
+msgstr "Истифодабаранда бо ин почтаи аст, аллакай вуҷуд"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Ҷузвдон ё файл бо чунин ном аллакай дар папкаи таъинот вуҷуд"
+
+msgid "Minimal quantity"
+msgstr "миќдори њадди аќали"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "нусха чоп"
+
+msgid "Terms of Use"
+msgstr "Шартҳои истифода"
+
+msgid "Privacy Policy"
+msgstr "Сиёсати Корбурди Маълумоти Шахсӣ"
+
+msgid "Find project..."
+msgstr "Пайдо лоиҳа ..."
+
+msgid "New Project"
+msgstr "Лоиҳаи нав"
+
+msgid "Accounts"
+msgstr "ҳисобҳои"
+
+msgid "Operations"
+msgstr "амалиёт"
+
+msgid "All accounts"
+msgstr "ҳамаи ҳисобҳо"
+
+msgid "All categories"
+msgstr "дар њамаи категорияњои"
+
+msgid "Expense"
+msgstr "аз њисоби"
+
+msgid "Income"
+msgstr "даромад"
+
+msgid "Transfer"
+msgstr "додан"
+
+msgid "Expense"
+msgstr "аз њисоби"
+
+msgid "income"
+msgstr "даромад"
+
+msgid "tax"
+msgstr "андоз"
+
+msgid "percent"
+msgstr "фоиз"
+
+msgid "transfer"
+msgstr "додан"
+
+msgid "Make operation"
+msgstr "кунад амалиёт"
+
+msgid "Select date"
+msgstr "ро интихоб кунед"
+
+msgid "Select account"
+msgstr "ҳисоби"
+
+msgid "Month"
+msgstr "моҳ"
+
+msgid "Quarter"
+msgstr "семоҳаи"
+
+msgid "Year"
+msgstr "сол"
+
+msgid "From"
+msgstr "аз"
+
+msgid "To"
+msgstr "ба"
+
+msgid "Expense amount"
+msgstr "маблағи аз ҳисоби"
+
+msgid "Categories"
+msgstr "категорияҳои"
+
+msgid "Comments"
+msgstr "Назарҳо"
+
+msgid "Income amount"
+msgstr "маблағи даромад"
+
+msgid "Transfer amount"
+msgstr "маблағи интиқол"
+
+msgid "From account"
+msgstr "аз ҳисоби"
+
+msgid "To account"
+msgstr "ба ҳисоб"
+
+msgid "New Account"
+msgstr "Ҳисоби нав"
+
+msgid "New Category"
+msgstr "нав Category"
+
+msgid "All"
+msgstr "ҳама"
+
+msgid "Name"
+msgstr "ном"
+
+msgid "Enter category name"
+msgstr "Номи категория дохил"
+
+msgid "Select type"
+msgstr "ро интихоб кунед намуди"
+
+msgid "Credit card"
+msgstr "Корти кредитӣ"
+
+msgid "Debit card"
+msgstr "корти дебетӣ"
+
+msgid "Bank account"
+msgstr "суратҳисоби бонкӣ"
+
+msgid "Cash"
+msgstr "нақд"
+
+msgid "Balance is empty"
+msgstr "Тавозуни холӣ аст"
+
+msgid "Statistic is empty"
+msgstr "Омори холӣ аст"
+
+msgid "Regular payments"
+msgstr "пардохтҳои мунтазам"
+
+msgid "Are you sure ?"
+msgstr "Шумо мутмаъин ҳастед ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Шумо дар ҳақиқат ба бастани ин лоиҳа ?"
+
+msgid "Project was deleted successfully"
+msgstr "Лоиҳаи бо муваффақият ҳазф шуд"
+
+msgid "Select currency"
+msgstr "ро интихоб кунед асъор"
+
+msgid "Account"
+msgstr "ҳисоби"
+
+msgid "Orders list"
+msgstr "рӯйхати фармоиш"
+
+msgid "Order payments"
+msgstr "тартиби пардохт"
+
+msgid "View order"
+msgstr "Бознигарии тартибот"
+
+msgid "No response from Printer API"
+msgstr "Нест вокуниш аз чоп API"
+
+msgid "Bad response from Printer API"
+msgstr "Вокуниши бад аз чоп API"
+
+msgid "User ID"
+msgstr "Шаҳодатномаи Корбар"
+
+msgid "Contact Person"
+msgstr "Масъули Тамос"
+
+msgid "No orders to process"
+msgstr "Нест президент оид ба коркарди"
+
+msgid "Article announce image"
+msgstr "Моддаи эълон тасвир"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "URL Видео номӯътабаре аст. Тарк холӣ монед ё гузоред URL дар YouTube эътибор"
+
+msgid "Please, enter Contractor data"
+msgstr "Лутфан , ворид маълумот пудратчӣ"
+
+msgid "Distribute devices"
+msgstr "дастгоҳи паҳн"
+
+msgid "Quantity"
+msgstr "шумора"
+
+msgid "Devices left"
+msgstr "дастгоҳҳои чап"
+
+msgid "Distributed devices"
+msgstr "дастгоҳҳои тақсим"
+
+msgid "You must enter quantity"
+msgstr "Шумо бояд миқдори дохил"
+
+msgid "All devices are distributed"
+msgstr "Ҳамаи дастгоҳҳои шудаанд тақсим"
+
+msgid "IP address"
+msgstr "суроғаи IP"
+
+msgid "Only for printer"
+msgstr "Танҳо барои принтери"
+
+msgid "Counter"
+msgstr "шунидан"
+
+msgid "You was excluded from this room"
+msgstr "Шумо аз ин хона хориҷ шуд"
+
+msgid "Compare"
+msgstr "нисбат ба"
+
+msgid "Scheduled transaction"
+msgstr "амалиёти ба нақша"
+
+msgid "Select transfer account"
+msgstr "Ро интихоб кунед ҳисоби интиқоли"
+
+msgid "Select income account"
+msgstr "Ро интихоб кунед ҳисоби даромад"
+
+msgid "Reports"
+msgstr "ҳисоботҳо"
+
+msgid "Goals"
+msgstr "мақсадҳои"
+
+msgid "Budgets"
+msgstr "буљетњои"
+
+msgid "Enter user name or email..."
+msgstr "Номи корбарии Шумо ё почтаи электронӣ нависед ..."
+
+msgid "Invite had been sended"
+msgstr "Даъват шуда буд, sended"
+
+msgid "Statistics"
+msgstr "статистика"
+
+msgid "Updated site began to work"
+msgstr "Нав сомона оғоз ба кор"
+
+msgid "City of residence"
+msgstr "Шаҳри истиқомат"
+
+msgid "Edit favourites list"
+msgstr "Рӯйхати вироиш мунтахаб"
+
+msgid "Add favourites list"
+msgstr "Илова рӯйхати мунтахаб"
+
+msgid "Categories is required"
+msgstr "Категорияҳои зарур аст"
+
+msgid "Type new category name and hit Enter"
+msgstr "Номи гурӯҳ нав чоп ва тугмаи дохил кардан"
+
+msgid "You created an order"
+msgstr "Ту тартиби таъсис"
+
+msgid "You received a device due to this order"
+msgstr "Шумо як дастгоҳи сабаби ин тартибот ба ҳузур пазируфт"
+
+msgid "%s attached %s to task %s"
+msgstr "% р замима % S бозхост % с"
+
+msgid "member(s)"
+msgstr "аъзои ( р)"
+
+msgid "%s commented task %s"
+msgstr "% р вазифаи шарҳ % р"
+
+msgid "%s closed task %s"
+msgstr "% р вазифаи пўшида % р"
+
+msgid "%s created task %s"
+msgstr "% р вазифаи таъсис % р"
+
+msgid "%s created this project"
+msgstr "% с таъсис лоиҳаи мазкур"
+
+msgid "%s created subproject \"%s\""
+msgstr "% р subproject офаридааст \"% S\""
+
+msgid "%s closed project \"%s\""
+msgstr "% S пӯшида лоиҳаи « % S\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "% S пӯшида subproject \"% S\""
+
+msgid "This field must not be blank"
+msgstr "Ин соҳа бояд на холӣ"
+
+msgid "Document with such name is already exist"
+msgstr "Њуљљат бо чунин ном аллакай вуҷуд дорад"
+
+msgid "Wait until image upload"
+msgstr "Мунтазир бошед, то боргузорӣ тасвир"
+
+msgid "Video"
+msgstr "видео"
+
+msgid "Message can not be empty"
+msgstr "Хабар набояд холӣ"
+
+msgid "Yes"
+msgstr "ҳа"
+
+msgid "No"
+msgstr "нест"
+
+msgid "Created"
+msgstr "таъсис дода"
+
+msgid "Compare is empty"
+msgstr "Нисбат ба холӣ аст"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Шумо дар ҳақиқат мехоҳед, ки ба фаъолияти нест"
+
+msgid "Do you really want to delete transaction"
+msgstr "Оё шумо дар ҳақиқат мехоҳед, ки ба тоза кардани амалиёти"
+
+msgid "Project with same name already exists"
+msgstr "Лоиҳаи бо ҳамин ном ҳам акнун вуҷуд дорад"
+
+msgid "Account is not found"
+msgstr "Ҳисоби аст, ёфт нашуд"
+
+msgid "Currency is required"
+msgstr "Асъори зарур аст"
+
+msgid "error while deleting document"
+msgstr "Хатогӣ ҳангоми тозакунии ҳуҷҷати"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Ту корбар \"% S\" дар ин хона даъват"
+
+msgid "User \"%s\" joined this room"
+msgstr "Истифодабаранда \"% S\" ҳамроҳ ба ин хона"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Ту корбар \"% S\" аз ин хона хориҷ"
+
+msgid "User \"%s\" left this room"
+msgstr "Истифодабаранда \"% S\" тарк ин хона"
+
+msgid "Add account"
+msgstr "Иловаи ҳисоб-"
+
+msgid "The requested page is not found"
+msgstr "Саҳифаи дархостшуда аст, ёфт нашуд"
+
+msgid "Document"
+msgstr "ҳуҷҷати"
+
+msgid "Table"
+msgstr "ҷадвали"
+
+msgid "file(s)"
+msgstr "(ҳо )"
+
+msgid "Residue"
+msgstr "бақияи"
+
+msgid "Result is empty"
+msgstr "Дар натиҷа холӣ аст"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Маблағи умумии % S барои % S Мушовараи аст"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Шумо ба саррофон надодӣ, % S ҳармоҳа ба ҳисоби дахлдор"
+
+msgid "Start"
+msgstr "оғози"
+
+msgid "finish"
+msgstr "тамом кардан"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Ҳисоби интихобшуда аллакай дар истифода аст барои дигар ҳадафи"
+
+msgid "Amount required"
+msgstr "маблағи зарурӣ"
+
+msgid "New goal"
+msgstr "Мақсади нав"
+
+msgid "Goal"
+msgstr "ҳадафи"
+
+msgid "Goal name"
+msgstr "номи ҳадаф"
+
+msgid "Invalid date"
+msgstr "санаи нодурусти"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Маблағи зарурӣ бояд шумораи мусбат бошад"
+
+msgid "Remain"
+msgstr "боқӣ мемонад"
+
+msgid "Last day"
+msgstr "рӯзи охирини"
+
+msgid "Accumulated"
+msgstr "ҷамъ"
+
+msgid "Put aside"
+msgstr "зуҳр"
+
+msgid "January"
+msgstr "январ"
+
+msgid "February"
+msgstr "феврал"
+
+msgid "March"
+msgstr "март"
+
+msgid "April"
+msgstr "апрел"
+
+msgid "May"
+msgstr "май"
+
+msgid "June"
+msgstr "июн"
+
+msgid "July"
+msgstr "июл"
+
+msgid "August"
+msgstr "август"
+
+msgid "September"
+msgstr "сентябр"
+
+msgid "October"
+msgstr "октябр"
+
+msgid "November"
+msgstr "ноябр"
+
+msgid "December"
+msgstr "декабр"
+
+msgid "Expenses projected/actual"
+msgstr "Хароҷоти лоиҳавӣ / воқеии"
+
+msgid "Net Income projected/actual"
+msgstr "Даромади софи лоиҳавӣ / воқеии"
+
+msgid "New budget"
+msgstr "буҷети нав"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Даромад ва хароҷоти Диаграммаи"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Буљет бо ҳамин ҷуфт ҳисоби ва гурӯҳи аллакай мавҷуд аст"
+
+msgid "Budget is empty"
+msgstr "Буҷаи холӣ аст"
+
+msgid "Budget"
+msgstr "буљети"
+
+msgid "plan"
+msgstr "нақшаи"
+
+msgid "fact"
+msgstr "он"
+
+msgid "diff"
+msgstr "фарқият"
+
+msgid "Show More"
+msgstr "бештар"
+
+msgid "Cancel"
+msgstr "бекор"
+
+msgid "d"
+msgstr "$ D"
+
+msgid "h"
+msgstr "соат"
+
+msgid "min"
+msgstr "дақ"
+
+msgid "My sales"
+msgstr "фурӯши ман"
+
+msgid "Time spent"
+msgstr "вақти"
+
+msgid "Total time spent"
+msgstr "Умумии вақт сарф"
+
+msgid "Earnings per hour"
+msgstr "Музди як соат"
+
+msgid "Total earnings"
+msgstr "умумии музди"
+
+msgid "Call"
+msgstr "занг задан"
+
+msgid "Phone call"
+msgstr "телефон занг"
+
+msgid "Telephone calls"
+msgstr "зангҳои телефон"
+
+msgid "Send email"
+msgstr "фиристодани иттилоот бо почтаи"
+
+msgid "Emails"
+msgstr "Мактубҳоро"
+
+msgid "Meeting"
+msgstr "Мулоқот"
+
+msgid "Meetings"
+msgstr "вохӯриҳои"
+
+msgid "All events"
+msgstr "тамоми чорабиниҳо"
+
+msgid "Task"
+msgstr "вазифа"
+
+msgid "Event"
+msgstr "ҳодиса"
+
+msgid "Events"
+msgstr "чорабиниҳо"
+
+msgid "Time"
+msgstr "вақт"
+
+msgid "Events statistics"
+msgstr "чорабиниҳои омор"
+
+msgid "days"
+msgstr "рӯз"
+
+msgid "hours"
+msgstr "соат"
+
+msgid "minutes"
+msgstr "дақиқа"
+
+msgid "Income & expense"
+msgstr "Даромад аз ҳисоби &"
+
+msgid "Show chart"
+msgstr "нишон диаграмма"
+
+msgid "Hide chart"
+msgstr "пинҳон диаграмма"
+
+msgid "Add event"
+msgstr "илова ҳодиса"
+
+msgid "Add financial data"
+msgstr "Кардани маълумот, молиявӣ"
+
+msgid "Select contractor"
+msgstr "ро интихоб кунед пудратчӣ"
+
+msgid "Net Income"
+msgstr "Даромади Холис"
+
+msgid "Revenue"
+msgstr "даромад"
+
+msgid "Taxes"
+msgstr "андоз"
+
+msgid "Amount planned"
+msgstr "маблағи ба нақша гирифта"
+
+msgid "Amount"
+msgstr "маблағи"
+
+msgid "Period"
+msgstr "муддат"
+
+msgid "Are you sure to close this task?"
+msgstr "Шумо дар ҳақиқат ба бастани ин вазифаи ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "њамаи гурўњњои"
+
+msgid "added from task"
+msgstr "илова аз вазифаи"
+
+msgid "Monthly repeat"
+msgstr "такрор ҳармоҳа"
+
+msgid "Select category"
+msgstr "ро интихоб кунед категорияи"
+
+msgid "Event type"
+msgstr "навъи чорабинии"
+
+msgid "Margin"
+msgstr "маржа"
+
+msgid "Use finance project"
+msgstr "Истифода лоиҳаи молия"
+
+msgid "New investment project"
+msgstr "Лоиҳаи сармоягузории нав"
+
+msgid "Investment project settings"
+msgstr "Танзимоти лоиҳаи сармоягузорӣ"
+
+msgid "Picture, for the announcement project"
+msgstr "Расм , барои лоиҳаи эълон дар"
+
+msgid "Announcement project"
+msgstr "лоиҳаи эълон"
+
+msgid "Video"
+msgstr "видео"
+
+msgid "Photos or videos gallery"
+msgstr "Хабарнигори ё видео галерея"
+
+msgid "required amount"
+msgstr "маблағи зарурӣ"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Таърихи оѓоз ва анљомёбии лоиња (60 рӯз ҳадди аксар )"
+
+msgid "Project duration"
+msgstr "Таърихи оѓоз ва анљомёбии лоиња"
+
+msgid "Add reward"
+msgstr "илова мукофот"
+
+msgid "Delivery date"
+msgstr "Санаи расондан"
+
+msgid "Payment systems"
+msgstr "низоми пардохт"
+
+msgid "Terms of service"
+msgstr "Шартҳои хизматрасонӣ"
+
+msgid "Agreement"
+msgstr "созишнома"
+
+msgid "Payment"
+msgstr "пардохт"
+
+msgid "My projects"
+msgstr "лоиҳаҳои ман"
+
+msgid "Search result"
+msgstr "Дар натиҷа Ҷустуҷӯи"
+
+msgid "Nothing not found"
+msgstr "Ҳеҷ чиз ёфт нашуд"
+
+msgid "The project has no sponsors"
+msgstr "Лоиҳа надорад, сарпарастон"
+
+msgid "Design"
+msgstr "дизайн"
+
+msgid "Food"
+msgstr "озуқаворӣ"
+
+msgid "Journalism"
+msgstr "журналистика"
+
+msgid "Games"
+msgstr "бозиҳои"
+
+msgid "Art"
+msgstr "санъат"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "мусиқӣ"
+
+msgid "Handicrafts"
+msgstr "ҳунармандӣ"
+
+msgid "Publishing"
+msgstr "нашр"
+
+msgid "Theater"
+msgstr "театр"
+
+msgid "Technology"
+msgstr "технология"
+
+msgid "Film/Video"
+msgstr "Филми / Видео"
+
+msgid "Photo"
+msgstr "Аксҳо"
+
+msgid "Dance"
+msgstr "ращс"
+
+msgid "Invalid youtube video"
+msgstr "Видео YouTube беэътибор"
+
+msgid "is required"
+msgstr "талаб мешавад"
+
+msgid "User"
+msgstr "Корбар"
+
+msgid "Date"
+msgstr "Сана"
+
+msgid "Collected"
+msgstr "ҷамъоварӣ"
+
+msgid "Choose period"
+msgstr "давраи интихоб"
+
+msgid "Choose region"
+msgstr "интихоб вилоят"
+
+msgid "Country"
+msgstr "кишвар"
+
+msgid "Today"
+msgstr "имрӯз"
+
+msgid "Week"
+msgstr "ҳафта"
+
+msgid "Month"
+msgstr "моҳ"
+
+msgid "Year"
+msgstr "сол"
+
+msgid "Free registration"
+msgstr "бақайдгирии озод"
+
+msgid "Join"
+msgstr "Садо"
+
+msgid "Log in using"
+msgstr "Вуруд истифода"
+
+msgid "Vacancies"
+msgstr "ба имкониятҳои шуғл"
+
+msgid "About Us"
+msgstr "Дар бораи мо"
+
+msgid "You will need email to log in"
+msgstr "Ту почтаи электронӣ ба система бояд дар"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Дар якҷоягӣ аз 6 рақам ва аломатҳои"
+
+msgid "Search users, groups, articles..."
+msgstr "Истифодабарандагони Ҷустуҷӯи , гурӯҳҳо, мақолаҳо ..."
+
+msgid "Cloud"
+msgstr "абр"
+
+msgid "Sunday"
+msgstr "якшанбе"
+
+msgid "Monday"
+msgstr "душанбе"
+
+msgid "Tuesday"
+msgstr "сешанбе"
+
+msgid "Wednesday"
+msgstr "чоршанбе"
+
+msgid "Thursday"
+msgstr "Панҷшанбе"
+
+msgid "Friday"
+msgstr "Ҷумъа"
+
+msgid "Saturday"
+msgstr "шанбе"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Create group"
+msgstr "Гурӯҳи таъсис"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Шумо дар ҳақиқат мехоҳед, ки ин саҳифаро тарк кард?"
+
+msgid "More"
+msgstr "Бештар"
+
+msgid "Less"
+msgstr "Камтар"
+
+msgid "Pending"
+msgstr "дар давоми"
+
+msgid "Approved"
+msgstr "тасдиќ"
+
+msgid "Rejected"
+msgstr "рад"
+
+msgid "Subprojects"
+msgstr "Subprojects"
+
+msgid "Group edit"
+msgstr "Гурӯҳи вироиш"
+
+msgid "Startup"
+msgstr "Навкор"
+
+msgid "Tattoo"
+msgstr "холкӯбӣ"
+
+msgid "Health"
+msgstr "саломатӣ"
+
+msgid "Weapon"
+msgstr "силоҳ"
+
+msgid "Astronomy"
+msgstr "ситорашиносӣ"
+
+msgid "All articles"
+msgstr "мақолаҳои"
+
+msgid "Article editor"
+msgstr "муҳаррири мақола"
+
+msgid "Document editor"
+msgstr "муҳаррири ҳуҷҷат"
+
+msgid "Apply changes"
+msgstr "тағиротҳои"
+
+msgid "Save changes?"
+msgstr "Наҷот тағйирот ?"
+
+msgid "published an article"
+msgstr "нашри мақола"
+
+msgid "Users"
+msgstr "истифодабарандагони"
+
+msgid "Shared With Me"
+msgstr "Муштарак бо ман"
+
+msgid "share"
+msgstr "саҳм"
+
+msgid "Select Group Responsible"
+msgstr "Ро интихоб кунед Гурӯҳи масъул"
+
+msgid "Create folder"
+msgstr "эҷоди феҳристи"
+
+msgid "Title must be at least 3 characters"
+msgstr "Унвони бояд дар на камтар аз 3 аломат бошад"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Озод 10 ГБ , мудири молия , сармоягузорӣ модули , ва дигар бисёр барои озод ва то абад"
+
+msgid "Best regards"
+msgstr "Бо эҳтиром"
+
+msgid "Updates in last 12 hours:"
+msgstr "Навсозиҳои дар 12 соати охир :"
+
+msgid "expense"
+msgstr "аз њисоби"
+
+msgid "Commentary on the event:"
+msgstr "Шарҳу сурати :"
+
+msgid "Event place"
+msgstr "ҷои ҳодиса"
+
+msgid "Project was updated"
+msgstr "Лоиҳаи нав шуд"
+
+msgid "Project was created"
+msgstr "Лоиҳаи буд"
+
+msgid "Project was closed"
+msgstr "Лоиҳаи баста шуд"
+
+msgid "account"
+msgstr "ҳисоб"
+
+msgid "removed task"
+msgstr "вазифа дур"
+
+msgid "removed subproject"
+msgstr "subproject хориҷ"
+
+msgid "Title can not be empty"
+msgstr "Title мумкин нест, холӣ"
+
+msgid "Do not select the type of event"
+msgstr "Оё навъи чорабинии интихоб нашудааст"
+
+msgid "Error while saving comment"
+msgstr "Хатогӣ ҳангоми сарфаи шарҳ"
+
+msgid "Save error: access denied"
+msgstr "Ҷуз гумроҳӣ чист дастрасӣ рад"
+
+msgid "Remains"
+msgstr "бощимонда"
+
+msgid "Time spent, h."
+msgstr "Вақт сарф , ч ."
+
+msgid "Emails"
+msgstr "Мактубҳоро"
+
+msgid "Meetings"
+msgstr "вохӯриҳои"
+
+msgid "All users"
+msgstr "ҳамаи корбарон"
+
+msgid "Category"
+msgstr "категория"
+
+msgid "Finance project"
+msgstr "лоиҳаи молия"
+
+msgid "Investment project"
+msgstr "лоиҳаи сармоягузорӣ"
+
+msgid "Nature"
+msgstr "табиат"
+
+msgid "Data is empty"
+msgstr "Маълумот холӣ аст"
+
+msgid "Visitors"
+msgstr "меҳмонон"
+
+msgid "My profile"
+msgstr "профили ман"
+
+msgid "Sponsors"
+msgstr "сарпарастон"
+
+msgid "Prior to completion"
+msgstr "Пеш аз ба анљом"
+
+msgid "Select"
+msgstr "ро интихоб кунед"
+
+msgid "My groups"
+msgstr "гурӯҳҳои ман"
+
+msgid "The invitation has been sent successfully"
+msgstr "Даъвати бомуваффаќият фиристода шуд"
+
+msgid "Username has already been invited to this project"
+msgstr "Логин аллакай ба ин лоиҳа даъват"
+
+msgid "The user is the creator of the project"
+msgstr "Истифодабаранда ба Офаридгори лоиҳа"
+
+msgid "Provide full access"
+msgstr "Таъмини дастрасии пурра"
+
+msgid "Select elements to provide access"
+msgstr "Унсурҳои интихоб барои таъмин намудани дастрасии"
+
+msgid "Select all"
+msgstr "интихоб ҳама"
+
+msgid "User E-mail"
+msgstr "Истифодабарандаи почтаи электронӣ"
+
+msgid "Click on the field to select a category"
+msgstr "Дар соҳаи пахш як гурӯҳ барои интихоби"
+
+msgid "Invitation was deleted"
+msgstr "Даъват тоза карда шуд"
+
+msgid "Permission denied"
+msgstr "Иҷоза дода нашуд"
+
+msgid "Printed"
+msgstr "чоп"
+
+msgid "Incorrect Contractor email"
+msgstr "Почтаи пудратчӣ нодуруст"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Оё шумо мехоҳед, ки илова лоиҳа оид ба маблағгузории мудири ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Ба анҷом раванди сабти ном , лутфан пур поён маҳорати худро"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Як почта бо дастурҳои иловагӣ ба суроғаи почтаи электронии шумо фиристода шуд"
+
+msgid "Submit"
+msgstr "пешниҳод"
+
+msgid "Cars"
+msgstr "мошинҳои"
+
+msgid "Science"
+msgstr "илм"
+
+msgid "Donation"
+msgstr "пардохт"
+
+msgid "Interests"
+msgstr "манфиатҳои"
+
+msgid "Driver"
+msgstr "ронанда"
+
+msgid "Sportsman"
+msgstr "варзишгар"
+
+msgid "Businessman"
+msgstr "марди корчалон"
+
+msgid "Accountant"
+msgstr "ҳисобчӣ"
+
+msgid "Engineer"
+msgstr "муҳандис"
+
+msgid "Soldier"
+msgstr "сарбоз"
+
+msgid "Next"
+msgstr "Баъдӣ"
+
+msgid "Hide group"
+msgstr "Гурӯҳи пинҳон"
+
+msgid "groups created"
+msgstr "гурӯҳҳои таъсис"
+
+msgid "articles written"
+msgstr "мақолаҳо навишта"
+
+msgid "These groups may be interesting for you"
+msgstr "Ин гурӯҳҳо метавонанд ҷолиб барои шумо"
+
+msgid "About Group"
+msgstr "дар бораи Гурӯҳи"
+
+msgid "view(s)"
+msgstr "Бознигарии ( р)"
+
+msgid "Favorite users"
+msgstr "истифодабарандагони дӯстдоштаи"
+
+msgid "No accounts"
+msgstr "нест ҳисобҳои"
+
+msgid "Facebook authorization failed."
+msgstr "Иҷозат Facebook натавонистанд ."
+
+msgid "Authorization Required"
+msgstr "иҷозат заруранд"
+
+msgid "You have to make a call:"
+msgstr "Шумо ба занг задан :"
+
+msgid "You have to send an email:"
+msgstr "Шумо доранд, тавассути почтаи электронӣ фиристодан :"
+
+msgid "You have a meetup:"
+msgstr "Шумо як meetup :"
+
+msgid "You event :"
+msgstr "Ҳодиса шумо :"
+
+msgid "Participants:"
+msgstr "иштирокчиён:"
+
+msgid "Search"
+msgstr "кофтуков"
+
+msgid "News"
+msgstr "ахбор"
+
+msgid "Investments"
+msgstr "сармоягузорӣ"
+
+msgid "Back to Cloud"
+msgstr "Ба Абри"
+
+msgid "Documents"
+msgstr "ҳуҷҷатҳои"
+
+msgid "Planet"
+msgstr "сайёра"
+
+msgid "Group url"
+msgstr "URL- гурӯҳ"
+
+msgid "Profile url"
+msgstr "URL профил"
+
+msgid "Already taken"
+msgstr "Аллакай гирифта шудааст"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "На камтар аз 1 мактуб ва 3 дарозии chars талаб"
+
+msgid "Digit can not be the first character"
+msgstr "Рақама метавонад дар аввал хусусияти нест,"
+
+msgid "Enter valid email address"
+msgstr "Суроғаи почтаи электронии дуруст ворид кунед"
+
+msgid "Enter your skills"
+msgstr "Малакаи худро нависед"
+
+msgid "Enter your first name"
+msgstr "Аввал номи худро ворид кунед"
+
+msgid "Enter your last name"
+msgstr "Номи охир худро нависед"
+
+msgid "Enter your first name and last name"
+msgstr "Ном ва насаб ворид кунед"
+
+msgid "Your first name?"
+msgstr "Аввал номи шумо ?"
+
+msgid "Your last name?"
+msgstr "Номи охир шумо ?"
+
+msgid "What are your proficiencies?"
+msgstr "Proficiencies шумо чӣ ном доранд?"
+
+msgid "Select country"
+msgstr "ро интихоб кунед кишвар"
+
+msgid "Select user"
+msgstr "ро интихоб кунед корбар"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Вафо хоб ! Эҷод ва ҳамкориҳо анҷом медиҳанд."
+
+msgid "date moved from"
+msgstr "Санаи барангехт аз"
+
+msgid "work"
+msgstr "кор"
+
+msgid "Conference"
+msgstr "конференсия"
+
+msgid "personal"
+msgstr "шахсӣ"
+
+msgid "Holiday"
+msgstr "ид"
+
+msgid "Past"
+msgstr "Гузашта"
+
+msgid "Future"
+msgstr "Оянда"
+
+msgid "Purchase"
+msgstr "Харид"
+
+msgid "Personal events"
+msgstr "Чорабиниҳои хусусӣ"
+
+msgid "Conferences"
+msgstr "Мулоқот"
+
+msgid "Holidays"
+msgstr "Ид"
+
+msgid "Sport events"
+msgstr "Чорабиниҳои оммавии варзишӣ"
+
+msgid "Tasks"
+msgstr "Вазифањо"
+
+msgid "Other events"
+msgstr "Дигар чорабиниҳо"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Ба таъхир"
+
+msgid "Time management"
+msgstr "Идоракунии вақт"
+
+msgid "Delayed events"
+msgstr "Чорабиниҳои батаъхиргузорӣ"
+
+msgid "Delayed"
+msgstr "Ба таъхир"
+
+msgid "Bind to"
+msgstr "Имзо кардан"
+
+msgid "answered your comment to"
+msgstr "Ман гуфтам, (а) изҳори назар дар бораи мақола"
+
+msgid "commented your article"
+msgstr "Ман дар мақолаи худ шарҳ"
+
+msgid "You\'ve answered on comment to"
+msgstr "Шумо ба шарҳ мақола посух"
+
+msgid "You\'ve commented an article"
+msgstr "Шумо ба мақолаи шарҳ"
+
+msgid "Terms and Conditions"
+msgstr "Ва шартњои"
+
+msgid "Privacy Policy"
+msgstr "Сиёсати ҳифзи асрор"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Бо зеркунии «Дар бораи ворид шавед, то« Шумо бо мо розӣ ва эътироф мекунанд, ки шумо хонда дошта мо"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Ҳамроҳ шудан ба ҷомеаи мардуми созандаву аз тамоми ҷаҳон! Шуморо қабул хоҳад кард: Сармоягузорӣ дар идеяҳои худ, имконияти ҷамъ дастаи ӯ, кор дар як гурӯҳ, менеҷери молиявӣ, идоракунии вақти онҳо, 2 gigabytes дар нигаҳдорӣ ва бештар. Ва он озод!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Бубахшед, аммо ин саҳифа, ки ҷустуҷӯ мекунед, барои вуҷуд надорад. Агар шумо фикр кунед, ки барои айбдор бо мо тамос гиред мо"
+
+msgid "Return"
+msgstr "Бозгашт"
+
+msgid "COMMON"
+msgstr "Ҳамагӣ"
+
+msgid "My events"
+msgstr "Достони ман"
+
+msgid "Job opening"
+msgstr "Холии нав"
+
+msgid "Employment"
+msgstr "Навъи кор"
+
+msgid "Working hours"
+msgstr "Соат кушодани"
+
+msgid "City"
+msgstr "Шаҳр"
+
+msgid "Wages"
+msgstr "Маош"
+
+msgid "Currency"
+msgstr "Асъори"
+
+msgid "Experience"
+msgstr "Таљрибаи"
+
+msgid "Full-time"
+msgstr "Шуѓли пурра"
+
+msgid "Part-time"
+msgstr "Қисми вақти"
+
+msgid "Project employment"
+msgstr "Лоиҳаи / муваққатӣ"
+
+msgid "Volunteer"
+msgstr "Ихтиёриён"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "Пурра"
+
+msgid "Shifts"
+msgstr "Ҷадвали иваз"
+
+msgid "Flexible shifts"
+msgstr "Ҷадвали фасењ"
+
+msgid "Remote work"
+msgstr "Кор дурдаст"
+
+msgid "Rotational basis"
+msgstr "Усули Shift"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Шумо дар ҳақиқат мехоҳед, ки ба назари ҳузф кунед?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Шумо дар ҳақиқат мехоҳед, ки ин вазифа ба ҳузф кунед?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Шумо дар ҳақиқат мехоҳед ин зербахш лоиҳа ҳузф кунед?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Шумо ба ширкат дар ҳолати истифода бурда мешавад. Боварӣ ҳосил намоед, ки"
+
+msgid "Your request to for job has been rejected"
+msgstr "Дархости шумо ба ин ширкат ба вазифаи дорад, рад шуд"
+
+msgid "Your request to for job has been accepted"
+msgstr "Дархости шумо ба ин ширкат ба вазифа қабул карда шуд"
+
+msgid "profile is completed"
+msgstr "Профили худро пур аст,"
+
+msgid "Use account"
+msgstr "Истифода ҳисоби"
+
+msgid "$/hr"
+msgstr "$ / Соат"
+
+msgid "Finance category"
+msgstr "Категорияи молиявӣ"
+
+msgid "No projects"
+msgstr "Лоиҳаҳои нест"
+
+msgid "Bind to finances"
+msgstr "Таъин лоиҳаи молиявӣ"
+
+msgid "Preview"
+msgstr "Бознигарии"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Save to my cloud"
+msgstr "Нусха дар репозиторий"
+
+msgid "File successfully saved to your cloud"
+msgstr "Парванда бомуваффақият дар анбори шумо захира"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Ин файл дар анбори наҷот хоҳӣ дод?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Интихоб категорияи моддаи"
+
+msgid "Type something"
+msgstr "Чизе навиштан"
+
+msgid "Founded users"
+msgstr "Истифодабарандагони ёфт"
+
+msgid "Founded articles"
+msgstr "Моддаи ёфт"
+
+msgid "Founded groups"
+msgstr "Гурӯҳи таъсис"
+
+msgid "What are your skills?"
+msgstr "Маҳорати худро чӣ ном доранд?"
+
+msgid "Select at least 2 interests"
+msgstr "На камтар аз 2-ро интихоб кунед фоизҳо"
+
+msgid "Need more interests"
+msgstr "Не таваҷҷӯҳи кофӣ интихоб"
+
+msgid "What are you interesting in?"
+msgstr "Шумо чӣ аҳамият диҳем?"
+
+msgid "You have no dialogs"
+msgstr "Ту муколамаи нест,"
+
+msgid "Usage Stats"
+msgstr "Давлатии"
+
+msgid "Founded files"
+msgstr "Файлҳо ёфт"
+
+msgid "Big tiles"
+msgstr "Сафолҳои калон"
+
+msgid "Small tiles"
+msgstr "Сафолҳои хурд"
+
+msgid "Table view"
+msgstr "Бознигарии мизи"
+
+msgid "Root folder"
+msgstr "Решаи феҳрист"
+
+msgid "My files"
+msgstr "Файлҳои ман"
+
+msgid "Save as draft"
+msgstr "Ғайри он лоињаи"
+
+msgid "Buy More Space"
+msgstr "Харидани фазои бештар"
+
+msgid "Buy"
+msgstr "Харидан"
+
+msgid "You have been invited to group as"
+msgstr "Шумо ба гурӯҳи чун даъват шуданд"
+
+msgid "User wants to join your group"
+msgstr "Истифодабаранда мехоҳад ба гурӯҳи худ ҳамроҳ"
+
+msgid "Section is coming soon!"
+msgstr "Фасли зери сохтмон!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Афкор дар давоми 24 соати охир:"
+
+msgid "Task was updated"
+msgstr "Вазифаи навсозӣ шудааст"
+
+msgid "Task was closed"
+msgstr "Ба мушкилоти баста шудааст"
+
+msgid "Task was created"
+msgstr "Вазифаи таъсис дода шуд"
+
+msgid "Current balance"
+msgstr "Тавозуни ҷорӣ"
+
+msgid "Add funds"
+msgstr "Илова кардан"
+
+msgid "Pay"
+msgstr "Кассири"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Ту зиёд доранд, шумораи кӯшишҳои воридшавӣ. Шумо барои 15 дақиқа баста"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Лутфан, шумо почтаи электронӣ тасдиқ кунед. Дар ин нома тавассути почта ба шумо фиристод."
+
+msgid "Resend confirmation email"
+msgstr "Ирсол тасдиқи боз"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Фитаи 2 GB дар як моҳ"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Сарзаминамон 10 GB дар як сол"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Диск 100 GB ҳар сол"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Диск 1TB ҳар моҳ"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Сарзаминамон 1 сил ҳар сол"
+
+msgid "Project members monthly"
+msgstr "Иштирокчиёни лоиҳа дар моҳ"
+
+msgid "Project members yearly"
+msgstr "Иштирокчиёни лоиҳа ҳар сол"
+
+msgid "Member(s) yearly"
+msgstr "Аъзои (р) дар як сол"
+
+msgid "Member(s) monthly"
+msgstr "Аъзои (р) дар як моҳ"
+
+msgid "Authorized"
+msgstr "Ваколатдор"
+
+msgid "Authorization expired"
+msgstr "Бақайдгирӣ ҷон дод"
+
+msgid "Processor declined"
+msgstr "Системаи коркарди рад"
+
+msgid "Gateway rejected"
+msgstr "Дарвозаи пардохт рад"
+
+msgid "Failed"
+msgstr "Хатогӣ"
+
+msgid "Voided"
+msgstr "Сощит кардан"
+
+msgid "Submitted for settlement"
+msgstr "Фиристод, то ки номнавис"
+
+msgid "Settlement declined"
+msgstr "Фарогирї дорад, рад шуд"
+
+msgid "Settlement pending"
+msgstr "То бақайдгирӣ"
+
+msgid "Verified"
+msgstr "Месанҷад"
+
+msgid "Pending"
+msgstr "Дар давоми"
+
+msgid "Active"
+msgstr "Фаъол"
+
+msgid "Past Due"
+msgstr "Ҷон дод"
+
+msgid "Expired"
+msgstr "Анҷом ёфт"
+
+msgid "Marketer"
+msgstr "Фур"
+
+msgid "India"
+msgstr "Ҳиндустон"
+
+msgid "Malaysia"
+msgstr "Малайзия"
+
+msgid "Thailand"
+msgstr "Таиланд"
+
+msgid "South Korea"
+msgstr "Кореяи Ҷанубӣ"
+
+msgid "Kazakhstan"
+msgstr "Қазоқистон"
+
+msgid "Israel"
+msgstr "Исроил"
+
+msgid "Ukraine"
+msgstr "Украина"
+
+msgid "Belarus"
+msgstr "Беларус"
+
+msgid "Bulgaria"
+msgstr "Булғористон"
+
+msgid "Turkey"
+msgstr "Мокиёни мурци марьон"
+
+msgid "Armenia"
+msgstr "Арманистон"
+
+msgid "Serbia"
+msgstr "Сербия"
+
+msgid "Austria"
+msgstr "Австрия"
+
+msgid "Poland"
+msgstr "Лаҳистон"
+
+msgid "Germany"
+msgstr "Олмон"
+
+msgid "Italy"
+msgstr "Италия"
+
+msgid "Netherlands"
+msgstr "Нидерланд"
+
+msgid "Ireland"
+msgstr "Ирландия"
+
+msgid "United Kingdom"
+msgstr "Британияи Кабир"
+
+msgid "Portugal"
+msgstr "Португалия"
+
+msgid "Norway"
+msgstr "Норвегия"
+
+msgid "United States"
+msgstr "Иёлоти Муттаҳидаи Амрико"
+
+msgid "Canada"
+msgstr "Канада"
+
+msgid "Brazil"
+msgstr "Бразилия"
+
+msgid "Saudi Arabia"
+msgstr "Арабистони Саудӣ"
+
+msgid "Canada"
+msgstr "Миср"
+
+msgid "Russia"
+msgstr "Дар Русия"
+
+msgid "Hong Kong"
+msgstr "Гонконг"
+
+msgid "There was no any transactions yet."
+msgstr "Дар ҳоли ҳозир буд, амалиёти ягона нест,"
+
+msgid "Fulfill your dream"
+msgstr "Иҷро хоб"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Ҳамроҳ ҷомеаи мо шахсони эҷодӣ аз ҳама дар саросари ҷаҳон."
+
+msgid "Create and Collaborate"
+msgstr "Эҷод ва ҳамкорӣ"
+
+msgid "Start Dreaming"
+msgstr "Ҳоло дар хоб пурра иҷро намоед"
+
+msgid "or"
+msgstr "ё"
+
+msgid "Our mission:"
+msgstr "Ҳадафи мо:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Муттаҳид мардум эҷодӣ ва фаъол барои амалӣ намудани ғояҳои аз содда ва талабот ба ақл ва афсонавӣ, ки ояндаи мо ташаккули."
+
+msgid "What is Konstruktor?"
+msgstr "Konstruktor чӣ аст?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor- як қисми ҳаёти ҳақиқии мо, ки ба таври назаррас мусоидат ва содда аст,"
+
+msgid "*business processes"
+msgstr "* равандҳои бизнес"
+
+msgid "*materialization of creative ideas"
+msgstr "* намуданд, идеяҳои эҷодӣ"
+
+msgid "*constructive cooperation"
+msgstr "* ҳамкории созанда"
+
+msgid "Make your dream!"
+msgstr "Ворид хоб!"
+
+msgid "Vlad Krishtop"
+msgstr "Влад Krishtop"
+
+msgid "CEO"
+msgstr "Мудири Иҷрои"
+
+msgid "Yuriy Chekalenko"
+msgstr "Юрий Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Мушовири махсус"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Ярослав Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Менеҷери, рушди Software"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Светлана Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Адвокати калон"
+
+msgid "Yuriy Himka"
+msgstr "Юрий Himka"
+
+msgid "Designer"
+msgstr "Лоиҳакаш"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Ба воситаи ангуштзанӣ ба Тугмаи \"Давомаш\", шумо қабул ва розӣ ки бо шароит ва мо ва шумо эътироф шумо хонда сиёсати махфияти мо."
+
+msgid "Incorrect login or password."
+msgstr "Нодуруст вуруд ба пароли."
+
+msgid "Password must be at least 6 characters"
+msgstr "Парол бояд на камтар аз 6 аломат бошад"
+
+msgid "January"
+msgstr "Январ"
+
+msgid "February"
+msgstr "Феврал"
+
+msgid "March"
+msgstr "Март"
+
+msgid "April"
+msgstr "Апрел"
+
+msgid "May"
+msgstr "Май"
+
+msgid "June"
+msgstr "Июн"
+
+msgid "July"
+msgstr "Июл"
+
+msgid "August"
+msgstr "Август"
+
+msgid "September"
+msgstr "Сентябр"
+
+msgid "October"
+msgstr "Октябр"
+
+msgid "November"
+msgstr "Ноябр"
+
+msgid "December"
+msgstr "Декабр"
+
+msgid "Chat"
+msgstr "Сӯҳбат"
+
+msgid "Files"
+msgstr "Files"
+
+msgid "Statistic"
+msgstr "Оморӣ"
+
+msgid "Support"
+msgstr "Дастгирии"
+
+msgid "Exit"
+msgstr "Баромадгоҳ"
+
+msgid "Brest"
+msgstr "Брест"
+
+msgid "Belarus"
+msgstr "Беларус"
+
+msgid "Marketing specialist"
+msgstr "Мутахассиси маркетинг"
+
+msgid "Administrator"
+msgstr "Мудири"
+
+msgid "Shared with me"
+msgstr "Муштарак бо ман"
+
+msgid "File Sharing"
+msgstr "Дастрасии муштарак ба парванда"
+
+msgid "Provide access by link"
+msgstr "Таъмини дастрасии пайванд"
+
+msgid "Provide Individual access"
+msgstr "Таъмин намудани дастрасии инфиродӣ"
+
+msgid "Provide edit access"
+msgstr "Таъмин вироиш дастрасӣ"
+
+msgid "Share"
+msgstr "Саҳм"
+
+msgid "Files will be available only for selected users"
+msgstr "Файлҳо танҳо барои истифодабарандагони интихоб карда мешаванд"
+
+msgid "With this link everyone can access to the files"
+msgstr "Бо ин Пайвандҳо ба ҳар кас метавонад ба файлҳои дастрасӣ"
+
+msgid "Search users, groups, articles..."
+msgstr "Истифодабарандагони Ҷустуҷӯи, гурӯҳҳо, мақолаҳо ..."
+
+msgid "My Group"
+msgstr "Гурӯҳи ман"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Мо"
+
+msgid "Th"
+msgstr "#НАЗВА?"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "SA"
+
+msgid "Su"
+msgstr "В.ш."
+
+msgid "The file is not selected"
+msgstr "Файли сабт нашуда бошад"
+
+msgid "Set aside"
+msgstr "Ҷудо"
+
+msgid "Event time"
+msgstr "Замони ҳодиса"
+
+msgid "Work"
+msgstr "Кор"
+
+msgid "Personal"
+msgstr "Шахсӣ"
+
+msgid "Time spent for work:"
+msgstr "Замоне барои кор:"
+
+msgid "Personal time spent:"
+msgstr "Вақт сарф шахсӣ:"
+
+msgid "Present"
+msgstr "Ҳузур"
+
+msgid "Common"
+msgstr "Умумӣ"
+
+msgid "Sport"
+msgstr "Варзиш"
+
+msgid "Entertainment"
+msgstr "Вақтхушӣ"
+
+msgid "Select:"
+msgstr "Зеринро интихоб намоед:"
+
+msgid "Invalid username or password."
+msgstr "Логин ё калимаи раҳкушоро нодуруст."
+
+msgid "Try again."
+msgstr "Як бори дигар санҷед."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "Ки он чӣ шуморо манфиатдор?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "На камтар аз 2 маҳорати интихоб кунед: боқӣ 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "На камтар аз 2 маҳорати интихоб кунед: 1 боқӣ мемонад"
+
+msgid "Select at least 2 skills: remains"
+msgstr "На камтар аз 2 маҳорати интихоб кунед: боќї"
+
+msgid "Active life"
+msgstr "Ҳаёти фаъол"
+
+msgid "Arts and culture"
+msgstr "Санъат ва фарҳанг"
+
+msgid "Business"
+msgstr "Бизнес"
+
+msgid "Cinema"
+msgstr "Кино"
+
+msgid "Communications"
+msgstr "Алоќа"
+
+msgid "Construction and repair"
+msgstr "Сохтмон ва таъмир"
+
+msgid "Cooking"
+msgstr "Пухтани"
+
+msgid "Education"
+msgstr "Маълумот"
+
+msgid "Electronics"
+msgstr "Электроника"
+
+msgid "Finances"
+msgstr "Молияи"
+
+msgid "Graphics and design"
+msgstr "Графика ва дизайн"
+
+msgid "Health"
+msgstr "Саломатӣ"
+
+msgid "Home and family"
+msgstr "Хона ва оила"
+
+msgid "Humor"
+msgstr "Мазҳака"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Саноат"
+
+msgid "Insurance"
+msgstr "Суғурта"
+
+msgid "Literature"
+msgstr "Адабиёт"
+
+msgid "Mobile communications and internet"
+msgstr "Алоқаи мобилӣ ва интернет"
+
+msgid "News and Media"
+msgstr "Ахбор ва медиавӣ"
+
+msgid "Pets"
+msgstr "Pets"
+
+msgid "Products and service"
+msgstr "Маҳсулот ва хизматрасонӣ"
+
+msgid "Real Estate"
+msgstr "Сарвати ғайриманқул"
+
+msgid "Religion"
+msgstr "Дин"
+
+msgid "Science and techs"
+msgstr "Илм ва techs"
+
+msgid "Security"
+msgstr "Амният"
+
+msgid "Society"
+msgstr "Ҷомеа"
+
+msgid "Television"
+msgstr "Телевизион"
+
+msgid "Travel"
+msgstr "Сафар"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Аргентина"
+
+msgid "Australia"
+msgstr "Австралия"
+
+msgid "Austria"
+msgstr "Австрия"
+
+msgid "Belarus"
+msgstr "Беларус"
+
+msgid "Belgium"
+msgstr "Белгия"
+
+msgid "Brazil"
+msgstr "Бразилия"
+
+msgid "Bulgaria"
+msgstr "Булғористон"
+
+msgid "Canada"
+msgstr "Канада"
+
+msgid "Chile"
+msgstr "Чили"
+
+msgid "Denmark"
+msgstr "Дания"
+
+msgid "France"
+msgstr "Фаронса"
+
+msgid "Germany"
+msgstr "Олмон"
+
+msgid "Greece"
+msgstr "Юнон"
+
+msgid "Hungary"
+msgstr "Маҷористон"
+
+msgid "Iceland"
+msgstr "Исландия"
+
+msgid "Ireland"
+msgstr "Ирландия"
+
+msgid "Israel"
+msgstr "Исроил"
+
+msgid "Italy"
+msgstr "Италия"
+
+msgid "Japan"
+msgstr "Ҷопон"
+
+msgid "Mexico"
+msgstr "Мексика"
+
+msgid "Netherlands"
+msgstr "Нидерланд"
+
+msgid "New Zealand"
+msgstr "Зеландияи Нав"
+
+msgid "Norway"
+msgstr "Норвегия"
+
+msgid "Poland"
+msgstr "Лаҳистон"
+
+msgid "Portugal"
+msgstr "Португалия"
+
+msgid "Russia"
+msgstr "Дар Русия"
+
+msgid "Slovakia"
+msgstr "Словакия"
+
+msgid "South Africa"
+msgstr "Африқои Ҷанубӣ"
+
+msgid "South Korea"
+msgstr "Кореяи Ҷанубӣ"
+
+msgid "Spain"
+msgstr "Испания"
+
+msgid "Sweden"
+msgstr "Шветсия"
+
+msgid "Switzerland"
+msgstr "Швейтсария"
+
+msgid "Turkey"
+msgstr "мурғи марҷон"
+
+msgid "Ukraine"
+msgstr "Украина"
+
+msgid "United Arab Emirates"
+msgstr "Аморати Муттаҳидаи Араб"
+
+msgid "United Kingdom"
+msgstr "Инглистон"
+
+msgid "United States"
+msgstr "Иёлоти Муттаҳидаи Амрико"
+
+msgid "achievements"
+msgstr "Дастовардҳои"
+
+msgid "Investment management"
+msgstr "Идоракунии фаъолияти сармоягузорї"
+
+msgid "Select..."
+msgstr "Ро интихоб кунед ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "Идоракунии фаъолияти сармоягузорї"
+
+msgid "Investors list"
+msgstr "Рӯйхати сармоягузорони"
+
+msgid "My investments"
+msgstr "Сармояи ман,"
+
+msgid "Create date"
+msgstr "Санаи таъсис"
+
+msgid "Author of the project"
+msgstr "Муаллифи лоиҳа"
+
+msgid "Date and time"
+msgstr "Сана ва вақт"
+
+msgid "Status"
+msgstr "Мақоми"
+
+msgid "NEXT"
+msgstr "БАЪДӢ"
+
+msgid "Next"
+msgstr "Баъдӣ"
+
+msgid "Apply"
+msgstr "Истифода бурда"
+
+msgid "Kazakhstan"
+msgstr "Қазоқистон"
+
+msgid "Almaty"
+msgstr "Алмаато"
+
+msgid "Hong Kong"
+msgstr "Гонконг"
+
+msgid "Science"
+msgstr "Илм"
+
+msgid "Architecture"
+msgstr "Меъморӣ"
+
+msgid "Photography"
+msgstr "Аксбардорӣ"
+
+msgid "Designer"
+msgstr "Лоиҳакаш"
+
+msgid "IT specialist"
+msgstr "Мутахассиси IT"
+
+msgid "Agronomist"
+msgstr "Агроном"
+
+msgid "Architect"
+msgstr "Architector"
+
+msgid "Lawyer"
+msgstr "Ҳимоягар"
+
+msgid "Writer"
+msgstr "Нависанда"
+
+msgid "Doctor"
+msgstr "Духтур"
+
+msgid "Scientist"
+msgstr "Олим"
+
+msgid "Marketer"
+msgstr "Фур"
+
+msgid "Teacher"
+msgstr "Муаллим"
+
+msgid "Cook"
+msgstr "Пухтан"
+
+msgid "Artist"
+msgstr "Ҳунарманд"
+
+msgid "Photographer"
+msgstr "Аксҳои"
+
+msgid "Ecologist"
+msgstr "Ecologist"
+
+msgid "Economist"
+msgstr "Иқтисодчӣ"
+
+msgid "Logistician"
+msgstr "Логистикаро"
+
+msgid "Journalist"
+msgstr "Рӯзноманигор"
+
+msgid "Builder"
+msgstr "Сохтмончӣ"
+
+msgid "These users may be interesting for you"
+msgstr "Ин истифодабарандагон метавонанд ҷолиб барои шумо"
+
+msgid "These articles may be interesting for you"
+msgstr "Дар ин мақолаҳо метавонад ҷолиб барои шумо"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Шумо ин гурӯҳ мисли Аdministrator ҳамроҳ шуд"
+
+msgid "articles written."
+msgstr "Мақолаҳои навишта шудааст."
+
+msgid "groups created."
+msgstr "гурӯҳҳои биёфарид."
+
+msgid "Creation"
+msgstr "Ташкили"
+
+msgid "Build a dream"
+msgstr "Сохтани хоб"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Хонда шуд мақолаҳои пурмазмуни бештар - рафта бақайдгирӣ озод"
+

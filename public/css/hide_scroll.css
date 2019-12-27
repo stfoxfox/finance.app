@@ -1,0 +1,8 @@
+body{
+	overflow: hidden;
+}
+
+.wrapper-container {
+	height: 100%;
+	overflow-y: scroll;
+}

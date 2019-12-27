@@ -1,0 +1,6423 @@
+# LANGUAGE translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: LANGUAGE <support@konstruktor.com>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Config/rating.php:6
+msgid "User profile completeness"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:133
+#: Model/User.php:181
+msgid "My Group"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:138
+#: Controller/GroupController.php:88;102;305;321
+#: Model/User.php:186
+msgid "Administrator"
+msgstr ""
+
+#: Controller/AdminAjaxController.php:24
+msgid "Product already exists in the order"
+msgstr ""
+
+#: Controller/AdminAjaxController.php:27
+msgid "Product does not exist"
+msgstr ""
+
+#: Controller/AdminAjaxController.php:34
+#: Controller/DeviceAjaxController.php:39;45;77;82
+msgid "Incorrect request"
+msgstr ""
+
+#: Controller/AppController.php:141
+#: Plugin/Core/Controller/Component/PCAuthComponent.php:15
+msgid "You must log in to access this page"
+msgstr ""
+
+#: Controller/AppController.php:191
+#: View/Elements/panel_groups.ctp:3
+#: View/Elements/Group/group_settings.ctp:14
+#: View/Group/all.ctp:21
+#: View/Group/edit.ctp:17
+msgid "Create group"
+msgstr ""
+
+#: Controller/ArticleAjaxController.php:319;339;359
+msgid "Wrong comment data"
+msgstr ""
+
+#: Controller/ArticleAjaxController.php:323;343
+#: Controller/ProjectAjaxController.php:46
+msgid "Cant save comment"
+msgstr ""
+
+#: Controller/ArticleAjaxController.php:336;356
+msgid "Event data not found"
+msgstr ""
+
+#: Controller/ArticleAjaxController.php:363
+msgid "Cant remove comment"
+msgstr ""
+
+#: Controller/ArticleAjaxController.php:376
+msgid "Article not found"
+msgstr ""
+
+#: Controller/ArticleAjaxController.php:379
+msgid "Edit permission denied"
+msgstr ""
+
+#: Controller/ArticleAjaxController.php:388
+msgid "Error while saving article"
+msgstr ""
+
+#: Controller/ArticleController.php:25
+msgid "Article editor"
+msgstr ""
+
+#: Controller/ArticleController.php:247
+#: View/Article/all.ctp:5
+#: View/Article/group_articles.ctp:3
+#: View/Article/my_articles.ctp:23
+#: View/Article/subscriptions.ctp:3
+#: View/Article/view.ctp:4
+#: View/Elements/panel_icons.ctp:39
+#: View/Elements/panel_menu.ctp:230
+#: View/Group/addresses.ctp:73
+#: View/Group/view.ctp:497
+#: View/User/view.ctp:578
+msgid "Articles"
+msgstr "Publications"
+
+#: Controller/ArticleController.php:256
+#: View/Article/all.ctp:71
+#: View/Article/my_articles.ctp:24
+#: View/Elements/panel_articles.ctp:4
+#: View/Layouts/timeline.ctp:106
+#: View/Statistic/index.ctp:51
+msgid "My articles"
+msgstr ""
+
+#: Controller/ArticleController.php:279
+#: View/Article/group_articles.ctp:4;20
+msgid "Group articles"
+msgstr ""
+
+#: Controller/ArticleController.php:322
+#: View/Article/all.ctp:68
+#: View/Article/subscriptions.ctp:4
+#: View/Elements/panel_articles.ctp:17
+#: View/Elements/AdminUI/admin_menu.ctp:8
+#: View/User/view.ctp:266
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:3
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:9
+msgid "Subscriptions"
+msgstr ""
+
+#: Controller/ArticleController.php:370
+#: View/Elements/panel_articles.ctp:36
+msgid "All articles"
+msgstr ""
+
+#: Controller/ChatAjaxController.php:326;333;354;361
+#: Controller/ProjectController.php:750;758;780;788
+msgid "Error updaing event"
+msgstr ""
+
+#: Controller/ChatAjaxController.php:340
+#: Controller/ProjectController.php:766
+msgid "Error cant save message"
+msgstr ""
+
+#: Controller/ChatAjaxController.php:368
+msgid "Error cant delete message"
+msgstr ""
+
+#: Controller/ChatAjaxController.php:373
+msgid "Error cant delete event"
+msgstr ""
+
+#: Controller/CloudController.php:85;179
+#: Controller/NoteController.php:21
+msgid "Document editor"
+msgstr ""
+
+#: Controller/CloudController.php:130;138
+msgid "Usage"
+msgstr ""
+
+#: Controller/CloudController.php:130;138
+msgid "of"
+msgstr ""
+
+#: Controller/CloudController.php:348
+#: Controller/NoteController.php:110
+#: View/Elements/panel_notes.ctp:30
+msgid "Document"
+msgstr ""
+
+#: Controller/DeviceController.php:46
+#: View/Device/checkout.ctp:3
+#: View/Layouts/device.ctp:143
+msgid "New order"
+msgstr ""
+
+#: Controller/DeviceController.php:73
+#: View/Device/orders.ctp:3
+#: View/Elements/panel_devices.ctp:5
+#: View/Layouts/device.ctp:142
+msgid "My orders"
+msgstr ""
+
+#: Controller/DeviceController.php:113
+msgid "View order"
+msgstr ""
+
+#: Controller/FinanceController.php:50;60
+msgid "Permission denied"
+msgstr ""
+
+#: Controller/FinanceShareController.php:93;169
+msgid "This is user is project owner"
+msgstr ""
+
+#: Controller/FinanceShareController.php:163
+msgid "User id is required"
+msgstr ""
+
+#: Controller/FinanceShareController.php:166
+msgid "Project id is required"
+msgstr ""
+
+#: Controller/GroupAjaxController.php:145
+msgid "Members limit reached. Please by more members"
+msgstr ""
+
+#: Controller/GroupAjaxController.php:221;222
+msgid "Unable to process your approval. Possible members limit reached for this group. Please try later"
+msgstr ""
+
+#: Controller/GroupController.php:188
+#: View/Elements/group_header.ctp:14
+#: Plugin/Queue/Console/Command/QueueShell.php:346
+msgid "Group"
+msgstr ""
+
+#: Controller/GroupController.php:366
+msgid "members"
+msgstr ""
+
+#: Controller/InvestProjectController.php:273
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:247
+#: Plugin/Billing/Controller/BillingUserController.php:150
+msgid "Payment method not found"
+msgstr ""
+
+#: Controller/InvestProjectController.php:276
+msgid "Unable to find payment method"
+msgstr ""
+
+#: Controller/InvestProjectController.php:300
+msgid "Unable to fund your money for chosen reward. Please contact with resource administration"
+msgstr ""
+
+#: Controller/InvestProjectController.php:316
+msgid "There is problem with sum funding. Your transaction has been cancelled."
+msgstr ""
+
+#: Controller/InvestProjectController.php:318
+msgid "You are successfully invest in project"
+msgstr ""
+
+#: Controller/MaintenanceController.php:17
+msgid "Komstruktor: Maintenance"
+msgstr ""
+
+#: Controller/PaymentController.php:22
+msgid "Recharge balance"
+msgstr ""
+
+#: Controller/ProjectAjaxController.php:87
+#: Controller/ProjectController.php:282
+#: Controller/UserController.php:822;1155
+#: View/Elements/Project/crm_task_popups.ctp:293
+#: View/Timeline/index.ctp:32
+#: View/User/delayed_events.ctp:220
+#: View/User/my_sells.ctp:37
+#: View/User/task_management.ctp:980
+#: View/User/time_management.ctp:773
+#: Plugin/Queue/Model/CronTask.php:361
+msgid "Task"
+msgstr ""
+
+#: Controller/ProjectController.php:40;178
+#: View/Project/task.ctp:46
+msgid "Project"
+msgstr ""
+
+#: Controller/ProjectController.php:40
+msgid "edit"
+msgstr ""
+
+#: Controller/ProjectController.php:628
+msgid "added from task"
+msgstr ""
+
+#: Controller/ProjectController.php:721
+#: Controller/UserAjaxController.php:196
+msgid "Access denied"
+msgstr ""
+
+#: Controller/ProjectController.php:733
+msgid "Error while saving members"
+msgstr ""
+
+#: Controller/ProjectController.php:796
+msgid "Error deleting message"
+msgstr ""
+
+#: Controller/ProjectController.php:802
+msgid "Error deleting event"
+msgstr ""
+
+#: Controller/TimelineController.php:129
+#: Controller/UserController.php:886;1211
+#: View/Elements/panel_icons.ctp:31
+#: View/Elements/AdminUI/admin_menu.ctp:12
+#: View/Timeline/planet.ctp:341;491
+msgid "Groups"
+msgstr ""
+
+#: Controller/TimelineController.php:133
+#: Controller/UserController.php:890;1215
+#: View/Cloud/usage.ctp:17
+#: View/Group/view.ctp:453
+msgid "Projects"
+msgstr ""
+
+#: Controller/TimelineController.php:137
+#: Controller/UserController.php:894;1219
+msgid "Subprojects"
+msgstr ""
+
+#: Controller/TimelineController.php:141
+#: Controller/UserController.php:898;1223
+#: View/Timeline/planet.ctp:345;455
+#: View/User/delayed_events.ctp:26
+#: View/User/time_management_ajax.ctp:19;399
+#: View/User/view.ctp:286
+msgid "Tasks"
+msgstr ""
+
+#: Controller/TimelineController.php:151
+#: View/Elements/Group/group_settings.ctp:107
+#: View/Group/edit.ctp:113
+#: View/User/delayed_events.ctp:168
+#: View/User/task_management.ctp:356;412;471
+#: View/User/time_management_ajax.ctp:43
+msgid "Category"
+msgstr ""
+
+#: Controller/UserAjaxController.php:333;434
+msgid "Missing parameter"
+msgstr ""
+
+#: Controller/UserAjaxController.php:335;436
+msgid "User event not found"
+msgstr ""
+
+#: Controller/UserAjaxController.php:349;451
+msgid "Share data not found"
+msgstr ""
+
+#: Controller/UserAjaxController.php:352;454
+msgid "Error on saving"
+msgstr ""
+
+#: Controller/UserAjaxController.php:475
+msgid "Events not found"
+msgstr ""
+
+#: Controller/UserAjaxController.php:496
+msgid "Incorrect event ID"
+msgstr ""
+
+#: Controller/UserAjaxController.php:554
+msgid "No file ID"
+msgstr ""
+
+#: Controller/UserAjaxController.php:758;819
+#: View/InvestProject/view.ctp:29
+#: View/Timeline/index.ctp:433
+#: View/User/task.ctp:13
+#: View/User/task_management.ctp:2
+msgid " January"
+msgstr ""
+
+#: Controller/UserAjaxController.php:758;819
+#: View/InvestProject/view.ctp:29
+#: View/Timeline/index.ctp:433
+#: View/User/task.ctp:13
+#: View/User/task_management.ctp:2
+msgid " February"
+msgstr ""
+
+#: Controller/UserAjaxController.php:758;819
+#: View/InvestProject/view.ctp:29
+#: View/Timeline/index.ctp:433
+#: View/User/task.ctp:13
+#: View/User/task_management.ctp:2
+msgid " March"
+msgstr ""
+
+#: Controller/UserAjaxController.php:758;819
+#: View/InvestProject/view.ctp:29
+#: View/Timeline/index.ctp:433
+#: View/User/task.ctp:13
+#: View/User/task_management.ctp:2
+msgid " April"
+msgstr ""
+
+#: Controller/UserAjaxController.php:758;819
+#: View/InvestProject/view.ctp:29
+#: View/Timeline/index.ctp:433
+#: View/User/task.ctp:13
+#: View/User/task_management.ctp:2
+msgid " May"
+msgstr ""
+
+#: Controller/UserAjaxController.php:758;819
+#: View/InvestProject/view.ctp:29
+#: View/Timeline/index.ctp:433
+#: View/User/task.ctp:13
+#: View/User/task_management.ctp:2
+msgid " June"
+msgstr ""
+
+#: Controller/UserAjaxController.php:759;820
+#: View/InvestProject/view.ctp:30
+#: View/Timeline/index.ctp:433
+#: View/User/task.ctp:14
+#: View/User/task_management.ctp:3
+msgid " July"
+msgstr ""
+
+#: Controller/UserAjaxController.php:759;820
+#: View/InvestProject/view.ctp:30
+#: View/Timeline/index.ctp:433
+#: View/User/task.ctp:14
+#: View/User/task_management.ctp:3
+msgid " August"
+msgstr ""
+
+#: Controller/UserAjaxController.php:759;820
+#: View/InvestProject/view.ctp:30
+#: View/Timeline/index.ctp:433
+#: View/User/task.ctp:14
+#: View/User/task_management.ctp:3
+msgid " September"
+msgstr ""
+
+#: Controller/UserAjaxController.php:759;820
+#: View/InvestProject/view.ctp:30
+#: View/Timeline/index.ctp:433
+#: View/User/task.ctp:14
+#: View/User/task_management.ctp:3
+msgid " October"
+msgstr ""
+
+#: Controller/UserAjaxController.php:759;820
+#: View/InvestProject/view.ctp:30
+#: View/Timeline/index.ctp:433
+#: View/User/task.ctp:14
+#: View/User/task_management.ctp:3
+msgid " November"
+msgstr ""
+
+#: Controller/UserAjaxController.php:759;820
+#: View/InvestProject/view.ctp:30
+#: View/Timeline/index.ctp:433
+#: View/User/task.ctp:14
+#: View/User/task_management.ctp:3
+msgid " December"
+msgstr ""
+
+#: Controller/UserAjaxController.php:770;910
+#: View/User/task.ctp:22;413;557
+#: View/User/task_management.ctp:373;431;487
+msgid "weeks"
+msgstr ""
+
+#: Controller/UserAjaxController.php:772;912
+#: View/Project/task.ctp:63
+#: View/User/task.ctp:24;415;559
+#: View/User/task_management.ctp:375;433;489
+msgid "days"
+msgstr ""
+
+#: Controller/UserAjaxController.php:774;914
+#: View/Project/task.ctp:64
+#: View/User/task.ctp:26;417;561
+#: View/User/task_management.ctp:377;435;491
+msgid "hours"
+msgstr ""
+
+#: Controller/UserAjaxController.php:776;778;916;918
+#: View/Project/task.ctp:65
+#: View/User/my_sells.ctp:293
+#: View/User/task.ctp:28;30;419;421;563;565
+#: View/User/task_management.ctp:379;381;439;495
+msgid "minutes"
+msgstr ""
+
+#: Controller/UserController.php:33
+msgid "User with this email is already exist"
+msgstr ""
+
+#: Controller/UserController.php:254;1332
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr ""
+
+#: Controller/UserController.php:505
+msgid "General list"
+msgstr ""
+
+#: Controller/UserController.php:792;873
+#: View/Elements/group_list.ctp:7
+#: View/Group/all.ctp:25
+msgid "All groups"
+msgstr ""
+
+#: Controller/UserController.php:795;816;1149
+#: View/Timeline/planet.ctp:411
+msgid "All events"
+msgstr ""
+
+#: Controller/UserController.php:795;817;1150
+#: View/Elements/Project/crm_task_popups.ctp:88;288
+#: View/Timeline/index.ctp:27
+#: View/User/delayed_events.ctp:215
+#: View/User/task_management.ctp:975
+#: View/User/time_management.ctp:768
+msgid "Meeting"
+msgstr ""
+
+#: Controller/UserController.php:795;818;1151
+msgid "Phone call"
+msgstr ""
+
+#: Controller/UserController.php:795;819;1152
+#: View/Elements/Project/crm_task_popups.ctp:89;289
+#: View/Timeline/index.ctp:28
+#: View/User/delayed_events.ctp:216
+#: View/User/task_management.ctp:976
+#: View/User/time_management.ctp:769
+msgid "Send email"
+msgstr ""
+
+#: Controller/UserController.php:820;1153
+#: View/Elements/Project/crm_task_popups.ctp:291
+#: View/Timeline/index.ctp:30
+#: View/User/delayed_events.ctp:218
+#: View/User/task_management.ctp:978
+#: View/User/time_management.ctp:771
+msgid "Conference"
+msgstr ""
+
+#: Controller/UserController.php:821;1154
+#: View/Elements/Project/crm_task_popups.ctp:292
+#: View/Timeline/index.ctp:31
+#: View/User/delayed_events.ctp:219
+#: View/User/task_management.ctp:979
+#: View/User/time_management.ctp:772
+msgid "Sport"
+msgstr ""
+
+#: Controller/UserController.php:823;1156
+#: View/Timeline/index.ctp:33
+#: View/User/delayed_events.ctp:221
+#: View/User/task_management.ctp:981
+#: View/User/time_management.ctp:774
+#: View/User/time_management_ajax.ctp:21;400
+msgid "Purchase"
+msgstr ""
+
+#: Controller/UserController.php:824;1157
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:293
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:277
+#: View/Timeline/index.ctp:34
+#: View/Timeline/planet.ctp:467
+#: View/User/delayed_events.ctp:222
+#: View/User/interests.ctp:282
+#: View/User/task_management.ctp:982
+#: View/User/time_management.ctp:775
+#: View/User/time_management_ajax.ctp:22;401
+msgid "Entertainment"
+msgstr ""
+
+#: Controller/UserController.php:825;1158
+#: View/InvestProject/add_project.ctp:124
+#: View/InvestProject/edit_project.ctp:198
+#: View/Timeline/index.ctp:35
+#: View/User/time_management_ajax.ctp:23;402
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:109
+msgid "Payment"
+msgstr ""
+
+#: Controller/UserController.php:826;1159
+#: Model/ArticleCategory.php:8
+#: View/Elements/Project/crm_task_popups.ctp:294
+#: View/Timeline/index.ctp:36
+#: View/User/delayed_events.ctp:223
+#: View/User/task_management.ctp:983
+#: View/User/time_management.ctp:776
+#: View/User/time_management_ajax.ctp:403
+msgid "Other"
+msgstr ""
+
+#: Controller/UserController.php:831;1164
+#: View/Elements/Project/crm_task_popups.ctp:94;299
+#: View/Timeline/index.ctp:235
+#: View/User/delayed_events.ctp:361
+#: View/User/task_management.ctp:1121
+#: View/User/time_management.ctp:914
+#: Plugin/Billing/View/BillingSubscriptions/plans_members.ctp:42
+#: Plugin/Billing/View/BillingSubscriptions/plans_proposals.ctp:42
+msgid "Period"
+msgstr ""
+
+#: Controller/UserController.php:832;1165
+msgid "Past"
+msgstr ""
+
+#: Controller/UserController.php:833;1166
+msgid "Present"
+msgstr ""
+
+#: Controller/UserController.php:834;1167
+msgid "Future"
+msgstr ""
+
+#: Controller/UserController.php:839;1172
+#: View/Elements/Finance/operations_filter.ctp:24;25
+#: View/User/task.ctp:701
+msgid "All categories"
+msgstr ""
+
+#: Controller/UserController.php:840;1173;1179
+#: View/User/delayed_events.ctp:32
+#: View/User/time_management_ajax.ctp:364;446
+msgid "Work"
+msgstr ""
+
+#: Controller/UserController.php:841;1174;1180
+#: View/User/delayed_events.ctp:33
+#: View/User/time_management_ajax.ctp:365;447
+msgid "Personal"
+msgstr ""
+
+#: Controller/UserController.php:875
+msgid "Common"
+msgstr ""
+
+#: Controller/UserController.php:906
+#: View/User/delayed_events.ctp:160
+#: View/User/time_management.ctp:4
+#: View/User/view.ctp:238
+msgid "Time management"
+msgstr ""
+
+#: Controller/UserController.php:1085;1115;1116;1117;1118
+msgid "COMMON"
+msgstr ""
+
+#: Controller/UserController.php:1229
+#: View/User/delayed_events.ctp:4
+msgid "Delayed events"
+msgstr ""
+
+#: Controller/UserController.php:1516
+#: View/User/task_management.ctp:327
+msgid "Task management"
+msgstr ""
+
+#: Model/ArticleCategory.php:8
+msgid "Politics"
+msgstr ""
+
+#: Model/ArticleCategory.php:8
+msgid "Economics"
+msgstr ""
+
+#: Model/ArticleCategory.php:8
+msgid "Community"
+msgstr ""
+
+#: Model/ArticleCategory.php:8
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:285
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:269
+#: View/User/interests.ctp:194
+msgid "Culture"
+msgstr ""
+
+#: Model/ArticleCategory.php:8
+#: View/User/time_management_ajax.ctp:398
+msgid "Sports"
+msgstr ""
+
+#: Model/ArticleCategory.php:8
+msgid "Hi-tech"
+msgstr ""
+
+#: Model/ArticleCategory.php:8
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:288
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:272
+#: View/User/interests.ctp:227
+msgid "Cars"
+msgstr ""
+
+#: Model/ArticleCategory.php:8
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:282
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:266
+#: View/User/interests.ctp:161
+msgid "Fashion"
+msgstr ""
+
+#: Model/ArticleCategory.php:8
+msgid "Games"
+msgstr ""
+
+#: Model/ArticleCategory.php:8
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:270
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:254
+#: View/User/interests.ctp:29
+msgid "Health"
+msgstr ""
+
+#: Model/ArticleCategory.php:8
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:274
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:258
+#: View/User/interests.ctp:73
+msgid "Travel"
+msgstr ""
+
+#: Model/ChatEvent.php:107
+msgid "You have received a file"
+msgstr ""
+
+#: Model/ChatEvent.php:384;406
+#: View/Elements/js_templates.ctp:236
+msgid "You invited user \"%s\" in this room"
+msgstr ""
+
+#: Model/ChatEvent.php:388;410
+msgid "You was invited into this room"
+msgstr ""
+
+#: Model/ChatEvent.php:391;413
+#: View/Elements/js_templates.ctp:247
+msgid "User \"%s\" joined this room"
+msgstr ""
+
+#: Model/FinanceAccount.php:60
+msgid "Account is not found"
+msgstr ""
+
+#: Model/FinanceBudget.php:57
+msgid "Budget with same pair of account and category already exists"
+msgstr ""
+
+#: Model/FinanceBudget.php:60
+msgid "Operation is break"
+msgstr ""
+
+#: Model/FinanceGoal.php:47
+msgid "Goal is not found"
+msgstr ""
+
+#: Model/FinanceGoal.php:57;77
+msgid "Invalid date"
+msgstr ""
+
+#: Model/FinanceGoal.php:66;87
+msgid "Selected account is already in use for another goal"
+msgstr ""
+
+#: Model/FinanceGoal.php:69;90
+msgid "Necessary sum must be a positive number"
+msgstr ""
+
+#: Model/FinanceOperation.php:401
+msgid "The selected account was created later than the operations date"
+msgstr ""
+
+#: Model/FinanceOperation.php:416
+msgid "Expense amount must be a number"
+msgstr ""
+
+#: Model/FinanceProject.php:100
+msgid "Project with same name already exists"
+msgstr ""
+
+#: Model/FinanceShare.php:82
+msgid "Username has already been invited to this project"
+msgstr ""
+
+#: Model/FinanceShare.php:116;129
+msgid "Invitation was deleted"
+msgstr ""
+
+#: Model/FinanceShare.php:165
+msgid "Project not found"
+msgstr ""
+
+#: Model/GroupCategory.php:37
+#: Model/InvestCategory.php:42
+msgid "Category is not found"
+msgstr ""
+
+#: Model/InvestProject.php:82
+msgid "Project is not found"
+msgstr ""
+
+#: Model/InvestProject.php:95;144
+msgid "Invalid operation"
+msgstr ""
+
+#: Model/Note.php:148
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr ""
+
+#: Model/PrinterApi.php:15
+msgid "No response from Printer API"
+msgstr ""
+
+#: Model/PrinterApi.php:20;27;32
+msgid "Bad response from Printer API"
+msgstr ""
+
+#: Model/Project.php:55;94
+msgid "income"
+msgstr ""
+
+#: Model/Project.php:56;95
+msgid "expense"
+msgstr ""
+
+#: Model/Project.php:57;96
+msgid "tax"
+msgstr ""
+
+#: Model/Project.php:58;97
+msgid "percent"
+msgstr ""
+
+#: Model/Task.php:180
+msgid "account"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:271
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:255
+#: View/User/interests.ctp:40
+msgid "Astronomy"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:272
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:256
+#: View/User/interests.ctp:51
+msgid "Sciense"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:273
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:257
+#: View/Elements/panel_icons.ctp:53
+#: View/FinanceBudget/index.ctp:5
+#: View/FinanceGoal/index.ctp:4
+#: View/FinanceOperation/index.ctp:4
+#: View/FinanceProject/index.ctp:4
+#: View/FinanceReport/index.ctp:4
+#: View/FinanceSettings/index.ctp:4
+#: View/FinanceShare/index.ctp:4
+#: View/Group/view.ctp:232
+#: View/User/interests.ctp:62
+msgid "Finances"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:275
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:259
+#: View/User/interests.ctp:84
+msgid "Donation"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:276
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:260
+#: View/User/interests.ctp:95
+msgid "Technology"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:277
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:261
+#: View/User/interests.ctp:106
+msgid "Nature"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:278
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:262
+#: View/User/interests.ctp:117
+msgid "Architecture"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:279
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:263
+#: View/User/interests.ctp:128
+msgid "Photography"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:280
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:264
+#: View/User/interests.ctp:139
+msgid "Music"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:281
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:265
+#: View/User/interests.ctp:150
+msgid "Humor"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:283
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:267
+#: View/User/interests.ctp:172
+msgid "Tattoo"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:284
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:268
+#: View/User/interests.ctp:183
+msgid "Weapon"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:286
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:270
+#: View/User/interests.ctp:205
+msgid "Startup"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:287
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:271
+#: View/User/interests.ctp:216
+msgid "Pets"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:289
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:273
+#: View/User/interests.ctp:238
+msgid "Active life"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:290
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:274
+#: View/User/interests.ctp:249
+msgid "IT"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:291
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:275
+#: View/User/interests.ctp:260
+msgid "Cooking"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:292
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:276
+#: View/User/interests.ctp:271
+msgid "Literature"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:294
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:278
+#: View/User/interests.ctp:293
+msgid "Electronics"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:311
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:289
+#: View/User/skills.ctp:28
+msgid "Designer"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:312
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:290
+#: View/User/skills.ctp:39
+msgid "IT specialist"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:313
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:291
+#: View/User/skills.ctp:50
+msgid "Agronomist"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:314
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:292
+#: View/User/skills.ctp:61
+msgid "Architector"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:315
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:293
+#: View/User/skills.ctp:72
+msgid "Lawyer"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:316
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:294
+#: View/User/skills.ctp:83
+msgid "Driver"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:317
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:295
+#: View/User/skills.ctp:94
+msgid "Writer"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:318
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:296
+#: View/User/skills.ctp:105
+msgid "Sportsman"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:319
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:297
+#: View/User/skills.ctp:116
+msgid "Doctor"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:320
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:298
+#: View/User/skills.ctp:127
+msgid "Scientist"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:321
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:299
+#: View/User/skills.ctp:138
+msgid "Marketer"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:322
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:300
+#: View/User/skills.ctp:149
+msgid "Businessman"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:323
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:301
+#: View/User/skills.ctp:160
+msgid "Teacher"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:324
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:302
+#: View/User/skills.ctp:171
+msgid "Cook"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:325
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:303
+#: View/Elements/Project/project_popups.ctp:54
+#: View/Project/task.ctp:157
+#: View/User/skills.ctp:182
+msgid "Manager"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:326
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:304
+#: View/User/skills.ctp:204
+msgid "Artist"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:327
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:305
+#: View/User/skills.ctp:215
+msgid "Photographer"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:328
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:306
+#: View/User/skills.ctp:226
+msgid "Ecologist"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:329
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:307
+#: View/User/skills.ctp:237
+msgid "Engineer"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:330
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:308
+#: View/User/skills.ctp:248
+msgid "Economist"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:331
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:309
+#: View/User/skills.ctp:259
+msgid "Soldier"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:332
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:310
+#: View/User/skills.ctp:270
+msgid "Logistician"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:333
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:311
+#: View/User/skills.ctp:281
+msgid "Journalist"
+msgstr ""
+
+#: Plugin/Api/Controller/Component/ApiUserCompComponent.php:334
+#: Plugin/Apiv2/Controller/Component/ApiUserCompComponent.php:312
+#: View/User/skills.ctp:292
+msgid "Builder"
+msgstr ""
+
+#: Plugin/Article/View/Elements/edit_status.ctp:2
+#: View/Article/view.ctp:373;672
+msgid "Published"
+msgstr ""
+
+#: Plugin/Article/View/Elements/edit_status.ctp:2
+msgid "Featured"
+msgstr ""
+
+#: Plugin/Core/View/Elements/json/ajax_auth_failed.ctp:1
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr ""
+
+#: Plugin/Core/View/Helper/PHTimeHelper.php:12
+#: View/Cron/mailer.ctp:4
+#: View/Emails/html/updates_mailer.ctp:12
+#: View/User/mailer.ctp:4
+msgid "Jan"
+msgstr ""
+
+#: Plugin/Core/View/Helper/PHTimeHelper.php:12
+#: View/Cron/mailer.ctp:4
+#: View/Emails/html/updates_mailer.ctp:12
+#: View/User/mailer.ctp:4
+msgid "Feb"
+msgstr ""
+
+#: Plugin/Core/View/Helper/PHTimeHelper.php:12
+#: View/Cron/mailer.ctp:4
+#: View/Emails/html/updates_mailer.ctp:12
+#: View/User/mailer.ctp:4
+msgid "Mar"
+msgstr ""
+
+#: Plugin/Core/View/Helper/PHTimeHelper.php:12
+#: View/Cron/mailer.ctp:4
+#: View/Emails/html/updates_mailer.ctp:12
+#: View/User/mailer.ctp:4
+msgid "Apr"
+msgstr ""
+
+#: Plugin/Core/View/Helper/PHTimeHelper.php:12
+#: View/Cron/mailer.ctp:4
+#: View/Elements/Project/crm_task_popups.ctp:176
+#: View/Emails/html/updates_mailer.ctp:12
+#: View/Helper/LocalDateHelper.php:27
+#: View/Timeline/index.ctp:63;435
+#: View/User/delayed_events.ctp:247
+#: View/User/mailer.ctp:4
+#: View/User/task_management.ctp:1007
+#: View/User/time_management.ctp:800
+#: View/User/view.ctp:42
+msgid "May"
+msgstr ""
+
+#: Plugin/Core/View/Helper/PHTimeHelper.php:12
+#: View/Cron/mailer.ctp:4
+#: View/Emails/html/updates_mailer.ctp:12
+#: View/User/mailer.ctp:4
+msgid "Jul"
+msgstr ""
+
+#: Plugin/Core/View/Helper/PHTimeHelper.php:12
+#: View/Cron/mailer.ctp:4
+#: View/Emails/html/updates_mailer.ctp:12
+#: View/User/mailer.ctp:4
+msgid "Jun"
+msgstr ""
+
+#: Plugin/Core/View/Helper/PHTimeHelper.php:12
+#: View/Cron/mailer.ctp:4
+#: View/Emails/html/updates_mailer.ctp:12
+#: View/User/mailer.ctp:4
+msgid "Aug"
+msgstr ""
+
+#: Plugin/Core/View/Helper/PHTimeHelper.php:12
+#: View/Cron/mailer.ctp:4
+#: View/Emails/html/updates_mailer.ctp:12
+#: View/User/mailer.ctp:4
+msgid "Sep"
+msgstr ""
+
+#: Plugin/Core/View/Helper/PHTimeHelper.php:12
+#: View/Cron/mailer.ctp:4
+#: View/Emails/html/updates_mailer.ctp:12
+#: View/User/mailer.ctp:4
+msgid "Oct"
+msgstr ""
+
+#: Plugin/Core/View/Helper/PHTimeHelper.php:12
+#: View/Cron/mailer.ctp:4
+#: View/Emails/html/updates_mailer.ctp:12
+#: View/User/mailer.ctp:4
+msgid "Nov"
+msgstr ""
+
+#: Plugin/Core/View/Helper/PHTimeHelper.php:12
+#: View/Cron/mailer.ctp:4
+#: View/Emails/html/updates_mailer.ctp:12
+#: View/Timeline/index.ctp:3210
+#: View/User/mailer.ctp:4
+msgid "Dec"
+msgstr ""
+
+#: Plugin/Form/View/Elements/btn_save.ctp:2
+#: Plugin/Form/View/Elements/form_actions.ctp:7
+#: View/Article/edit.ctp:37
+#: View/Chat/room.ctp:46
+#: View/Cloud/document_spreadsheet.ctp:36
+#: View/Common/admin_modal.ctp:38
+#: View/Elements/Finance/operations_list.ctp:159
+#: View/Elements/Finance/share_settings.ctp:8
+#: View/Elements/Group/group_settings.ctp:337
+#: View/Elements/Invest/project_add.ctp:82
+#: View/Elements/Invest/project_edit.ctp:158
+#: View/Elements/Project/crm_task_popups.ctp:336;357
+#: View/FinanceAccount/add_account.ctp:28
+#: View/FinanceAccount/edit_account.ctp:27
+#: View/FinanceCategory/add_category.ctp:15
+#: View/FinanceCategory/edit_category.ctp:14
+#: View/FinanceGoal/add_goal.ctp:34
+#: View/FinanceGoal/edit_goal.ctp:34
+#: View/Group/add_article.ctp:7
+#: View/Group/edit.ctp:343
+#: View/Group/members.ctp:129
+#: View/InvestProject/add_project.ctp:126
+#: View/InvestProject/edit_project.ctp:200
+#: View/Note/edit.ctp:16
+#: View/Note/spreadsheet.ctp:36
+#: View/NoteAjax/edit_panel.ctp:9
+#: View/Project/edit.ctp:81
+#: View/Project/task.ctp:356
+#: View/Timeline/index.ctp:312
+#: View/User/change_email.ctp:20
+#: View/User/change_password.ctp:20
+#: View/User/delayed_events.ctp:399
+#: View/User/edit.ctp:267
+#: View/User/task.ctp:986;1062
+#: View/User/task_management.ctp:535;1159
+#: View/User/time_management.ctp:290;952
+#: View/User/view.ctp:511
+msgid "Save"
+msgstr ""
+
+#: Plugin/Form/View/Elements/form_actions.ctp:4
+msgid "Back"
+msgstr ""
+
+#: Plugin/Form/View/Elements/form_actions.ctp:10
+msgid "Apply"
+msgstr ""
+
+#: Plugin/Form/View/FormFields/index.ctp:2
+msgid "Tech.params"
+msgstr ""
+
+#: Plugin/Froala/View/Helper/FroalaHelper.php:63
+msgid "Invalid Froala configuration preset %s"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:160
+#: Console/Command/SetupShell.php:50
+msgid "Plugin name to be used"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:164
+msgid "Precheck migrations"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:168
+msgid "Force 'generate' to compare all tables."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:172
+msgid "Overrides the 'default' connection of the MigrationVersion"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:176
+msgid "Overrides the 'default' connection of the CakeMigrations that are applied"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:181
+msgid "Output the raw SQL queries rather than applying them to the database."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:186
+msgid "Disables automatic creation of migrations table and running any internal plugin migrations"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:191
+msgid "CamelCased Classname without the `Schema` suffix to use when reading or generating schema files. See `Console/cake schema generate --help`."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:193
+msgid "Displays a status of all plugin and app migrations."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:195
+msgid "Run a migration to given direction or version."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:197
+msgid "Generates a migration file."
+msgstr ""
+
+#: Plugin/Redactor/Controller/MediafilesController.php:10;15
+msgid "Invalid mediafile"
+msgstr ""
+
+#: Plugin/Redactor/Controller/MediafilesController.php:27
+msgid "The mediafile with id: %s has been deleted."
+msgstr ""
+
+#: Plugin/Table/View/Helper/PHTableGridHelper.php:24
+msgid "Add record"
+msgstr ""
+
+#: Plugin/Table/View/Helper/PHTableGridHelper.php:25
+msgid "Show filter settings"
+msgstr ""
+
+#: Plugin/Table/View/Helper/PHTableGridHelper.php:33
+msgid "Edit record"
+msgstr ""
+
+#: Plugin/Table/View/Helper/PHTableGridHelper.php:35
+#: View/AdminContractors/index.ctp:11
+#: View/AdminFaq/index.ctp:11
+#: View/AdminOrders/index.ctp:11
+#: View/AdminProductTypes/index.ctp:11
+#: View/AdminProducts/index.ctp:11
+#: View/AdminUsers/index.ctp:11
+#: View/Elements/admin_list_OrderProducts.ctp:18
+msgid "Delete record"
+msgstr ""
+
+#: Plugin/Table/View/Helper/PHTableGridHelper.php:35
+#: View/AdminContractors/index.ctp:11
+#: View/AdminFaq/index.ctp:11
+#: View/AdminOrders/index.ctp:11
+#: View/AdminProductTypes/index.ctp:11
+#: View/AdminProducts/index.ctp:11
+#: View/AdminUsers/index.ctp:11
+#: View/Article/edit.ctp:60
+#: View/Article/view.ctp:675
+#: View/Cloud/document_spreadsheet.ctp:111
+#: View/Elements/admin_list_OrderProducts.ctp:18
+#: View/Group/add_article.ctp:30
+#: View/Note/spreadsheet.ctp:111
+msgid "Are you sure to delete this record?"
+msgstr ""
+
+#: Plugin/Table/View/Helper/PHTableGridHelper.php:38
+msgid "Delete checked records"
+msgstr ""
+
+#: Plugin/Table/View/Helper/PHTableGridHelper.php:58
+msgid "Shown {:start}-{:end} of {:count} records"
+msgstr ""
+
+#: View/Admin/index.ctp:1
+#: View/Dashboard/admin_index.ctp:1
+#: View/Elements/AdminUI/admin_shortcuts.ctp:4
+msgid "Dashboard"
+msgstr ""
+
+#: View/Admin/index.ctp:8
+#: View/Dashboard/admin_index.ctp:8
+msgid "Registered today"
+msgstr ""
+
+#: View/Admin/index.ctp:9;45
+#: View/Dashboard/admin_index.ctp:9;45
+msgid "Qty"
+msgstr ""
+
+#: View/Admin/index.ctp:28
+#: View/Dashboard/admin_index.ctp:28
+msgid "No registered users yet"
+msgstr ""
+
+#: View/Admin/index.ctp:34;63
+#: View/AdminOrders/process.ctp:14;43
+#: View/Dashboard/admin_index.ctp:34;63
+#: View/User/time_management_ajax.ctp:225
+#: Plugin/Billing/View/BillingSubscriptions/plans_members.ctp:54
+#: Plugin/Billing/View/BillingSubscriptions/plans_proposals.ctp:54
+msgid "Total"
+msgstr ""
+
+#: View/Admin/index.ctp:44
+#: View/Dashboard/admin_index.ctp:44
+msgid "Registered total"
+msgstr ""
+
+#: View/AdminAuth/login.ctp:12
+#: View/User/admin_login.ctp:12
+msgid "User name"
+msgstr ""
+
+#: View/AdminAuth/login.ctp:13
+#: View/Elements/User/login_form.ctp:97
+#: View/Elements/User/register_form.ctp:82
+#: View/Layouts/unregistered.ctp:233
+#: View/User/admin_login.ctp:13
+msgid "Password"
+msgstr ""
+
+#: View/AdminAuth/login.ctp:16
+#: View/User/admin_login.ctp:16
+msgid "Remember me"
+msgstr ""
+
+#: View/AdminAuth/login.ctp:18
+#: View/User/admin_login.ctp:18
+msgid "Login"
+msgstr ""
+
+#: View/AdminContractors/edit.ctp:4
+msgid "Edit contractor"
+msgstr ""
+
+#: View/AdminContractors/edit.ctp:4
+#: View/AdminContractors/index.ctp:3
+msgid "Create contractor"
+msgstr ""
+
+#: View/AdminContractors/index.ctp:2
+msgid "Contractors"
+msgstr ""
+
+#: View/AdminFaq/edit.ctp:4
+msgid "Edit question"
+msgstr ""
+
+#: View/AdminFaq/edit.ctp:4
+#: View/AdminFaq/index.ctp:3
+msgid "Create question"
+msgstr ""
+
+#: View/AdminFaq/index.ctp:2
+msgid "FAQ"
+msgstr ""
+
+#: View/AdminOrders/edit.ctp:4
+msgid "Edit order"
+msgstr ""
+
+#: View/AdminOrders/edit.ctp:4
+#: View/AdminOrders/index.ctp:3
+#: View/Device/checkout.ctp:129
+#: View/Elements/panel_devices.ctp:6
+msgid "Create order"
+msgstr ""
+
+#: View/AdminOrders/index.ctp:2
+msgid "Orders"
+msgstr ""
+
+#: View/AdminOrders/process.ctp:3
+msgid "Order payments"
+msgstr ""
+
+#: View/AdminOrders/process.ctp:10
+msgid "Order"
+msgstr ""
+
+#: View/AdminOrders/process.ctp:11
+msgid "User ID"
+msgstr ""
+
+#: View/AdminOrders/process.ctp:12
+#: View/Project/task.ctp:128;147;149
+msgid "Contractor"
+msgstr ""
+
+#: View/AdminOrders/process.ctp:13
+msgid "Contact Person"
+msgstr ""
+
+#: View/AdminOrders/process.ctp:37
+msgid "No orders to process"
+msgstr ""
+
+#: View/AdminProductTypes/edit.ctp:4
+msgid "Edit product type"
+msgstr ""
+
+#: View/AdminProductTypes/edit.ctp:4
+#: View/AdminProductTypes/index.ctp:3
+msgid "Create product type"
+msgstr ""
+
+#: View/AdminProductTypes/index.ctp:2
+msgid "Product types"
+msgstr ""
+
+#: View/AdminProducts/edit.ctp:4
+msgid "Edit product"
+msgstr ""
+
+#: View/AdminProducts/edit.ctp:4
+#: View/AdminProducts/index.ctp:3
+msgid "Create product"
+msgstr ""
+
+#: View/AdminProducts/index.ctp:2
+msgid "Products"
+msgstr ""
+
+#: View/AdminProducts/index.ctp:14
+msgid "Product type"
+msgstr ""
+
+#: View/Article/all.ctp:74
+#: View/Article/category.ctp:8
+#: View/Article/edit.ctp:66
+#: View/Article/group_articles.ctp:13
+#: View/Article/my_articles.ctp:30
+#: View/Article/subscriptions.ctp:10
+#: View/Article/view.ctp:12
+#: View/Elements/panel_articles.ctp:3
+#: View/Group/add_article.ctp:36
+msgid "Create article"
+msgstr ""
+
+#: View/Article/all.ctp:103
+#: View/Article/category.ctp:43
+#: View/Article/group_articles.ctp:51
+#: View/Article/my_articles.ctp:61
+#: View/Article/subscriptions.ctp:41
+msgid "No articles in this category yet"
+msgstr ""
+
+#: View/Article/edit.ctp:42;53
+#: View/Article/view.ctp:815
+#: View/Group/add_article.ctp:12;23
+msgid "Publish"
+msgstr ""
+
+#: View/Article/edit.ctp:49
+#: View/Group/add_article.ctp:19
+msgid "View article"
+msgstr ""
+
+#: View/Article/edit.ctp:53
+#: View/Group/add_article.ctp:23
+msgid "Unpublish"
+msgstr ""
+
+#: View/Article/edit.ctp:66
+#: View/Group/add_article.ctp:36
+msgid "Edit article"
+msgstr ""
+
+#: View/Article/edit.ctp:86
+msgid "Article announce image"
+msgstr ""
+
+#: View/Article/edit.ctp:105
+#: View/Article/view.ctp:455
+#: View/Group/add_article.ctp:42
+msgid "Article title"
+msgstr ""
+
+#: View/Article/edit.ctp:113
+msgid "Article"
+msgstr ""
+
+#: View/Article/edit.ctp:114
+msgid "Video-article"
+msgstr ""
+
+#: View/Article/edit.ctp:117;118
+#: View/Article/view.ctp:747
+#: View/Group/add_article.ctp:46;49
+msgid "Article section"
+msgstr ""
+
+#: View/Article/edit.ctp:132
+msgid "your article taxt here..."
+msgstr ""
+
+#: View/Article/edit.ctp:136
+#: View/InvestProject/add_project.ctp:60
+#: View/InvestProject/edit_project.ctp:67
+msgid "Video"
+msgstr ""
+
+#: View/Article/edit.ctp:210
+msgid "Title must be at least 3 characters"
+msgstr ""
+
+#: View/Article/edit.ctp:239
+#: View/Elements/Group/group_settings.ctp:463;465
+#: View/Group/edit.ctp:457;459
+#: View/User/edit.ctp:359;361
+#: Model/Group.php:validation for field video_url
+#: Model/User.php:validation for field video_url
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr ""
+
+#: View/Article/view.ctp:187;218;231;267;280;309
+#: View/Project/task.ctp:453
+#: View/ProjectAjax/comments.ctp:194
+msgid "Message can not be empty"
+msgstr ""
+
+#: View/Article/view.ctp:293
+msgid "Do you really want to delete this comment?"
+msgstr ""
+
+#: View/Article/view.ctp:377;672
+msgid "Unpublished"
+msgstr ""
+
+#: View/Article/view.ctp:388;403
+#: View/Group/view.ctp:1021
+#: View/User/task.ctp:1191
+#: View/User/view.ctp:716
+msgid "Save changes?"
+msgstr ""
+
+#: View/Article/view.ctp:412
+#: View/Elements/Finance/operations_list.ctp:84
+#: Plugin/Billing/View/BillingGroups/admin_index.ctp:18
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:32
+msgid "Yes"
+msgstr ""
+
+#: View/Article/view.ctp:418
+#: View/Elements/Finance/operations_list.ctp:85
+#: Plugin/Billing/View/BillingGroups/admin_index.ctp:18
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:32
+msgid "No"
+msgstr ""
+
+#: View/Article/view.ctp:445
+msgid "End"
+msgstr ""
+
+#: View/Article/view.ctp:474;667
+#: View/Elements/article_list.ctp:17
+#: View/Elements/comment_element.ctp:27
+#: View/Elements/AdminUI/actions.ctp:48
+#: View/Elements/Project/crm_project_tasks.ctp:24
+#: View/Project/task.ctp:330
+#: View/Project/view.ctp:29
+#: View/ProjectAjax/comments.ctp:131
+#: View/User/favourites.ctp:127
+#: View/User/view.ctp:341;510
+#: Plugin/Billing/View/BillingGroups/admin_index.ctp:20
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:32
+msgid "Edit"
+msgstr ""
+
+#: View/Article/view.ctp:516;530
+msgid "Article succesfully saved"
+msgstr ""
+
+#: View/Article/view.ctp:557
+#: View/Elements/Project/crm_task_popups.ctp:418
+#: View/Timeline/index.ctp:810
+#: View/User/delayed_events.ctp:678
+#: View/User/task_management.ctp:821
+#: View/User/time_management.ctp:566
+msgid "Title can not be empty"
+msgstr ""
+
+#: View/Article/view.ctp:567
+msgid "Select article category"
+msgstr ""
+
+#: View/Article/view.ctp:585
+msgid "Type something"
+msgstr ""
+
+#: View/Article/view.ctp:677
+#: View/Device/checkout.ctp:48
+#: View/Elements/comment_element.ctp:19;23
+#: View/Elements/Project/crm_project_tasks.ctp:24
+#: View/Project/task.ctp:329
+#: View/ProjectAjax/comments.ctp:130
+msgid "Remove"
+msgstr ""
+
+#: View/Article/view.ctp:707;727
+#: View/Group/view.ctp:503
+#: View/User/view.ctp:325
+msgid "Unsubscribe"
+msgstr ""
+
+#: View/Article/view.ctp:711;731
+#: View/Group/view.ctp:507
+#: View/User/view.ctp:329
+#: Plugin/Billing/View/BillingSubscriptions/payment.ctp:4
+#: Plugin/Billing/View/BillingSubscriptions/plans.ctp:76
+#: Plugin/Billing/View/BillingSubscriptions/plans_members.ctp:57
+#: Plugin/Billing/View/BillingSubscriptions/plans_proposals.ctp:57
+msgid "Subscribe"
+msgstr ""
+
+#: View/Article/view.ctp:743
+#: View/Elements/Group/group_settings.ctp:109;123
+#: View/FinanceBudget/add_budget.ctp:7;8
+#: View/Group/edit.ctp:115;129
+#: View/InvestProject/add_project.ctp:52
+msgid "Select category"
+msgstr ""
+
+#: View/Article/view.ctp:816
+msgid "Save as draft"
+msgstr ""
+
+#: View/Article/view.ctp:839
+#: View/ArticleAjax/comments.ctp:67
+msgid "Leave your comment"
+msgstr ""
+
+#: View/ArticleAjax/comments.ctp:56
+msgid "Share your thoughts"
+msgstr ""
+
+#: View/ArticleAjax/comments.ctp:117
+#: View/Project/task.ctp:250
+msgid "Discussion"
+msgstr ""
+
+#: View/Chat/room.ctp:4
+#: View/Elements/panel_icons.ctp:23
+#: View/Elements/panel_menu.ctp:288
+#: View/User/task.ctp:471;543;615;678
+msgid "Chat"
+msgstr ""
+
+#: View/Chat/room.ctp:39
+#: View/Project/task.ctp:349
+msgid "Edit message"
+msgstr ""
+
+#: View/ChatAjax/js_settings.ctp:35
+#: View/Elements/ajax_loader.ctp:1
+#: View/Js/settings.ctp:41
+#: View/Layouts/timeline_new.ctp:155
+msgid "Loading..."
+msgstr ""
+
+#: View/Cloud/document_edit.ctp:17
+#: View/Cloud/real_time_edit.ctp:15
+msgid "Back to Cloud"
+msgstr ""
+
+#: View/Cloud/document_edit.ctp:25
+#: View/Cloud/document_view.ctp:3
+#: View/Cloud/index.ctp:280
+#: View/Cloud/usage.ctp:20
+#: View/Elements/panel_icons.ctp:60
+msgid "Cloud"
+msgstr ""
+
+#: View/Cloud/document_edit.ctp:29
+#: View/Cloud/index.ctp:380
+#: View/Elements/cloud_manager_templates.ctp:43
+msgid "Create"
+msgstr ""
+
+#: View/Cloud/document_edit.ctp:39
+#: View/Cloud/real_time_edit.ctp:67
+msgid "Save version"
+msgstr ""
+
+#: View/Cloud/document_edit.ctp:50
+#: View/Cloud/real_time_edit.ctp:78
+msgid " at "
+msgstr ""
+
+#: View/Cloud/document_edit.ctp:51
+#: View/Cloud/real_time_edit.ctp:79
+msgid "Last changed by "
+msgstr ""
+
+#: View/Cloud/document_edit.ctp:78
+#: View/Cloud/document_spreadsheet.ctp:70
+#: View/Cloud/real_time_edit.ctp:106
+#: View/Note/edit.ctp:51
+#: View/Note/spreadsheet.ctp:70
+#: View/NoteAjax/edit_panel.ctp:44
+msgid "Document title"
+msgstr ""
+
+#: View/Cloud/document_edit.ctp:99
+#: View/Cloud/index.ctp:411
+#: View/Cloud/real_time_edit.ctp:127
+msgid "File Sharing"
+msgstr ""
+
+#: View/Cloud/document_spreadsheet.ctp:40
+#: View/Elements/AdminUI/actions.ctp:42
+#: View/Note/edit.ctp:20;21
+#: View/Note/spreadsheet.ctp:40
+#: View/NoteAjax/edit_panel.ctp:13;14
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:37
+msgid "View"
+msgstr ""
+
+#: View/Cloud/document_spreadsheet.ctp:50
+#: View/Note/edit.ctp:31
+#: View/Note/spreadsheet.ctp:50
+#: View/NoteAjax/edit_panel.ctp:24
+msgid "Edit document"
+msgstr ""
+
+#: View/Cloud/document_spreadsheet.ctp:50
+#: View/Cloud/index.ctp:325
+#: View/Note/edit.ctp:31
+#: View/Note/spreadsheet.ctp:50
+#: View/NoteAjax/edit_panel.ctp:24
+msgid "Create document"
+msgstr ""
+
+#: View/Cloud/document_spreadsheet.ctp:97
+#: View/Elements/cloud_manager_templates.ctp:18
+#: View/Note/spreadsheet.ctp:97
+msgid "Share link"
+msgstr ""
+
+#: View/Cloud/index.ctp:322
+#: View/Elements/panel_cloud.ctp:2
+#: View/Elements/panel_notes.ctp:7
+msgid "Create folder"
+msgstr ""
+
+#: View/Cloud/index.ctp:330
+msgid "Big tiles"
+msgstr ""
+
+#: View/Cloud/index.ctp:331
+msgid "Small tiles"
+msgstr ""
+
+#: View/Cloud/index.ctp:332
+msgid "Table view"
+msgstr ""
+
+#: View/Cloud/index.ctp:336
+msgid "By default"
+msgstr ""
+
+#: View/Cloud/index.ctp:337
+msgid "By name"
+msgstr ""
+
+#: View/Cloud/index.ctp:338
+msgid "By date"
+msgstr ""
+
+#: View/Cloud/index.ctp:339
+msgid "By updated date"
+msgstr ""
+
+#: View/Cloud/index.ctp:340
+msgid "By size"
+msgstr ""
+
+#: View/Cloud/index.ctp:341
+msgid "By type"
+msgstr ""
+
+#: View/Cloud/index.ctp:352
+msgid "My files"
+msgstr ""
+
+#: View/Cloud/index.ctp:374
+#: View/Elements/cloud_manager_list.ctp:15
+msgid "Shared with me"
+msgstr ""
+
+#: View/Cloud/index.ctp:381
+msgid "Upload"
+msgstr ""
+
+#: View/Cloud/index.ctp:420
+msgid "Provide access by link"
+msgstr ""
+
+#: View/Cloud/index.ctp:430
+msgid "With this links everyone can access to the files"
+msgstr ""
+
+#: View/Cloud/index.ctp:433;464;496
+#: View/Viewer/pdf.ctp:4
+msgid "Share"
+msgstr ""
+
+#: View/Cloud/index.ctp:442
+msgid "Provide Individual access"
+msgstr ""
+
+#: View/Cloud/index.ctp:450;482
+#: View/Elements/Project/crm_task_popups.ctp:318;346
+#: View/Timeline/index.ctp:254
+#: View/User/delayed_events.ctp:380
+#: View/User/task_management.ctp:1140
+#: View/User/time_management.ctp:933
+msgid "Select user"
+msgstr ""
+
+#: View/Cloud/index.ctp:453;485
+msgid "Files will be available only for selected users"
+msgstr ""
+
+#: View/Cloud/index.ctp:473
+msgid "Provide edit access"
+msgstr ""
+
+#: View/Cloud/index.ctp:718
+#: View/Elements/panel_cloud.ctp:91
+#: View/Elements/panel_finance.ctp:56
+#: View/Elements/panel_icons.ctp:88
+#: View/Elements/panel_notes.ctp:65
+#: View/Elements/Finance/calc.ctp:42
+#: View/Elements/Finance/goals_list.ctp:112
+#: View/Group/vacancies.ctp:522
+#: View/Project/task.ctp:31
+#: View/User/view.ctp:243;296
+msgid "Are you sure ?"
+msgstr ""
+
+#: View/Cloud/usage.ctp:6
+#: View/Elements/cloud_manager_templates.ctp:78
+#: View/StorageLimit/buy_more_space.ctp:5
+msgid "Buy More Space"
+msgstr ""
+
+#: View/Cloud/usage.ctp:23
+msgid "Messages"
+msgstr ""
+
+#: View/Cloud/usage.ctp:40
+msgid "File Usage via Pie Chart"
+msgstr ""
+
+#: View/Cloud/usage.ctp:84
+msgid "File Usage"
+msgstr ""
+
+#: View/CloudAjax/panel_move.ctp:17
+#: View/Elements/panel_cloud.ctp:14
+#: View/Elements/panel_notes.ctp:18
+#: View/NoteAjax/panel_move.ctp:16
+msgid "Move"
+msgstr ""
+
+#: View/CloudAjax/panel_move.ctp:18
+#: View/Common/admin_modal.ctp:46
+#: View/Elements/cloud_manager_templates.ctp:45
+#: View/FinanceAccount/add_account.ctp:29
+#: View/FinanceAccount/edit_account.ctp:28
+#: View/FinanceGoal/add_goal.ctp:35
+#: View/FinanceGoal/edit_goal.ctp:35
+#: View/Group/vacancies.ctp:363
+#: View/NoteAjax/panel_move.ctp:17
+#: View/Project/task.ctp:33
+#: View/Project/view.ctp:24
+msgid "Close"
+msgstr ""
+
+#: View/Common/admin_modal.ctp:23
+msgid "Data manager"
+msgstr ""
+
+#: View/Cron/mailer.ctp:5
+#: View/Emails/html/updates_mailer.ctp:13
+#: View/User/mailer.ctp:5
+msgid "Sun"
+msgstr ""
+
+#: View/Cron/mailer.ctp:5
+#: View/Emails/html/updates_mailer.ctp:13
+#: View/User/mailer.ctp:5
+msgid "Mon"
+msgstr ""
+
+#: View/Cron/mailer.ctp:5
+#: View/Emails/html/updates_mailer.ctp:13
+#: View/User/mailer.ctp:5
+msgid "Tue"
+msgstr ""
+
+#: View/Cron/mailer.ctp:5
+#: View/Emails/html/updates_mailer.ctp:13
+#: View/User/mailer.ctp:5
+msgid "Wed"
+msgstr ""
+
+#: View/Cron/mailer.ctp:5
+#: View/Emails/html/updates_mailer.ctp:13
+#: View/User/mailer.ctp:5
+msgid "Thur"
+msgstr ""
+
+#: View/Cron/mailer.ctp:5
+#: View/Emails/html/updates_mailer.ctp:13
+#: View/User/mailer.ctp:5
+msgid "Fri"
+msgstr ""
+
+#: View/Cron/mailer.ctp:5
+#: View/Emails/html/updates_mailer.ctp:13
+#: View/User/mailer.ctp:5
+msgid "Sat"
+msgstr ""
+
+#: View/Cron/mailer.ctp:15
+#: View/Elements/User/password.ctp:3
+#: View/Emails/html/updates_mailer.ctp:23
+#: View/User/mailer.ctp:15
+msgid "Creative Environment"
+msgstr ""
+
+#: View/Cron/mailer.ctp:20
+#: View/Emails/html/updates_mailer.ctp:28
+#: View/User/mailer.ctp:20
+msgid "Updates in last 12 hours:"
+msgstr ""
+
+#: View/Cron/mailer.ctp:106
+#: View/Emails/html/updates_mailer.ctp:139
+#: View/Timeline/index.ctp:2642;3386
+#: View/User/mailer.ctp:106
+msgid "A new article was published"
+msgstr ""
+
+#: View/Cron/mailer.ctp:144
+#: View/Emails/html/updates_mailer.ctp:184
+#: View/Timeline/index.ctp:2541
+#: View/User/mailer.ctp:144
+msgid "You received a file from "
+msgstr ""
+
+#: View/Cron/mailer.ctp:163
+#: View/Emails/html/updates_mailer.ctp:203
+#: View/Project/view.ctp:138
+#: View/Timeline/index.ctp:2754;2885;3604
+#: View/User/mailer.ctp:163
+msgid "%s commented task %s"
+msgstr ""
+
+#: View/Cron/mailer.ctp:187;195
+#: View/Emails/html/updates_mailer.ctp:227;235
+#: View/Timeline/index.ctp:2755;2887;3605
+#: View/User/mailer.ctp:187;195
+msgid "%s attached file to task %s"
+msgstr ""
+
+#: View/Cron/mailer.ctp:222
+#: View/Emails/html/updates_mailer.ctp:262
+#: View/User/mailer.ctp:222
+msgid "With best regards"
+msgstr ""
+
+#: View/Cron/mailer.ctp:222
+#: View/Emails/html/updates_mailer.ctp:262
+#: View/User/mailer.ctp:222
+msgid "your %s"
+msgstr ""
+
+#: View/Device/checkout.ctp:3
+#: View/Device/orders.ctp:3
+#: View/Elements/panel_icons.ctp:67
+#: View/Group/view.ctp:248
+msgid "Devices"
+msgstr ""
+
+#: View/Device/checkout.ctp:13
+msgid "mob.spots"
+msgstr ""
+
+#: View/Device/checkout.ctp:14
+msgid "stat.spots"
+msgstr ""
+
+#: View/Device/checkout.ctp:15
+msgid "print copies"
+msgstr ""
+
+#: View/Device/checkout.ctp:38
+msgid "Minimal quantity"
+msgstr ""
+
+#: View/Device/checkout.ctp:59
+msgid "Rent period"
+msgstr ""
+
+#: View/Device/checkout.ctp:76
+#: View/Elements/arenda_price.ctp:8
+#: Plugin/Billing/View/BillingSubscriptions/plans.ctp:31
+msgid "month"
+msgstr ""
+
+#: View/Device/checkout.ctp:92;93
+msgid "Contact person"
+msgstr ""
+
+#: View/Device/checkout.ctp:99
+#: View/Device/view.ctp:46;47
+#: View/Elements/group_address.ctp:34
+#: View/Elements/Group/group_address.ctp:34
+#: View/Elements/Group/group_settings.ctp:276;618
+#: View/Elements/User/login_form.ctp:93
+#: View/Elements/User/pass_forget_form.ctp:3
+#: View/Elements/User/register_form.ctp:77
+#: View/Group/edit.ctp:282;608
+#: View/Layouts/unregistered.ctp:228
+#: Plugin/Form/Vendor/FieldTypes.php:29
+msgid "Email"
+msgstr ""
+
+#: View/Device/checkout.ctp:105
+msgid "Contractor phone"
+msgstr ""
+
+#: View/Device/checkout.ctp:111;112
+msgid "Contractor name"
+msgstr ""
+
+#: View/Device/checkout.ctp:118;119
+msgid "Contractor details"
+msgstr ""
+
+#: View/Device/checkout.ctp:153
+#: View/Elements/admin_edit_ProductType.ctp:13
+msgid "Min.qty"
+msgstr ""
+
+#: View/Device/checkout.ctp:153
+msgid "items"
+msgstr ""
+
+#: View/Device/checkout.ctp:153
+msgid "Max.qty"
+msgstr ""
+
+#: View/Device/checkout.ctp:164
+msgid "Incorrect Contractor email"
+msgstr ""
+
+#: View/Device/checkout.ctp:170;176
+msgid "Please, enter Contractor data"
+msgstr ""
+
+#: View/Device/orders.ctp:8
+msgid "Order ID"
+msgstr ""
+
+#: View/Device/orders.ctp:9
+msgid "Order items"
+msgstr ""
+
+#: View/Device/orders.ctp:10
+msgid "Sum"
+msgstr ""
+
+#: View/Device/orders.ctp:56
+msgid "Printed"
+msgstr ""
+
+#: View/Device/orders.ctp:73
+msgid "Total, month"
+msgstr ""
+
+#: View/Device/view.ctp:6
+msgid "Order status"
+msgstr ""
+
+#: View/Device/view.ctp:26
+msgid "Distribute devices"
+msgstr ""
+
+#: View/Device/view.ctp:38
+#: View/User/my_sells.ctp:252;288
+#: View/User/time_management_ajax.ctp:362;392;444
+msgid "Quantity"
+msgstr ""
+
+#: View/Device/view.ctp:52
+msgid "Devices left"
+msgstr ""
+
+#: View/Device/view.ctp:65
+msgid "Distributed devices"
+msgstr ""
+
+#: View/Device/view.ctp:78
+msgid "You cannot enter quantity more than %s items"
+msgstr ""
+
+#: View/Device/view.ctp:79
+msgid "You must enter quantity"
+msgstr ""
+
+#: View/Device/view.ctp:80
+msgid "All devices are distributed"
+msgstr ""
+
+#: View/Elements/admin_edit_Order.ctp:5
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:30
+msgid "Paid"
+msgstr ""
+
+#: View/Elements/admin_edit_Order.ctp:5
+msgid "Shipped"
+msgstr ""
+
+#: View/Elements/admin_edit_OrderProducts.ctp:2
+msgid "This order requires:"
+msgstr ""
+
+#: View/Elements/admin_edit_OrderProducts.ctp:30
+#: View/Elements/Group/group_settings.ctp:363
+#: View/Elements/Invest/project_add.ctp:75
+#: View/Elements/Invest/project_edit.ctp:86
+#: View/Elements/Project/crm_project_popups.ctp:84;142
+#: View/Elements/Project/crm_task_popups.ctp:21;139
+#: View/FinanceBudget/add_budget.ctp:23
+#: View/Group/edit.ctp:369
+#: View/Group/members.ctp:173
+#: View/Group/vacancies.ctp:340
+#: View/InvestProject/add_project.ctp:143
+#: View/InvestProject/edit_project.ctp:217
+#: View/User/favourites.ctp:106;138
+msgid "Add"
+msgstr ""
+
+#: View/Elements/admin_edit_Product.ctp:7
+msgid "IP address"
+msgstr ""
+
+#: View/Elements/admin_edit_Product.ctp:8;13
+msgid "Only for printer"
+msgstr ""
+
+#: View/Elements/admin_edit_Product.ctp:12
+msgid "Counter"
+msgstr ""
+
+#: View/Elements/admin_edit_ProductType.ctp:7
+msgid "Arenda price, $/month"
+msgstr ""
+
+#: View/Elements/admin_edit_ProductType.ctp:8
+msgid "For printers it is a price $/page"
+msgstr ""
+
+#: View/Elements/admin_list_OrderProducts.ctp:35
+msgid "- No products in this order -"
+msgstr ""
+
+#: View/Elements/arenda_price.ctp:6
+msgid "page"
+msgstr ""
+
+#: View/Elements/article_list.ctp:26
+msgid "Are you sure you want delete this record?"
+msgstr ""
+
+#: View/Elements/cloud_list.ctp:11
+#: View/Elements/cloud_manager_list.ctp:52
+#: View/Elements/user_notes_list.ctp:13
+msgid "file(s)"
+msgstr ""
+
+#: View/Elements/cloud_manager_templates.ctp:37
+#: View/Elements/panel_cloud.ctp:33
+#: View/Elements/panel_notes.ctp:44
+msgid "New Folder"
+msgstr ""
+
+#: View/Elements/cloud_manager_templates.ctp:38
+msgid "Folder name"
+msgstr ""
+
+#: View/Elements/comment_element.ctp:31
+msgid "Answer"
+msgstr ""
+
+#: View/Elements/group_achievement.ctp:5;7
+#: View/Elements/Group/group_achievement.ctp:5;7
+#: View/Elements/Group/group_settings.ctp:315;316;629;630
+#: View/Group/edit.ctp:321;322;619;620
+#: View/User/edit.ctp:241;242;510;511
+#: View/User/view.ctp:501;975;976
+msgid "Achievement"
+msgstr ""
+
+#: View/Elements/group_achievement.ctp:11
+#: View/Elements/Group/group_achievement.ctp:11
+#: View/Elements/Group/group_settings.ctp:320;634
+#: View/Group/edit.ctp:326;624
+#: View/User/edit.ctp:245;514
+#: View/User/view.ctp:505;979
+msgid "Link to verified accomplishments"
+msgstr ""
+
+#: View/Elements/group_achievement.ctp:17
+#: View/Elements/Group/group_achievement.ctp:17
+msgid "Remove achievement"
+msgstr ""
+
+#: View/Elements/group_address.ctp:5;10
+#: View/Elements/Group/group_address.ctp:5;10
+msgid "Headquaters"
+msgstr ""
+
+#: View/Elements/group_address.ctp:14;19
+#: View/Elements/Group/group_address.ctp:14;19
+#: View/Elements/Group/group_settings.ctp:253;256;595;598
+#: View/Group/edit.ctp:259;262;585;588
+#: View/User/edit.ctp:138;141
+#: View/User/view.ctp:419
+msgid "Phone"
+msgstr ""
+
+#: View/Elements/group_address.ctp:23
+#: View/Elements/Group/group_address.ctp:23
+#: View/Elements/Group/group_settings.ctp:267;609
+#: View/Group/edit.ctp:273;599
+msgid "Site URL and email"
+msgstr ""
+
+#: View/Elements/group_address.ctp:28
+#: View/Elements/Group/group_address.ctp:28
+#: View/Elements/Group/group_settings.ctp:270;612
+#: View/Group/edit.ctp:276;602
+msgid "http://yoursite.com"
+msgstr ""
+
+#: View/Elements/group_address.ctp:38
+#: View/Elements/Group/group_address.ctp:38
+msgid "Remove address"
+msgstr ""
+
+#: View/Elements/group_list.ctp:30;59;85
+#: View/Elements/profile_groups.ctp:20
+#: View/Elements/Profile/profile_groups.ctp:27
+#: View/Timeline/index.ctp:2566;2926;3001;3053;3130
+msgid "member(s)"
+msgstr ""
+
+#: View/Elements/group_list.ctp:35
+#: View/Elements/Finance/project_list.ctp:27
+#: View/Timeline/index.ctp:3059;3103;3108
+#: View/User/task.ctp:475
+msgid "Accept"
+msgstr ""
+
+#: View/Elements/group_list.ctp:36
+#: View/Elements/panel_menu.ctp:64
+#: View/Elements/Finance/project_list.ctp:28
+#: View/Timeline/index.ctp:3060;3104;3109
+msgid "Decline"
+msgstr ""
+
+#: View/Elements/group_projects.ctp:19
+#: View/Elements/Group/group_projects.ctp:16
+#: View/Elements/Project/crm_task_popups.ctp:129
+#: View/Group/addresses.ctp:80
+#: View/Group/members.ctp:9
+#: View/Group/view.ctp:256
+#: Plugin/Billing/Config/bootstrap.php:17
+msgid "Members"
+msgstr ""
+
+#: View/Elements/js_templates.ctp:242
+msgid "You were invited into this room"
+msgstr ""
+
+#: View/Elements/js_templates.ctp:253
+msgid "You excluded user \"%s\" from this room"
+msgstr ""
+
+#: View/Elements/js_templates.ctp:259
+msgid "You was excluded from this room"
+msgstr ""
+
+#: View/Elements/js_templates.ctp:264
+msgid "User \"%s\" left this room"
+msgstr ""
+
+#: View/Elements/js_templates.ctp:395
+msgid "No user found"
+msgstr ""
+
+#: View/Elements/order_status.ctp:3
+msgid "Processing order"
+msgstr ""
+
+#: View/Elements/order_status.ctp:4
+msgid "Requires a payment"
+msgstr ""
+
+#: View/Elements/order_status.ctp:5
+msgid "Shipping"
+msgstr ""
+
+#: View/Elements/order_status.ctp:6
+msgid "Ready"
+msgstr ""
+
+#: View/Elements/panel_finance.ctp:2
+#: View/Elements/panel_invest.ctp:3
+#: View/InvestProject/add_project.ctp:4
+#: View/InvestProject/list_projects.ctp:102
+#: View/Project/edit.ctp:14
+msgid "Create project"
+msgstr ""
+
+#: View/Elements/panel_finance.ctp:19
+msgid "New Project"
+msgstr ""
+
+#: View/Elements/panel_icons.ctp:16
+#: View/FinanceShare/index.ctp:51
+msgid "Search"
+msgstr ""
+
+#: View/Elements/panel_icons.ctp:17
+msgid "Timeline"
+msgstr ""
+
+#: View/Elements/panel_icons.ctp:46
+#: View/Group/view.ctp:238;243
+#: View/InvestProject/add_project.ctp:3
+#: View/InvestProject/edit_project.ctp:3
+msgid "Investments"
+msgstr ""
+
+#: View/Elements/panel_icons.ctp:74
+#: View/Timeline/planet.ctp:7
+msgid "Planet"
+msgstr ""
+
+#: View/Elements/panel_icons.ctp:81
+#: View/FinanceSettings/index.ctp:5
+#: View/Group/view.ctp:264
+msgid "Settings"
+msgstr ""
+
+#: View/Elements/panel_icons.ctp:90
+#: View/User/view.ctp:245;298
+msgid "Exit"
+msgstr ""
+
+#: View/Elements/panel_invest.ctp:4
+#: View/InvestProject/list_projects.ctp:99
+msgid "My projects"
+msgstr ""
+
+#: View/Elements/panel_menu.ctp:63
+msgid "Confirm"
+msgstr ""
+
+#: View/Elements/panel_menu.ctp:219
+msgid "Search users, groups, articles"
+msgstr ""
+
+#: View/Elements/panel_menu.ctp:235
+msgid "Files"
+msgstr ""
+
+#: View/Elements/panel_menu.ctp:249
+msgid "Konstruktor group"
+msgstr ""
+
+#: View/Elements/panel_menu.ctp:250
+#: View/Layouts/timeline.ctp:11
+#: View/Layouts/timeline_new.ctp:12
+msgid "My time"
+msgstr ""
+
+#: View/Elements/panel_menu.ctp:267
+#: View/User/my_sells.ctp:39;293
+#: View/User/time_management_ajax.ctp:45
+msgid "Time"
+msgstr ""
+
+#: View/Elements/panel_menu.ctp:406
+msgid "You have no dialogs"
+msgstr ""
+
+#: View/Elements/panel_notes.ctp:33
+msgid "Table"
+msgstr ""
+
+#: View/Elements/panel_search.ctp:3
+msgid "Find user or community..."
+msgstr ""
+
+#: View/Elements/panel_search.ctp:68
+msgid "No item found"
+msgstr ""
+
+#: View/Elements/select_period.ctp:13
+#: View/Elements/Group/group_vacancy.ctp:55
+#: View/Helper/LocalDateHelper.php:35
+#: View/User/view.ctp:373
+msgid "years"
+msgstr ""
+
+#: View/Elements/AdminUI/actions.ctp:24
+msgid "Move up"
+msgstr ""
+
+#: View/Elements/AdminUI/actions.ctp:30
+msgid "Move down"
+msgstr ""
+
+#: View/Elements/AdminUI/actions.ctp:36
+msgid "Change state"
+msgstr ""
+
+#: View/Elements/AdminUI/actions.ctp:58
+#: View/Elements/Group/group_settings.ctp:280;324;341
+#: View/Group/edit.ctp:286;330;347
+#: View/Timeline/index.ctp:313
+#: View/User/delayed_events.ctp:400
+#: View/User/edit.ctp:249
+#: View/User/task_management.ctp:1160
+#: View/User/time_management.ctp:953
+#: View/User/view.ctp:509
+#: Plugin/Billing/View/BillingGroups/admin_edit.ctp:37
+#: Plugin/Billing/View/BillingGroups/admin_index.ctp:21
+#: Plugin/Billing/View/BillingPlans/admin_edit.ctp:51
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:33
+#: Plugin/Media/View/Elements/edit.ctp:45
+#: Plugin/Queue/View/CronTasks/admin_edit.ctp:25
+msgid "Delete"
+msgstr ""
+
+#: View/Elements/AdminUI/actions.ctp:59
+#: Plugin/Billing/View/BillingGroups/admin_edit.ctp:37
+#: Plugin/Billing/View/BillingGroups/admin_index.ctp:21
+#: Plugin/Billing/View/BillingPlans/admin_edit.ctp:51
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:33
+#: Plugin/Queue/View/CronTasks/admin_edit.ctp:25
+#: Plugin/Queue/View/CronTasks/admin_index.ctp:52
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:54
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/Elements/AdminUI/admin_menu.ctp:4
+msgid "Billing"
+msgstr ""
+
+#: View/Elements/AdminUI/admin_menu.ctp:16
+msgid "Plans"
+msgstr ""
+
+#: View/Elements/AdminUI/admin_shortcuts.ctp:4
+msgid "Admin Home Page"
+msgstr ""
+
+#: View/Elements/AdminUI/admin_shortcuts.ctp:7
+msgid "Open Home page of Front-end in a new tab"
+msgstr ""
+
+#: View/Elements/AdminUI/admin_shortcuts.ctp:7
+msgid "Go to Site"
+msgstr ""
+
+#: View/Elements/AdminUI/admin_shortcuts.ctp:10
+msgid "Log out"
+msgstr ""
+
+#: View/Elements/AdminUI/form_actions.ctp:13
+msgid "Save changes"
+msgstr ""
+
+#: View/Elements/AdminUI/form_actions.ctp:22
+msgid "Save and Close"
+msgstr ""
+
+#: View/Elements/AdminUI/form_actions.ctp:31
+msgid "Save and Add new"
+msgstr ""
+
+#: View/Elements/AdminUI/form_actions.ctp:40
+#: View/Elements/Finance/operations_list.ctp:160
+#: View/FinanceBudget/add_budget.ctp:24
+#: View/Layouts/device.ctp:154
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:39
+msgid "Cancel"
+msgstr ""
+
+#: View/Elements/AdminUI/pagination.ctp:5
+msgid "Page {:page} of {:pages}, {:count} total items"
+msgstr ""
+
+#: View/Elements/Chat/send_message.ctp:6
+#: View/Project/task.ctp:221
+#: View/User/view.ctp:317
+msgid "Send message"
+msgstr ""
+
+#: View/Elements/Chat/send_message.ctp:21
+msgid "Request is being processed"
+msgstr ""
+
+#: View/Elements/Chat/send_message.ctp:24
+msgid "Processing file(s)..."
+msgstr ""
+
+#: View/Elements/Device/find_user.ctp:21
+msgid "No records found"
+msgstr ""
+
+#: View/Elements/Finance/budgets_list.ctp:27;28
+msgid "All projects"
+msgstr ""
+
+#: View/Elements/Finance/budgets_list.ctp:43
+#: View/Elements/Finance/operations_filter.ctp:11;12
+#: View/Elements/Finance/reports_filter.ctp:13
+msgid "All accounts"
+msgstr ""
+
+#: View/Elements/Finance/budgets_list.ctp:45
+msgid "No accounts"
+msgstr ""
+
+#: View/Elements/Finance/budgets_list.ctp:75
+msgid "Expenses projected/actual"
+msgstr ""
+
+#: View/Elements/Finance/budgets_list.ctp:160
+msgid "Net Income projected/actual"
+msgstr ""
+
+#: View/Elements/Finance/budgets_list.ctp:251
+#: View/Elements/Finance/chart_balance.ctp:1;53
+#: View/Elements/Finance/project_account_list.ctp:6
+#: View/FinanceAccount/add_account.ctp:24;25
+#: View/FinanceAccount/edit_account.ctp:23;24
+msgid "Balance"
+msgstr ""
+
+#: View/Elements/Finance/budgets_list.ctp:279
+msgid "Revenue and Expenses Chart"
+msgstr ""
+
+#: View/Elements/Finance/budgets_list.ctp:281
+#: View/Elements/Finance/operation_forms.ctp:7
+#: View/Elements/Finance/reports_list.ctp:29
+#: View/Elements/Finance/share_budgets.ctp:2
+#: View/Elements/Finance/share_categories.ctp:2
+#: View/Elements/Finance/share_operations.ctp:16
+#: View/FinanceBudget/chart.ctp:128
+#: View/FinanceCategory/add_category.ctp:12
+#: View/FinanceCategory/edit_category.ctp:11
+#: View/FinanceSettings/index.ctp:23
+#: View/Project/task.ctp:70
+#: View/User/my_sells.ctp:204;292
+msgid "Expense"
+msgstr ""
+
+#: View/Elements/Finance/budgets_list.ctp:282
+#: View/Elements/Finance/operation_forms.ctp:10
+#: View/Elements/Finance/reports_list.ctp:2
+#: View/Elements/Finance/share_budgets.ctp:23
+#: View/Elements/Finance/share_categories.ctp:22
+#: View/Elements/Finance/share_operations.ctp:10
+#: View/FinanceBudget/chart.ctp:129
+#: View/FinanceCategory/add_category.ctp:11
+#: View/FinanceCategory/edit_category.ctp:10
+#: View/FinanceSettings/index.ctp:24
+#: View/Project/task.ctp:71
+#: View/User/my_sells.ctp:212;291
+msgid "Income"
+msgstr ""
+
+#: View/Elements/Finance/budgets_list.ctp:287
+msgid "Begin from"
+msgstr ""
+
+#: View/Elements/Finance/budgets_list.ctp:327
+#: View/FinanceBudget/chart.ctp:153
+msgid "fact"
+msgstr ""
+
+#: View/Elements/Finance/budgets_list.ctp:328
+#: View/FinanceBudget/chart.ctp:154
+msgid "plan"
+msgstr ""
+
+#: View/Elements/Finance/budgets_list.ctp:329
+#: View/FinanceBudget/chart.ctp:155
+msgid "diff"
+msgstr ""
+
+#: View/Elements/Finance/chart_balance.ctp:3
+#: View/Elements/Finance/chart_statistic.ctp:12
+#: View/Layouts/timeline.ctp:126
+#: View/Layouts/timeline_new.ctp:168
+#: View/Statistic/index.ctp:25
+msgid "Week"
+msgstr ""
+
+#: View/Elements/Finance/chart_balance.ctp:4
+#: View/Elements/Finance/reports_filter.ctp:28;36
+#: View/Layouts/timeline_new.ctp:169
+#: View/Statistic/index.ctp:26
+msgid "Month"
+msgstr ""
+
+#: View/Elements/Finance/chart_balance.ctp:5
+#: View/Elements/Finance/chart_statistic.ctp:13
+msgid "Quarter"
+msgstr ""
+
+#: View/Elements/Finance/chart_balance.ctp:6
+#: View/Elements/Finance/chart_statistic.ctp:14
+#: View/Layouts/timeline_new.ctp:170
+#: View/Statistic/index.ctp:27
+msgid "Year"
+msgstr ""
+
+#: View/Elements/Finance/chart_balance.ctp:43
+msgid "Balance is empty"
+msgstr ""
+
+#: View/Elements/Finance/chart_balance.ctp:53
+#: View/InvestProject/list_sponsors.ctp:157
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:35
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:16
+msgid "Created"
+msgstr ""
+
+#: View/Elements/Finance/chart_compare.ctp:11
+#: View/User/my_sells.ctp:30
+#: View/User/time_management_ajax.ctp:35
+msgid "Compare"
+msgstr ""
+
+#: View/Elements/Finance/chart_compare.ctp:15
+#: View/Elements/Finance/chart_statistic.ctp:19
+#: View/Elements/Finance/operations_filter.ctp:39
+#: View/Project/task.ctp:111
+#: View/Statistic/index.ctp:34
+#: View/User/time_management.ctp:260
+msgid "From"
+msgstr ""
+
+#: View/Elements/Finance/chart_compare.ctp:20
+#: View/Elements/Finance/chart_statistic.ctp:24
+#: View/Elements/Finance/operations_filter.ctp:45
+#: View/Statistic/index.ctp:39
+#: View/User/time_management.ctp:265
+msgid "To"
+msgstr ""
+
+#: View/Elements/Finance/chart_compare.ctp:27
+#: View/Elements/Finance/project_nav.ctp:12;14
+#: View/Elements/Finance/settings_account_list.ctp:1
+#: View/Elements/Finance/share_settings.ctp:13
+msgid "Accounts"
+msgstr ""
+
+#: View/Elements/Finance/chart_compare.ctp:51
+msgid "Compare is empty"
+msgstr ""
+
+#: View/Elements/Finance/chart_statistic.ctp:10
+#: View/Elements/Project/crm_task_popups.ctp:25
+msgid "Expences"
+msgstr ""
+
+#: View/Elements/Finance/chart_statistic.ctp:46
+#: View/User/my_sells.ctp:243;279
+msgid "Statistic is empty"
+msgstr ""
+
+#: View/Elements/Finance/form_expense.ctp:10
+#: View/Elements/Finance/form_income.ctp:10
+#: View/Elements/Finance/form_transfer.ctp:10
+#: View/Elements/Finance/operations_list.ctp:121
+#: View/FinanceGoal/add_goal.ctp:25
+#: View/FinanceGoal/edit_goal.ctp:25
+msgid "Select date"
+msgstr ""
+
+#: View/Elements/Finance/form_expense.ctp:13;14
+#: View/Elements/Finance/form_income.ctp:13;14
+#: View/Elements/Finance/operations_list.ctp:137;138
+#: View/FinanceGoal/add_goal.ctp:17;18
+#: View/FinanceGoal/edit_goal.ctp:17;18
+msgid "Select account"
+msgstr ""
+
+#: View/Elements/Finance/form_expense.ctp:20
+#: View/Elements/Finance/operations_list.ctp:129
+msgid "Expense amount"
+msgstr ""
+
+#: View/Elements/Finance/form_expense.ctp:26
+#: View/Elements/Finance/form_income.ctp:26
+#: View/Elements/Finance/form_transfer.ctp:37
+msgid "Scheduled transaction"
+msgstr ""
+
+#: View/Elements/Finance/form_expense.ctp:30
+#: View/Elements/Finance/form_income.ctp:30
+#: View/Elements/Finance/form_transfer.ctp:41
+#: View/Elements/Finance/operations_list.ctp:149
+msgid "Type new category name and hit Enter"
+msgstr ""
+
+#: View/Elements/Finance/form_expense.ctp:32
+#: View/Elements/Finance/form_income.ctp:32
+#: View/Elements/Finance/form_transfer.ctp:43
+msgid "Click on the field to select a category"
+msgstr ""
+
+#: View/Elements/Finance/form_expense.ctp:37
+#: View/Elements/Finance/form_income.ctp:37
+#: View/Elements/Finance/form_transfer.ctp:48
+#: View/Elements/Finance/operations_list.ctp:156
+#: View/InvestProject/view.ctp:128
+msgid "Comments"
+msgstr ""
+
+#: View/Elements/Finance/form_expense.ctp:42
+#: View/Elements/Finance/form_income.ctp:42
+#: View/Elements/Finance/form_transfer.ctp:53
+msgid "Make operation"
+msgstr ""
+
+#: View/Elements/Finance/form_expense.ctp:100
+#: View/Elements/Finance/form_income.ctp:98
+#: View/Elements/Finance/form_transfer.ctp:114
+#: View/Elements/Finance/operations_list.ctp:270
+msgid "Categories is required"
+msgstr ""
+
+#: View/Elements/Finance/form_income.ctp:20
+#: View/Elements/Finance/form_transfer.ctp:31
+#: View/Elements/Finance/operations_list.ctp:127
+msgid "Income amount"
+msgstr ""
+
+#: View/Elements/Finance/form_transfer.ctp:13
+msgid "From account"
+msgstr ""
+
+#: View/Elements/Finance/form_transfer.ctp:14
+msgid "Select transfer account"
+msgstr ""
+
+#: View/Elements/Finance/form_transfer.ctp:19
+msgid "To account"
+msgstr ""
+
+#: View/Elements/Finance/form_transfer.ctp:20
+msgid "Select income account"
+msgstr ""
+
+#: View/Elements/Finance/form_transfer.ctp:26
+msgid "Transfer amount"
+msgstr ""
+
+#: View/Elements/Finance/goals_list.ctp:30
+msgid "The total amount is %s for %s mo"
+msgstr ""
+
+#: View/Elements/Finance/goals_list.ctp:31
+msgid "You have to deposit %s monthly to related account"
+msgstr ""
+
+#: View/Elements/Finance/goals_list.ctp:32
+msgid "Start"
+msgstr ""
+
+#: View/Elements/Finance/goals_list.ctp:33
+msgid "finish"
+msgstr ""
+
+#: View/Elements/Finance/goals_list.ctp:38
+msgid "Accumulated"
+msgstr ""
+
+#: View/Elements/Finance/goals_list.ctp:39
+msgid "Put aside"
+msgstr ""
+
+#: View/Elements/Finance/operation_forms.ctp:13
+#: View/Elements/Finance/share_operations.ctp:22
+#: View/FinanceCategory/add_category.ctp:13
+#: View/FinanceCategory/edit_category.ctp:12
+#: View/FinanceSettings/index.ctp:25
+msgid "Transfer"
+msgstr ""
+
+#: View/Elements/Finance/operations_list.ctp:82
+msgid "Do you really want to delete transaction"
+msgstr ""
+
+#: View/Elements/Finance/project_account_list.ctp:19
+msgid "Add account"
+msgstr ""
+
+#: View/Elements/Finance/project_nav.ctp:20;22
+#: View/Elements/Finance/share_settings.ctp:14
+#: View/FinanceOperation/index.ctp:5
+msgid "Operations"
+msgstr ""
+
+#: View/Elements/Finance/project_nav.ctp:28;30
+#: View/FinanceReport/index.ctp:5
+msgid "Reports"
+msgstr ""
+
+#: View/Elements/Finance/project_nav.ctp:36;38
+#: View/Elements/Finance/share_settings.ctp:17
+#: View/FinanceGoal/index.ctp:5
+msgid "Goals"
+msgstr ""
+
+#: View/Elements/Finance/project_nav.ctp:44;46
+#: View/Elements/Finance/share_settings.ctp:16
+#: View/FinanceBudget/index.ctp:6
+msgid "Budgets"
+msgstr ""
+
+#: View/Elements/Finance/project_regular_payment.ctp:3
+msgid "Regular payments"
+msgstr ""
+
+#: View/Elements/Finance/project_regular_payment.ctp:18
+msgid "Remain"
+msgstr ""
+
+#: View/Elements/Finance/project_regular_payment.ctp:20
+msgid "Last day"
+msgstr ""
+
+#: View/Elements/Finance/reports_list.ctp:58
+msgid "Residue"
+msgstr ""
+
+#: View/Elements/Finance/reports_list.ctp:65
+msgid "Result is empty"
+msgstr ""
+
+#: View/Elements/Finance/share_accounts.ctp:4
+#: View/Elements/Finance/share_budgets.ctp:5;26
+#: View/Elements/Finance/share_categories.ctp:5;25
+#: View/Elements/Finance/share_goals.ctp:4
+#: View/Elements/Finance/share_operations.ctp:4
+msgid "Select all"
+msgstr ""
+
+#: View/Elements/Finance/share_settings.ctp:7
+msgid "Provide full access"
+msgstr ""
+
+#: View/Elements/Finance/share_settings.ctp:11
+msgid "Select elements to provide access"
+msgstr ""
+
+#: View/Elements/Finance/share_settings.ctp:15
+#: View/FinanceSettings/index.ctp:20
+msgid "Categories"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:14
+#: View/Group/edit.ctp:17
+msgid "Group settings"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:56;170
+#: View/Group/edit.ctp:62;176
+#: View/User/edit.ctp:77
+#: View/User/view.ctp:170
+msgid "Save and upload"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:76
+#: View/Group/edit.ctp:82
+msgid "Group has been successfully saved"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:84;85
+#: View/Group/edit.ctp:90;91
+msgid "Group title"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:89
+#: View/Group/edit.ctp:95
+msgid "Group url"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:94
+#: View/Group/edit.ctp:100
+msgid "Group video"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:102;103
+#: View/Elements/Invest/project_edit.ctp:147
+#: View/Elements/Project/crm_project_popups.ctp:49
+#: View/Elements/Project/crm_task_popups.ctp:137
+#: View/Elements/Project/project_popups.ctp:37
+#: View/Group/edit.ctp:108;109
+#: View/Group/vacancies.ctp:309
+#: View/Group/view.ctp:659
+#: View/InvestProject/add_project.ctp:201;202
+#: View/InvestProject/edit_project.ctp:131;132;275;276
+#: View/InvestProject/list_projects.ctp:236
+#: View/InvestProject/list_sponsors.ctp:286
+#: View/InvestProject/view.ctp:434
+#: View/Project/edit.ctp:61;62
+msgid "Description"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:114
+#: View/Elements/Project/crm_project_popups.ctp:65
+#: View/Group/edit.ctp:120
+#: View/Group/members.ctp:114
+#: View/Project/edit.ctp:66
+msgid "Responsible"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:116
+#: View/Group/edit.ctp:122
+msgid "Select Group Responsible"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:130;134
+#: View/Group/edit.ctp:136;140
+msgid "Your role in group"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:139
+#: View/Group/edit.ctp:145
+msgid "Hide group"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:147
+#: View/Group/edit.ctp:153
+msgid "Use finance project"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:161
+#: View/Group/edit.ctp:167
+#: View/InvestProject/add_project.ctp:67
+#: View/InvestProject/edit_project.ctp:74
+msgid "Photo or video gallery"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:172
+#: View/Group/edit.ctp:178
+#: View/InvestProject/add_project.ctp:76
+#: View/InvestProject/edit_project.ctp:83
+msgid "Upload video"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:192
+#: View/Group/edit.ctp:198
+msgid "Add group address"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:208
+#: View/Group/edit.ctp:214
+#: View/User/edit.ctp:163
+msgid "Show More"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:214
+#: View/Group/addresses.ctp:98
+#: View/Group/edit.ctp:220
+msgid "No addresses yet"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:226;562
+#: View/Group/addresses.ctp:112;121
+#: View/Group/edit.ctp:232;552
+msgid "Head Office"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:230;567
+#: View/Group/edit.ctp:236;557
+#: View/Group/vacancies.ctp:320
+msgid "Country"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:238;241;579;582
+#: View/Group/edit.ctp:244;247;569;572
+msgid "Zip Code"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:246;249;587;590
+#: View/Group/edit.ctp:252;255;577;580
+#: View/User/edit.ctp:182;185
+msgid "Address"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:260;263;602;605
+#: View/Group/addresses.ctp:126
+#: View/Group/edit.ctp:266;269;592;595
+msgid "Fax"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:296
+#: View/Group/edit.ctp:302
+msgid "Add group achievement"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:305
+#: View/Group/edit.ctp:311
+#: View/User/edit.ctp:231
+#: View/User/view.ctp:495
+msgid "No achivements yet"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:359
+#: View/Group/edit.ctp:365
+#: View/InvestProject/add_project.ctp:139
+#: View/InvestProject/edit_project.ctp:213
+msgid "Youtube.com URL"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:420
+#: View/Group/edit.ctp:423
+#: View/User/edit.ctp:326
+msgid "Choose image"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:436
+#: View/Group/edit.ctp:434
+msgid "Do you want to add project to finance manager?"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:478;480
+#: View/Group/edit.ctp:472;474
+#: View/User/edit.ctp:375;377
+msgid "Atleast 1 letter and 3 chars length required"
+msgstr ""
+
+#: View/Elements/Group/group_settings.ctp:513;515
+#: View/Group/edit.ctp:506;508
+#: View/User/edit.ctp:484;486
+msgid "Digit can not be the first character"
+msgstr ""
+
+#: View/Elements/Group/group_vacancy.ctp:5;6;9
+msgid "N/A"
+msgstr ""
+
+#: View/Elements/Group/group_vacancy.ctp:12
+#: View/Group/vacancies.ctp:9
+msgid "Full-time"
+msgstr ""
+
+#: View/Elements/Group/group_vacancy.ctp:13
+#: View/Group/vacancies.ctp:10
+msgid "Part-time"
+msgstr ""
+
+#: View/Elements/Group/group_vacancy.ctp:14
+#: View/Group/vacancies.ctp:11
+msgid "Project emplyment"
+msgstr ""
+
+#: View/Elements/Group/group_vacancy.ctp:15
+#: View/Group/vacancies.ctp:12
+msgid "Volunteer"
+msgstr ""
+
+#: View/Elements/Group/group_vacancy.ctp:16
+#: View/Group/vacancies.ctp:13
+msgid "Internship"
+msgstr ""
+
+#: View/Elements/Group/group_vacancy.ctp:19
+#: View/Group/vacancies.ctp:16
+msgid "Full day"
+msgstr ""
+
+#: View/Elements/Group/group_vacancy.ctp:20
+#: View/Group/vacancies.ctp:17
+msgid "Shifts"
+msgstr ""
+
+#: View/Elements/Group/group_vacancy.ctp:21
+#: View/Group/vacancies.ctp:18
+msgid "Flexible shifts"
+msgstr ""
+
+#: View/Elements/Group/group_vacancy.ctp:22
+#: View/Group/vacancies.ctp:19
+msgid "Remote work"
+msgstr ""
+
+#: View/Elements/Group/group_vacancy.ctp:23
+#: View/Group/vacancies.ctp:20
+msgid "Rotational basis"
+msgstr ""
+
+#: View/Elements/Group/group_vacancy.ctp:32
+#: View/Group/vacancies.ctp:328;329
+msgid "Wages"
+msgstr ""
+
+#: View/Elements/Group/group_vacancy.ctp:36
+#: View/Group/vacancies.ctp:324;325
+msgid "City"
+msgstr ""
+
+#: View/Elements/Group/group_vacancy.ctp:43
+#: View/Group/vacancies.ctp:312
+msgid "Employment"
+msgstr ""
+
+#: View/Elements/Group/group_vacancy.ctp:47
+#: View/Group/vacancies.ctp:316
+msgid "Working hours"
+msgstr ""
+
+#: View/Elements/Group/group_vacancy.ctp:54
+#: View/Group/vacancies.ctp:332;333
+msgid "Experience"
+msgstr ""
+
+#: View/Elements/Invest/project_add.ctp:24
+#: View/Elements/Invest/project_edit.ctp:34
+#: View/InvestProject/view.ctp:127
+msgid "Project Description"
+msgstr ""
+
+#: View/Elements/Invest/project_add.ctp:34
+#: View/Elements/Invest/project_edit.ctp:43
+#: View/InvestProject/add_project.ctp:45;46
+#: View/InvestProject/edit_project.ctp:48;49
+#: View/InvestProject/list_all_sponsors.ctp:353
+#: View/Project/edit.ctp:43;44
+msgid "Project name"
+msgstr ""
+
+#: View/Elements/Invest/project_add.ctp:41
+#: View/Elements/Invest/project_edit.ctp:50
+#: View/InvestProject/add_project.ctp:84;86
+#: View/InvestProject/edit_project.ctp:90;92
+#: View/User/task.ctp:966;1013
+msgid "Necessary sum"
+msgstr ""
+
+#: View/Elements/Invest/project_add.ctp:54
+#: View/Elements/Invest/project_edit.ctp:63
+#: View/InvestProject/add_project.ctp:100
+#: View/InvestProject/edit_project.ctp:106
+msgid "Project duration"
+msgstr ""
+
+#: View/Elements/Invest/project_add.ctp:54
+#: View/Elements/Invest/project_edit.ctp:63
+msgid "Project duration (to 60 days)"
+msgstr ""
+
+#: View/Elements/Invest/project_add.ctp:71
+#: View/Elements/Invest/project_edit.ctp:82
+#: View/InvestProject/list_all_sponsors.ctp:271;356
+#: View/InvestProject/list_sponsors.ctp:158
+msgid "Reward"
+msgstr ""
+
+#: View/Elements/Invest/project_edit.ctp:101;102
+#: View/Elements/Project/crm_project_popups.ctp:23;24;46
+#: View/Elements/Project/project_popups.ctp:12;13;34
+#: View/Group/vacancies.ctp:306
+#: View/Group/view.ctp:636
+#: View/InvestProject/add_project.ctp:197;198
+#: View/InvestProject/edit_project.ctp:127;128;271;272
+#: View/InvestProject/list_projects.ctp:213
+#: View/InvestProject/list_sponsors.ctp:263
+#: View/InvestProject/view.ctp:411
+#: View/Project/view.ctp:181
+#: View/Statistic/index.ctp:59;195
+#: View/User/favourites.ctp:77
+msgid "Title"
+msgstr ""
+
+#: View/Elements/Invest/project_edit.ctp:108
+#: View/Group/view.ctp:642
+#: View/InvestProject/add_project.ctp:207;209
+#: View/InvestProject/edit_project.ctp:137;139;281;283
+#: View/InvestProject/list_all_sponsors.ctp:272;357
+#: View/InvestProject/list_projects.ctp:219
+#: View/InvestProject/list_sponsors.ctp:159;269
+#: View/InvestProject/view.ctp:417
+#: View/Project/view.ctp:184
+#: View/Timeline/index.ctp:286
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:111
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:65
+msgid "Amount"
+msgstr ""
+
+#: View/Elements/Invest/project_edit.ctp:116;117
+#: View/Group/view.ctp:650;651
+#: View/InvestProject/add_project.ctp:215;218;219
+#: View/InvestProject/edit_project.ctp:145;148;149;289;292;293
+#: View/InvestProject/list_projects.ctp:227;228
+#: View/InvestProject/list_sponsors.ctp:277;278
+#: View/InvestProject/view.ctp:425;426
+#: View/User/task.ctp:980;981;1027;1028
+msgid "Delivery date"
+msgstr ""
+
+#: View/Elements/Project/crm_project_popups.ctp:16
+#: View/Elements/Project/project_popups.ctp:6
+#: View/Project/view.ctp:159
+msgid "New subproject"
+msgstr ""
+
+#: View/Elements/Project/crm_project_popups.ctp:27
+#: View/Elements/Project/project_popups.ctp:16
+msgid "Add subproject"
+msgstr ""
+
+#: View/Elements/Project/crm_project_popups.ctp:40
+#: View/Elements/Project/project_popups.ctp:29
+#: View/Project/view.ctp:213
+msgid "New task"
+msgstr ""
+
+#: View/Elements/Project/crm_project_popups.ctp:52
+#: View/Elements/Project/project_popups.ctp:40
+#: View/Project/edit.ctp:48
+#: View/Project/task.ctp:45
+#: View/Project/view.ctp:43;59;183
+msgid "Deadline"
+msgstr ""
+
+#: View/Elements/Project/crm_project_popups.ctp:69
+msgid "Performer"
+msgstr ""
+
+#: View/Elements/Project/crm_project_popups.ctp:74
+msgid "Amount planned"
+msgstr ""
+
+#: View/Elements/Project/crm_project_popups.ctp:97;101;106;122
+#: View/Elements/Project/project_popups.ctp:75;79;84
+#: View/Group/members.ctp:74;344
+#: View/Project/view.ctp:69
+msgid "Add member"
+msgstr ""
+
+#: View/Elements/Project/crm_project_popups.ctp:102
+#: View/Elements/Project/project_popups.ctp:80
+#: View/User/view.ctp:313
+msgid "-- Select list --"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:10
+msgid "Revenue"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:14
+msgid "Taxes"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:18
+#: View/Project/task.ctp:74
+#: View/User/my_sells.ctp:290
+msgid "Net Income"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:29
+msgid "Margin"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:80
+#: View/Timeline/index.ctp:43
+#: View/User/delayed_events.ctp:167;229
+#: View/User/task_management.ctp:989
+#: View/User/time_management.ctp:782
+#: View/User/time_management_ajax.ctp:42
+msgid "Event title"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:86;287
+#: View/Timeline/index.ctp:26
+#: View/User/delayed_events.ctp:169;214
+#: View/User/task_management.ctp:974
+#: View/User/time_management.ctp:767
+msgid "Event type"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:90;290
+#: View/Timeline/index.ctp:29
+#: View/User/delayed_events.ctp:217
+#: View/User/task_management.ctp:977
+#: View/User/time_management.ctp:770
+msgid "Call"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:95
+#: View/Layouts/timeline.ctp:125
+#: View/Layouts/timeline_new.ctp:167
+msgid "Day"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:124
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:10
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:13
+msgid "User"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:136;327;355
+#: View/Timeline/index.ctp:265
+#: View/User/delayed_events.ctp:389
+#: View/User/task_management.ctp:1149
+#: View/User/time_management.ctp:942
+msgid "Event description"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:164
+msgid "Bind to"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:172
+#: View/Helper/LocalDateHelper.php:27
+#: View/Timeline/index.ctp:59;435;3198
+#: View/User/delayed_events.ctp:243
+#: View/User/task_management.ctp:1003
+#: View/User/time_management.ctp:796
+#: View/User/view.ctp:41
+msgid "January"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:173
+#: View/Helper/LocalDateHelper.php:27
+#: View/Timeline/index.ctp:60;435
+#: View/User/delayed_events.ctp:244
+#: View/User/task_management.ctp:1004
+#: View/User/time_management.ctp:797
+#: View/User/view.ctp:41
+msgid "February"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:174
+#: View/Helper/LocalDateHelper.php:27
+#: View/Timeline/index.ctp:61;435;3187
+#: View/User/delayed_events.ctp:245
+#: View/User/task_management.ctp:1005
+#: View/User/time_management.ctp:798
+#: View/User/view.ctp:41
+msgid "March"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:175
+#: View/Helper/LocalDateHelper.php:27
+#: View/Timeline/index.ctp:62;435
+#: View/User/delayed_events.ctp:246
+#: View/User/task_management.ctp:1006
+#: View/User/time_management.ctp:799
+#: View/User/view.ctp:41
+msgid "April"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:177
+#: View/Helper/LocalDateHelper.php:27
+#: View/Timeline/index.ctp:64;435
+#: View/User/delayed_events.ctp:248
+#: View/User/task_management.ctp:1008
+#: View/User/time_management.ctp:801
+#: View/User/view.ctp:42
+msgid "June"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:178
+#: View/Helper/LocalDateHelper.php:28
+#: View/Timeline/index.ctp:65;435
+#: View/User/delayed_events.ctp:249
+#: View/User/task_management.ctp:1009
+#: View/User/time_management.ctp:802
+#: View/User/view.ctp:42
+msgid "July"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:179
+#: View/Helper/LocalDateHelper.php:28
+#: View/Timeline/index.ctp:66;435
+#: View/User/delayed_events.ctp:250
+#: View/User/task_management.ctp:1010
+#: View/User/time_management.ctp:803
+#: View/User/view.ctp:42
+msgid "August"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:180
+#: View/Helper/LocalDateHelper.php:28
+#: View/Timeline/index.ctp:67;435
+#: View/User/delayed_events.ctp:251
+#: View/User/task_management.ctp:1011
+#: View/User/time_management.ctp:804
+#: View/User/view.ctp:43
+msgid "September"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:181
+#: View/Helper/LocalDateHelper.php:28
+#: View/Timeline/index.ctp:68;435
+#: View/User/delayed_events.ctp:252
+#: View/User/task_management.ctp:1012
+#: View/User/time_management.ctp:805
+#: View/User/view.ctp:43
+msgid "October"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:182
+#: View/Helper/LocalDateHelper.php:28
+#: View/Timeline/index.ctp:69;435;3222;3234;3250
+#: View/User/delayed_events.ctp:253
+#: View/User/task_management.ctp:1013
+#: View/User/time_management.ctp:806
+#: View/User/view.ctp:43
+msgid "November"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:183
+#: View/Helper/LocalDateHelper.php:28
+#: View/Timeline/index.ctp:70;435
+#: View/User/delayed_events.ctp:254
+#: View/User/task_management.ctp:1014
+#: View/User/time_management.ctp:807
+#: View/User/view.ctp:43
+msgid "December"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:300;301
+#: View/Timeline/index.ctp:236;237
+#: View/User/delayed_events.ctp:362;363
+#: View/User/my_sells.ctp:78;85;92;153;198
+#: View/User/task_management.ctp:1122;1123
+#: View/User/time_management.ctp:915;916
+#: View/User/time_management_ajax.ctp:143;167;204;212;222
+msgid "min"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:302;303;304;305;306
+#: View/Timeline/index.ctp:238;239;240;241;242
+#: View/User/delayed_events.ctp:364;365;366;367;368
+#: View/User/my_sells.ctp:77;84;91;152;197
+#: View/User/task_management.ctp:1124;1125;1126;1127;1128
+#: View/User/time_management.ctp:917;918;919;920;921
+#: View/User/time_management_ajax.ctp:142;166;203;211;221
+msgid "h"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:333
+#: View/Timeline/index.ctp:274
+#: View/User/delayed_events.ctp:396
+#: View/User/task_management.ctp:1156
+#: View/User/time_management.ctp:949
+msgid "share"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:337
+#: View/Timeline/index.ctp:314
+#: View/User/delayed_events.ctp:401
+#: View/User/task_management.ctp:1161
+#: View/User/time_management.ctp:954
+msgid "Set aside"
+msgstr ""
+
+#: View/Elements/Project/crm_task_popups.ctp:424
+#: View/Timeline/index.ctp:818
+#: View/User/delayed_events.ctp:684
+#: View/User/task_management.ctp:827
+#: View/User/time_management.ctp:572
+msgid "Event type not selected"
+msgstr ""
+
+#: View/Elements/Project/project_popups.ctp:58
+#: View/Project/task.ctp:173
+#: View/Project/view.ctp:182
+msgid "Assigned to"
+msgstr ""
+
+#: View/Elements/Project/project_popups.ctp:62
+msgid "Add task"
+msgstr ""
+
+#: View/Elements/User/home.ctp:9
+#: View/Elements/User/register_form.ctp:89
+msgid "or"
+msgstr ""
+
+#: View/Elements/User/home.ctp:18
+msgid "Fulfill your dream"
+msgstr ""
+
+#: View/Elements/User/home.ctp:22
+msgid "Join our community of creative individuals from all around the globe. Create and Collaborate"
+msgstr ""
+
+#: View/Elements/User/home.ctp:27
+msgid "Fulfill your dream"
+msgstr ""
+
+#: View/Elements/User/home.ctp:72
+msgid "A confirmation mail was sent to your email address."
+msgstr ""
+
+#: View/Elements/User/home.ctp:73
+#: View/Elements/User/pass_forget_form.ctp:17
+msgid "Thanks"
+msgstr ""
+
+#: View/Elements/User/login_form.ctp:44
+#: View/Layouts/unregistered.ctp:115
+msgid "Facebook authorization failed."
+msgstr ""
+
+#: View/Elements/User/login_form.ctp:101
+#: View/Layouts/unregistered.ctp:239
+msgid "Log In"
+msgstr ""
+
+#: View/Elements/User/login_form.ctp:102
+msgid "Password Reminder"
+msgstr ""
+
+#: View/Elements/User/login_form.ctp:133
+msgid "Incorrect login or password. Password must be at least 6 characters"
+msgstr ""
+
+#: View/Elements/User/pass_forget_form.ctp:6
+msgid "Send"
+msgstr ""
+
+#: View/Elements/User/pass_forget_form.ctp:7
+msgid "Sign in"
+msgstr ""
+
+#: View/Elements/User/pass_forget_form.ctp:16
+msgid "An mail with further instructions was sent to your email address"
+msgstr ""
+
+#: View/Elements/User/pass_forget_form.ctp:64
+#: View/Elements/User/register_form.ctp:116;118
+msgid "Enter valid email address"
+msgstr ""
+
+#: View/Elements/User/password.ctp:10
+#: View/User/change_password.ctp:13
+msgid "New password"
+msgstr ""
+
+#: View/Elements/User/password.ctp:13
+#: View/User/change_password.ctp:17
+msgid "Confirm password"
+msgstr ""
+
+#: View/Elements/User/password.ctp:16
+#: View/User/change_password.ctp:4;9
+#: View/User/edit.ctp:98
+#: View/User/view.ctp:259
+msgid "Change password"
+msgstr ""
+
+#: View/Elements/User/register_form.ctp:55
+msgid "Free registration"
+msgstr ""
+
+#: View/Elements/User/register_form.ctp:65
+#: View/User/view.ctp:205
+msgid "First name"
+msgstr ""
+
+#: View/Elements/User/register_form.ctp:70
+#: View/User/view.ctp:209
+msgid "Last name"
+msgstr ""
+
+#: View/Elements/User/register_form.ctp:86
+msgid "Next"
+msgstr ""
+
+#: View/Elements/User/register_form.ctp:93
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our %s and you are acknowledging that you have read our%s."
+msgstr ""
+
+#: View/Elements/User/register_form.ctp:94
+msgid "Terms and Conditions,"
+msgstr ""
+
+#: View/Elements/User/register_form.ctp:95
+#: View/Layouts/home.ctp:164
+msgid "Privacy Policy"
+msgstr ""
+
+#: View/Elements/User/register_form.ctp:135
+msgid "Enter your first name"
+msgstr ""
+
+#: View/Elements/User/register_form.ctp:151
+msgid "Enter your last name"
+msgstr ""
+
+#: View/Elements/User/register_form.ctp:169;171
+msgid "Password must be at least 6 characters"
+msgstr ""
+
+#: View/Elements/User/register_form.ctp:194;201
+msgid "You will need email to log in"
+msgstr ""
+
+#: View/Elements/User/register_form.ctp:195;196;202;203
+msgid "What are your proficiencies?"
+msgstr ""
+
+#: View/Elements/User/register_form.ctp:197;204
+msgid "A combination of 6 digits and characters"
+msgstr ""
+
+#: View/Elements/User/register_form.ctp:198;205
+msgid "Your first name?"
+msgstr ""
+
+#: View/Elements/User/register_form.ctp:199;206
+msgid "Your last name?"
+msgstr ""
+
+#: View/Errors/error400.ctp:2
+msgid "Server can not process your request"
+msgstr ""
+
+#: View/Errors/error400.ctp:2
+#: View/Errors/error403.ctp:2
+#: View/Errors/error405.ctp:2
+msgid "If you believe this problem"
+msgstr ""
+
+#: View/Errors/error400.ctp:2
+#: View/Errors/error403.ctp:2
+#: View/Errors/error404.ctp:2
+#: View/Errors/error405.ctp:2
+msgid "is caused by us, please feel free to"
+msgstr ""
+
+#: View/Errors/error400.ctp:2
+#: View/Errors/error403.ctp:2
+#: View/Errors/error404.ctp:2
+#: View/Errors/error405.ctp:2
+#: View/Errors/error500.ctp:3
+#: View/Errors/error501.ctp:3
+#: View/Errors/fatal_error.ctp:3
+msgid "send us a message"
+msgstr ""
+
+#: View/Errors/error400.ctp:2
+#: View/Errors/error403.ctp:2
+#: View/Errors/error404.ctp:2
+#: View/Errors/error405.ctp:2
+#: View/Errors/error500.ctp:3
+#: View/Errors/error501.ctp:3
+#: View/Errors/fatal_error.ctp:3
+msgid "Return"
+msgstr ""
+
+#: View/Errors/error403.ctp:2
+msgid "Acces to this page is forbidden"
+msgstr ""
+
+#: View/Errors/error404.ctp:2
+msgid "Sorry, the page you are looking for"
+msgstr ""
+
+#: View/Errors/error404.ctp:2
+msgid "does not exist. If you believe this problem"
+msgstr ""
+
+#: View/Errors/error405.ctp:2
+msgid "Request method is not allowed for this page"
+msgstr ""
+
+#: View/Errors/error500.ctp:2
+msgid "Sorry, there was internal server error"
+msgstr ""
+
+#: View/Errors/error500.ctp:3
+#: View/Errors/error501.ctp:3
+#: View/Errors/fatal_error.ctp:3
+msgid "If you believe this problem <br>is caused by us, please feel free to"
+msgstr ""
+
+#: View/Errors/error501.ctp:2
+msgid "Request method is not implemented on server"
+msgstr ""
+
+#: View/Errors/fatal_error.ctp:2
+msgid "Unexpected server error"
+msgstr ""
+
+#: View/Errors/missing_controller.ctp:1
+msgid "The requested page is not found"
+msgstr ""
+
+#: View/File/preview.ctp:16
+msgid "Preview"
+msgstr ""
+
+#: View/File/preview.ctp:18
+#: View/Viewer/pdf.ctp:3
+#: Plugin/Media/View/Elements/edit.ctp:65
+msgid "Download"
+msgstr ""
+
+#: View/File/preview.ctp:28
+msgid "Save to my cloud"
+msgstr ""
+
+#: View/FinanceAccount/add_account.ctp:5
+#: View/FinanceAccount/edit_account.ctp:4
+#: View/FinanceCategory/add_category.ctp:5
+#: View/FinanceCategory/edit_category.ctp:4
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:90
+msgid "Name"
+msgstr ""
+
+#: View/FinanceAccount/add_account.ctp:6
+#: View/FinanceAccount/edit_account.ctp:5
+#: View/Project/edit.ctp:76
+msgid "Account"
+msgstr ""
+
+#: View/FinanceAccount/add_account.ctp:9;10
+#: View/FinanceAccount/edit_account.ctp:8;9
+#: View/FinanceCategory/add_category.ctp:9;10
+#: View/FinanceCategory/edit_category.ctp:8;9
+msgid "Select type"
+msgstr ""
+
+#: View/FinanceAccount/add_account.ctp:11
+#: View/FinanceAccount/edit_account.ctp:10
+msgid "Credit card"
+msgstr ""
+
+#: View/FinanceAccount/add_account.ctp:12
+#: View/FinanceAccount/edit_account.ctp:11
+msgid "Debit card"
+msgstr ""
+
+#: View/FinanceAccount/add_account.ctp:13
+#: View/FinanceAccount/edit_account.ctp:12
+msgid "Bank account"
+msgstr ""
+
+#: View/FinanceAccount/add_account.ctp:14
+#: View/FinanceAccount/edit_account.ctp:13
+msgid "Cash"
+msgstr ""
+
+#: View/FinanceAccount/add_account.ctp:16;17
+#: View/FinanceAccount/edit_account.ctp:15;16
+msgid "Select currency"
+msgstr ""
+
+#: View/FinanceAccount/add_account.ctp:40
+msgid "Currency is required"
+msgstr ""
+
+#: View/FinanceBudget/add_budget.ctp:20
+msgid "Monthly repeat"
+msgstr ""
+
+#: View/FinanceCategory/add_category.ctp:6
+#: View/FinanceCategory/edit_category.ctp:5
+msgid "Enter category name"
+msgstr ""
+
+#: View/FinanceGoal/add_goal.ctp:13
+#: View/FinanceGoal/edit_goal.ctp:13
+msgid "Goal name"
+msgstr ""
+
+#: View/FinanceGoal/add_goal.ctp:14
+#: View/FinanceGoal/edit_goal.ctp:14
+msgid "Goal"
+msgstr ""
+
+#: View/FinanceGoal/add_goal.ctp:30;31
+#: View/FinanceGoal/edit_goal.ctp:30;31
+msgid "Amount required"
+msgstr ""
+
+#: View/FinanceGoal/index.ctp:18
+msgid "New goal"
+msgstr ""
+
+#: View/FinanceOperation/index.ctp:33
+#: View/Group/view.ctp:390;489;548
+#: View/User/view.ctp:475;555;596
+msgid "Show more"
+msgstr ""
+
+#: View/FinanceProject/success_deleted.ctp:3
+msgid "Project was deleted successfully"
+msgstr ""
+
+#: View/FinanceSettings/index.ctp:12
+msgid "New Account"
+msgstr ""
+
+#: View/FinanceSettings/index.ctp:15
+msgid "New Category"
+msgstr ""
+
+#: View/FinanceSettings/index.ctp:22
+msgid "All"
+msgstr ""
+
+#: View/FinanceShare/index.ctp:5
+#: View/User/favourites.ctp:21;95
+msgid "Add user"
+msgstr ""
+
+#: View/FinanceShare/index.ctp:49
+msgid "User E-mail"
+msgstr ""
+
+#: View/FinanceShare/index.ctp:87
+msgid "User not found"
+msgstr ""
+
+#: View/Group/addresses.ctp:17
+msgid "Join this group"
+msgstr ""
+
+#: View/Group/addresses.ctp:18
+#: View/Group/view.ctp:223
+msgid "Your invitation was sent to the group administrator"
+msgstr ""
+
+#: View/Group/members.ctp:91
+msgid "Are you sure to delete this user"
+msgstr ""
+
+#: View/Group/members.ctp:107
+#: View/Group/view.ctp:406
+#: View/Project/view.ctp:63
+msgid "Team"
+msgstr ""
+
+#: View/Group/members.ctp:109
+msgid "$/hr"
+msgstr ""
+
+#: View/Group/members.ctp:161
+msgid "Enter user name or email..."
+msgstr ""
+
+#: View/Group/members.ctp:165;331
+#: View/Timeline/index.ctp:3111
+msgid "Role"
+msgstr ""
+
+#: View/Group/members.ctp:236
+msgid "Invite had been sended"
+msgstr ""
+
+#: View/Group/members.ctp:359
+msgid "Buy More Members"
+msgstr ""
+
+#: View/Group/vacancies.ctp:23
+msgid "USD"
+msgstr ""
+
+#: View/Group/vacancies.ctp:24
+msgid "EUR"
+msgstr ""
+
+#: View/Group/vacancies.ctp:25
+msgid "RUR"
+msgstr ""
+
+#: View/Group/vacancies.ctp:30;246
+#: View/Group/view.ctp:205
+msgid "Vacancies"
+msgstr ""
+
+#: View/Group/vacancies.ctp:251;302
+msgid "Job opening"
+msgstr ""
+
+#: View/Group/vacancies.ctp:252
+msgid "Back to group"
+msgstr ""
+
+#: View/Group/vacancies.ctp:252
+msgid "About Group"
+msgstr ""
+
+#: View/Group/vacancies.ctp:336
+msgid "Currency"
+msgstr ""
+
+#: View/Group/vacancies.ctp:372;426
+msgid "More"
+msgstr ""
+
+#: View/Group/vacancies.ctp:423
+msgid "Less"
+msgstr ""
+
+#: View/Group/view.ctp:187;1008
+msgid "Snap to dream"
+msgstr ""
+
+#: View/Group/view.ctp:214
+msgid "Message"
+msgstr ""
+
+#: View/Group/view.ctp:222
+msgid "Join"
+msgstr ""
+
+#: View/Group/view.ctp:311
+msgid "All addresses"
+msgstr ""
+
+#: View/Group/view.ctp:367
+#: View/User/view.ctp:464
+msgid "Achievements"
+msgstr ""
+
+#: View/Group/view.ctp:391;490;549
+#: View/User/view.ctp:476;556;597
+msgid "Collapse"
+msgstr ""
+
+#: View/Group/view.ctp:459
+msgid "New project"
+msgstr ""
+
+#: View/Group/view.ctp:479
+msgid "Project has not been created yet"
+msgstr ""
+
+#: View/Group/view.ctp:513
+msgid "Add article"
+msgstr ""
+
+#: View/Group/view.ctp:557
+msgid "No articles here yet..."
+msgstr ""
+
+#: View/Group/view.ctp:762;924;954
+#: View/InvestProject/add_project.ctp:294;456;486
+#: View/InvestProject/edit_project.ctp:384;549;580
+#: View/InvestProject/list_all_sponsors.ctp:612;746;776
+#: View/InvestProject/list_projects.ctp:395;557;587
+#: View/InvestProject/list_sponsors.ctp:408;542;572
+#: View/InvestProject/view.ctp:557;691;721
+msgid "Invalid youtube video"
+msgstr ""
+
+#: View/Group/view.ctp:936
+#: View/InvestProject/add_project.ctp:468
+#: View/InvestProject/edit_project.ctp:561
+#: View/InvestProject/list_all_sponsors.ctp:758
+#: View/InvestProject/list_projects.ctp:569
+#: View/InvestProject/list_sponsors.ctp:554
+#: View/InvestProject/view.ctp:703
+msgid "is required"
+msgstr ""
+
+#: View/Group/view.ctp:943
+#: View/InvestProject/add_project.ctp:475
+#: View/InvestProject/edit_project.ctp:569
+#: View/InvestProject/list_all_sponsors.ctp:765
+#: View/InvestProject/list_projects.ctp:576
+#: View/InvestProject/list_sponsors.ctp:561
+#: View/InvestProject/view.ctp:710
+msgid "Enter a integer number to Project duration"
+msgstr ""
+
+#: View/Group/view.ctp:947
+#: View/InvestProject/add_project.ctp:97;479
+#: View/InvestProject/edit_project.ctp:103;573
+#: View/InvestProject/list_all_sponsors.ctp:769
+#: View/InvestProject/list_projects.ctp:580
+#: View/InvestProject/list_sponsors.ctp:565
+#: View/InvestProject/view.ctp:714
+msgid "Project duration (60 days maximum)"
+msgstr ""
+
+#: View/GroupAjax/vacancy_responses.ctp:20
+msgid "Approved"
+msgstr ""
+
+#: View/GroupAjax/vacancy_responses.ctp:28
+msgid "Pending"
+msgstr ""
+
+#: View/GroupAjax/vacancy_responses.ctp:37
+msgid "Rejected"
+msgstr ""
+
+#: View/Helper/LocalDateHelper.php:35
+#: Plugin/Billing/View/BillingSubscriptions/plans.ctp:29
+msgid "year"
+msgstr ""
+
+#: View/Helper/LocalDateHelper.php:35
+msgid "years "
+msgstr ""
+
+#: View/InvestProject/add_funds.ctp:4
+#: View/Layouts/device.ctp:148
+#: Plugin/Billing/View/BillingUser/payment.ctp:4
+msgid "Add funds"
+msgstr ""
+
+#: View/InvestProject/add_funds.ctp:10
+msgid "Fund project"
+msgstr ""
+
+#: View/InvestProject/add_project.ctp:21
+msgid "New investment project"
+msgstr ""
+
+#: View/InvestProject/add_project.ctp:29
+#: View/InvestProject/edit_project.ctp:32
+msgid "Picture, for the announcement project"
+msgstr ""
+
+#: View/InvestProject/add_project.ctp:49;50
+#: View/InvestProject/edit_project.ctp:52;53
+msgid "Announcement project"
+msgstr ""
+
+#: View/InvestProject/add_project.ctp:109
+#: View/InvestProject/edit_project.ctp:115
+msgid "Add reward"
+msgstr ""
+
+#: View/InvestProject/add_project.ctp:122
+#: View/InvestProject/edit_project.ctp:196
+msgid "Terms of service"
+msgstr ""
+
+#: View/InvestProject/add_project.ctp:123
+#: View/InvestProject/edit_project.ctp:197
+msgid "Agreement"
+msgstr ""
+
+#: View/InvestProject/edit_project.ctp:4
+msgid "Edit project"
+msgstr ""
+
+#: View/InvestProject/edit_project.ctp:24
+msgid "Investment project settings"
+msgstr ""
+
+#: View/InvestProject/list_all_sponsors.ctp:208
+#: View/InvestProject/list_projects.ctp:85
+msgid "Sort"
+msgstr ""
+
+#: View/InvestProject/list_all_sponsors.ctp:211
+#: View/InvestProject/list_projects.ctp:88
+msgid "Create date"
+msgstr ""
+
+#: View/InvestProject/list_all_sponsors.ctp:217
+#: View/User/view.ctp:292
+msgid "Investment management"
+msgstr ""
+
+#: View/InvestProject/list_all_sponsors.ctp:238
+msgid "Investors list"
+msgstr ""
+
+#: View/InvestProject/list_all_sponsors.ctp:241
+msgid "My investments"
+msgstr ""
+
+#: View/InvestProject/list_all_sponsors.ctp:269
+#: View/InvestProject/list_sponsors.ctp:156
+msgid "Sponsor"
+msgstr ""
+
+#: View/InvestProject/list_all_sponsors.ctp:270;355
+msgid "Date and time"
+msgstr ""
+
+#: View/InvestProject/list_all_sponsors.ctp:274;359
+#: View/InvestProject/list_sponsors.ctp:161
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:142
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:66
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:41
+#: Plugin/Queue/View/Queue/admin_index.ctp:4
+msgid "Status"
+msgstr ""
+
+#: View/InvestProject/list_all_sponsors.ctp:296;391
+#: View/InvestProject/list_sponsors.ctp:184
+msgid "Open"
+msgstr ""
+
+#: View/InvestProject/list_all_sponsors.ctp:301;404
+#: View/InvestProject/list_sponsors.ctp:189
+msgid "Refund"
+msgstr ""
+
+#: View/InvestProject/list_all_sponsors.ctp:323;426
+#: View/InvestProject/list_sponsors.ctp:144
+msgid "$%s collected"
+msgstr ""
+
+#: View/InvestProject/list_all_sponsors.ctp:326;429;465
+#: View/InvestProject/list_sponsors.ctp:147
+msgid "1% commissions"
+msgstr ""
+
+#: View/InvestProject/list_all_sponsors.ctp:354
+msgid "Author of the project"
+msgstr ""
+
+#: View/InvestProject/list_all_sponsors.ctp:398
+msgid "see project"
+msgstr ""
+
+#: View/InvestProject/list_all_sponsors.ctp:456
+#: View/InvestProject/list_sponsors.ctp:138
+msgid "Total:"
+msgstr ""
+
+#: View/InvestProject/list_projects.ctp:95
+msgid "Search result"
+msgstr ""
+
+#: View/InvestProject/list_projects.ctp:153
+msgid "from"
+msgstr ""
+
+#: View/InvestProject/list_projects.ctp:170
+msgid "Nothing not found"
+msgstr ""
+
+#: View/InvestProject/list_sponsors.ctp:4
+#: View/InvestProject/view.ctp:230
+msgid "Sponsors"
+msgstr ""
+
+#: View/InvestProject/list_sponsors.ctp:141
+msgid "%s sponsors"
+msgstr ""
+
+#: View/InvestProject/list_sponsors.ctp:217
+msgid "The project has no sponsors"
+msgstr ""
+
+#: View/InvestProject/view.ctp:129
+msgid "Updates"
+msgstr ""
+
+#: View/InvestProject/view.ctp:177
+msgid "Target:"
+msgstr ""
+
+#: View/InvestProject/view.ctp:185
+msgid "Assembled:"
+msgstr ""
+
+#: View/InvestProject/view.ctp:190
+msgid "Still needed:"
+msgstr ""
+
+#: View/InvestProject/view.ctp:195
+msgid "Remains days:"
+msgstr ""
+
+#: View/InvestProject/view.ctp:200
+msgid "Sponsors:"
+msgstr ""
+
+#: View/InvestProject/view.ctp:225
+#: Plugin/Form/Vendor/FieldTypes.php:27
+msgid "Select"
+msgstr ""
+
+#: View/Js/settings.ctp:164
+#: View/UserAjax/js_settings.ctp:18
+msgid "Enter your information in the User settings"
+msgstr ""
+
+#: View/Layouts/default.ctp:10
+#: View/Layouts/device.ctp:10
+msgid "Messenger"
+msgstr ""
+
+#: View/Layouts/device.ctp:124
+#: View/User/view.ctp:647
+msgid "Only numbers allowed for balance amount"
+msgstr ""
+
+#: View/Layouts/device.ctp:146
+msgid "Current balance"
+msgstr ""
+
+#: View/Layouts/device.ctp:153
+msgid "Pay"
+msgstr ""
+
+#: View/Layouts/home.ctp:10
+#: View/Layouts/profile.ctp:10
+#: View/Layouts/profile_new.ctp:11
+#: View/Layouts/register.ctp:10
+#: View/Layouts/unregistered.ctp:11
+msgid "Main page"
+msgstr ""
+
+#: View/Layouts/home.ctp:162
+msgid "About Us"
+msgstr ""
+
+#: View/Layouts/home.ctp:163
+msgid "Terms of Use"
+msgstr ""
+
+#: View/Layouts/profile.ctp:92
+#: View/Layouts/profile_new.ctp:116
+#: View/Layouts/timeline.ctp:78
+#: View/Layouts/timeline_new.ctp:108;117
+#: View/Layouts/unregistered.ctp:61
+msgid "Upload image"
+msgstr ""
+
+#: View/Layouts/timeline.ctp:110
+#: View/Timeline/planet.ctp:485
+msgid "Users"
+msgstr ""
+
+#: View/Layouts/timeline.ctp:111
+#: View/User/delayed_events.ctp:156
+#: Plugin/Queue/View/Queue/admin_index.ctp:40
+msgid "Statistics"
+msgstr ""
+
+#: View/Layouts/timeline.ctp:115
+msgid "My sales"
+msgstr ""
+
+#: View/Layouts/unregistered.ctp:238;240
+msgid "Register"
+msgstr ""
+
+#: View/Layouts/unregistered.ctp:242
+msgid "Log in using"
+msgstr ""
+
+#: View/Note/view.ctp:4
+msgid "Back to profile"
+msgstr ""
+
+#: View/Payment/paypal.ctp:15
+msgid "Recharge balance of user account on %s"
+msgstr ""
+
+#: View/Payment/recharge.ctp:5
+msgid "Thank you for your payment"
+msgstr ""
+
+#: View/Payment/recharge.ctp:9
+msgid "Your payment has been cancelled"
+msgstr ""
+
+#: View/Payment/recharge.ctp:13
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr ""
+
+#: View/Payment/recharge.ctp:27
+msgid "Recharge amount"
+msgstr ""
+
+#: View/Project/edit.ctp:14
+msgid "Project settings"
+msgstr ""
+
+#: View/Project/edit.ctp:37
+msgid "Project has been successfully saved"
+msgstr ""
+
+#: View/Project/edit.ctp:72
+msgid "Bind to finances"
+msgstr ""
+
+#: View/Project/task.ctp:45
+msgid "(Сlosed)"
+msgstr ""
+
+#: View/Project/task.ctp:69
+msgid "Time spent"
+msgstr ""
+
+#: View/Project/task.ctp:77
+msgid "Income & expense"
+msgstr ""
+
+#: View/Project/task.ctp:78;465
+#: View/ProjectAjax/comments.ctp:206
+msgid "Show chart"
+msgstr ""
+
+#: View/Project/task.ctp:149
+msgid "-- Select contractor --"
+msgstr ""
+
+#: View/Project/task.ctp:193
+msgid "Add event"
+msgstr ""
+
+#: View/Project/task.ctp:197
+msgid "Add financial data"
+msgstr ""
+
+#: View/Project/task.ctp:269
+#: View/ProjectAjax/comments.ctp:70
+#: View/Timeline/index.ctp:3465;3529;3565
+msgid "Task was created"
+msgstr ""
+
+#: View/Project/task.ctp:273
+#: View/ProjectAjax/comments.ctp:74
+#: View/Timeline/index.ctp:3468;3532;3568
+msgid "Task was closed"
+msgstr ""
+
+#: View/Project/task.ctp:463
+#: View/ProjectAjax/comments.ctp:204
+msgid "Hide chart"
+msgstr ""
+
+#: View/Project/view.ctp:22
+msgid "Are you sure to close this project?"
+msgstr ""
+
+#: View/Project/view.ctp:41;57
+msgid "Closed"
+msgstr ""
+
+#: View/Project/view.ctp:98
+msgid "Last updates"
+msgstr ""
+
+#: View/Project/view.ctp:109
+msgid "%s created this project"
+msgstr ""
+
+#: View/Project/view.ctp:112
+msgid "%s created subproject \"%s\""
+msgstr ""
+
+#: View/Project/view.ctp:116
+msgid "%s created task %s"
+msgstr ""
+
+#: View/Project/view.ctp:118
+msgid "Project is closed"
+msgstr ""
+
+#: View/Project/view.ctp:121
+msgid "%s closed subproject \"%s\""
+msgstr ""
+
+#: View/Project/view.ctp:125
+msgid "%s closed task %s"
+msgstr ""
+
+#: View/Project/view.ctp:129
+msgid "%s removed subproject \"%s\""
+msgstr ""
+
+#: View/Project/view.ctp:133
+msgid "%s removed task %s"
+msgstr ""
+
+#: View/Project/view.ctp:145
+msgid "%s attached %s to task %s"
+msgstr ""
+
+#: View/Project/view.ctp:205
+msgid "No open tasks"
+msgstr ""
+
+#: View/Project/view.ctp:221
+msgid "Closed tasks"
+msgstr ""
+
+#: View/Project/view.ctp:244
+msgid "Do you really want to delete this task?"
+msgstr ""
+
+#: View/Project/view.ctp:248
+msgid "Do you really want to delete this subproject?"
+msgstr ""
+
+#: View/ProjectAjax/comments.ctp:34
+msgid "To send message press Enter"
+msgstr ""
+
+#: View/Statistic/index.ctp:4
+#: View/User/view.ctp:224
+msgid "Statistic"
+msgstr ""
+
+#: View/Statistic/index.ctp:24
+msgid "Today"
+msgstr ""
+
+#: View/Statistic/index.ctp:30
+msgid "Select period"
+msgstr ""
+
+#: View/Statistic/index.ctp:47
+msgid "My profile"
+msgstr ""
+
+#: View/Statistic/index.ctp:49
+msgid "My groups"
+msgstr ""
+
+#: View/Statistic/index.ctp:60;161;195
+msgid "Visitors"
+msgstr ""
+
+#: View/Statistic/index.ctp:152;175;185;208;218
+msgid "Data is empty"
+msgstr ""
+
+#: View/Statistic/index.ctp:161
+#: View/User/task_management.ctp:357;413;472
+#: Plugin/Form/Vendor/FieldTypes.php:23
+msgid "Date"
+msgstr ""
+
+#: View/StorageLimit/buy_more_space.ctp:16
+msgid "Buy"
+msgstr ""
+
+#: View/Timeline/index.ctp:268
+#: View/User/task_management.ctp:359;415;474
+msgid "Price"
+msgstr ""
+
+#: View/Timeline/index.ctp:278
+msgid "Event place"
+msgstr ""
+
+#: View/Timeline/index.ctp:290
+msgid "Finance category"
+msgstr ""
+
+#: View/Timeline/index.ctp:295
+msgid "Select finance project"
+msgstr ""
+
+#: View/Timeline/index.ctp:300;873
+msgid "Select an account"
+msgstr ""
+
+#: View/Timeline/index.ctp:437
+msgid "Sunday"
+msgstr ""
+
+#: View/Timeline/index.ctp:437
+msgid "Monday"
+msgstr ""
+
+#: View/Timeline/index.ctp:437;3200;3212;3224
+msgid "Tuesday"
+msgstr ""
+
+#: View/Timeline/index.ctp:437;3236;3252
+msgid "Wednesday"
+msgstr ""
+
+#: View/Timeline/index.ctp:437;3189
+msgid "Thursday"
+msgstr ""
+
+#: View/Timeline/index.ctp:437
+msgid "Friday"
+msgstr ""
+
+#: View/Timeline/index.ctp:437
+msgid "Saturday"
+msgstr ""
+
+#: View/Timeline/index.ctp:824
+msgid "Amount can not be empty"
+msgstr ""
+
+#: View/Timeline/index.ctp:829
+msgid "Category can not be empty"
+msgstr ""
+
+#: View/Timeline/index.ctp:834
+msgid "Project can not be empty"
+msgstr ""
+
+#: View/Timeline/index.ctp:839
+msgid "Account can not be empty"
+msgstr ""
+
+#: View/Timeline/index.ctp:894
+msgid "Do you want to save this file to your cloud?"
+msgstr ""
+
+#: View/Timeline/index.ctp:2041
+msgid "I registered on this site"
+msgstr ""
+
+#: View/Timeline/index.ctp:2056
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr ""
+
+#: View/Timeline/index.ctp:2058
+msgid "Resend confirmation email"
+msgstr ""
+
+#: View/Timeline/index.ctp:2061
+msgid "Change email address"
+msgstr ""
+
+#: View/Timeline/index.ctp:2072
+msgid "Founded groups"
+msgstr ""
+
+#: View/Timeline/index.ctp:2084
+msgid "Founded articles"
+msgstr ""
+
+#: View/Timeline/index.ctp:2096
+msgid "Founded files"
+msgstr ""
+
+#: View/Timeline/index.ctp:2144
+msgid "Founded users"
+msgstr ""
+
+#: View/Timeline/index.ctp:2165
+msgid "Views in last 24 hours:"
+msgstr ""
+
+#: View/Timeline/index.ctp:2298
+msgid "You have to make a call: "
+msgstr ""
+
+#: View/Timeline/index.ctp:2301
+msgid "You have to send an email: "
+msgstr ""
+
+#: View/Timeline/index.ctp:2304
+msgid "You have a meetup: "
+msgstr ""
+
+#: View/Timeline/index.ctp:2307
+msgid "You have an event: "
+msgstr ""
+
+#: View/Timeline/index.ctp:2354
+msgid "Event comment:"
+msgstr ""
+
+#: View/Timeline/index.ctp:2367
+msgid "date moved from"
+msgstr ""
+
+#: View/Timeline/index.ctp:2373
+msgid "Event place:"
+msgstr ""
+
+#: View/Timeline/index.ctp:2416
+msgid "You created an order"
+msgstr ""
+
+#: View/Timeline/index.ctp:2437
+msgid "You received a device due to this order"
+msgstr ""
+
+#: View/Timeline/index.ctp:2666
+msgid "%s answered your comment to %s"
+msgstr ""
+
+#: View/Timeline/index.ctp:2666
+msgid "%s commented your article %s"
+msgstr ""
+
+#: View/Timeline/index.ctp:2668
+msgid "You've answered on comment to %s"
+msgstr ""
+
+#: View/Timeline/index.ctp:2668
+msgid "You've commented an article %s"
+msgstr ""
+
+#: View/Timeline/index.ctp:2712
+msgid "profile is completed"
+msgstr ""
+
+#: View/Timeline/index.ctp:2717
+msgid "You applied to %s on the job %s. Please make sure your %s"
+msgstr ""
+
+#: View/Timeline/index.ctp:2719
+msgid "Your request to %s for job %s has been accepted"
+msgstr ""
+
+#: View/Timeline/index.ctp:2721
+msgid "Your request to %s for job %s has been rejected"
+msgstr ""
+
+#: View/Timeline/index.ctp:2915
+msgid "These groups may be interesting for you"
+msgstr ""
+
+#: View/Timeline/index.ctp:2940
+msgid "These articles may be interesting for you"
+msgstr ""
+
+#: View/Timeline/index.ctp:2962;2969
+msgid "published an article"
+msgstr ""
+
+#: View/Timeline/index.ctp:2995
+msgid "You joined this group as "
+msgstr ""
+
+#: View/Timeline/index.ctp:3018
+msgid "New shared file"
+msgstr ""
+
+#: View/Timeline/index.ctp:3019
+msgid "Access by link for"
+msgstr ""
+
+#: View/Timeline/index.ctp:3019
+msgid "Individual access for"
+msgstr ""
+
+#: View/Timeline/index.ctp:3019
+msgid "Edit access for"
+msgstr ""
+
+#: View/Timeline/index.ctp:3042
+msgid "You have been invited to group %s as \"%s\""
+msgstr ""
+
+#: View/Timeline/index.ctp:3081
+msgid "User %s wants to join your group %s"
+msgstr ""
+
+#: View/Timeline/index.ctp:3127
+msgid "You joined this project"
+msgstr ""
+
+#: View/Timeline/index.ctp:3147
+msgid "Updated site began to work"
+msgstr ""
+
+#: View/Timeline/index.ctp:3167
+msgid "These users may be interesting for you"
+msgstr ""
+
+#: View/Timeline/index.ctp:3193
+msgid "articles written."
+msgstr ""
+
+#: View/Timeline/index.ctp:3205
+msgid "messages written."
+msgstr ""
+
+#: View/Timeline/index.ctp:3217
+msgid "projects created based on groups."
+msgstr ""
+
+#: View/Timeline/index.ctp:3229
+msgid "groups created."
+msgstr ""
+
+#: View/Timeline/index.ctp:3241;3257
+msgid "Updated site"
+msgstr ""
+
+#: View/Timeline/index.ctp:3356
+msgid "%s joined group as %s"
+msgstr ""
+
+#: View/Timeline/index.ctp:3401
+msgid "closed"
+msgstr ""
+
+#: View/Timeline/index.ctp:3403
+msgid "created"
+msgstr ""
+
+#: View/Timeline/index.ctp:3403
+msgid "updated"
+msgstr ""
+
+#: View/Timeline/index.ctp:3407
+msgid "Project was "
+msgstr ""
+
+#: View/Timeline/index.ctp:3471
+msgid "Task was updated"
+msgstr ""
+
+#: View/Timeline/planet.ctp:333
+msgid "Show in the map"
+msgstr ""
+
+#: View/Timeline/planet.ctp:337
+msgid "People"
+msgstr ""
+
+#: View/Timeline/planet.ctp:386
+msgid "Back to the task"
+msgstr ""
+
+#: View/Timeline/planet.ctp:394
+msgid "Filters"
+msgstr ""
+
+#: View/Timeline/planet.ctp:398
+msgid "By events"
+msgstr ""
+
+#: View/Timeline/planet.ctp:402
+msgid "Displaying:"
+msgstr ""
+
+#: View/Timeline/planet.ctp:417
+#: View/User/time_management_ajax.ctp:86
+msgid "My events"
+msgstr ""
+
+#: View/Timeline/planet.ctp:425
+#: View/User/delayed_events.ctp:24
+#: View/User/my_sells.ctp:125;256
+#: View/User/time_management_ajax.ctp:16;396
+msgid "Meetings"
+msgstr ""
+
+#: View/Timeline/planet.ctp:431
+#: View/User/delayed_events.ctp:22
+#: View/User/time_management_ajax.ctp:14
+msgid "Calls"
+msgstr ""
+
+#: View/Timeline/planet.ctp:437
+#: View/User/delayed_events.ctp:27
+#: View/User/my_sells.ctp:118;255
+#: View/User/time_management_ajax.ctp:20;395
+msgid "Emails"
+msgstr ""
+
+#: View/Timeline/planet.ctp:443
+#: View/User/delayed_events.ctp:23
+#: View/User/time_management_ajax.ctp:15;397
+msgid "Conferences"
+msgstr ""
+
+#: View/Timeline/planet.ctp:449
+#: View/User/delayed_events.ctp:25
+#: View/User/time_management_ajax.ctp:18
+msgid "Sport events"
+msgstr ""
+
+#: View/Timeline/planet.ctp:461
+msgid "Purchases"
+msgstr ""
+
+#: View/Timeline/planet.ctp:473
+msgid "Payments"
+msgstr ""
+
+#: View/Timeline/planet.ctp:478
+msgid "By groups"
+msgstr ""
+
+#: View/Timeline/planet.ctp:479
+msgid "By categories"
+msgstr ""
+
+#: View/Timeline/planet.ctp:480
+msgid "By friends"
+msgstr ""
+
+#: View/User/change_email.ctp:4;9
+#: View/User/edit.ctp:94
+#: View/User/view.ctp:252
+msgid "Change email"
+msgstr ""
+
+#: View/User/change_email.ctp:13
+msgid "New email"
+msgstr ""
+
+#: View/User/change_email.ctp:17
+msgid "Confirm email"
+msgstr ""
+
+#: View/User/delayed_events.ctp:28;178
+#: View/User/time_management_ajax.ctp:24;86
+msgid "Other events"
+msgstr ""
+
+#: View/User/delayed_events.ctp:152
+#: View/User/favourites.ctp:4
+msgid "Favorite users"
+msgstr ""
+
+#: View/User/delayed_events.ctp:170
+msgid "Event time"
+msgstr ""
+
+#: View/User/edit.ctp:52
+msgid "User settings"
+msgstr ""
+
+#: View/User/edit.ctp:89
+msgid "Technical support"
+msgstr ""
+
+#: View/User/edit.ctp:108
+msgid "User has been successfully saved"
+msgstr ""
+
+#: View/User/edit.ctp:115;116
+msgid "Full name"
+msgstr ""
+
+#: View/User/edit.ctp:120;121
+#: View/User/view.ctp:212;273
+msgid "Skills"
+msgstr ""
+
+#: View/User/edit.ctp:125
+msgid "Profile url"
+msgstr ""
+
+#: View/User/edit.ctp:130
+msgid "My video"
+msgstr ""
+
+#: View/User/edit.ctp:146
+msgid "Birthday"
+msgstr ""
+
+#: View/User/edit.ctp:166
+msgid "Country of residence"
+msgstr ""
+
+#: View/User/edit.ctp:169
+#: View/User/view.ctp:358
+msgid "Select country"
+msgstr ""
+
+#: View/User/edit.ctp:174;177
+#: View/User/view.ctp:351
+msgid "City/town of residence"
+msgstr ""
+
+#: View/User/edit.ctp:190;191
+#: View/User/view.ctp:404
+msgid "University/college"
+msgstr ""
+
+#: View/User/edit.ctp:195;196
+#: View/User/view.ctp:405
+msgid "Occupation"
+msgstr ""
+
+#: View/User/edit.ctp:200
+msgid "University/college photo"
+msgstr ""
+
+#: View/User/edit.ctp:221
+#: View/User/view.ctp:488
+msgid "Add user's accomplishments"
+msgstr ""
+
+#: View/User/edit.ctp:257
+#: View/User/view.ctp:432
+msgid "Interface language"
+msgstr ""
+
+#: View/User/edit.ctp:262
+#: View/User/view.ctp:438
+msgid "Timezone"
+msgstr ""
+
+#: View/User/edit.ctp:270
+msgid "How other people see this page"
+msgstr ""
+
+#: View/User/edit.ctp:342;344
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr ""
+
+#: View/User/favourites.ctp:35
+msgid "No users in this list"
+msgstr ""
+
+#: View/User/favourites.ctp:76
+msgid "List title"
+msgstr ""
+
+#: View/User/favourites.ctp:126
+msgid "Edit favourites list"
+msgstr ""
+
+#: View/User/favourites.ctp:137
+msgid "Add favourites list"
+msgstr ""
+
+#: View/User/interests.ctp:4
+msgid "What are you Interested in?"
+msgstr ""
+
+#: View/User/interests.ctp:9
+msgid "Select at least 2 interests"
+msgstr ""
+
+#: View/User/interests.ctp:10
+#: View/User/skills.ctp:10
+msgid "remains"
+msgstr ""
+
+#: View/User/interests.ctp:13
+#: View/User/skills.ctp:13
+msgid "Next "
+msgstr ""
+
+#: View/User/interests.ctp:320
+msgid "Need more interests"
+msgstr ""
+
+#: View/User/my_sells.ctp:25
+#: View/User/time_management_ajax.ctp:30
+msgid "Events"
+msgstr ""
+
+#: View/User/my_sells.ctp:36
+msgid "Events statistics"
+msgstr ""
+
+#: View/User/my_sells.ctp:38
+#: View/User/time_management_ajax.ctp:44
+msgid "Event"
+msgstr ""
+
+#: View/User/my_sells.ctp:76;83;90;151;196
+#: View/User/time_management_ajax.ctp:141;165;202;210;220
+msgid "d"
+msgstr ""
+
+#: View/User/my_sells.ctp:111;254
+#: View/User/time_management_ajax.ctp:394
+msgid "Telephone calls"
+msgstr ""
+
+#: View/User/my_sells.ctp:160;218
+#: View/User/time_management_ajax.ctp:175;254
+msgid "Total time spent"
+msgstr ""
+
+#: View/User/my_sells.ctp:164;222
+msgid "Earnings per hour"
+msgstr ""
+
+#: View/User/my_sells.ctp:168;226
+msgid "Total earnings"
+msgstr ""
+
+#: View/User/skills.ctp:4
+msgid "What are your skills?"
+msgstr ""
+
+#: View/User/skills.ctp:9
+msgid "Select at least 2 skills"
+msgstr ""
+
+#: View/User/skills.ctp:193
+msgid "Accountant"
+msgstr ""
+
+#: View/User/skills.ctp:318
+msgid "Need more skills"
+msgstr ""
+
+#: View/User/task.ctp:396
+msgid "Send request"
+msgstr ""
+
+#: View/User/task.ctp:478
+msgid "Discard"
+msgstr ""
+
+#: View/User/task.ctp:697
+msgid "Popular category"
+msgstr ""
+
+#: View/User/task.ctp:707
+msgid "New tasks to category"
+msgstr ""
+
+#: View/User/task.ctp:938
+msgid "Proposals Limit Notification"
+msgstr ""
+
+#: View/User/task.ctp:950
+msgid "Your comment"
+msgstr ""
+
+#: View/User/task.ctp:997
+msgid "Edit task"
+msgstr ""
+
+#: View/User/task.ctp:1051
+msgid "Set external"
+msgstr ""
+
+#: View/User/task.ctp:1054
+msgid "Stop task"
+msgstr ""
+
+#: View/User/task.ctp:1057
+msgid "Close task"
+msgstr ""
+
+#: View/User/task.ctp:1295
+msgid "You must upgrade your subscription to add new proposals"
+msgstr ""
+
+#: View/User/task.ctp:1298
+msgid "Buy More Proposals"
+msgstr ""
+
+#: View/User/task_management.ctp:328
+#: View/User/time_management.ctp:245
+msgid "Set aside "
+msgstr ""
+
+#: View/User/task_management.ctp:334
+msgid "My tasks"
+msgstr ""
+
+#: View/User/task_management.ctp:337
+msgid "Tasks proposed to me"
+msgstr ""
+
+#: View/User/task_management.ctp:340
+msgid "My invites"
+msgstr ""
+
+#: View/User/task_management.ctp:354;410;469
+msgid "Task name"
+msgstr ""
+
+#: View/User/task_management.ctp:355;411;470
+msgid "Author"
+msgstr ""
+
+#: View/User/task_management.ctp:358;414;473
+msgid "Duration"
+msgstr ""
+
+#: View/User/task_management.ctp:528
+#: View/User/time_management.ctp:283
+msgid "Edit title"
+msgstr ""
+
+#: View/User/time_management_ajax.ctp:13
+msgid "Personal events"
+msgstr ""
+
+#: View/User/time_management_ajax.ctp:17
+msgid "Holidays"
+msgstr ""
+
+#: View/User/time_management_ajax.ctp:230
+msgid "Time spent for work"
+msgstr ""
+
+#: View/User/time_management_ajax.ctp:242
+msgid "Personal time spent"
+msgstr ""
+
+#: View/User/time_management_ajax.ctp:456
+msgid "Time spent, h."
+msgstr ""
+
+#: View/User/view.ctp:124
+msgid "Video presentation of my accomplishments"
+msgstr ""
+
+#: View/User/view.ctp:231
+msgid "Support"
+msgstr ""
+
+#: View/User/view.ctp:280
+msgid "Interests"
+msgstr ""
+
+#: View/User/view.ctp:309
+msgid "Delete from favorites"
+msgstr ""
+
+#: View/User/view.ctp:313
+msgid "Add to favorites"
+msgstr ""
+
+#: View/User/view.ctp:377
+msgid "Select month"
+msgstr ""
+
+#: View/User/view.ctp:381
+msgid "Select day"
+msgstr ""
+
+#: View/User/view.ctp:385
+msgid "Select year"
+msgstr ""
+
+#: View/User/view.ctp:537
+msgid "Communities"
+msgstr ""
+
+#: View/Viewer/pdf.ctp:19
+msgid "Link to file"
+msgstr ""
+
+#: View/Viewer/pdf.ctp:22
+#: Plugin/Queue/Controller/QueueController.php:48
+msgid "OK"
+msgstr ""
+
+#: Model/ApiAccess.php:validation for field token
+#: Model/User.php:validation for field username;validation for field password
+#: Plugin/Api/Model/ApiArticle.php:validation for field search_query;validation for field group_id;validation for field title;validation for field published;validation for field type;validation for field cat_id
+#: Plugin/Api/Model/ApiArticleEvent.php:validation for field message;validation for field article_id
+#: Plugin/Api/Model/ApiGroup.php:validation for field title;validation for field hidden;validation for field cat_id
+#: Plugin/Api/Model/ApiNote.php:validation for field title;validation for field body;validation for field is_folder
+#: Plugin/Api/Model/ApiProject.php:validation for field title;validation for field group_id;validation for field responsible_id;validation for field deadline
+#: Plugin/Api/Model/ApiUser.php:validation for field username;validation for field password;validation for field search_query;validation for field birthday;validation for field live_country;validation for field lang;validation for field timezone
+#: Plugin/Api/Model/ApiUserEvent.php:validation for field event_time;validation for field event_end_time;validation for field recipient_id;validation for field task_id;validation for field type;validation for field title;validation for field descr
+#: Plugin/Apiv2/Model/ApiCloud.php:validation for field user_id;validation for field name
+msgid "Field is mandatory"
+msgstr ""
+
+#: Model/Group.php:validation for field title
+msgid "Group name can only be letters, numbers, whitespaces, dash and underscore"
+msgstr ""
+
+#: Model/Group.php:validation for field group_url
+#: Model/User.php:validation for field profile_url
+msgid "Already taken"
+msgstr ""
+
+#: Model/GroupLimit.php:validation for field owner_id
+#: Model/Rating.php:validation for field foreign_id;validation for field value
+#: Model/UserEventRequestLimit.php:validation for field user_id
+#: Plugin/Billing/Model/BillingCustomer.php:validation for field user_id
+#: Plugin/Billing/Model/BillingSubscription.php:validation for field group_id;validation for field plan_id;validation for field user_id
+msgid "numeric"
+msgstr ""
+
+#: Model/Note.php:validation for field title
+msgid "This field must not be blank"
+msgstr ""
+
+#: Model/Note.php:validation for field title
+#: Plugin/Api/Model/ApiNote.php:validation for field title
+msgid "Document with such name is already exist"
+msgstr ""
+
+#: Model/Rating.php:validation for field foreign_model
+#: Model/UserEventCategory.php:validation for field title
+#: Plugin/Billing/Model/BillingGroup.php:validation for field title
+#: Plugin/Billing/Model/BillingPlan.php:validation for field title
+msgid "notEmpty"
+msgstr ""
+
+#: Model/User.php:validation for field username
+#: Plugin/Api/Model/ApiUser.php:validation for field username
+msgid "Email is incorrect"
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "This email has already been used"
+msgstr ""
+
+#: Model/User.php:validation for field password
+#: Plugin/Api/Model/ApiUser.php:validation for field password
+msgid "The password must be between 4 and 15 characters"
+msgstr ""
+
+#: Model/User.php:validation for field full_name
+msgid "Full name can only be letters, numbers, whitespaces, dash and underscore"
+msgstr ""
+
+#: Plugin/Api/Model/ApiArticle.php:validation for field search_query
+#: Plugin/Api/Model/ApiUser.php:validation for field search_query
+msgid "Minimum Length is 3 characters"
+msgstr ""
+
+#: Plugin/Api/Model/ApiArticle.php:validation for field group_id
+#: Plugin/Api/Model/ApiNote.php:validation for field parent_id
+#: Plugin/Api/Model/ApiProject.php:validation for field group_id;validation for field responsible_id
+#: Plugin/Api/Model/ApiUserEvent.php:validation for field recipient_id;validation for field task_id
+msgid "Only digits"
+msgstr ""
+
+#: Plugin/Api/Model/ApiArticle.php:validation for field published;validation for field type;validation for field cat_id
+msgid "Incorrect value"
+msgstr ""
+
+#: Plugin/Api/Model/ApiGroup.php:validation for field hidden
+#: Plugin/Api/Model/ApiNote.php:validation for field is_folder
+msgid "hidden option is empty"
+msgstr ""
+
+#: Plugin/Api/Model/ApiGroup.php:validation for field cat_id
+msgid "Incorrect Category"
+msgstr ""
+
+#: Plugin/Api/Model/ApiTimeline.php:validation for field start_date;validation for field end_date
+msgid "Enter a valid date"
+msgstr ""
+
+#: Plugin/Api/Model/ApiUser.php:validation for field live_country
+msgid "Incorrect Country"
+msgstr ""
+
+#: Plugin/Api/Model/ApiUser.php:validation for field lang
+msgid "Incorrect Language"
+msgstr ""
+
+#: Plugin/Api/Model/ApiUser.php:validation for field timezone
+msgid "Incorrect Timezone"
+msgstr ""
+
+#: Plugin/Api/Model/ApiUserEvent.php:validation for field event_time;validation for field event_end_time
+msgid "Incorrect datetime format"
+msgstr ""
+
+#: Plugin/Api/Model/ApiUserEvent.php:validation for field type
+msgid "Incorrect event type"
+msgstr ""
+
+#: Plugin/Billing/Model/BillingSubscription.php:validation for field active
+msgid "boolean"
+msgstr ""
+
+#: Plugin/Form/Model/FormField.php:validation for field key
+msgid "Неверный формат ключа. Пример: A1, B1, AA1, BB1"
+msgstr ""
+
+#: Plugin/Form/Model/FormField.php:validation for field formula
+msgid "Неверный формат формулы. Пример: A1 * 100. Допускаются занки + - * /"
+msgstr ""
+
+#: Plugin/Form/Model/FormField.php:validation for field sort_order
+msgid "Введите сортировку"
+msgstr ""
+
+#: Plugin/Queue/Model/CronTask.php:validation for field jobtype;validation for field name;validation for field title;validation for field failed;validation for field status
+#: /vagrant/konstruktor/Plugin/Tools/Model/CodeKey.php:validation for field type;validation for field key
+#: /vagrant/konstruktor/Plugin/Tools/Model/ContactForm.php:validation for field name;validation for field subject;validation for field message
+#: /vagrant/konstruktor/Plugin/Tools/Model/KeyValue.php:validation for field foreign_id;validation for field key
+#: /vagrant/konstruktor/Plugin/Tools/Model/Qlogin.php:validation for field url;validation for field user_id
+#: /vagrant/konstruktor/Plugin/Tools/Model/Qurl.php:validation for field key;validation for field url;validation for field used
+#: /vagrant/konstruktor/Plugin/Tools/Model/Token.php:validation for field type;validation for field key
+msgid "valErrMandatoryField"
+msgstr ""
+
+#: Plugin/Queue/Model/CronTask.php:validation for field name;validation for field title
+msgid "valErrRecordNameExists"
+msgstr ""
+
+#: Plugin/Queue/Model/CronTask.php:validation for field interval
+msgid "valErrInvalidRange"
+msgstr ""
+
+#: /vagrant/konstruktor/Plugin/Tools/Model/CodeKey.php:validation for field key
+#: /vagrant/konstruktor/Plugin/Tools/Model/Token.php:validation for field key
+msgid "valErrTokenExists"
+msgstr ""
+
+#: /vagrant/konstruktor/Plugin/Tools/Model/CodeKey.php:validation for field content
+#: /vagrant/konstruktor/Plugin/Tools/Model/Token.php:validation for field content
+msgid "valErrMaxCharacters %s"
+msgstr ""
+
+#: /vagrant/konstruktor/Plugin/Tools/Model/ContactForm.php:validation for field email
+msgid "valErrInvalidEmail"
+msgstr ""
+
+#: /vagrant/konstruktor/Plugin/Tools/Model/Qlogin.php:validation for field url
+msgid "valErrInvalidQloginUrl"
+msgstr ""
+
+#: /vagrant/konstruktor/Plugin/Tools/Model/Qurl.php:validation for field key
+msgid "valErrQurlKeyExists"
+msgstr ""
+
+#: /vagrant/konstruktor/Plugin/Tools/Model/Qurl.php:validation for field url
+msgid "valErrInvalidQurlUrl"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:16
+msgid "<warning>Konstruktor Service Shell</warning>"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:20
+#: Console/Command/SetupShell.php:30
+msgid "Your database configuration was not found in .env files."
+msgstr ""
+
+#: Console/Command/ServiceShell.php:37
+msgid "Cake Service Shell"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:41
+#: Console/Command/SetupShell.php:54
+msgid "Set db config <config>. Uses 'default' if none is specified."
+msgstr ""
+
+#: Console/Command/ServiceShell.php:43
+msgid "Update ratings for all users and groups"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:45
+msgid "Regenerate ratings for all users and groups"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:53
+msgid "<info>-- User ratings --</info>"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:57
+msgid "<info>- Max users karma %s</info>"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:70
+msgid "- User %s have rating %s"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:80
+msgid "<info>-- Group ratings --</info>"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:84
+msgid "<info>- Max groups karma %s</info>"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:97
+msgid "- Group %s have rating %s"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:148
+msgid "- Add non existin default group for user %s - %s - %s"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:174
+msgid "- Remove all %s contexted records"
+msgstr ""
+
+#: Console/Command/ServiceShell.php:182
+msgid "- Rating for %s with id %s"
+msgstr ""
+
+#: Console/Command/SetupShell.php:26
+msgid "<warning>Konstruktor Setup Shell</warning>"
+msgstr ""
+
+#: Console/Command/SetupShell.php:47
+msgid "Cake Setup Shell"
+msgstr ""
+
+#: Console/Command/SetupShell.php:56
+msgid "Update actions for Application or Plugin"
+msgstr ""
+
+#: Console/Command/SetupShell.php:69
+msgid "<info>-- Migration status in app --</info>"
+msgstr ""
+
+#: Console/Command/SetupShell.php:74
+msgid "<info>-- Application core database migrations --</info>"
+msgstr ""
+
+#: Console/Command/SetupShell.php:76
+msgid "<info>- Application core database updated</info>"
+msgstr ""
+
+#: Console/Command/SetupShell.php:84
+msgid "<info>-- %s plugin database migrations</info>"
+msgstr ""
+
+#: Console/Command/SetupShell.php:86
+msgid "<info>- %s plugin database updated</info>"
+msgstr ""
+
+#: Console/Command/SetupShell.php:90
+msgid "<info>-- Build static assets --</info>"
+msgstr ""
+
+#: Console/Command/SetupShell.php:93
+msgid "<warning>All done</warning>"
+msgstr ""
+
+#: Plugin/Queue/Console/Command/QueueShell.php:351
+msgid "..."
+msgstr ""
+
+#: Plugin/Queue/Console/Command/QueueShell.php:353
+msgid "Remove old jobs (cleanup)"
+msgstr ""
+
+#: Plugin/Queue/Console/Command/QueueShell.php:357
+msgid "Add Job"
+msgstr ""
+
+#: Plugin/Queue/Console/Command/QueueShell.php:361
+msgid "Install info"
+msgstr ""
+
+#: Plugin/Queue/Console/Command/QueueShell.php:365
+msgid "Uninstall info"
+msgstr ""
+
+#: Plugin/Queue/Console/Command/QueueShell.php:369
+msgid "Run Worker"
+msgstr ""
+
+#: Controller/InvestProjectController.php:67;237
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:204
+msgid "Invalid customer for checkout"
+msgstr ""
+
+#: Controller/InvestProjectController.php:248
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:126;223
+#: Plugin/Billing/Controller/BillingUserController.php:125
+msgid "Incorrect request type"
+msgstr ""
+
+#: Plugin/Billing/Config/bootstrap.php:10
+msgid "Bytes"
+msgstr ""
+
+#: Plugin/Billing/Config/bootstrap.php:24
+msgid "Proposals"
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingCallbackController.php:36
+msgid "%s Braintree webhook for subscription %s: %s"
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingGroupsController.php:33;54
+msgid "The billing group has been saved."
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingGroupsController.php:36;57
+msgid "The billing group could not be saved. Please, try again."
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingGroupsController.php:50
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:99;133
+#: Plugin/Billing/Controller/BillingUserController.php:111
+msgid "Invalid billing group"
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingGroupsController.php:85
+msgid "Group removal does not supported by system."
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingPlansController.php:38;61
+msgid "The billing plan has been saved."
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingPlansController.php:41;64
+msgid "The billing plan could not be saved. Please, try again."
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingPlansController.php:57
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:61;173;269
+msgid "Invalid billing plan"
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingPlansController.php:94
+msgid "Plan removal does not supported by system."
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:45
+msgid "Invalid billing subscription"
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:76
+msgid "The subscription has been canceled."
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:78
+msgid "The subscription could not be canceled. Please, try again."
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:152;197
+msgid "You can not subscribe to same plan twice while it is active"
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:187
+msgid "The subscription could not be downgraded. Please, try again later."
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:250;264;285
+#: Plugin/Billing/Controller/BillingUserController.php:153
+msgid "Unable to create subscription"
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:346;368
+msgid "Unable to subscribe on chosen plan. Please contact with resorce administration"
+msgstr ""
+
+#: Plugin/Billing/Controller/BillingSubscriptionsController.php:376
+msgid "Subscription can not be found"
+msgstr ""
+
+#: Plugin/Billing/View/BillingGroups/admin_add.ctp:3
+msgid "Add new Billing Group"
+msgstr ""
+
+#: Plugin/Billing/View/BillingGroups/admin_add.ctp:34
+#: Plugin/Billing/View/BillingGroups/admin_edit.ctp:36
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:50
+msgid "List Billing Groups"
+msgstr ""
+
+#: Plugin/Billing/View/BillingGroups/admin_edit.ctp:3
+msgid "Edit Billing Group"
+msgstr ""
+
+#: Plugin/Billing/View/BillingGroups/admin_index.ctp:3
+msgid "Billing Groups"
+msgstr ""
+
+#: Plugin/Billing/View/BillingGroups/admin_index.ctp:11
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:12
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:16
+#: Plugin/Queue/View/CronTasks/admin_index.ctp:12
+msgid "Actions"
+msgstr ""
+
+#: Plugin/Billing/View/BillingGroups/admin_index.ctp:30
+msgid "New Billing Group"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_add.ctp:3
+msgid "Add new Billing Plan"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_add.ctp:25
+#: Plugin/Billing/View/BillingPlans/admin_edit.ctp:35
+msgid "Basic free plan"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_add.ctp:40
+#: Plugin/Billing/View/BillingPlans/admin_edit.ctp:50
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:51
+msgid "List Billing Plans"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_edit.ctp:3
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:3
+msgid "Billing Plans"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_edit.ctp:28
+msgid "Limit plan to"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_edit.ctp:29
+msgid "2"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:10
+msgid "Remote Plans"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:11
+msgid "Is free"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:30
+#: Plugin/Billing/View/BillingSubscriptions/plans.ctp:39;58
+#: Plugin/Billing/View/Elements/subscriptions/free.ctp:3
+msgid "Free"
+msgstr ""
+
+#: Plugin/Billing/View/BillingPlans/admin_index.ctp:42
+msgid "New Billing Plan"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:9
+msgid "Remote ID"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:11
+msgid "Group > Plan (Remote plan)"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:39
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:163
+msgid "Are you sure you want to cancel # %s?"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_index.ctp:49
+msgid "List Users"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:3
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:62
+msgid "Subscription"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:9
+msgid "General Info"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:18
+msgid "Billing Group"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:25
+#: Plugin/Queue/View/CronTasks/admin_add.ctp:14
+#: Plugin/Queue/View/CronTasks/admin_edit.ctp:15
+msgid "Active"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:30
+msgid "Expiration"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:40
+msgid "Modified"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:52
+msgid "Braintree Subscription"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:56;86
+msgid "Subscription ID"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:60
+msgid "Current billing cycle"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:64
+msgid "Start date"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:68
+msgid "End date"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:72
+msgid "Next bill amount"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:83
+msgid "Braintree Plan"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:102
+msgid "Braintree Transactions"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:108
+msgid "Transactiond ID"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:110;141
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:64
+msgid "Date & Time"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:134
+msgid "Braintree Status History"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:140
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:63
+msgid "Source"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:162
+msgid "List Subscriptions"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/admin_view.ctp:163
+msgid "Cancel Subscription"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans.ctp:20;56
+msgid "current"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans_members.ctp:9
+msgid "Expand available members"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans_members.ctp:10
+msgid "1 user - 4$ per month"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans_members.ctp:12
+msgid "You are already subscribed to %d members"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans_members.ctp:21
+msgid "Members quantity"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans_proposals.ctp:9
+msgid "Expand available proposals to tasks"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans_proposals.ctp:10
+msgid "1 proposal - 1$ per month"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans_proposals.ctp:12
+msgid "You are already use %d proposals"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/plans_proposals.ctp:21
+msgid "Proposal quantity"
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/success.ctp:2
+msgid "You are not successfully subscribed."
+msgstr ""
+
+#: Plugin/Billing/View/BillingSubscriptions/success.ctp:4
+msgid "You are successfully subscribed."
+msgstr ""
+
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:12
+msgid "Transactions"
+msgstr ""
+
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:42
+msgid "Change"
+msgstr ""
+
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:53
+msgid "You are not subscribed to any subscription yet."
+msgstr ""
+
+#: Plugin/Billing/View/BillingUser/subscriptions.ctp:108
+msgid "There was no any transactions yet."
+msgstr ""
+
+#: Plugin/Billing/View/Elements/subscriptions/free.ctp:23
+msgid "Lifetime"
+msgstr ""
+
+#: Plugin/Billing/View/Elements/subscriptions/paid.ctp:4
+msgid "yearly"
+msgstr ""
+
+#: Plugin/Billing/View/Elements/subscriptions/paid.ctp:4
+msgid "monthly"
+msgstr ""
+
+#: Plugin/BraintreePayments/View/Elements/payments_form.ctp:12
+msgid "Saved payments"
+msgstr ""
+
+#: Plugin/BraintreePayments/View/Elements/payments_form.ctp:16
+msgid "Add card"
+msgstr ""
+
+#: Plugin/BraintreePayments/View/Elements/payments_form.ctp:19
+msgid "Add Paypal"
+msgstr ""
+
+#: Plugin/BraintreePayments/View/Elements/payments_form.ctp:56
+msgid "Card number"
+msgstr ""
+
+#: Plugin/BraintreePayments/View/Elements/payments_form.ctp:60
+msgid "CVV"
+msgstr ""
+
+#: Plugin/BraintreePayments/View/Elements/payments_form.ctp:64
+msgid "Card expiration date"
+msgstr ""
+
+#: Lib/Error/AppExceptionRenderer.php:111
+#: View/Errors/error500.ctp:9
+#: View/Errors/error501.ctp:9
+#: View/Errors/fatal_error.ctp:9
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: View/Errors/error400.ctp:7
+#: View/Errors/error403.ctp:7
+#: View/Errors/error404.ctp:7
+#: View/Errors/error405.ctp:7
+#: View/Errors/error500.ctp:8
+#: View/Errors/error501.ctp:8
+#: View/Errors/fatal_error.ctp:8
+#: Plugin/Queue/Controller/QueueController.php:51
+msgid "Error"
+msgstr ""
+
+#: View/Errors/error400.ctp:9
+#: View/Errors/error403.ctp:9
+#: View/Errors/error404.ctp:9
+#: View/Errors/error405.ctp:9
+msgid "The requested address %s was not found on this server."
+msgstr ""
+
+#: Lib/Model/CakeSchema.php:614
+#: Plugin/Migrations/Model/CakeSchema.php:614
+msgid "Schema generation error: invalid column type %s for %s.%s does not exist in DBO"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:20
+msgid "String"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:21
+msgid "Integer"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:22
+msgid "Float"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:24
+msgid "Datetime"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:25
+msgid "Textarea"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:26
+msgid "Checkbox"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:28
+msgid "Multi-select"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:30
+msgid "URL"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:31
+msgid "Upload file"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:32
+msgid "Editor"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:33
+msgid "Formula"
+msgstr ""
+
+#: Plugin/Media/View/Elements/edit.ctp:23
+msgid "Upload files..."
+msgstr ""
+
+#: Plugin/Media/View/Elements/edit.ctp:43
+msgid "Set as main"
+msgstr ""
+
+#: Plugin/Media/View/Elements/edit.ctp:45
+msgid "Are your sure to delete this record?"
+msgstr ""
+
+#: Plugin/Media/View/Elements/edit.ctp:47
+msgid "Original file"
+msgstr ""
+
+#: Plugin/Media/View/Elements/edit.ctp:48
+msgid "Uploaded"
+msgstr ""
+
+#: Plugin/Media/View/Elements/edit.ctp:49
+msgid "File name"
+msgstr ""
+
+#: Plugin/Media/View/Elements/edit.ctp:50
+msgid "File size"
+msgstr ""
+
+#: Plugin/Media/View/Elements/edit.ctp:52
+msgid "Resolution"
+msgstr ""
+
+#: Plugin/Media/View/Elements/edit.ctp:54
+msgid "Enlarge"
+msgstr ""
+
+#: Plugin/Media/View/Elements/edit.ctp:55
+msgid "Links"
+msgstr ""
+
+#: Plugin/Media/View/Elements/edit.ctp:58
+msgid "Original size"
+msgstr ""
+
+#: Plugin/Media/View/Elements/edit.ctp:60
+msgid "For editor"
+msgstr ""
+
+#: Plugin/Media/View/Elements/edit.ctp:63
+msgid "For download"
+msgstr ""
+
+#: Plugin/Media/View/Elements/edit.ctp:68
+msgid "Resize"
+msgstr ""
+
+#: Plugin/Media/View/Elements/edit.ctp:70
+msgid "Width"
+msgstr ""
+
+#: Plugin/Media/View/Elements/edit.ctp:70
+msgid "Height"
+msgstr ""
+
+#: Plugin/Media/View/Elements/edit.ctp:74
+msgid "Media URL"
+msgstr ""
+
+#: Plugin/Migrations/Config/Migration/002_convert_version_to_class_names.php:56
+msgid "Sorry, I can't downgrade. Why would you want that anyways?"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:77
+msgid "Cake Migration Shell"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:108
+msgid "Creating table \":table\"."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:109
+msgid "Dropping table \":table\"."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:110
+msgid "Renaming table \":old_name\" to \":new_name\"."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:111
+msgid "Adding field \":field\" to table \":table\"."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:112
+msgid "Dropping field \":field\" from table \":table\"."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:113
+msgid "Changing field \":field\" from table \":table\"."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:114
+msgid "Renaming field \":old_name\" to \":new_name\" on table \":table\"."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:115
+msgid "Adding index \":index\" to table \":table\"."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:116
+msgid "Dropping index \":index\" from table \":table\"."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:223
+msgid "No migrations available."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:253
+msgid "Running migrations:"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:265
+msgid "Migration will run dry, no database changes will be made"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:274
+msgid "All migrations have completed."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:292
+msgid "An error occurred when processing the migration:"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:293
+msgid "Migration: %s"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:294
+msgid "Error: %s"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:298
+msgid "Do you want to mark the migration as successful?. [y]es or [a]bort."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:354;374;401
+msgid "Not a valid migration version."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:382
+msgid "Please choose which version you want to migrate to. [q]uit or [c]lean."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:428
+msgid "Do you want to compare the schema.php file to the database?"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:433
+msgid "No database changes detected."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:439
+msgid "Do you want to generate a dump from the current database?"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:450
+msgid "Do you want to update the schema.php file?"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:467
+msgid "Comparing schema.php to the database..."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:487
+msgid "Generating migration from commandline arguments..."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:515;870
+msgid "Invalid argument"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:515
+msgid "Migration name (%s) is invalid. It cannot be used to generate a migration from the CLI."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:543
+msgid "Generating dump from the current database..."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:565
+msgid "Do you want to preview the file before generation?"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:575
+msgid "Generating Migration..."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:584
+msgid "Done."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:594
+msgid "Please enter the descriptive name of the migration to generate:"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:597
+msgid "Migration name (%s) is invalid. It must only contain alphanumeric characters and start with a letter."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:600
+msgid "Migration name (%s) is invalid. It cannot be longer than 255 characters."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:636
+msgid "Current version:"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:641
+msgid "None applied."
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:644
+msgid "Latest version:"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:668
+msgid "Current migration version:"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:673
+msgid "Available migrations:"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:679
+msgid "applied"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:681
+msgid "not applied"
+msgstr ""
+
+#: Plugin/Migrations/Console/Command/MigrationShell.php:870
+msgid "Missing required argument 'name' for migration"
+msgstr ""
+
+#: Plugin/Migrations/Lib/CakeMigration.php:204
+msgid "Migration precheck class (%s) could not be loaded."
+msgstr ""
+
+#: Plugin/Migrations/Lib/CakeMigration.php:212
+msgid "Migration precheck class (%s) is not a valid precheck class."
+msgstr ""
+
+#: Plugin/Migrations/Lib/CakeMigration.php:228
+msgid "Migration direction (%s) is not one of valid directions."
+msgstr ""
+
+#: Plugin/Migrations/Lib/CakeMigration.php:294
+#: Plugin/Migrations/Lib/Migration/PrecheckBase.php:113
+msgid "Migration action type (%s) is not one of valid actions type."
+msgstr ""
+
+#: Plugin/Migrations/Lib/CakeMigration.php:342;372;400;488;528
+msgid "SQL Error: %s"
+msgstr ""
+
+#: Plugin/Migrations/Lib/CakeMigration.php:566
+msgid "Interrupted when running \"%s\" callback."
+msgstr ""
+
+#: Plugin/Migrations/Lib/MigrationVersion.php:273
+msgid "Class `%1$s` not found on file `%2$s` for %3$s."
+msgstr ""
+
+#: Plugin/Migrations/Lib/MigrationVersion.php:410
+msgid "File `%1$s` not found in the %2$s."
+msgstr ""
+
+#: Plugin/Migrations/Lib/Migration/PrecheckException.php:26
+msgid "Table \"%s\" does not exist in database."
+msgstr ""
+
+#: Plugin/Migrations/Lib/Migration/PrecheckException.php:42
+msgid "Table \"%s\" already exists in database."
+msgstr ""
+
+#: Plugin/Migrations/Lib/Migration/PrecheckException.php:59
+msgid "Field \"%s\" does not exist in \"%s\"."
+msgstr ""
+
+#: Plugin/Migrations/Lib/Migration/PrecheckException.php:76
+msgid "Field \"%s\" already exists in \"%s\"."
+msgstr ""
+
+#: Plugin/Migrations/View/Elements/migrations_panel.ctp:12
+msgid "Migration Status"
+msgstr ""
+
+#: Plugin/Queue/Controller/CronTasksController.php:36;68;95;127;159;185
+msgid "invalid record"
+msgstr ""
+
+#: Plugin/Queue/Controller/CronTasksController.php:52;143
+msgid "record add %s saved"
+msgstr ""
+
+#: Plugin/Queue/Controller/CronTasksController.php:55;77;146;168
+msgid "formContainsErrors"
+msgstr ""
+
+#: Plugin/Queue/Controller/CronTasksController.php:74;165
+msgid "record edit %s saved"
+msgstr ""
+
+#: Plugin/Queue/Controller/CronTasksController.php:101;191
+msgid "record del %s done"
+msgstr ""
+
+#: Plugin/Queue/Controller/CronTasksController.php:104;194
+msgid "record del %s not done exception"
+msgstr ""
+
+#: Plugin/Queue/Model/CronTask.php:362
+msgid "Model (Method)"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_add.ctp:1;6
+#: Plugin/Queue/View/CronTasks/admin_index.ctp:67
+msgid "Add %s"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_add.ctp:1;6
+#: Plugin/Queue/View/CronTasks/admin_edit.ctp:1;6
+#: Plugin/Queue/View/CronTasks/admin_index.ctp:67
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:2;53;54
+msgid "Cron Task"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_add.ctp:18
+#: Plugin/Queue/View/CronTasks/admin_edit.ctp:18
+msgid "Submit"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_add.ctp:25
+#: Plugin/Queue/View/CronTasks/admin_edit.ctp:26
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:55
+msgid "List %s"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_add.ctp:25
+#: Plugin/Queue/View/CronTasks/admin_edit.ctp:26
+#: Plugin/Queue/View/CronTasks/admin_index.ctp:2
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:55
+msgid "Cron Tasks"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_edit.ctp:1;6
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:53
+msgid "Edit %s"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:6
+msgid "Jobtype"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:11
+msgid "Data"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:21
+msgid "Notbefore"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:26
+msgid "Completed"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:31
+msgid "Failed"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:36
+msgid "Failure Message"
+msgstr ""
+
+#: Plugin/Queue/View/CronTasks/admin_view.ctp:54
+msgid "Delete %s"
+msgstr ""
+
+#: Plugin/Queue/View/Queue/admin_index.ctp:2
+msgid "Queue"
+msgstr ""
+
+#: Plugin/Queue/View/Queue/admin_index.ctp:9
+msgid "Running"
+msgstr ""
+
+#: Plugin/Queue/View/Queue/admin_index.ctp:9
+msgid "Not running"
+msgstr ""
+
+#: Plugin/Queue/View/Queue/admin_index.ctp:9
+msgid "last %s"
+msgstr ""
+
+#: Plugin/Queue/View/Queue/admin_index.ctp:18
+msgid "Queued Tasks"
+msgstr ""
+
+#: Plugin/Queue/View/Queue/admin_index.ctp:81
+msgid "Reset %s"
+msgstr ""
+
+#: Plugin/Queue/View/Queue/admin_index.ctp:81
+msgid "Queue Tasks"
+msgstr ""
+
+#: Plugin/Queue/View/Queue/admin_index.ctp:81
+msgid "Sure? This will completely reset the queue."
+msgstr ""
+
+msgid "Product"
+msgstr  ""
+
+msgid "Idea"
+msgstr  ""
+
+msgid "Charity"
+msgstr  ""
+
+msgid "New Services"
+msgstr  ""

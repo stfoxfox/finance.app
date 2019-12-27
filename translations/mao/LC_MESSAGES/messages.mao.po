@@ -1,0 +1,3344 @@
+# Maori (Маори) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Maori (Маори) <support@konstruktor.com>\n"
+"Language: Maori (Маори)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "ingoa kaiwhakamahi"
+
+msgid "Invalid username or password, try again"
+msgstr "Ingoa kaiwhakamahi hē kupuhipa ranei . Whakamātauria ano ."
+
+msgid "Settings"
+msgstr "tautuhinga"
+
+msgid "Home"
+msgstr "home"
+
+msgid "You must log in to access this page"
+msgstr "Me takiuru koe i roto i ki te uru atu ki tēnei whārangi"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Kua tō wātū kua hemo . Tena , relogin ki te mahi i tenei mahi"
+
+msgid "Save"
+msgstr "Tiaki"
+
+msgid "Head Office"
+msgstr "Office Head"
+
+msgid "Address"
+msgstr "wāhitau"
+
+msgid "Back"
+msgstr "Hoki"
+
+msgid "Apply"
+msgstr "Anga atu"
+
+msgid "Upload files…"
+msgstr "Te tukuake kōnae ..."
+
+msgid "Set as main"
+msgstr "Tautuhi hei matua"
+
+msgid "Delete"
+msgstr "Mukua"
+
+msgid "Original image"
+msgstr "image taketake"
+
+msgid "Uploaded"
+msgstr "tukuake"
+
+msgid "File name"
+msgstr "te ingoa kōnae"
+
+msgid "File size"
+msgstr "rahi kōnae"
+
+msgid "Resolution"
+msgstr "Resolution"
+
+msgid "Enlarge"
+msgstr "rahi"
+
+msgid "Links"
+msgstr "Hononga"
+
+msgid "Original size"
+msgstr "rahi taketake"
+
+msgid "For editor"
+msgstr "No te ētita"
+
+msgid "Resize"
+msgstr "Huria te"
+
+msgid "Width"
+msgstr "Whānuitanga"
+
+msgid "Height"
+msgstr "Teitei"
+
+msgid "Media URL"
+msgstr "Media URL"
+
+msgid "Add record"
+msgstr "Tāpiri record"
+
+msgid "Show filter settings"
+msgstr "Tautuhinga Whakaatu tātari"
+
+msgid "Edit record"
+msgstr "Whakatika record"
+
+msgid "Delete record"
+msgstr "Mukua record"
+
+msgid "Delete checked records"
+msgstr "Mukua pūkete i takina"
+
+msgid "Dashboard"
+msgstr "Papatohu"
+
+msgid "Password"
+msgstr "Kupuhipa"
+
+msgid "Remember me"
+msgstr "Kia mahara mai ki ahau"
+
+msgid "Login"
+msgstr "takiuru"
+
+msgid "Clean image cache"
+msgstr "Image keteroki Clean"
+
+msgid "Processing query..."
+msgstr "Uiui Processing ..."
+
+msgid "CMS Development"
+msgstr "Development CMS"
+
+msgid "Admin Home Page"
+msgstr "Whakahaere Whārangi Kāinga"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Open whārangi Home o mua - mutunga i roto i te ripa hōu"
+
+msgid "Go to Site"
+msgstr "Haere ki Pae"
+
+msgid "Log out"
+msgstr "takiuru i roto i"
+
+msgid "Send"
+msgstr "Tukua"
+
+msgid "General"
+msgstr "General"
+
+msgid "Title"
+msgstr "taitara"
+
+msgid "Teaser"
+msgstr "teaser"
+
+msgid "Published"
+msgstr "whakaputaina"
+
+msgid "Featured"
+msgstr "ngā"
+
+msgid "Active"
+msgstr "hohe"
+
+msgid "Field is mandatory"
+msgstr "Field he āki"
+
+msgid "Sort Order"
+msgstr "Order Kōmaka"
+
+msgid "Upload"
+msgstr "Tukuatu"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "March"
+
+msgid "Apr"
+msgstr "April"
+
+msgid "May"
+msgstr "Haratua"
+
+msgid "Jun"
+msgstr "Pipiri"
+
+msgid "Jul"
+msgstr "Hōngongoi"
+
+msgid "Aug"
+msgstr "August"
+
+msgid "Sep"
+msgstr "Mahuru"
+
+msgid "Oct"
+msgstr "Oketopa"
+
+msgid "Nov"
+msgstr "Whiringa"
+
+msgid "Dec"
+msgstr "Hakihea"
+
+msgid "Product already exists in the order"
+msgstr "Te tīariari kē Hua i roto i te raupapa"
+
+msgid "Product does not exist"
+msgstr "Kāore i te tīariari Hua"
+
+msgid "Incorrect request"
+msgstr "tono hē"
+
+msgid "Products"
+msgstr "Products"
+
+msgid "Product types"
+msgstr "momo hua"
+
+msgid "Contractors"
+msgstr "kaikirimana"
+
+msgid "Contractor"
+msgstr "kaikirimana"
+
+msgid "Orders"
+msgstr "whakahau"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "raupapa New"
+
+msgid "My orders"
+msgstr "taku whakahau"
+
+msgid "Recharge balance"
+msgstr "recharge toenga"
+
+msgid "Administrator"
+msgstr "kaiwhakahaere"
+
+msgid "Incorrect event ID"
+msgstr "ID takahanga hē"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Whakatika kaikirimana"
+
+msgid "Create contractor"
+msgstr "Waihanga kaikirimana"
+
+msgid "Edit question"
+msgstr "Whakatika pātai"
+
+msgid "Create question"
+msgstr "Waihanga pātai"
+
+msgid "Edit order"
+msgstr "Whakatika kia"
+
+msgid "Create order"
+msgstr "Waihanga kia"
+
+msgid "Edit product"
+msgstr "Whakatika hua"
+
+msgid "Create product"
+msgstr "Waihanga hua"
+
+msgid "Edit product type"
+msgstr "Whakatika momo hua"
+
+msgid "Create product type"
+msgstr "Waihanga momo hua"
+
+msgid "You have received a file"
+msgstr "Kua riro e koe he kōnae"
+
+msgid "You received a file from"
+msgstr "Riro te kōnae koe i"
+
+msgid "File has been uploaded"
+msgstr "Kua Kōnae Kua tukuake"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "Minimal rahinga"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "tūemi"
+
+msgid "Remove"
+msgstr "Tangohia te"
+
+msgid "Contact person"
+msgstr "te tangata whakapā"
+
+msgid "Email"
+msgstr "īmēra"
+
+msgid "Contractor phone"
+msgstr "waea kaikirimana"
+
+msgid "Contractor name"
+msgstr "te ingoa kaikirimana"
+
+msgid "Contractor details"
+msgstr "taipitopito kaikirimana"
+
+msgid "Order ID"
+msgstr "Order ID"
+
+msgid "Sum"
+msgstr "moni"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Whiriwhiri i te pūnaha utu e tika ana ki te recharge tou toenga"
+
+msgid "Recharge amount"
+msgstr "nui recharge"
+
+msgid "Paid"
+msgstr "utua"
+
+msgid "Shipped"
+msgstr "tukuna"
+
+msgid "- No products in this order -"
+msgstr "- No hua i roto i tenei tikanga -"
+
+msgid "month"
+msgstr "marama"
+
+msgid "No user found"
+msgstr "Kāore i kitea he kaiwhakamahi"
+
+msgid "Achievement"
+msgstr "Paetae"
+
+msgid "Confirmed accomplishments"
+msgstr "ohipa whakapumautia"
+
+msgid "Remove achievement"
+msgstr "Tangohia te paetae"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "waea"
+
+msgid "Site URL and email"
+msgstr "Pae URL me te īmēra"
+
+msgid "Remove address"
+msgstr "Tangohia te wāhitau"
+
+msgid "Members"
+msgstr "te mau melo"
+
+msgid "Requires a payment"
+msgstr "Titau i te utu"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Ready"
+msgstr "rite"
+
+msgid "Find user..."
+msgstr "Kimihia kaiwhakamahi ..."
+
+msgid "Order it"
+msgstr "te tono i te reira"
+
+msgid "Find group..."
+msgstr "Kimihia rōpū ..."
+
+msgid "Find user or community..."
+msgstr "Kimihia kaiwhakamahi hapori ranei ..."
+
+msgid "No item found"
+msgstr "Kāore he tūemi i kitea"
+
+msgid "years"
+msgstr "tau"
+
+msgid "Send message"
+msgstr "Tukua karere"
+
+msgid "Message"
+msgstr "karere"
+
+msgid "To send message press Enter"
+msgstr "Ki te tuku press karere tomo"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Ki te tuku karere press CTRL + tomo"
+
+msgid "Processing file(s)..."
+msgstr "( S ) tukatuka kōnae ..."
+
+msgid "Group settings"
+msgstr "tautuhinga rōpū"
+
+msgid "Create group"
+msgstr "Waihanga rōpū"
+
+msgid "Group has been successfully saved"
+msgstr "Kua oti pai ora Rōpū"
+
+msgid "Group title"
+msgstr "taitara rōpū"
+
+msgid "Group video"
+msgstr "ataata rōpū"
+
+msgid "Description"
+msgstr "whakaahuatanga"
+
+msgid "Your role in group"
+msgstr "Tou tūranga i roto i te rōpū"
+
+msgid "Role"
+msgstr "tūnga"
+
+msgid "Photo or video gallery"
+msgstr "Taiwhanga whakaahua ataata ranei"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Tukuatu ataata"
+
+msgid "Add group address"
+msgstr "Tāpiri wāhitau rōpū"
+
+msgid "Group articles"
+msgstr "tuhinga rōpū"
+
+msgid "No addresses yet"
+msgstr "Kāore he wāhitau ano"
+
+msgid "Add group achievement"
+msgstr "Tāpiri paetae rōpū"
+
+msgid "No achivements yet"
+msgstr "Kāore he achivements ano"
+
+msgid "Are you sure to delete this user"
+msgstr "Ko koe mohio ki te muku i tēnei kaiwhakamahi"
+
+msgid "Add member"
+msgstr "Tāpiri mema"
+
+msgid "Are you sure to delete this record?"
+msgstr "Kei te tino ki te muku i tēnei record koe ?"
+
+msgid "Join this group"
+msgstr "Hono tenei rōpū"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "I tono tangata koutou fakaafe ki te kaiwhakahaere rōpū"
+
+msgid "All addresses"
+msgstr "wāhitau katoa"
+
+msgid "Collapse"
+msgstr "tiango"
+
+msgid "Achievements"
+msgstr "i tutuki"
+
+msgid "Show more"
+msgstr "Whakaaturia atu"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "Projects"
+msgstr "kaupapa"
+
+msgid "New project"
+msgstr "kaupapa New"
+
+msgid "Project has not been created yet"
+msgstr "E kore i te kaupapa i hanga ano"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "Balance"
+
+msgid "Main page"
+msgstr "whārangi matua"
+
+msgid "Upload image"
+msgstr "Tukuake image"
+
+msgid "My time"
+msgstr "toku taima"
+
+msgid "Day"
+msgstr "Day"
+
+msgid "Week"
+msgstr "te Wiki"
+
+msgid "Project settings"
+msgstr "tautuhinga kaupapa"
+
+msgid "Create project"
+msgstr "Waihanga kaupapa"
+
+msgid "Project has been successfully saved"
+msgstr "Kua oti pai ora Kaupapa"
+
+msgid "Project name"
+msgstr "ingoa kaupapa"
+
+msgid "Deadline"
+msgstr "kati"
+
+msgid "Close"
+msgstr "Katia"
+
+msgid "Manager"
+msgstr "Kaiwhakahaere"
+
+msgid "Assigned to"
+msgstr "vahe\'i ki"
+
+msgid "Discussion"
+msgstr "Aparauraa"
+
+msgid "Task was created"
+msgstr "I hanga Tūmahi"
+
+msgid "Task was closed"
+msgstr "I katia Tūmahi"
+
+msgid "Go to Group"
+msgstr "Haere ki te Rōpū"
+
+msgid "Closed"
+msgstr "katia"
+
+msgid "Last updates"
+msgstr "whakahōu whakamutunga"
+
+msgid "Project is closed"
+msgstr "Katia kaupapa"
+
+msgid "No open tasks"
+msgstr "Kāore he mahi tuwhera"
+
+msgid "New task"
+msgstr "mahi New"
+
+msgid "Closed tasks"
+msgstr "mahi kati"
+
+msgid "Add subproject"
+msgstr "Tāpiri subproject"
+
+msgid "Add task"
+msgstr "Tāpiri tūmahi"
+
+msgid "Sun"
+msgstr "Rātapu"
+
+msgid "Mon"
+msgstr "Rāhina"
+
+msgid "Tue"
+msgstr "Rātū"
+
+msgid "Wed"
+msgstr "Wenerei"
+
+msgid "Thur"
+msgstr "Rāpare"
+
+msgid "Fri"
+msgstr "Rāmere"
+
+msgid "Sat"
+msgstr "Rāhoroi"
+
+msgid "Event title"
+msgstr "taitara takahanga"
+
+msgid "Event description"
+msgstr "whakaahuatanga takahanga"
+
+msgid "I registered on this site"
+msgstr "Rēhita ahau i runga i tenei pae"
+
+msgid "Last created groups"
+msgstr "Last rōpū hanga"
+
+msgid "You joined this group as"
+msgstr "Piri koe tenei rōpū rite"
+
+msgid "You received a request to join the group"
+msgstr "Ua farii outou i te tono ki te uru atu i te rōpū"
+
+msgid "Updated site"
+msgstr "pae Whakahōu"
+
+msgid "Site is under construction"
+msgstr "Ko pae i raro i hanga"
+
+msgid "Last registered users"
+msgstr "Last kaiwhakamahi rēhita"
+
+msgid "User settings"
+msgstr "tautuhinga kaiwhakamahi"
+
+msgid "Technical support"
+msgstr "tautoko Hangarau"
+
+msgid "Change email"
+msgstr "Huri īmēra"
+
+msgid "Change password"
+msgstr "Huri kupuhipa"
+
+msgid "User has been successfully saved"
+msgstr "Kua oti pai ora Kaiwhakamahi"
+
+msgid "Full name"
+msgstr "ingoa katoa"
+
+msgid "My video"
+msgstr "toku ataata"
+
+msgid "Skills"
+msgstr "Skills"
+
+msgid "Birthday"
+msgstr "Birthday"
+
+msgid "Country of residence"
+msgstr "Whenua o te noho"
+
+msgid "Country"
+msgstr "whenua"
+
+msgid "Zip Code"
+msgstr "Waehere Poutāpeta"
+
+msgid "City/town of residence"
+msgstr "City / pa o te noho"
+
+msgid "University/college"
+msgstr "University / kāreti"
+
+msgid "University/college photo"
+msgstr "University / photo kāreti"
+
+msgid "Add user\'s accomplishments"
+msgstr "Tāpiri i rave o te kaiwhakamahi"
+
+msgid "Interface language"
+msgstr "reo Atanga"
+
+msgid "How other people see this page"
+msgstr "Kia pehea te kite i ētahi atu iwi i tenei whārangi"
+
+msgid "Video with me"
+msgstr "Video ki ahau"
+
+msgid "Groups"
+msgstr "Groups"
+
+msgid "Registered today"
+msgstr "rēhita tenei ra"
+
+msgid "Qty"
+msgstr "Qty"
+
+msgid "No registered users yet"
+msgstr "No kaiwhakamahi rēhita ano"
+
+msgid "Total"
+msgstr "Tapeke"
+
+msgid "Registered total"
+msgstr "katoa rēhita"
+
+msgid "You received a file"
+msgstr "Ua farii outou i te kōnae"
+
+msgid "You were invited into this room"
+msgstr "I karangatia e koe ki tenei ruma"
+
+msgid "Request is being processed"
+msgstr "Kei te tukatuka Tono"
+
+msgid "Fax"
+msgstr "Waea whakaahua"
+
+msgid "Messenger"
+msgstr "Messenger"
+
+msgid "New subproject"
+msgstr "subproject New"
+
+msgid "messages written."
+msgstr "tuhituhia karere ."
+
+msgid "projects created based on groups."
+msgstr "kaupapa e hāngai ana ka hangaia ki runga i ngā rōpū ."
+
+msgid "users registered on website."
+msgstr "kaiwhakamahi rēhita i runga i te paetukutuku ."
+
+msgid "New email"
+msgstr "īmēra New"
+
+msgid "Confirm email"
+msgstr "Whakaū īmēra"
+
+msgid "New password"
+msgstr "kupuhipa New"
+
+msgid "Confirm password"
+msgstr "Whakaū kupuhipa"
+
+msgid "Occupation"
+msgstr "Speciality"
+
+msgid "Timezone"
+msgstr "rohewā"
+
+msgid "Answer"
+msgstr "Whakautu"
+
+msgid "Articles"
+msgstr "Tefito"
+
+msgid "Article"
+msgstr "Tuhinga"
+
+msgid "Video-article"
+msgstr "Video - tuhinga"
+
+msgid "Find article..."
+msgstr "Kimihia tuhinga ..."
+
+msgid "Politics"
+msgstr "Politics"
+
+msgid "Economics"
+msgstr "Economics"
+
+msgid "Community"
+msgstr "hapori"
+
+msgid "Culture"
+msgstr "Culture"
+
+msgid "Sports"
+msgstr "Sports"
+
+msgid "Hi-tech"
+msgstr "Hi - tech"
+
+msgid "Cars"
+msgstr "cars"
+
+msgid "Fashion"
+msgstr "Fashion"
+
+msgid "Games"
+msgstr "Games"
+
+msgid "Other"
+msgstr "Ētahi atu"
+
+msgid "Invalid mediafile"
+msgstr "mediafile muhu"
+
+msgid "No articles in this category yet"
+msgstr "No ano tuhinga i roto i tēnei kāwai"
+
+msgid "Back to profile"
+msgstr "Hoki ki kōtaha"
+
+msgid "View article"
+msgstr "Tirohia tuhinga"
+
+msgid "Edit article"
+msgstr "Whakatika tuhinga"
+
+msgid "Create article"
+msgstr "Waihanga tuhinga"
+
+msgid "Article title"
+msgstr "taitara Tuhinga"
+
+msgid "Article section"
+msgstr "Tuhinga wāhanga"
+
+msgid "Choose image"
+msgstr "Kōwhiri image"
+
+msgid "Save and upload"
+msgstr "Tiaki me te tukuake"
+
+msgid "Show more..."
+msgstr "Whakaaturia mai ētahi atu ..."
+
+msgid "Create"
+msgstr "Waihanga"
+
+msgid "Edit"
+msgstr "Whakatika"
+
+msgid "Project"
+msgstr "kaupapa"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "A new article was published"
+msgstr "I whakaputaina te tuhinga hou"
+
+msgid "You joined this project"
+msgstr "Piri koe tenei kaupapa"
+
+msgid "Enter your information in the User settings"
+msgstr "E tomo koutou mōhiohio i roto i te tautuhinga Kaiwhakamahi"
+
+msgid "Communities"
+msgstr "hapori"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Video whakaaturanga o oku mau ohipa"
+
+msgid "My articles"
+msgstr "toku tuhinga"
+
+msgid "User"
+msgstr "kaiwhakamahi"
+
+msgid "Users"
+msgstr "Kaiwhakamahi"
+
+msgid "Add new list"
+msgstr "Tāpiri rārangi hōu"
+
+msgid "List title"
+msgstr "taitara Rārangi"
+
+msgid "Add"
+msgstr "Tāpiri"
+
+msgid "Add to favorites"
+msgstr "Tāpiri ki te makau"
+
+msgid "Delete from favorites"
+msgstr "Mukua mai i makau"
+
+msgid "Select list"
+msgstr "Tīpako rārangi"
+
+msgid "Subscriptions"
+msgstr "Ohaurunga"
+
+msgid "Subscribe"
+msgstr "Ohauru"
+
+msgid "Unsubscribe"
+msgstr "ohauru"
+
+msgid "General list"
+msgstr "rārangi Whānui"
+
+msgid "No users in this list"
+msgstr "Kāore he kaiwhakamahi i roto i tenei rārangi"
+
+msgid "Publish"
+msgstr "Whakaputa"
+
+msgid "Unpublish"
+msgstr "i tāngia"
+
+msgid "Add user"
+msgstr "Tāpiri kaiwhakamahi"
+
+msgid "Create document"
+msgstr "Waihanga tuhinga"
+
+msgid "Edit document"
+msgstr "Whakatika tuhinga"
+
+msgid "View"
+msgstr "Tirohia"
+
+msgid "Document title"
+msgstr "taitara tuhinga"
+
+msgid "Find document..."
+msgstr "Kimihia te tuhinga ..."
+
+msgid "Share your thoughts"
+msgstr "A faaite i to outou mau mana\'o"
+
+msgid "Leave your comment"
+msgstr "Waiho tou tākupu"
+
+msgid "Accept"
+msgstr "Manakohia"
+
+msgid "Decline"
+msgstr "Te paheketanga"
+
+msgid "Add article"
+msgstr "Tāpiri tuhinga"
+
+msgid "Link to verified accomplishments"
+msgstr "Hono ki lavame\'a aianei"
+
+msgid "No articles here yet..."
+msgstr "No tuhinga konei ano ..."
+
+msgid "Find file or folder..."
+msgstr "Kimihia te kōnae kōpaki ranei ..."
+
+msgid "Sort"
+msgstr "Kōmaka"
+
+msgid "By name"
+msgstr "Na ingoa"
+
+msgid "By date"
+msgstr "Na te rā"
+
+msgid "By updated date"
+msgstr "Na te rā whakahoutia"
+
+msgid "By size"
+msgstr "Na rahi"
+
+msgid "By type"
+msgstr "Na momo"
+
+msgid "Move"
+msgstr "Nuku"
+
+msgid "File Manager"
+msgstr "Kaiwhakahaere kōnae"
+
+msgid "Share link"
+msgstr "Share hono"
+
+msgid "Responsible"
+msgstr "kawenga"
+
+msgid "Performer"
+msgstr "kaihaka"
+
+msgid "New Folder"
+msgstr "Kōpaki Hōu"
+
+msgid "Folder name"
+msgstr "ingoa kōpaki"
+
+msgid "By default"
+msgstr "Na taunoa"
+
+msgid "Back to group"
+msgstr "Hoki ki rōpū"
+
+msgid "year(s)"
+msgstr "tau (s)"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "tanguru"
+
+msgid "March"
+msgstr "Maehe"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Haratua"
+
+msgid "June"
+msgstr "Pipiri"
+
+msgid "July"
+msgstr "Hōngongoi"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "Mahuru"
+
+msgid "October"
+msgstr "Oketopa"
+
+msgid "November"
+msgstr "Whiringa"
+
+msgid "December"
+msgstr "Hakihea"
+
+msgid "Password Reminder"
+msgstr "Whakamaumahara Kupuhipa"
+
+msgid "Log In"
+msgstr "takiuru I roto i"
+
+msgid "Sign in"
+msgstr "Waitohu i roto i"
+
+msgid "Register"
+msgstr "Rēhita"
+
+msgid "First name"
+msgstr "ingoa tuatahi"
+
+msgid "Last name"
+msgstr "ingoa Last"
+
+msgid "I agree with rules"
+msgstr "Whakaae ahau ki te ture"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "I tonoa te mēra haamauraa ki tō wāhitau īmēra."
+
+msgid "Thanks"
+msgstr "Ngā mihi"
+
+msgid "Password must be at least 6 characters"
+msgstr "Kia Kupuhipa i te iti rawa 6 pūāhua"
+
+msgid "Creative Environment"
+msgstr "Taiao Creative"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Me koe ki te kia i te iti rawa ma toru tau te pakeke ki te whakamahi i tēnei ratonga"
+
+msgid "Order status"
+msgstr "Order tūnga"
+
+msgid "Processing order"
+msgstr "tukatuka tikanga"
+
+msgid "Requires a payment"
+msgstr "E hiahiatia ana he utu"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Ready"
+msgstr "Reri"
+
+msgid "Thank you for your payment"
+msgstr "Mauruuru no to outou utu"
+
+msgid "Your payment has been cancelled"
+msgstr "Kua whakakorehia tō utu"
+
+msgid "page"
+msgstr "whārangi"
+
+msgid "Rent period"
+msgstr "wā Rent"
+
+msgid "Total, month"
+msgstr "Tapeke, marama"
+
+msgid "Order items"
+msgstr "Order tūemi"
+
+msgid "No records found"
+msgstr "Kāore he pūkete kitea"
+
+msgid "User with this email is already exist"
+msgstr "Kaiwhakamahi ki tenei īmēra ko te tīariari kē"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Kei te tīariari kē Kōpaki kōnae ranei ki taua ingoa i roto i te kōpaki ūnga"
+
+msgid "Minimal quantity"
+msgstr "Ititanga rahinga"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "kape tā"
+
+msgid "Terms of Use"
+msgstr "Ngā ritenga whakamahi"
+
+msgid "Privacy Policy"
+msgstr "Kaupapahere Tūmataiti"
+
+msgid "Find project..."
+msgstr "Kimihia kaupapa ..."
+
+msgid "New Project"
+msgstr "Kaupapa Hōu"
+
+msgid "Accounts"
+msgstr "pūkete"
+
+msgid "Operations"
+msgstr "Operations"
+
+msgid "All accounts"
+msgstr "katoa pūkete"
+
+msgid "All categories"
+msgstr "kāwai katoa"
+
+msgid "Expense"
+msgstr "Expense"
+
+msgid "Income"
+msgstr "Income"
+
+msgid "Transfer"
+msgstr "Whakawhiti"
+
+msgid "Expense"
+msgstr "Expense"
+
+msgid "income"
+msgstr "moni"
+
+msgid "tax"
+msgstr "tāke"
+
+msgid "percent"
+msgstr "ōrau"
+
+msgid "transfer"
+msgstr "whakawhiti"
+
+msgid "Make operation"
+msgstr "Hanga mahi"
+
+msgid "Select date"
+msgstr "Tīpako rā"
+
+msgid "Select account"
+msgstr "Tīpako pūkete"
+
+msgid "Month"
+msgstr "marama"
+
+msgid "Quarter"
+msgstr "hauwhā"
+
+msgid "Year"
+msgstr "tau"
+
+msgid "From"
+msgstr "Mai"
+
+msgid "To"
+msgstr "ki"
+
+msgid "Expense amount"
+msgstr "nui Expense"
+
+msgid "Categories"
+msgstr "Ngā Kāwai"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "Income amount"
+msgstr "nui Income"
+
+msgid "Transfer amount"
+msgstr "nui Whakawhiti"
+
+msgid "From account"
+msgstr "Mai i pūkete"
+
+msgid "To account"
+msgstr "Hei whakaaro"
+
+msgid "New Account"
+msgstr "Pūkete Hōu"
+
+msgid "New Category"
+msgstr "Kāwai Hōu"
+
+msgid "All"
+msgstr "katoa"
+
+msgid "Name"
+msgstr "ingoa"
+
+msgid "Enter category name"
+msgstr "Tomo ingoa kāwai"
+
+msgid "Select type"
+msgstr "Tīpakohia te momo"
+
+msgid "Credit card"
+msgstr "kāri nama"
+
+msgid "Debit card"
+msgstr "kāri nama"
+
+msgid "Bank account"
+msgstr "pūkete Bank"
+
+msgid "Cash"
+msgstr "ukauka"
+
+msgid "Balance is empty"
+msgstr "Ko kau Balance"
+
+msgid "Statistic is empty"
+msgstr "Ko kau tauanga"
+
+msgid "Regular payments"
+msgstr "ritenoa utu"
+
+msgid "Are you sure ?"
+msgstr "Kei te tino koe ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Kei te tino ki te kātia tēnei kaupapa koutou ?"
+
+msgid "Project was deleted successfully"
+msgstr "Mukua Kaupapa I momoho te"
+
+msgid "Select currency"
+msgstr "Tīpako moni"
+
+msgid "Account"
+msgstr "pūkete"
+
+msgid "Orders list"
+msgstr "rārangi ota"
+
+msgid "Order payments"
+msgstr "utu Order"
+
+msgid "View order"
+msgstr "Tirohia te tikanga"
+
+msgid "No response from Printer API"
+msgstr "No whakautu i te API Pūreretā"
+
+msgid "Bad response from Printer API"
+msgstr "Whakautu kino i API Pūreretā"
+
+msgid "User ID"
+msgstr "ID kaiwhakamahi"
+
+msgid "Contact Person"
+msgstr "Tangata Whakapā"
+
+msgid "No orders to process"
+msgstr "No whakahau ki te tukatuka"
+
+msgid "Article announce image"
+msgstr "Tuhinga kauwhau image"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Url ataata muhu . Waiho pātea kōkuhu url youtube tika ranei"
+
+msgid "Please, enter Contractor data"
+msgstr "Tena , e tomo raraunga Kaikirimana"
+
+msgid "Distribute devices"
+msgstr "Tohaina ngā pūrere"
+
+msgid "Quantity"
+msgstr "Rahi"
+
+msgid "Devices left"
+msgstr "pūrere mahue"
+
+msgid "Distributed devices"
+msgstr "pūrere Tūaritia"
+
+msgid "You must enter quantity"
+msgstr "Me tāuru rahinga"
+
+msgid "All devices are distributed"
+msgstr "Kua tohaina ngā pūrere katoa"
+
+msgid "IP address"
+msgstr "wāhitau IP"
+
+msgid "Only for printer"
+msgstr "No te pūreretā anake"
+
+msgid "Counter"
+msgstr "Kaitatau"
+
+msgid "You was excluded from this room"
+msgstr "I waho koe i tenei ruma"
+
+msgid "Compare"
+msgstr "Whakatauritea"
+
+msgid "Scheduled transaction"
+msgstr "tauwhitinga Hōtaka"
+
+msgid "Select transfer account"
+msgstr "Tīpako pūkete whakawhiti"
+
+msgid "Select income account"
+msgstr "Tīpako pūkete moni"
+
+msgid "Reports"
+msgstr "pūrongo"
+
+msgid "Goals"
+msgstr "whāinga"
+
+msgid "Budgets"
+msgstr "pūtea"
+
+msgid "Enter user name or email..."
+msgstr "Tomo ingoa kaiwhakamahi īmēra rānei ..."
+
+msgid "Invite had been sended"
+msgstr "A ani i sended"
+
+msgid "Statistics"
+msgstr "Tatauranga"
+
+msgid "Updated site began to work"
+msgstr "Ka anga pae Whakahōutia ki te mahi"
+
+msgid "City of residence"
+msgstr "City o te noho"
+
+msgid "Edit favourites list"
+msgstr "Rārangi Whakatika makau"
+
+msgid "Add favourites list"
+msgstr "Tāpiri rārangi makau"
+
+msgid "Categories is required"
+msgstr "Hiahiatia Kāwai te"
+
+msgid "Type new category name and hit Enter"
+msgstr "Patohia te ingoa kāwai hou , me te patua tomo"
+
+msgid "You created an order"
+msgstr "I hanga e koe he tikanga"
+
+msgid "You received a device due to this order"
+msgstr "Ua farii outou i te pūrere e tika ana ki tenei tikanga"
+
+msgid "%s attached %s to task %s"
+msgstr "%s piri %s ki te kaihomai %s"
+
+msgid "member(s)"
+msgstr "mema ( s )"
+
+msgid "%s commented task %s"
+msgstr "%s mahi kōrero %s"
+
+msgid "%s closed task %s"
+msgstr "%s mahi kati %s"
+
+msgid "%s created task %s"
+msgstr "%s mahi hanga %s"
+
+msgid "%s created this project"
+msgstr "%s hanga tenei kaupapa"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s subproject hanga \" %s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s kati kaupapa \" %s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s kati subproject \" %s \""
+
+msgid "This field must not be blank"
+msgstr "E kore kia pātea tēnei mara"
+
+msgid "Document with such name is already exist"
+msgstr "Tuhinga ki taua ingoa ko te tīariari kē"
+
+msgid "Wait until image upload"
+msgstr "Tatari tae noa image tukuake"
+
+msgid "Video"
+msgstr "Ataata"
+
+msgid "Message can not be empty"
+msgstr "E kore e taea e Karere e kau"
+
+msgid "Yes"
+msgstr "Ae"
+
+msgid "No"
+msgstr "No"
+
+msgid "Created"
+msgstr "I waihangatia"
+
+msgid "Compare is empty"
+msgstr "Whakatauritea he kau"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Kei te tino hiahia koe ki te muku mahi"
+
+msgid "Do you really want to delete transaction"
+msgstr "E te tino hiahia koe ki te muku tauwhitinga"
+
+msgid "Project with same name already exists"
+msgstr "Tīari kē Kaupapa ki taua ingoa"
+
+msgid "Account is not found"
+msgstr "E kore te Pūkete i kitea"
+
+msgid "Currency is required"
+msgstr "Hiahiatia Moni te"
+
+msgid "error while deleting document"
+msgstr "hapa te muku te tuhinga"
+
+msgid "Expences"
+msgstr "utu i"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Karangatia koe kaiwhakamahi \" %s \" i roto i tenei ruma"
+
+msgid "User \"%s\" joined this room"
+msgstr "Kaiwhakamahi piri \" %s \" tenei ruma"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Waho e koe kaiwhakamahi \" %s \" i tenei ruma"
+
+msgid "User \"%s\" left this room"
+msgstr "Kaiwhakamahi \" %s \" mahue tenei ruma"
+
+msgid "Add account"
+msgstr "Tāpiri pūkete"
+
+msgid "The requested page is not found"
+msgstr "E kore kua kitea te whārangi tonoa"
+
+msgid "Document"
+msgstr "tuhinga"
+
+msgid "Table"
+msgstr "Ripanga"
+
+msgid "file(s)"
+msgstr "( s ) kōnae"
+
+msgid "Residue"
+msgstr "toenga"
+
+msgid "Result is empty"
+msgstr "Ko kau Hua"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Ko te tapeke ko te %s mō te %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "E koe ki te putunga marama %s ki te pūkete e hāngai ana"
+
+msgid "Start"
+msgstr "Tīmata"
+
+msgid "finish"
+msgstr "mutu"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Kei te whakamahia kētia pūkete tīpakohia mo tetahi atu whāinga"
+
+msgid "Amount required"
+msgstr "Te nui e hiahiatia ana"
+
+msgid "New goal"
+msgstr "whāinga New"
+
+msgid "Goal"
+msgstr "whāinga"
+
+msgid "Goal name"
+msgstr "ingoa whāinga"
+
+msgid "Invalid date"
+msgstr "rā muhu"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Me waiho moni e tika ana te maha pai"
+
+msgid "Remain"
+msgstr "noho"
+
+msgid "Last day"
+msgstr "ra whakamutunga"
+
+msgid "Accumulated"
+msgstr "Whakaeminga"
+
+msgid "Put aside"
+msgstr "Hoatu peka"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "tanguru"
+
+msgid "March"
+msgstr "Maehe"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Haratua"
+
+msgid "June"
+msgstr "Pipiri"
+
+msgid "July"
+msgstr "Hōngongoi"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "Mahuru"
+
+msgid "October"
+msgstr "Oketopa"
+
+msgid "November"
+msgstr "Whiringa"
+
+msgid "December"
+msgstr "Hakihea"
+
+msgid "Expenses projected/actual"
+msgstr "Whakapaunga matapae / tūturu"
+
+msgid "Net Income projected/actual"
+msgstr "Income Net matapae / tūturu"
+
+msgid "New budget"
+msgstr "pūtea New"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Tūtohi Revenue me Expenses"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Tīari kē Pūtea ki taua rua o te pūkete , me te kāwai"
+
+msgid "Budget is empty"
+msgstr "Ko kau Pūtea"
+
+msgid "Budget"
+msgstr "pūtea"
+
+msgid "plan"
+msgstr "mahere"
+
+msgid "fact"
+msgstr "meka"
+
+msgid "diff"
+msgstr "Rerekē"
+
+msgid "Show More"
+msgstr "Whakaaturia atu"
+
+msgid "Cancel"
+msgstr "Whakakore"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "toku hoko"
+
+msgid "Time spent"
+msgstr "Wā pau"
+
+msgid "Total time spent"
+msgstr "Wā Tapeke pau"
+
+msgid "Earnings per hour"
+msgstr "Moni ia haora"
+
+msgid "Total earnings"
+msgstr "moni Tapeke"
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Phone call"
+msgstr "karanga waea"
+
+msgid "Telephone calls"
+msgstr "waea"
+
+msgid "Send email"
+msgstr "Tukua email"
+
+msgid "Emails"
+msgstr "īmēra"
+
+msgid "Meeting"
+msgstr "Hui"
+
+msgid "Meetings"
+msgstr "Fakataha"
+
+msgid "All events"
+msgstr "takahanga katoa"
+
+msgid "Task"
+msgstr "Tūmahi"
+
+msgid "Event"
+msgstr "takahanga"
+
+msgid "Events"
+msgstr "Takahanga"
+
+msgid "Time"
+msgstr "Wā"
+
+msgid "Events statistics"
+msgstr "Takahanga tatauranga"
+
+msgid "days"
+msgstr "ra"
+
+msgid "hours"
+msgstr "haora"
+
+msgid "minutes"
+msgstr "meneti"
+
+msgid "Income & expense"
+msgstr "Income & utu"
+
+msgid "Show chart"
+msgstr "Whakaatu rā"
+
+msgid "Hide chart"
+msgstr "Huna rā"
+
+msgid "Add event"
+msgstr "Tāpiri takahanga"
+
+msgid "Add financial data"
+msgstr "Tāpiri raraunga pūtea"
+
+msgid "Select contractor"
+msgstr "Tīpako kaikirimana"
+
+msgid "Net Income"
+msgstr "Income Net"
+
+msgid "Revenue"
+msgstr "Revenue"
+
+msgid "Taxes"
+msgstr "takoha"
+
+msgid "Amount planned"
+msgstr "Te nui whakamaheretia"
+
+msgid "Amount"
+msgstr "Te nui"
+
+msgid "Period"
+msgstr "wā"
+
+msgid "Are you sure to close this task?"
+msgstr "Kei te tino ki te kati i tēnei mahi koe ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "rōpū katoa"
+
+msgid "added from task"
+msgstr "tapiritia i mahi"
+
+msgid "Monthly repeat"
+msgstr "tukurua Marama"
+
+msgid "Select category"
+msgstr "Tīpako kāwai"
+
+msgid "Event type"
+msgstr "momo takahanga"
+
+msgid "Margin"
+msgstr "Tawhē"
+
+msgid "Use finance project"
+msgstr "Whakamahia kaupapa pūtea"
+
+msgid "New investment project"
+msgstr "Kaupapa haumi New"
+
+msgid "Investment project settings"
+msgstr "Tautuhinga kaupapa Investment"
+
+msgid "Picture, for the announcement project"
+msgstr "Pikitia , mo te kaupapa faaararaa"
+
+msgid "Announcement project"
+msgstr "kaupapa Pānuitanga"
+
+msgid "Video"
+msgstr "Ataata"
+
+msgid "Photos or videos gallery"
+msgstr "Photos ataata ranei taiwhanga"
+
+msgid "required amount"
+msgstr "nui e hiahiatia ana"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Roanga Project ( 60 ra mōrahi )"
+
+msgid "Project duration"
+msgstr "roanga kaupapa"
+
+msgid "Add reward"
+msgstr "Tāpiri utu"
+
+msgid "Delivery date"
+msgstr "rā Tukunga"
+
+msgid "Payment systems"
+msgstr "pūnaha utu"
+
+msgid "Terms of service"
+msgstr "Ngā o te mahi"
+
+msgid "Agreement"
+msgstr "Whakaaetanga"
+
+msgid "Payment"
+msgstr "utu"
+
+msgid "My projects"
+msgstr "toku kaupapa"
+
+msgid "Search result"
+msgstr "Kua kitea ngā huanga rapu"
+
+msgid "Nothing not found"
+msgstr "Kahore e kore i kitea"
+
+msgid "The project has no sponsors"
+msgstr "Kahore he kaitautoko te kaupapa"
+
+msgid "Design"
+msgstr "hoahoa"
+
+msgid "Food"
+msgstr "kai"
+
+msgid "Journalism"
+msgstr "nūpepa"
+
+msgid "Games"
+msgstr "Games"
+
+msgid "Art"
+msgstr "Art"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "Music"
+
+msgid "Handicrafts"
+msgstr "Handicrafts"
+
+msgid "Publishing"
+msgstr "whakaputa"
+
+msgid "Theater"
+msgstr "Pikitia"
+
+msgid "Technology"
+msgstr "hangarau"
+
+msgid "Film/Video"
+msgstr "Film / Ataata"
+
+msgid "Photo"
+msgstr "Whakaahua"
+
+msgid "Dance"
+msgstr "kanikani"
+
+msgid "Invalid youtube video"
+msgstr "Ataata youtube muhu"
+
+msgid "is required"
+msgstr "kei te hiahiatia"
+
+msgid "User"
+msgstr "kaiwhakamahi"
+
+msgid "Date"
+msgstr "rā"
+
+msgid "Collected"
+msgstr "kohia"
+
+msgid "Choose period"
+msgstr "Kōwhiri wā"
+
+msgid "Choose region"
+msgstr "Kōwhiri rohe"
+
+msgid "Country"
+msgstr "whenua"
+
+msgid "Today"
+msgstr "I teie mahana"
+
+msgid "Week"
+msgstr "Wiki"
+
+msgid "Month"
+msgstr "marama"
+
+msgid "Year"
+msgstr "tau"
+
+msgid "Free registration"
+msgstr "rēhita Free"
+
+msgid "Join"
+msgstr "Hono"
+
+msgid "Log in using"
+msgstr "Takiuru i roto i te whakamahi i"
+
+msgid "Vacancies"
+msgstr "whai wāhitanga mahi"
+
+msgid "About Us"
+msgstr "Mō Us"
+
+msgid "You will need email to log in"
+msgstr "Ka Me koe īmēra ki te takiuru i roto i"
+
+msgid "A combination of 6 digits and characters"
+msgstr "He huinga o 6 mati me pūāhua"
+
+msgid "Search users, groups, articles..."
+msgstr "Rapu kaiwhakamahi , rōpū , oko ..."
+
+msgid "Cloud"
+msgstr "kapua"
+
+msgid "Sunday"
+msgstr "Rātapu"
+
+msgid "Monday"
+msgstr "Rāhina"
+
+msgid "Tuesday"
+msgstr "Rātū"
+
+msgid "Wednesday"
+msgstr "Wenerei"
+
+msgid "Thursday"
+msgstr "Rāpare"
+
+msgid "Friday"
+msgstr "Rāmere"
+
+msgid "Saturday"
+msgstr "Rāhoroi"
+
+msgid "Edit"
+msgstr "Whakatika"
+
+msgid "Create group"
+msgstr "Waihanga rōpū"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "E tino hiahia ana koe ki te waiho i tēnei whārangi ?"
+
+msgid "More"
+msgstr "Ētahi atu"
+
+msgid "Less"
+msgstr "Iti"
+
+msgid "Pending"
+msgstr "Tārewa"
+
+msgid "Approved"
+msgstr "I whakaaetia i"
+
+msgid "Rejected"
+msgstr "paopao"
+
+msgid "Subprojects"
+msgstr "Subprojects"
+
+msgid "Group edit"
+msgstr "whakatika rōpū"
+
+msgid "Startup"
+msgstr "whakaoho"
+
+msgid "Tattoo"
+msgstr "Tattoo"
+
+msgid "Health"
+msgstr "Hauora"
+
+msgid "Weapon"
+msgstr "Weapon"
+
+msgid "Astronomy"
+msgstr "Astronomy"
+
+msgid "All articles"
+msgstr "tuhinga katoa"
+
+msgid "Article editor"
+msgstr "Tuhinga ētita"
+
+msgid "Document editor"
+msgstr "ētita tuhinga"
+
+msgid "Apply changes"
+msgstr "Hoatu ngā huringa"
+
+msgid "Save changes?"
+msgstr "Tiakina ngā huringa ?"
+
+msgid "published an article"
+msgstr "whakaputaina he tuhinga"
+
+msgid "Users"
+msgstr "Kaiwhakamahi"
+
+msgid "Shared With Me"
+msgstr "Tiritiri Ki ahau"
+
+msgid "share"
+msgstr "wahi"
+
+msgid "Select Group Responsible"
+msgstr "Tīpakohia Rōpū Kawenga"
+
+msgid "Create folder"
+msgstr "Waihanga kōpaki"
+
+msgid "Title must be at least 3 characters"
+msgstr "Kia taitara i te iti rawa 3 pūāhua"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Free 10 GB , kaiwhakahaere pūtea , haumi kōwae , me te maha atu mō te kore utu , me te ake"
+
+msgid "Best regards"
+msgstr "pā Best"
+
+msgid "Updates in last 12 hours:"
+msgstr "Updates i roto i te whakamutunga 12 haora :"
+
+msgid "expense"
+msgstr "utu"
+
+msgid "Commentary on the event:"
+msgstr "Kōrero i runga i te hui :"
+
+msgid "Event place"
+msgstr "wahi takahanga"
+
+msgid "Project was updated"
+msgstr "Whakahoutia Kaupapa I"
+
+msgid "Project was created"
+msgstr "I hanga Kaupapa"
+
+msgid "Project was closed"
+msgstr "Katia Kaupapa I"
+
+msgid "account"
+msgstr "pūkete"
+
+msgid "removed task"
+msgstr "mahi tangohia"
+
+msgid "removed subproject"
+msgstr "subproject tangohia"
+
+msgid "Title can not be empty"
+msgstr "E kore e taea e Taitara e kau"
+
+msgid "Do not select the type of event"
+msgstr "Kaua e tīpako i te momo o te hui"
+
+msgid "Error while saving comment"
+msgstr "Hapa i te tiakinga kōrero"
+
+msgid "Save error: access denied"
+msgstr "Hapa Tiaki : whakakahore uru"
+
+msgid "Remains"
+msgstr "toenga"
+
+msgid "Time spent, h."
+msgstr "Pau Time , h ."
+
+msgid "Emails"
+msgstr "īmēra"
+
+msgid "Meetings"
+msgstr "Fakataha"
+
+msgid "All users"
+msgstr "kaiwhakamahi katoa"
+
+msgid "Category"
+msgstr "kāwai"
+
+msgid "Finance project"
+msgstr "kaupapa Finance"
+
+msgid "Investment project"
+msgstr "kaupapa Investment"
+
+msgid "Nature"
+msgstr "Nature"
+
+msgid "Data is empty"
+msgstr "Ko kau Raraunga"
+
+msgid "Visitors"
+msgstr "manuhiri"
+
+msgid "My profile"
+msgstr "toku kōtaha"
+
+msgid "Sponsors"
+msgstr "Kaitautoko"
+
+msgid "Prior to completion"
+msgstr "I mua ki te otinga"
+
+msgid "Select"
+msgstr "Tīpakohia"
+
+msgid "My groups"
+msgstr "toku rōpū"
+
+msgid "The invitation has been sent successfully"
+msgstr "Kua te aniraa i tonoa pai te"
+
+msgid "Username has already been invited to this project"
+msgstr "Kua Kaiwhakamahi kua karangatia ki tenei kaupapa"
+
+msgid "The user is the creator of the project"
+msgstr "Ko te kaiwhakamahi te kaihanga o te kaupapa"
+
+msgid "Provide full access"
+msgstr "Whakarato whai wāhi tonu"
+
+msgid "Select elements to provide access"
+msgstr "Tīpakohia huānga ki te whakarato i te uru"
+
+msgid "Select all"
+msgstr "Tīpakohia katoa"
+
+msgid "User E-mail"
+msgstr "Kaiwhakamahi Ī-mēra"
+
+msgid "Click on the field to select a category"
+msgstr "Pāwhiritia ki runga ki te parae ki te tīpako i tētahi kāwai"
+
+msgid "Invitation was deleted"
+msgstr "Mukua Fakaafe I"
+
+msgid "Permission denied"
+msgstr "whakakahore whakaaetanga"
+
+msgid "Printed"
+msgstr "Nene\'ihia"
+
+msgid "Incorrect Contractor email"
+msgstr "Hē īmēra Kaikirimana"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "E hiahia ana koe ki te tāpiri kaupapa ki te moni kaiwhakahaere ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Hei whakaoti i te tukanga rēhita whakakiia iho tēnā koutou pūkenga"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "He mēra ki anō tohutohu i tonoa ki tō wāhitau īmēra"
+
+msgid "Submit"
+msgstr "tuku"
+
+msgid "Cars"
+msgstr "cars"
+
+msgid "Science"
+msgstr "Pūtaiao"
+
+msgid "Donation"
+msgstr "takoha"
+
+msgid "Interests"
+msgstr "Paanga"
+
+msgid "Driver"
+msgstr "atekōkiri"
+
+msgid "Sportsman"
+msgstr "tākaro"
+
+msgid "Businessman"
+msgstr "kaipakihi"
+
+msgid "Accountant"
+msgstr "kaikaute"
+
+msgid "Engineer"
+msgstr "Engineer"
+
+msgid "Soldier"
+msgstr "Soldier"
+
+msgid "Next"
+msgstr "Tō muri mai"
+
+msgid "Hide group"
+msgstr "Huna rōpū"
+
+msgid "groups created"
+msgstr "rōpū hanga"
+
+msgid "articles written"
+msgstr "tuhinga tuhituhia"
+
+msgid "These groups may be interesting for you"
+msgstr "Kia ēnei rōpū ngā mo koutou"
+
+msgid "About Group"
+msgstr "Mō Rōpū"
+
+msgid "view(s)"
+msgstr "Tiro ( s )"
+
+msgid "Favorite users"
+msgstr "kaiwhakamahi makau"
+
+msgid "No accounts"
+msgstr "Kāore he pūkete"
+
+msgid "Facebook authorization failed."
+msgstr "I rahua te Facebook whakamanatanga ."
+
+msgid "Authorization Required"
+msgstr "whakamanatanga e hiahiatia ana"
+
+msgid "You have to make a call:"
+msgstr "E koe ki te hanga i te karanga :"
+
+msgid "You have to send an email:"
+msgstr "E koe ki te tuku i tētahi īmēra :"
+
+msgid "You have a meetup:"
+msgstr "E koe i te Meetup :"
+
+msgid "You event :"
+msgstr "E koe te takahanga :"
+
+msgid "Participants:"
+msgstr "kaiuru :"
+
+msgid "Search"
+msgstr "Rapu"
+
+msgid "News"
+msgstr "News"
+
+msgid "Investments"
+msgstr "Investments"
+
+msgid "Back to Cloud"
+msgstr "Hoki ki Kapua"
+
+msgid "Documents"
+msgstr "tuhinga"
+
+msgid "Planet"
+msgstr "Planet"
+
+msgid "Group url"
+msgstr "url rōpū"
+
+msgid "Profile url"
+msgstr "url Profile"
+
+msgid "Already taken"
+msgstr "kua tangohia"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "I te iti rawa 1 pukapuka , me te 3 pūāhua te roa e hiahiatia ana"
+
+msgid "Digit can not be the first character"
+msgstr "E kore e taea e Digit e te pūāhua tuatahi"
+
+msgid "Enter valid email address"
+msgstr "Tomo wāhitau īmēra tika"
+
+msgid "Enter your skills"
+msgstr "E tomo koutou pūkenga"
+
+msgid "Enter your first name"
+msgstr "E tomo tou ingoa tuatahi"
+
+msgid "Enter your last name"
+msgstr "E tomo tou ingoa whakamutunga"
+
+msgid "Enter your first name and last name"
+msgstr "E tomo tou ingoa tuatahi me te ingoa whakamutunga"
+
+msgid "Your first name?"
+msgstr "Tou ingoa tuatahi ?"
+
+msgid "Your last name?"
+msgstr "Tou ingoa whakamutunga ?"
+
+msgid "What are your proficiencies?"
+msgstr "He aha koutou mātau ?"
+
+msgid "Select country"
+msgstr "Tīpako whenua"
+
+msgid "Select user"
+msgstr "Tīpako kaiwhakamahi"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Whakapumautia tau moe ! Waihanga me te mahi ."
+
+msgid "date moved from"
+msgstr "neke rā i"
+
+msgid "work"
+msgstr "mahi"
+
+msgid "Conference"
+msgstr "Conference"
+
+msgid "personal"
+msgstr "whaiaro"
+
+msgid "Holiday"
+msgstr "hararei"
+
+msgid "Past"
+msgstr "Past"
+
+msgid "Future"
+msgstr "Future"
+
+msgid "Purchase"
+msgstr "Hoko"
+
+msgid "Personal events"
+msgstr "Ngā Private"
+
+msgid "Conferences"
+msgstr "Hui"
+
+msgid "Holidays"
+msgstr "Hararei"
+
+msgid "Sport events"
+msgstr "Sports ngā"
+
+msgid "Tasks"
+msgstr "Tūmahi"
+
+msgid "Other events"
+msgstr "Ētahi atu ngā"
+
+msgid "Set aside"
+msgstr "Kaupōai"
+
+msgid "Set aside"
+msgstr "Tautuku"
+
+msgid "Time management"
+msgstr "Whakahaere Time"
+
+msgid "Delayed events"
+msgstr "Ngā Tautuku"
+
+msgid "Delayed"
+msgstr "Tautuku"
+
+msgid "Bind to"
+msgstr "Vahe"
+
+msgid "answered your comment to"
+msgstr "Ka mea ahau (he) Comment i runga i te tuhinga"
+
+msgid "commented your article"
+msgstr "Kōrero ahau i runga i tou tuhinga"
+
+msgid "You\'ve answered on comment to"
+msgstr "Pahono koe ki te kōrero i runga i te tuhinga"
+
+msgid "You\'ve commented an article"
+msgstr "Koe i kōrero mō te tuhinga"
+
+msgid "Terms and Conditions"
+msgstr "Ture me ngā Here"
+
+msgid "Privacy Policy"
+msgstr "Kaupapahere Tūmataiti"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Mā te pāwhiri i runga i \"haina ake\" whakaae koe ki to tatou ka matau kua lau koe to matou"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Hono i te katoa i runga i te ao te hapori o te iwi auaha! Ka riro ia koe: Haumi ki o koutou whakaaro, te whai wāhi ki te kohikohi i tona kapa, e mahi i roto i te rōpū, te kaiwhakahaere pūtea, te whakahaere i to ratou wa, 2 gigabytes i roto i te rokiroki me te ake. A te reira noa!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Aroha mai, engari e kore e te whārangi e rapu ana koutou mo te tīariari. Ki te whakaaro koe e ki te whai kupu ia tatou whakapā tatou"
+
+msgid "Return"
+msgstr "Hoki"
+
+msgid "COMMON"
+msgstr "Tapeke"
+
+msgid "My events"
+msgstr "Toku Takahanga"
+
+msgid "Job opening"
+msgstr "Watea New"
+
+msgid "Employment"
+msgstr "Momo o te mahi"
+
+msgid "Working hours"
+msgstr "Hāora Tūwhera"
+
+msgid "City"
+msgstr "City"
+
+msgid "Wages"
+msgstr "Utu"
+
+msgid "Currency"
+msgstr "Moni"
+
+msgid "Experience"
+msgstr "Experience"
+
+msgid "Full-time"
+msgstr "Mahi tonu"
+
+msgid "Part-time"
+msgstr "Part-wā"
+
+msgid "Project employment"
+msgstr "Kaupapa / Rangitahi"
+
+msgid "Volunteer"
+msgstr "Utu"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "Time Full"
+
+msgid "Shifts"
+msgstr "Hōtaka Whakakapinga"
+
+msgid "Flexible shifts"
+msgstr "Hōtaka ngāwari"
+
+msgid "Remote work"
+msgstr "Mahi Mamao"
+
+msgid "Rotational basis"
+msgstr "Tikanga Shift"
+
+msgid "Do you really want to delete this comment?"
+msgstr "E tino hiahia ana koe ki te muku i te kōrero?"
+
+msgid "Do you really want to delete this task?"
+msgstr "E tino hiahia ana koe ki te muku i tēnei mahi?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "E tino hiahia ana koe ki te muku i tēnei hapū-kaupapa?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Kua tono koe ki te kamupene i roto i te tūranga. Tēnā kia e te"
+
+msgid "Your request to for job has been rejected"
+msgstr "Kua oti tō tono ki te kamupene ki te tūranga kua paopao"
+
+msgid "Your request to for job has been accepted"
+msgstr "Tou tono ki te kamupene ki te tūranga i whāngai"
+
+msgid "profile is completed"
+msgstr "Ko tonu tō kōtaha"
+
+msgid "Use account"
+msgstr "Whakamahia pūkete"
+
+msgid "$/hr"
+msgstr "$ / Haora"
+
+msgid "Finance category"
+msgstr "Kāwai pūtea"
+
+msgid "No projects"
+msgstr "Kāore he kaupapa"
+
+msgid "Bind to finances"
+msgstr "Vahe kaupapa pūtea"
+
+msgid "Preview"
+msgstr "Tirohia"
+
+msgid "Download"
+msgstr "Tikiake"
+
+msgid "Save to my cloud"
+msgstr "Tāruatia te pupuru"
+
+msgid "File successfully saved to your cloud"
+msgstr "Kōnae pai te penapena i roto i to koutou pätaka"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Tiakina tēnei kōnae i roto i to koutou pupuru?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Kōwhiria te kāwai Tuhinga"
+
+msgid "Type something"
+msgstr "Tuhia te tahi mea"
+
+msgid "Founded users"
+msgstr "Kaiwhakamahi i kitea"
+
+msgid "Founded articles"
+msgstr "Tuhinga kitea"
+
+msgid "Founded groups"
+msgstr "Rōpū Nō"
+
+msgid "What are your skills?"
+msgstr "He aha koutou pūkenga?"
+
+msgid "Select at least 2 interests"
+msgstr "Tīpakohia i te iti rawa 2 pānga"
+
+msgid "Need more interests"
+msgstr "Kāore i nui te moni i tīpakohia"
+
+msgid "What are you interesting in?"
+msgstr "He aha e hiahia ana koe?"
+
+msgid "You have no dialogs"
+msgstr "E kore koe e whai te kōrero"
+
+msgid "Usage Stats"
+msgstr "State o"
+
+msgid "Founded files"
+msgstr "Kōnae kitea"
+
+msgid "Big tiles"
+msgstr "Tāpa nui"
+
+msgid "Small tiles"
+msgstr "Tāpa Iti"
+
+msgid "Table view"
+msgstr "Tiro Ripanga"
+
+msgid "Root folder"
+msgstr "Ko te whaiaronga pakiaka"
+
+msgid "My files"
+msgstr "Kōnae toku"
+
+msgid "Save as draft"
+msgstr "Tiaki hei Tauira"
+
+msgid "Buy More Space"
+msgstr "Hokona ētahi atu wāhi"
+
+msgid "Buy"
+msgstr "Hokona"
+
+msgid "You have been invited to group as"
+msgstr "Kua karangatia e koe ki te rōpū rite te"
+
+msgid "User wants to join your group"
+msgstr "Hiahia te kaiwhakamahi ki te uru atu to koutou rōpū"
+
+msgid "Section is coming soon!"
+msgstr "Wāhanga raro i hanga!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Tiro i roto i te 24 haora whakamutunga:"
+
+msgid "Task was updated"
+msgstr "Kua te mahi kua whakahōutia"
+
+msgid "Task was closed"
+msgstr "Ko te wero Kua katia kua"
+
+msgid "Task was created"
+msgstr "Whakaturia te mahi i"
+
+msgid "Current balance"
+msgstr "Toenga o nāianei"
+
+msgid "Add funds"
+msgstr "Tāpiri"
+
+msgid "Pay"
+msgstr "Taki"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Kua hipa koe i te maha o ngā takiurunga. E āraia koe mō te 15 meneti"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Tēnā whakaū i tō ī-mēra. Ko te pukapuka i tukua ki a koutou i te mēra."
+
+msgid "Resend confirmation email"
+msgstr "Tukua ano te haamauraa"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Kōpae 2 GB ia marama"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Peia 10 GB ia tau"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Kōpae 100 GB ia tau"
+
+msgid "Disk 1Tb Monthly"
+msgstr "1TB Kōpae marama"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Peia 1 TB ia tau"
+
+msgid "Project members monthly"
+msgstr "Kaiuru o te kaupapa i runga i te kaupapa i ia marama"
+
+msgid "Project members yearly"
+msgstr "Kaiuru Kaupapa tau"
+
+msgid "Member(s) yearly"
+msgstr "Mema (s) i ia tau"
+
+msgid "Member(s) monthly"
+msgstr "Mema (s) i runga i te kaupapa i ia marama"
+
+msgid "Authorized"
+msgstr "E faati\'ahia te"
+
+msgid "Authorization expired"
+msgstr "Hemo Whakamanatanga"
+
+msgid "Processor declined"
+msgstr "Pūnaha tukatuka paopao"
+
+msgid "Gateway rejected"
+msgstr "Kuwaha utu paopao"
+
+msgid "Failed"
+msgstr "Hapa"
+
+msgid "Voided"
+msgstr "Whakataka"
+
+msgid "Submitted for settlement"
+msgstr "Tono ki te whakauru"
+
+msgid "Settlement declined"
+msgstr "Kua whakauru kua paopao"
+
+msgid "Settlement pending"
+msgstr "Tārewa whakauru"
+
+msgid "Verified"
+msgstr "Takina"
+
+msgid "Pending"
+msgstr "Tārewa"
+
+msgid "Active"
+msgstr "Hohe"
+
+msgid "Past Due"
+msgstr "Hemo"
+
+msgid "Expired"
+msgstr "Mutu"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "India"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "South Korea"
+msgstr "South Korea"
+
+msgid "Kazakhstan"
+msgstr "Katatānga"
+
+msgid "Israel"
+msgstr "A Iharaira"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Belarus"
+msgstr "Peraruhia"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Turkey"
+msgstr "Turkey"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Ateria"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Germany"
+msgstr "Germany"
+
+msgid "Italy"
+msgstr "Italy"
+
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "United Kingdom"
+msgstr "Great Britain"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "United States"
+msgstr "United States"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Saudi Arabia"
+msgstr "Hauti Arapia"
+
+msgid "Canada"
+msgstr "Ihipa"
+
+msgid "Russia"
+msgstr "Russia"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "I te taime, e kore ko reira te tauwhitinga kotahi"
+
+msgid "Fulfill your dream"
+msgstr "Whakamana au DREAM"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Hono to tatou hapori o te mau taata auaha i katoa a tawhio noa te ao."
+
+msgid "Create and Collaborate"
+msgstr "Waihanga me te mahi ngātahi"
+
+msgid "Fulfill your dream"
+msgstr "Whakamana DREAM NOW"
+
+msgid "or"
+msgstr "ranei"
+
+msgid "Our mission:"
+msgstr "Tatou misioni:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Hei whakakotahi te iwi auaha, me te mātātoa ki te whakatinana i ngā whakaaro i māmā, me te roto i te tono ki maere me fantastic, e taea te hanga i to tatou ananahi."
+
+msgid "What is Konstruktor?"
+msgstr "He aha te Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - ko te wahi o to tatou ora tūturu, e tino whakahaere me Ohie"
+
+msgid "*business processes"
+msgstr "* Tukanga pakihi"
+
+msgid "*materialization of creative ideas"
+msgstr "* Materialization o whakaaro auaha"
+
+msgid "*constructive cooperation"
+msgstr "* Mahi tahi mārohirohi"
+
+msgid "Make your dream!"
+msgstr "Hanga koutou moe!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "Tumu"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Kaitohutohu Motuhake"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Kaiwhakahaere, Whanaketanga Pūmanawa"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Rōia Matua"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Kaihoahoa"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Mā te pāwhiri i runga i te pātene \"Next\", e whakaae ana koe, me te whakaae ki to tatou Ture me ngā Here, me e whakaae koutou e kua kite ia koutou to matou Kaupapahere Tūmataiti."
+
+msgid "Incorrect login or password."
+msgstr "Takiuru hē te kupuhipa rānei."
+
+msgid "Password must be at least 6 characters"
+msgstr "Kia Kupuhipa i te iti rawa 6 pūāhua"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "Tanguru"
+
+msgid "March"
+msgstr "Maehe"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Haratua"
+
+msgid "June"
+msgstr "Pipiri"
+
+msgid "July"
+msgstr "Hōngongoi"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "Mahuru"
+
+msgid "October"
+msgstr "Oketopa"
+
+msgid "November"
+msgstr "Whiringa"
+
+msgid "December"
+msgstr "Hakihea"
+
+msgid "Chat"
+msgstr "Kōrerorero"
+
+msgid "Files"
+msgstr "Kōnae"
+
+msgid "Statistic"
+msgstr "Tauanga"
+
+msgid "Support"
+msgstr "Tautoko"
+
+msgid "Exit"
+msgstr "Waiho"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Peraruhia"
+
+msgid "Marketing specialist"
+msgstr "Marketing mātanga"
+
+msgid "Administrator"
+msgstr "Kaiwhakahaere"
+
+msgid "Shared with me"
+msgstr "Tiri ki ahau"
+
+msgid "File Sharing"
+msgstr "Tiri Kōnae"
+
+msgid "Provide access by link"
+msgstr "Te whakarato i runga i te hono"
+
+msgid "Provide Individual access"
+msgstr "Whakarato whai wāhi takitahi"
+
+msgid "Provide edit access"
+msgstr "Te whakarato whakatika uru"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Files will be available only for selected users"
+msgstr "E Kōnae wātea anake mō ngā kaiwhakamahi i tīpakohia"
+
+msgid "With this link everyone can access to the files"
+msgstr "Ki tenei hononga taea te uru katoa ki te kōnae"
+
+msgid "Search users, groups, articles..."
+msgstr "Rapu kaiwhakamahi, rōpū, oko ..."
+
+msgid "My Group"
+msgstr "Toku Rōpū"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Tatou"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "E kore te kōnae i tīpakohia"
+
+msgid "Set aside"
+msgstr "Whakaturia peka"
+
+msgid "Event time"
+msgstr "Wā Takahanga"
+
+msgid "Work"
+msgstr "Mahi"
+
+msgid "Personal"
+msgstr "Whaiaro"
+
+msgid "Time spent for work:"
+msgstr "Pau Time mō te mahi:"
+
+msgid "Personal time spent:"
+msgstr "Wa Whaiaro pau:"
+
+msgid "Present"
+msgstr "Present"
+
+msgid "Common"
+msgstr "Common"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "Entertainment"
+msgstr "Whakangahau"
+
+msgid "Select:"
+msgstr "Tīpakohia:"
+
+msgid "Invalid username or password."
+msgstr "Ingoa kaiwhakamahi muhu te kupuhipa rānei."
+
+msgid "Try again."
+msgstr "Whakamātauria ano."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "TA KOE KO hiahia i roto i?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Tīpakohia i te iti rawa 2 pūkenga: e noho 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Tīpakohia i te iti rawa 2 pūkenga: e noho 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Tīpakohia i te iti rawa 2 pūkenga: toenga"
+
+msgid "Active life"
+msgstr "Ora Hohe"
+
+msgid "Arts and culture"
+msgstr "Toi me te ahurea"
+
+msgid "Business"
+msgstr "Pakihi"
+
+msgid "Cinema"
+msgstr "Cinema"
+
+msgid "Communications"
+msgstr "Communications"
+
+msgid "Construction and repair"
+msgstr "Construction me te hanga"
+
+msgid "Cooking"
+msgstr "Cooking"
+
+msgid "Education"
+msgstr "Mātauranga"
+
+msgid "Electronics"
+msgstr "Electronics"
+
+msgid "Finances"
+msgstr "Pūtea"
+
+msgid "Graphics and design"
+msgstr "Whakairoiro me te hoahoa"
+
+msgid "Health"
+msgstr "Hauora"
+
+msgid "Home and family"
+msgstr "Kāinga me te whānau"
+
+msgid "Humor"
+msgstr "Humor"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Ahumahi"
+
+msgid "Insurance"
+msgstr "Insurance"
+
+msgid "Literature"
+msgstr "Literature"
+
+msgid "Mobile communications and internet"
+msgstr "Kōrero pūkoro me te ipurangi"
+
+msgid "News and Media"
+msgstr "News a Media"
+
+msgid "Pets"
+msgstr "Pets"
+
+msgid "Products and service"
+msgstr "Products me mahi"
+
+msgid "Real Estate"
+msgstr "Real Estate"
+
+msgid "Religion"
+msgstr "Religion"
+
+msgid "Science and techs"
+msgstr "Pūtaiao me techs"
+
+msgid "Security"
+msgstr "Haumarutanga"
+
+msgid "Society"
+msgstr "Society"
+
+msgid "Television"
+msgstr "Pouaka Whakaata"
+
+msgid "Travel"
+msgstr "Travel"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Ahitereiria"
+
+msgid "Austria"
+msgstr "Ateria"
+
+msgid "Belarus"
+msgstr "Peraruhia"
+
+msgid "Belgium"
+msgstr "Belgium"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Denmark"
+
+msgid "France"
+msgstr "France"
+
+msgid "Germany"
+msgstr "Germany"
+
+msgid "Greece"
+msgstr "Kariki"
+
+msgid "Hungary"
+msgstr "Hungary"
+
+msgid "Iceland"
+msgstr "Tiorangi"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "Israel"
+msgstr "A Iharaira"
+
+msgid "Italy"
+msgstr "Italy"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgid "New Zealand"
+msgstr "Aotearoa"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Russia"
+msgstr "Russia"
+
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgid "South Africa"
+msgstr "Awherika ki te Tonga"
+
+msgid "South Korea"
+msgstr "South Korea"
+
+msgid "Spain"
+msgstr "Spain"
+
+msgid "Sweden"
+msgstr "Sweden"
+
+msgid "Switzerland"
+msgstr "Switzerland"
+
+msgid "Turkey"
+msgstr "Turkey"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "United Arab Emirates"
+msgstr "United Arab Emirates"
+
+msgid "United Kingdom"
+msgstr "United Kingdom"
+
+msgid "United States"
+msgstr "United States"
+
+msgid "achievements"
+msgstr "whakatutukitanga"
+
+msgid "Investment management"
+msgstr "Whakahaere Investment"
+
+msgid "Select..."
+msgstr "Tīpakohia ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "Tuhinga WHAKAHAERE"
+
+msgid "Investors list"
+msgstr "Rārangi pūtea"
+
+msgid "My investments"
+msgstr "Toku haumi"
+
+msgid "Create date"
+msgstr "Waihanga rā"
+
+msgid "Author of the project"
+msgstr "Kaituhi o te kaupapa"
+
+msgid "Date and time"
+msgstr "Rā me te wā"
+
+msgid "Status"
+msgstr "Tūnga"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+msgid "Next"
+msgstr "Tō muri mai"
+
+msgid "Apply"
+msgstr "Hoatu"
+
+msgid "Kazakhstan"
+msgstr "Katatānga"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Pūtaiao"
+
+msgid "Architecture"
+msgstr "Architecture"
+
+msgid "Photography"
+msgstr "Photography"
+
+msgid "Designer"
+msgstr "Kaihoahoa"
+
+msgid "IT specialist"
+msgstr "IT mātanga"
+
+msgid "Agronomist"
+msgstr "Agronomist"
+
+msgid "Architect"
+msgstr "Kaihoahoa"
+
+msgid "Lawyer"
+msgstr "Lawyer"
+
+msgid "Writer"
+msgstr "Kaituhi"
+
+msgid "Doctor"
+msgstr "Doctor"
+
+msgid "Scientist"
+msgstr "Scientist"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Kaiako"
+
+msgid "Cook"
+msgstr "Cook"
+
+msgid "Artist"
+msgstr "Artist"
+
+msgid "Photographer"
+msgstr "Photographer"
+
+msgid "Ecologist"
+msgstr "Ecologist"
+
+msgid "Economist"
+msgstr "Ohanga"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Kairīpoata"
+
+msgid "Builder"
+msgstr "Kaihanga"
+
+msgid "These users may be interesting for you"
+msgstr "Kia ēnei kaiwhakamahi ngā mo koutou"
+
+msgid "These articles may be interesting for you"
+msgstr "Kia enei oko ngā mo koutou"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Piri koe tenei rōpū rite Аdministrator"
+
+msgid "articles written."
+msgstr "tuhinga tuhituhia."
+
+msgid "groups created."
+msgstr "rōpū hanga."
+
+msgid "Creation"
+msgstr "Creation"
+
+msgid "Build a dream"
+msgstr "Hanga he moe"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "A tai'oi tuhinga atu ngā - haere rēhitatanga free"
+

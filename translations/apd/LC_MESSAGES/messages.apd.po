@@ -1,0 +1,3344 @@
+# Sunda (Суданский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Sunda (Суданский) <support@konstruktor.com>\n"
+"Language: Sunda (Суданский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "username"
+
+msgid "Invalid username or password, try again"
+msgstr "Username salah atawa kecap akses. Cobian deui."
+
+msgid "Settings"
+msgstr "setélan"
+
+msgid "Home"
+msgstr "imah"
+
+msgid "You must log in to access this page"
+msgstr "Anjeun kudu asup pikeun ngakses kaca ieu"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Rintakan anjeun geus kadaluwarsa. Mangga, relogin pikeun ngalakukeun peta ieu"
+
+msgid "Save"
+msgstr "Simpen"
+
+msgid "Head Office"
+msgstr "Kantor Pusat"
+
+msgid "Address"
+msgstr "alamat"
+
+msgid "Back"
+msgstr "balik deui"
+
+msgid "Apply"
+msgstr "ngalamar"
+
+msgid "Upload files…"
+msgstr "Ngamuat koropak ..."
+
+msgid "Set as main"
+msgstr "Jadikeun utama"
+
+msgid "Delete"
+msgstr "pupus"
+
+msgid "Original image"
+msgstr "gambar Original"
+
+msgid "Uploaded"
+msgstr "dimuat"
+
+msgid "File name"
+msgstr "nami file"
+
+msgid "File size"
+msgstr "ukuran payil"
+
+msgid "Resolution"
+msgstr "resolusi"
+
+msgid "Enlarge"
+msgstr "ngalegaan"
+
+msgid "Links"
+msgstr "tumbu"
+
+msgid "Original size"
+msgstr "ukuran aslina"
+
+msgid "For editor"
+msgstr "pikeun pangropéa"
+
+msgid "Resize"
+msgstr "ngatur ukuran"
+
+msgid "Width"
+msgstr "rubak"
+
+msgid "Height"
+msgstr "luhur"
+
+msgid "Media URL"
+msgstr "URL Media"
+
+msgid "Add record"
+msgstr "Tambah catetan"
+
+msgid "Show filter settings"
+msgstr "Setélan Témbongkeun filter"
+
+msgid "Edit record"
+msgstr "édit catetan"
+
+msgid "Delete record"
+msgstr "pupus catetan"
+
+msgid "Delete checked records"
+msgstr "Pupus rekaman nu dicentang"
+
+msgid "Dashboard"
+msgstr "dasbor"
+
+msgid "Password"
+msgstr "Kecap aksés"
+
+msgid "Remember me"
+msgstr "émut abdi"
+
+msgid "Login"
+msgstr "Lebet"
+
+msgid "Clean image cache"
+msgstr "Cache gambar bersih"
+
+msgid "Processing query..."
+msgstr "Processing query ..."
+
+msgid "CMS Development"
+msgstr "Kamekaran CMS"
+
+msgid "Admin Home Page"
+msgstr "Admin utama Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Buka Utama kaca Front - ahir dina tab anyar"
+
+msgid "Go to Site"
+msgstr "Pindah ka Loka"
+
+msgid "Log out"
+msgstr "kaluar"
+
+msgid "Send"
+msgstr "ngirim"
+
+msgid "General"
+msgstr "umum"
+
+msgid "Title"
+msgstr "gelar"
+
+msgid "Teaser"
+msgstr "Teaser"
+
+msgid "Published"
+msgstr "dimuat"
+
+msgid "Featured"
+msgstr "diulas"
+
+msgid "Active"
+msgstr "getol"
+
+msgid "Field is mandatory"
+msgstr "Field anu diparentahkeun"
+
+msgid "Sort Order"
+msgstr "nurun Order"
+
+msgid "Upload"
+msgstr "pépéling"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "maret"
+
+msgid "Apr"
+msgstr "April"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "Jun"
+msgstr "Juni"
+
+msgid "Jul"
+msgstr "Juli"
+
+msgid "Aug"
+msgstr "Agustus"
+
+msgid "Sep"
+msgstr "September"
+
+msgid "Oct"
+msgstr "Oktober"
+
+msgid "Nov"
+msgstr "Nopember"
+
+msgid "Dec"
+msgstr "Desember"
+
+msgid "Product already exists in the order"
+msgstr "Produk geus aya dina urutan"
+
+msgid "Product does not exist"
+msgstr "Produk euweuh"
+
+msgid "Incorrect request"
+msgstr "request salah"
+
+msgid "Products"
+msgstr "produk"
+
+msgid "Product types"
+msgstr "rupa produk"
+
+msgid "Contractors"
+msgstr "kontraktor"
+
+msgid "Contractor"
+msgstr "kontraktor"
+
+msgid "Orders"
+msgstr "pesenan"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "orde baru"
+
+msgid "My orders"
+msgstr "pesenan mah"
+
+msgid "Recharge balance"
+msgstr "kasaimbangan ngecas"
+
+msgid "Administrator"
+msgstr "anu ngolola"
+
+msgid "Incorrect event ID"
+msgstr "ID kajadian salah"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "édit kontraktor"
+
+msgid "Create contractor"
+msgstr "jieun kontraktor"
+
+msgid "Edit question"
+msgstr "édit pertanyaan"
+
+msgid "Create question"
+msgstr "jieun pertanyaan"
+
+msgid "Edit order"
+msgstr "édit order"
+
+msgid "Create order"
+msgstr "jieun order"
+
+msgid "Edit product"
+msgstr "édit produk"
+
+msgid "Create product"
+msgstr "jieun produk"
+
+msgid "Edit product type"
+msgstr "Édit tipe produk"
+
+msgid "Create product type"
+msgstr "Jieun tipe produk"
+
+msgid "You have received a file"
+msgstr "Anjeun nampi hiji payel"
+
+msgid "You received a file from"
+msgstr "Anjeun tampa file ti"
+
+msgid "File has been uploaded"
+msgstr "File geus dimuat"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "kuantitas minimal"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "item"
+
+msgid "Remove"
+msgstr "mindahkeun"
+
+msgid "Contact person"
+msgstr "Perwakilan"
+
+msgid "Email"
+msgstr "email"
+
+msgid "Contractor phone"
+msgstr "telepon kontraktor"
+
+msgid "Contractor name"
+msgstr "ngaran kontraktor"
+
+msgid "Contractor details"
+msgstr "wincikanana kontraktor"
+
+msgid "Order ID"
+msgstr "order ID"
+
+msgid "Sum"
+msgstr "jumlah"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Pilih sistim pembayaran merenah ngecas kasaimbangan Anjeun"
+
+msgid "Recharge amount"
+msgstr "jumlah ngecas"
+
+msgid "Paid"
+msgstr "dibayar"
+
+msgid "Shipped"
+msgstr "dus"
+
+msgid "- No products in this order -"
+msgstr "- No produk guna ieu -"
+
+msgid "month"
+msgstr "sasih"
+
+msgid "No user found"
+msgstr "Taya pamaké kapanggih"
+
+msgid "Achievement"
+msgstr "prestasi"
+
+msgid "Confirmed accomplishments"
+msgstr "accomplishments dikonfirmasi"
+
+msgid "Remove achievement"
+msgstr "cabut prestasi"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "Phone"
+
+msgid "Site URL and email"
+msgstr "URL situs jeung email"
+
+msgid "Remove address"
+msgstr "cabut alamat"
+
+msgid "Members"
+msgstr "anggota"
+
+msgid "Requires a payment"
+msgstr "Merlukeun pembayaran a"
+
+msgid "Shipping"
+msgstr "Balanja"
+
+msgid "Ready"
+msgstr "siap"
+
+msgid "Find user..."
+msgstr "Panggihan pamaké ..."
+
+msgid "Order it"
+msgstr "runtuyan eta"
+
+msgid "Find group..."
+msgstr "Panggihan grup ..."
+
+msgid "Find user or community..."
+msgstr "Panggihan pamaké atawa masarakat ..."
+
+msgid "No item found"
+msgstr "No item kapanggih"
+
+msgid "years"
+msgstr "taun"
+
+msgid "Send message"
+msgstr "ngirim talatah"
+
+msgid "Message"
+msgstr "pesen"
+
+msgid "To send message press Enter"
+msgstr "Pikeun ngirim talatah pencét Tuliskeun"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Pikeun ngirim talatah pencét CTRL + Tuliskeun"
+
+msgid "Processing file(s)..."
+msgstr "File pamrosésan (s ) ..."
+
+msgid "Group settings"
+msgstr "setélan Group"
+
+msgid "Create group"
+msgstr "jieun grup"
+
+msgid "Group has been successfully saved"
+msgstr "Group geus suksés disimpen"
+
+msgid "Group title"
+msgstr "judul Group"
+
+msgid "Group video"
+msgstr "video Group"
+
+msgid "Description"
+msgstr "gambaran"
+
+msgid "Your role in group"
+msgstr "Peran Anjeun dina grup"
+
+msgid "Role"
+msgstr "peran"
+
+msgid "Photo or video gallery"
+msgstr "Poto atawa video yaksa"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "upload video"
+
+msgid "Add group address"
+msgstr "Tambah alamat group"
+
+msgid "Group articles"
+msgstr "artikel Group"
+
+msgid "No addresses yet"
+msgstr "No Alamat tacan"
+
+msgid "Add group achievement"
+msgstr "Tambah prestasi group"
+
+msgid "No achivements yet"
+msgstr "No achivements tacan"
+
+msgid "Are you sure to delete this user"
+msgstr "Naha anjeun yakin dipupus pamaké ieu"
+
+msgid "Add member"
+msgstr "Tambah anggota"
+
+msgid "Are you sure to delete this record?"
+msgstr "Naha anjeun yakin dipupus catetan ieu?"
+
+msgid "Join this group"
+msgstr "Miluan grup ieu"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Uleman anjeun geus dikirim ka administrator group"
+
+msgid "All addresses"
+msgstr "sadaya Alamat"
+
+msgid "Collapse"
+msgstr "runtuh"
+
+msgid "Achievements"
+msgstr "prestasi"
+
+msgid "Show more"
+msgstr "Témbongkeun leuwih"
+
+msgid "Team"
+msgstr "regu"
+
+msgid "Projects"
+msgstr "Projects"
+
+msgid "New project"
+msgstr "project New"
+
+msgid "Project has not been created yet"
+msgstr "Project tacan dijieun tacan"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "kasaimbangan"
+
+msgid "Main page"
+msgstr "kaca utama"
+
+msgid "Upload image"
+msgstr "upload gambar"
+
+msgid "My time"
+msgstr "waktu kuring"
+
+msgid "Day"
+msgstr "poe"
+
+msgid "Week"
+msgstr "minggu"
+
+msgid "Project settings"
+msgstr "setélan Project"
+
+msgid "Create project"
+msgstr "jieun proyék"
+
+msgid "Project has been successfully saved"
+msgstr "Project geus suksés disimpen"
+
+msgid "Project name"
+msgstr "ngaran Project"
+
+msgid "Deadline"
+msgstr "Bates Waktos"
+
+msgid "Close"
+msgstr "deukeut"
+
+msgid "Manager"
+msgstr "pingpinan"
+
+msgid "Assigned to"
+msgstr "ditugaskeun ka"
+
+msgid "Discussion"
+msgstr "diskusi"
+
+msgid "Task was created"
+msgstr "Tugas ieu dijieun"
+
+msgid "Task was closed"
+msgstr "Tugas ditutup secara"
+
+msgid "Go to Group"
+msgstr "Pindah ka Group"
+
+msgid "Closed"
+msgstr "katutup"
+
+msgid "Last updates"
+msgstr "apdet pamungkas"
+
+msgid "Project is closed"
+msgstr "Project geus ditutup"
+
+msgid "No open tasks"
+msgstr "No tugas open"
+
+msgid "New task"
+msgstr "tugas New"
+
+msgid "Closed tasks"
+msgstr "tugas Closed"
+
+msgid "Add subproject"
+msgstr "Tambah subproject"
+
+msgid "Add task"
+msgstr "Tambah tugas"
+
+msgid "Sun"
+msgstr "Minggu"
+
+msgid "Mon"
+msgstr "Senen"
+
+msgid "Tue"
+msgstr "Salasa"
+
+msgid "Wed"
+msgstr "Rebo"
+
+msgid "Thur"
+msgstr "Kemis"
+
+msgid "Fri"
+msgstr "Jumaah"
+
+msgid "Sat"
+msgstr "Septu"
+
+msgid "Event title"
+msgstr "judul kajadian"
+
+msgid "Event description"
+msgstr "katerangan kajadian"
+
+msgid "I registered on this site"
+msgstr "I kadaptar dina loka ieu"
+
+msgid "Last created groups"
+msgstr "Tukang gugus dijieun"
+
+msgid "You joined this group as"
+msgstr "Anjeun ngagabung grup ieu salaku"
+
+msgid "You received a request to join the group"
+msgstr "Anjeun tampa nu menta ngagabung grup"
+
+msgid "Updated site"
+msgstr "diropéa loka"
+
+msgid "Site is under construction"
+msgstr "Loka sahandapeun konstruksi"
+
+msgid "Last registered users"
+msgstr "Pamaké Last kadaptar"
+
+msgid "User settings"
+msgstr "setélan pamaké"
+
+msgid "Technical support"
+msgstr "Bantosan Téknis"
+
+msgid "Change email"
+msgstr "Robah email"
+
+msgid "Change password"
+msgstr "gentos kecap konci"
+
+msgid "User has been successfully saved"
+msgstr "Pamaké geus junun disalametkeun"
+
+msgid "Full name"
+msgstr "Nami lengkep"
+
+msgid "My video"
+msgstr "video mah"
+
+msgid "Skills"
+msgstr "kaahlian"
+
+msgid "Birthday"
+msgstr "tepang warsi"
+
+msgid "Country of residence"
+msgstr "Nagara Tempat Cicing"
+
+msgid "Country"
+msgstr "nagara"
+
+msgid "Zip Code"
+msgstr "Kodeu pos"
+
+msgid "City/town of residence"
+msgstr "City / kota tinggal"
+
+msgid "University/college"
+msgstr "University / kuliah"
+
+msgid "University/college photo"
+msgstr "University / poto kuliah"
+
+msgid "Add user\'s accomplishments"
+msgstr "Tambah accomplishments pamaké"
+
+msgid "Interface language"
+msgstr "basa panganteur"
+
+msgid "How other people see this page"
+msgstr "Kumaha jalma sejen tempo kaca ieu"
+
+msgid "Video with me"
+msgstr "Video sareng kuring"
+
+msgid "Groups"
+msgstr "Grup"
+
+msgid "Registered today"
+msgstr "kadaptar ayeuna"
+
+msgid "Qty"
+msgstr "Qty"
+
+msgid "No registered users yet"
+msgstr "Euweuh sasaha nu kadaptar can"
+
+msgid "Total"
+msgstr "total"
+
+msgid "Registered total"
+msgstr "total kadaptar"
+
+msgid "You received a file"
+msgstr "Anjeun tampa file a"
+
+msgid "You were invited into this room"
+msgstr "Anjeun diajak kana rohangan ieu"
+
+msgid "Request is being processed"
+msgstr "Request keur diolah"
+
+msgid "Fax"
+msgstr "fax"
+
+msgid "Messenger"
+msgstr "utusan"
+
+msgid "New subproject"
+msgstr "subproject New"
+
+msgid "messages written."
+msgstr "talatah ditulis."
+
+msgid "projects created based on groups."
+msgstr "proyék dijieun dumasar kana golongan."
+
+msgid "users registered on website."
+msgstr "pamaké nu kadaptar dina website ."
+
+msgid "New email"
+msgstr "surélék anyar"
+
+msgid "Confirm email"
+msgstr "Pastikeun Email"
+
+msgid "New password"
+msgstr "Kecap konci Énggal"
+
+msgid "Confirm password"
+msgstr "Pastikeun Kecap konci"
+
+msgid "Occupation"
+msgstr "Speciality"
+
+msgid "Timezone"
+msgstr "Timezone"
+
+msgid "Answer"
+msgstr "jawaban"
+
+msgid "Articles"
+msgstr "Artikel"
+
+msgid "Article"
+msgstr "artikel"
+
+msgid "Video-article"
+msgstr "Video - article"
+
+msgid "Find article..."
+msgstr "Panggihan artikel ..."
+
+msgid "Politics"
+msgstr "pulitik"
+
+msgid "Economics"
+msgstr "Ékonomi"
+
+msgid "Community"
+msgstr "masarakat"
+
+msgid "Culture"
+msgstr "kabudayaan"
+
+msgid "Sports"
+msgstr "olahraga"
+
+msgid "Hi-tech"
+msgstr "Baraya tech"
+
+msgid "Cars"
+msgstr "mobil"
+
+msgid "Fashion"
+msgstr "mode"
+
+msgid "Games"
+msgstr "Games"
+
+msgid "Other"
+msgstr "séjénna"
+
+msgid "Invalid mediafile"
+msgstr "mediafile sah"
+
+msgid "No articles in this category yet"
+msgstr "No artikel na kategori ieu can"
+
+msgid "Back to profile"
+msgstr "Deui ka keureutan"
+
+msgid "View article"
+msgstr "View artikel"
+
+msgid "Edit article"
+msgstr "édit artikel"
+
+msgid "Create article"
+msgstr "Jieun artikel"
+
+msgid "Article title"
+msgstr "judul artikel"
+
+msgid "Article section"
+msgstr "bagian artikel"
+
+msgid "Choose image"
+msgstr "Pilih image"
+
+msgid "Save and upload"
+msgstr "Nyalametkeun sarta muatkeun"
+
+msgid "Show more..."
+msgstr "Témbongkeun more ..."
+
+msgid "Create"
+msgstr "nyiptakeun"
+
+msgid "Edit"
+msgstr "édit"
+
+msgid "Project"
+msgstr "proyek"
+
+msgid "Team"
+msgstr "regu"
+
+msgid "A new article was published"
+msgstr "A artikel anyar dipedar"
+
+msgid "You joined this project"
+msgstr "Anjeun ngagabung proyék ieu"
+
+msgid "Enter your information in the User settings"
+msgstr "Asupkeun inpo Anjeun dina setélan Pamaké"
+
+msgid "Communities"
+msgstr "masarakat"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Presentasi Video of accomplishments mah"
+
+msgid "My articles"
+msgstr "artikel mah"
+
+msgid "User"
+msgstr "nu make"
+
+msgid "Users"
+msgstr "pamaké"
+
+msgid "Add new list"
+msgstr "Tambah daptar anyar"
+
+msgid "List title"
+msgstr "judul daptar"
+
+msgid "Add"
+msgstr "nambah"
+
+msgid "Add to favorites"
+msgstr "Tambahkeun ka paporit"
+
+msgid "Delete from favorites"
+msgstr "Pupus tina paporit"
+
+msgid "Select list"
+msgstr "Pilih daptar"
+
+msgid "Subscriptions"
+msgstr "lalanggan"
+
+msgid "Subscribe"
+msgstr "ngalanggan"
+
+msgid "Unsubscribe"
+msgstr "unsubscribe"
+
+msgid "General list"
+msgstr "list umum"
+
+msgid "No users in this list"
+msgstr "Teu boga nu di milis ieu"
+
+msgid "Publish"
+msgstr "nyebarkeun"
+
+msgid "Unpublish"
+msgstr "Unpublish"
+
+msgid "Add user"
+msgstr "Tambah pamaké"
+
+msgid "Create document"
+msgstr "jieun dokumén"
+
+msgid "Edit document"
+msgstr "édit dokumén"
+
+msgid "View"
+msgstr "View"
+
+msgid "Document title"
+msgstr "judul dokumén"
+
+msgid "Find document..."
+msgstr "Panggihan dokumén ..."
+
+msgid "Share your thoughts"
+msgstr "Bagikeun pikiran anjeun"
+
+msgid "Leave your comment"
+msgstr "Ninggalkeun comment Anjeun"
+
+msgid "Accept"
+msgstr "narima"
+
+msgid "Decline"
+msgstr "kamunduran"
+
+msgid "Add article"
+msgstr "Tambah artikel"
+
+msgid "Link to verified accomplishments"
+msgstr "Numbu ka accomplishments diverifikasi"
+
+msgid "No articles here yet..."
+msgstr "No artikel dieu ... Tatang"
+
+msgid "Find file or folder..."
+msgstr "Panggihan file atawa polder ..."
+
+msgid "Sort"
+msgstr "dipilihan"
+
+msgid "By name"
+msgstr "Berdasarkeun ngaran"
+
+msgid "By date"
+msgstr "dumasar titimangsa"
+
+msgid "By updated date"
+msgstr "Dumasar titimangsa diropéa"
+
+msgid "By size"
+msgstr "ku ukuran"
+
+msgid "By type"
+msgstr "ku tipe"
+
+msgid "Move"
+msgstr "pindah"
+
+msgid "File Manager"
+msgstr "file Manager"
+
+msgid "Share link"
+msgstr "Share link"
+
+msgid "Responsible"
+msgstr "tanggung jawab"
+
+msgid "Performer"
+msgstr "pamaen"
+
+msgid "New Folder"
+msgstr "polder New"
+
+msgid "Folder name"
+msgstr "ngaran polder"
+
+msgid "By default"
+msgstr "sacara standar"
+
+msgid "Back to group"
+msgstr "Deui ka group"
+
+msgid "year(s)"
+msgstr "taun (s)"
+
+msgid "January"
+msgstr "Januari"
+
+msgid "February"
+msgstr "Pebruari"
+
+msgid "March"
+msgstr "baris"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "August"
+msgstr "Agustus"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "November"
+msgstr "Nopember"
+
+msgid "December"
+msgstr "Desember"
+
+msgid "Password Reminder"
+msgstr "sandi panginget"
+
+msgid "Log In"
+msgstr "Lebet"
+
+msgid "Sign in"
+msgstr "daptar"
+
+msgid "Register"
+msgstr "ngadaptar"
+
+msgid "First name"
+msgstr "Nami payun"
+
+msgid "Last name"
+msgstr "Nami pengker"
+
+msgid "I agree with rules"
+msgstr "Kuring satuju jeung aturan"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "A mail konfirmasi dikirim ka alamat surélék Anjeun."
+
+msgid "Thanks"
+msgstr "hatur nuhun"
+
+msgid "Password must be at least 6 characters"
+msgstr "Sandi sahenteuna kudu 6 karakter"
+
+msgid "Creative Environment"
+msgstr "Lingkungan kreatif"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Anjeun kudu sahenteuna tilu belas taun umur ngagunakeun layanan ieu"
+
+msgid "Order status"
+msgstr "status order"
+
+msgid "Processing order"
+msgstr "order processing"
+
+msgid "Requires a payment"
+msgstr "Merlukeun pamayaran a"
+
+msgid "Shipping"
+msgstr "Balanja"
+
+msgid "Ready"
+msgstr "siap"
+
+msgid "Thank you for your payment"
+msgstr "Hatur nuhun pikeun mayar Anjeun"
+
+msgid "Your payment has been cancelled"
+msgstr "Pamayaran Anjeun geus dibolaykeun"
+
+msgid "page"
+msgstr "kaca"
+
+msgid "Rent period"
+msgstr "periode nyewa"
+
+msgid "Total, month"
+msgstr "Total, bulan"
+
+msgid "Order items"
+msgstr "order item"
+
+msgid "No records found"
+msgstr "No catetan kapanggih"
+
+msgid "User with this email is already exist"
+msgstr "Pituduh sareng email ieu geus aya"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Polder atawa Koropak nu ngaranna kitu geus aya di folder tujuan"
+
+msgid "Minimal quantity"
+msgstr "kuantitas minimal"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "salinan print"
+
+msgid "Terms of Use"
+msgstr "Syarat panggunaan"
+
+msgid "Privacy Policy"
+msgstr "kabijakan privasi"
+
+msgid "Find project..."
+msgstr "Panggihan proyék ..."
+
+msgid "New Project"
+msgstr "Project New"
+
+msgid "Accounts"
+msgstr "akun"
+
+msgid "Operations"
+msgstr "operasi"
+
+msgid "All accounts"
+msgstr "sadaya akun"
+
+msgid "All categories"
+msgstr "sadaya kategori"
+
+msgid "Expense"
+msgstr "ongkos"
+
+msgid "Income"
+msgstr "pangasilan"
+
+msgid "Transfer"
+msgstr "mindahkeun"
+
+msgid "Expense"
+msgstr "ongkos"
+
+msgid "income"
+msgstr "pangasilan"
+
+msgid "tax"
+msgstr "pajeg"
+
+msgid "percent"
+msgstr "persen"
+
+msgid "transfer"
+msgstr "mindahkeun"
+
+msgid "Make operation"
+msgstr "nyieun operasi"
+
+msgid "Select date"
+msgstr "Pilih date"
+
+msgid "Select account"
+msgstr "Pilih akun"
+
+msgid "Month"
+msgstr "sasih"
+
+msgid "Quarter"
+msgstr "parapat"
+
+msgid "Year"
+msgstr "taun"
+
+msgid "From"
+msgstr "ti"
+
+msgid "To"
+msgstr "ka"
+
+msgid "Expense amount"
+msgstr "jumlah expense"
+
+msgid "Categories"
+msgstr "kategori"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "Income amount"
+msgstr "jumlah panghasilan"
+
+msgid "Transfer amount"
+msgstr "jumlah transfer"
+
+msgid "From account"
+msgstr "ti akun"
+
+msgid "To account"
+msgstr "pikeun akun"
+
+msgid "New Account"
+msgstr "Account New"
+
+msgid "New Category"
+msgstr "New Category"
+
+msgid "All"
+msgstr "sadaya"
+
+msgid "Name"
+msgstr "nami"
+
+msgid "Enter category name"
+msgstr "Tuliskeun ngaran kategori"
+
+msgid "Select type"
+msgstr "Pilih tipe"
+
+msgid "Credit card"
+msgstr "Kartu kiridit"
+
+msgid "Debit card"
+msgstr "kartu debit"
+
+msgid "Bank account"
+msgstr "akun Bank"
+
+msgid "Cash"
+msgstr "kas"
+
+msgid "Balance is empty"
+msgstr "Kasaimbangan kosong"
+
+msgid "Statistic is empty"
+msgstr "Statistik kosong"
+
+msgid "Regular payments"
+msgstr "pangmayaran teratur"
+
+msgid "Are you sure ?"
+msgstr "Naha anjeun yakin ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Naha anjeun yakin ka nutup proyék ieu?"
+
+msgid "Project was deleted successfully"
+msgstr "Project ieu dihapus suksés"
+
+msgid "Select currency"
+msgstr "Pilih tukeur"
+
+msgid "Account"
+msgstr "rekening"
+
+msgid "Orders list"
+msgstr "list pemesanan"
+
+msgid "Order payments"
+msgstr "pangmayaran order"
+
+msgid "View order"
+msgstr "View order"
+
+msgid "No response from Printer API"
+msgstr "No response ti printer API"
+
+msgid "Bad response from Printer API"
+msgstr "Response Bad ti printer API"
+
+msgid "User ID"
+msgstr "ID Pangguna"
+
+msgid "Contact Person"
+msgstr "Perwakilan"
+
+msgid "No orders to process"
+msgstr "No pemesanan pikeun ngolah"
+
+msgid "Article announce image"
+msgstr "Artikel ngembarkeun image"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Url video salah. Ninggalkeun kosong atawa nyelapkeun youtube url valid"
+
+msgid "Please, enter Contractor data"
+msgstr "Mangga, asupkeun data kontraktor"
+
+msgid "Distribute devices"
+msgstr "ngadistribusikaeun alat"
+
+msgid "Quantity"
+msgstr "kuantitas"
+
+msgid "Devices left"
+msgstr "alat kenca"
+
+msgid "Distributed devices"
+msgstr "alat sebaran"
+
+msgid "You must enter quantity"
+msgstr "Anjeun kudu nuliskeun kuantitas"
+
+msgid "All devices are distributed"
+msgstr "Sadaya alat didistribusikeun"
+
+msgid "IP address"
+msgstr "alamat IP"
+
+msgid "Only for printer"
+msgstr "Ngan pikeun printer"
+
+msgid "Counter"
+msgstr "meja pamantes"
+
+msgid "You was excluded from this room"
+msgstr "Anjeun ieu kaasup ti rohangan ieu"
+
+msgid "Compare"
+msgstr "ngabandingkeun"
+
+msgid "Scheduled transaction"
+msgstr "urus dijadwalkeun"
+
+msgid "Select transfer account"
+msgstr "Pilih akun transfer"
+
+msgid "Select income account"
+msgstr "Pilih akun panghasilan"
+
+msgid "Reports"
+msgstr "laporan"
+
+msgid "Goals"
+msgstr "gol"
+
+msgid "Budgets"
+msgstr "budgets"
+
+msgid "Enter user name or email..."
+msgstr "Tuliskeun ngaran pamaké atawa email ..."
+
+msgid "Invite had been sended"
+msgstr "Ngajak geus sended"
+
+msgid "Statistics"
+msgstr "statistik"
+
+msgid "Updated site began to work"
+msgstr "Diropéa loka mimiti digawe"
+
+msgid "City of residence"
+msgstr "City of tinggal"
+
+msgid "Edit favourites list"
+msgstr "List édit paporit"
+
+msgid "Add favourites list"
+msgstr "Tambah daptar paporit"
+
+msgid "Categories is required"
+msgstr "Kategori moderator"
+
+msgid "Type new category name and hit Enter"
+msgstr "Ngetik anyar ngaran kategori sarta pencét énter"
+
+msgid "You created an order"
+msgstr "Anjeun dijieun hiji order"
+
+msgid "You received a device due to this order"
+msgstr "Anjeun tampa alat alatan order ieu"
+
+msgid "%s attached %s to task %s"
+msgstr "%s napel %s ka tugas %s"
+
+msgid "member(s)"
+msgstr "anggota (s)"
+
+msgid "%s commented task %s"
+msgstr "%s commented tugas %s"
+
+msgid "%s closed task %s"
+msgstr "%s tugas katutup %s"
+
+msgid "%s created task %s"
+msgstr "%s dijieun tugas %s"
+
+msgid "%s created this project"
+msgstr "%s dijieun proyék ieu"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s dijieun subproject \" %s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s katutup proyék \" %s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s katutup subproject \" %s\""
+
+msgid "This field must not be blank"
+msgstr "Widang ieu teu kudu kosong"
+
+msgid "Document with such name is already exist"
+msgstr "Dokumén jeung ngaran saperti geus aya"
+
+msgid "Wait until image upload"
+msgstr "Tungguan nepi upload gambar"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Message can not be empty"
+msgstr "Talatah teu bisa kosong"
+
+msgid "Yes"
+msgstr "nuhun"
+
+msgid "No"
+msgstr "teu"
+
+msgid "Created"
+msgstr "dijieun"
+
+msgid "Compare is empty"
+msgstr "Bandingkeun kosong"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Naha anjeun yakin nu Anjeun hoyong pupus operasi"
+
+msgid "Do you really want to delete transaction"
+msgstr "Ulah anjeun rék pupus urus"
+
+msgid "Project with same name already exists"
+msgstr "Project jeung ngaranna sarua geus nyampak"
+
+msgid "Account is not found"
+msgstr "Akun teu kapanggih"
+
+msgid "Currency is required"
+msgstr "Mata moderator"
+
+msgid "error while deleting document"
+msgstr "error bari mupus dokumén"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Anjeun ngajak pamaké \" %s\" di rohangan ieu"
+
+msgid "User \"%s\" joined this room"
+msgstr "Pamaké \" %s\" ngagabung rohangan ieu"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Anjeun teu kaasup pamaké \" %s \" ti rohangan ieu"
+
+msgid "User \"%s\" left this room"
+msgstr "Pamaké \" %s\" kenca kamar ieu"
+
+msgid "Add account"
+msgstr "Tambah akun"
+
+msgid "The requested page is not found"
+msgstr "Kaca nu dipénta teu kapanggih"
+
+msgid "Document"
+msgstr "surat penting"
+
+msgid "Table"
+msgstr "meja"
+
+msgid "file(s)"
+msgstr "file (s)"
+
+msgid "Residue"
+msgstr "résidu"
+
+msgid "Result is empty"
+msgstr "Hasil kosong"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Total jumlah anu %s pikeun %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Anjeun kudu deposit %s bulanan ka akun nu patali"
+
+msgid "Start"
+msgstr "ngamimitian"
+
+msgid "finish"
+msgstr "ngabereskeun"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Akun nu dipilih geus dipaké pikeun tujuan séjén"
+
+msgid "Amount required"
+msgstr "jumlah diperlukeun"
+
+msgid "New goal"
+msgstr "tujuan New"
+
+msgid "Goal"
+msgstr "tujuan"
+
+msgid "Goal name"
+msgstr "ngaran goal"
+
+msgid "Invalid date"
+msgstr "date sah"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Perlu jumlah kudu angka positif"
+
+msgid "Remain"
+msgstr "tetep"
+
+msgid "Last day"
+msgstr "poe panungtungan"
+
+msgid "Accumulated"
+msgstr "akumulasi"
+
+msgid "Put aside"
+msgstr "Pasang kumisan"
+
+msgid "January"
+msgstr "Januari"
+
+msgid "February"
+msgstr "Pebruari"
+
+msgid "March"
+msgstr "baris"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "August"
+msgstr "Agustus"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "November"
+msgstr "Nopember"
+
+msgid "December"
+msgstr "Desember"
+
+msgid "Expenses projected/actual"
+msgstr "Expenses projected / sabenerna"
+
+msgid "Net Income projected/actual"
+msgstr "Panghasilan Net projected / sabenerna"
+
+msgid "New budget"
+msgstr "anggaran anyar"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Bagi hasil jeung expenses Bagan"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Anggaran jeung sarua wae akun jeung kategori geus aya"
+
+msgid "Budget is empty"
+msgstr "Anggaran kosong"
+
+msgid "Budget"
+msgstr "perhitungan balanja"
+
+msgid "plan"
+msgstr "rencana"
+
+msgid "fact"
+msgstr "kanyataan"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "Témbongkeun More"
+
+msgid "Cancel"
+msgstr "ngabatalkeun"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "sales mah"
+
+msgid "Time spent"
+msgstr "waktu spent"
+
+msgid "Total time spent"
+msgstr "Total waktu spent"
+
+msgid "Earnings per hour"
+msgstr "Earnings per jam"
+
+msgid "Total earnings"
+msgstr "total earnings"
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Phone call"
+msgstr "telepon"
+
+msgid "Telephone calls"
+msgstr "telepon Telephone"
+
+msgid "Send email"
+msgstr "Kirimkeun email"
+
+msgid "Emails"
+msgstr "surelek"
+
+msgid "Meeting"
+msgstr "papanggihan"
+
+msgid "Meetings"
+msgstr "rapat"
+
+msgid "All events"
+msgstr "sakabeh kajadian"
+
+msgid "Task"
+msgstr "tugas"
+
+msgid "Event"
+msgstr "kajadian"
+
+msgid "Events"
+msgstr "kajadian"
+
+msgid "Time"
+msgstr "waktu"
+
+msgid "Events statistics"
+msgstr "kajadian statistik"
+
+msgid "days"
+msgstr "poé"
+
+msgid "hours"
+msgstr "jam"
+
+msgid "minutes"
+msgstr "menit"
+
+msgid "Income & expense"
+msgstr "Panghasilan & expense"
+
+msgid "Show chart"
+msgstr "Témbongkeun chart"
+
+msgid "Hide chart"
+msgstr "sumputkeun chart"
+
+msgid "Add event"
+msgstr "Tambah kajadian"
+
+msgid "Add financial data"
+msgstr "Tambah data finansial"
+
+msgid "Select contractor"
+msgstr "Pilih kontraktor"
+
+msgid "Net Income"
+msgstr "Penghasilan bersih"
+
+msgid "Revenue"
+msgstr "pendapatan Asli"
+
+msgid "Taxes"
+msgstr "pajeg"
+
+msgid "Amount planned"
+msgstr "jumlah rencanana"
+
+msgid "Amount"
+msgstr "jumlah"
+
+msgid "Period"
+msgstr "periode"
+
+msgid "Are you sure to close this task?"
+msgstr "Naha anjeun yakin ka nutup ieu tugas ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "sadaya grup"
+
+msgid "added from task"
+msgstr "asalna tina tugas"
+
+msgid "Monthly repeat"
+msgstr "ulang bulanan"
+
+msgid "Select category"
+msgstr "Pilih kategori"
+
+msgid "Event type"
+msgstr "tipe kajadian"
+
+msgid "Margin"
+msgstr "margin"
+
+msgid "Use finance project"
+msgstr "Paké proyék keuangan"
+
+msgid "New investment project"
+msgstr "Project investasi New"
+
+msgid "Investment project settings"
+msgstr "Setélan proyék Investment"
+
+msgid "Picture, for the announcement project"
+msgstr "Gambar, pikeun proyék pengumuman"
+
+msgid "Announcement project"
+msgstr "project pengumuman"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Photos or videos gallery"
+msgstr "Poto atawa video galeri"
+
+msgid "required amount"
+msgstr "jumlah diperlukeun"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Durasi Project ( 60 poé maximum )"
+
+msgid "Project duration"
+msgstr "durasi Project"
+
+msgid "Add reward"
+msgstr "Tambah ganjaran"
+
+msgid "Delivery date"
+msgstr "Tanggal pangiriman"
+
+msgid "Payment systems"
+msgstr "sistem pamayaran"
+
+msgid "Terms of service"
+msgstr "Watesan service"
+
+msgid "Agreement"
+msgstr "kasapukan"
+
+msgid "Payment"
+msgstr "pamayaran"
+
+msgid "My projects"
+msgstr "proyék mah"
+
+msgid "Search result"
+msgstr "hasil teangan"
+
+msgid "Nothing not found"
+msgstr "Euweuh teu kapanggih"
+
+msgid "The project has no sponsors"
+msgstr "Proyek boga sponsor"
+
+msgid "Design"
+msgstr "rarancang"
+
+msgid "Food"
+msgstr "kadaharan"
+
+msgid "Journalism"
+msgstr "hal ngarang ti koran"
+
+msgid "Games"
+msgstr "Games"
+
+msgid "Art"
+msgstr "seni"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "musik"
+
+msgid "Handicrafts"
+msgstr "karajinan"
+
+msgid "Publishing"
+msgstr "hal kaluaran"
+
+msgid "Theater"
+msgstr "bioskop"
+
+msgid "Technology"
+msgstr "teknologi"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Dance"
+msgstr "tari"
+
+msgid "Invalid youtube video"
+msgstr "Video youtube sah"
+
+msgid "is required"
+msgstr "diperyogikeun"
+
+msgid "User"
+msgstr "nu make"
+
+msgid "Date"
+msgstr "tanggal"
+
+msgid "Collected"
+msgstr "dikumpulkeun"
+
+msgid "Choose period"
+msgstr "Pilih periode"
+
+msgid "Choose region"
+msgstr "Pilih wewengkon"
+
+msgid "Country"
+msgstr "nagara"
+
+msgid "Today"
+msgstr "Dinten"
+
+msgid "Week"
+msgstr "minggu"
+
+msgid "Month"
+msgstr "sasih"
+
+msgid "Year"
+msgstr "taun"
+
+msgid "Free registration"
+msgstr "pandaptaran Free"
+
+msgid "Join"
+msgstr "Miluan"
+
+msgid "Log in using"
+msgstr "Asup log migunakeun"
+
+msgid "Vacancies"
+msgstr "kasempetan pagawean"
+
+msgid "About Us"
+msgstr "Tentang Kami"
+
+msgid "You will need email to log in"
+msgstr "Anjeun perlu email asup"
+
+msgid "A combination of 6 digits and characters"
+msgstr "A kombinasi 6 digit jeung karakter"
+
+msgid "Search users, groups, articles..."
+msgstr "Pamaké Search , kelompok, artikel ..."
+
+msgid "Cloud"
+msgstr "awan"
+
+msgid "Sunday"
+msgstr "Minggu"
+
+msgid "Monday"
+msgstr "Senen"
+
+msgid "Tuesday"
+msgstr "Salasa"
+
+msgid "Wednesday"
+msgstr "Rebo"
+
+msgid "Thursday"
+msgstr "Kemis"
+
+msgid "Friday"
+msgstr "Jumaah"
+
+msgid "Saturday"
+msgstr "Septu"
+
+msgid "Edit"
+msgstr "édit"
+
+msgid "Create group"
+msgstr "Jieun grup"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Dupi anjeun yakin rek ninggalkeun ieu kaca ?"
+
+msgid "More"
+msgstr "Tambih deui"
+
+msgid "Less"
+msgstr "Langkung sakedik"
+
+msgid "Pending"
+msgstr "sabari nunggu"
+
+msgid "Approved"
+msgstr "disatujuan"
+
+msgid "Rejected"
+msgstr "ditampik"
+
+msgid "Subprojects"
+msgstr "Subprojects"
+
+msgid "Group edit"
+msgstr "édit group"
+
+msgid "Startup"
+msgstr "Ngamimitian"
+
+msgid "Tattoo"
+msgstr "nato"
+
+msgid "Health"
+msgstr "kasehatan"
+
+msgid "Weapon"
+msgstr "pakarang"
+
+msgid "Astronomy"
+msgstr "elmu ngeunaan palintangan"
+
+msgid "All articles"
+msgstr "sadaya artikel"
+
+msgid "Article editor"
+msgstr "artikel editor"
+
+msgid "Document editor"
+msgstr "dokumén editor"
+
+msgid "Apply changes"
+msgstr "panawaran robah"
+
+msgid "Save changes?"
+msgstr "Nyalametkeun robah ?"
+
+msgid "published an article"
+msgstr "diterbitkeun artikel"
+
+msgid "Users"
+msgstr "pamaké"
+
+msgid "Shared With Me"
+msgstr "Dibagi Jeung Me"
+
+msgid "share"
+msgstr "ngabagikeun"
+
+msgid "Select Group Responsible"
+msgstr "Pilih Grup Jawab"
+
+msgid "Create folder"
+msgstr "nyieun polder"
+
+msgid "Title must be at least 3 characters"
+msgstr "Judul sahenteuna kudu 3 aksara"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Free 10 GB , manager keuangan , modul investasi , sarta loba séjén for bebas jeung salawasna"
+
+msgid "Best regards"
+msgstr "Salam hormat"
+
+msgid "Updates in last 12 hours:"
+msgstr "Apdet ahir dina 12 jam :"
+
+msgid "expense"
+msgstr "ongkos"
+
+msgid "Commentary on the event:"
+msgstr "Commentary dina acara :"
+
+msgid "Event place"
+msgstr "tempat kajadian"
+
+msgid "Project was updated"
+msgstr "Project ieu diropéa"
+
+msgid "Project was created"
+msgstr "Project dijieun"
+
+msgid "Project was closed"
+msgstr "Project ditutup secara"
+
+msgid "account"
+msgstr "rekening"
+
+msgid "removed task"
+msgstr "dihapus tugas"
+
+msgid "removed subproject"
+msgstr "dihapus subproject"
+
+msgid "Title can not be empty"
+msgstr "Judul teu bisa kosong"
+
+msgid "Do not select the type of event"
+msgstr "Ulah milih tipe kajadian"
+
+msgid "Error while saving comment"
+msgstr "Kasalahan bari nyimpen comment"
+
+msgid "Save error: access denied"
+msgstr "Nyalametkeun error : aksés nampik"
+
+msgid "Remains"
+msgstr "nu sesa"
+
+msgid "Time spent, h."
+msgstr "Waktu spent , h."
+
+msgid "Emails"
+msgstr "surelek"
+
+msgid "Meetings"
+msgstr "rapat"
+
+msgid "All users"
+msgstr "sadaya pamaké"
+
+msgid "Category"
+msgstr "Category"
+
+msgid "Finance project"
+msgstr "project Kauanganan"
+
+msgid "Investment project"
+msgstr "project Investment"
+
+msgid "Nature"
+msgstr "alam"
+
+msgid "Data is empty"
+msgstr "Data kosong"
+
+msgid "Visitors"
+msgstr "datang"
+
+msgid "My profile"
+msgstr "profile mah"
+
+msgid "Sponsors"
+msgstr "sponsor"
+
+msgid "Prior to completion"
+msgstr "Saméméh parantosan"
+
+msgid "Select"
+msgstr "milih"
+
+msgid "My groups"
+msgstr "grup mah"
+
+msgid "The invitation has been sent successfully"
+msgstr "Uleman geus dikirim suksés"
+
+msgid "Username has already been invited to this project"
+msgstr "Ngaran nu maké geus kungsi diondang proyék ieu"
+
+msgid "The user is the creator of the project"
+msgstr "Pamaké nyaéta panyipta proyek"
+
+msgid "Provide full access"
+msgstr "Nyadiakeun aksés full"
+
+msgid "Select elements to provide access"
+msgstr "Pilih unsur pikeun nyadiakeun aksés"
+
+msgid "Select all"
+msgstr "pilih sadaya"
+
+msgid "User E-mail"
+msgstr "Pamaké E -mail"
+
+msgid "Click on the field to select a category"
+msgstr "Klik dina widang pikeun milih kategori a"
+
+msgid "Invitation was deleted"
+msgstr "Uleman ieu dihapus"
+
+msgid "Permission denied"
+msgstr "Widi ditolak"
+
+msgid "Printed"
+msgstr "dicitak"
+
+msgid "Incorrect Contractor email"
+msgstr "Email kontraktor salah"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Ulah nu Anjeun hoyong tambah proyék pikeun ngabiayaan manager ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Pikeun ngalengkepan prosés pandaptaran mangga eusian turun kaahlian Anjeun"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Hiji mail sareng parentah salajengna dikirim ka alamat surélék"
+
+msgid "Submit"
+msgstr "Nepikeun"
+
+msgid "Cars"
+msgstr "mobil"
+
+msgid "Science"
+msgstr "elmu pangaweruh"
+
+msgid "Donation"
+msgstr "tutulung"
+
+msgid "Interests"
+msgstr "kapentingan"
+
+msgid "Driver"
+msgstr "nu nyetir"
+
+msgid "Sportsman"
+msgstr "olahragawan"
+
+msgid "Businessman"
+msgstr "lalaki nu balantik"
+
+msgid "Accountant"
+msgstr "akuntan"
+
+msgid "Engineer"
+msgstr "insinyur"
+
+msgid "Soldier"
+msgstr "soldadu"
+
+msgid "Next"
+msgstr "Teras"
+
+msgid "Hide group"
+msgstr "sumputkeun group"
+
+msgid "groups created"
+msgstr "grup dijieun"
+
+msgid "articles written"
+msgstr "artikel nu ditulis"
+
+msgid "These groups may be interesting for you"
+msgstr "Grup ieu bisa jadi metot pikeun anjeun"
+
+msgid "About Group"
+msgstr "ngeunaan Group"
+
+msgid "view(s)"
+msgstr "view (s)"
+
+msgid "Favorite users"
+msgstr "pamaké paporit"
+
+msgid "No accounts"
+msgstr "no akun"
+
+msgid "Facebook authorization failed."
+msgstr "Otorisasina Facebook gagal."
+
+msgid "Authorization Required"
+msgstr "otorisasina dibutuhkeun"
+
+msgid "You have to make a call:"
+msgstr "Anjeun kudu nelepon :"
+
+msgid "You have to send an email:"
+msgstr "Anjeun kudu ngirim email :"
+
+msgid "You have a meetup:"
+msgstr "Anjeun boga meetup a :"
+
+msgid "You event :"
+msgstr "Kajadian Anjeun :"
+
+msgid "Participants:"
+msgstr "peserta :"
+
+msgid "Search"
+msgstr "search"
+
+msgid "News"
+msgstr "wartos"
+
+msgid "Investments"
+msgstr "Investasi"
+
+msgid "Back to Cloud"
+msgstr "Deui ka Awan"
+
+msgid "Documents"
+msgstr "dokumén"
+
+msgid "Planet"
+msgstr "planet"
+
+msgid "Group url"
+msgstr "url group"
+
+msgid "Profile url"
+msgstr "propil url"
+
+msgid "Already taken"
+msgstr "Atos dicandak"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Sahenteuna 1 surat jeung 3 chars panjang diperlukeun"
+
+msgid "Digit can not be the first character"
+msgstr "Angka teu bisa karakter mimiti"
+
+msgid "Enter valid email address"
+msgstr "Asupkeun alamat surélék nu sah"
+
+msgid "Enter your skills"
+msgstr "Tuliskeun kaahlian Anjeun"
+
+msgid "Enter your first name"
+msgstr "Tuliskeun ngaran hareup Anjeun"
+
+msgid "Enter your last name"
+msgstr "Tuliskeun ngaran tukang Anjeun"
+
+msgid "Enter your first name and last name"
+msgstr "Tuliskeun ngaran hareup jeung ngaran tukang"
+
+msgid "Your first name?"
+msgstr "Ngaran hareup anjeun?"
+
+msgid "Your last name?"
+msgstr "Ngaran tukang anjeun?"
+
+msgid "What are your proficiencies?"
+msgstr "Naon nu proficiencies anjeun?"
+
+msgid "Select country"
+msgstr "Pilih nagara"
+
+msgid "Select user"
+msgstr "Pilih pamaké"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Minuhan ngimpi anjeun ! Nyieun jeung kolaborasi ."
+
+msgid "date moved from"
+msgstr "date pindah ti"
+
+msgid "work"
+msgstr "pagawean"
+
+msgid "Conference"
+msgstr "konperensi"
+
+msgid "personal"
+msgstr "personal"
+
+msgid "Holiday"
+msgstr "lebaran"
+
+msgid "Past"
+msgstr "Geus kaliwat"
+
+msgid "Future"
+msgstr "Future"
+
+msgid "Purchase"
+msgstr "Meuli"
+
+msgid "Personal events"
+msgstr "Kajadian swasta"
+
+msgid "Conferences"
+msgstr "Papanggihan"
+
+msgid "Holidays"
+msgstr "Libur"
+
+msgid "Sport events"
+msgstr "Kajadian olahraga"
+
+msgid "Tasks"
+msgstr "Tugas"
+
+msgid "Other events"
+msgstr "Kajadian séjén"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Nunggak"
+
+msgid "Time management"
+msgstr "Management waktu"
+
+msgid "Delayed events"
+msgstr "Kajadian nunggak"
+
+msgid "Delayed"
+msgstr "Nunggak"
+
+msgid "Bind to"
+msgstr "Mere tugas"
+
+msgid "answered your comment to"
+msgstr "Ceuk (a) Aryani dina artikel"
+
+msgid "commented your article"
+msgstr "I commented on artikel Anjeun"
+
+msgid "You\'ve answered on comment to"
+msgstr "Anjeun direspon ka comment dina artikel"
+
+msgid "You\'ve commented an article"
+msgstr "Anjeun commented on artikel"
+
+msgid "Terms and Conditions"
+msgstr "Sarat jeung Kaayaan"
+
+msgid "Privacy Policy"
+msgstr "Sarat jeung Kaayaan Pamakéan"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Ku ngaklik dina \"asup ka\" anjeun satuju jeung urang jeung ngaku yen anjeun geus maca urang"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Miluan masarakat jalma kreatif ti sakumna dunya! Anjeun bakal nampa: investasi dina gagasan Anjeun, hiji kasempetan pikeun ngumpulkeun timnya, digawé di hiji group, manajer finansial, menata waktu maranéhanana, 2 gigabytes di gudang jeung leuwih. Jeung éta bébas!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Hampura, ngan kaca nu Anjeun keur pilari teu aya. Lamun Anjeun mikir yén ka ngalepatkeun urang kontak urang"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "COMMON"
+msgstr "Total"
+
+msgid "My events"
+msgstr "Kajadian mah"
+
+msgid "Job opening"
+msgstr "Lowongan New"
+
+msgid "Employment"
+msgstr "Jenis pagawean"
+
+msgid "Working hours"
+msgstr "Jam muka"
+
+msgid "City"
+msgstr "Kota"
+
+msgid "Wages"
+msgstr "Bayaran"
+
+msgid "Currency"
+msgstr "Mata"
+
+msgid "Experience"
+msgstr "Pangalaman"
+
+msgid "Full-time"
+msgstr "Pagawean Full"
+
+msgid "Part-time"
+msgstr "Bagian-time"
+
+msgid "Project employment"
+msgstr "Project / samentara"
+
+msgid "Volunteer"
+msgstr "Volunteering"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "Full Time"
+
+msgid "Shifts"
+msgstr "Jadwal ngagantian"
+
+msgid "Flexible shifts"
+msgstr "Jadwal fléksibel"
+
+msgid "Remote work"
+msgstr "Jauh karya"
+
+msgid "Rotational basis"
+msgstr "Métode Shift"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Dupi anjeun yakin nu Anjeun hoyong pupus comment nu?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Dupi anjeun yakin nu Anjeun hoyong pupus ieu tugas?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Dupi anjeun yakin nu Anjeun hoyong pupus ieu sub-proyék?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Anjeun geus dilarapkeun ka pausahaan di posisi. Mangga pastikeun yén"
+
+msgid "Your request to for job has been rejected"
+msgstr "Pamundut anjeun ka pausahaan ka posisi geus ditampik"
+
+msgid "Your request to for job has been accepted"
+msgstr "Pamundut anjeun ka pausahaan ka posisi diadopsi"
+
+msgid "profile is completed"
+msgstr "Profil anjeun pinuh"
+
+msgid "Use account"
+msgstr "Make akun"
+
+msgid "$/hr"
+msgstr "$ / Jam"
+
+msgid "Finance category"
+msgstr "Kategori Financial"
+
+msgid "No projects"
+msgstr "No proyék"
+
+msgid "Bind to finances"
+msgstr "Napelkeun proyék finansial"
+
+msgid "Preview"
+msgstr "View"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Save to my cloud"
+msgstr "Nyalin Repository nu"
+
+msgid "File successfully saved to your cloud"
+msgstr "Payil hasil disimpen dina Repository Anjeun"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Nyalametkeun file ieu di Repository anjeun?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Pilih kategori a Pasal"
+
+msgid "Type something"
+msgstr "Nulis hal"
+
+msgid "Founded users"
+msgstr "Kapanggih pamaké"
+
+msgid "Founded articles"
+msgstr "Kapanggih artikel"
+
+msgid "Founded groups"
+msgstr "Group diadegkeun"
+
+msgid "What are your skills?"
+msgstr "Naon nu kaahlian anjeun?"
+
+msgid "Select at least 2 interests"
+msgstr "Pilih sahenteuna 2 interest"
+
+msgid "Need more interests"
+msgstr "Teu cukup dipikaresep dipilih"
+
+msgid "What are you interesting in?"
+msgstr "Naon anjeun museurkeun?"
+
+msgid "You have no dialogs"
+msgstr "Anjeun teu ngabogaan dialogues"
+
+msgid "Usage Stats"
+msgstr "Nagara"
+
+msgid "Founded files"
+msgstr "Payil Dipanggihan"
+
+msgid "Big tiles"
+msgstr "Kotak badag"
+
+msgid "Small tiles"
+msgstr "Kotak leutik"
+
+msgid "Table view"
+msgstr "View Table"
+
+msgid "Root folder"
+msgstr "Diréktori akar"
+
+msgid "My files"
+msgstr "Payil mah"
+
+msgid "Save as draft"
+msgstr "Simpan ka Ngiringan"
+
+msgid "Buy More Space"
+msgstr "Meuli leuwih rohangan"
+
+msgid "Buy"
+msgstr "Meuli"
+
+msgid "You have been invited to group as"
+msgstr "Anjeun geus diondang grup salaku"
+
+msgid "User wants to join your group"
+msgstr "Pamaké wishes ngagabung grup anjeun"
+
+msgid "Section is coming soon!"
+msgstr "Bagian dina konstruksi!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Tampilan dina 24 jam pamungkas:"
+
+msgid "Task was updated"
+msgstr "Tugas geus diropéa"
+
+msgid "Task was closed"
+msgstr "Tangtangan geus ditutup"
+
+msgid "Task was created"
+msgstr "Tugas ieu diatur"
+
+msgid "Current balance"
+msgstr "Kasaimbangan kiwari"
+
+msgid "Add funds"
+msgstr "Nambah"
+
+msgid "Pay"
+msgstr "Checkout"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Anjeun geus ngaleuwihan jumlah usaha login. Anjeun diblokir pikeun 15 menit"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Mangga pastikeun e-mail Anjeun. Hurup dikirim ka anjeun ku mail."
+
+msgid "Resend confirmation email"
+msgstr "Kirimkeun konfirmasi deui"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB per bulan"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Ngajalankeun 10 GB per taun"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Piringan 100 GB unggal taun"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Piringan 1TB bulanan"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Ngajalankeun 1 TB unggal taun"
+
+msgid "Project members monthly"
+msgstr "Peserta proyek dina dasar bulanan"
+
+msgid "Project members yearly"
+msgstr "Pamilon Project taunan"
+
+msgid "Member(s) yearly"
+msgstr "Anggota (s) per taun"
+
+msgid "Member(s) monthly"
+msgstr "Anggota (s) dina dasar bulanan"
+
+msgid "Authorized"
+msgstr "Otorisasi"
+
+msgid "Authorization expired"
+msgstr "Otorisasina kadaluwarsa"
+
+msgid "Processor declined"
+msgstr "System processing ditampik"
+
+msgid "Gateway rejected"
+msgstr "Ditampik gateway pamayaran"
+
+msgid "Failed"
+msgstr "Kasalahan"
+
+msgid "Voided"
+msgstr "Ngabatalkeun"
+
+msgid "Submitted for settlement"
+msgstr "Dikirim ka enroll"
+
+msgid "Settlement declined"
+msgstr "Enrollment geus ditampik"
+
+msgid "Settlement pending"
+msgstr "Pending enrollment"
+
+msgid "Verified"
+msgstr "Contréng"
+
+msgid "Pending"
+msgstr "Sabari nunggu"
+
+msgid "Active"
+msgstr "Aktip"
+
+msgid "Past Due"
+msgstr "Kadaluwarsa"
+
+msgid "Expired"
+msgstr "Réngsé"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "India"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "South Korea"
+msgstr "Korea Kidul"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Belarus"
+msgstr "Bélarus"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Turkey"
+msgstr "Kalkun"
+
+msgid "Armenia"
+msgstr "Arménia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Poland"
+msgstr "Polandia"
+
+msgid "Germany"
+msgstr "Jérman"
+
+msgid "Italy"
+msgstr "Italy"
+
+msgid "Netherlands"
+msgstr "Walanda"
+
+msgid "Ireland"
+msgstr "Irlandia"
+
+msgid "United Kingdom"
+msgstr "Britania Raya"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Norway"
+msgstr "Norwégia"
+
+msgid "United States"
+msgstr "Amérika Sarikat"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+msgid "Canada"
+msgstr "Mesir"
+
+msgid "Russia"
+msgstr "Rusia"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Dina momen, aya teu urus single"
+
+msgid "Fulfill your dream"
+msgstr "Minuhan ngimpi anjeun"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Miluan masarakat urang individu kreatif ti sakumna di sakumna dunya."
+
+msgid "Create and Collaborate"
+msgstr "Nyieun jeung kolaborasi"
+
+msgid "Start Dreaming"
+msgstr "Minuhan ngimpi AYEUNA"
+
+msgid "or"
+msgstr "atawa"
+
+msgid "Our mission:"
+msgstr "Misi urang:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Ngahiji jalma kreatif sarta aktif pikeun nerapkeun gagasan ti basajan jeung di paménta ka luar biasa jeung hebat pisan, nu bisa bentukna hareup urang."
+
+msgid "What is Konstruktor?"
+msgstr "Naon Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor- téh mangrupa bagian tina kahirupan nyata urang, nu nyata facilitates jeung simplifies"
+
+msgid "*business processes"
+msgstr "* prosés usaha"
+
+msgid "*materialization of creative ideas"
+msgstr "* materialization gagasan kreatif"
+
+msgid "*constructive cooperation"
+msgstr "* gawé babarengan konstruktif"
+
+msgid "Make your dream!"
+msgstr "Nyieun ngimpi anjeun!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Panaséhat Special"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Manager, Development Software"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Pengacara senior"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Jelema nu nyieun rarancang"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Ku ngaklik dina \"Next\" tombol, Anjeun narima jeung agreeing jeung Sarat jeung Kaayaan urang, jeung anjeun acknowledging nu geus maca Sarat jeung Kaayaan Pamakéan urang."
+
+msgid "Incorrect login or password."
+msgstr "Login salah atawa kecap akses."
+
+msgid "Password must be at least 6 characters"
+msgstr "Sandi sahenteuna kudu 6 karakter"
+
+msgid "January"
+msgstr "Januari"
+
+msgid "February"
+msgstr "Pebruari"
+
+msgid "March"
+msgstr "Baris"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "August"
+msgstr "Agustus"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "November"
+msgstr "Nopember"
+
+msgid "December"
+msgstr "Desember"
+
+msgid "Chat"
+msgstr "Ngobrol"
+
+msgid "Files"
+msgstr "Payil"
+
+msgid "Statistic"
+msgstr "Statistik"
+
+msgid "Support"
+msgstr "Rojongan"
+
+msgid "Exit"
+msgstr "Kaluar"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Bélarus"
+
+msgid "Marketing specialist"
+msgstr "Ahli Marketing"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Shared with me"
+msgstr "Babarengan jeung kuring"
+
+msgid "File Sharing"
+msgstr "Sharing File"
+
+msgid "Provide access by link"
+msgstr "Nyadiakeun aksés ku link"
+
+msgid "Provide Individual access"
+msgstr "Nyadiakeun aksés individu"
+
+msgid "Provide edit access"
+msgstr "Nyadiakeun édit aksés"
+
+msgid "Share"
+msgstr "Ngabagikeun"
+
+msgid "Files will be available only for selected users"
+msgstr "Payil baris sadia ngan pikeun pamaké nu dipilih"
+
+msgid "With this link everyone can access to the files"
+msgstr "Jeung kaluar ieu dulur bisa ngakses ka payil"
+
+msgid "Search users, groups, articles..."
+msgstr "Pamaké Search, kelompok, artikel ..."
+
+msgid "My Group"
+msgstr "Group mah"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Urang"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Koropakna teu dipilih"
+
+msgid "Set aside"
+msgstr "Sisihkan"
+
+msgid "Event time"
+msgstr "Waktu kajadian"
+
+msgid "Work"
+msgstr "Pagawean"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Time spent for work:"
+msgstr "Waktu spent pikeun karya:"
+
+msgid "Personal time spent:"
+msgstr "Waktu Personal spent:"
+
+msgid "Present"
+msgstr "Ayeuna"
+
+msgid "Common"
+msgstr "Umum"
+
+msgid "Sport"
+msgstr "Olahraga"
+
+msgid "Entertainment"
+msgstr "Raramean"
+
+msgid "Select:"
+msgstr "Pilih:"
+
+msgid "Invalid username or password."
+msgstr "Username sah atawa kecap akses."
+
+msgid "Try again."
+msgstr "Cobian deui."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "Naon anu anjeun museurkeun?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Pilih sahenteuna 2 kaahlian: tetep 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Pilih sahenteuna 2 kaahlian: tetep 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Pilih sahenteuna 2 kaahlian: sésa-sésa"
+
+msgid "Active life"
+msgstr "Hirup aktip"
+
+msgid "Arts and culture"
+msgstr "Seni jeung budaya"
+
+msgid "Business"
+msgstr "Bisnis"
+
+msgid "Cinema"
+msgstr "Bioskop"
+
+msgid "Communications"
+msgstr "Communications"
+
+msgid "Construction and repair"
+msgstr "Konstruksi jeung perbaikan"
+
+msgid "Cooking"
+msgstr "Masak"
+
+msgid "Education"
+msgstr "Pendidikan"
+
+msgid "Electronics"
+msgstr "Electronics"
+
+msgid "Finances"
+msgstr "Finances"
+
+msgid "Graphics and design"
+msgstr "Grafik jeung desain"
+
+msgid "Health"
+msgstr "Kasehatan"
+
+msgid "Home and family"
+msgstr "Imah jeung kulawarga"
+
+msgid "Humor"
+msgstr "Ocon"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Industri"
+
+msgid "Insurance"
+msgstr "Asuransi"
+
+msgid "Literature"
+msgstr "Sastra"
+
+msgid "Mobile communications and internet"
+msgstr "Komunikasi Mobile jeung internet"
+
+msgid "News and Media"
+msgstr "News jeung Media"
+
+msgid "Pets"
+msgstr "Pets"
+
+msgid "Products and service"
+msgstr "Produk jeung layanan"
+
+msgid "Real Estate"
+msgstr "Perumahan"
+
+msgid "Religion"
+msgstr "Agama"
+
+msgid "Science and techs"
+msgstr "Élmu sarta techs"
+
+msgid "Security"
+msgstr "Kaamanan"
+
+msgid "Society"
+msgstr "Perkumpulan"
+
+msgid "Television"
+msgstr "Telepisi"
+
+msgid "Travel"
+msgstr "Travel"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Belarus"
+msgstr "Bélarus"
+
+msgid "Belgium"
+msgstr "Bélgia"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Denmark"
+
+msgid "France"
+msgstr "Perancis"
+
+msgid "Germany"
+msgstr "Jérman"
+
+msgid "Greece"
+msgstr "Yunani"
+
+msgid "Hungary"
+msgstr "Hungaria"
+
+msgid "Iceland"
+msgstr "Islandia"
+
+msgid "Ireland"
+msgstr "Irlandia"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Italy"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Netherlands"
+msgstr "Walanda"
+
+msgid "New Zealand"
+msgstr "Selandia Baru"
+
+msgid "Norway"
+msgstr "Norwégia"
+
+msgid "Poland"
+msgstr "Polandia"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Russia"
+msgstr "Rusia"
+
+msgid "Slovakia"
+msgstr "Slowakia"
+
+msgid "South Africa"
+msgstr "Afrika Kidul"
+
+msgid "South Korea"
+msgstr "Korea Kidul"
+
+msgid "Spain"
+msgstr "Spanyol"
+
+msgid "Sweden"
+msgstr "Swédia"
+
+msgid "Switzerland"
+msgstr "Switzerland"
+
+msgid "Turkey"
+msgstr "kalkun"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "United Arab Emirates"
+msgstr "Uni Émirat Arab"
+
+msgid "United Kingdom"
+msgstr "karajaan Inggris"
+
+msgid "United States"
+msgstr "Amérika Sarikat"
+
+msgid "achievements"
+msgstr "prestasi"
+
+msgid "Investment management"
+msgstr "Management Investment"
+
+msgid "Select..."
+msgstr "Pilih ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "Manajemén investasi"
+
+msgid "Investors list"
+msgstr "List investor"
+
+msgid "My investments"
+msgstr "Investasi mah"
+
+msgid "Create date"
+msgstr "Jieun date"
+
+msgid "Author of the project"
+msgstr "Author proyek"
+
+msgid "Date and time"
+msgstr "Titimangsa jeung wanci"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "NEXT"
+msgstr "TERAS"
+
+msgid "Next"
+msgstr "Teras"
+
+msgid "Apply"
+msgstr "Ngalamar"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Elmu pangaweruh"
+
+msgid "Architecture"
+msgstr "Arsitéktur"
+
+msgid "Photography"
+msgstr "Fotografi"
+
+msgid "Designer"
+msgstr "Jelema nu nyieun rarancang"
+
+msgid "IT specialist"
+msgstr "Ahli IT"
+
+msgid "Agronomist"
+msgstr "Agronomist"
+
+msgid "Architect"
+msgstr "Architector"
+
+msgid "Lawyer"
+msgstr "Pengacara"
+
+msgid "Writer"
+msgstr "Nu nulis"
+
+msgid "Doctor"
+msgstr "Dokter"
+
+msgid "Scientist"
+msgstr "Nu ahli di sahiji elmu"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Guru"
+
+msgid "Cook"
+msgstr "Masak"
+
+msgid "Artist"
+msgstr "Artis"
+
+msgid "Photographer"
+msgstr "Fotografer"
+
+msgid "Ecologist"
+msgstr "Ecologist"
+
+msgid "Economist"
+msgstr "Ékonom"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Wartawan"
+
+msgid "Builder"
+msgstr "Nu ngawangun"
+
+msgid "These users may be interesting for you"
+msgstr "Pamaké ieu bisa jadi istiméwa pikeun anjeun"
+
+msgid "These articles may be interesting for you"
+msgstr "Artikel ieu bisa jadi istiméwa pikeun anjeun"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Anjeun ngagabung grup ieu salaku Аdministrator"
+
+msgid "articles written."
+msgstr "artikel nu ditulis."
+
+msgid "groups created."
+msgstr "Grup dijieun."
+
+msgid "Creation"
+msgstr "Ciptaan"
+
+msgid "Build a dream"
+msgstr "Ngawangun impian"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Baca artikel leuwih narik - balik ngadaptar bébas"
+

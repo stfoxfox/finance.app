@@ -1,0 +1,3341 @@
+# Lietuvos (Литовский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Lietuvos (Литовский) <support@konstruktor.com>\n"
+"Language: Lietuvos (Литовский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "vardas"
+
+msgid "Invalid username or password, try again"
+msgstr "Neteisingas prisijungimo vardas arba slaptažodis. Bandyk iš naujo."
+
+msgid "Settings"
+msgstr "Nustatymai"
+
+msgid "Home"
+msgstr "namo"
+
+msgid "You must log in to access this page"
+msgstr "Jūs turite prisijungti , kad pasiektumėte puslapį"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Jūsų sesija buvo pasibaigęs . Prašome prisijungti iš naujo atlikti šį veiksmą"
+
+msgid "Save"
+msgstr "Išsaugoti"
+
+msgid "Head Office"
+msgstr "Pagrindinis Biuras"
+
+msgid "Address"
+msgstr "adresas"
+
+msgid "Back"
+msgstr "atgal"
+
+msgid "Apply"
+msgstr "taikyti"
+
+msgid "Upload files…"
+msgstr "Įkelkite failus ..."
+
+msgid "Set as main"
+msgstr "Nustatyti kaip pagrindinį"
+
+msgid "Delete"
+msgstr "panaikinti"
+
+msgid "Original image"
+msgstr "Originalus vaizdas"
+
+msgid "Uploaded"
+msgstr "Įkelta"
+
+msgid "File name"
+msgstr "failo pavadinimas"
+
+msgid "File size"
+msgstr "Failo dydis"
+
+msgid "Resolution"
+msgstr "rezoliucija"
+
+msgid "Enlarge"
+msgstr "padidinti"
+
+msgid "Links"
+msgstr "saitai"
+
+msgid "Original size"
+msgstr "Originalus dydis"
+
+msgid "For editor"
+msgstr "Dėl redaktorius"
+
+msgid "Resize"
+msgstr "Keisti"
+
+msgid "Width"
+msgstr "plotis"
+
+msgid "Height"
+msgstr "aukštis"
+
+msgid "Media URL"
+msgstr "Žiniasklaida URL"
+
+msgid "Add record"
+msgstr "Pridėti įrašą"
+
+msgid "Show filter settings"
+msgstr "Rodyti filtro parametrai"
+
+msgid "Edit record"
+msgstr "Redaguoti įrašą"
+
+msgid "Delete record"
+msgstr "Ištrinti įrašą"
+
+msgid "Delete checked records"
+msgstr "Ištrinti pažymėtus įrašus"
+
+msgid "Dashboard"
+msgstr "prietaisų skydas"
+
+msgid "Password"
+msgstr "slaptažodis"
+
+msgid "Remember me"
+msgstr "Prisimink mane"
+
+msgid "Login"
+msgstr "prisijungti"
+
+msgid "Clean image cache"
+msgstr "Švarus vaizdo atmintis"
+
+msgid "Processing query..."
+msgstr "Apdorojimo užklausos ..."
+
+msgid "CMS Development"
+msgstr "TVS kūrimas"
+
+msgid "Admin Home Page"
+msgstr "Administratorius Pradinis tinklalapis"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Atviras Pradinis puslapis Front -end naujame skirtuke"
+
+msgid "Go to Site"
+msgstr "Eiti į puslapį"
+
+msgid "Log out"
+msgstr "atsijungti"
+
+msgid "Send"
+msgstr "siųsti"
+
+msgid "General"
+msgstr "bendras"
+
+msgid "Title"
+msgstr "pavadinimas"
+
+msgid "Teaser"
+msgstr "anonsas"
+
+msgid "Published"
+msgstr "Paskelbta"
+
+msgid "Featured"
+msgstr "Populiariausios"
+
+msgid "Active"
+msgstr "aktyvus"
+
+msgid "Field is mandatory"
+msgstr "Lauko yra privalomi"
+
+msgid "Sort Order"
+msgstr "Rūšiuoti Užsakyti"
+
+msgid "Upload"
+msgstr "Įkelti"
+
+msgid "Loading..."
+msgstr "Įkeliama ..."
+
+msgid "Jan"
+msgstr "Sau"
+
+msgid "Feb"
+msgstr "vasaris"
+
+msgid "Mar"
+msgstr "kovas"
+
+msgid "Apr"
+msgstr "balandis"
+
+msgid "May"
+msgstr "gegužės"
+
+msgid "Jun"
+msgstr "birželis"
+
+msgid "Jul"
+msgstr "liepa"
+
+msgid "Aug"
+msgstr "rugpjūtis"
+
+msgid "Sep"
+msgstr "rugsėjis"
+
+msgid "Oct"
+msgstr "spalis"
+
+msgid "Nov"
+msgstr "lapkritis"
+
+msgid "Dec"
+msgstr "gruodis"
+
+msgid "Product already exists in the order"
+msgstr "Prekės jau egzistuoja tam"
+
+msgid "Product does not exist"
+msgstr "Prekės neegzistuoja"
+
+msgid "Incorrect request"
+msgstr "Neteisingas prašymas"
+
+msgid "Products"
+msgstr "produktai"
+
+msgid "Product types"
+msgstr "Produktų tipai"
+
+msgid "Contractors"
+msgstr "Rangovai"
+
+msgid "Contractor"
+msgstr "rangovas"
+
+msgid "Orders"
+msgstr "Užsakymai"
+
+msgid "FAQ"
+msgstr "DUK"
+
+msgid "New order"
+msgstr "Nauja tvarka"
+
+msgid "My orders"
+msgstr "Mano užsakymai"
+
+msgid "Recharge balance"
+msgstr "Įkraukite balansas"
+
+msgid "Administrator"
+msgstr "administratorius"
+
+msgid "Incorrect event ID"
+msgstr "Neteisingas įvykio ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Redaguoti rangovas"
+
+msgid "Create contractor"
+msgstr "Sukurti rangovą"
+
+msgid "Edit question"
+msgstr "Redaguoti klausimas"
+
+msgid "Create question"
+msgstr "Sukurti klausimą"
+
+msgid "Edit order"
+msgstr "Redaguoti kad"
+
+msgid "Create order"
+msgstr "Sukurti užsakymą"
+
+msgid "Edit product"
+msgstr "Redaguoti produktas"
+
+msgid "Create product"
+msgstr "Sukurti produktą"
+
+msgid "Edit product type"
+msgstr "Redaguoti produkto tipas"
+
+msgid "Create product type"
+msgstr "Sukurti produkto tipą"
+
+msgid "You have received a file"
+msgstr "Gavote failą"
+
+msgid "You received a file from"
+msgstr "Gavote failą iš"
+
+msgid "File has been uploaded"
+msgstr "Failas buvo įkeltas"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "Minimalus kiekis"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "daiktai"
+
+msgid "Remove"
+msgstr "pašalinti"
+
+msgid "Contact person"
+msgstr "Kontaktinis asmuo"
+
+msgid "Email"
+msgstr "paštas"
+
+msgid "Contractor phone"
+msgstr "rangovas telefonas"
+
+msgid "Contractor name"
+msgstr "Paslaugų pavadinimas"
+
+msgid "Contractor details"
+msgstr "Rangovų detalės"
+
+msgid "Order ID"
+msgstr "Užsakyti ID"
+
+msgid "Sum"
+msgstr "suma"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Pasirinkite tinkamą mokėjimo sistemą papildyti savo balansą"
+
+msgid "Recharge amount"
+msgstr "Įkraukite suma"
+
+msgid "Paid"
+msgstr "apmokėtas"
+
+msgid "Shipped"
+msgstr "Komplektuojamas"
+
+msgid "- No products in this order -"
+msgstr "- Nėra produktų šioje tvarka -"
+
+msgid "month"
+msgstr "mėnuo"
+
+msgid "No user found"
+msgstr "Nerasta jokių naudotojų"
+
+msgid "Achievement"
+msgstr "laimėjimas"
+
+msgid "Confirmed accomplishments"
+msgstr "patvirtinti pasiekimai"
+
+msgid "Remove achievement"
+msgstr "Pašalinti pasiekimas"
+
+msgid "Headquaters"
+msgstr "būstinės"
+
+msgid "Phone"
+msgstr "telefonas"
+
+msgid "Site URL and email"
+msgstr "Svetainės adresas ir elektroninio pašto adresą"
+
+msgid "Remove address"
+msgstr "Pašalinti adresas"
+
+msgid "Members"
+msgstr "nariai"
+
+msgid "Requires a payment"
+msgstr "Reikalingas mokėjimą"
+
+msgid "Shipping"
+msgstr "gabenimas"
+
+msgid "Ready"
+msgstr "paruoštas"
+
+msgid "Find user..."
+msgstr "Surasti vartotoją ..."
+
+msgid "Order it"
+msgstr "užsakyti"
+
+msgid "Find group..."
+msgstr "Ieškoti grupė ..."
+
+msgid "Find user or community..."
+msgstr "Surasti vartotoją ar bendruomenės ..."
+
+msgid "No item found"
+msgstr "Nėra punktas nustatė,"
+
+msgid "years"
+msgstr "metų"
+
+msgid "Send message"
+msgstr "Siųsti žinutę"
+
+msgid "Message"
+msgstr "žinutė"
+
+msgid "To send message press Enter"
+msgstr "Norėdami išsiųsti žinutę paspauskite Enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Kad nusiųstumėte pranešimą paspauskite Ctrl + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Apdorojimo failas ( -ai) ..."
+
+msgid "Group settings"
+msgstr "Grupės nustatymai"
+
+msgid "Create group"
+msgstr "Sukurti grupę"
+
+msgid "Group has been successfully saved"
+msgstr "Grupė buvo išsaugota sėkmingai"
+
+msgid "Group title"
+msgstr "grupės pavadinimas"
+
+msgid "Group video"
+msgstr "grupė vaizdo"
+
+msgid "Description"
+msgstr "aprašymas"
+
+msgid "Your role in group"
+msgstr "Jūsų vaidmuo grupės"
+
+msgid "Role"
+msgstr "vaidmuo"
+
+msgid "Photo or video gallery"
+msgstr "Nuotraukų arba vaizdo galerija"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com adresas"
+
+msgid "Upload video"
+msgstr "Įkelti vaizdo įrašai"
+
+msgid "Add group address"
+msgstr "Pridėti Group Adresas"
+
+msgid "Group articles"
+msgstr "grupė straipsniai"
+
+msgid "No addresses yet"
+msgstr "Nėra adresai dar"
+
+msgid "Add group achievement"
+msgstr "Įdėti grupės pasiekimas"
+
+msgid "No achivements yet"
+msgstr "Nėra Pasiekimai dar"
+
+msgid "Are you sure to delete this user"
+msgstr "Ar tikrai norite ištrinti šį vartotoją"
+
+msgid "Add member"
+msgstr "Įtraukti narį"
+
+msgid "Are you sure to delete this record?"
+msgstr "Ar tikrai norite ištrinti šį įrašą?"
+
+msgid "Join this group"
+msgstr "Prisijungti prie šios grupės"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Jūsų pakvietimas išsiųstas grupės administratorius"
+
+msgid "All addresses"
+msgstr "Visi adresai"
+
+msgid "Collapse"
+msgstr "žlugimas"
+
+msgid "Achievements"
+msgstr "Pasiekimai"
+
+msgid "Show more"
+msgstr "Rodyti daugiau"
+
+msgid "Team"
+msgstr "komanda"
+
+msgid "Projects"
+msgstr "Projektai"
+
+msgid "New project"
+msgstr "Naujas projektas"
+
+msgid "Project has not been created yet"
+msgstr "Projektų nebuvo sukurta dar"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "balansas"
+
+msgid "Main page"
+msgstr "pagrindinis puslapis"
+
+msgid "Upload image"
+msgstr "Įkelti vaizdo"
+
+msgid "My time"
+msgstr "Mano laikas"
+
+msgid "Day"
+msgstr "diena"
+
+msgid "Week"
+msgstr "savaitė"
+
+msgid "Project settings"
+msgstr "Projekto nustatymai"
+
+msgid "Create project"
+msgstr "Sukurti projektą"
+
+msgid "Project has been successfully saved"
+msgstr "Projektas buvo sėkmingai išsaugotas"
+
+msgid "Project name"
+msgstr "Projekto pavadinimas"
+
+msgid "Deadline"
+msgstr "terminas"
+
+msgid "Close"
+msgstr "arti"
+
+msgid "Manager"
+msgstr "vadybininkas"
+
+msgid "Assigned to"
+msgstr "priskirtas"
+
+msgid "Discussion"
+msgstr "diskusija"
+
+msgid "Task was created"
+msgstr "Užduotis buvo sukurtas"
+
+msgid "Task was closed"
+msgstr "Užduotis buvo uždarytas"
+
+msgid "Go to Group"
+msgstr "Eiti į grupės"
+
+msgid "Closed"
+msgstr "uždaryta"
+
+msgid "Last updates"
+msgstr "Paskutinis atnaujinimas"
+
+msgid "Project is closed"
+msgstr "Projektas baigtas"
+
+msgid "No open tasks"
+msgstr "Nėra atviros užduotys"
+
+msgid "New task"
+msgstr "Nauja užduotis"
+
+msgid "Closed tasks"
+msgstr "Uždaros užduotys"
+
+msgid "Add subproject"
+msgstr "Pridėti subprojektas"
+
+msgid "Add task"
+msgstr "Pridėti užduotį"
+
+msgid "Sun"
+msgstr "sekmadienis"
+
+msgid "Mon"
+msgstr "pirmadienis"
+
+msgid "Tue"
+msgstr "antradienis"
+
+msgid "Wed"
+msgstr "trečiadienis"
+
+msgid "Thur"
+msgstr "ketvirtadienis"
+
+msgid "Fri"
+msgstr "penktadienis"
+
+msgid "Sat"
+msgstr "šeštadienis"
+
+msgid "Event title"
+msgstr "Įvykio pavadinimas"
+
+msgid "Event description"
+msgstr "Įvykio aprašymas"
+
+msgid "I registered on this site"
+msgstr "Aš užsiregistravau šioje svetainėje"
+
+msgid "Last created groups"
+msgstr "Paskutinis sukurtas grupės"
+
+msgid "You joined this group as"
+msgstr "Jūs prisijungė šią grupę kaip"
+
+msgid "You received a request to join the group"
+msgstr "Gavote prašymą prisijungti prie grupės"
+
+msgid "Updated site"
+msgstr "Atnaujinta svetainė"
+
+msgid "Site is under construction"
+msgstr "Svetainės statomas"
+
+msgid "Last registered users"
+msgstr "Paskutinis registruoti vartotojai"
+
+msgid "User settings"
+msgstr "Vartotojo nustatymai"
+
+msgid "Technical support"
+msgstr "Techninė pagalba"
+
+msgid "Change email"
+msgstr "Pakeisti elektroninio pašto adresą"
+
+msgid "Change password"
+msgstr "pakeisti slaptažodį"
+
+msgid "User has been successfully saved"
+msgstr "Vartotojas buvo išsaugota sėkmingai"
+
+msgid "Full name"
+msgstr "Pilnas vardas"
+
+msgid "My video"
+msgstr "Mano vaizdo įrašai"
+
+msgid "Skills"
+msgstr "Įgūdžiai"
+
+msgid "Birthday"
+msgstr "gimimo diena"
+
+msgid "Country of residence"
+msgstr "Gyvenamoji šalis"
+
+msgid "Country"
+msgstr "šalis"
+
+msgid "Zip Code"
+msgstr "Pašto kodas"
+
+msgid "City/town of residence"
+msgstr "Miestas / miestelis gyvenamosios"
+
+msgid "University/college"
+msgstr "Universiteto / Koledžo"
+
+msgid "University/college photo"
+msgstr "Universiteto / Koledžo nuotrauka"
+
+msgid "Add user\'s accomplishments"
+msgstr "Įdėti vartotojo pasiekimus"
+
+msgid "Interface language"
+msgstr "sąsajos kalba"
+
+msgid "How other people see this page"
+msgstr "Kaip kiti žmonės mato šį puslapį"
+
+msgid "Video with me"
+msgstr "Vaizdo mane"
+
+msgid "Groups"
+msgstr "Grupės"
+
+msgid "Registered today"
+msgstr "šiandien Registruoti"
+
+msgid "Qty"
+msgstr "Kiekis"
+
+msgid "No registered users yet"
+msgstr "Registruotų vartotojų nėra dar"
+
+msgid "Total"
+msgstr "visas"
+
+msgid "Registered total"
+msgstr "Registruoti viso"
+
+msgid "You received a file"
+msgstr "Gavote failą"
+
+msgid "You were invited into this room"
+msgstr "Jūs buvo pakviesti į šį kambarį"
+
+msgid "Request is being processed"
+msgstr "Prašymas yra tvarkomi"
+
+msgid "Fax"
+msgstr "Faksas"
+
+msgid "Messenger"
+msgstr "pasiuntinys"
+
+msgid "New subproject"
+msgstr "Nauja subprojektas"
+
+msgid "messages written."
+msgstr "parašyta pranešimus."
+
+msgid "projects created based on groups."
+msgstr "projektai sukurta remiantis grupes."
+
+msgid "users registered on website."
+msgstr "Vartotojų įregistruota svetainėje."
+
+msgid "New email"
+msgstr "Nauja siųsti"
+
+msgid "Confirm email"
+msgstr "Patvirtinkite el.pašto adresą"
+
+msgid "New password"
+msgstr "Naujas Slaptažodis"
+
+msgid "Confirm password"
+msgstr "Patvirtinti Slaptažodį"
+
+msgid "Occupation"
+msgstr "Specialybė"
+
+msgid "Timezone"
+msgstr "Laiko zona"
+
+msgid "Answer"
+msgstr "atsakyti"
+
+msgid "Articles"
+msgstr "straipsniai"
+
+msgid "Article"
+msgstr "gaminys"
+
+msgid "Video-article"
+msgstr "Vaizdo straipsnis"
+
+msgid "Find article..."
+msgstr "Ieškoti straipsnį ..."
+
+msgid "Politics"
+msgstr "Politika"
+
+msgid "Economics"
+msgstr "Ekonomika"
+
+msgid "Community"
+msgstr "bendruomenė"
+
+msgid "Culture"
+msgstr "kultūra"
+
+msgid "Sports"
+msgstr "sportinis"
+
+msgid "Hi-tech"
+msgstr "Hi-Tech"
+
+msgid "Cars"
+msgstr "Automobiliai"
+
+msgid "Fashion"
+msgstr "Mada"
+
+msgid "Games"
+msgstr "žaidynės"
+
+msgid "Other"
+msgstr "kitas"
+
+msgid "Invalid mediafile"
+msgstr "Neteisingas mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Nieko straipsniai šioje kategorijoje nėra"
+
+msgid "Back to profile"
+msgstr "Atgal į profilį"
+
+msgid "View article"
+msgstr "Peržiūrėti straipsnis"
+
+msgid "Edit article"
+msgstr "Redaguoti straipsnis"
+
+msgid "Create article"
+msgstr "Sukurti straipsnį"
+
+msgid "Article title"
+msgstr "straipsnio pavadinimas"
+
+msgid "Article section"
+msgstr "skyriuje straipsnis"
+
+msgid "Choose image"
+msgstr "Pasirinkite paveikslėlį"
+
+msgid "Save and upload"
+msgstr "Išsaugoti ir įkelti"
+
+msgid "Show more..."
+msgstr "Rodyti daugiau..."
+
+msgid "Create"
+msgstr "kurti"
+
+msgid "Edit"
+msgstr "redaguoti"
+
+msgid "Project"
+msgstr "Projektų"
+
+msgid "Team"
+msgstr "komandinis"
+
+msgid "A new article was published"
+msgstr "Naujas straipsnis buvo paskelbtas"
+
+msgid "You joined this project"
+msgstr "Jūs prisijungė šį projektą"
+
+msgid "Enter your information in the User settings"
+msgstr "Įveskite informaciją į Vartotojo nustatymai"
+
+msgid "Communities"
+msgstr "bendruomenės"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Vaizdo pristatymas iš mano pasiekimų"
+
+msgid "My articles"
+msgstr "Mano straipsniai"
+
+msgid "User"
+msgstr "vartotojas"
+
+msgid "Users"
+msgstr "Vartotojai"
+
+msgid "Add new list"
+msgstr "Įdėti naują sąrašą"
+
+msgid "List title"
+msgstr "sąrašas pavadinimas"
+
+msgid "Add"
+msgstr "pridurti"
+
+msgid "Add to favorites"
+msgstr "Įtraukti į adresyną"
+
+msgid "Delete from favorites"
+msgstr "Ištrinti iš favoritų"
+
+msgid "Select list"
+msgstr "Pasirinkite sąrašas"
+
+msgid "Subscriptions"
+msgstr "Prenumeratos"
+
+msgid "Subscribe"
+msgstr "prenumeruoti"
+
+msgid "Unsubscribe"
+msgstr "Atsisakyti"
+
+msgid "General list"
+msgstr "Bendra sąrašas"
+
+msgid "No users in this list"
+msgstr "Nėra šiame sąraše vartotojai"
+
+msgid "Publish"
+msgstr "paskelbkite"
+
+msgid "Unpublish"
+msgstr "Unpublish"
+
+msgid "Add user"
+msgstr "Pridėti vartotoją"
+
+msgid "Create document"
+msgstr "Sukurti dokumentą"
+
+msgid "Edit document"
+msgstr "Redaguoti dokumentas"
+
+msgid "View"
+msgstr "Peržiūrėti"
+
+msgid "Document title"
+msgstr "Dokumento pavadinimas"
+
+msgid "Find document..."
+msgstr "Ieškoti dokumento ..."
+
+msgid "Share your thoughts"
+msgstr "Pasidalinkite savo mintimis"
+
+msgid "Leave your comment"
+msgstr "Palikite komentarą"
+
+msgid "Accept"
+msgstr "Priimkite"
+
+msgid "Decline"
+msgstr "smukimas"
+
+msgid "Add article"
+msgstr "Pridėti straipsnį"
+
+msgid "Link to verified accomplishments"
+msgstr "Nuoroda į patikrintus pasiekimus"
+
+msgid "No articles here yet..."
+msgstr "Nieko straipsniai Čia dar ..."
+
+msgid "Find file or folder..."
+msgstr "Ieškoti failą ar aplanką ..."
+
+msgid "Sort"
+msgstr "rūšiuoti"
+
+msgid "By name"
+msgstr "Pagal pavadinimą"
+
+msgid "By date"
+msgstr "Pagal datą"
+
+msgid "By updated date"
+msgstr "Iki šiol atnaujintą"
+
+msgid "By size"
+msgstr "Pagal dydį"
+
+msgid "By type"
+msgstr "Pagal tipą"
+
+msgid "Move"
+msgstr "žingsnis"
+
+msgid "File Manager"
+msgstr "Failų tvarkyklė"
+
+msgid "Share link"
+msgstr "Dalintis nurodo"
+
+msgid "Responsible"
+msgstr "Atsakingas"
+
+msgid "Performer"
+msgstr "atlikėjas"
+
+msgid "New Folder"
+msgstr "Naujas aplankas"
+
+msgid "Folder name"
+msgstr "Aplanko pavadinimas"
+
+msgid "By default"
+msgstr "Pagal nutylėjimą"
+
+msgid "Back to group"
+msgstr "Atgal į grupės"
+
+msgid "year(s)"
+msgstr "m (-ai)"
+
+msgid "January"
+msgstr "sausis"
+
+msgid "February"
+msgstr "vasaris"
+
+msgid "March"
+msgstr "kovas"
+
+msgid "April"
+msgstr "balandis"
+
+msgid "May"
+msgstr "Gegužė"
+
+msgid "June"
+msgstr "birželis"
+
+msgid "July"
+msgstr "liepa"
+
+msgid "August"
+msgstr "rugpjūtis"
+
+msgid "September"
+msgstr "rugsėjis"
+
+msgid "October"
+msgstr "spalis"
+
+msgid "November"
+msgstr "lapkritis"
+
+msgid "December"
+msgstr "gruodis"
+
+msgid "Password Reminder"
+msgstr "slaptažodžio priminimas"
+
+msgid "Log In"
+msgstr "Prisijungti"
+
+msgid "Sign in"
+msgstr "Prisijungti"
+
+msgid "Register"
+msgstr "Registruotis"
+
+msgid "First name"
+msgstr "Vardas"
+
+msgid "Last name"
+msgstr "Pavardė"
+
+msgid "I agree with rules"
+msgstr "Sutinku su taisyklėmis"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Patvirtinimo laiškas buvo nusiųstas Jūsų elektroninio pašto adresą."
+
+msgid "Thanks"
+msgstr "Ačiū"
+
+msgid "Password must be at least 6 characters"
+msgstr "Slaptažodis turi būti bent 6 simbolių"
+
+msgid "Creative Environment"
+msgstr "kūrybinga aplinka"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Jūs turite būti bent trylika metų naudoti šią paslaugą"
+
+msgid "Order status"
+msgstr "Užsakymo būsena"
+
+msgid "Processing order"
+msgstr "apdorojimo tvarka"
+
+msgid "Requires a payment"
+msgstr "Reikalingas mokėjimą"
+
+msgid "Shipping"
+msgstr "Gabenimas"
+
+msgid "Ready"
+msgstr "Paruošta"
+
+msgid "Thank you for your payment"
+msgstr "Dėkojame už jūsų mokėjimo"
+
+msgid "Your payment has been cancelled"
+msgstr "Jūsų mokėjimas buvo atšauktas"
+
+msgid "page"
+msgstr "puslapis"
+
+msgid "Rent period"
+msgstr "Nuoma laikotarpis"
+
+msgid "Total, month"
+msgstr "Iš viso, mėnuo"
+
+msgid "Order items"
+msgstr "Užsakyti daiktų"
+
+msgid "No records found"
+msgstr "įrašų nerasta"
+
+msgid "User with this email is already exist"
+msgstr "Vartotojas su šio laiško jau egzistuoja"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Aplankas arba failas su tokiu vardu jau yra egzistuoja aplanke"
+
+msgid "Minimal quantity"
+msgstr "Minimalus kiekis"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "Spausdinti kopijos"
+
+msgid "Terms of Use"
+msgstr "Naudojimosi sąlygos"
+
+msgid "Privacy Policy"
+msgstr "Privatumo politika"
+
+msgid "Find project..."
+msgstr "Ieškoti projektą ..."
+
+msgid "New Project"
+msgstr "Naujas projektas"
+
+msgid "Accounts"
+msgstr "sąskaitos"
+
+msgid "Operations"
+msgstr "operacijos"
+
+msgid "All accounts"
+msgstr "Visos sąskaitos"
+
+msgid "All categories"
+msgstr "Visos kategorijos"
+
+msgid "Expense"
+msgstr "išlaidos"
+
+msgid "Income"
+msgstr "Pelno"
+
+msgid "Transfer"
+msgstr "perkėlimas"
+
+msgid "Expense"
+msgstr "išlaidos"
+
+msgid "income"
+msgstr "pajamos"
+
+msgid "tax"
+msgstr "mokestis"
+
+msgid "percent"
+msgstr "procentų"
+
+msgid "transfer"
+msgstr "perdavimas"
+
+msgid "Make operation"
+msgstr "Padaryti operaciją"
+
+msgid "Select date"
+msgstr "Pasirinkite datą"
+
+msgid "Select account"
+msgstr "Pasirinkite Paskyra"
+
+msgid "Month"
+msgstr "mėnesio"
+
+msgid "Quarter"
+msgstr "ketvirtis"
+
+msgid "Year"
+msgstr "metai"
+
+msgid "From"
+msgstr "Nuo"
+
+msgid "To"
+msgstr "Norėdami"
+
+msgid "Expense amount"
+msgstr "Kompensuojamos suma"
+
+msgid "Categories"
+msgstr "Kategorijos"
+
+msgid "Comments"
+msgstr "Skundai"
+
+msgid "Income amount"
+msgstr "pajamų suma"
+
+msgid "Transfer amount"
+msgstr "pervedimo suma"
+
+msgid "From account"
+msgstr "Iš sąskaitos"
+
+msgid "To account"
+msgstr "Į sąskaitą"
+
+msgid "New Account"
+msgstr "Nauja paskyra"
+
+msgid "New Category"
+msgstr "Nauja Kategorija"
+
+msgid "All"
+msgstr "visa"
+
+msgid "Name"
+msgstr "Pavadinimas"
+
+msgid "Enter category name"
+msgstr "Įveskite kategorijos pavadinimą"
+
+msgid "Select type"
+msgstr "Pasirinkite tipą"
+
+msgid "Credit card"
+msgstr "Kreditinė kortelė"
+
+msgid "Debit card"
+msgstr "Debeto kortelė"
+
+msgid "Bank account"
+msgstr "banko sąskaita"
+
+msgid "Cash"
+msgstr "Pinigai"
+
+msgid "Balance is empty"
+msgstr "Balansas yra tuščias"
+
+msgid "Statistic is empty"
+msgstr "Statistika yra tuščias"
+
+msgid "Regular payments"
+msgstr "Reguliarūs mokėjimai"
+
+msgid "Are you sure ?"
+msgstr "Ar tu tuo tikras ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Ar tikrai norite uždaryti šį projektą?"
+
+msgid "Project was deleted successfully"
+msgstr "Projektas buvo sėkmingai ištrintas"
+
+msgid "Select currency"
+msgstr "Pasirinkite valiutą"
+
+msgid "Account"
+msgstr "sąskaita"
+
+msgid "Orders list"
+msgstr "Užsakymai sąrašas"
+
+msgid "Order payments"
+msgstr "Užsakyti mokėjimai"
+
+msgid "View order"
+msgstr "Peržiūrėti užsakymą"
+
+msgid "No response from Printer API"
+msgstr "Nėra atsakymo iš spausdintuvo API"
+
+msgid "Bad response from Printer API"
+msgstr "Blogas atsakymas iš spausdintuvo API"
+
+msgid "User ID"
+msgstr "Vartotojo ID"
+
+msgid "Contact Person"
+msgstr "Kontaktinis asmuo"
+
+msgid "No orders to process"
+msgstr "Nėra užsakymus apdoroti"
+
+msgid "Article announce image"
+msgstr "Straipsnis skelbia vaizdas"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Neteisingas vaizdo URL . Palikite tuščia arba įdėkite galiojančią YouTube \"URL"
+
+msgid "Please, enter Contractor data"
+msgstr "Prašome įvesti rangovas duomenis"
+
+msgid "Distribute devices"
+msgstr "platinti prietaisai"
+
+msgid "Quantity"
+msgstr "skaičius"
+
+msgid "Devices left"
+msgstr "liko prietaisai"
+
+msgid "Distributed devices"
+msgstr "Paskirstytos prietaisai"
+
+msgid "You must enter quantity"
+msgstr "Jūs turite įvesti kiekį"
+
+msgid "All devices are distributed"
+msgstr "Visi prietaisai yra platinami"
+
+msgid "IP address"
+msgstr "IP adresas"
+
+msgid "Only for printer"
+msgstr "Tik spausdintuvu"
+
+msgid "Counter"
+msgstr "Skaitliukas"
+
+msgid "You was excluded from this room"
+msgstr "Jūs buvo pašalinta iš šio kambario"
+
+msgid "Compare"
+msgstr "palyginti"
+
+msgid "Scheduled transaction"
+msgstr "Numatoma sandoris"
+
+msgid "Select transfer account"
+msgstr "Pasirinkite perdavimo sąskaita"
+
+msgid "Select income account"
+msgstr "Pasirinkite pajamų sąskaita"
+
+msgid "Reports"
+msgstr "Ataskaitos"
+
+msgid "Goals"
+msgstr "Tikslai"
+
+msgid "Budgets"
+msgstr "biudžetai"
+
+msgid "Enter user name or email..."
+msgstr "Įveskite vartotojo vardą arba elektroninio pašto ..."
+
+msgid "Invite had been sended"
+msgstr "Pakviesti buvo išsiųstos"
+
+msgid "Statistics"
+msgstr "Statistika"
+
+msgid "Updated site began to work"
+msgstr "Atnaujinta svetainė pradėjo dirbti"
+
+msgid "City of residence"
+msgstr "Miestas gyvenamoji"
+
+msgid "Edit favourites list"
+msgstr "Redaguoti mėgstamiausių sąrašas"
+
+msgid "Add favourites list"
+msgstr "Pridėti į mėgstamiausių sąrašą"
+
+msgid "Categories is required"
+msgstr "Kategorijos reikalingas"
+
+msgid "Type new category name and hit Enter"
+msgstr "Įveskite naują kategoriją vardą ir paspauskite Enter"
+
+msgid "You created an order"
+msgstr "Jūs sukurta užsakymą"
+
+msgid "You received a device due to this order"
+msgstr "Gavote įrenginį , nes tokia tvarka"
+
+msgid "%s attached %s to task %s"
+msgstr "%s pridedamas %s %s užduotį"
+
+msgid "member(s)"
+msgstr "narys (-iai)"
+
+msgid "%s commented task %s"
+msgstr "%s %s komentavo užduotis"
+
+msgid "%s closed task %s"
+msgstr "%s %s uždara užduotis"
+
+msgid "%s created task %s"
+msgstr "%s %s sukurtas užduotis"
+
+msgid "%s created this project"
+msgstr "%s sukūrė šį projektą"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s sukurtas subprojektas \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s uždarytas projektas \" %s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s uždara subprojektas \"%s\""
+
+msgid "This field must not be blank"
+msgstr "Šis laukas negali būti tuščias"
+
+msgid "Document with such name is already exist"
+msgstr "Dokumento su tokiu pavadinimu yra jau egzistuoja"
+
+msgid "Wait until image upload"
+msgstr "Palaukite, kol įkelti nuotrauką"
+
+msgid "Video"
+msgstr "Vaizdo"
+
+msgid "Message can not be empty"
+msgstr "Žinutė gali būti tuščias"
+
+msgid "Yes"
+msgstr "ne"
+
+msgid "No"
+msgstr "Nėra"
+
+msgid "Created"
+msgstr "Sukurta"
+
+msgid "Compare is empty"
+msgstr "Palyginkite tuščias"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Ar tikrai norite ištrinti operaciją"
+
+msgid "Do you really want to delete transaction"
+msgstr "Ar tikrai norite ištrinti sandorį"
+
+msgid "Project with same name already exists"
+msgstr "Projektų su tuo pačiu vardu jau egzistuoja"
+
+msgid "Account is not found"
+msgstr "Sąskaita nerastas"
+
+msgid "Currency is required"
+msgstr "Valiuta reikalingas"
+
+msgid "error while deleting document"
+msgstr "Trinant dokumentą klaida"
+
+msgid "Expences"
+msgstr "kaštus"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Jūs pakviesta vartotojo \"%s\" šiame kambaryje"
+
+msgid "User \"%s\" joined this room"
+msgstr "Vartotojas \" %s\" prisijungė šį kambarį"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Jūs atmesti vartotojo \"%s\" iš šio kambario"
+
+msgid "User \"%s\" left this room"
+msgstr "Vartotojas \" %s\" paliko šį kambarį"
+
+msgid "Add account"
+msgstr "Pridėti paskyrą"
+
+msgid "The requested page is not found"
+msgstr "Prašomas puslapis nerastas"
+
+msgid "Document"
+msgstr "Dokumento"
+
+msgid "Table"
+msgstr "Stalo"
+
+msgid "file(s)"
+msgstr "failas ( -ai)"
+
+msgid "Residue"
+msgstr "Likučių"
+
+msgid "Result is empty"
+msgstr "Rezultatas yra tuščias"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Bendra suma yra%s %s Mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Jūs turite deponuoti % mėnesinė susijusiai sąskaitą"
+
+msgid "Start"
+msgstr "startas"
+
+msgid "finish"
+msgstr "apdaila"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Pasirinkti sąskaita jau naudojamas kito tikslo"
+
+msgid "Amount required"
+msgstr "Nurodytas"
+
+msgid "New goal"
+msgstr "Nauja tikslas"
+
+msgid "Goal"
+msgstr "uždavinys"
+
+msgid "Goal name"
+msgstr "tikslo pavadinimas"
+
+msgid "Invalid date"
+msgstr "Neteisingas data"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Būtinas suma turi būti teigiamas skaičius"
+
+msgid "Remain"
+msgstr "Išlikti"
+
+msgid "Last day"
+msgstr "Paskutinė diena"
+
+msgid "Accumulated"
+msgstr "sukaupta"
+
+msgid "Put aside"
+msgstr "atidėti"
+
+msgid "January"
+msgstr "sausis"
+
+msgid "February"
+msgstr "vasaris"
+
+msgid "March"
+msgstr "kovas"
+
+msgid "April"
+msgstr "balandis"
+
+msgid "May"
+msgstr "Gegužė"
+
+msgid "June"
+msgstr "birželis"
+
+msgid "July"
+msgstr "liepa"
+
+msgid "August"
+msgstr "Rugpjūtis"
+
+msgid "September"
+msgstr "rugsėjis"
+
+msgid "October"
+msgstr "spalis"
+
+msgid "November"
+msgstr "lapkritis"
+
+msgid "December"
+msgstr "gruodis"
+
+msgid "Expenses projected/actual"
+msgstr "Išlaidos prognozuojama / faktiniai"
+
+msgid "Net Income projected/actual"
+msgstr "Grynasis pelnas prognozuojamas / faktinis"
+
+msgid "New budget"
+msgstr "Nauja biudžetas"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Pajamos ir sąnaudos diagrama"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Biudžetas su pačiu poros sąskaitą ir kategorijos jau egzistuoja"
+
+msgid "Budget is empty"
+msgstr "Biudžetas yra tuščias"
+
+msgid "Budget"
+msgstr "Biudžetas"
+
+msgid "plan"
+msgstr "planas"
+
+msgid "fact"
+msgstr "faktas"
+
+msgid "diff"
+msgstr "skirt"
+
+msgid "Show More"
+msgstr "Rodyti daugiau"
+
+msgid "Cancel"
+msgstr "atšaukti"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "Mano pardavimai"
+
+msgid "Time spent"
+msgstr "Laikas, praleistas"
+
+msgid "Total time spent"
+msgstr "Viso laiko praleista"
+
+msgid "Earnings per hour"
+msgstr "Pelnas, tenkantis vienai valandai"
+
+msgid "Total earnings"
+msgstr "Iš viso pajamų"
+
+msgid "Call"
+msgstr "Kvietimas"
+
+msgid "Phone call"
+msgstr "Skambutis"
+
+msgid "Telephone calls"
+msgstr "telefono skambučiai"
+
+msgid "Send email"
+msgstr "Siųsti laišką"
+
+msgid "Emails"
+msgstr "Parašyta"
+
+msgid "Meeting"
+msgstr "Susitikimas"
+
+msgid "Meetings"
+msgstr "Susitikimai"
+
+msgid "All events"
+msgstr "Visi renginiai"
+
+msgid "Task"
+msgstr "Užduotis"
+
+msgid "Event"
+msgstr "Renginių"
+
+msgid "Events"
+msgstr "Renginiai"
+
+msgid "Time"
+msgstr "Laikas"
+
+msgid "Events statistics"
+msgstr "Renginiai Statistika"
+
+msgid "days"
+msgstr "dienų"
+
+msgid "hours"
+msgstr "valandos"
+
+msgid "minutes"
+msgstr "protokolas"
+
+msgid "Income & expense"
+msgstr "Pajamos ir išlaidos"
+
+msgid "Show chart"
+msgstr "Rodyti diagrama"
+
+msgid "Hide chart"
+msgstr "Slėpti diagrama"
+
+msgid "Add event"
+msgstr "Pridėti renginį"
+
+msgid "Add financial data"
+msgstr "Pridėti finansinius duomenis"
+
+msgid "Select contractor"
+msgstr "Pasirinkite rangovas"
+
+msgid "Net Income"
+msgstr "Grynosios pajamos"
+
+msgid "Revenue"
+msgstr "Pajamos"
+
+msgid "Taxes"
+msgstr "mokesčiai"
+
+msgid "Amount planned"
+msgstr "suma planuojama"
+
+msgid "Amount"
+msgstr "Kiekis"
+
+msgid "Period"
+msgstr "Laikotarpis"
+
+msgid "Are you sure to close this task?"
+msgstr "Ar tikrai norite uždaryti šią užduotį ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "Visos grupės"
+
+msgid "added from task"
+msgstr "papildoma informacija užduotį"
+
+msgid "Monthly repeat"
+msgstr "Mėnesio pakartokite"
+
+msgid "Select category"
+msgstr "Pasirinkite kategoriją"
+
+msgid "Event type"
+msgstr "Įvykio tipas"
+
+msgid "Margin"
+msgstr "marža"
+
+msgid "Use finance project"
+msgstr "Naudokite finansų projektą"
+
+msgid "New investment project"
+msgstr "Nauja investicinis projektas"
+
+msgid "Investment project settings"
+msgstr "Investicinis projektas nustatymai"
+
+msgid "Picture, for the announcement project"
+msgstr "Paveikslėlis, už paskelbimą projektą"
+
+msgid "Announcement project"
+msgstr "Skelbimas projektas"
+
+msgid "Video"
+msgstr "Vaizdo"
+
+msgid "Photos or videos gallery"
+msgstr "Nuotraukos arba vaizdo įrašus galerija"
+
+msgid "required amount"
+msgstr "Reikalaujamas dydis"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Projekto trukmė ( 60 dienų )"
+
+msgid "Project duration"
+msgstr "Projekto trukmė"
+
+msgid "Add reward"
+msgstr "Pridėti atlygį"
+
+msgid "Delivery date"
+msgstr "Pristatymo data"
+
+msgid "Payment systems"
+msgstr "Mokėjimo sistemos"
+
+msgid "Terms of service"
+msgstr "Paslaugų teikimo sąlygos"
+
+msgid "Agreement"
+msgstr "sutartis"
+
+msgid "Payment"
+msgstr "Mokėjimo"
+
+msgid "My projects"
+msgstr "Mano projektai"
+
+msgid "Search result"
+msgstr "paieškos rezultatai"
+
+msgid "Nothing not found"
+msgstr "Nieko nerasta"
+
+msgid "The project has no sponsors"
+msgstr "Projektas neturi rėmėjų"
+
+msgid "Design"
+msgstr "Dizainas"
+
+msgid "Food"
+msgstr "maistas"
+
+msgid "Journalism"
+msgstr "Žurnalistika"
+
+msgid "Games"
+msgstr "žaidynės"
+
+msgid "Art"
+msgstr "Menas"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "muzika"
+
+msgid "Handicrafts"
+msgstr "rankdarbiai"
+
+msgid "Publishing"
+msgstr "leidyba"
+
+msgid "Theater"
+msgstr "teatras"
+
+msgid "Technology"
+msgstr "technologijos"
+
+msgid "Film/Video"
+msgstr "Kinas / Video"
+
+msgid "Photo"
+msgstr "Nuotrauka"
+
+msgid "Dance"
+msgstr "šokiai"
+
+msgid "Invalid youtube video"
+msgstr "Neteisingas Youtube vaizdo įrašai"
+
+msgid "is required"
+msgstr "reikalingas"
+
+msgid "User"
+msgstr "vartotojas"
+
+msgid "Date"
+msgstr "diena"
+
+msgid "Collected"
+msgstr "surinkta"
+
+msgid "Choose period"
+msgstr "Pasirinkite laikotarpį"
+
+msgid "Choose region"
+msgstr "Pasirinkite regioną"
+
+msgid "Country"
+msgstr "Šalis"
+
+msgid "Today"
+msgstr "dabar"
+
+msgid "Week"
+msgstr "savaitės"
+
+msgid "Month"
+msgstr "mėnesio"
+
+msgid "Year"
+msgstr "metai"
+
+msgid "Free registration"
+msgstr "Nemokamas įregistravimas"
+
+msgid "Join"
+msgstr "Prisijunk"
+
+msgid "Log in using"
+msgstr "Prisijungti naudojant"
+
+msgid "Vacancies"
+msgstr "įsidarbinimo galimybės"
+
+msgid "About Us"
+msgstr "Apie mus"
+
+msgid "You will need email to log in"
+msgstr "Jums reikės el.laišką prisijungti"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Iš viso 6 skaitmenų ir simbolių kombinacija"
+
+msgid "Search users, groups, articles..."
+msgstr "Paieška vartotojai , grupės , straipsniai ..."
+
+msgid "Cloud"
+msgstr "Debesis"
+
+msgid "Sunday"
+msgstr "sekmadienis"
+
+msgid "Monday"
+msgstr "pirmadienis"
+
+msgid "Tuesday"
+msgstr "antradienis"
+
+msgid "Wednesday"
+msgstr "trečiadienis"
+
+msgid "Thursday"
+msgstr "ketvirtadienis"
+
+msgid "Friday"
+msgstr "penktadienis"
+
+msgid "Saturday"
+msgstr "šeštadienis"
+
+msgid "Edit"
+msgstr "Redaguoti"
+
+msgid "Create group"
+msgstr "Sukurti grupę"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Ar tikrai norite išeiti iš šio puslapio ?"
+
+msgid "More"
+msgstr "labiau"
+
+msgid "Less"
+msgstr "mažesnis"
+
+msgid "Pending"
+msgstr "Kol"
+
+msgid "Approved"
+msgstr "Patvirtinta"
+
+msgid "Rejected"
+msgstr "Atmesta"
+
+msgid "Subprojects"
+msgstr "paprojekčių"
+
+msgid "Group edit"
+msgstr "grupė Redaguoti"
+
+msgid "Startup"
+msgstr "Pradėti"
+
+msgid "Tattoo"
+msgstr "Tatuiruotė"
+
+msgid "Health"
+msgstr "sveikatos"
+
+msgid "Weapon"
+msgstr "ginklas"
+
+msgid "Astronomy"
+msgstr "astronomija"
+
+msgid "All articles"
+msgstr "Visi straipsniai"
+
+msgid "Article editor"
+msgstr "redaktorius straipsnis"
+
+msgid "Document editor"
+msgstr "Dokumento redaktorius"
+
+msgid "Apply changes"
+msgstr "Pritaikyti pakeitimus"
+
+msgid "Save changes?"
+msgstr "Išsaugoti pakeitimus?"
+
+msgid "published an article"
+msgstr "išspausdino straipsnį"
+
+msgid "Users"
+msgstr "Vartotojai"
+
+msgid "Shared With Me"
+msgstr "Bendras With Me"
+
+msgid "share"
+msgstr "dalis"
+
+msgid "Select Group Responsible"
+msgstr "Pasirinkite grupės, atsakingos"
+
+msgid "Create folder"
+msgstr "Sukurti aplanką"
+
+msgid "Title must be at least 3 characters"
+msgstr "Pavadinimas turi būti mažiausiai 3 simbolių"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Nemokama 10 GB , finansų vadybininkas, investuoti modulį , ir daugelis kitų nemokamai ir visiems laikams"
+
+msgid "Best regards"
+msgstr "Pagarbiai"
+
+msgid "Updates in last 12 hours:"
+msgstr "Atnaujinimai per paskutines 12 valandas:"
+
+msgid "expense"
+msgstr "išlaidos"
+
+msgid "Commentary on the event:"
+msgstr "Komentarai apie renginį:"
+
+msgid "Event place"
+msgstr "Renginio vieta"
+
+msgid "Project was updated"
+msgstr "Projektų buvo atnaujintas"
+
+msgid "Project was created"
+msgstr "Projektas sukurtas"
+
+msgid "Project was closed"
+msgstr "Projektų uždarytas"
+
+msgid "account"
+msgstr "sąskaita"
+
+msgid "removed task"
+msgstr "pašalinami užduotis"
+
+msgid "removed subproject"
+msgstr "pašalinami subprojektas"
+
+msgid "Title can not be empty"
+msgstr "Pavadinimas negali būti tuščias"
+
+msgid "Do not select the type of event"
+msgstr "Negalima pasirinkti renginio tipą"
+
+msgid "Error while saving comment"
+msgstr "Klaida taupymo komentarą"
+
+msgid "Save error: access denied"
+msgstr "Išsaugoti klaidą : access denied"
+
+msgid "Remains"
+msgstr "palaikai"
+
+msgid "Time spent, h."
+msgstr "Laikas, praleistas , h."
+
+msgid "Emails"
+msgstr "Parašyta"
+
+msgid "Meetings"
+msgstr "Susitikimai"
+
+msgid "All users"
+msgstr "Visi vartotojai"
+
+msgid "Category"
+msgstr "Kategorija"
+
+msgid "Finance project"
+msgstr "Finansai projektas"
+
+msgid "Investment project"
+msgstr "Investicinis projektas"
+
+msgid "Nature"
+msgstr "prigimtis"
+
+msgid "Data is empty"
+msgstr "Duomenų tuščias"
+
+msgid "Visitors"
+msgstr "lankytojai"
+
+msgid "My profile"
+msgstr "Mano profilis"
+
+msgid "Sponsors"
+msgstr "Rėmėjai"
+
+msgid "Prior to completion"
+msgstr "Dar prieš baigiant"
+
+msgid "Select"
+msgstr "Pasirinkite"
+
+msgid "My groups"
+msgstr "Mano grupės"
+
+msgid "The invitation has been sent successfully"
+msgstr "Kvietime buvo sėkmingai išsiųsta"
+
+msgid "Username has already been invited to this project"
+msgstr "Nick jau buvo pakviestas į šį projektą"
+
+msgid "The user is the creator of the project"
+msgstr "Vartotojas yra projekto autoriumi"
+
+msgid "Provide full access"
+msgstr "Pateikite pilną priėjimą"
+
+msgid "Select elements to provide access"
+msgstr "Pasirinkite elementus suteikti prieigą"
+
+msgid "Select all"
+msgstr "Pasirinkti viską"
+
+msgid "User E-mail"
+msgstr "Vartotojas E-mail"
+
+msgid "Click on the field to select a category"
+msgstr "Spustelėkite lauką pasirinkti kategoriją"
+
+msgid "Invitation was deleted"
+msgstr "Kvietimas buvo ištrintas"
+
+msgid "Permission denied"
+msgstr "Leidimas nesuteiktas"
+
+msgid "Printed"
+msgstr "Atspausdinta"
+
+msgid "Incorrect Contractor email"
+msgstr "Neteisingas el.pašto rangovas"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Ar norite pridėti projektą finansuoti vadybininkas ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Norėdami užbaigti registracijos procesą užpildykite žemyn savo įgūdžius"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Paštas su tolesnių instrukcijų buvo išsiųstas į jūsų elektroninio pašto adresą"
+
+msgid "Submit"
+msgstr "Pateikti"
+
+msgid "Cars"
+msgstr "Automobiliai"
+
+msgid "Science"
+msgstr "Mokslas"
+
+msgid "Donation"
+msgstr "Donorystė"
+
+msgid "Interests"
+msgstr "Pomėgiai"
+
+msgid "Driver"
+msgstr "vairuotojas"
+
+msgid "Sportsman"
+msgstr "Sportsman"
+
+msgid "Businessman"
+msgstr "Verslininkas"
+
+msgid "Accountant"
+msgstr "buhalterė"
+
+msgid "Engineer"
+msgstr "inžinierius"
+
+msgid "Soldier"
+msgstr "kareivis"
+
+msgid "Next"
+msgstr "Kitas"
+
+msgid "Hide group"
+msgstr "Slėpti grupė"
+
+msgid "groups created"
+msgstr "sukurta grupės"
+
+msgid "articles written"
+msgstr "straipsniai parašyta"
+
+msgid "These groups may be interesting for you"
+msgstr "Šios grupės gali būti įdomus jums"
+
+msgid "About Group"
+msgstr "Apie mus"
+
+msgid "view(s)"
+msgstr "vaizdas ( -ai)"
+
+msgid "Favorite users"
+msgstr "Mėgstamiausios vartotojai"
+
+msgid "No accounts"
+msgstr "nėra sąskaitos"
+
+msgid "Facebook authorization failed."
+msgstr "\"Facebook\" leidimo nepavyko."
+
+msgid "Authorization Required"
+msgstr "autorizacija Reikalinga"
+
+msgid "You have to make a call:"
+msgstr "Jūs turite skambinti :"
+
+msgid "You have to send an email:"
+msgstr "Jūs turite siųsti žinutę siųsti :"
+
+msgid "You have a meetup:"
+msgstr "Jūs turite Meetup :"
+
+msgid "You event :"
+msgstr "You įvykis :"
+
+msgid "Participants:"
+msgstr "Dalyviai:"
+
+msgid "Search"
+msgstr "Ieškoti"
+
+msgid "News"
+msgstr "naujiena"
+
+msgid "Investments"
+msgstr "Investicijos"
+
+msgid "Back to Cloud"
+msgstr "Atgal į Cloud"
+
+msgid "Documents"
+msgstr "dokumentai"
+
+msgid "Planet"
+msgstr "Planeta"
+
+msgid "Group url"
+msgstr "grupė URL"
+
+msgid "Profile url"
+msgstr "Profilis URL"
+
+msgid "Already taken"
+msgstr "Užimtas"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Bent 1 raidė ir 3 simbolių ilgio reikia"
+
+msgid "Digit can not be the first character"
+msgstr "Skaitmenų negali būti pirmasis simbolis"
+
+msgid "Enter valid email address"
+msgstr "Įveskite galiojantį elektroninio pašto adresą"
+
+msgid "Enter your skills"
+msgstr "Įveskite savo įgūdžius"
+
+msgid "Enter your first name"
+msgstr "Įveskite savo vardą"
+
+msgid "Enter your last name"
+msgstr "Įveskite pavardę"
+
+msgid "Enter your first name and last name"
+msgstr "Įveskite savo vardą ir pavardę"
+
+msgid "Your first name?"
+msgstr "Jūsų vardas?"
+
+msgid "Your last name?"
+msgstr "Tavo pavardė?"
+
+msgid "What are your proficiencies?"
+msgstr "Kokie jūsų mokėjimą ?"
+
+msgid "Select country"
+msgstr "Pasirinkite šalį"
+
+msgid "Select user"
+msgstr "Pasirinkite vartotojo"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Išpildykite savo svajonę ! Sukurti ir bendradarbiauti ."
+
+msgid "date moved from"
+msgstr "data perkelta iš"
+
+msgid "work"
+msgstr "darbas"
+
+msgid "Conference"
+msgstr "konferencijos"
+
+msgid "personal"
+msgstr "asmens"
+
+msgid "Holiday"
+msgstr "šventė"
+
+msgid "Past"
+msgstr "Praeities"
+
+msgid "Future"
+msgstr "Ateities"
+
+msgid "Purchase"
+msgstr "Pirkimo"
+
+msgid "Personal events"
+msgstr "Privačios renginiai"
+
+msgid "Conferences"
+msgstr "Susitikimas"
+
+msgid "Holidays"
+msgstr "Šventės"
+
+msgid "Sport events"
+msgstr "Sporto renginiai"
+
+msgid "Tasks"
+msgstr "Uždaviniai"
+
+msgid "Other events"
+msgstr "Kiti renginiai"
+
+msgid "Set aside"
+msgstr "Papildyti"
+
+msgid "Set aside"
+msgstr "Atidėtojo"
+
+msgid "Time management"
+msgstr "Laiko valdymas"
+
+msgid "Delayed events"
+msgstr "Atidėtojo renginiai"
+
+msgid "Delayed"
+msgstr "Atidėtojo"
+
+msgid "Bind to"
+msgstr "Priskirti"
+
+msgid "answered your comment to"
+msgstr "Aš pasakiau (a) Komentuoti straipsnyje"
+
+msgid "commented your article"
+msgstr "Aš pakomentavo savo straipsnį"
+
+msgid "You\'ve answered on comment to"
+msgstr "Jūs reagavo į pakomentuoti straipsnį"
+
+msgid "You\'ve commented an article"
+msgstr "Jūs pakomentavo straipsnį"
+
+msgid "Terms and Conditions"
+msgstr "Taisyklės ir sąlygos"
+
+msgid "Privacy Policy"
+msgstr "Privatumo politika"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Paspaudę \"užsiregistruoti\" sutinkate su mūsų ir pripažinti, kad perskaitėte mūsų"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Prisijunkite prie kūrybingų žmonių bendruomenės visame pasaulyje! Jūs gausite: Investavimas į jūsų idėjas, galimybę rinkti savo komanda, dirbanti grupėje, finansų vadybininkas, valdyti savo laiką, 2 gigabaitų saugojimo ir daugiau. Ir tai nemokama!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Atsiprašome, bet puslapis, kurio ieškote neegzistuoja. Jei manote, kad dėl to kaltas mus Susisiekite su mumis"
+
+msgid "Return"
+msgstr "Grįžti"
+
+msgid "COMMON"
+msgstr "IŠ VISO"
+
+msgid "My events"
+msgstr "Mano renginiai"
+
+msgid "Job opening"
+msgstr "Nauja laisvų darbo vietų"
+
+msgid "Employment"
+msgstr "Darbo rūšis"
+
+msgid "Working hours"
+msgstr "Darbo laikas"
+
+msgid "City"
+msgstr "Miestas"
+
+msgid "Wages"
+msgstr "Atlyginimas"
+
+msgid "Currency"
+msgstr "Valiuta"
+
+msgid "Experience"
+msgstr "Patyrimas"
+
+msgid "Full-time"
+msgstr "Visiškas užimtumas"
+
+msgid "Part-time"
+msgstr "Neakivaizdinės"
+
+msgid "Project employment"
+msgstr "Projekto / Laikinas"
+
+msgid "Volunteer"
+msgstr "Savanorystė"
+
+msgid "Internship"
+msgstr "Stažuotės"
+
+msgid "Full day"
+msgstr "Visas laikas"
+
+msgid "Shifts"
+msgstr "Pakeitimas grafikas"
+
+msgid "Flexible shifts"
+msgstr "Lankstus grafikas"
+
+msgid "Remote work"
+msgstr "Nuotolinis darbas"
+
+msgid "Rotational basis"
+msgstr "Shift metodas"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Ar tikrai norite ištrinti komentarą?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Ar tikrai norite ištrinti šią užduotį?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Ar tikrai norite ištrinti šį sub-projektą?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Jūs kreipėsi į bendrovės padėtį. Prašome įsitikinkite, kad"
+
+msgid "Your request to for job has been rejected"
+msgstr "Jūsų prašymas bendrovės į padėtį buvo atmestas"
+
+msgid "Your request to for job has been accepted"
+msgstr "Buvo priimtas Jūsų prašymas į padėtį įmonės"
+
+msgid "profile is completed"
+msgstr "Jūsų profilis yra pilnas"
+
+msgid "Use account"
+msgstr "Naudokite paskyrą"
+
+msgid "$/hr"
+msgstr "$ / Val"
+
+msgid "Finance category"
+msgstr "Finansinė laipsnio"
+
+msgid "No projects"
+msgstr "Nėra projektai"
+
+msgid "Bind to finances"
+msgstr "Priskirti finansinę projektą"
+
+msgid "Preview"
+msgstr "Peržiūrėti"
+
+msgid "Download"
+msgstr "Parsisiųsti"
+
+msgid "Save to my cloud"
+msgstr "Nukopijuokite saugyklą"
+
+msgid "File successfully saved to your cloud"
+msgstr "Failų sėkmingai saugomas jūsų saugykloje"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Išsaugoti šį failą į savo saugyklą?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Pasirinkite kategoriją straipsnis"
+
+msgid "Type something"
+msgstr "Parašykite ką nors"
+
+msgid "Founded users"
+msgstr "Rasta vartotojai"
+
+msgid "Founded articles"
+msgstr "Surasta straipsnis"
+
+msgid "Founded groups"
+msgstr "Įkurta grupė"
+
+msgid "What are your skills?"
+msgstr "Kokie jūsų įgūdžiai?"
+
+msgid "Select at least 2 interests"
+msgstr "Pasirinkite bent 2 susidomėjimą"
+
+msgid "Need more interests"
+msgstr "Nepakanka palūkanų pasirinktas"
+
+msgid "What are you interesting in?"
+msgstr "Kas domitės?"
+
+msgid "You have no dialogs"
+msgstr "Jūs neturite dialogus"
+
+msgid "Usage Stats"
+msgstr "Narė"
+
+msgid "Founded files"
+msgstr "Failai Surasta"
+
+msgid "Big tiles"
+msgstr "Didelės plytelės"
+
+msgid "Small tiles"
+msgstr "Maži plytelės"
+
+msgid "Table view"
+msgstr "Stalo vaizdas"
+
+msgid "Root folder"
+msgstr "Šaknų katalogas"
+
+msgid "My files"
+msgstr "My Files"
+
+msgid "Save as draft"
+msgstr "Išsaugoti kaip projekto"
+
+msgid "Buy More Space"
+msgstr "Pirkti daugiau erdvės"
+
+msgid "Buy"
+msgstr "Nupirkti"
+
+msgid "You have been invited to group as"
+msgstr "Buvote pakviesti į grupę kaip"
+
+msgid "User wants to join your group"
+msgstr "Vartotojas nori prisijungti prie jūsų grupės"
+
+msgid "Section is coming soon!"
+msgstr "Skyrius statomas!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Nuomonėmis paskutines 24 valandas:"
+
+msgid "Task was updated"
+msgstr "Užduotis buvo atnaujintas"
+
+msgid "Task was closed"
+msgstr "Iššūkis buvo uždarytas"
+
+msgid "Task was created"
+msgstr "Užduotis buvo nustatytas"
+
+msgid "Current balance"
+msgstr "Dabartinis balansas"
+
+msgid "Add funds"
+msgstr "Pridurti"
+
+msgid "Pay"
+msgstr "Pirkti"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Jūs viršijo prisijungimo bandymus skaičių. Jūs esate užblokuotas 15 minučių"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Prašome patvirtinti savo el. Išsiųstas į Jūsų pašto raidė."
+
+msgid "Resend confirmation email"
+msgstr "Siųsti patvirtinimą vėl"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB per mėnesį"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Vairuoti 10 GB per metus"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Kasmet Disko 100 GB"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disko 1TB mėnesį"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Vairuoti 1 TB kiekvienais metais"
+
+msgid "Project members monthly"
+msgstr "Projekto dalyviai apie mėnesį"
+
+msgid "Project members yearly"
+msgstr "Projekto dalyviai kasmet"
+
+msgid "Member(s) yearly"
+msgstr "Narys (-iai) per metus"
+
+msgid "Member(s) monthly"
+msgstr "Narys (-iai) per mėnesį"
+
+msgid "Authorized"
+msgstr "Įgaliotas"
+
+msgid "Authorization expired"
+msgstr "Leidimo galiojimo laikas baigėsi"
+
+msgid "Processor declined"
+msgstr "Atmesta apdorojimo sistema"
+
+msgid "Gateway rejected"
+msgstr "Atmesta mokėjimo šliuzai"
+
+msgid "Failed"
+msgstr "Klaida"
+
+msgid "Voided"
+msgstr "Anuliuoti"
+
+msgid "Submitted for settlement"
+msgstr "Nusiųsti registruotis"
+
+msgid "Settlement declined"
+msgstr "Įrašas buvo atmestas"
+
+msgid "Settlement pending"
+msgstr "Kol registracija"
+
+msgid "Verified"
+msgstr "Patikrintas"
+
+msgid "Pending"
+msgstr "Kol"
+
+msgid "Active"
+msgstr "Aktyvus"
+
+msgid "Past Due"
+msgstr "Pasibaigęs"
+
+msgid "Expired"
+msgstr "Baigėsi"
+
+msgid "Marketer"
+msgstr "Rinkodaros"
+
+msgid "India"
+msgstr "Indija"
+
+msgid "Malaysia"
+msgstr "Malaizija"
+
+msgid "Thailand"
+msgstr "Tailandas"
+
+msgid "South Korea"
+msgstr "Pietų Korėja"
+
+msgid "Kazakhstan"
+msgstr "Kazachstanas"
+
+msgid "Israel"
+msgstr "Izraelis"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "Belarus"
+msgstr "Baltarusija"
+
+msgid "Bulgaria"
+msgstr "Bulgarija"
+
+msgid "Turkey"
+msgstr "Turkija"
+
+msgid "Armenia"
+msgstr "Armėnija"
+
+msgid "Serbia"
+msgstr "Serbija"
+
+msgid "Austria"
+msgstr "Austrija"
+
+msgid "Poland"
+msgstr "Lenkija"
+
+msgid "Germany"
+msgstr "Vokietija"
+
+msgid "Italy"
+msgstr "Italija"
+
+msgid "Netherlands"
+msgstr "Nyderlandai"
+
+msgid "Ireland"
+msgstr "Airija"
+
+msgid "United Kingdom"
+msgstr "Didžioji Britanija"
+
+msgid "Portugal"
+msgstr "Portugalija"
+
+msgid "Norway"
+msgstr "Norvegija"
+
+msgid "United States"
+msgstr "Jungtinės Amerikos Valstijos"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Brazil"
+msgstr "Brazilija"
+
+msgid "Saudi Arabia"
+msgstr "Saudo Arabija"
+
+msgid "Canada"
+msgstr "Egiptas"
+
+msgid "Russia"
+msgstr "Rusija"
+
+msgid "Hong Kong"
+msgstr "Honkongas"
+
+msgid "There was no any transactions yet."
+msgstr "Šiuo metu, nebuvo nė vienas sandoris"
+
+msgid "Fulfill your dream"
+msgstr "Išpildykite savo svajonę"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Prisijunkite prie mūsų bendruomenės kūrybinių asmenų iš viso pasaulio."
+
+msgid "Create and Collaborate"
+msgstr "Sukurti ir bendradarbiauti"
+
+msgid "Fulfill your dream"
+msgstr "Išpildykite svajonę DABAR"
+
+msgid "or"
+msgstr "arba"
+
+msgid "Our mission:"
+msgstr "Mūsų misija:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Suvienyti kūrybines ir aktyviems žmonėms įgyvendinti idėjas paprasta ir paklausos neįtikėtinas ir fantastinis, kuris gali formuoti savo ateitį."
+
+msgid "What is Konstruktor?"
+msgstr "Kas yra konstruktorius?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktorius - tai mūsų realaus gyvenimo, kuris žymiai palengvina ir supaprastina dalis"
+
+msgid "*business processes"
+msgstr "* verslo procesai"
+
+msgid "*materialization of creative ideas"
+msgstr "* materializacija kūrybinių idėjų"
+
+msgid "*constructive cooperation"
+msgstr "* konstruktyvus bendradarbiavimas"
+
+msgid "Make your dream!"
+msgstr "Padarykite savo svajonę!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "Vadovas"
+
+msgid "Yuriy Chekalenko"
+msgstr "Jurijus Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Specialusis patarėjas"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Jaroslavas Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Vadybininkas, programinės įrangos kūrimas"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Vyresnysis teisininkas"
+
+msgid "Yuriy Himka"
+msgstr "Jurijus Himka"
+
+msgid "Designer"
+msgstr "Dizaineris"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Paspaudę \"Next\" mygtuką, jūs priimantis ir susitarti su mūsų Terminai ir sąlygos ir jūs pripažįstant, kad perskaitėte mūsų privatumo politiką."
+
+msgid "Incorrect login or password."
+msgstr "Neteisingas loginas ar slaptažodis."
+
+msgid "Password must be at least 6 characters"
+msgstr "Slaptažodis turi būti bent 6 simbolių"
+
+msgid "January"
+msgstr "Sausis"
+
+msgid "February"
+msgstr "Vasaris"
+
+msgid "March"
+msgstr "Kovas"
+
+msgid "April"
+msgstr "Balandis"
+
+msgid "May"
+msgstr "Gegužė"
+
+msgid "June"
+msgstr "Birželis"
+
+msgid "July"
+msgstr "Liepa"
+
+msgid "August"
+msgstr "Rugpjūtis"
+
+msgid "September"
+msgstr "Rugsėjis"
+
+msgid "October"
+msgstr "Spalis"
+
+msgid "November"
+msgstr "Lapkritis"
+
+msgid "December"
+msgstr "Gruodis"
+
+msgid "Chat"
+msgstr "Kalbėtis"
+
+msgid "Files"
+msgstr "Failai"
+
+msgid "Statistic"
+msgstr "Statistinis"
+
+msgid "Support"
+msgstr "Pagalba"
+
+msgid "Exit"
+msgstr "Išėjimas"
+
+msgid "Brest"
+msgstr "Brestas"
+
+msgid "Belarus"
+msgstr "Baltarusija"
+
+msgid "Marketing specialist"
+msgstr "Rinkodaros specialistas"
+
+msgid "Administrator"
+msgstr "Administratorius"
+
+msgid "Shared with me"
+msgstr "Bendrai su manimi"
+
+msgid "File Sharing"
+msgstr "File Sharing"
+
+msgid "Provide access by link"
+msgstr "Pateikite prieigą nuorodą"
+
+msgid "Provide Individual access"
+msgstr "Pateikite asmeninę prieigą"
+
+msgid "Provide edit access"
+msgstr "Pateikite redaguoti prieigą"
+
+msgid "Share"
+msgstr "Akcija"
+
+msgid "Files will be available only for selected users"
+msgstr "Failai bus prieinami tik pasirinktiems vartotojams"
+
+msgid "With this link everyone can access to the files"
+msgstr "Su šiuo nuorodos kiekvienas gali prieiti prie failų"
+
+msgid "Search users, groups, articles..."
+msgstr "Paieška vartotojai, grupės, straipsniai ..."
+
+msgid "My Group"
+msgstr "Mano grupės"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Mes"
+
+msgid "Th"
+msgstr "Kt"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "S"
+
+msgid "The file is not selected"
+msgstr "Šis failas yra nepažymėtas"
+
+msgid "Set aside"
+msgstr "Atidėti"
+
+msgid "Event time"
+msgstr "Įvykio laikas"
+
+msgid "Work"
+msgstr "Darbas"
+
+msgid "Personal"
+msgstr "Asmeniniai"
+
+msgid "Time spent for work:"
+msgstr "Laikas, praleistas už darbą:"
+
+msgid "Personal time spent:"
+msgstr "Asmeniniai praleistas laikas:"
+
+msgid "Present"
+msgstr "Dabartis"
+
+msgid "Common"
+msgstr "Bendra"
+
+msgid "Sport"
+msgstr "Sportas"
+
+msgid "Entertainment"
+msgstr "Pramoga"
+
+msgid "Select:"
+msgstr "Pasirinkite:"
+
+msgid "Invalid username or password."
+msgstr "Neteisingas vartotojo vardas ar slaptažodis."
+
+msgid "Try again."
+msgstr "Bandyk iš naujo."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "KUO TU DOMIESI?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Pasirinkite bent 2 įgūdžių: lieka 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Pasirinkite bent 2 įgūdžius: dar 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Pasirinkite bent 2 įgūdžių: palaikus"
+
+msgid "Active life"
+msgstr "Aktyvus gyvenimas"
+
+msgid "Arts and culture"
+msgstr "Menas ir kultūra"
+
+msgid "Business"
+msgstr "Verslo"
+
+msgid "Cinema"
+msgstr "Kino teatras"
+
+msgid "Communications"
+msgstr "Ryšių"
+
+msgid "Construction and repair"
+msgstr "Statybos ir remontas"
+
+msgid "Cooking"
+msgstr "Maisto gaminimas"
+
+msgid "Education"
+msgstr "Ugdymas"
+
+msgid "Electronics"
+msgstr "Elektronika"
+
+msgid "Finances"
+msgstr "Lėšos"
+
+msgid "Graphics and design"
+msgstr "Grafika ir dizainas"
+
+msgid "Health"
+msgstr "Sveikatos"
+
+msgid "Home and family"
+msgstr "Namai ir šeima"
+
+msgid "Humor"
+msgstr "Nusiteikimas"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Pramonės šaka"
+
+msgid "Insurance"
+msgstr "Draudimo"
+
+msgid "Literature"
+msgstr "Literatūra"
+
+msgid "Mobile communications and internet"
+msgstr "Judriojo ryšio ir interneto"
+
+msgid "News and Media"
+msgstr "Žiniasklaida ir naujienos"
+
+msgid "Pets"
+msgstr "Gyvūnai"
+
+msgid "Products and service"
+msgstr "Produktai ir paslaugos"
+
+msgid "Real Estate"
+msgstr "Nekilnojamas turtas"
+
+msgid "Religion"
+msgstr "Religija"
+
+msgid "Science and techs"
+msgstr "Mokslas ir techs"
+
+msgid "Security"
+msgstr "Saugumo"
+
+msgid "Society"
+msgstr "Visuomenė"
+
+msgid "Television"
+msgstr "Televizijos"
+
+msgid "Travel"
+msgstr "Kelionė"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Australija"
+
+msgid "Austria"
+msgstr "Austrija"
+
+msgid "Belarus"
+msgstr "Baltarusija"
+
+msgid "Belgium"
+msgstr "Belgija"
+
+msgid "Brazil"
+msgstr "Brazilija"
+
+msgid "Bulgaria"
+msgstr "Bulgarija"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Chile"
+msgstr "Čilė"
+
+msgid "Denmark"
+msgstr "Danija"
+
+msgid "France"
+msgstr "Prancūzija"
+
+msgid "Germany"
+msgstr "Vokietija"
+
+msgid "Greece"
+msgstr "Graikija"
+
+msgid "Hungary"
+msgstr "Vengrija"
+
+msgid "Iceland"
+msgstr "Islandija"
+
+msgid "Ireland"
+msgstr "Airija"
+
+msgid "Israel"
+msgstr "Izraelis"
+
+msgid "Italy"
+msgstr "Italija"
+
+msgid "Japan"
+msgstr "Japonija"
+
+msgid "Mexico"
+msgstr "Meksika"
+
+msgid "Netherlands"
+msgstr "Nyderlandai"
+
+msgid "New Zealand"
+msgstr "Naujoji Zelandija"
+
+msgid "Norway"
+msgstr "Norvegija"
+
+msgid "Poland"
+msgstr "Lenkija"
+
+msgid "Portugal"
+msgstr "Portugalija"
+
+msgid "Russia"
+msgstr "Rusija"
+
+msgid "Slovakia"
+msgstr "Slovakija"
+
+msgid "South Africa"
+msgstr "pietų Afrika"
+
+msgid "South Korea"
+msgstr "Pietų Korėja"
+
+msgid "Spain"
+msgstr "Ispanija"
+
+msgid "Sweden"
+msgstr "Švedija"
+
+msgid "Switzerland"
+msgstr "Šveicarija"
+
+msgid "Turkey"
+msgstr "Turkija"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "United Arab Emirates"
+msgstr "Jungtiniai Arabų Emyratai"
+
+msgid "United Kingdom"
+msgstr "Didžioji Britanija"
+
+msgid "United States"
+msgstr "Jungtinės Valstijos"
+
+msgid "achievements"
+msgstr "pasiekimai"
+
+msgid "Investment management"
+msgstr "Investicijų valdymas"
+
+msgid "Select..."
+msgstr "Pasirinkite ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "Investicijų valdymas"
+
+msgid "Investors list"
+msgstr "Investuotojai sąrašas"
+
+msgid "My investments"
+msgstr "Mano investicijos"
+
+msgid "Create date"
+msgstr "Sukurti datą"
+
+msgid "Author of the project"
+msgstr "Projekto autorius"
+
+msgid "Date and time"
+msgstr "Data ir laikas"
+
+msgid "Status"
+msgstr "Būsena"
+
+msgid "NEXT"
+msgstr "KITAS"
+
+msgid "Next"
+msgstr "Kitas"
+
+msgid "Apply"
+msgstr "Taikyti"
+
+msgid "Kazakhstan"
+msgstr "Kazachstanas"
+
+msgid "Almaty"
+msgstr "Almata"
+
+msgid "Hong Kong"
+msgstr "Honkongas"
+
+msgid "Science"
+msgstr "Mokslas"
+
+msgid "Architecture"
+msgstr "Architektūra"
+
+msgid "Photography"
+msgstr "Fotografija"
+
+msgid "Designer"
+msgstr "Dizaineris"
+
+msgid "IT specialist"
+msgstr "IT specialistas"
+
+msgid "Agronomist"
+msgstr "Agronomas"
+
+msgid "Architect"
+msgstr "Architektas"
+
+msgid "Lawyer"
+msgstr "Teisininkas"
+
+msgid "Writer"
+msgstr "Rašytojas"
+
+msgid "Doctor"
+msgstr "Daktaras"
+
+msgid "Scientist"
+msgstr "Mokslininkas"
+
+msgid "Marketer"
+msgstr "Rinkodaros"
+
+msgid "Teacher"
+msgstr "Mokytojas"
+
+msgid "Cook"
+msgstr "Virkite"
+
+msgid "Artist"
+msgstr "Atlikėjas"
+
+msgid "Photographer"
+msgstr "Fotografas"
+
+msgid "Ecologist"
+msgstr "Ekologas"
+
+msgid "Economist"
+msgstr "Ekonomistas"
+
+msgid "Logistician"
+msgstr "Logistikos specialistas"
+
+msgid "Journalist"
+msgstr "Žurnalistas"
+
+msgid "Builder"
+msgstr "Statytojas"
+
+msgid "These users may be interesting for you"
+msgstr "Šie vartotojai gali būti įdomus jums"
+
+msgid "These articles may be interesting for you"
+msgstr "Šie gaminiai gali būti įdomus jums"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Jūs prisijungė šią grupę kaip Аdministrator"
+
+msgid "articles written."
+msgstr "parašyta straipsniai."
+
+msgid "groups created."
+msgstr "sukurta grupes."
+
+msgid "Build a dream"
+msgstr "Sukurkite svajonę"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Skaitykite daugiau įdomių straipsnių - eiti nemokamą registraciją"
+

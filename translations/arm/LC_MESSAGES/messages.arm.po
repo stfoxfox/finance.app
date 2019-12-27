@@ -1,0 +1,3344 @@
+# հայերեն (Армянский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: հայերեն (Армянский) <support@konstruktor.com>\n"
+"Language: հայերեն (Армянский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "անուն."
+
+msgid "Invalid username or password, try again"
+msgstr "Սխալ մուտքաբառը կամ գաղտնաբառը . Փորձեք կրկին."
+
+msgid "Settings"
+msgstr "պարամետրեր"
+
+msgid "Home"
+msgstr "տուն"
+
+msgid "You must log in to access this page"
+msgstr "Դուք պետք է մուտք գործել այս էջը"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Ձեր նիստը չի լրացել. Խնդրում ենք, relogin է կատարել այդ գործողությունը"
+
+msgid "Save"
+msgstr "Պահպանել"
+
+msgid "Head Office"
+msgstr "Գլխամասային գրասենյակ"
+
+msgid "Address"
+msgstr "հասցե"
+
+msgid "Back"
+msgstr "Վերադառնալ"
+
+msgid "Apply"
+msgstr "դիմել"
+
+msgid "Upload files…"
+msgstr "Վերբեռնել ֆայլեր ..."
+
+msgid "Set as main"
+msgstr "Սահմանել որպես հիմնական"
+
+msgid "Delete"
+msgstr "ջնջել"
+
+msgid "Original image"
+msgstr "բնօրինակը պատկերը"
+
+msgid "Uploaded"
+msgstr "Uploaded"
+
+msgid "File name"
+msgstr "Ֆայլի անունը"
+
+msgid "File size"
+msgstr "Ֆայլի չափը"
+
+msgid "Resolution"
+msgstr "որոշում"
+
+msgid "Enlarge"
+msgstr "մեծացնել"
+
+msgid "Links"
+msgstr "Հղումներ"
+
+msgid "Original size"
+msgstr "Original չափը"
+
+msgid "For editor"
+msgstr "For խմբագիր"
+
+msgid "Resize"
+msgstr "Չափափոխել"
+
+msgid "Width"
+msgstr "լայնություն"
+
+msgid "Height"
+msgstr "բարձրություն"
+
+msgid "Media URL"
+msgstr "Մեդիա URL"
+
+msgid "Add record"
+msgstr "Ավելացնել ռեկորդ"
+
+msgid "Show filter settings"
+msgstr "Ցույց տալ ֆիլտր պարամետրեր"
+
+msgid "Edit record"
+msgstr "Խմբագրել ռեկորդային"
+
+msgid "Delete record"
+msgstr "ջնջել ռեկորդ"
+
+msgid "Delete checked records"
+msgstr "Ջնջել ստուգվում գրառումները"
+
+msgid "Dashboard"
+msgstr "կառանիվի թեւ"
+
+msgid "Password"
+msgstr "գաղտնաբառ"
+
+msgid "Remember me"
+msgstr "Հիշել ինձ"
+
+msgid "Login"
+msgstr "լոգին"
+
+msgid "Clean image cache"
+msgstr "Մաքուր պատկերը cache"
+
+msgid "Processing query..."
+msgstr "Մշակման հարցում ..."
+
+msgid "CMS Development"
+msgstr "CMS Զարգացման"
+
+msgid "Admin Home Page"
+msgstr "Admin Գլխավոր Էջ"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Բաց Գլխավոր էջ ճակատ վերջում նոր էջանիշը"
+
+msgid "Go to Site"
+msgstr "Գնալ կայքի"
+
+msgid "Log out"
+msgstr "Ելք"
+
+msgid "Send"
+msgstr "ուղարկել"
+
+msgid "General"
+msgstr "ընդհանուր"
+
+msgid "Title"
+msgstr "վերնագիր"
+
+msgid "Teaser"
+msgstr "պնդերես"
+
+msgid "Published"
+msgstr "Հրատարակված է"
+
+msgid "Featured"
+msgstr "Պիտակներ"
+
+msgid "Active"
+msgstr "ակտիվ"
+
+msgid "Field is mandatory"
+msgstr "Դաշտը պարտադիր"
+
+msgid "Sort Order"
+msgstr "Դասավորել Order"
+
+msgid "Upload"
+msgstr "Upload"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "երթ"
+
+msgid "Apr"
+msgstr "ապրիլ"
+
+msgid "May"
+msgstr "մայիս"
+
+msgid "Jun"
+msgstr "հունիսի"
+
+msgid "Jul"
+msgstr "հուլիսի"
+
+msgid "Aug"
+msgstr "օգոստոս"
+
+msgid "Sep"
+msgstr "սեպտեմբեր"
+
+msgid "Oct"
+msgstr "հոկտեմբեր"
+
+msgid "Nov"
+msgstr "նոյեմբեր"
+
+msgid "Dec"
+msgstr "դեկտեմբեր"
+
+msgid "Product already exists in the order"
+msgstr "Ապրանք արդեն գոյություն կարգով"
+
+msgid "Product does not exist"
+msgstr "Ապրանք գոյություն չունի"
+
+msgid "Incorrect request"
+msgstr "սխալ է խնդրանքը"
+
+msgid "Products"
+msgstr "արտադրանք"
+
+msgid "Product types"
+msgstr "Ապրանքի տեսակները"
+
+msgid "Contractors"
+msgstr "Contractors"
+
+msgid "Contractor"
+msgstr "կապալառու"
+
+msgid "Orders"
+msgstr "պատվեր"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "նոր կարգը"
+
+msgid "My orders"
+msgstr "Իմ պատվեր"
+
+msgid "Recharge balance"
+msgstr "Recharge մնացորդը"
+
+msgid "Administrator"
+msgstr "ադմինիստրատոր"
+
+msgid "Incorrect event ID"
+msgstr "Սխալ է միջոցառումը ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Խմբագրել կապալառուն"
+
+msgid "Create contractor"
+msgstr "ստեղծել է կապալառուի"
+
+msgid "Edit question"
+msgstr "Խմբագրել հարցը"
+
+msgid "Create question"
+msgstr "ստեղծել է հարցին,"
+
+msgid "Edit order"
+msgstr "Խմբագրել կարգը"
+
+msgid "Create order"
+msgstr "ստեղծել է կարգը"
+
+msgid "Edit product"
+msgstr "Խմբագրել արտադրանքը"
+
+msgid "Create product"
+msgstr "ստեղծել է ապրանքը"
+
+msgid "Edit product type"
+msgstr "Խմբագրել արտադրանքի տեսակը"
+
+msgid "Create product type"
+msgstr "Ստեղծել է արտադրանքի տեսակի"
+
+msgid "You have received a file"
+msgstr "Դուք ստացել եք ֆայլ"
+
+msgid "You received a file from"
+msgstr "Դուք ստացել ֆայլը"
+
+msgid "File has been uploaded"
+msgstr "Ֆայլը չի վերբեռնվել"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "Minimal քանակի"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "նյութեր"
+
+msgid "Remove"
+msgstr "հեռացնել"
+
+msgid "Contact person"
+msgstr "կոնտակտային անձ"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Contractor phone"
+msgstr "Կապալառու Հեռախոս"
+
+msgid "Contractor name"
+msgstr "կապալառուն անունը"
+
+msgid "Contractor details"
+msgstr "Կապալառու մանրամասները"
+
+msgid "Order ID"
+msgstr "Order ID"
+
+msgid "Sum"
+msgstr "գումար"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Ընտրեք հարմար վճարային համակարգը վերալիցքավորման ձեր հաշվեկշիռը"
+
+msgid "Recharge amount"
+msgstr "վերալիցքավորման գումարը"
+
+msgid "Paid"
+msgstr "վճարված"
+
+msgid "Shipped"
+msgstr "առաքվել"
+
+msgid "- No products in this order -"
+msgstr "- Ոչ ապրանքներ այս կարգի ,"
+
+msgid "month"
+msgstr "ամիս"
+
+msgid "No user found"
+msgstr "Ոչ օգտվողին գտնվել"
+
+msgid "Achievement"
+msgstr "նվաճում"
+
+msgid "Confirmed accomplishments"
+msgstr "հաստատված ձեռքբերումները"
+
+msgid "Remove achievement"
+msgstr "հեռացնել ձեռքբերում"
+
+msgid "Headquaters"
+msgstr "նախընտրական շտաբի"
+
+msgid "Phone"
+msgstr "հեռախոս"
+
+msgid "Site URL and email"
+msgstr "Կայքի URL եւ էլ"
+
+msgid "Remove address"
+msgstr "հեռացնել հասցե"
+
+msgid "Members"
+msgstr "անդամները"
+
+msgid "Requires a payment"
+msgstr "Պահանջում է վճարում"
+
+msgid "Shipping"
+msgstr "առաքում"
+
+msgid "Ready"
+msgstr "պատրաստ"
+
+msgid "Find user..."
+msgstr "Գտնել օգտվողին ..."
+
+msgid "Order it"
+msgstr "պատվիրել այն"
+
+msgid "Find group..."
+msgstr "Գտնել խումբը ..."
+
+msgid "Find user or community..."
+msgstr "Գտնել օգտվողին կամ համայնքը ..."
+
+msgid "No item found"
+msgstr "Ոչ հատ գտել"
+
+msgid "years"
+msgstr "տարի"
+
+msgid "Send message"
+msgstr "Ուղարկել հաղորդագրություն"
+
+msgid "Message"
+msgstr "հաղորդագրություն"
+
+msgid "To send message press Enter"
+msgstr "Ուղարկել հաղորդագրություն սեղմեք Enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Ուղարկել հաղորդագրություն մամուլի CTRL + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Processing ֆայլ ( ներ ) ..."
+
+msgid "Group settings"
+msgstr "խմբի պարամետրեր"
+
+msgid "Create group"
+msgstr "Ստեղծել խումբ"
+
+msgid "Group has been successfully saved"
+msgstr "Խումբը հաջողությամբ փրկվել"
+
+msgid "Group title"
+msgstr "Group կոչումը"
+
+msgid "Group video"
+msgstr "Group վիդեո"
+
+msgid "Description"
+msgstr "նկարագրություն"
+
+msgid "Your role in group"
+msgstr "Ձեր դերը խմբի"
+
+msgid "Role"
+msgstr "դեր"
+
+msgid "Photo or video gallery"
+msgstr "Լուսանկարը կամ տեսագրության Պատկերասրահ"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Upload վիդեո"
+
+msgid "Add group address"
+msgstr "Ավելացնել խումբ հասցե"
+
+msgid "Group articles"
+msgstr "խմբի հոդվածներ"
+
+msgid "No addresses yet"
+msgstr "Ոչ հասցեներ չկա"
+
+msgid "Add group achievement"
+msgstr "Ավելացնել խումբ ձեռքբերում"
+
+msgid "No achivements yet"
+msgstr "Ոչ նվաճումները չկա"
+
+msgid "Are you sure to delete this user"
+msgstr "Համոզված եք, որ ջնջել այդ օգտվողին"
+
+msgid "Add member"
+msgstr "ավելացնել անդամ"
+
+msgid "Are you sure to delete this record?"
+msgstr "Համոզված եք, որ ջնջել այդ ռեկորդը ."
+
+msgid "Join this group"
+msgstr "Միանալ այս խմբին"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Ձեր հրավերը ուղարկվել է խմբի ադմինիստրատոր"
+
+msgid "All addresses"
+msgstr "Բոլոր հասցեներ"
+
+msgid "Collapse"
+msgstr "անկում"
+
+msgid "Achievements"
+msgstr "Ձեռքբերումներ"
+
+msgid "Show more"
+msgstr "Ցույց տալ ավելին"
+
+msgid "Team"
+msgstr "թիմ"
+
+msgid "Projects"
+msgstr "Projects"
+
+msgid "New project"
+msgstr "նոր նախագիծը"
+
+msgid "Project has not been created yet"
+msgstr "Նախագիծը չի չունի"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "մնացորդ"
+
+msgid "Main page"
+msgstr "Գլխավոր էջ"
+
+msgid "Upload image"
+msgstr "վերբեռնման պատկերը"
+
+msgid "My time"
+msgstr "իմ ժամանակը"
+
+msgid "Day"
+msgstr "օր"
+
+msgid "Week"
+msgstr "շաբաթ"
+
+msgid "Project settings"
+msgstr "Ծրագրի պարամետրերը"
+
+msgid "Create project"
+msgstr "ստեղծել է նախագիծը"
+
+msgid "Project has been successfully saved"
+msgstr "Ծրագիրը հաջողությամբ փրկվել"
+
+msgid "Project name"
+msgstr "Project անունը"
+
+msgid "Deadline"
+msgstr "Վերջնաժամկետ"
+
+msgid "Close"
+msgstr "սերտ"
+
+msgid "Manager"
+msgstr "մենեջեր"
+
+msgid "Assigned to"
+msgstr "Հանձնարարված է"
+
+msgid "Discussion"
+msgstr "քննարկում"
+
+msgid "Task was created"
+msgstr "Խնդիր էր ստեղծվել"
+
+msgid "Task was closed"
+msgstr "Առաջադրանք փակվել"
+
+msgid "Go to Group"
+msgstr "Գնալ խմբի"
+
+msgid "Closed"
+msgstr "փակ"
+
+msgid "Last updates"
+msgstr "Վերջին թարմացումները"
+
+msgid "Project is closed"
+msgstr "Project փակվել է"
+
+msgid "No open tasks"
+msgstr "Ոչ բաց խնդիրները"
+
+msgid "New task"
+msgstr "New խնդիրն"
+
+msgid "Closed tasks"
+msgstr "փակ խնդիրները"
+
+msgid "Add subproject"
+msgstr "ավելացնել ենթածրագրի"
+
+msgid "Add task"
+msgstr "Ավելացնել առաջադրանքը"
+
+msgid "Sun"
+msgstr "կիրակի"
+
+msgid "Mon"
+msgstr "երկուշաբթի"
+
+msgid "Tue"
+msgstr "երեքշաբթի"
+
+msgid "Wed"
+msgstr "չորեքշաբթի"
+
+msgid "Thur"
+msgstr "հինգշաբթի"
+
+msgid "Fri"
+msgstr "ուրբաթ"
+
+msgid "Sat"
+msgstr "շաբաթ"
+
+msgid "Event title"
+msgstr "Event կոչումը"
+
+msgid "Event description"
+msgstr "Event նկարագրությունը"
+
+msgid "I registered on this site"
+msgstr "Ես գրանցվել այս կայքում"
+
+msgid "Last created groups"
+msgstr "Վերջին ստեղծված խմբերը"
+
+msgid "You joined this group as"
+msgstr "Դուք միացել այս խմբին , քանի որ"
+
+msgid "You received a request to join the group"
+msgstr "Դուք ստացել միանալու հարցում խմբին"
+
+msgid "Updated site"
+msgstr "Թարմացվել է կայք"
+
+msgid "Site is under construction"
+msgstr "Կայքը գտնվում է կառուցման"
+
+msgid "Last registered users"
+msgstr "Վերջին գրանցված օգտվողները"
+
+msgid "User settings"
+msgstr "User պարամետրերը"
+
+msgid "Technical support"
+msgstr "Տեխնիկական աջակցություն"
+
+msgid "Change email"
+msgstr "Change էլփոստի"
+
+msgid "Change password"
+msgstr "Փոխել գաղտնաբառը"
+
+msgid "User has been successfully saved"
+msgstr "Օգտվող հաջողությամբ փրկվել"
+
+msgid "Full name"
+msgstr "լրիվ անունը"
+
+msgid "My video"
+msgstr "Իմ տեսանյութը"
+
+msgid "Skills"
+msgstr "Skills"
+
+msgid "Birthday"
+msgstr "ծննդյան օր"
+
+msgid "Country of residence"
+msgstr "Երկիր Բնակության"
+
+msgid "Country"
+msgstr "երկիր"
+
+msgid "Zip Code"
+msgstr "Zip Code"
+
+msgid "City/town of residence"
+msgstr "Քաղաք / Town Բնակության"
+
+msgid "University/college"
+msgstr "University / քոլեջի"
+
+msgid "University/college photo"
+msgstr "University / քոլեջի լուսանկարը"
+
+msgid "Add user\'s accomplishments"
+msgstr "Ավելացնել օգտվողի ձեռքբերումները"
+
+msgid "Interface language"
+msgstr "Միջերեսի լեզու"
+
+msgid "How other people see this page"
+msgstr "Ինչպես այլ մարդիկ տեսնում այս էջը"
+
+msgid "Video with me"
+msgstr "Video ինձ հետ,"
+
+msgid "Groups"
+msgstr "Խմբեր"
+
+msgid "Registered today"
+msgstr "Գրանցված այսօր"
+
+msgid "Qty"
+msgstr "Քանակ"
+
+msgid "No registered users yet"
+msgstr "Ոչ գրանցված օգտվողները չկա"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Registered total"
+msgstr "Գրանցված ընդհանուր"
+
+msgid "You received a file"
+msgstr "Դուք ստացել ֆայլի մասին"
+
+msgid "You were invited into this room"
+msgstr "Դուք հրավիրվել են այս սենյակում"
+
+msgid "Request is being processed"
+msgstr "Ծանուցման մշակվում"
+
+msgid "Fax"
+msgstr "ֆաքս"
+
+msgid "Messenger"
+msgstr "սուրհանդակ"
+
+msgid "New subproject"
+msgstr "Նոր Ենթածրագիր"
+
+msgid "messages written."
+msgstr "ուղերձներ գրված ."
+
+msgid "projects created based on groups."
+msgstr "ծրագրեր ստեղծված հիման վրա խմբերի."
+
+msgid "users registered on website."
+msgstr "օգտվողները գրանցվել կայքում:"
+
+msgid "New email"
+msgstr "Նոր էլփոստի"
+
+msgid "Confirm email"
+msgstr "Հաստատեք էլ - նամակ"
+
+msgid "New password"
+msgstr "Նոր գաղտնաբառ"
+
+msgid "Confirm password"
+msgstr "Հաստատել գաղտնաբառը"
+
+msgid "Occupation"
+msgstr "Մասնագիտություն"
+
+msgid "Timezone"
+msgstr "Timezone"
+
+msgid "Answer"
+msgstr "պատասխան"
+
+msgid "Articles"
+msgstr "Հոդվածներ"
+
+msgid "Article"
+msgstr "հոդված"
+
+msgid "Video-article"
+msgstr "Video -article"
+
+msgid "Find article..."
+msgstr "Գտնել հոդվածը ..."
+
+msgid "Politics"
+msgstr "քաղաքականություն"
+
+msgid "Economics"
+msgstr "տնտեսագիտություն"
+
+msgid "Community"
+msgstr "համայնք"
+
+msgid "Culture"
+msgstr "մշակույթ"
+
+msgid "Sports"
+msgstr "սպորտային"
+
+msgid "Hi-tech"
+msgstr "Hi- tech"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Fashion"
+msgstr "մոդա"
+
+msgid "Games"
+msgstr "Խաղեր"
+
+msgid "Other"
+msgstr "այլ"
+
+msgid "Invalid mediafile"
+msgstr "Անվավեր Mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Ոչ հոդվածներ այս կատեգորիայում չկա"
+
+msgid "Back to profile"
+msgstr "Վերադառնալ դիտարկում"
+
+msgid "View article"
+msgstr "Դիտել հոդվածը"
+
+msgid "Edit article"
+msgstr "Խմբագրել հոդվածը"
+
+msgid "Create article"
+msgstr "Ստեղծել հոդվածը"
+
+msgid "Article title"
+msgstr "Հոդված կոչումը"
+
+msgid "Article section"
+msgstr "Հոդված բաժինը"
+
+msgid "Choose image"
+msgstr "Ընտրեք պատկերը"
+
+msgid "Save and upload"
+msgstr "Պահպանել եւ վերբեռնել"
+
+msgid "Show more..."
+msgstr "Ցույց տալ ավելին..."
+
+msgid "Create"
+msgstr "ստեղծել"
+
+msgid "Edit"
+msgstr "խմբագրել"
+
+msgid "Project"
+msgstr "ծրագիր"
+
+msgid "Team"
+msgstr "թիմ"
+
+msgid "A new article was published"
+msgstr "Նոր հոդվածը տպագրվել"
+
+msgid "You joined this project"
+msgstr "Դուք միացել այս նախագիծը"
+
+msgid "Enter your information in the User settings"
+msgstr "Մուտքագրեք Ձեր տեղեկատվություն է օգտագործողի պարամետրերը"
+
+msgid "Communities"
+msgstr "Communities"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Video ներկայացում իմ ձեռքբերումները"
+
+msgid "My articles"
+msgstr "Իմ հոդվածները"
+
+msgid "User"
+msgstr "Օգտվող"
+
+msgid "Users"
+msgstr "Users"
+
+msgid "Add new list"
+msgstr "Ավելացնել նոր ցանկ"
+
+msgid "List title"
+msgstr "ցուցակ կոչումը"
+
+msgid "Add"
+msgstr "ավելացնել"
+
+msgid "Add to favorites"
+msgstr "Ավելացնել ընտրյալների մեջ"
+
+msgid "Delete from favorites"
+msgstr "Ջնջել դնել"
+
+msgid "Select list"
+msgstr "Ընտրել ցուցակը"
+
+msgid "Subscriptions"
+msgstr "Բաժանորդագրություններ"
+
+msgid "Subscribe"
+msgstr "բաժանորդագրվել"
+
+msgid "Unsubscribe"
+msgstr "Unsubscribe"
+
+msgid "General list"
+msgstr "General ցուցակը"
+
+msgid "No users in this list"
+msgstr "Ոչ օգտվողները այս ցանկում"
+
+msgid "Publish"
+msgstr "հրատարակել"
+
+msgid "Unpublish"
+msgstr "unpublish"
+
+msgid "Add user"
+msgstr "Ավելացնել օգտվողին"
+
+msgid "Create document"
+msgstr "Ստեղծել փաստաթուղթ"
+
+msgid "Edit document"
+msgstr "Խմբագրել փաստաթուղթը"
+
+msgid "View"
+msgstr "տեսարան"
+
+msgid "Document title"
+msgstr "Փաստաթուղթը կոչումը"
+
+msgid "Find document..."
+msgstr "Գտնել փաստաթուղթ ..."
+
+msgid "Share your thoughts"
+msgstr "Կիսեք Ձեր մտքերը"
+
+msgid "Leave your comment"
+msgstr "Թողնել ձեր մեկնաբանությունը"
+
+msgid "Accept"
+msgstr "ընդունել"
+
+msgid "Decline"
+msgstr "նվազել"
+
+msgid "Add article"
+msgstr "Ավելացնել հոդված"
+
+msgid "Link to verified accomplishments"
+msgstr "Հղում դեպի հաստատված ձեռքբերումները"
+
+msgid "No articles here yet..."
+msgstr "Ոչ հոդվածները այստեղ չկա ..."
+
+msgid "Find file or folder..."
+msgstr "Գտնել ֆայլ կամ թղթապանակ ..."
+
+msgid "Sort"
+msgstr "տեսակավորել"
+
+msgid "By name"
+msgstr "ըստ անվան"
+
+msgid "By date"
+msgstr "Ըստ ամսաթվի"
+
+msgid "By updated date"
+msgstr "Ըստ նորացված ամսաթվի"
+
+msgid "By size"
+msgstr "ըստ չափի"
+
+msgid "By type"
+msgstr "Ըստ տեսակի"
+
+msgid "Move"
+msgstr "քայլ"
+
+msgid "File Manager"
+msgstr "File Manager"
+
+msgid "Share link"
+msgstr "Share հղում"
+
+msgid "Responsible"
+msgstr "պատասխանատու"
+
+msgid "Performer"
+msgstr "կատարող"
+
+msgid "New Folder"
+msgstr "Նոր թղթապանակ"
+
+msgid "Folder name"
+msgstr "Թղթապանակ անունը"
+
+msgid "By default"
+msgstr "Ըստ նախնականի"
+
+msgid "Back to group"
+msgstr "Վերադառնալ խումբ"
+
+msgid "year(s)"
+msgstr "տարի (ներ)"
+
+msgid "January"
+msgstr "հունվար"
+
+msgid "February"
+msgstr "փետրվար"
+
+msgid "March"
+msgstr "մարտ"
+
+msgid "April"
+msgstr "ապրիլ"
+
+msgid "May"
+msgstr "մայիս"
+
+msgid "June"
+msgstr "հունիսի"
+
+msgid "July"
+msgstr "հուլիսի"
+
+msgid "August"
+msgstr "օգոստոս"
+
+msgid "September"
+msgstr "սեպտեմբեր"
+
+msgid "October"
+msgstr "հոկտեմբեր"
+
+msgid "November"
+msgstr "նոյեմբեր"
+
+msgid "December"
+msgstr "դեկտեմբեր"
+
+msgid "Password Reminder"
+msgstr "գաղտնաբառի հիշեցում"
+
+msgid "Log In"
+msgstr "Մուտք"
+
+msgid "Sign in"
+msgstr "Գրանցվել"
+
+msgid "Register"
+msgstr "Գրանցում Գրանցում"
+
+msgid "First name"
+msgstr "անուն"
+
+msgid "Last name"
+msgstr "ազգանուն"
+
+msgid "I agree with rules"
+msgstr "Ես համաձայն եմ կանոններին"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Հավաստագիր mail նամակը ուղարկվել է ձեր էլեկտրոնային փոստի հասցեն."
+
+msgid "Thanks"
+msgstr "շնորհակալություն"
+
+msgid "Password must be at least 6 characters"
+msgstr "Գաղտնաբառ պետք է լինի առնվազն 6 նիշ"
+
+msgid "Creative Environment"
+msgstr "Creative Environment"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Դուք պետք է լինի առնվազն տասներեք տարեկան է օգտագործել այս ծառայությունը"
+
+msgid "Order status"
+msgstr "Order կարգավիճակը"
+
+msgid "Processing order"
+msgstr "Processing պատվեր"
+
+msgid "Requires a payment"
+msgstr "Պահանջում է վճարում"
+
+msgid "Shipping"
+msgstr "Առաքում"
+
+msgid "Ready"
+msgstr "պատրաստ"
+
+msgid "Thank you for your payment"
+msgstr "Շնորհակալություն ձեր վճարման"
+
+msgid "Your payment has been cancelled"
+msgstr "Ձեր վճարման չեղյալ է արվել"
+
+msgid "page"
+msgstr "էջ"
+
+msgid "Rent period"
+msgstr "Վարձով ժամկետը"
+
+msgid "Total, month"
+msgstr "Ընդամենը, ամիսը"
+
+msgid "Order items"
+msgstr "Պատվիրեք իրեր"
+
+msgid "No records found"
+msgstr "Ոչ գրառումները գտնվել"
+
+msgid "User with this email is already exist"
+msgstr "Օգտվող Այս փոստով, արդեն գոյություն ունեն"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Թղթապանակ կամ ֆայլը այդպիսի անունով արդեն գոյություն ունեն նշանակման թղթապանակում"
+
+msgid "Minimal quantity"
+msgstr "Minimal քանակի"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "տպագիր պատճենները"
+
+msgid "Terms of Use"
+msgstr "Օգտվելու կանոններ"
+
+msgid "Privacy Policy"
+msgstr "Գաղտնիության քաղաքականություն"
+
+msgid "Find project..."
+msgstr "Գտնել նախագիծը ..."
+
+msgid "New Project"
+msgstr "Նոր նախագիծ"
+
+msgid "Accounts"
+msgstr "հաշիվներ"
+
+msgid "Operations"
+msgstr "Operations"
+
+msgid "All accounts"
+msgstr "Բոլոր հաշիվները"
+
+msgid "All categories"
+msgstr "Բոլոր կատեգորիաները"
+
+msgid "Expense"
+msgstr "ծախսեր"
+
+msgid "Income"
+msgstr "եկամուտ"
+
+msgid "Transfer"
+msgstr "փոխանցել"
+
+msgid "Expense"
+msgstr "ծախսեր"
+
+msgid "income"
+msgstr "եկամուտ"
+
+msgid "tax"
+msgstr "հարկ"
+
+msgid "percent"
+msgstr "տոկոս"
+
+msgid "transfer"
+msgstr "փոխանցել"
+
+msgid "Make operation"
+msgstr "կատարել գործողությունը"
+
+msgid "Select date"
+msgstr "Ընտրել ամսաթիվ"
+
+msgid "Select account"
+msgstr "Ընտրել հաշիվը"
+
+msgid "Month"
+msgstr "ամիս"
+
+msgid "Quarter"
+msgstr "եռամսյակ"
+
+msgid "Year"
+msgstr "տարի"
+
+msgid "From"
+msgstr "From"
+
+msgid "To"
+msgstr "մինչեւ"
+
+msgid "Expense amount"
+msgstr "Ծախսերի գումարը"
+
+msgid "Categories"
+msgstr "Կատեգորիաներ"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "Income amount"
+msgstr "գումար"
+
+msgid "Transfer amount"
+msgstr "Transfer գումարը"
+
+msgid "From account"
+msgstr "From հաշվի"
+
+msgid "To account"
+msgstr "To հաշվի"
+
+msgid "New Account"
+msgstr "New Account"
+
+msgid "New Category"
+msgstr "Նոր Աստիճան"
+
+msgid "All"
+msgstr "բոլորը"
+
+msgid "Name"
+msgstr "անուն"
+
+msgid "Enter category name"
+msgstr "Մուտքագրեք կատեգորիայի անունը"
+
+msgid "Select type"
+msgstr "Ընտրել տիպը"
+
+msgid "Credit card"
+msgstr "Վարկային քարտ"
+
+msgid "Debit card"
+msgstr "Դեբետային քարտ"
+
+msgid "Bank account"
+msgstr "Բանկային հաշիվ"
+
+msgid "Cash"
+msgstr "կանխիկ"
+
+msgid "Balance is empty"
+msgstr "Balance դատարկ"
+
+msgid "Statistic is empty"
+msgstr "Զրուցարանում դատարկ"
+
+msgid "Regular payments"
+msgstr "Հերթական վճարումներ"
+
+msgid "Are you sure ?"
+msgstr "Համոզված ես ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Համոզված եք, որ պետք է փակել այդ նախագիծը ."
+
+msgid "Project was deleted successfully"
+msgstr "Project ջնջվել հաջողությամբ"
+
+msgid "Select currency"
+msgstr "Ընտրել արժույթը"
+
+msgid "Account"
+msgstr "հաշիվ"
+
+msgid "Orders list"
+msgstr "Պատվերներ ցուցակը"
+
+msgid "Order payments"
+msgstr "Պատվիրեք վճարումներ"
+
+msgid "View order"
+msgstr "Դիտել պատվեր"
+
+msgid "No response from Printer API"
+msgstr "Ոչ պատասխանը Printer API- ի"
+
+msgid "Bad response from Printer API"
+msgstr "Bad պատասխանը Printer API- ի"
+
+msgid "User ID"
+msgstr "օգտագործողի Այ - Դի"
+
+msgid "Contact Person"
+msgstr "Կոնտակտային անձ"
+
+msgid "No orders to process"
+msgstr "Ոչ պատվերներ են մշակել"
+
+msgid "Article announce image"
+msgstr "Հոդված հայտարարում պատկերը"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Անվավեր վիդեո URL . Թողնել դատարկ կամ տեղադրեք վավեր youtube url"
+
+msgid "Please, enter Contractor data"
+msgstr "Խնդրում ենք , մուտք գործել Կապալառու տվյալները"
+
+msgid "Distribute devices"
+msgstr "Տարածեք սարքեր"
+
+msgid "Quantity"
+msgstr "քանակ"
+
+msgid "Devices left"
+msgstr "Devices Ձախ"
+
+msgid "Distributed devices"
+msgstr "Բաշխված սարքեր"
+
+msgid "You must enter quantity"
+msgstr "Դուք պետք է մուտքագրեք քանակի"
+
+msgid "All devices are distributed"
+msgstr "Բոլոր սարքեր են բաշխվում"
+
+msgid "IP address"
+msgstr "IP հասցե"
+
+msgid "Only for printer"
+msgstr "Միայն տպիչ"
+
+msgid "Counter"
+msgstr "հակառակ"
+
+msgid "You was excluded from this room"
+msgstr "Դուք հանվել է այս սենյակում"
+
+msgid "Compare"
+msgstr "համեմատել"
+
+msgid "Scheduled transaction"
+msgstr "Պլանավորված գործարքը"
+
+msgid "Select transfer account"
+msgstr "Ընտրել փոխանցում հաշիվը"
+
+msgid "Select income account"
+msgstr "Ընտրել եկամուտների հաշվին"
+
+msgid "Reports"
+msgstr "Հաշվետվություններ"
+
+msgid "Goals"
+msgstr "Գոլերը"
+
+msgid "Budgets"
+msgstr "բյուջեների"
+
+msgid "Enter user name or email..."
+msgstr "Մուտքագրեք օգտագործողի անունը կամ էլ ..."
+
+msgid "Invite had been sended"
+msgstr "Հրավիրեք էր sended"
+
+msgid "Statistics"
+msgstr "վիճակագրություն"
+
+msgid "Updated site began to work"
+msgstr "Նորացվող կայքն սկսել է աշխատել"
+
+msgid "City of residence"
+msgstr "Քաղաքի նստավայրի"
+
+msgid "Edit favourites list"
+msgstr "Խմբագրել Ընտրվածներ ցուցակը"
+
+msgid "Add favourites list"
+msgstr "Ավելացնել էջանշանները ցուցակը"
+
+msgid "Categories is required"
+msgstr "Կատեգորիաներ պահանջվում"
+
+msgid "Type new category name and hit Enter"
+msgstr "Մուտքագրեք նոր կատեգորիա անունը եւ հարվածել Enter"
+
+msgid "You created an order"
+msgstr "Դուք ստեղծել է հրաման"
+
+msgid "You received a device due to this order"
+msgstr "Դուք ստացել սարքը շնորհիվ այս կարգի"
+
+msgid "%s attached %s to task %s"
+msgstr "%s կցված %s խնդրի %s"
+
+msgid "member(s)"
+msgstr "անդամ ( ներ)"
+
+msgid "%s commented task %s"
+msgstr "%s մեկնաբանել խնդիրը %s"
+
+msgid "%s closed task %s"
+msgstr "%s փակ խնդիրն %s"
+
+msgid "%s created task %s"
+msgstr "%s ստեղծվել խնդիրն %s"
+
+msgid "%s created this project"
+msgstr "%s ստեղծեց այս նախագիծը"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s ստեղծվել Ենթածրագիր \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s փակ նախագիծը \"%s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s փակ Ենթածրագիր \"%s\""
+
+msgid "This field must not be blank"
+msgstr "Այս դաշտը պետք է դատարկ լինի"
+
+msgid "Document with such name is already exist"
+msgstr "Փաստաթուղթ նման անունով , արդեն գոյություն ունեն"
+
+msgid "Wait until image upload"
+msgstr "Սպասեք, մինչեւ պատկերների վերբեռնման"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Message can not be empty"
+msgstr "Հաղորդագրություն չի կարող դատարկ"
+
+msgid "Yes"
+msgstr "այո"
+
+msgid "No"
+msgstr "ոչ"
+
+msgid "Created"
+msgstr "Ստեղծված"
+
+msgid "Compare is empty"
+msgstr "Համեմատել դատարկ"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Դուք համոզված եք, որ ցանկանում եք ջնջել գործողությունը"
+
+msgid "Do you really want to delete transaction"
+msgstr "Դուք իսկապես ուզում եք ջնջել գործարքը"
+
+msgid "Project with same name already exists"
+msgstr "Ծրագրի հետ նույն անունով արդեն գոյություն ունի"
+
+msgid "Account is not found"
+msgstr "Հաշվի չի գտնվել"
+
+msgid "Currency is required"
+msgstr "Արտարժույթ պահանջվում"
+
+msgid "error while deleting document"
+msgstr "սխալ իսկ վերացման փաստաթուղթ"
+
+msgid "Expences"
+msgstr "ծախսեր"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Դուք հրավիրվում օգտվողին \"%s \" - ի այս սենյակում"
+
+msgid "User \"%s\" joined this room"
+msgstr "User \"%s\" միացել է այս սենյակում"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Դուք բացառվում օգտվողին \"%s \" - ից այս սենյակում"
+
+msgid "User \"%s\" left this room"
+msgstr "User \"%s\" մնացել այս սենյակում"
+
+msgid "Add account"
+msgstr "Ավելացնել հաշիվ"
+
+msgid "The requested page is not found"
+msgstr "Հարցված էջը չի գտնվել"
+
+msgid "Document"
+msgstr "փաստաթուղթ"
+
+msgid "Table"
+msgstr "սեղան"
+
+msgid "file(s)"
+msgstr "ֆայլ ( ներ)"
+
+msgid "Residue"
+msgstr "նստվածք"
+
+msgid "Result is empty"
+msgstr "Արդյունքն ակնառու է, դատարկ է"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Ընդհանուր գումարը կազմում է %s %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Դուք պետք է ի պահ հանձնել %s ամսական հարակից հաշվին"
+
+msgid "Start"
+msgstr "սկիզբ"
+
+msgid "finish"
+msgstr "Սալոնի"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Ընտրված հաշիվը արդեն իսկ օգտագործման համար մեկ այլ նպատակի"
+
+msgid "Amount required"
+msgstr "գումարը պահանջվում"
+
+msgid "New goal"
+msgstr "New նպատակն"
+
+msgid "Goal"
+msgstr "նպատակ"
+
+msgid "Goal name"
+msgstr "Նպատակը անունը"
+
+msgid "Invalid date"
+msgstr "Անվավեր ամսաթիվը"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Անհրաժեշտ գումարը պետք է լինի դրական համարը"
+
+msgid "Remain"
+msgstr "մնալ"
+
+msgid "Last day"
+msgstr "Վերջին օրը"
+
+msgid "Accumulated"
+msgstr "Կուտակված"
+
+msgid "Put aside"
+msgstr "Ներդրեք մի կողմ"
+
+msgid "January"
+msgstr "հունվար"
+
+msgid "February"
+msgstr "փետրվար"
+
+msgid "March"
+msgstr "մարտ"
+
+msgid "April"
+msgstr "ապրիլ"
+
+msgid "May"
+msgstr "մայիս"
+
+msgid "June"
+msgstr "հունիսի"
+
+msgid "July"
+msgstr "հուլիսի"
+
+msgid "August"
+msgstr "օգոստոս"
+
+msgid "September"
+msgstr "սեպտեմբեր"
+
+msgid "October"
+msgstr "հոկտեմբեր"
+
+msgid "November"
+msgstr "նոյեմբեր"
+
+msgid "December"
+msgstr "դեկտեմբեր"
+
+msgid "Expenses projected/actual"
+msgstr "Ծախսերը նախագծվել / փաստացի"
+
+msgid "Net Income projected/actual"
+msgstr "Զուտ եկամուտը նախագծվել / փաստացի"
+
+msgid "New budget"
+msgstr "Նոր բյուջեն"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Եկամուտների եւ ծախսերի կառուցվածքը"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Բյուջեն նույն զույգ հաշվի եւ կատեգորիայում արդեն գոյություն ունի"
+
+msgid "Budget is empty"
+msgstr "Budget դատարկ"
+
+msgid "Budget"
+msgstr "բյուջե"
+
+msgid "plan"
+msgstr "պլան"
+
+msgid "fact"
+msgstr "փաստ"
+
+msgid "diff"
+msgstr "տարբ"
+
+msgid "Show More"
+msgstr "Ցույց տալ ավելին"
+
+msgid "Cancel"
+msgstr "վերացնել"
+
+msgid "d"
+msgstr "դ"
+
+msgid "h"
+msgstr "ժ"
+
+msgid "min"
+msgstr "րոպե"
+
+msgid "My sales"
+msgstr "Իմ վաճառքի"
+
+msgid "Time spent"
+msgstr "Time անցկացրել է"
+
+msgid "Total time spent"
+msgstr "Total ժամանակը ծախսել"
+
+msgid "Earnings per hour"
+msgstr "Շահույթ մեկ ժամում"
+
+msgid "Total earnings"
+msgstr "Ընդհանուր շահույթը"
+
+msgid "Call"
+msgstr "կոչ"
+
+msgid "Phone call"
+msgstr "Հեռախոսազանգ"
+
+msgid "Telephone calls"
+msgstr "հեռախոսազանգերը"
+
+msgid "Send email"
+msgstr "Ուղարկել նամակ"
+
+msgid "Emails"
+msgstr "emails"
+
+msgid "Meeting"
+msgstr "հանդիպում"
+
+msgid "Meetings"
+msgstr "Հանդիպումներ"
+
+msgid "All events"
+msgstr "Բոլոր միջոցառումները"
+
+msgid "Task"
+msgstr "խնդիր"
+
+msgid "Event"
+msgstr "իրադարձություն"
+
+msgid "Events"
+msgstr "Իրադարձություններ"
+
+msgid "Time"
+msgstr "ժամանակ"
+
+msgid "Events statistics"
+msgstr "իրադարձություններ վիճակագրություն"
+
+msgid "days"
+msgstr "օր"
+
+msgid "hours"
+msgstr "ժամ"
+
+msgid "minutes"
+msgstr "արձանագրություն"
+
+msgid "Income & expense"
+msgstr "Income & ծախս"
+
+msgid "Show chart"
+msgstr "Ցույց տալ աղյուսակը"
+
+msgid "Hide chart"
+msgstr "Թաքցնել աղյուսակը"
+
+msgid "Add event"
+msgstr "Ավելացնել միջոցառումը"
+
+msgid "Add financial data"
+msgstr "Ավելացնել ֆինանսական տվյալները"
+
+msgid "Select contractor"
+msgstr "Ընտրել կապալառուն"
+
+msgid "Net Income"
+msgstr "զուտ եկամուտը"
+
+msgid "Revenue"
+msgstr "եկամուտ"
+
+msgid "Taxes"
+msgstr "հարկերը"
+
+msgid "Amount planned"
+msgstr "գումարը նախատեսվում"
+
+msgid "Amount"
+msgstr "գումար"
+
+msgid "Period"
+msgstr "ժամանակաշրջան"
+
+msgid "Are you sure to close this task?"
+msgstr "Համոզված եք, որ պետք է փակել այս խնդիրը ."
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "Բոլոր խմբերը"
+
+msgid "added from task"
+msgstr "ավելացված խնդիր"
+
+msgid "Monthly repeat"
+msgstr "ամսական կրկնել"
+
+msgid "Select category"
+msgstr "Ընտրել կատեգորիան"
+
+msgid "Event type"
+msgstr "Event տիպը"
+
+msgid "Margin"
+msgstr "սահման"
+
+msgid "Use finance project"
+msgstr "Օգտագործեք ֆինանսների նախագիծը"
+
+msgid "New investment project"
+msgstr "Նոր ներդրումային ծրագրի"
+
+msgid "Investment project settings"
+msgstr "Ներդրումային ծրագրերի պարամետրեր"
+
+msgid "Picture, for the announcement project"
+msgstr "Picture է, որ հայտարարությունների ծրագրի"
+
+msgid "Announcement project"
+msgstr "Հայտարարություն նախագիծը"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Photos or videos gallery"
+msgstr "Լուսանկարներ եւ տեսանյութեր Պատկերասրահ"
+
+msgid "required amount"
+msgstr "պահանջվող գումարը"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Ծրագրի տեւողությունը ( 60 օր առավելագույնը)"
+
+msgid "Project duration"
+msgstr "Ծրագրի տեւողությունը"
+
+msgid "Add reward"
+msgstr "Ավելացնել պարգեւատրում"
+
+msgid "Delivery date"
+msgstr "Առաքման օրը"
+
+msgid "Payment systems"
+msgstr "Վճարման համակարգեր"
+
+msgid "Terms of service"
+msgstr "Ծառայությունների մատուցման պայմաններ"
+
+msgid "Agreement"
+msgstr "համաձայնագիր"
+
+msgid "Payment"
+msgstr "վճարում"
+
+msgid "My projects"
+msgstr "Իմ ծրագրեր"
+
+msgid "Search result"
+msgstr "Search արդյունքը"
+
+msgid "Nothing not found"
+msgstr "Ոչինչ չի գտնվել"
+
+msgid "The project has no sponsors"
+msgstr "Նախագիծը չունի հովանավորներ"
+
+msgid "Design"
+msgstr "դիզայն"
+
+msgid "Food"
+msgstr "սնունդ"
+
+msgid "Journalism"
+msgstr "ժուռնալիստի մասնագիտությունը"
+
+msgid "Games"
+msgstr "Խաղեր"
+
+msgid "Art"
+msgstr "արվեստ"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "երաժշտություն"
+
+msgid "Handicrafts"
+msgstr "Handicrafts"
+
+msgid "Publishing"
+msgstr "Publishing"
+
+msgid "Theater"
+msgstr "թատրոն"
+
+msgid "Technology"
+msgstr "տեխնոլոգիա"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "լուսանկար"
+
+msgid "Dance"
+msgstr "պարել"
+
+msgid "Invalid youtube video"
+msgstr "Անվավեր youtube video"
+
+msgid "is required"
+msgstr "պահանջվում"
+
+msgid "User"
+msgstr "Օգտվող"
+
+msgid "Date"
+msgstr "ամսաթիվ"
+
+msgid "Collected"
+msgstr "Հավաքած"
+
+msgid "Choose period"
+msgstr "Ընտրեք ժամանակահատվածը"
+
+msgid "Choose region"
+msgstr "Ընտրեք տարածաշրջանը"
+
+msgid "Country"
+msgstr "երկիր"
+
+msgid "Today"
+msgstr "այսօր"
+
+msgid "Week"
+msgstr "շաբաթ"
+
+msgid "Month"
+msgstr "ամիս"
+
+msgid "Year"
+msgstr "տարի"
+
+msgid "Free registration"
+msgstr "անվճար գրանցում"
+
+msgid "Join"
+msgstr "միանալ"
+
+msgid "Log in using"
+msgstr "Մուտք գործել, օգտագործելով"
+
+msgid "Vacancies"
+msgstr "Զբաղվածության հնարավորություններ"
+
+msgid "About Us"
+msgstr "Մեր մասին"
+
+msgid "You will need email to log in"
+msgstr "Դուք պետք նամակ է մուտք գործել"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Համադրություն 6 նիշերն եւ կերպարների"
+
+msgid "Search users, groups, articles..."
+msgstr "Որոնում օգտվողները, խմբեր, հոդվածներ ..."
+
+msgid "Cloud"
+msgstr "ամպ"
+
+msgid "Sunday"
+msgstr "կիրակի"
+
+msgid "Monday"
+msgstr "երկուշաբթի"
+
+msgid "Tuesday"
+msgstr "երեքշաբթի"
+
+msgid "Wednesday"
+msgstr "չորեքշաբթի"
+
+msgid "Thursday"
+msgstr "հինգշաբթի"
+
+msgid "Friday"
+msgstr "ուրբաթ"
+
+msgid "Saturday"
+msgstr "շաբաթ"
+
+msgid "Edit"
+msgstr "խմբագրել"
+
+msgid "Create group"
+msgstr "Ստեղծել խումբ"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Դուք համոզված եք, որ ցանկանում եք դուրս գալ այս էջը :"
+
+msgid "More"
+msgstr "ավելի շատ"
+
+msgid "Less"
+msgstr "ավելի քիչ"
+
+msgid "Pending"
+msgstr "մինչեւ"
+
+msgid "Approved"
+msgstr "Հաստատվել է"
+
+msgid "Rejected"
+msgstr "Մերժել"
+
+msgid "Subprojects"
+msgstr "Ենթածրագրերը"
+
+msgid "Group edit"
+msgstr "Group խմբագրել"
+
+msgid "Startup"
+msgstr "Startup"
+
+msgid "Tattoo"
+msgstr "դաջվածք"
+
+msgid "Health"
+msgstr "առողջապահական"
+
+msgid "Weapon"
+msgstr "զենք"
+
+msgid "Astronomy"
+msgstr "աստղագիտություն"
+
+msgid "All articles"
+msgstr "Բոլոր հոդվածները"
+
+msgid "Article editor"
+msgstr "Հոդված գլխավոր խմբագիր"
+
+msgid "Document editor"
+msgstr "Փաստաթուղթը գլխավոր խմբագիր"
+
+msgid "Apply changes"
+msgstr "Դիմել փոփոխություններ"
+
+msgid "Save changes?"
+msgstr "Պահել փոփոխությունները?"
+
+msgid "published an article"
+msgstr "հոդված է հրապարակել"
+
+msgid "Users"
+msgstr "Users"
+
+msgid "Shared With Me"
+msgstr "Կիսել ինձ հետ,"
+
+msgid "share"
+msgstr "բաժնետոմս"
+
+msgid "Select Group Responsible"
+msgstr "Ընտրել Group Պատասխանատու"
+
+msgid "Create folder"
+msgstr "Ստեղծել թղթապանակ"
+
+msgid "Title must be at least 3 characters"
+msgstr "Title պետք է լինի առնվազն 3 նիշ"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Ազատ 10 GB , ֆինանսների կառավարիչ , ներդրումներ մոդուլ , եւ բազմաթիվ այլ անվճար եւ յաւիտեանս յաւիտենից"
+
+msgid "Best regards"
+msgstr "Best regards"
+
+msgid "Updates in last 12 hours:"
+msgstr "Թարմացումները վերջին 12 ժամվա ընթացքում :"
+
+msgid "expense"
+msgstr "ծախսեր"
+
+msgid "Commentary on the event:"
+msgstr "Մեկնաբանություն միջոցառման :"
+
+msgid "Event place"
+msgstr "Event տեղ"
+
+msgid "Project was updated"
+msgstr "Ծրագիրը թարմացվել"
+
+msgid "Project was created"
+msgstr "Ծրագիրը ստեղծվել"
+
+msgid "Project was closed"
+msgstr "Project փակվել"
+
+msgid "account"
+msgstr "հաշիվ"
+
+msgid "removed task"
+msgstr "հանել խնդիրը"
+
+msgid "removed subproject"
+msgstr "հեռացվել Ենթածրագիր"
+
+msgid "Title can not be empty"
+msgstr "Title չի կարող դատարկ"
+
+msgid "Do not select the type of event"
+msgstr "Մի ընտրեք տեսակը միջոցառման"
+
+msgid "Error while saving comment"
+msgstr "Error իսկ խնայելով մեկնաբանություններ"
+
+msgid "Save error: access denied"
+msgstr "Պահպանել սխալ : Մուտքն արգելված է"
+
+msgid "Remains"
+msgstr "մնացորդները"
+
+msgid "Time spent, h."
+msgstr "Time ծախսել, h ."
+
+msgid "Emails"
+msgstr "emails"
+
+msgid "Meetings"
+msgstr "Հանդիպումներ"
+
+msgid "All users"
+msgstr "Բոլոր օգտատերերը"
+
+msgid "Category"
+msgstr "կատեգորիա"
+
+msgid "Finance project"
+msgstr "Finance նախագիծը"
+
+msgid "Investment project"
+msgstr "ներդրումային ծրագրի շրջանակներում"
+
+msgid "Nature"
+msgstr "բնություն"
+
+msgid "Data is empty"
+msgstr "Data դատարկ"
+
+msgid "Visitors"
+msgstr "Այցելուները"
+
+msgid "My profile"
+msgstr "Իմ էջը"
+
+msgid "Sponsors"
+msgstr "Հովանավորներ"
+
+msgid "Prior to completion"
+msgstr "Նախքան ավարտից"
+
+msgid "Select"
+msgstr "ընտրել"
+
+msgid "My groups"
+msgstr "Իմ խմբերը"
+
+msgid "The invitation has been sent successfully"
+msgstr "Հրավերը արդեն ուղարկվել հաջողությամբ"
+
+msgid "Username has already been invited to this project"
+msgstr "Մականուն արդեն հրավիրվել են այս նախագծին"
+
+msgid "The user is the creator of the project"
+msgstr "Օգտվողը ստեղծող նախագծի"
+
+msgid "Provide full access"
+msgstr "Ապահովել լիարժեք հասանելիություն"
+
+msgid "Select elements to provide access"
+msgstr "Ընտրեք տարրեր ապահովել մուտք"
+
+msgid "Select all"
+msgstr "Ընտրել բոլորը"
+
+msgid "User E-mail"
+msgstr "Օգտվող E -mail"
+
+msgid "Click on the field to select a category"
+msgstr "Սեղմիր դաշտում ընտրել կատեգորիա"
+
+msgid "Invitation was deleted"
+msgstr "Invitation ջնջվել"
+
+msgid "Permission denied"
+msgstr "թույլտվությունը մերժվեց"
+
+msgid "Printed"
+msgstr "Տպագիր"
+
+msgid "Incorrect Contractor email"
+msgstr "Սխալ Կապալառու էլփոստի"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Ուզում եք ավելացնել նախագիծը ֆինանսավորելու մենեջեր ."
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "To ավարտելու գրանցման գործընթացը , խնդրում ենք լրացնել ներքեւ ձեր հմտությունները"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "An mail հետագա հրահանգների նամակը ուղարկվել է ձեր էլեկտրոնային փոստի հասցեն"
+
+msgid "Submit"
+msgstr "ներկայացնել"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Science"
+msgstr "գիտություն"
+
+msgid "Donation"
+msgstr "նվիրատվություն"
+
+msgid "Interests"
+msgstr "Հետաքրքրությունները:"
+
+msgid "Driver"
+msgstr "վարորդ"
+
+msgid "Sportsman"
+msgstr "մարզիկ"
+
+msgid "Businessman"
+msgstr "բիզնեսմեն"
+
+msgid "Accountant"
+msgstr "հաշվապահ"
+
+msgid "Engineer"
+msgstr "ինժեներ"
+
+msgid "Soldier"
+msgstr "զինվոր"
+
+msgid "Next"
+msgstr "հաջորդ"
+
+msgid "Hide group"
+msgstr "Թաքցնել խումբ"
+
+msgid "groups created"
+msgstr "խմբեր ստեղծվել"
+
+msgid "articles written"
+msgstr "հոդվածներ` գրված"
+
+msgid "These groups may be interesting for you"
+msgstr "Այս խմբերը կարող են լինել հետաքրքիր է ձեզ համար"
+
+msgid "About Group"
+msgstr "խմբի մասին"
+
+msgid "view(s)"
+msgstr "view (s )"
+
+msgid "Favorite users"
+msgstr "Սիրված օգտվողները"
+
+msgid "No accounts"
+msgstr "ոչ հաշիվներ"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook թույլտվություն ձախողվեց ."
+
+msgid "Authorization Required"
+msgstr "Թույլտվություն Պարտադիր"
+
+msgid "You have to make a call:"
+msgstr "Դուք պետք է կատարել զանգ :"
+
+msgid "You have to send an email:"
+msgstr "Դուք պետք է ուղարկել նամակ :"
+
+msgid "You have a meetup:"
+msgstr "Դուք ունեք մի Meetup :"
+
+msgid "You event :"
+msgstr "Դուք միջոցառումը :"
+
+msgid "Participants:"
+msgstr "մասնակիցներ"
+
+msgid "Search"
+msgstr "որոնում"
+
+msgid "News"
+msgstr "նորություններ"
+
+msgid "Investments"
+msgstr "Investments"
+
+msgid "Back to Cloud"
+msgstr "Վերադառնալ Cloud"
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Planet"
+msgstr "մոլորակ"
+
+msgid "Group url"
+msgstr "Group URL"
+
+msgid "Profile url"
+msgstr "Անձնագիր URL"
+
+msgid "Already taken"
+msgstr "Արդեն վերցրել"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Առնվազն 1 նամակ եւ 3- նիշ երկարությունը պահանջվում"
+
+msgid "Digit can not be the first character"
+msgstr "Digit չի կարող լինել առաջինը, բնույթը"
+
+msgid "Enter valid email address"
+msgstr "Մուտքագրեք էլ փոստի հասցեն"
+
+msgid "Enter your skills"
+msgstr "Մուտքագրեք Ձեր հմտությունները"
+
+msgid "Enter your first name"
+msgstr "Մուտքագրեք Ձեր անունը"
+
+msgid "Enter your last name"
+msgstr "Մուտքագրեք Ձեր ազգանունը"
+
+msgid "Enter your first name and last name"
+msgstr "Մուտքագրեք Ձեր անունը եւ ազգանունը"
+
+msgid "Your first name?"
+msgstr "Ձեր անունը?"
+
+msgid "Your last name?"
+msgstr "Ձեր անունը, ազգանունը ."
+
+msgid "What are your proficiencies?"
+msgstr "Որոնք են Ձեր proficiencies ."
+
+msgid "Select country"
+msgstr "Ընտրել երկիրը"
+
+msgid "Select user"
+msgstr "Ընտրել օգտվողին"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Կատարել Ձեր երազանքը. Ստեղծել եւ համագործակցել ."
+
+msgid "date moved from"
+msgstr "ամսաթիվը տեղափոխվել"
+
+msgid "work"
+msgstr "աշխատանք"
+
+msgid "Conference"
+msgstr "կոնֆերանս"
+
+msgid "personal"
+msgstr "անձնական"
+
+msgid "Holiday"
+msgstr "տոն"
+
+msgid "Past"
+msgstr "Անցյալ"
+
+msgid "Future"
+msgstr "Ապագա"
+
+msgid "Purchase"
+msgstr "Գնում"
+
+msgid "Personal events"
+msgstr "Մասնավոր միջոցառումներ"
+
+msgid "Conferences"
+msgstr "Հանդիպում"
+
+msgid "Holidays"
+msgstr "Խնջույքներ"
+
+msgid "Sport events"
+msgstr "Սպորտային միջոցառումներ"
+
+msgid "Tasks"
+msgstr "Խնդիրներ"
+
+msgid "Other events"
+msgstr "Այլ միջոցառումներ"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Հետաձգված"
+
+msgid "Time management"
+msgstr "Time Management"
+
+msgid "Delayed events"
+msgstr "Հետաձգված միջոցառումներ"
+
+msgid "Delayed"
+msgstr "Հետաձգված"
+
+msgid "Bind to"
+msgstr "Նշանակել"
+
+msgid "answered your comment to"
+msgstr "Ես ասել եմ, (ա) Մեկնաբանություն հոդվածի"
+
+msgid "commented your article"
+msgstr "Ես մեկնաբանել ձեր հոդվածի"
+
+msgid "You\'ve answered on comment to"
+msgstr "Դուք արձագանքել է մեկնաբանության վրա հոդվածում,"
+
+msgid "You\'ve commented an article"
+msgstr "Դուք մեկնաբանել է հոդվածում,"
+
+msgid "Terms and Conditions"
+msgstr "Պայմաններ եւ դրույթներ"
+
+msgid "Privacy Policy"
+msgstr "Գաղտնիության քաղաքականություն"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Սեղմելով «sign up» - Համաձայն եք, մեր, եւ գիտակցում են, որ դուք պետք է կարդալ մեր"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Գրանցման համայնքին ստեղծագործ մարդկանց ամբողջ աշխարհում. Դուք կարող եք ստանալ: Ներդրումներ ձեր գաղափարները, հնարավորություն հավաքելու իր թիմը, աշխատում է մի խումբ, ֆինանսական կառավարիչ, գործադիր իրենց ժամանակը, 2 գիգաբայթ ի պահեստավորման եւ ավելի. Եվ դա անվճար"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Ներեցեք, բայց էջը դուք փնտրում են գոյություն չունի: Եթե ​​կարծում եք, որ պետք է մեղադրել մեզ կապվել մեզ հետ"
+
+msgid "Return"
+msgstr "Վերադարձ"
+
+msgid "COMMON"
+msgstr "Total"
+
+msgid "My events"
+msgstr "Իմ Իրադարձություններ"
+
+msgid "Job opening"
+msgstr "Նոր թափուր"
+
+msgid "Employment"
+msgstr "Տեսակը աշխատանքի"
+
+msgid "Working hours"
+msgstr "Բացման ժամեր"
+
+msgid "City"
+msgstr "Քաղաք"
+
+msgid "Wages"
+msgstr "Աշխատավարձ"
+
+msgid "Currency"
+msgstr "Արտարժույթ"
+
+msgid "Experience"
+msgstr "Փորձառություն"
+
+msgid "Full-time"
+msgstr "Full զբաղվածության"
+
+msgid "Part-time"
+msgstr "Կես դրույքով"
+
+msgid "Project employment"
+msgstr "Project / Ժամանակավոր"
+
+msgid "Volunteer"
+msgstr "Կամավորական"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "Full Time"
+
+msgid "Shifts"
+msgstr "Replacement խաղացանկ"
+
+msgid "Flexible shifts"
+msgstr "Ճկուն խաղացանկ"
+
+msgid "Remote work"
+msgstr "Remote աշխատանքը"
+
+msgid "Rotational basis"
+msgstr "Shift եղանակը"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Դուք համոզված եք, որ ցանկանում եք ջնջել մեկնաբանություն."
+
+msgid "Do you really want to delete this task?"
+msgstr "Դուք համոզված եք, որ ցանկանում եք ջնջել այս խնդիրը."
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Դուք համոզված եք, որ ցանկանում եք ջնջել այս ենթածրագրի."
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Դուք դիմել է ընկերության դիրքորոշումը. Խնդրում ենք համոզվեք, որ"
+
+msgid "Your request to for job has been rejected"
+msgstr "Ձեր հարցումը ընկերության դիրքորոշման մերժվել"
+
+msgid "Your request to for job has been accepted"
+msgstr "Ձեր հարցումը ընկերության դիրքորոշման ընդունվել է"
+
+msgid "profile is completed"
+msgstr "Ձեր անձնագիրը լի"
+
+msgid "Use account"
+msgstr "Օգտագործեք հաշիվ"
+
+msgid "$/hr"
+msgstr "$ / Ժամ"
+
+msgid "Finance category"
+msgstr "Ֆինանսական աստիճան"
+
+msgid "No projects"
+msgstr "Ոչ ծրագրեր"
+
+msgid "Bind to finances"
+msgstr "Վերագր ֆինանսական նախագիծ"
+
+msgid "Preview"
+msgstr "Տեսարան"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Save to my cloud"
+msgstr "Պատճենահանել շտեմարան"
+
+msgid "File successfully saved to your cloud"
+msgstr "Հաջողությամբ ֆայլ պահվում են ձեր Թեմա"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Պահպանել այս ֆայլը ձեր բազայի."
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Ընտրեք կատեգորիա րդ հոդվածը"
+
+msgid "Type something"
+msgstr "Գրել որ բան"
+
+msgid "Founded users"
+msgstr "Գտնվել օգտվողները"
+
+msgid "Founded articles"
+msgstr "Գտնվել հոդվածը"
+
+msgid "Founded groups"
+msgstr "Հիմնադրվել խումբ"
+
+msgid "What are your skills?"
+msgstr "Որոնք են ձեր հմտությունները."
+
+msgid "Select at least 2 interests"
+msgstr "Ընտրել առնվազն 2 հետաքրքրություն"
+
+msgid "Need more interests"
+msgstr "Բավարար չէ հետաքրքրությունը ընտրել"
+
+msgid "What are you interesting in?"
+msgstr "Ինչ են Ձեզ հետաքրքրում."
+
+msgid "You have no dialogs"
+msgstr "Դուք չունեք երկխոսությունները"
+
+msgid "Usage Stats"
+msgstr "Պետական"
+
+msgid "Founded files"
+msgstr "Ֆայլեր Գտնվել"
+
+msgid "Big tiles"
+msgstr "Խոշոր սալիկներ"
+
+msgid "Small tiles"
+msgstr "Փոքր սալիկներ"
+
+msgid "Table view"
+msgstr "Աղյուսակ տեսություն"
+
+msgid "Root folder"
+msgstr "The արմատ ցուցակում"
+
+msgid "My files"
+msgstr "Իմ Ֆայլեր"
+
+msgid "Save as draft"
+msgstr "Պահել որպես նախագծի"
+
+msgid "Buy More Space"
+msgstr "Գնել ավելի շատ տարածք"
+
+msgid "Buy"
+msgstr "Գնել"
+
+msgid "You have been invited to group as"
+msgstr "Դուք հրավիրվել խմբին որպես"
+
+msgid "User wants to join your group"
+msgstr "Օգտվողը ցանկանում է միանալ ձեր խմբին"
+
+msgid "Section is coming soon!"
+msgstr "Բաժին կառուցվող!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Դիտումներ վերջին 24 ժամվա ընթացքում:"
+
+msgid "Task was updated"
+msgstr "Խնդիրը թարմացվել"
+
+msgid "Task was closed"
+msgstr "Մարտահրավեր փակվել"
+
+msgid "Task was created"
+msgstr "Խնդիրը ստեղծվել"
+
+msgid "Current balance"
+msgstr "Ընթացիկ հաշվեկշիռը"
+
+msgid "Add funds"
+msgstr "Ավելացնել"
+
+msgid "Pay"
+msgstr "Checkout"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Դուք գերազանցել թիվը մուտք գործելու փորձերի. Դուք արգելափակված են 15 րոպե"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Խնդրում ենք հաստատել Ձեր էլեկտրոնային փոստի հասցեն. Նամակը ուղարկվել է ձեզ փոստով."
+
+msgid "Resend confirmation email"
+msgstr "Ուղարկել հաստատումն է կրկին"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB մեկ ամսվա"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Drive 10 GB մեկ տարվա"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB յուրաքանչյուր տարի"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1TB ամսական"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Drive 1 TB յուրաքանչյուր տարի"
+
+msgid "Project members monthly"
+msgstr "Նախագծի մասնակիցները ամսական կտրվածքով"
+
+msgid "Project members yearly"
+msgstr "Ծրագրի մասնակիցները տարեկան"
+
+msgid "Member(s) yearly"
+msgstr "Անդամ (ներ) մեկ տարվա ընթացքում"
+
+msgid "Member(s) monthly"
+msgstr "Անդամ (ներ) ամսական կտրվածքով"
+
+msgid "Authorized"
+msgstr "Լիազորված"
+
+msgid "Authorization expired"
+msgstr "Թույլտվություն սպառվել է"
+
+msgid "Processor declined"
+msgstr "Մերժել մշակման համակարգ"
+
+msgid "Gateway rejected"
+msgstr "Մերժել վճարման դարպաս"
+
+msgid "Failed"
+msgstr "Սխալ"
+
+msgid "Voided"
+msgstr "Խափանել"
+
+msgid "Submitted for settlement"
+msgstr "Ուղարկվել է ցուցակագրել"
+
+msgid "Settlement declined"
+msgstr "Գրանցման մերժվել"
+
+msgid "Settlement pending"
+msgstr "Ի ընդգրկվածության"
+
+msgid "Verified"
+msgstr "Ստուգվում է"
+
+msgid "Pending"
+msgstr "Մինչեւ"
+
+msgid "Active"
+msgstr "Ակտիվ"
+
+msgid "Past Due"
+msgstr "Ժամկետանց"
+
+msgid "Expired"
+msgstr "Ավարտվեց"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "India"
+
+msgid "Malaysia"
+msgstr "Մալայզիա"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "South Korea"
+msgstr "Հարավային Կորեա"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Israel"
+msgstr "Իսրայելը"
+
+msgid "Ukraine"
+msgstr "Ուկրաինայի"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Bulgaria"
+msgstr "Բուլղարիա"
+
+msgid "Turkey"
+msgstr "Հնդկահավ"
+
+msgid "Armenia"
+msgstr "Հայաստան"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Ավստրիա"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Germany"
+msgstr "Գերմանիան"
+
+msgid "Italy"
+msgstr "Իտալիա"
+
+msgid "Netherlands"
+msgstr "Նիդեռլանդներ"
+
+msgid "Ireland"
+msgstr "Իռլանդիա"
+
+msgid "United Kingdom"
+msgstr "Մեծ Բրիտանիա"
+
+msgid "Portugal"
+msgstr "Պորտուգալիա"
+
+msgid "Norway"
+msgstr "Նորվեգիա"
+
+msgid "United States"
+msgstr "Միացյալ Նահանգներ"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Brazil"
+msgstr "Բրազիլիա"
+
+msgid "Saudi Arabia"
+msgstr "Սաուդյան Արաբիա"
+
+msgid "Canada"
+msgstr "Եգիպտոս"
+
+msgid "Russia"
+msgstr "Ռուսաստան"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Ներկայումս, չկար ոչ մի գործարք"
+
+msgid "Fulfill your dream"
+msgstr "Իրականացնել Ձեր երազանքը"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Միանալ մեր համայնքին ստեղծագործ անհատների ամբողջ աշխարհում:"
+
+msgid "Create and Collaborate"
+msgstr "Ստեղծել եւ համագործակցել"
+
+msgid "Start Dreaming"
+msgstr "ԿԱՏԱՐԵԼ երազանքը"
+
+msgid "or"
+msgstr "կամ"
+
+msgid "Our mission:"
+msgstr "Մեր առաքելությունը:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "To միավորել ստեղծագործական եւ ակտիվ մարդիկ իրականացնել գաղափարները պարզ եւ պահանջարկ է անհավատալի եւ ֆանտաստիկ է, որ կարող է ձեւավորել մեր ապագան."
+
+msgid "What is Konstruktor?"
+msgstr "Ինչ է Konstruktor."
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - մի մասն է, մեր իրական կյանքում, ինչը զգալիորեն հեշտացնում եւ պարզեցնում"
+
+msgid "*business processes"
+msgstr "* բիզնես գործընթացները"
+
+msgid "*materialization of creative ideas"
+msgstr "* Տվյալ ստեղծագործական գաղափարների"
+
+msgid "*constructive cooperation"
+msgstr "* Կառուցողական համագործակցություն"
+
+msgid "Make your dream!"
+msgstr "Դարձրեք Ձեր երազանքը."
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "գործադիր տնօրեն"
+
+msgid "Yuriy Chekalenko"
+msgstr "Յուրի Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Հատուկ խորհրդական"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Յարոսլավ Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Manager, Ծրագրային ապահովման մշակում,"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Ավագ փաստաբանը"
+
+msgid "Yuriy Himka"
+msgstr "Յուրի himka"
+
+msgid "Designer"
+msgstr "Նախագծող"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Սեղմելով է «հաջորդ» կոճակը, դուք ընդունելու եւ համաձայնելով մեր Պայմաններ եւ դրույթներ, եւ դուք, ընդունելով, որ դուք կարդացել մեր Գաղտնիության քաղաքականություն."
+
+msgid "Incorrect login or password."
+msgstr "Սխալ մուտքի կամ գաղտնաբառը."
+
+msgid "Password must be at least 6 characters"
+msgstr "Գաղտնաբառ պետք է լինի առնվազն 6 նիշ"
+
+msgid "January"
+msgstr "Հունվար"
+
+msgid "February"
+msgstr "Փետրվար"
+
+msgid "March"
+msgstr "Մարտ"
+
+msgid "April"
+msgstr "Ապրիլ"
+
+msgid "May"
+msgstr "Մայիս"
+
+msgid "June"
+msgstr "Հունիսի"
+
+msgid "July"
+msgstr "Հուլիսի"
+
+msgid "August"
+msgstr "Օգոստոս"
+
+msgid "September"
+msgstr "Սեպտեմբեր"
+
+msgid "October"
+msgstr "Հոկտեմբեր"
+
+msgid "November"
+msgstr "Նոյեմբեր"
+
+msgid "December"
+msgstr "Դեկտեմբեր"
+
+msgid "Chat"
+msgstr "Զրուցել"
+
+msgid "Files"
+msgstr "Ֆայլեր"
+
+msgid "Statistic"
+msgstr "Զրուցարանում"
+
+msgid "Support"
+msgstr "Աջակցություն"
+
+msgid "Exit"
+msgstr "Ելք"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Marketing specialist"
+msgstr "Marketing մասնագետ"
+
+msgid "Administrator"
+msgstr "Ադմինիստրատոր"
+
+msgid "Shared with me"
+msgstr "Կիսել ինձ հետ,"
+
+msgid "File Sharing"
+msgstr "File Sharing"
+
+msgid "Provide access by link"
+msgstr "Տրամադրել հասանելիության link"
+
+msgid "Provide Individual access"
+msgstr "Տրամադրել Առանձին մուտք գործել"
+
+msgid "Provide edit access"
+msgstr "Տրամադրել խմբագրման հասանելիությունը"
+
+msgid "Share"
+msgstr "Բաժնետոմս"
+
+msgid "Files will be available only for selected users"
+msgstr "Ֆայլեր հասանելի կլինի միայն ընտրված օգտվողների"
+
+msgid "With this link everyone can access to the files"
+msgstr "Այս կապում բոլորն էլ կարող են մուտք գործել դեպի ֆայլերը"
+
+msgid "Search users, groups, articles..."
+msgstr "Որոնում օգտվողները, խմբեր, հոդվածներ ..."
+
+msgid "My Group"
+msgstr "Իմ Group"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Մենք"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Ֆայլը չէ ընտրված"
+
+msgid "Set aside"
+msgstr "Մի կողմ դնել"
+
+msgid "Event time"
+msgstr "Event ժամանակը"
+
+msgid "Work"
+msgstr "Աշխատանք"
+
+msgid "Personal"
+msgstr "Անձնական"
+
+msgid "Time spent for work:"
+msgstr "Time ծախսվել աշխատանքի համար:"
+
+msgid "Personal time spent:"
+msgstr "Անձնական ժամանակը ծախսել:"
+
+msgid "Present"
+msgstr "Ներկա"
+
+msgid "Common"
+msgstr "Հասարակ"
+
+msgid "Sport"
+msgstr "Սպորտ"
+
+msgid "Entertainment"
+msgstr "Զվարճություն"
+
+msgid "Select:"
+msgstr "Ընտրել:"
+
+msgid "Invalid username or password."
+msgstr "Սխալ մուտքանուն կամ գաղտնաբառ."
+
+msgid "Try again."
+msgstr "Փորձեք կրկին."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "Ինչ եք ՀԵՏԱՔՐՔՐՎԱԾ ԵՆ."
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Ընտրել առնվազն 2 հմտությունները: Մնում է 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Ընտրել առնվազն 2 հմտությունները: Մնում է 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Ընտրել առնվազն 2 հմտություններ: մնացորդներ"
+
+msgid "Active life"
+msgstr "Ակտիվ կյանք"
+
+msgid "Arts and culture"
+msgstr "Արվեստ եւ մշակույթ"
+
+msgid "Business"
+msgstr "Գործ"
+
+msgid "Cinema"
+msgstr "Կինոթատրոն"
+
+msgid "Communications"
+msgstr "Communications"
+
+msgid "Construction and repair"
+msgstr "Շինարարություն եւ վերանորոգում"
+
+msgid "Cooking"
+msgstr "Cooking"
+
+msgid "Education"
+msgstr "Կրթություն"
+
+msgid "Electronics"
+msgstr "Electronics"
+
+msgid "Finances"
+msgstr "Ֆինանսներ"
+
+msgid "Graphics and design"
+msgstr "Գրաֆիկա եւ դիզայն"
+
+msgid "Health"
+msgstr "Առողջապահական"
+
+msgid "Home and family"
+msgstr "Home եւ ընտանեկան"
+
+msgid "Humor"
+msgstr "Հումոր"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Արդյունաբերություն"
+
+msgid "Insurance"
+msgstr "Ապահովագրություն"
+
+msgid "Literature"
+msgstr "Գրականություն"
+
+msgid "Mobile communications and internet"
+msgstr "Բջջային կապի եւ ինտերնետ"
+
+msgid "News and Media"
+msgstr "Նորություններ"
+
+msgid "Pets"
+msgstr "Կենդանիներ"
+
+msgid "Products and service"
+msgstr "Ապրանքներ եւ ծառայություններ"
+
+msgid "Real Estate"
+msgstr "Անշարժ գույք"
+
+msgid "Religion"
+msgstr "Կրոն"
+
+msgid "Science and techs"
+msgstr "Գիտություն եւ techs"
+
+msgid "Security"
+msgstr "Անվտանգություն"
+
+msgid "Society"
+msgstr "Հասարակություն"
+
+msgid "Television"
+msgstr "Հեռուստատեսություն"
+
+msgid "Travel"
+msgstr "Ճանապարհորդություն"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Արգենտինա"
+
+msgid "Australia"
+msgstr "Ավստրալիա"
+
+msgid "Austria"
+msgstr "Ավստրիա"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belgium"
+msgstr "Belgium"
+
+msgid "Brazil"
+msgstr "Բրազիլիա"
+
+msgid "Bulgaria"
+msgstr "Բուլղարիա"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Chile"
+msgstr "Չիլի"
+
+msgid "Denmark"
+msgstr "Դանիա"
+
+msgid "France"
+msgstr "France"
+
+msgid "Germany"
+msgstr "Գերմանիան"
+
+msgid "Greece"
+msgstr "Հունաստան"
+
+msgid "Hungary"
+msgstr "Հունգարիա"
+
+msgid "Iceland"
+msgstr "Իսլանդիան"
+
+msgid "Ireland"
+msgstr "Իռլանդիա"
+
+msgid "Israel"
+msgstr "Իսրայելը"
+
+msgid "Italy"
+msgstr "Իտալիա"
+
+msgid "Japan"
+msgstr "Ճապոնական լաքած իր"
+
+msgid "Mexico"
+msgstr "Մեքսիկա"
+
+msgid "Netherlands"
+msgstr "Նիդեռլանդներ"
+
+msgid "New Zealand"
+msgstr "Նոր Զելանդիա"
+
+msgid "Norway"
+msgstr "Նորվեգիա"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Portugal"
+msgstr "Պորտուգալիա"
+
+msgid "Russia"
+msgstr "Ռուսաստան"
+
+msgid "Slovakia"
+msgstr "Սլովակիա"
+
+msgid "South Africa"
+msgstr "Հարավային Աֆրիկա"
+
+msgid "South Korea"
+msgstr "Հարավային Կորեա"
+
+msgid "Spain"
+msgstr "Իսպանիա"
+
+msgid "Sweden"
+msgstr "Շվեդիա"
+
+msgid "Switzerland"
+msgstr "Շվեյցարիա"
+
+msgid "Turkey"
+msgstr "հնդկահավ"
+
+msgid "Ukraine"
+msgstr "Ուկրաինայի"
+
+msgid "United Arab Emirates"
+msgstr "Արաբական Միացյալ Էմիրություններ"
+
+msgid "United Kingdom"
+msgstr "Միացյալ Թագավորություն"
+
+msgid "United States"
+msgstr "Միացյալ Նահանգներ"
+
+msgid "achievements"
+msgstr "ձեռքբերումները"
+
+msgid "Investment management"
+msgstr "Ներդրումների կառավարում"
+
+msgid "Select..."
+msgstr "Ընտրել ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "INVESTMENT MANAGEMENT"
+
+msgid "Investors list"
+msgstr "Investors ցուցակը"
+
+msgid "My investments"
+msgstr "Իմ ներդրումներ"
+
+msgid "Create date"
+msgstr "Ստեղծել ամսաթիվը"
+
+msgid "Author of the project"
+msgstr "Նախագծի հեղինակ"
+
+msgid "Date and time"
+msgstr "Ամսաթիվ եւ ժամ"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+msgid "Next"
+msgstr "Հաջորդ"
+
+msgid "Apply"
+msgstr "Դիմել"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Հոնգ կոնգ"
+
+msgid "Science"
+msgstr "Գիտություն"
+
+msgid "Architecture"
+msgstr "Ճարտարապետություն"
+
+msgid "Photography"
+msgstr "Լուսանկարչություն"
+
+msgid "Designer"
+msgstr "Նախագծող"
+
+msgid "IT specialist"
+msgstr "IT մասնագետ"
+
+msgid "Agronomist"
+msgstr "Գյուղատնտես"
+
+msgid "Architect"
+msgstr "Ճարտարապետ"
+
+msgid "Lawyer"
+msgstr "Իրավաբան"
+
+msgid "Writer"
+msgstr "Գրող"
+
+msgid "Doctor"
+msgstr "Բժիշկ"
+
+msgid "Scientist"
+msgstr "Գիտնական"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Ուսուցիչ"
+
+msgid "Cook"
+msgstr "Խոհարար"
+
+msgid "Artist"
+msgstr "Արվեստագետ"
+
+msgid "Photographer"
+msgstr "Լուսանկարիչ"
+
+msgid "Ecologist"
+msgstr "Էկոլոգ"
+
+msgid "Economist"
+msgstr "Տնտեսագետ"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Լրագրող"
+
+msgid "Builder"
+msgstr "Շինարար"
+
+msgid "These users may be interesting for you"
+msgstr "Այս օգտվողները կարող են լինել հետաքրքիր է ձեզ համար"
+
+msgid "These articles may be interesting for you"
+msgstr "Այս հոդվածները կարող են լինել հետաքրքիր է ձեզ համար"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Դուք միացել այս խմբին, քանի որ Аdministrator"
+
+msgid "articles written."
+msgstr "հոդվածներ` գրված."
+
+msgid "groups created."
+msgstr "խմբեր ստեղծվում."
+
+msgid "Creation"
+msgstr "Ստեղծում"
+
+msgid "Build a dream"
+msgstr "Կառուցել մի երազ"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Կարդալ ավելին հետաքրքիր հոդվածներ - գնալ անվճար գրանցում"
+

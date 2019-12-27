@@ -1,0 +1,9 @@
+<?php
+
+$db_host = 'localhost';
+$db_port = '3306';
+$db_user = 'root';
+$db_pass = '123456qwe';
+$db_name = 'struct';
+$db_prefix = 'sheet_';
+$db_type = 'MySQL';

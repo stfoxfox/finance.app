@@ -1,0 +1,3344 @@
+# român (Румынский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: român (Румынский) <support@konstruktor.com>\n"
+"Language: român (Румынский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "numele de utilizator"
+
+msgid "Invalid username or password, try again"
+msgstr "Nume de utilizator sau parolă incorectă . Incearca din nou."
+
+msgid "Settings"
+msgstr "Setări"
+
+msgid "Home"
+msgstr "acasă"
+
+msgid "You must log in to access this page"
+msgstr "Trebuie să vă conectați pentru a accesa această pagină"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Sesiunea a fost expirat . Vă rugăm , relogin pentru a efectua această acțiune"
+
+msgid "Save"
+msgstr "Salvați"
+
+msgid "Head Office"
+msgstr "Sediul Central"
+
+msgid "Address"
+msgstr "adresa"
+
+msgid "Back"
+msgstr "înapoi"
+
+msgid "Apply"
+msgstr "aplica"
+
+msgid "Upload files…"
+msgstr "Încărcați fișiere ..."
+
+msgid "Set as main"
+msgstr "Setați ca principal"
+
+msgid "Delete"
+msgstr "șterge"
+
+msgid "Original image"
+msgstr "imagine originală"
+
+msgid "Uploaded"
+msgstr "Adaugate"
+
+msgid "File name"
+msgstr "numele fisierului"
+
+msgid "File size"
+msgstr "dimensiunea fișierului"
+
+msgid "Resolution"
+msgstr "rezoluție"
+
+msgid "Enlarge"
+msgstr "mări"
+
+msgid "Links"
+msgstr "Site-uri"
+
+msgid "Original size"
+msgstr "dimensiunea originală"
+
+msgid "For editor"
+msgstr "Pentru editor"
+
+msgid "Resize"
+msgstr "Redimensionarea"
+
+msgid "Width"
+msgstr "lățime"
+
+msgid "Height"
+msgstr "înălțime"
+
+msgid "Media URL"
+msgstr "URL-ul Media"
+
+msgid "Add record"
+msgstr "Adăugați înregistrare"
+
+msgid "Show filter settings"
+msgstr "Setări Afișare de filtrare"
+
+msgid "Edit record"
+msgstr "Editare înregistrare"
+
+msgid "Delete record"
+msgstr "Ștergeți înregistrare"
+
+msgid "Delete checked records"
+msgstr "Ștergeți înregistrările verificate"
+
+msgid "Dashboard"
+msgstr "tablou de bord"
+
+msgid "Password"
+msgstr "parolă"
+
+msgid "Remember me"
+msgstr "Ține-mă minte"
+
+msgid "Login"
+msgstr "Log In"
+
+msgid "Clean image cache"
+msgstr "Cache imagine Clean"
+
+msgid "Processing query..."
+msgstr "Interogare Prelucrare ..."
+
+msgid "CMS Development"
+msgstr "dezvoltare CMS"
+
+msgid "Admin Home Page"
+msgstr "Admin Home Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Deschideți pagină de Front -end într-o filă nouă"
+
+msgid "Go to Site"
+msgstr "Du-te la site"
+
+msgid "Log out"
+msgstr "Log out"
+
+msgid "Send"
+msgstr "trimite"
+
+msgid "General"
+msgstr "general"
+
+msgid "Title"
+msgstr "titlu"
+
+msgid "Teaser"
+msgstr "reclamă"
+
+msgid "Published"
+msgstr "publicat"
+
+msgid "Featured"
+msgstr "recomandate"
+
+msgid "Active"
+msgstr "activ"
+
+msgid "Field is mandatory"
+msgstr "Câmp este obligatorie"
+
+msgid "Sort Order"
+msgstr "Ordine de sortare"
+
+msgid "Upload"
+msgstr "Încărcați"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "jan"
+
+msgid "Feb"
+msgstr "februarie"
+
+msgid "Mar"
+msgstr "martie"
+
+msgid "Apr"
+msgstr "aprilie"
+
+msgid "May"
+msgstr "mai"
+
+msgid "Jun"
+msgstr "iunie"
+
+msgid "Jul"
+msgstr "iulie"
+
+msgid "Aug"
+msgstr "august"
+
+msgid "Sep"
+msgstr "septembrie"
+
+msgid "Oct"
+msgstr "octombrie"
+
+msgid "Nov"
+msgstr "noiembrie"
+
+msgid "Dec"
+msgstr "decembrie"
+
+msgid "Product already exists in the order"
+msgstr "Produs există deja în ordinea"
+
+msgid "Product does not exist"
+msgstr "Produsul nu există"
+
+msgid "Incorrect request"
+msgstr "cererea incorectă"
+
+msgid "Products"
+msgstr "produse"
+
+msgid "Product types"
+msgstr "tipuri de produse"
+
+msgid "Contractors"
+msgstr "contractori"
+
+msgid "Contractor"
+msgstr "antreprenor"
+
+msgid "Orders"
+msgstr "comenzi"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "pentru noi"
+
+msgid "My orders"
+msgstr "Comenzile mele"
+
+msgid "Recharge balance"
+msgstr "echilibru reîncărcare"
+
+msgid "Administrator"
+msgstr "administrator"
+
+msgid "Incorrect event ID"
+msgstr "ID eveniment incorect"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Edit contractor"
+
+msgid "Create contractor"
+msgstr "Creați contractor"
+
+msgid "Edit question"
+msgstr "Edit întrebare"
+
+msgid "Create question"
+msgstr "Creați întrebare"
+
+msgid "Edit order"
+msgstr "edita comanda"
+
+msgid "Create order"
+msgstr "Creare comandă"
+
+msgid "Edit product"
+msgstr "Edit produs"
+
+msgid "Create product"
+msgstr "Creați produs"
+
+msgid "Edit product type"
+msgstr "Editare tip de produs"
+
+msgid "Create product type"
+msgstr "Creați tip de produs"
+
+msgid "You have received a file"
+msgstr "Ați primit un fișier"
+
+msgid "You received a file from"
+msgstr "Ați primit un fișier de la"
+
+msgid "File has been uploaded"
+msgstr "Fișier a fost încărcat"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "cantitatea minimă"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "articole"
+
+msgid "Remove"
+msgstr "elimina"
+
+msgid "Contact person"
+msgstr "persoana de contact"
+
+msgid "Email"
+msgstr "email"
+
+msgid "Contractor phone"
+msgstr "telefon contractor"
+
+msgid "Contractor name"
+msgstr "numele contractor"
+
+msgid "Contractor details"
+msgstr "detalii contractor"
+
+msgid "Order ID"
+msgstr "Pentru ID"
+
+msgid "Sum"
+msgstr "sumă"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Alege sistemul de plata potrivit pentru a reîncărca soldul"
+
+msgid "Recharge amount"
+msgstr "suma reîncărcare"
+
+msgid "Paid"
+msgstr "plătit"
+
+msgid "Shipped"
+msgstr "transportat"
+
+msgid "- No products in this order -"
+msgstr "- Nu sunt produse in aceasta ordine -"
+
+msgid "month"
+msgstr "lună"
+
+msgid "No user found"
+msgstr "Nici un utilizator găsit"
+
+msgid "Achievement"
+msgstr "realizare"
+
+msgid "Confirmed accomplishments"
+msgstr "realizări confirmate"
+
+msgid "Remove achievement"
+msgstr "Scoateți realizare"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "telefon"
+
+msgid "Site URL and email"
+msgstr "URL site-ul și e-mail"
+
+msgid "Remove address"
+msgstr "elimina adresa"
+
+msgid "Members"
+msgstr "membrii"
+
+msgid "Requires a payment"
+msgstr "Necesită o plată"
+
+msgid "Shipping"
+msgstr "transport"
+
+msgid "Ready"
+msgstr "gata"
+
+msgid "Find user..."
+msgstr "Gasiti utilizator ..."
+
+msgid "Order it"
+msgstr "comanda aceasta"
+
+msgid "Find group..."
+msgstr "Găsiți grup ..."
+
+msgid "Find user or community..."
+msgstr "Gasiti utilizator sau comunitate ..."
+
+msgid "No item found"
+msgstr "Nici un articol găsit"
+
+msgid "years"
+msgstr "an"
+
+msgid "Send message"
+msgstr "Trimite mesaj"
+
+msgid "Message"
+msgstr "mesaj"
+
+msgid "To send message press Enter"
+msgstr "Pentru a trimite mesajul apăsați Enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Pentru a trimite mesajul apăsați CTRL + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Fișier de prelucrare ( e ) ..."
+
+msgid "Group settings"
+msgstr "setări de grup"
+
+msgid "Create group"
+msgstr "Creare grup"
+
+msgid "Group has been successfully saved"
+msgstr "Grupul a fost salvat cu succes"
+
+msgid "Group title"
+msgstr "titlul grup"
+
+msgid "Group video"
+msgstr "video de grup"
+
+msgid "Description"
+msgstr "descriere"
+
+msgid "Your role in group"
+msgstr "Rolul tau in grup"
+
+msgid "Role"
+msgstr "rol"
+
+msgid "Photo or video gallery"
+msgstr "Foto sau video Galerie"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Upload video"
+
+msgid "Add group address"
+msgstr "Adauga adresa de grup"
+
+msgid "Group articles"
+msgstr "articole de grup"
+
+msgid "No addresses yet"
+msgstr "Inca adrese"
+
+msgid "Add group achievement"
+msgstr "Adauga realizare grup"
+
+msgid "No achivements yet"
+msgstr "Inca realizari"
+
+msgid "Are you sure to delete this user"
+msgstr "Sigur doriți să ștergeți acest utilizator"
+
+msgid "Add member"
+msgstr "Adauga membru"
+
+msgid "Are you sure to delete this record?"
+msgstr "Sigur doriți să ștergeți această înregistrare ?"
+
+msgid "Join this group"
+msgstr "Înscrieți-vă în acest grup"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Invitația dvs. a fost trimis la administratorul grupului"
+
+msgid "All addresses"
+msgstr "toate adresele"
+
+msgid "Collapse"
+msgstr "colaps"
+
+msgid "Achievements"
+msgstr "realizări"
+
+msgid "Show more"
+msgstr "arata mai mult"
+
+msgid "Team"
+msgstr "echipă"
+
+msgid "Projects"
+msgstr "proiecte"
+
+msgid "New project"
+msgstr "proiect nou"
+
+msgid "Project has not been created yet"
+msgstr "Proiect nu a fost creat încă"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "echilibru"
+
+msgid "Main page"
+msgstr "pagina principală"
+
+msgid "Upload image"
+msgstr "Încărcați imagine"
+
+msgid "My time"
+msgstr "timpul meu"
+
+msgid "Day"
+msgstr "zi"
+
+msgid "Week"
+msgstr "săptămână"
+
+msgid "Project settings"
+msgstr "setări de proiect"
+
+msgid "Create project"
+msgstr "Creați proiect"
+
+msgid "Project has been successfully saved"
+msgstr "Proiect a fost salvat cu succes"
+
+msgid "Project name"
+msgstr "denumirea proiectului"
+
+msgid "Deadline"
+msgstr "Termen Limita"
+
+msgid "Close"
+msgstr "închide"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Assigned to"
+msgstr "atribuit"
+
+msgid "Discussion"
+msgstr "discuție"
+
+msgid "Task was created"
+msgstr "Sarcina a fost creat"
+
+msgid "Task was closed"
+msgstr "Sarcina a fost închisă"
+
+msgid "Go to Group"
+msgstr "Mergi la categoria de"
+
+msgid "Closed"
+msgstr "închis"
+
+msgid "Last updates"
+msgstr "ultimele actualizări"
+
+msgid "Project is closed"
+msgstr "Proiectul este închis"
+
+msgid "No open tasks"
+msgstr "Nu există sarcini deschise"
+
+msgid "New task"
+msgstr "sarcina nou"
+
+msgid "Closed tasks"
+msgstr "sarcini închise"
+
+msgid "Add subproject"
+msgstr "Adaugă subproiectului"
+
+msgid "Add task"
+msgstr "Adauga sarcină"
+
+msgid "Sun"
+msgstr "duminică"
+
+msgid "Mon"
+msgstr "luni"
+
+msgid "Tue"
+msgstr "marți"
+
+msgid "Wed"
+msgstr "miercuri"
+
+msgid "Thur"
+msgstr "joi"
+
+msgid "Fri"
+msgstr "vineri"
+
+msgid "Sat"
+msgstr "sâmbătă"
+
+msgid "Event title"
+msgstr "titlul evenimentului"
+
+msgid "Event description"
+msgstr "descriere eveniment"
+
+msgid "I registered on this site"
+msgstr "Am inregistrat pe acest site"
+
+msgid "Last created groups"
+msgstr "Ultimele grupuri create"
+
+msgid "You joined this group as"
+msgstr "V-ați alăturat acestui grup ca"
+
+msgid "You received a request to join the group"
+msgstr "Ați primit o cerere de a se alătura grupului"
+
+msgid "Updated site"
+msgstr "site-ul actualizat"
+
+msgid "Site is under construction"
+msgstr "Site-ul este in constructie"
+
+msgid "Last registered users"
+msgstr "Utilizatorii ultimele înregistrați"
+
+msgid "User settings"
+msgstr "setările de utilizator"
+
+msgid "Technical support"
+msgstr "suport tehnic"
+
+msgid "Change email"
+msgstr "schimbă e-mail"
+
+msgid "Change password"
+msgstr "schimbați parola"
+
+msgid "User has been successfully saved"
+msgstr "Utilizator a fost salvat cu succes"
+
+msgid "Full name"
+msgstr "Numele complet"
+
+msgid "My video"
+msgstr "videoclipul meu"
+
+msgid "Skills"
+msgstr "Abilitati"
+
+msgid "Birthday"
+msgstr "aniversare"
+
+msgid "Country of residence"
+msgstr "Tara de resedinta"
+
+msgid "Country"
+msgstr "țară"
+
+msgid "Zip Code"
+msgstr "Cod poștal"
+
+msgid "City/town of residence"
+msgstr "Oraș / oraș de reședință"
+
+msgid "University/college"
+msgstr "Universitate / facultate"
+
+msgid "University/college photo"
+msgstr "University / college fotografie"
+
+msgid "Add user\'s accomplishments"
+msgstr "Adauga realizările utilizatorului"
+
+msgid "Interface language"
+msgstr "limba de interfață"
+
+msgid "How other people see this page"
+msgstr "Cum alte persoane aceasta pagina"
+
+msgid "Video with me"
+msgstr "Video cu mine"
+
+msgid "Groups"
+msgstr "Grupuri"
+
+msgid "Registered today"
+msgstr "azi înregistrat"
+
+msgid "Qty"
+msgstr "Cantitate"
+
+msgid "No registered users yet"
+msgstr "Niciun utilizator înregistrat încă"
+
+msgid "Total"
+msgstr "total"
+
+msgid "Registered total"
+msgstr "totală înregistrată"
+
+msgid "You received a file"
+msgstr "Ați primit un fișier"
+
+msgid "You were invited into this room"
+msgstr "Ai fost invitat în această cameră"
+
+msgid "Request is being processed"
+msgstr "Cererea este în curs de procesare"
+
+msgid "Fax"
+msgstr "fax"
+
+msgid "Messenger"
+msgstr "mesager"
+
+msgid "New subproject"
+msgstr "nou subproiect"
+
+msgid "messages written."
+msgstr "mesaje scrise ."
+
+msgid "projects created based on groups."
+msgstr "proiecte create pe baza grupuri ."
+
+msgid "users registered on website."
+msgstr "utilizatori înregistrați pe site-ul ."
+
+msgid "New email"
+msgstr "Email nou"
+
+msgid "Confirm email"
+msgstr "Confirmați adresa de e-mail"
+
+msgid "New password"
+msgstr "Parolă Nouă"
+
+msgid "Confirm password"
+msgstr "Confirmă parola"
+
+msgid "Occupation"
+msgstr "Specialitate"
+
+msgid "Timezone"
+msgstr "Fus orar"
+
+msgid "Answer"
+msgstr "răspuns"
+
+msgid "Articles"
+msgstr "articole"
+
+msgid "Article"
+msgstr "articol"
+
+msgid "Video-article"
+msgstr "Video - articol"
+
+msgid "Find article..."
+msgstr "Găsi articol ..."
+
+msgid "Politics"
+msgstr "politică"
+
+msgid "Economics"
+msgstr "economie"
+
+msgid "Community"
+msgstr "comunitate"
+
+msgid "Culture"
+msgstr "cultură"
+
+msgid "Sports"
+msgstr "sport"
+
+msgid "Hi-tech"
+msgstr "Hi-tech"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Fashion"
+msgstr "modă"
+
+msgid "Games"
+msgstr "Jocuri"
+
+msgid "Other"
+msgstr "alte"
+
+msgid "Invalid mediafile"
+msgstr "mediafile invalid"
+
+msgid "No articles in this category yet"
+msgstr "Nr articolele în această categorie încă"
+
+msgid "Back to profile"
+msgstr "Înapoi la profil"
+
+msgid "View article"
+msgstr "Vezi articol"
+
+msgid "Edit article"
+msgstr "Edit articol"
+
+msgid "Create article"
+msgstr "Creați articol"
+
+msgid "Article title"
+msgstr "articolul titlu"
+
+msgid "Article section"
+msgstr "articolul secțiune"
+
+msgid "Choose image"
+msgstr "Alegeți imaginea"
+
+msgid "Save and upload"
+msgstr "Salvați și încărcați"
+
+msgid "Show more..."
+msgstr "Arata mai mult..."
+
+msgid "Create"
+msgstr "crea"
+
+msgid "Edit"
+msgstr "edita"
+
+msgid "Project"
+msgstr "proiect"
+
+msgid "Team"
+msgstr "echipă"
+
+msgid "A new article was published"
+msgstr "Un nou articol a fost publicat"
+
+msgid "You joined this project"
+msgstr "Te-ai alăturat acestui proiect"
+
+msgid "Enter your information in the User settings"
+msgstr "Introduceți informațiile dvs. în setările utilizatorului"
+
+msgid "Communities"
+msgstr "Comunități"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Prezentare video a realizarile mele"
+
+msgid "My articles"
+msgstr "articolele mele"
+
+msgid "User"
+msgstr "utilizator"
+
+msgid "Users"
+msgstr "utilizatori"
+
+msgid "Add new list"
+msgstr "Adaugă o nouă listă"
+
+msgid "List title"
+msgstr "lista de titlu"
+
+msgid "Add"
+msgstr "adăuga"
+
+msgid "Add to favorites"
+msgstr "Adauga la favorite"
+
+msgid "Delete from favorites"
+msgstr "Sterge de la favoriti"
+
+msgid "Select list"
+msgstr "Selectați lista"
+
+msgid "Subscriptions"
+msgstr "Abonamente"
+
+msgid "Subscribe"
+msgstr "Aboneaza-te"
+
+msgid "Unsubscribe"
+msgstr "Dezabonare"
+
+msgid "General list"
+msgstr "lista generală"
+
+msgid "No users in this list"
+msgstr "Niciun utilizator în această listă"
+
+msgid "Publish"
+msgstr "publica"
+
+msgid "Unpublish"
+msgstr "Anulați"
+
+msgid "Add user"
+msgstr "Adaugă utilizator"
+
+msgid "Create document"
+msgstr "Creați documente"
+
+msgid "Edit document"
+msgstr "edita documente"
+
+msgid "View"
+msgstr "vedere"
+
+msgid "Document title"
+msgstr "titlul documentului"
+
+msgid "Find document..."
+msgstr "Documentul ..."
+
+msgid "Share your thoughts"
+msgstr "Împărtășiți -vă gândurile"
+
+msgid "Leave your comment"
+msgstr "Lasă un comentariu"
+
+msgid "Accept"
+msgstr "accepta"
+
+msgid "Decline"
+msgstr "declin"
+
+msgid "Add article"
+msgstr "Adaugă articol"
+
+msgid "Link to verified accomplishments"
+msgstr "Link catre realizări verificate"
+
+msgid "No articles here yet..."
+msgstr "Nu sunt articole aici încă"
+
+msgid "Find file or folder..."
+msgstr "Găsește fișier sau folder ..."
+
+msgid "Sort"
+msgstr "fel"
+
+msgid "By name"
+msgstr "După nume"
+
+msgid "By date"
+msgstr "După dată"
+
+msgid "By updated date"
+msgstr "După dată actualizat"
+
+msgid "By size"
+msgstr "de dimensiunea"
+
+msgid "By type"
+msgstr "în funcție de tipul"
+
+msgid "Move"
+msgstr "Mișcare"
+
+msgid "File Manager"
+msgstr "Manager de fișiere"
+
+msgid "Share link"
+msgstr "Spune-le prietenilor link"
+
+msgid "Responsible"
+msgstr "răspunzător"
+
+msgid "Performer"
+msgstr "interpret"
+
+msgid "New Folder"
+msgstr "Dosar nou"
+
+msgid "Folder name"
+msgstr "nume director"
+
+msgid "By default"
+msgstr "În mod implicit"
+
+msgid "Back to group"
+msgstr "Înapoi la grup"
+
+msgid "year(s)"
+msgstr "an (i)"
+
+msgid "January"
+msgstr "ianuarie"
+
+msgid "February"
+msgstr "februarie"
+
+msgid "March"
+msgstr "martie"
+
+msgid "April"
+msgstr "aprilie"
+
+msgid "May"
+msgstr "mai"
+
+msgid "June"
+msgstr "iunie"
+
+msgid "July"
+msgstr "iulie"
+
+msgid "August"
+msgstr "august"
+
+msgid "September"
+msgstr "Septembrie"
+
+msgid "October"
+msgstr "octombrie"
+
+msgid "November"
+msgstr "noiembrie"
+
+msgid "December"
+msgstr "decembrie"
+
+msgid "Password Reminder"
+msgstr "Restabilirea parolei"
+
+msgid "Log In"
+msgstr "Log in"
+
+msgid "Sign in"
+msgstr "Conectare"
+
+msgid "Register"
+msgstr "Inregistrare"
+
+msgid "First name"
+msgstr "Prenume"
+
+msgid "Last name"
+msgstr "Nume"
+
+msgid "I agree with rules"
+msgstr "Sunt de acord cu regulile"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Un e-mail de confirmare a fost trimis la adresa ta de email."
+
+msgid "Thanks"
+msgstr "Mulțumesc"
+
+msgid "Password must be at least 6 characters"
+msgstr "Parola trebuie să fie de cel puțin 6 caractere"
+
+msgid "Creative Environment"
+msgstr "Creative Mediu"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Aveți nevoie pentru a fi de cel puțin treisprezece ani pentru a utiliza acest serviciu"
+
+msgid "Order status"
+msgstr "Starea comenzii"
+
+msgid "Processing order"
+msgstr "pentru prelucrare"
+
+msgid "Requires a payment"
+msgstr "Necesită o plată"
+
+msgid "Shipping"
+msgstr "Transport"
+
+msgid "Ready"
+msgstr "gata"
+
+msgid "Thank you for your payment"
+msgstr "Multumim pentru plată"
+
+msgid "Your payment has been cancelled"
+msgstr "Plata dvs. a fost anulat"
+
+msgid "page"
+msgstr "pagină"
+
+msgid "Rent period"
+msgstr "perioada de inchiriere"
+
+msgid "Total, month"
+msgstr "Total, luna"
+
+msgid "Order items"
+msgstr "articole de ordine"
+
+msgid "No records found"
+msgstr "Nu au fost găsite"
+
+msgid "User with this email is already exist"
+msgstr "Utilizator cu acest e-mail este deja există"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Dosar sau fișier cu acest nume este deja există în dosarul de destinație"
+
+msgid "Minimal quantity"
+msgstr "cantitatea minimă"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "copii de imprimare"
+
+msgid "Terms of Use"
+msgstr "Termeni de utilizare"
+
+msgid "Privacy Policy"
+msgstr "Politica de confidențialitate"
+
+msgid "Find project..."
+msgstr "Găsește proiect ..."
+
+msgid "New Project"
+msgstr "Proiect nou"
+
+msgid "Accounts"
+msgstr "conturi"
+
+msgid "Operations"
+msgstr "Operațiuni"
+
+msgid "All accounts"
+msgstr "toate conturile"
+
+msgid "All categories"
+msgstr "Toate categoriile"
+
+msgid "Expense"
+msgstr "cheltuială"
+
+msgid "Income"
+msgstr "venituri"
+
+msgid "Transfer"
+msgstr "transfer"
+
+msgid "Expense"
+msgstr "cheltuială"
+
+msgid "income"
+msgstr "venituri"
+
+msgid "tax"
+msgstr "impozit"
+
+msgid "percent"
+msgstr "la sută"
+
+msgid "transfer"
+msgstr "transfer"
+
+msgid "Make operation"
+msgstr "face operație"
+
+msgid "Select date"
+msgstr "Selectați data"
+
+msgid "Select account"
+msgstr "Selectați contul"
+
+msgid "Month"
+msgstr "lună"
+
+msgid "Quarter"
+msgstr "trimestru"
+
+msgid "Year"
+msgstr "an"
+
+msgid "From"
+msgstr "Din"
+
+msgid "To"
+msgstr "La"
+
+msgid "Expense amount"
+msgstr "sumă de cheltuieli"
+
+msgid "Categories"
+msgstr "Categorii"
+
+msgid "Comments"
+msgstr "Comentarii"
+
+msgid "Income amount"
+msgstr "suma veniturilor"
+
+msgid "Transfer amount"
+msgstr "sumă de transfer"
+
+msgid "From account"
+msgstr "din contul"
+
+msgid "To account"
+msgstr "la răspundere"
+
+msgid "New Account"
+msgstr "Cont nou"
+
+msgid "New Category"
+msgstr "New Categorie"
+
+msgid "All"
+msgstr "Toate"
+
+msgid "Name"
+msgstr "Nume"
+
+msgid "Enter category name"
+msgstr "Introduceți numele categoriei"
+
+msgid "Select type"
+msgstr "Selectați tipul"
+
+msgid "Credit card"
+msgstr "Card de credit"
+
+msgid "Debit card"
+msgstr "Card de debit"
+
+msgid "Bank account"
+msgstr "cont bancar"
+
+msgid "Cash"
+msgstr "Bani gheata"
+
+msgid "Balance is empty"
+msgstr "Echilibrul este gol"
+
+msgid "Statistic is empty"
+msgstr "Statistica este gol"
+
+msgid "Regular payments"
+msgstr "plăți regulate"
+
+msgid "Are you sure ?"
+msgstr "Esti sigur ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Sigur să închideți acest proiect ?"
+
+msgid "Project was deleted successfully"
+msgstr "Proiect a fost șters cu succes"
+
+msgid "Select currency"
+msgstr "Alege moneda"
+
+msgid "Account"
+msgstr "cont"
+
+msgid "Orders list"
+msgstr "lista ordinelor de"
+
+msgid "Order payments"
+msgstr "plăți de ordine"
+
+msgid "View order"
+msgstr "Vezi comanda"
+
+msgid "No response from Printer API"
+msgstr "Nici un răspuns de la imprimantă API"
+
+msgid "Bad response from Printer API"
+msgstr "Răspuns Bad de la Printer API"
+
+msgid "User ID"
+msgstr "ID-ul de utilizator"
+
+msgid "Contact Person"
+msgstr "Persoana de contact"
+
+msgid "No orders to process"
+msgstr "Nu există comenzi pentru a procesa"
+
+msgid "Article announce image"
+msgstr "Articolul anunță imagine"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Video Url invalid . Lăsați necompletat sau introduceți URL-ul YouTube valid"
+
+msgid "Please, enter Contractor data"
+msgstr "Vă rugăm introduceți datele Contractor"
+
+msgid "Distribute devices"
+msgstr "distribui dispozitive"
+
+msgid "Quantity"
+msgstr "cantitate"
+
+msgid "Devices left"
+msgstr "dispozitive stânga"
+
+msgid "Distributed devices"
+msgstr "dispozitive distribuite"
+
+msgid "You must enter quantity"
+msgstr "Trebuie să introduceți cantitate"
+
+msgid "All devices are distributed"
+msgstr "Toate dispozitivele sunt distribuite"
+
+msgid "IP address"
+msgstr "adresa de IP"
+
+msgid "Only for printer"
+msgstr "Numai pentru imprimantă"
+
+msgid "Counter"
+msgstr "contra"
+
+msgid "You was excluded from this room"
+msgstr "Tu a fost exclus de la această cameră"
+
+msgid "Compare"
+msgstr "compara"
+
+msgid "Scheduled transaction"
+msgstr "tranzacție programat"
+
+msgid "Select transfer account"
+msgstr "Selectați contul de transfer"
+
+msgid "Select income account"
+msgstr "Selectați contul de exploatare"
+
+msgid "Reports"
+msgstr "rapoarte"
+
+msgid "Goals"
+msgstr "goluri"
+
+msgid "Budgets"
+msgstr "bugete"
+
+msgid "Enter user name or email..."
+msgstr "Introduceți numele de utilizator sau e-mail ..."
+
+msgid "Invite had been sended"
+msgstr "Invitați au fost trimise cu"
+
+msgid "Statistics"
+msgstr "Statistici"
+
+msgid "Updated site began to work"
+msgstr "Site-ul actualizat a început să lucreze"
+
+msgid "City of residence"
+msgstr "Oraș de reședință"
+
+msgid "Edit favourites list"
+msgstr "Editare listă favorite"
+
+msgid "Add favourites list"
+msgstr "Adauga lista de favorite"
+
+msgid "Categories is required"
+msgstr "Este nevoie Categorii"
+
+msgid "Type new category name and hit Enter"
+msgstr "Tastați nume nou stil și apăsați Enter"
+
+msgid "You created an order"
+msgstr "Ați creat o comandă"
+
+msgid "You received a device due to this order"
+msgstr "Ați primit un dispozitiv din cauza acestui ordin"
+
+msgid "%s attached %s to task %s"
+msgstr "%s %s atașat la răspundere %s"
+
+msgid "member(s)"
+msgstr "membru (i )"
+
+msgid "%s commented task %s"
+msgstr "%s %s sarcină comentat"
+
+msgid "%s closed task %s"
+msgstr "%s %s sarcină închis"
+
+msgid "%s created task %s"
+msgstr "%s %s creat sarcină"
+
+msgid "%s created this project"
+msgstr "%s creat acest proiect"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s subproiectului creat \" %s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s închis proiect \" %s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s închis subproiectului \" %s \""
+
+msgid "This field must not be blank"
+msgstr "Acest câmp nu poate rămâne necompletat"
+
+msgid "Document with such name is already exist"
+msgstr "Document cu astfel de nume este deja există"
+
+msgid "Wait until image upload"
+msgstr "Așteptați până când Încărcați imagine"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Message can not be empty"
+msgstr "Mesajul nu poate fi gol"
+
+msgid "Yes"
+msgstr "da"
+
+msgid "No"
+msgstr "nu"
+
+msgid "Created"
+msgstr "creat"
+
+msgid "Compare is empty"
+msgstr "A compara este gol"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Sigur doriți să ștergeți operare"
+
+msgid "Do you really want to delete transaction"
+msgstr "Vrei cu adevărat să ștergeți tranzacție"
+
+msgid "Project with same name already exists"
+msgstr "Proiect cu același nume există deja"
+
+msgid "Account is not found"
+msgstr "Contul nu a fost găsit"
+
+msgid "Currency is required"
+msgstr "Este nevoie de valută"
+
+msgid "error while deleting document"
+msgstr "eroare în timp ce ștergerea documentului"
+
+msgid "Expences"
+msgstr "expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "V-a invitat utilizator \" %s \" în această cameră"
+
+msgid "User \"%s\" joined this room"
+msgstr "Utilizator \" %s \" s-au alăturat în această cameră"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Tu exclus utilizator \" %s \" de la această cameră"
+
+msgid "User \"%s\" left this room"
+msgstr "Utilizator \" %s \" a lăsat această cameră"
+
+msgid "Add account"
+msgstr "Adaugă cont"
+
+msgid "The requested page is not found"
+msgstr "Pagina solicitată nu a fost găsită"
+
+msgid "Document"
+msgstr "document"
+
+msgid "Table"
+msgstr "Masa"
+
+msgid "file(s)"
+msgstr "fișier (e )"
+
+msgid "Residue"
+msgstr "reziduu"
+
+msgid "Result is empty"
+msgstr "Rezultatul este gol"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Suma totală este de %s pentru %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Trebuie să depună %s lunar în contul aferent"
+
+msgid "Start"
+msgstr "start"
+
+msgid "finish"
+msgstr "finisaj"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Contul selectat este deja în uz pentru un alt gol"
+
+msgid "Amount required"
+msgstr "suma necesară"
+
+msgid "New goal"
+msgstr "Scopul nou"
+
+msgid "Goal"
+msgstr "poartă"
+
+msgid "Goal name"
+msgstr "numele gol"
+
+msgid "Invalid date"
+msgstr "data invalid"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Suma necesară trebuie să fie un număr pozitiv"
+
+msgid "Remain"
+msgstr "A ramane"
+
+msgid "Last day"
+msgstr "Ultima zi"
+
+msgid "Accumulated"
+msgstr "acumulate"
+
+msgid "Put aside"
+msgstr "Pune deoparte"
+
+msgid "January"
+msgstr "ianuarie"
+
+msgid "February"
+msgstr "februarie"
+
+msgid "March"
+msgstr "martie"
+
+msgid "April"
+msgstr "aprilie"
+
+msgid "May"
+msgstr "mai"
+
+msgid "June"
+msgstr "iunie"
+
+msgid "July"
+msgstr "iulie"
+
+msgid "August"
+msgstr "august"
+
+msgid "September"
+msgstr "Septembrie"
+
+msgid "October"
+msgstr "octombrie"
+
+msgid "November"
+msgstr "noiembrie"
+
+msgid "December"
+msgstr "decembrie"
+
+msgid "Expenses projected/actual"
+msgstr "Cheltuieli proiectat / reale"
+
+msgid "Net Income projected/actual"
+msgstr "Venitul net proiectat / real"
+
+msgid "New budget"
+msgstr "buget nou"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Veniturile și cheltuielile Chart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Buget cu aceeași pereche de cont și categoria există deja"
+
+msgid "Budget is empty"
+msgstr "Bugetul este gol"
+
+msgid "Budget"
+msgstr "buget"
+
+msgid "plan"
+msgstr "plan"
+
+msgid "fact"
+msgstr "fapt"
+
+msgid "diff"
+msgstr "dif"
+
+msgid "Show More"
+msgstr "Arata mai mult"
+
+msgid "Cancel"
+msgstr "Anulare"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "vânzările mele"
+
+msgid "Time spent"
+msgstr "Timp petrecut"
+
+msgid "Total time spent"
+msgstr "Timpul total petrecut"
+
+msgid "Earnings per hour"
+msgstr "Rezultatul pe oră"
+
+msgid "Total earnings"
+msgstr "câștigurile totale"
+
+msgid "Call"
+msgstr "apel"
+
+msgid "Phone call"
+msgstr "Apel telefonic"
+
+msgid "Telephone calls"
+msgstr "apeluri telefonice"
+
+msgid "Send email"
+msgstr "Trimite email"
+
+msgid "Emails"
+msgstr "e-mailuri"
+
+msgid "Meeting"
+msgstr "Întâlnire"
+
+msgid "Meetings"
+msgstr "întâlniri"
+
+msgid "All events"
+msgstr "toate evenimentele"
+
+msgid "Task"
+msgstr "sarcină"
+
+msgid "Event"
+msgstr "eveniment"
+
+msgid "Events"
+msgstr "Evenimente"
+
+msgid "Time"
+msgstr "timp"
+
+msgid "Events statistics"
+msgstr "statisticile Evenimente"
+
+msgid "days"
+msgstr "zile"
+
+msgid "hours"
+msgstr "ore"
+
+msgid "minutes"
+msgstr "minute"
+
+msgid "Income & expense"
+msgstr "Venituri & cheltuieli"
+
+msgid "Show chart"
+msgstr "Arată diagramă"
+
+msgid "Hide chart"
+msgstr "Ascunde diagramă"
+
+msgid "Add event"
+msgstr "Adaugă eveniment"
+
+msgid "Add financial data"
+msgstr "Adaugă datelor financiare"
+
+msgid "Select contractor"
+msgstr "Selectați contractor"
+
+msgid "Net Income"
+msgstr "Venitul net"
+
+msgid "Revenue"
+msgstr "venituri"
+
+msgid "Taxes"
+msgstr "impozite"
+
+msgid "Amount planned"
+msgstr "suma planificată"
+
+msgid "Amount"
+msgstr "sumă"
+
+msgid "Period"
+msgstr "perioadă"
+
+msgid "Are you sure to close this task?"
+msgstr "Sigur să închideți această sarcină ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "Toate grupurile"
+
+msgid "added from task"
+msgstr "adăugat la sarcină"
+
+msgid "Monthly repeat"
+msgstr "repeta lunar"
+
+msgid "Select category"
+msgstr "Alege categoria"
+
+msgid "Event type"
+msgstr "tip de eveniment"
+
+msgid "Margin"
+msgstr "Marja"
+
+msgid "Use finance project"
+msgstr "Utilizați Project Finance"
+
+msgid "New investment project"
+msgstr "Proiect de investiții noi"
+
+msgid "Investment project settings"
+msgstr "Setări Proiect de Investitii"
+
+msgid "Picture, for the announcement project"
+msgstr "Imagine , pentru proiectul anunț"
+
+msgid "Announcement project"
+msgstr "proiect anunț"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Photos or videos gallery"
+msgstr "Fotografii sau clipuri video galerie"
+
+msgid "required amount"
+msgstr "suma necesară"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Durata proiectului ( maximum 60 de zile )"
+
+msgid "Project duration"
+msgstr "durata proiectului"
+
+msgid "Add reward"
+msgstr "Adaugă recompensă"
+
+msgid "Delivery date"
+msgstr "Data de livrare"
+
+msgid "Payment systems"
+msgstr "sistemelor de plăți"
+
+msgid "Terms of service"
+msgstr "Termeni de serviciu"
+
+msgid "Agreement"
+msgstr "acord"
+
+msgid "Payment"
+msgstr "plată"
+
+msgid "My projects"
+msgstr "proiectele mele"
+
+msgid "Search result"
+msgstr "Rezultatul căutării"
+
+msgid "Nothing not found"
+msgstr "Nimic nu a fost găsit"
+
+msgid "The project has no sponsors"
+msgstr "Proiectul nu are sponsori"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Food"
+msgstr "alimente"
+
+msgid "Journalism"
+msgstr "Jurnalism"
+
+msgid "Games"
+msgstr "Jocuri"
+
+msgid "Art"
+msgstr "artă"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "muzică"
+
+msgid "Handicrafts"
+msgstr "artizanat"
+
+msgid "Publishing"
+msgstr "Publishing"
+
+msgid "Theater"
+msgstr "teatru"
+
+msgid "Technology"
+msgstr "tehnologie"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "fotografie"
+
+msgid "Dance"
+msgstr "dans"
+
+msgid "Invalid youtube video"
+msgstr "Video de pe YouTube invalid"
+
+msgid "is required"
+msgstr "este necesară"
+
+msgid "User"
+msgstr "utilizator"
+
+msgid "Date"
+msgstr "data"
+
+msgid "Collected"
+msgstr "colectate"
+
+msgid "Choose period"
+msgstr "alege perioada"
+
+msgid "Choose region"
+msgstr "alege regiunea"
+
+msgid "Country"
+msgstr "țară"
+
+msgid "Today"
+msgstr "astăzi"
+
+msgid "Week"
+msgstr "săptămână"
+
+msgid "Month"
+msgstr "lună"
+
+msgid "Year"
+msgstr "an"
+
+msgid "Free registration"
+msgstr "Inregistrarea gratuita"
+
+msgid "Join"
+msgstr "A adera"
+
+msgid "Log in using"
+msgstr "Conectați utilizând"
+
+msgid "Vacancies"
+msgstr "Oportunitati de angajare"
+
+msgid "About Us"
+msgstr "Despre noi"
+
+msgid "You will need email to log in"
+msgstr "Veți avea nevoie de email pentru a te autentifica"
+
+msgid "A combination of 6 digits and characters"
+msgstr "O combinație de 6 cifre și caractere"
+
+msgid "Search users, groups, articles..."
+msgstr "Utilizatorii de căutare , grupuri, articole ..."
+
+msgid "Cloud"
+msgstr "Nor"
+
+msgid "Sunday"
+msgstr "duminică"
+
+msgid "Monday"
+msgstr "luni"
+
+msgid "Tuesday"
+msgstr "marți"
+
+msgid "Wednesday"
+msgstr "miercuri"
+
+msgid "Thursday"
+msgstr "joi"
+
+msgid "Friday"
+msgstr "vineri"
+
+msgid "Saturday"
+msgstr "sâmbătă"
+
+msgid "Edit"
+msgstr "Edita"
+
+msgid "Create group"
+msgstr "Creare grup"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Sigur doriți să părăsiți această pagină ?"
+
+msgid "More"
+msgstr "Mai mult"
+
+msgid "Less"
+msgstr "Mai puțin"
+
+msgid "Pending"
+msgstr "în așteptarea"
+
+msgid "Approved"
+msgstr "Aprobat"
+
+msgid "Rejected"
+msgstr "respins"
+
+msgid "Subprojects"
+msgstr "subproiecte"
+
+msgid "Group edit"
+msgstr "Editare grup"
+
+msgid "Startup"
+msgstr "Lansare"
+
+msgid "Tattoo"
+msgstr "Tatuaj"
+
+msgid "Health"
+msgstr "Sănătate"
+
+msgid "Weapon"
+msgstr "Armă"
+
+msgid "Astronomy"
+msgstr "Astronomie"
+
+msgid "All articles"
+msgstr "toate articolele"
+
+msgid "Article editor"
+msgstr "articolul editor"
+
+msgid "Document editor"
+msgstr "editor de documente"
+
+msgid "Apply changes"
+msgstr "Aplica schimbarile"
+
+msgid "Save changes?"
+msgstr "Salvează modificările?"
+
+msgid "published an article"
+msgstr "a publicat un articol"
+
+msgid "Users"
+msgstr "utilizatori"
+
+msgid "Shared With Me"
+msgstr "Împărțit cu mine"
+
+msgid "share"
+msgstr "Acțiune"
+
+msgid "Select Group Responsible"
+msgstr "Selectați grupa Responsabil"
+
+msgid "Create folder"
+msgstr "Creați dosar"
+
+msgid "Title must be at least 3 characters"
+msgstr "Titlu trebuie să fie de cel puțin 3 caractere"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Gratuit 10 GB , manager de finanțe , să investească modul, și multe alte gratuit și pentru totdeauna"
+
+msgid "Best regards"
+msgstr "Salutări"
+
+msgid "Updates in last 12 hours:"
+msgstr "Actualizări în ultimele 12 de ore :"
+
+msgid "expense"
+msgstr "cheltuială"
+
+msgid "Commentary on the event:"
+msgstr "Comentariu despre eveniment :"
+
+msgid "Event place"
+msgstr "loc evenimentul"
+
+msgid "Project was updated"
+msgstr "Proiect a fost actualizată"
+
+msgid "Project was created"
+msgstr "A fost creat de proiect"
+
+msgid "Project was closed"
+msgstr "Proiect a fost închis"
+
+msgid "account"
+msgstr "cont"
+
+msgid "removed task"
+msgstr "sarcina eliminat"
+
+msgid "removed subproject"
+msgstr "subproiectului eliminat"
+
+msgid "Title can not be empty"
+msgstr "Titlul nu poate fi gol"
+
+msgid "Do not select the type of event"
+msgstr "Nu selectați tipul de eveniment"
+
+msgid "Error while saving comment"
+msgstr "Eroare la salvarea comentariu"
+
+msgid "Save error: access denied"
+msgstr "Salva de eroare: Acces refuzat"
+
+msgid "Remains"
+msgstr "resturi"
+
+msgid "Time spent, h."
+msgstr "Timpul petrecut , h ."
+
+msgid "Emails"
+msgstr "e-mailuri"
+
+msgid "Meetings"
+msgstr "întâlniri"
+
+msgid "All users"
+msgstr "Toți utilizatorii"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Finance project"
+msgstr "Project Finance"
+
+msgid "Investment project"
+msgstr "proiectul de investiții"
+
+msgid "Nature"
+msgstr "Natură"
+
+msgid "Data is empty"
+msgstr "Date este gol"
+
+msgid "Visitors"
+msgstr "vizitatori"
+
+msgid "My profile"
+msgstr "Profilul meu"
+
+msgid "Sponsors"
+msgstr "Sponsori"
+
+msgid "Prior to completion"
+msgstr "Înainte de finalizare"
+
+msgid "Select"
+msgstr "Selecta"
+
+msgid "My groups"
+msgstr "grupurile mele"
+
+msgid "The invitation has been sent successfully"
+msgstr "Invitația a fost trimisă cu succes"
+
+msgid "Username has already been invited to this project"
+msgstr "Nume a fost deja invitat la acest proiect"
+
+msgid "The user is the creator of the project"
+msgstr "Utilizatorul este creatorul proiectului"
+
+msgid "Provide full access"
+msgstr "Oferi acces complet"
+
+msgid "Select elements to provide access"
+msgstr "Selectați elemente pentru a oferi acces"
+
+msgid "Select all"
+msgstr "Selectează tot"
+
+msgid "User E-mail"
+msgstr "Utilizator E-mail"
+
+msgid "Click on the field to select a category"
+msgstr "Click pe teren pentru a selecta o categorie"
+
+msgid "Invitation was deleted"
+msgstr "Invitație a fost șters"
+
+msgid "Permission denied"
+msgstr "Acces refuzat"
+
+msgid "Printed"
+msgstr "tipărit"
+
+msgid "Incorrect Contractor email"
+msgstr "E-mail Contractor incorect"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Vrei să adăugați proiect la Finance Manager ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Pentru a finaliza procesul de înregistrare vă rugăm să completați în jos abilitățile dumneavoastră"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Un e-mail cu instrucțiuni suplimentare a fost trimis la adresa ta de email"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Science"
+msgstr "Ştiinţă"
+
+msgid "Donation"
+msgstr "Donare"
+
+msgid "Interests"
+msgstr "interese"
+
+msgid "Driver"
+msgstr "conducător auto"
+
+msgid "Sportsman"
+msgstr "Sportiv"
+
+msgid "Businessman"
+msgstr "Om de afaceri"
+
+msgid "Accountant"
+msgstr "Contabil"
+
+msgid "Engineer"
+msgstr "Inginer"
+
+msgid "Soldier"
+msgstr "Soldat"
+
+msgid "Next"
+msgstr "Următorul"
+
+msgid "Hide group"
+msgstr "Ascunde grup"
+
+msgid "groups created"
+msgstr "Grupuri creat"
+
+msgid "articles written"
+msgstr "articole scrise"
+
+msgid "These groups may be interesting for you"
+msgstr "Aceste grupuri pot fi interesant pentru tine"
+
+msgid "About Group"
+msgstr "Despre Grupul"
+
+msgid "view(s)"
+msgstr "vedere ( s )"
+
+msgid "Favorite users"
+msgstr "utilizatorii preferate"
+
+msgid "No accounts"
+msgstr "Nu există conturi"
+
+msgid "Facebook authorization failed."
+msgstr "Autorizare facebook eșuat ."
+
+msgid "Authorization Required"
+msgstr "Autorizația necesară"
+
+msgid "You have to make a call:"
+msgstr "Va trebui să facă un apel :"
+
+msgid "You have to send an email:"
+msgstr "Trebuie să trimiteți un e-mail :"
+
+msgid "You have a meetup:"
+msgstr "Aveți un Meetup :"
+
+msgid "You event :"
+msgstr "Eveniment la care :"
+
+msgid "Participants:"
+msgstr "Participanți:"
+
+msgid "Search"
+msgstr "A cauta"
+
+msgid "News"
+msgstr "Ştiri"
+
+msgid "Investments"
+msgstr "Investiții"
+
+msgid "Back to Cloud"
+msgstr "Înapoi la Cloud"
+
+msgid "Documents"
+msgstr "documente"
+
+msgid "Planet"
+msgstr "Planetă"
+
+msgid "Group url"
+msgstr "url grup"
+
+msgid "Profile url"
+msgstr "Adresa URL a profilului"
+
+msgid "Already taken"
+msgstr "Deja luat"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Cel puțin 1 literă și 3 caractere lungime necesare"
+
+msgid "Digit can not be the first character"
+msgstr "Cifra nu poate fi primul caracter"
+
+msgid "Enter valid email address"
+msgstr "Introduceți adresa de e-mail validă"
+
+msgid "Enter your skills"
+msgstr "Introduceți -vă abilitățile"
+
+msgid "Enter your first name"
+msgstr "Introduceți prenumele dvs."
+
+msgid "Enter your last name"
+msgstr "Introduceți numele dvs. de familie"
+
+msgid "Enter your first name and last name"
+msgstr "Introduceți numele dvs. numele și prenumele"
+
+msgid "Your first name?"
+msgstr "Prenumele tău?"
+
+msgid "Your last name?"
+msgstr "Numele dvs. de familie?"
+
+msgid "What are your proficiencies?"
+msgstr "Care sunt proficiencies tale ?"
+
+msgid "Select country"
+msgstr "Alege țara"
+
+msgid "Select user"
+msgstr "Selectați utilizator"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Îndeplini visul ! Creați și să colaboreze ."
+
+msgid "date moved from"
+msgstr "Data mutat de la"
+
+msgid "work"
+msgstr "lucru"
+
+msgid "Conference"
+msgstr "Conferinţă"
+
+msgid "personal"
+msgstr "personal"
+
+msgid "Holiday"
+msgstr "Vacanţă"
+
+msgid "Past"
+msgstr "Trecut"
+
+msgid "Future"
+msgstr "Viitor"
+
+msgid "Purchase"
+msgstr "Cumpărare"
+
+msgid "Personal events"
+msgstr "Evenimente private"
+
+msgid "Conferences"
+msgstr "Întâlnire"
+
+msgid "Holidays"
+msgstr "Vacanță"
+
+msgid "Sport events"
+msgstr "Evenimente sportive"
+
+msgid "Tasks"
+msgstr "Sarcini"
+
+msgid "Other events"
+msgstr "Alte evenimente"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Amânat"
+
+msgid "Time management"
+msgstr "Managementul timpului"
+
+msgid "Delayed events"
+msgstr "Evenimente amânate"
+
+msgid "Delayed"
+msgstr "Amânat"
+
+msgid "Bind to"
+msgstr "Atribui"
+
+msgid "answered your comment to"
+msgstr "I-am spus (a) Comentați articolul"
+
+msgid "commented your article"
+msgstr "Am comentat cu privire la articolul dvs."
+
+msgid "You\'ve answered on comment to"
+msgstr "Ați răspuns la comentariul privind articolul"
+
+msgid "You\'ve commented an article"
+msgstr "Tu comentat articol"
+
+msgid "Terms and Conditions"
+msgstr "Termeni și condiții"
+
+msgid "Privacy Policy"
+msgstr "Politica de confidențialitate"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Făcând clic pe \"Sign Up\" sunteți de acord cu nostru și recunosc că ați citit nostru"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Alăturați-vă comunității de oameni creativi din toate colturile lumii! Veți primi: Investiția în ideile tale, o oportunitate de a aduna echipa sa, care lucrează într-un grup, directorul financiar, gestionarea timpului, 2 GB de stocare și mai în. Și este gratuit!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Ne pare rau, dar pagina pe care il cautati nu exista. Dacă credeți că de vină ne ne contactati"
+
+msgid "Return"
+msgstr "Întoarcere"
+
+msgid "COMMON"
+msgstr "TOTAL"
+
+msgid "My events"
+msgstr "Evenimente"
+
+msgid "Job opening"
+msgstr "Post vacant nou"
+
+msgid "Employment"
+msgstr "Tipul de angajare"
+
+msgid "Working hours"
+msgstr "Program"
+
+msgid "City"
+msgstr "Oraș"
+
+msgid "Wages"
+msgstr "Salariu"
+
+msgid "Currency"
+msgstr "Valută"
+
+msgid "Experience"
+msgstr "Experiență"
+
+msgid "Full-time"
+msgstr "Ocuparea forței de muncă full"
+
+msgid "Part-time"
+msgstr "Part-time"
+
+msgid "Project employment"
+msgstr "Proiect / temporară"
+
+msgid "Volunteer"
+msgstr "Voluntariatul"
+
+msgid "Internship"
+msgstr "Stagiu"
+
+msgid "Full day"
+msgstr "Full Time"
+
+msgid "Shifts"
+msgstr "Program de înlocuire"
+
+msgid "Flexible shifts"
+msgstr "Program flexibil"
+
+msgid "Remote work"
+msgstr "Munca în depărtare"
+
+msgid "Rotational basis"
+msgstr "Metoda schimbare"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Sigur doriți să ștergeți comentariul?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Sigur doriți să ștergeți această sarcină?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Sigur doriți să ștergeți acest sub-proiect?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Ați aplicat societății în poziția. Vă rugăm să asigurați-vă că"
+
+msgid "Your request to for job has been rejected"
+msgstr "Cererea dvs. de companie la poziția a fost respinsă"
+
+msgid "Your request to for job has been accepted"
+msgstr "Cererea dvs. de companie la poziția a fost adoptată"
+
+msgid "profile is completed"
+msgstr "Profilul tău este plin"
+
+msgid "Use account"
+msgstr "Utilizați contul"
+
+msgid "$/hr"
+msgstr "$ / Oră"
+
+msgid "Finance category"
+msgstr "Categoria Financiar"
+
+msgid "No projects"
+msgstr "Nu există proiecte"
+
+msgid "Bind to finances"
+msgstr "Atribuirea proiect financiar"
+
+msgid "Preview"
+msgstr "Vedere"
+
+msgid "Download"
+msgstr "Descărcați"
+
+msgid "Save to my cloud"
+msgstr "Copiați depozitul"
+
+msgid "File successfully saved to your cloud"
+msgstr "Fișier stocat cu succes în depozit dvs."
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Salvați acest fișier în depozit ta?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Alege o categorie articolul"
+
+msgid "Type something"
+msgstr "Scrie ceva"
+
+msgid "Founded users"
+msgstr "Utilizatorii găsite"
+
+msgid "Founded articles"
+msgstr "Articol găsit"
+
+msgid "Founded groups"
+msgstr "Grup fondat"
+
+msgid "What are your skills?"
+msgstr "Care sunt abilitățile dumneavoastră?"
+
+msgid "Select at least 2 interests"
+msgstr "Selectați cel puțin 2 interes"
+
+msgid "Need more interests"
+msgstr "Nu este suficient de interes selectat"
+
+msgid "What are you interesting in?"
+msgstr "Ce te interesează?"
+
+msgid "You have no dialogs"
+msgstr "Nu aveți dialoguri"
+
+msgid "Usage Stats"
+msgstr "Stare de"
+
+msgid "Founded files"
+msgstr "Fișiere găsit"
+
+msgid "Big tiles"
+msgstr "Dale mari"
+
+msgid "Small tiles"
+msgstr "Placi mici"
+
+msgid "Table view"
+msgstr "Vedere de masă"
+
+msgid "Root folder"
+msgstr "Directorul rădăcină"
+
+msgid "My files"
+msgstr "Fișierele mele"
+
+msgid "Save as draft"
+msgstr "Salvați ca Proiect"
+
+msgid "Buy More Space"
+msgstr "Cumpara mai mult spațiu"
+
+msgid "Buy"
+msgstr "Cumpăra"
+
+msgid "You have been invited to group as"
+msgstr "Ați fost invitat la grup ca"
+
+msgid "User wants to join your group"
+msgstr "Utilizatorul dorește să se alăture grupului dvs."
+
+msgid "Section is coming soon!"
+msgstr "Secțiunea în construcție!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Opinii în ultimele 24 de ore:"
+
+msgid "Task was updated"
+msgstr "Sarcina a fost actualizat"
+
+msgid "Task was closed"
+msgstr "Provocarea a fost închis"
+
+msgid "Task was created"
+msgstr "Sarcina a fost stabilit"
+
+msgid "Current balance"
+msgstr "Echilibru curent"
+
+msgid "Add funds"
+msgstr "Adăuga"
+
+msgid "Pay"
+msgstr "Checkout"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Ați depășit numărul de încercări de conectare. Tu sunt blocate timp de 15 minute"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Vă rugăm să confirmați adresa de e-mail. Scrisoarea trimisă la tine prin e-mail."
+
+msgid "Resend confirmation email"
+msgstr "Trimite din nou confirmare"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB pe lună"
+
+msgid "Disk 10Gb Monthly"
+msgstr "La 10 GB pe an"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB fiecare an"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1 TB lunar"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Condu 1 TB fiecare an"
+
+msgid "Project members monthly"
+msgstr "Participanții proiectului pe o bază lunară"
+
+msgid "Project members yearly"
+msgstr "Participanții la proiect anual"
+
+msgid "Member(s) yearly"
+msgstr "Membru (statele membre) pe an"
+
+msgid "Member(s) monthly"
+msgstr "Membru (statele membre) pe o bază lunară"
+
+msgid "Authorized"
+msgstr "Autorizat"
+
+msgid "Authorization expired"
+msgstr "Autorizare expirat"
+
+msgid "Processor declined"
+msgstr "Sistem de prelucrare a respins"
+
+msgid "Gateway rejected"
+msgstr "Gateway de plată a respins"
+
+msgid "Failed"
+msgstr "Eroare"
+
+msgid "Voided"
+msgstr "Anula"
+
+msgid "Submitted for settlement"
+msgstr "Trimis să se înscrie"
+
+msgid "Settlement declined"
+msgstr "Inscriere a fost respinsă"
+
+msgid "Settlement pending"
+msgstr "În așteptarea inscriere"
+
+msgid "Verified"
+msgstr "Verificat"
+
+msgid "Pending"
+msgstr "În așteptarea"
+
+msgid "Active"
+msgstr "Activ"
+
+msgid "Past Due"
+msgstr "Expirat"
+
+msgid "Expired"
+msgstr "Încheiat"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "India"
+
+msgid "Malaysia"
+msgstr "Malaezia"
+
+msgid "Thailand"
+msgstr "Tailanda"
+
+msgid "South Korea"
+msgstr "Coreea de Sud"
+
+msgid "Kazakhstan"
+msgstr "Kazahstan"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Ukraine"
+msgstr "Ucraina"
+
+msgid "Belarus"
+msgstr "Bielorusia"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Turkey"
+msgstr "Turcia"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Poland"
+msgstr "Polonia"
+
+msgid "Germany"
+msgstr "Germania"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Netherlands"
+msgstr "Olanda"
+
+msgid "Ireland"
+msgstr "Irlanda"
+
+msgid "United Kingdom"
+msgstr "Marea Britanie"
+
+msgid "Portugal"
+msgstr "Portugalia"
+
+msgid "Norway"
+msgstr "Norvegia"
+
+msgid "United States"
+msgstr "Statele Unite ale Americii"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Brazil"
+msgstr "Brazilia"
+
+msgid "Saudi Arabia"
+msgstr "Arabia Saudită"
+
+msgid "Canada"
+msgstr "Egipt"
+
+msgid "Russia"
+msgstr "Rusia"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "În momentul de față, nu a fost o singură tranzacție"
+
+msgid "Fulfill your dream"
+msgstr "Îndeplini visul"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Alăturați-vă comunității noastre de indivizi creativi din întreaga lume."
+
+msgid "Create and Collaborate"
+msgstr "Creați și să colaboreze"
+
+msgid "Fulfill your dream"
+msgstr "Îndeplini visul ACUM"
+
+msgid "or"
+msgstr "sau"
+
+msgid "Our mission:"
+msgstr "Misiunea noastră:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Pentru a uni oameni creativi și activi să pună în aplicare ideile de la simplu și a cererii de incredibil și fantastic, care pot modela viitorul nostru."
+
+msgid "What is Konstruktor?"
+msgstr "Ce este Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor- este o parte din viața noastră reală, ceea ce facilitează în mod semnificativ și simplifică"
+
+msgid "*business processes"
+msgstr "* procese de afaceri"
+
+msgid "*materialization of creative ideas"
+msgstr "* materializare de idei creative"
+
+msgid "*constructive cooperation"
+msgstr "* cooperarea constructivă"
+
+msgid "Make your dream!"
+msgstr "Face visul tău!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Consilier special"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Manager, Dezvoltare Software"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Senior avocat"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Proiectant"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Făcând clic pe butonul \"Next\", sunteți de acord cu acceptarea și Termenii și condițiile noastre, și sunteți recunoscând că ați citit politica noastră de confidențialitate."
+
+msgid "Incorrect login or password."
+msgstr "Parolă sau logare incorectă."
+
+msgid "Password must be at least 6 characters"
+msgstr "Parola trebuie să fie de cel puțin 6 caractere"
+
+msgid "January"
+msgstr "ianuarie"
+
+msgid "February"
+msgstr "februarie"
+
+msgid "March"
+msgstr "Martie"
+
+msgid "April"
+msgstr "Aprilie"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "June"
+msgstr "iunie"
+
+msgid "July"
+msgstr "iulie"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "Septembrie"
+
+msgid "October"
+msgstr "octombrie"
+
+msgid "November"
+msgstr "noiembrie"
+
+msgid "December"
+msgstr "decembrie"
+
+msgid "Chat"
+msgstr "conversație"
+
+msgid "Files"
+msgstr "Fișiere"
+
+msgid "Statistic"
+msgstr "Statistic"
+
+msgid "Support"
+msgstr "A sustine"
+
+msgid "Exit"
+msgstr "Ieșire"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Bielorusia"
+
+msgid "Marketing specialist"
+msgstr "Specialist în marketing"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Shared with me"
+msgstr "Împărțit cu mine"
+
+msgid "File Sharing"
+msgstr "Distribuire a unui fisier"
+
+msgid "Provide access by link"
+msgstr "Oferi acces prin link-ul"
+
+msgid "Provide Individual access"
+msgstr "Asigura accesul individual"
+
+msgid "Provide edit access"
+msgstr "Furnizarea de acces edita"
+
+msgid "Share"
+msgstr "a impartasi"
+
+msgid "Files will be available only for selected users"
+msgstr "Fișierele vor fi disponibile numai pentru utilizatorii selectate"
+
+msgid "With this link everyone can access to the files"
+msgstr "Cu acest leagă oricine poate avea acces la fișierele"
+
+msgid "Search users, groups, articles..."
+msgstr "Utilizatorii de căutare, grupuri, articole ..."
+
+msgid "My Group"
+msgstr "Grupul meu"
+
+msgid "Mo"
+msgstr "Moment"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Noi"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Fișierul nu este selectat"
+
+msgid "Set aside"
+msgstr "Pus deoparte"
+
+msgid "Event time"
+msgstr "Ora Eveniment"
+
+msgid "Work"
+msgstr "Muncă"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Time spent for work:"
+msgstr "Timpul petrecut pentru muncă:"
+
+msgid "Personal time spent:"
+msgstr "Timp personal petrecut:"
+
+msgid "Present"
+msgstr "Prezent"
+
+msgid "Common"
+msgstr "Comun"
+
+msgid "Sport"
+msgstr "Sportiv"
+
+msgid "Entertainment"
+msgstr "Divertisment"
+
+msgid "Select:"
+msgstr "Selecta:"
+
+msgid "Invalid username or password."
+msgstr "Nume de utilizator sau parola incorecte."
+
+msgid "Try again."
+msgstr "Încearcă din nou."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "CE TE INTERESEAZA?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Selectați cel puțin 2 abilități: rămâne 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Selectați cel puțin 2 abilități: rămâne 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Selectați cel puțin 2 abilități: rămâne"
+
+msgid "Active life"
+msgstr "Viața activă"
+
+msgid "Arts and culture"
+msgstr "Artă și cultură"
+
+msgid "Business"
+msgstr "Afaceri"
+
+msgid "Cinema"
+msgstr "Cinema"
+
+msgid "Communications"
+msgstr "Comunicații"
+
+msgid "Construction and repair"
+msgstr "Construcții și reparații"
+
+msgid "Cooking"
+msgstr "Gătire"
+
+msgid "Education"
+msgstr "Educaţie"
+
+msgid "Electronics"
+msgstr "Electronică"
+
+msgid "Finances"
+msgstr "Finanțe"
+
+msgid "Graphics and design"
+msgstr "Grafica si design"
+
+msgid "Health"
+msgstr "Sănătate"
+
+msgid "Home and family"
+msgstr "Casă și familie"
+
+msgid "Humor"
+msgstr "Umor"
+
+msgid "IT"
+msgstr "ACEASTA"
+
+msgid "Industry"
+msgstr "Industrie"
+
+msgid "Insurance"
+msgstr "Asigurare"
+
+msgid "Literature"
+msgstr "Literatură"
+
+msgid "Mobile communications and internet"
+msgstr "Comunicații mobile și internet"
+
+msgid "News and Media"
+msgstr "Știri și media"
+
+msgid "Pets"
+msgstr "Animale de companie"
+
+msgid "Products and service"
+msgstr "Produse și servicii"
+
+msgid "Real Estate"
+msgstr "Proprietate imobiliara"
+
+msgid "Religion"
+msgstr "Religie"
+
+msgid "Science and techs"
+msgstr "Știință și techs"
+
+msgid "Security"
+msgstr "Securitate"
+
+msgid "Society"
+msgstr "Societate"
+
+msgid "Television"
+msgstr "Televiziune"
+
+msgid "Travel"
+msgstr "Voiaj"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Belarus"
+msgstr "Bielorusia"
+
+msgid "Belgium"
+msgstr "Belgia"
+
+msgid "Brazil"
+msgstr "Brazilia"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Danemarca"
+
+msgid "France"
+msgstr "Franţa"
+
+msgid "Germany"
+msgstr "Germania"
+
+msgid "Greece"
+msgstr "Grecia"
+
+msgid "Hungary"
+msgstr "Ungaria"
+
+msgid "Iceland"
+msgstr "Islanda"
+
+msgid "Ireland"
+msgstr "Irlanda"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Japan"
+msgstr "Japonia"
+
+msgid "Mexico"
+msgstr "Mexic"
+
+msgid "Netherlands"
+msgstr "Olanda"
+
+msgid "New Zealand"
+msgstr "Noua Zeelandă"
+
+msgid "Norway"
+msgstr "Norvegia"
+
+msgid "Poland"
+msgstr "Polonia"
+
+msgid "Portugal"
+msgstr "Portugalia"
+
+msgid "Russia"
+msgstr "Rusia"
+
+msgid "Slovakia"
+msgstr "Slovacia"
+
+msgid "South Africa"
+msgstr "Africa de Sud"
+
+msgid "South Korea"
+msgstr "Coreea de Sud"
+
+msgid "Spain"
+msgstr "Spania"
+
+msgid "Sweden"
+msgstr "Suedia"
+
+msgid "Switzerland"
+msgstr "Elveţia"
+
+msgid "Turkey"
+msgstr "Curcan"
+
+msgid "Ukraine"
+msgstr "Ucraina"
+
+msgid "United Arab Emirates"
+msgstr "Emiratele Arabe Unite"
+
+msgid "United Kingdom"
+msgstr "Regatul Unit"
+
+msgid "United States"
+msgstr "Statele Unite"
+
+msgid "achievements"
+msgstr "realizări"
+
+msgid "Investment management"
+msgstr "De administrare a investițiilor"
+
+msgid "Select..."
+msgstr "Selecta..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "INVESTMENT MANAGEMENT"
+
+msgid "Investors list"
+msgstr "Lista investitorilor"
+
+msgid "My investments"
+msgstr "Investiții mele"
+
+msgid "Create date"
+msgstr "Creați data"
+
+msgid "Author of the project"
+msgstr "Autor al proiectului"
+
+msgid "Date and time"
+msgstr "Data si ora"
+
+msgid "Status"
+msgstr "Stare"
+
+msgid "NEXT"
+msgstr "URMĂTOR →"
+
+msgid "Next"
+msgstr "Următor →"
+
+msgid "Apply"
+msgstr "Aplica"
+
+msgid "Kazakhstan"
+msgstr "Kazahstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Ştiinţă"
+
+msgid "Architecture"
+msgstr "Arhitectură"
+
+msgid "Photography"
+msgstr "Fotografie"
+
+msgid "Designer"
+msgstr "Proiectant"
+
+msgid "IT specialist"
+msgstr "specialist IT"
+
+msgid "Agronomist"
+msgstr "Agronom"
+
+msgid "Architect"
+msgstr "Arhitectului"
+
+msgid "Lawyer"
+msgstr "Avocat"
+
+msgid "Writer"
+msgstr "Scriitor"
+
+msgid "Doctor"
+msgstr "Doctor"
+
+msgid "Scientist"
+msgstr "Om de stiinta"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Cadru didactic"
+
+msgid "Cook"
+msgstr "a gati"
+
+msgid "Artist"
+msgstr "Artist"
+
+msgid "Photographer"
+msgstr "Fotograf"
+
+msgid "Ecologist"
+msgstr "Ecologist"
+
+msgid "Economist"
+msgstr "Economist"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Ziarist"
+
+msgid "Builder"
+msgstr "Constructor"
+
+msgid "These users may be interesting for you"
+msgstr "Acești utilizatori pot fi interesant pentru tine"
+
+msgid "These articles may be interesting for you"
+msgstr "Aceste articole pot fi interesant pentru tine"
+
+msgid "You joined this group as Аdministrator"
+msgstr "V-ați alăturat acestui grup ca Аdministrator"
+
+msgid "articles written."
+msgstr "articole scrise."
+
+msgid "groups created."
+msgstr "Grupuri creat."
+
+msgid "Creation"
+msgstr "Creare"
+
+msgid "Build a dream"
+msgstr "Construi un vis"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Citește mai multe articole interesante - du-te gratuit de înregistrare"
+

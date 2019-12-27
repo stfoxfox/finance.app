@@ -1,0 +1,260 @@
+/* pay_popup-style
+------------------------------------*/
+
+.pay-style{
+  max-width: 570px;
+  padding:40px 50px 40px 50px;
+  margin:0 auto;
+  background:#fff;
+  border-radius:10px;
+  position: relative;
+}
+
+.pay-style ul li a{
+  text-decoration: none;
+  color:#999999;
+  font-size: 16px;
+  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  border:1px solid #d7d7d7;
+}
+
+.pay-style ul{
+  display: table;
+  max-width: 366px;
+  width:100%;
+  margin:0 auto 38px;
+}
+
+.pay-style ul li{
+  display: table-cell;
+  text-align: center;
+}
+
+
+.pay-style ul li.active a{
+  background:#12d09b;
+  color:#fff;
+  border-color:#12d09b;
+}
+
+.pay-style .form-group{
+  border-bottom:none;
+  margin-bottom:0;
+  padding-bottom:0;
+}
+
+.replenish-process .payment-group{
+	margin-top: 20px;
+}
+
+.pay-style .form-group-double input,
+.pay-style .form-group-block input{
+	width: 100%;
+}
+
+.pay-style .form-group label{
+  color:#666666;
+  font-size: 14px;
+  line-height: 16px;
+  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.pay-style .styling_class_pay{
+  border:1px solid #d7d7d7 !important;
+  border-radius:4px !important;
+  height: 34px !important;
+  padding:0 6px !important;
+  font-size: 14px !important;
+}
+
+.pay-style input{
+  border:1px solid #d7d7d7;
+  border-radius:4px;
+  height: 34px;
+  padding:0 6px;
+  font-size: 14px;
+}
+
+.pay-style .contentEditable{
+  border:none;
+  min-height:0;
+}
+
+.pay-style .btn.btn-success{
+  margin-top: 42px;
+  padding:0 36px;
+}
+
+.windrawal_form .form-group.form-group-double {
+	display: block;
+	vertical-align: top;
+	margin-bottom: 20px;
+	width: 50%;
+	max-width: initial;
+	float: left;
+	height: 60px;
+}
+
+.form-group.form-group-double input{
+  width:100%;
+}
+
+.form-group.form-group-brainTree_small_CVV{
+  max-width: 50px;
+  width:100%;
+}
+
+.form-group.form-group-brainTree{
+  margin-right: 28px;
+  max-width: 220px;
+  width:45%;
+}
+
+.form-group.form-group-brainTree input{
+  display: inline-block;
+  vertical-align: top;
+  width:auto;
+  max-width: 220px;
+}
+
+.number_style_brain{
+  max-width: 220px;
+}
+
+.other_style_brain{
+  max-width: 70px;
+  width:100%;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 10px;
+}
+
+.attentionBrain{
+  margin-left: 8px;
+  display: inline-block;
+  vertical-align: top;
+  color:#999;
+  margin-top: 32px;
+  font-size: 14px;
+  font-family:'PT Sans', Arial, Helvetica, sans-serif;
+  cursor:default;
+}
+
+.form-group.form-group-double + .form-group.form-group-double{
+  margin-left:0;
+}
+
+
+.form-group.form-group-brainTree_small, .form-group-brainTree_small_CVV, .form-group.form-group-brainTree{
+  display: inline-block;
+  vertical-align: top;
+}
+
+.pay-style ul li:first-child a{
+  border-radius:4px 0px 0px 4px;
+}
+
+.pay-style ul li:last-child a{
+  border-radius:0px 4px 4px 0px;
+}
+
+.table th,
+.table td{
+	background-color: #ffffff;
+	border-top: 1px solid #d8e0e6 !important;
+}
+
+.table th:first-child{
+	border-top-left-radius: 10px;
+}
+
+.table th:last-child{
+	border-top-right-radius: 10px;
+}
+
+.table tr:last-child td:first-child{
+	border-bottom-left-radius: 10px;
+}
+
+.table tr:last-child td:last-child{
+	border-bottom-right-radius: 10px;
+}
+
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+	padding: 10px;
+}
+
+.nav > li > a{
+	display: inline;
+}
+
+.nav > li > a:hover, .nav > li > a:focus{
+	background-color: transparent;
+}
+
+@media (max-width: 1280px){
+
+}
+
+@media (max-width: 1024px){
+
+}
+
+@media (max-width: 980px){
+
+}
+
+@media (max-width: 780px){
+  .other_style_brain{
+    margin-right: 6px;
+  }
+
+  .pay-style{
+    padding:40px 30px;
+  }
+}
+
+@media (max-width: 580px){
+  .form-group.form-group-brainTree{
+    display: block;
+  }
+}
+
+@media (max-width: 420px){
+  .form-group.form-group-double{
+    display: block;
+    margin:0;
+    width:100%;
+    max-width: 100%;
+  }
+
+  .pay-style ul li a{
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  .form-group.form-group-double + .form-group.form-group-double{
+    margin-left: 0;
+  }
+
+  .form-group.form-group-brainTree{
+    width:100%;
+    max-width: 100%;
+  }
+
+  .number_style_brain{
+    max-width: 100%;
+  }
+
+  .pay-style .form-group{
+    margin-top: 10px;
+  }
+
+  .attentionBrain{
+    margin-top: 42px;
+  }
+}
+
+/*------------------------------------*/

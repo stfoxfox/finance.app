@@ -1,0 +1,41 @@
+###############################################################################
+#                          Generated on phpdocker.io                          #
+###############################################################################
+version: "2"
+services:
+
+    redis:
+      image: redis:alpine
+      container_name: finance-app-redis
+
+    postgres:
+      image: postgres:9.6-alpine
+      container_name: finance-app-postgres
+      working_dir: /application
+      volumes:
+        - .:/application
+      environment:
+        - POSTGRES_USER=posty
+        - POSTGRES_PASSWORD=12345
+      ports:
+        - "5432:5432"
+
+    webserver:
+      image: nginx:alpine
+      container_name: finance-app-webserver
+      working_dir: /application
+      volumes:
+          - .:/application
+          - ./phpdocker/nginx/nginx.conf:/etc/nginx/conf.d/default.conf
+      ports:
+       - "8080:80"
+       - "5000:81"
+
+    php-fpm:
+      build: phpdocker/php-fpm
+      container_name: finance-app-php-fpm
+      working_dir: /application
+      volumes:
+        - .:/application
+        - ./phpdocker/php-fpm/php-ini-overrides.ini:/etc/php/7.2/fpm/conf.d/99-overrides.ini
+

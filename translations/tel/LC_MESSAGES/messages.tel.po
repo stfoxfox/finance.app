@@ -1,0 +1,3344 @@
+# తెలుగు (Телугу) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: తెలుగు (Телугу) <support@konstruktor.com>\n"
+"Language: తెలుగు (Телугу)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "యూజర్పేరు  Yūjarpēru"
+
+msgid "Invalid username or password, try again"
+msgstr "చెల్లని వినియోగదారు పేరు లేదా పాస్వర్డ్. మళ్ళీ ప్రయత్నించండి."
+
+msgid "Settings"
+msgstr "సెట్టింగులు"
+
+msgid "Home"
+msgstr "హోం"
+
+msgid "You must log in to access this page"
+msgstr "ఈ పేజీ ప్రాప్తి లాగ్ ఇన్ చేయాలి"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "మీ సెషన్ గడువు చెయ్యబడింది . ఈ చర్యను మళ్ళీ లాగిన్ చేయండి"
+
+msgid "Save"
+msgstr "సేవ్"
+
+msgid "Head Office"
+msgstr "హెడ్ ​​ఆఫీస్"
+
+msgid "Address"
+msgstr "అడ్రస్"
+
+msgid "Back"
+msgstr "తిరిగి"
+
+msgid "Apply"
+msgstr "వర్తించు"
+
+msgid "Upload files…"
+msgstr "ఫైళ్లు అప్లోడ్ చేయి ..."
+
+msgid "Set as main"
+msgstr "ప్రధాన గా సెట్"
+
+msgid "Delete"
+msgstr "తొలగించు"
+
+msgid "Original image"
+msgstr "Original చిత్రం"
+
+msgid "Uploaded"
+msgstr "అప్లోడ్"
+
+msgid "File name"
+msgstr "ఫైల్ పేరు"
+
+msgid "File size"
+msgstr "దస్త్రపు పరిమాణం"
+
+msgid "Resolution"
+msgstr "రిజల్యూషన్"
+
+msgid "Enlarge"
+msgstr "వచ్చేలా"
+
+msgid "Links"
+msgstr "లింకులు"
+
+msgid "Original size"
+msgstr "అసలు పరిమాణం"
+
+msgid "For editor"
+msgstr "ఎడిటర్"
+
+msgid "Resize"
+msgstr "పునఃపరిమాణం"
+
+msgid "Width"
+msgstr "వెడల్పు"
+
+msgid "Height"
+msgstr "ఎత్తు"
+
+msgid "Media URL"
+msgstr "మీడియా URL"
+
+msgid "Add record"
+msgstr "రికార్డు జోడించండి"
+
+msgid "Show filter settings"
+msgstr "షో వడపోత సెట్టింగ్లను"
+
+msgid "Edit record"
+msgstr "ఎడిట్ రికార్డు"
+
+msgid "Delete record"
+msgstr "రికార్డు తొలగించు"
+
+msgid "Delete checked records"
+msgstr "తనిఖీ రికార్డులు తొలగించు"
+
+msgid "Dashboard"
+msgstr "డాష్బోర్డ్"
+
+msgid "Password"
+msgstr "పాస్వర్డ్"
+
+msgid "Remember me"
+msgstr "నన్ను గుర్తుంచుకో"
+
+msgid "Login"
+msgstr "లాగిన్"
+
+msgid "Clean image cache"
+msgstr "క్లీన్ చిత్రం కాష్"
+
+msgid "Processing query..."
+msgstr "ప్రోసెసింగ్ ప్రశ్న ..."
+
+msgid "CMS Development"
+msgstr "CMS అభివృద్ధి"
+
+msgid "Admin Home Page"
+msgstr "అడ్మిన్ హోం పేజి"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "ఒక కొత్త టాబ్ లో ఫ్రంట్ ఎండ్ యొక్క హోమ్ పేజీని తెరువు"
+
+msgid "Go to Site"
+msgstr "సైట్ కు వెళ్ళండి"
+
+msgid "Log out"
+msgstr "లాగ్ అవుట్"
+
+msgid "Send"
+msgstr "పంపు"
+
+msgid "General"
+msgstr "జనరల్"
+
+msgid "Title"
+msgstr "శీర్షిక"
+
+msgid "Teaser"
+msgstr "టీజర్"
+
+msgid "Published"
+msgstr "ప్రచురణ"
+
+msgid "Featured"
+msgstr "ఫీచర్"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Field is mandatory"
+msgstr "ఫీల్డ్ తప్పనిసరి"
+
+msgid "Sort Order"
+msgstr "క్రమబద్ధీకరణ క్రమం"
+
+msgid "Upload"
+msgstr "అప్లోడ్"
+
+msgid "Loading..."
+msgstr "లోడ్ అవుతోంది ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "ఫిబ్రవరి"
+
+msgid "Mar"
+msgstr "మార్చి"
+
+msgid "Apr"
+msgstr "ఏప్రిల్"
+
+msgid "May"
+msgstr "మే"
+
+msgid "Jun"
+msgstr "జూన్"
+
+msgid "Jul"
+msgstr "జూలై"
+
+msgid "Aug"
+msgstr "ఆగస్టు"
+
+msgid "Sep"
+msgstr "సెప్టెంబర్"
+
+msgid "Oct"
+msgstr "అక్టోబర్"
+
+msgid "Nov"
+msgstr "నవంబర్"
+
+msgid "Dec"
+msgstr "డిసెంబర్"
+
+msgid "Product already exists in the order"
+msgstr "ఉత్పత్తి ఇప్పటికే క్రమంలో ఉంది"
+
+msgid "Product does not exist"
+msgstr "ఉత్పత్తి ఉనికిలో లేదు"
+
+msgid "Incorrect request"
+msgstr "సరికాని అభ్యర్థన"
+
+msgid "Products"
+msgstr "ఉత్పత్తులు"
+
+msgid "Product types"
+msgstr "ఉత్పత్తి రకాల"
+
+msgid "Contractors"
+msgstr "కాంట్రాక్టర్లు"
+
+msgid "Contractor"
+msgstr "కాంట్రాక్టర్"
+
+msgid "Orders"
+msgstr "ఆర్డర్స్"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "న్యూ ఆర్డర్"
+
+msgid "My orders"
+msgstr "నా ఆదేశాలు"
+
+msgid "Recharge balance"
+msgstr "రీఛార్జ్ సంతులనం"
+
+msgid "Administrator"
+msgstr "నిర్వాహకుడు"
+
+msgid "Incorrect event ID"
+msgstr "సరికాని ఈవెంట్ ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "మార్చు కాంట్రాక్టర్"
+
+msgid "Create contractor"
+msgstr "కాంట్రాక్టర్ సృష్టించు"
+
+msgid "Edit question"
+msgstr "ప్రశ్నను సవరించు"
+
+msgid "Create question"
+msgstr "ప్రశ్న సృష్టించు"
+
+msgid "Edit order"
+msgstr "మార్చు క్రమంలో"
+
+msgid "Create order"
+msgstr "ఆర్డర్ సృష్టించు"
+
+msgid "Edit product"
+msgstr "మార్చు ఉత్పత్తి"
+
+msgid "Create product"
+msgstr "ఉత్పత్తి సృష్టించు"
+
+msgid "Edit product type"
+msgstr "మార్చు ఉత్పత్తి రకం"
+
+msgid "Create product type"
+msgstr "ఉత్పత్తి రకం సృష్టించు"
+
+msgid "You have received a file"
+msgstr "మీరు ఒక ఫైల్ అందింది"
+
+msgid "You received a file from"
+msgstr "మీరు నుండి ఒక ఫైల్ పొందింది"
+
+msgid "File has been uploaded"
+msgstr "ఫైలు అప్లోడ్ చేయబడింది"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "కనీసపు పరిమాణం"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "అంశాలను"
+
+msgid "Remove"
+msgstr "తొలగించు"
+
+msgid "Contact person"
+msgstr "సంప్రదించండి వ్యక్తి"
+
+msgid "Email"
+msgstr "ఇమెయిల్"
+
+msgid "Contractor phone"
+msgstr "కాంట్రాక్టర్ ఫోన్"
+
+msgid "Contractor name"
+msgstr "కాంట్రాక్టర్ పేరు"
+
+msgid "Contractor details"
+msgstr "కాంట్రాక్టర్ వివరాలు"
+
+msgid "Order ID"
+msgstr "ఆర్డర్ ID"
+
+msgid "Sum"
+msgstr "మొత్తం"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "మీ సంతులనం రీఛార్జ్ తగిన చెల్లింపు వ్యవస్థ ఎంచుకోండి"
+
+msgid "Recharge amount"
+msgstr "రీఛార్జ్ మొత్తాన్ని"
+
+msgid "Paid"
+msgstr "చెల్లింపు"
+
+msgid "Shipped"
+msgstr "రవాణా"
+
+msgid "- No products in this order -"
+msgstr "- ఈ క్రమంలో ఏ ఉత్పత్తులు -"
+
+msgid "month"
+msgstr "నెల"
+
+msgid "No user found"
+msgstr "తోబుట్టువుల సంఖ్య యూజర్ దొరకలేదు"
+
+msgid "Achievement"
+msgstr "అచీవ్మెంట్"
+
+msgid "Confirmed accomplishments"
+msgstr "ధ్రువీకరించారు విజయాల"
+
+msgid "Remove achievement"
+msgstr "ఘనకార్యం తొలగించు"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "ఫోన్"
+
+msgid "Site URL and email"
+msgstr "సైట్ URL మరియు ఇమెయిల్"
+
+msgid "Remove address"
+msgstr "ลบที่อยู่"
+
+msgid "Members"
+msgstr "సభ్యులు"
+
+msgid "Requires a payment"
+msgstr "ఒక చెల్లింపు అవసరం"
+
+msgid "Shipping"
+msgstr "షిప్పింగ్"
+
+msgid "Ready"
+msgstr "రెడీ"
+
+msgid "Find user..."
+msgstr "యూజర్ కనుగొను ..."
+
+msgid "Order it"
+msgstr "ఉత్తర్వులో"
+
+msgid "Find group..."
+msgstr "సమూహం కనుగొను ..."
+
+msgid "Find user or community..."
+msgstr "వినియోగదారు లేదా కమ్యూనిటీ కనుగొను ..."
+
+msgid "No item found"
+msgstr "అంశం ఏదీ దొరకలేదు"
+
+msgid "years"
+msgstr "సంవత్సరాల"
+
+msgid "Send message"
+msgstr "సందేశాన్ని పంపు"
+
+msgid "Message"
+msgstr "సందేశం"
+
+msgid "To send message press Enter"
+msgstr "సందేశం Enter నొక్కండి పంపడానికి"
+
+msgid "To send message press CTRL+Enter"
+msgstr "సందేశం ప్రెస్ CTRL పంపడానికి + ఎంటర్"
+
+msgid "Processing file(s)..."
+msgstr "ప్రోసెసింగ్ ఫైల్ (లు ) ..."
+
+msgid "Group settings"
+msgstr "గ్రూప్ సెట్టింగులు"
+
+msgid "Create group"
+msgstr "สร้างกลุ่ม"
+
+msgid "Group has been successfully saved"
+msgstr "గ్రూప్ విజయవంతంగా సేవ్ చెయ్యబడింది"
+
+msgid "Group title"
+msgstr "గ్రూప్ టైటిల్"
+
+msgid "Group video"
+msgstr "గ్రూప్ వీడియో"
+
+msgid "Description"
+msgstr "వివరణ"
+
+msgid "Your role in group"
+msgstr "సమూహం లో మీ పాత్ర"
+
+msgid "Role"
+msgstr "పాత్ర"
+
+msgid "Photo or video gallery"
+msgstr "ఫోటో లేదా వీడియో గ్యాలరీ"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "అప్లోడ్ వీడియో"
+
+msgid "Add group address"
+msgstr "సమూహం చిరునామా జోడించండి"
+
+msgid "Group articles"
+msgstr "గ్రూప్ వ్యాసాలు"
+
+msgid "No addresses yet"
+msgstr "ఇంకా లేవు చిరునామాలను"
+
+msgid "Add group achievement"
+msgstr "సమూహం సాధించిన జోడించండి"
+
+msgid "No achivements yet"
+msgstr "ఇంకా లేవు achivements"
+
+msgid "Are you sure to delete this user"
+msgstr "మీరు ఈ వినియోగదారుకు తొలగించాలనుకుంటున్నారా"
+
+msgid "Add member"
+msgstr "เพิ่ม สมาชิก"
+
+msgid "Are you sure to delete this record?"
+msgstr "మీరు ఈ రికార్డ్ తొలగించాలనుకుంటున్నారా ?"
+
+msgid "Join this group"
+msgstr "ఈ గుంపులో చేరండి"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "మీ ఆహ్వానం సమూహం నిర్వాహకుడు పంపబడింది"
+
+msgid "All addresses"
+msgstr "మొత్తం చిరునామాలు"
+
+msgid "Collapse"
+msgstr "కుదించు"
+
+msgid "Achievements"
+msgstr "విజయాలు"
+
+msgid "Show more"
+msgstr "మరిన్ని చూపించు"
+
+msgid "Team"
+msgstr "జట్టు"
+
+msgid "Projects"
+msgstr "ప్రాజెక్ట్స్"
+
+msgid "New project"
+msgstr "కొత్త ప్రాజెక్ట్"
+
+msgid "Project has not been created yet"
+msgstr "ప్రాజెక్టు ఇంకా రూపొందించినవారు చేయలేదు"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "సంతులనం"
+
+msgid "Main page"
+msgstr "ప్రధాన పేజీ"
+
+msgid "Upload image"
+msgstr "చిత్రాన్ని అప్లోడ్ చెయ్యి"
+
+msgid "My time"
+msgstr "నా సమయం"
+
+msgid "Day"
+msgstr "డే"
+
+msgid "Week"
+msgstr "వీక్"
+
+msgid "Project settings"
+msgstr "ప్రాజెక్టు సెట్టింగులను"
+
+msgid "Create project"
+msgstr "ప్రాజెక్ట్ సృష్టించు"
+
+msgid "Project has been successfully saved"
+msgstr "ప్రాజెక్ట్ విజయవంతంగా సేవ్ చెయ్యబడింది"
+
+msgid "Project name"
+msgstr "ప్రాజెక్ట్ పేరు"
+
+msgid "Deadline"
+msgstr "గడువుకు"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Manager"
+msgstr "మేనేజర్"
+
+msgid "Assigned to"
+msgstr "కు అసైన్డ్"
+
+msgid "Discussion"
+msgstr "చర్చా"
+
+msgid "Task was created"
+msgstr "టాస్క్ రూపొందించారు"
+
+msgid "Task was closed"
+msgstr "టాస్క్ ముగించడమైనది"
+
+msgid "Go to Group"
+msgstr "గ్రూప్ వెళ్ళండి"
+
+msgid "Closed"
+msgstr "ముగించబడినది"
+
+msgid "Last updates"
+msgstr "చివరి నవీకరణలు"
+
+msgid "Project is closed"
+msgstr "ప్రాజెక్టు మూసివేయబడింది"
+
+msgid "No open tasks"
+msgstr "సంఖ్య ఓపెన్ పనులు"
+
+msgid "New task"
+msgstr "కొత్త పని"
+
+msgid "Closed tasks"
+msgstr "క్లోజ్డ్ పనులు"
+
+msgid "Add subproject"
+msgstr "ఉపపధకం జోడించండి"
+
+msgid "Add task"
+msgstr "విధిని జోడించు"
+
+msgid "Sun"
+msgstr "ఆదివారం"
+
+msgid "Mon"
+msgstr "సోమవారం"
+
+msgid "Tue"
+msgstr "మంగళవారం"
+
+msgid "Wed"
+msgstr "బుధవారం"
+
+msgid "Thur"
+msgstr "గురువారం"
+
+msgid "Fri"
+msgstr "శుక్రవారం"
+
+msgid "Sat"
+msgstr "శనివారం"
+
+msgid "Event title"
+msgstr "ఈవెంట్ శీర్షిక"
+
+msgid "Event description"
+msgstr "ఈవెంట్ వివరణ"
+
+msgid "I registered on this site"
+msgstr "నేను ఈ సైట్ న నమోదు"
+
+msgid "Last created groups"
+msgstr "చివరి రూపొందించబడిన సమూహాల"
+
+msgid "You joined this group as"
+msgstr "మీరు ఈ గుంపు చేరారు"
+
+msgid "You received a request to join the group"
+msgstr "మీరు గుంపు చేరడానికి ఒక అభ్యర్థన అందింది"
+
+msgid "Updated site"
+msgstr "Updated సైట్"
+
+msgid "Site is under construction"
+msgstr "సైట్ నిర్మాణంలో ఉంది"
+
+msgid "Last registered users"
+msgstr "చివరి నమోదిత వినియోగదారులు"
+
+msgid "User settings"
+msgstr "యూజర్ సెట్టింగులను"
+
+msgid "Technical support"
+msgstr "సాంకేతిక మద్దతు"
+
+msgid "Change email"
+msgstr "ఇమెయిల్ మార్చు"
+
+msgid "Change password"
+msgstr "పాస్ వర్డ్ ను మార్చండి"
+
+msgid "User has been successfully saved"
+msgstr "వినియోగదారు విజయవంతంగా సేవ్ చెయ్యబడింది"
+
+msgid "Full name"
+msgstr "పూర్తి పేరు"
+
+msgid "My video"
+msgstr "నా వీడియో"
+
+msgid "Skills"
+msgstr "నైపుణ్యాలు"
+
+msgid "Birthday"
+msgstr "పుట్టినరోజు"
+
+msgid "Country of residence"
+msgstr "నివసిస్తున్న దేశం"
+
+msgid "Country"
+msgstr "దేశం"
+
+msgid "Zip Code"
+msgstr "పిన్ కోడ్"
+
+msgid "City/town of residence"
+msgstr "నివాస నగరం / పట్టణం"
+
+msgid "University/college"
+msgstr "విశ్వవిద్యాలయ / కళాశాల"
+
+msgid "University/college photo"
+msgstr "విశ్వవిద్యాలయ / కళాశాల ఫోటో"
+
+msgid "Add user\'s accomplishments"
+msgstr "యూజర్ యొక్క విజయాల జోడించండి"
+
+msgid "Interface language"
+msgstr "ఇంటర్ఫేస్ భాష"
+
+msgid "How other people see this page"
+msgstr "ఎలా ఇతర వ్యక్తులు ఈ పేజీ చూడండి"
+
+msgid "Video with me"
+msgstr "నాతో వీడియో"
+
+msgid "Groups"
+msgstr "గుంపులు"
+
+msgid "Registered today"
+msgstr "నమోదైనది నేడు"
+
+msgid "Qty"
+msgstr "ప్యాక్ చేసిన అంశాల"
+
+msgid "No registered users yet"
+msgstr "ఇంకా ఏ నమోదిత వినియోగదారులు"
+
+msgid "Total"
+msgstr "మొత్తం"
+
+msgid "Registered total"
+msgstr "నమోదైనది మొత్తం"
+
+msgid "You received a file"
+msgstr "మీరు ఒక ఫైల్ పొందింది"
+
+msgid "You were invited into this room"
+msgstr "మీరు ఈ గదిలోకి ఆహ్వానించారు"
+
+msgid "Request is being processed"
+msgstr "అభ్యర్థన ప్రాసెస్ చేయబడుతోంది"
+
+msgid "Fax"
+msgstr "ఫ్యాక్స్"
+
+msgid "Messenger"
+msgstr "Messenger"
+
+msgid "New subproject"
+msgstr "న్యూ ఉపపధకం"
+
+msgid "messages written."
+msgstr "సందేశాలను వ్రాసిన."
+
+msgid "projects created based on groups."
+msgstr "ప్రాజెక్టులు సమూహాల ఆధారంగా రూపొందించినవారు."
+
+msgid "users registered on website."
+msgstr "వినియోగదారులు వెబ్సైట్లో నమోదు."
+
+msgid "New email"
+msgstr "కొత్త ఇమెయిల్"
+
+msgid "Confirm email"
+msgstr "ఇమెయిల్ నిర్ధారించండి"
+
+msgid "New password"
+msgstr "కొత్త సంకేతపదం"
+
+msgid "Confirm password"
+msgstr "పాస్వర్డ్ని నిర్ధారించండి"
+
+msgid "Occupation"
+msgstr "స్పెషాలిటీ"
+
+msgid "Timezone"
+msgstr "టైమ్ జోన్"
+
+msgid "Answer"
+msgstr "జవాబు"
+
+msgid "Articles"
+msgstr "వ్యాసాలు"
+
+msgid "Article"
+msgstr "వ్యాసం"
+
+msgid "Video-article"
+msgstr "వీడియో వ్యాసం"
+
+msgid "Find article..."
+msgstr "వ్యాసం కనుగొను ..."
+
+msgid "Politics"
+msgstr "రాజకీయాలు"
+
+msgid "Economics"
+msgstr "ఎకనామిక్స్"
+
+msgid "Community"
+msgstr "కమ్యూనిటీ"
+
+msgid "Culture"
+msgstr "సంస్కృతి"
+
+msgid "Sports"
+msgstr "క్రీడలు"
+
+msgid "Hi-tech"
+msgstr "హైటెక్"
+
+msgid "Cars"
+msgstr "కార్లు"
+
+msgid "Fashion"
+msgstr "ఫ్యాషన్"
+
+msgid "Games"
+msgstr "ఆటలు"
+
+msgid "Other"
+msgstr "ఇతర"
+
+msgid "Invalid mediafile"
+msgstr "చెల్లని mediafile"
+
+msgid "No articles in this category yet"
+msgstr "ఇంకా ఈ కేటగిరిలో కథనాలు ఏవీ"
+
+msgid "Back to profile"
+msgstr "తిరిగి వెళ్ళు"
+
+msgid "View article"
+msgstr "చూడండి వ్యాసం"
+
+msgid "Edit article"
+msgstr "ఎడిట్ వ్యాసం"
+
+msgid "Create article"
+msgstr "వ్యాసం సృష్టించు"
+
+msgid "Article title"
+msgstr "కథనం టైటిల్"
+
+msgid "Article section"
+msgstr "వ్యాసం విభాగం"
+
+msgid "Choose image"
+msgstr "చిత్రాన్ని ఎంచుకోండి"
+
+msgid "Save and upload"
+msgstr "సేవ్ మరియు అప్లోడ్"
+
+msgid "Show more..."
+msgstr "ఇంకా చూపించు..."
+
+msgid "Create"
+msgstr "సృష్టించు"
+
+msgid "Edit"
+msgstr "మార్చు"
+
+msgid "Project"
+msgstr "ప్రాజెక్టు"
+
+msgid "Team"
+msgstr "టీమ్"
+
+msgid "A new article was published"
+msgstr "ఒక కొత్త వ్యాసం ప్రచురించబడింది"
+
+msgid "You joined this project"
+msgstr "మీరు ఈ ప్రాజెక్టును చేపట్టాడు"
+
+msgid "Enter your information in the User settings"
+msgstr "యూజర్ సెట్టింగులను మీ సమాచారాన్ని నమోదు"
+
+msgid "Communities"
+msgstr "కమ్యూనిటీలు"
+
+msgid "Video presentation of my accomplishments"
+msgstr "నా విజయాల యొక్క వీడియో ప్రదర్శన"
+
+msgid "My articles"
+msgstr "నా వ్యాసాలు"
+
+msgid "User"
+msgstr "వాడుకరి"
+
+msgid "Users"
+msgstr "వినియోగదారులు"
+
+msgid "Add new list"
+msgstr "కొత్త జాబితాను జోడించండి"
+
+msgid "List title"
+msgstr "జాబితా టైటిల్"
+
+msgid "Add"
+msgstr "చేర్చు"
+
+msgid "Add to favorites"
+msgstr "ఇష్టమైన జోడించండి"
+
+msgid "Delete from favorites"
+msgstr "ఇష్టమైన నుండి తొలగించు"
+
+msgid "Select list"
+msgstr "ఎంపిక జాబితా"
+
+msgid "Subscriptions"
+msgstr "చందాలు"
+
+msgid "Subscribe"
+msgstr "సబ్స్క్రయిబ్"
+
+msgid "Unsubscribe"
+msgstr "చందా రద్దుచేసే"
+
+msgid "General list"
+msgstr "సాధారణ జాబితా"
+
+msgid "No users in this list"
+msgstr "ఈ జాబితాలో వినియోగదారులు లేరు"
+
+msgid "Publish"
+msgstr "ప్రచురించు"
+
+msgid "Unpublish"
+msgstr "ప్రచురణను తీసివెయ్యి"
+
+msgid "Add user"
+msgstr "వినియోగదారుని జోడించు"
+
+msgid "Create document"
+msgstr "పత్రం సృష్టించు"
+
+msgid "Edit document"
+msgstr "ఎడిట్ పత్రం"
+
+msgid "View"
+msgstr "చూడండి"
+
+msgid "Document title"
+msgstr "పత్రం శీర్షిక"
+
+msgid "Find document..."
+msgstr "పత్రం కనుగొను ..."
+
+msgid "Share your thoughts"
+msgstr "మీ ఆలోచనలను పంచుకోండి"
+
+msgid "Leave your comment"
+msgstr "உங்கள் கருத்துரை"
+
+msgid "Accept"
+msgstr "అంగీకరించు"
+
+msgid "Decline"
+msgstr "డిక్లైన్"
+
+msgid "Add article"
+msgstr "వ్యాసం జోడించండి"
+
+msgid "Link to verified accomplishments"
+msgstr "తనిఖీ విజయాల లింక్"
+
+msgid "No articles here yet..."
+msgstr "ఇంకా ఇక్కడ కథనాలు ఏవీ"
+
+msgid "Find file or folder..."
+msgstr "ఫైల్ లేదా ఫోల్డర్ కనుగొను ..."
+
+msgid "Sort"
+msgstr "క్రమీకరించు"
+
+msgid "By name"
+msgstr "పేరు ద్వారా"
+
+msgid "By date"
+msgstr "తేదీ ద్వారా"
+
+msgid "By updated date"
+msgstr "నవీకరించబడింది తేదీ ద్వారా"
+
+msgid "By size"
+msgstr "పరిమాణం ద్వారా"
+
+msgid "By type"
+msgstr "రకం ద్వారా"
+
+msgid "Move"
+msgstr "తరలించు"
+
+msgid "File Manager"
+msgstr "ఫైల్ మేనేజర్"
+
+msgid "Share link"
+msgstr "వాటా లింక్"
+
+msgid "Responsible"
+msgstr "బాధ్యత"
+
+msgid "Performer"
+msgstr "పెర్ఫార్మర్"
+
+msgid "New Folder"
+msgstr "కొత్త అమరిక"
+
+msgid "Folder name"
+msgstr "ఫోల్డర్ పేరు"
+
+msgid "By default"
+msgstr "అప్రమేయంగా"
+
+msgid "Back to group"
+msgstr "గుంపుకి వెనక్కి"
+
+msgid "year(s)"
+msgstr "సంవత్సరం (లు)"
+
+msgid "January"
+msgstr "జనవరి"
+
+msgid "February"
+msgstr "ఫిబ్రవరి"
+
+msgid "March"
+msgstr "మార్చి"
+
+msgid "April"
+msgstr "ఏప్రిల్"
+
+msgid "May"
+msgstr "మే"
+
+msgid "June"
+msgstr "జూన్"
+
+msgid "July"
+msgstr "జూలై"
+
+msgid "August"
+msgstr "ఆగస్టు"
+
+msgid "September"
+msgstr "సెప్టెంబర్"
+
+msgid "October"
+msgstr "అక్టోబర్"
+
+msgid "November"
+msgstr "నవంబర్"
+
+msgid "December"
+msgstr "డిసెంబర్"
+
+msgid "Password Reminder"
+msgstr "పాస్వర్డ్ రిమైండర్"
+
+msgid "Log In"
+msgstr "లాగిన్"
+
+msgid "Sign in"
+msgstr "సైన్ ఇన్"
+
+msgid "Register"
+msgstr "నమోదు"
+
+msgid "First name"
+msgstr "మొదటి పేరు"
+
+msgid "Last name"
+msgstr "చివరి పేరు"
+
+msgid "I agree with rules"
+msgstr "నేను నిబంధనలను అంగీకరిస్తున్నారు"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "ఒక నిర్ధారణ మెయిల్ మీ ఇమెయిల్ చిరునామాకు పంపబడింది."
+
+msgid "Thanks"
+msgstr "ధన్యవాదాలు"
+
+msgid "Password must be at least 6 characters"
+msgstr "పాస్వర్డ్ కనీసం 6 అక్షరాల పొడవు ఉండాలి"
+
+msgid "Creative Environment"
+msgstr "క్రియేటివ్ ఎన్విరాన్మెంట్"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "మీరు ఈ సేవను ఉపయోగించడానికి వయసు కనీసం పదమూడు సంవత్సరాలు వయసు ఉండాలి"
+
+msgid "Order status"
+msgstr "ఆర్డర్ స్థితి"
+
+msgid "Processing order"
+msgstr "క్రమం"
+
+msgid "Requires a payment"
+msgstr "ఒక చెల్లింపు అవసరం"
+
+msgid "Shipping"
+msgstr "షిప్పింగ్"
+
+msgid "Ready"
+msgstr "రెడీ"
+
+msgid "Thank you for your payment"
+msgstr "మీ చెల్లింపు ధన్యవాదాలు"
+
+msgid "Your payment has been cancelled"
+msgstr "మీ చెల్లింపు రద్దు చేయబడింది"
+
+msgid "page"
+msgstr "పేజీ"
+
+msgid "Rent period"
+msgstr "రెంట్ కాలం"
+
+msgid "Total, month"
+msgstr "మొత్తం, నెల"
+
+msgid "Order items"
+msgstr "ఆర్డర్ అంశాలను"
+
+msgid "No records found"
+msgstr "రికార్డులేవీ దొరకలేదు"
+
+msgid "User with this email is already exist"
+msgstr "ఈ ఈమెయిల్ వాడుకరి ఇప్పటికే ఉనికిలో ఉంది"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "అటువంటి పేరుతో ఫోల్డర్ లేదా ఫైల్ ఇప్పటికే గమ్యం ఫోల్డర్ లో ఉనికిలో ఉంది"
+
+msgid "Minimal quantity"
+msgstr "కనీసపు పరిమాణం"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "ముద్రణ కాపీలు"
+
+msgid "Terms of Use"
+msgstr "ఉపయోగ నిబంధనలు"
+
+msgid "Privacy Policy"
+msgstr "గోప్యతా విధానం"
+
+msgid "Find project..."
+msgstr "ప్రాజెక్ట్ కనుగొను ..."
+
+msgid "New Project"
+msgstr "న్యూ ప్రాజెక్ట్"
+
+msgid "Accounts"
+msgstr "అకౌంట్స్"
+
+msgid "Operations"
+msgstr "ఆపరేషన్స్"
+
+msgid "All accounts"
+msgstr "అన్ని ఖాతాలు"
+
+msgid "All categories"
+msgstr "అన్ని కెటగిరీలు"
+
+msgid "Expense"
+msgstr "ఖర్చుల"
+
+msgid "Income"
+msgstr "ఆదాయపు"
+
+msgid "Transfer"
+msgstr "ట్రాన్స్ఫర్"
+
+msgid "Expense"
+msgstr "ఖర్చుల"
+
+msgid "income"
+msgstr "ఆదాయం"
+
+msgid "tax"
+msgstr "పన్ను"
+
+msgid "percent"
+msgstr "శాతం"
+
+msgid "transfer"
+msgstr "బదిలీ"
+
+msgid "Make operation"
+msgstr "ఆపరేషన్ చేయడానికి"
+
+msgid "Select date"
+msgstr "ఎంపిక తేదీ"
+
+msgid "Select account"
+msgstr "Select ఖాతా"
+
+msgid "Month"
+msgstr "నెల"
+
+msgid "Quarter"
+msgstr "క్వార్టర్"
+
+msgid "Year"
+msgstr "ఇయర్"
+
+msgid "From"
+msgstr "నుండి"
+
+msgid "To"
+msgstr "కు"
+
+msgid "Expense amount"
+msgstr "ఖర్చుల మొత్తం"
+
+msgid "Categories"
+msgstr "వర్గం"
+
+msgid "Comments"
+msgstr "వ్యాఖ్యలు"
+
+msgid "Income amount"
+msgstr "ఆదాయపు మొత్తం"
+
+msgid "Transfer amount"
+msgstr "ట్రాన్స్ఫర్ మొత్తం"
+
+msgid "From account"
+msgstr "ఖాతా నుండి"
+
+msgid "To account"
+msgstr "వహించుటకు"
+
+msgid "New Account"
+msgstr "కొత్త ఖాతా"
+
+msgid "New Category"
+msgstr "న్యూ వర్గం"
+
+msgid "All"
+msgstr "అన్ని"
+
+msgid "Name"
+msgstr "పేరు"
+
+msgid "Enter category name"
+msgstr "వర్గం పేరు నమోదు"
+
+msgid "Select type"
+msgstr "ఎంచుకోండి రకం"
+
+msgid "Credit card"
+msgstr "క్రెడిట్ కార్డు"
+
+msgid "Debit card"
+msgstr "డెబిట్ కార్డు"
+
+msgid "Bank account"
+msgstr "బ్యాంకు ఖాతా"
+
+msgid "Cash"
+msgstr "క్యాష్"
+
+msgid "Balance is empty"
+msgstr "సంతులనం ఖాళీగా ఉంది"
+
+msgid "Statistic is empty"
+msgstr "గణాంకాలు ఖాళీగా ఉంది"
+
+msgid "Regular payments"
+msgstr "రెగ్యులర్ చెల్లింపులు"
+
+msgid "Are you sure ?"
+msgstr "మీరు చెప్పేది నిజమా ?"
+
+msgid "Are you sure to close this project?"
+msgstr "మీరు ఈ ప్రాజెక్ట్ మూసి నిశ్చయించుకున్నారా?"
+
+msgid "Project was deleted successfully"
+msgstr "ప్రాజెక్ట్ విజయవంతంగా తొలగించబడింది"
+
+msgid "Select currency"
+msgstr "Select కరెన్సీ"
+
+msgid "Account"
+msgstr "ఖాతా"
+
+msgid "Orders list"
+msgstr "ఆర్డర్స్ జాబితా"
+
+msgid "Order payments"
+msgstr "ఆర్డర్ చెల్లింపులు"
+
+msgid "View order"
+msgstr "ఆర్డర్ చూడండి"
+
+msgid "No response from Printer API"
+msgstr "ప్రింటర్ API నుండి ఎటువంటి స్పందన"
+
+msgid "Bad response from Printer API"
+msgstr "ప్రింటర్ API నుండి తప్పుడు ప్రతిస్పందన"
+
+msgid "User ID"
+msgstr "వినియోగదారుని గుర్తింపు"
+
+msgid "Contact Person"
+msgstr "పర్సన్ సంప్రదించండి"
+
+msgid "No orders to process"
+msgstr "ఏ ఆర్డర్లు ప్రాసెస్"
+
+msgid "Article announce image"
+msgstr "వ్యాసం చిత్రం ప్రకటించిన"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "చెల్లని వీడియో URL. ఖాళీ వదిలి లేదా చెల్లని YouTube url ఇన్సర్ట్"
+
+msgid "Please, enter Contractor data"
+msgstr ", కాంట్రాక్టర్ డేటా నమోదు చేయండి"
+
+msgid "Distribute devices"
+msgstr "పరికరాల పంపిణీ"
+
+msgid "Quantity"
+msgstr "పరిమాణం"
+
+msgid "Devices left"
+msgstr "పరికరాల వదిలి"
+
+msgid "Distributed devices"
+msgstr "డిస్ట్రిబ్యూటెడ్ పరికరాలు"
+
+msgid "You must enter quantity"
+msgstr "మీరు పరిమాణం నమోదు చేయాలి"
+
+msgid "All devices are distributed"
+msgstr "అన్ని పరికరాల పంపిణీ చేస్తారు"
+
+msgid "IP address"
+msgstr "IP చిరునామా"
+
+msgid "Only for printer"
+msgstr "మాత్రమే ప్రింటర్ కోసం"
+
+msgid "Counter"
+msgstr "కౌంటర్"
+
+msgid "You was excluded from this room"
+msgstr "మీరు ఈ గది నుంచి మినహాయించాలి"
+
+msgid "Compare"
+msgstr "పోల్చండి"
+
+msgid "Scheduled transaction"
+msgstr "షెడ్యూల్డ్ లావాదేవీ"
+
+msgid "Select transfer account"
+msgstr "Select బదిలీ ఖాతా"
+
+msgid "Select income account"
+msgstr "Select ఆదాయం ఖాతా"
+
+msgid "Reports"
+msgstr "నివేదికలు"
+
+msgid "Goals"
+msgstr "లక్ష్యాలు"
+
+msgid "Budgets"
+msgstr "బడ్జెట్ల"
+
+msgid "Enter user name or email..."
+msgstr "వినియోగదారు పేరు లేదా ఇమెయిల్ ఎంటర్ ..."
+
+msgid "Invite had been sended"
+msgstr "Sended జరిగింది ఆహ్వానించండి"
+
+msgid "Statistics"
+msgstr "గణాంకాలు"
+
+msgid "Updated site began to work"
+msgstr "Updated సైట్ పని ప్రారంభమైంది"
+
+msgid "City of residence"
+msgstr "నివాస సిటీ"
+
+msgid "Edit favourites list"
+msgstr "ఎడిట్ ఇష్టాలు జాబితాకు"
+
+msgid "Add favourites list"
+msgstr "ఇష్టమైన జాబితాను జోడించండి"
+
+msgid "Categories is required"
+msgstr "వర్గం అవసరం"
+
+msgid "Type new category name and hit Enter"
+msgstr "కొత్త వర్గం పేరును టైప్ చేసి Enter నొక్కండి"
+
+msgid "You created an order"
+msgstr "మీరు ఒక ఆర్డర్ రూపొందించినవారు"
+
+msgid "You received a device due to this order"
+msgstr "మీరు కారణంగా ఈ క్రమంలో ఒక పరికరం అందుకుంది"
+
+msgid "%s attached %s to task %s"
+msgstr "%s జత %s %s కర్తవ్యమునకు"
+
+msgid "member(s)"
+msgstr "సభ్యుడు ( లు)"
+
+msgid "%s commented task %s"
+msgstr "%s వ్యాఖ్యానించారు పని %s"
+
+msgid "%s closed task %s"
+msgstr "%s క్లోజ్డ్ పని %s"
+
+msgid "%s created task %s"
+msgstr "%s రూపొందించినవారు పని %s"
+
+msgid "%s created this project"
+msgstr "%s ఈ ప్రాజెక్టు రూపొందించినవారు"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s రూపొందించినవారు ఉపపధకం \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s క్లోజ్డ్ ప్రాజెక్ట్ \" %s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s క్లోజ్డ్ ఉపపధకం \"%s\""
+
+msgid "This field must not be blank"
+msgstr "ఈ ఫీల్డ్ ఖాళీగా ఉండకూడదు"
+
+msgid "Document with such name is already exist"
+msgstr "అటువంటి పేరుతో డాక్యుమెంట్ ఇప్పటికే ఉనికిలో ఉంది"
+
+msgid "Wait until image upload"
+msgstr "చిత్రం అప్లోడ్ వరకు వేచి"
+
+msgid "Video"
+msgstr "వీడియో"
+
+msgid "Message can not be empty"
+msgstr "సందేశం ఖాళీగా ఉండకూడదు"
+
+msgid "Yes"
+msgstr "అవును"
+
+msgid "No"
+msgstr "ఏ"
+
+msgid "Created"
+msgstr "రూపొందించబడింది"
+
+msgid "Compare is empty"
+msgstr "ఖాళీగా ఉంది సరిపోల్చండి"
+
+msgid "Are you sure you want to delete operation"
+msgstr "మీరు ఆపరేషన్ తొలగించడానికి నిశ్చయించుకున్నారా"
+
+msgid "Do you really want to delete transaction"
+msgstr "మీరు నిజంగా లావాదేవీ తొలగించడానికి అనుకుంటున్నారా"
+
+msgid "Project with same name already exists"
+msgstr "అదే పేరుతో ప్రాజెక్ట్ ఇప్పటికే ఉంది"
+
+msgid "Account is not found"
+msgstr "ఖాతా దొరకలేదు"
+
+msgid "Currency is required"
+msgstr "కరెన్సీ అవసరం"
+
+msgid "error while deleting document"
+msgstr "లోపం పత్రం తొలగించేటప్పుడు"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "మీరు ఈ గదిలో వినియోగదారు \" %s \" ఆహ్వానించారు"
+
+msgid "User \"%s\" joined this room"
+msgstr "వాడుకరి \" %s\" ఈ గదిలో చేరారు"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "మీరు ఈ గది నుండి వినియోగదారు \" %s\" మినహాయించాలి"
+
+msgid "User \"%s\" left this room"
+msgstr "వాడుకరి \" %s \" ఈ గది వదిలి"
+
+msgid "Add account"
+msgstr "ఖాతా జోడించండి"
+
+msgid "The requested page is not found"
+msgstr "అభ్యర్థించిన పేజీ కనుగొనబడలేదు"
+
+msgid "Document"
+msgstr "డాక్యుమెంట్"
+
+msgid "Table"
+msgstr "టేబుల్"
+
+msgid "file(s)"
+msgstr "ఫైల్ ( లు)"
+
+msgid "Residue"
+msgstr "శేషాల"
+
+msgid "Result is empty"
+msgstr "ఫలితం ఖాళీగా ఉంది"
+
+msgid "The total amount is %s for %s mo"
+msgstr "మొత్తం %s మో కోసం%s ఉంది"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "మీరు సంబంధిత ఖాతాకు %s నెలవారీ జమ కలిగి"
+
+msgid "Start"
+msgstr "ప్రారంభం"
+
+msgid "finish"
+msgstr "ముగింపు"
+
+msgid "Selected account is already in use for another goal"
+msgstr "ఎంచుకున్న ఖాతా మరొక గోల్ కోసం ఇప్పటికే వినియోగంలో ఉంది"
+
+msgid "Amount required"
+msgstr "మొత్తం అవసరం"
+
+msgid "New goal"
+msgstr "కొత్త గోల్"
+
+msgid "Goal"
+msgstr "గోల్"
+
+msgid "Goal name"
+msgstr "గోల్ పేరు"
+
+msgid "Invalid date"
+msgstr "చెల్లని తేదీ"
+
+msgid "Necessary sum must be a positive number"
+msgstr "అవసరమైన మొత్తం సానుకూల నంబర్ ఉండాలి"
+
+msgid "Remain"
+msgstr "ఉంటాయి"
+
+msgid "Last day"
+msgstr "ఆఖరి రోజు"
+
+msgid "Accumulated"
+msgstr "పోగుచేసిన"
+
+msgid "Put aside"
+msgstr "పక్కన పెట్టు"
+
+msgid "January"
+msgstr "జనవరి"
+
+msgid "February"
+msgstr "ఫిబ్రవరి"
+
+msgid "March"
+msgstr "మార్చి"
+
+msgid "April"
+msgstr "ఏప్రిల్"
+
+msgid "May"
+msgstr "మే"
+
+msgid "June"
+msgstr "జూన్"
+
+msgid "July"
+msgstr "జూలై"
+
+msgid "August"
+msgstr "ఆగస్టు"
+
+msgid "September"
+msgstr "సెప్టెంబర్"
+
+msgid "October"
+msgstr "అక్టోబర్"
+
+msgid "November"
+msgstr "నవంబర్"
+
+msgid "December"
+msgstr "డిసెంబర్"
+
+msgid "Expenses projected/actual"
+msgstr "అంచనా / ఖర్చులు"
+
+msgid "Net Income projected/actual"
+msgstr "నికర ఆదాయం / వాస్తవ అంచనా"
+
+msgid "New budget"
+msgstr "కొత్త బడ్జెట్"
+
+msgid "Revenue and Expenses Chart"
+msgstr "రెవెన్యూ మరియు ఖర్చులు చార్ట్"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "అదే ఖాతా జత మరియు వర్గంతో బడ్జెట్ ఇప్పటికే ఉంది"
+
+msgid "Budget is empty"
+msgstr "బడ్జెట్ ఖాళీగా ఉంది"
+
+msgid "Budget"
+msgstr "బడ్జెట్"
+
+msgid "plan"
+msgstr "ప్రణాళిక"
+
+msgid "fact"
+msgstr "నిజానికి"
+
+msgid "diff"
+msgstr "తేడాలు"
+
+msgid "Show More"
+msgstr "ఇంకా చూపించు"
+
+msgid "Cancel"
+msgstr "రద్దు"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "నా అమ్మకాలు"
+
+msgid "Time spent"
+msgstr "సమయం గడిపాడు"
+
+msgid "Total time spent"
+msgstr "మొత్తం సమయం గడిపాడు"
+
+msgid "Earnings per hour"
+msgstr "గంటకు సంపాదన"
+
+msgid "Total earnings"
+msgstr "మొత్తం ఆదాయాలు"
+
+msgid "Call"
+msgstr "కాల్"
+
+msgid "Phone call"
+msgstr "ఫోన్ కాల్"
+
+msgid "Telephone calls"
+msgstr "టెలిఫోన్ కాల్స్"
+
+msgid "Send email"
+msgstr "ఇమెయిల్ పంపండి"
+
+msgid "Emails"
+msgstr "ఇమెయిళ్ళు"
+
+msgid "Meeting"
+msgstr "సమావేశం"
+
+msgid "Meetings"
+msgstr "సమావేశాలు"
+
+msgid "All events"
+msgstr "అన్ని ఈవెంట్స్"
+
+msgid "Task"
+msgstr "టాస్క్"
+
+msgid "Event"
+msgstr "ఈవెంట్"
+
+msgid "Events"
+msgstr "ఈవెంట్స్"
+
+msgid "Time"
+msgstr "సమయం"
+
+msgid "Events statistics"
+msgstr "ఈవెంట్స్ గణాంకాలు"
+
+msgid "days"
+msgstr "రోజులు"
+
+msgid "hours"
+msgstr "గంటల"
+
+msgid "minutes"
+msgstr "నిమిషాలు"
+
+msgid "Income & expense"
+msgstr "ఆదాయం & వ్యయం"
+
+msgid "Show chart"
+msgstr "షో చార్ట్"
+
+msgid "Hide chart"
+msgstr "దాచు చార్ట్"
+
+msgid "Add event"
+msgstr "ఈవెంట్ జోడించు"
+
+msgid "Add financial data"
+msgstr "ఆర్థిక డేటా జోడించండి"
+
+msgid "Select contractor"
+msgstr "Select కాంట్రాక్టర్"
+
+msgid "Net Income"
+msgstr "నికర ఆదాయం"
+
+msgid "Revenue"
+msgstr "రెవెన్యూ"
+
+msgid "Taxes"
+msgstr "పన్నులు"
+
+msgid "Amount planned"
+msgstr "మొత్తం ప్రణాళిక"
+
+msgid "Amount"
+msgstr "మొత్తం"
+
+msgid "Period"
+msgstr "కాలం"
+
+msgid "Are you sure to close this task?"
+msgstr "మీరు ఈ పని మూసి నిశ్చయించుకున్నారా?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "అన్ని గుంపులు"
+
+msgid "added from task"
+msgstr "పని చేర్చివుంవచ్చు"
+
+msgid "Monthly repeat"
+msgstr "నెలసరి రిపీట్"
+
+msgid "Select category"
+msgstr "వర్గాన్ని ఎంచుకోండి"
+
+msgid "Event type"
+msgstr "ఈవెంట్ రకం"
+
+msgid "Margin"
+msgstr "మార్జిన్"
+
+msgid "Use finance project"
+msgstr "ఫైనాన్స్ ప్రాజెక్ట్ ఉపయోగించండి"
+
+msgid "New investment project"
+msgstr "న్యూ పెట్టుబడి ప్రాజెక్టు"
+
+msgid "Investment project settings"
+msgstr "ఇన్వెస్ట్మెంట్ ప్రాజెక్టు సెట్టింగులను"
+
+msgid "Picture, for the announcement project"
+msgstr "ప్రకటన ప్రాజెక్ట్ కోసం చిత్రం,"
+
+msgid "Announcement project"
+msgstr "ప్రకటన ప్రాజెక్ట్"
+
+msgid "Video"
+msgstr "వీడియో"
+
+msgid "Photos or videos gallery"
+msgstr "ఫోటోలు లేదా వీడియోలను గ్యాలరీ"
+
+msgid "required amount"
+msgstr "అవసరమైన మొత్తం"
+
+msgid "Project duration (60 days maximum)"
+msgstr "ప్రాజెక్టు వ్యవధి ( 60 రోజుల గరిష్ట)"
+
+msgid "Project duration"
+msgstr "ప్రాజెక్టు వ్యవధి"
+
+msgid "Add reward"
+msgstr "బహుమతి జోడించండి"
+
+msgid "Delivery date"
+msgstr "డెలివరీ తేదీ"
+
+msgid "Payment systems"
+msgstr "చెల్లింపు వ్యవస్థలను"
+
+msgid "Terms of service"
+msgstr "సేవా నిబంధనలు"
+
+msgid "Agreement"
+msgstr "ఒప్పందం"
+
+msgid "Payment"
+msgstr "చెల్లింపు"
+
+msgid "My projects"
+msgstr "నా ప్రాజెక్టులు"
+
+msgid "Search result"
+msgstr "శోధన ఫలితం"
+
+msgid "Nothing not found"
+msgstr "ఏమీ దొరకలేదు"
+
+msgid "The project has no sponsors"
+msgstr "ప్రాజెక్టు సంఖ్య స్పాన్సర్లు ఉంది"
+
+msgid "Design"
+msgstr "రూపకల్పన"
+
+msgid "Food"
+msgstr "ఆహార"
+
+msgid "Journalism"
+msgstr "జర్నలిజం"
+
+msgid "Games"
+msgstr "ఆటలు"
+
+msgid "Art"
+msgstr "ఆర్ట్"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "సంగీతం"
+
+msgid "Handicrafts"
+msgstr "హస్తకళలు"
+
+msgid "Publishing"
+msgstr "ప్రచురణ"
+
+msgid "Theater"
+msgstr "ధియేటర్"
+
+msgid "Technology"
+msgstr "టెక్నాలజీ"
+
+msgid "Film/Video"
+msgstr "చిత్ర / వీడియో"
+
+msgid "Photo"
+msgstr "ఫోటో"
+
+msgid "Dance"
+msgstr "డాన్స్"
+
+msgid "Invalid youtube video"
+msgstr "చెల్లని YouTube వీడియో"
+
+msgid "is required"
+msgstr "అవసరం"
+
+msgid "User"
+msgstr "వాడుకరి"
+
+msgid "Date"
+msgstr "తేదీ"
+
+msgid "Collected"
+msgstr "కలెక్టెడ్"
+
+msgid "Choose period"
+msgstr "కాలం ఎంచుకోండి"
+
+msgid "Choose region"
+msgstr "ప్రాంతాన్ని ఎంచుకోండి"
+
+msgid "Country"
+msgstr "దేశం"
+
+msgid "Today"
+msgstr "నేడు"
+
+msgid "Week"
+msgstr "వీక్"
+
+msgid "Month"
+msgstr "నెల"
+
+msgid "Year"
+msgstr "ఇయర్"
+
+msgid "Free registration"
+msgstr "ఉచిత రిజిస్ట్రేషన్"
+
+msgid "Join"
+msgstr "చేరండి"
+
+msgid "Log in using"
+msgstr "ఉపయోగించి ప్రవేశించండి"
+
+msgid "Vacancies"
+msgstr "ఉపాధి అవకాశాలు"
+
+msgid "About Us"
+msgstr "మా గురించి"
+
+msgid "You will need email to log in"
+msgstr "మీరు లాగిన్ ఇమెయిల్ అవసరం"
+
+msgid "A combination of 6 digits and characters"
+msgstr "6 అంకెలు మరియు అక్షరాల యొక్క కలయిక"
+
+msgid "Search users, groups, articles..."
+msgstr "శోధన వినియోగదారులను , సమూహాలు, కథనాలు ..."
+
+msgid "Cloud"
+msgstr "క్లౌడ్"
+
+msgid "Sunday"
+msgstr "ఆదివారం"
+
+msgid "Monday"
+msgstr "సోమవారం"
+
+msgid "Tuesday"
+msgstr "మంగళవారం"
+
+msgid "Wednesday"
+msgstr "బుధవారం"
+
+msgid "Thursday"
+msgstr "గురువారం"
+
+msgid "Friday"
+msgstr "శుక్రవారం"
+
+msgid "Saturday"
+msgstr "శనివారం"
+
+msgid "Edit"
+msgstr "మార్చు"
+
+msgid "Create group"
+msgstr "గుంపును సృష్టించు"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "మీరు ఈ పేజీని వదిలేయాలనుకుంటున్నారా మీరు భావిస్తున్నారా?"
+
+msgid "More"
+msgstr "మరిన్ని"
+
+msgid "Less"
+msgstr "తక్కువ"
+
+msgid "Pending"
+msgstr "పెండింగ్"
+
+msgid "Approved"
+msgstr "ఆమోదించబడింది"
+
+msgid "Rejected"
+msgstr "తిరస్కరించబడిన"
+
+msgid "Subprojects"
+msgstr "subprojects"
+
+msgid "Group edit"
+msgstr "గ్రూప్ మార్చు"
+
+msgid "Startup"
+msgstr "మొదలుపెట్టు"
+
+msgid "Tattoo"
+msgstr "టాటూ"
+
+msgid "Health"
+msgstr "ఆరోగ్యం"
+
+msgid "Weapon"
+msgstr "వెపన్"
+
+msgid "Astronomy"
+msgstr "ఖగోళ శాస్త్రం"
+
+msgid "All articles"
+msgstr "అన్ని ఆర్టికల్స్"
+
+msgid "Article editor"
+msgstr "వ్యాసం ఎడిటర్"
+
+msgid "Document editor"
+msgstr "డాక్యుమెంట్ ఎడిటర్"
+
+msgid "Apply changes"
+msgstr "మార్పులను వర్తించు"
+
+msgid "Save changes?"
+msgstr "మార్పులను ఊంచు?"
+
+msgid "published an article"
+msgstr "ఒక కథనాన్ని ప్రచురించింది"
+
+msgid "Users"
+msgstr "వినియోగదారులు"
+
+msgid "Shared With Me"
+msgstr "నాతో భాగస్వామ్యం"
+
+msgid "share"
+msgstr "వాటా"
+
+msgid "Select Group Responsible"
+msgstr "గ్రూప్ బాధ్యతాయుత ఎంచుకోండి"
+
+msgid "Create folder"
+msgstr "ఫోల్డర్ సృష్టించు"
+
+msgid "Title must be at least 3 characters"
+msgstr "శీర్షిక కనీసం 3 అక్షరాలు ఉండాలి"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "ఉచిత 10 GB, ఫైనాన్స్ మేనేజర్ , మాడ్యూల్ పెట్టుబడి , మరియు ఎప్పటికీ ఉచిత మరియు అనేక ఇతర"
+
+msgid "Best regards"
+msgstr "భవదీయులు"
+
+msgid "Updates in last 12 hours:"
+msgstr "గత 12 గంటల్లో నవీకరణలు:"
+
+msgid "expense"
+msgstr "ఖర్చు"
+
+msgid "Commentary on the event:"
+msgstr "ఈవెంట్ కామెంటరీ:"
+
+msgid "Event place"
+msgstr "ఈవెంట్ స్థానంలో"
+
+msgid "Project was updated"
+msgstr "ప్రాజెక్టు అప్డేట్ చేయబడింది"
+
+msgid "Project was created"
+msgstr "ప్రాజెక్టు రూపొందించారు"
+
+msgid "Project was closed"
+msgstr "ప్రాజెక్టు ముగించడమైనది"
+
+msgid "account"
+msgstr "ఖాతా"
+
+msgid "removed task"
+msgstr "తొలగించబడింది పని"
+
+msgid "removed subproject"
+msgstr "తొలగించబడింది ఉపపధకం"
+
+msgid "Title can not be empty"
+msgstr "శీర్షిక ఖాళీగా ఉండకూడదు"
+
+msgid "Do not select the type of event"
+msgstr "సంఘటన రకం ఎంచుకోండి లేదు"
+
+msgid "Error while saving comment"
+msgstr "లోపం వ్యాఖ్య సేవ్ చేసేటప్పుడు"
+
+msgid "Save error: access denied"
+msgstr "లోపాన్ని సేవ్ : యాక్సెస్ నిరాకరించబడింది"
+
+msgid "Remains"
+msgstr "రిమైన్స్"
+
+msgid "Time spent, h."
+msgstr "సమయం , h గడిపాడు."
+
+msgid "Emails"
+msgstr "ఇమెయిళ్ళు"
+
+msgid "Meetings"
+msgstr "సమావేశాలు"
+
+msgid "All users"
+msgstr "అన్ని వినియోగదారులు"
+
+msgid "Category"
+msgstr "వర్గం"
+
+msgid "Finance project"
+msgstr "ఫైనాన్స్ ప్రాజెక్ట్"
+
+msgid "Investment project"
+msgstr "పెట్టుబడి ప్రాజెక్టు"
+
+msgid "Nature"
+msgstr "ప్రకృతి"
+
+msgid "Data is empty"
+msgstr "డేటా ఖాళీగా ఉంది"
+
+msgid "Visitors"
+msgstr "సందర్శకులు"
+
+msgid "My profile"
+msgstr "నా జీవన వివరణ"
+
+msgid "Sponsors"
+msgstr "ప్రాయోజకులు"
+
+msgid "Prior to completion"
+msgstr "ముందు పూర్తి"
+
+msgid "Select"
+msgstr "ఎంచుకోండి"
+
+msgid "My groups"
+msgstr "నా సమూహాలు"
+
+msgid "The invitation has been sent successfully"
+msgstr "ఆహ్వానం విజయవంతంగా పంపబడింది"
+
+msgid "Username has already been invited to this project"
+msgstr "యూజర్పేరు ఇప్పటికే ఈ ప్రాజెక్ట్ ఆహ్వానించబడ్డారు"
+
+msgid "The user is the creator of the project"
+msgstr "యూజర్ ప్రాజెక్ట్ సృష్టికర్త"
+
+msgid "Provide full access"
+msgstr "పూర్తి ప్రాప్తిని అందించండి"
+
+msgid "Select elements to provide access"
+msgstr "ప్రాప్తి చేయడానికి అంశాలు ఎంచుకోండి"
+
+msgid "Select all"
+msgstr "అన్ని ఎంచుకోండి"
+
+msgid "User E-mail"
+msgstr "వినియోగదారుని ఇ- మెయిల్"
+
+msgid "Click on the field to select a category"
+msgstr "వర్గాన్ని ఎంచుకోండి రంగంలో క్లిక్"
+
+msgid "Invitation was deleted"
+msgstr "ఆహ్వానం తొలగించబడింది"
+
+msgid "Permission denied"
+msgstr "అనుమతి నిరాకరించబడింది"
+
+msgid "Printed"
+msgstr "ముద్రిత"
+
+msgid "Incorrect Contractor email"
+msgstr "సరికాని కాంట్రాక్టర్ ఇమెయిల్"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "మీరు మేనేజర్ ఆర్థిక ప్రాజెక్ట్ జోడించడానికి అనుకుంటున్నారు ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "నమోదు ప్రక్రియ పూర్తి చేయడానికి మీ నైపుణ్యాలు డౌన్ పూరించడానికి దయచేసి"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "మరింత సూచనలతో కూడిన ఒక మెయిల్ మీ ఇమెయిల్ చిరునామాకు పంపబడింది"
+
+msgid "Submit"
+msgstr "సమర్పించండి"
+
+msgid "Cars"
+msgstr "కార్లు"
+
+msgid "Science"
+msgstr "సైన్స్"
+
+msgid "Donation"
+msgstr "విరాళం"
+
+msgid "Interests"
+msgstr "అభిరుచులు"
+
+msgid "Driver"
+msgstr "డ్రైవర్"
+
+msgid "Sportsman"
+msgstr "స్పోర్ట్స్మన్"
+
+msgid "Businessman"
+msgstr "బిజినెస్మేన్"
+
+msgid "Accountant"
+msgstr "అకౌంటెంట్"
+
+msgid "Engineer"
+msgstr "ఇంజినీర్"
+
+msgid "Soldier"
+msgstr "సోల్జర్"
+
+msgid "Next"
+msgstr "తదుపరి"
+
+msgid "Hide group"
+msgstr "దాచు సమూహం"
+
+msgid "groups created"
+msgstr "సమూహాలు రూపొందించినవారు"
+
+msgid "articles written"
+msgstr "వ్యాసాలు రచించారు"
+
+msgid "These groups may be interesting for you"
+msgstr "ఈ సంఘాలు మీరు ఆసక్తికరమైన కావచ్చు"
+
+msgid "About Group"
+msgstr "గ్రూప్ గురించి"
+
+msgid "view(s)"
+msgstr "వీక్షణ ( లు)"
+
+msgid "Favorite users"
+msgstr "ఇష్టమైన వినియోగదారులు"
+
+msgid "No accounts"
+msgstr "ఖాతాలు లేవు"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook అధికార విఫలమైంది."
+
+msgid "Authorization Required"
+msgstr "ప్రామాణీకరణ అవసరం"
+
+msgid "You have to make a call:"
+msgstr "మీరు కాల్ చేయడానికి కలిగి :"
+
+msgid "You have to send an email:"
+msgstr "మీరు ఒక ఇమెయిల్ పంపడానికి కలిగి :"
+
+msgid "You have a meetup:"
+msgstr "మీరు ఒక meetup కలిగి :"
+
+msgid "You event :"
+msgstr "మీరు ఈవెంట్:"
+
+msgid "Participants:"
+msgstr "పాల్గొనేవారు:"
+
+msgid "Search"
+msgstr "శోధన"
+
+msgid "News"
+msgstr "న్యూస్"
+
+msgid "Investments"
+msgstr "ఇన్వెస్ట్మెంట్స్"
+
+msgid "Back to Cloud"
+msgstr "తిరిగి క్లౌడ్"
+
+msgid "Documents"
+msgstr "పత్రాలు"
+
+msgid "Planet"
+msgstr "ప్లానెట్"
+
+msgid "Group url"
+msgstr "గ్రూప్ url"
+
+msgid "Profile url"
+msgstr "ప్రొఫైల్ url"
+
+msgid "Already taken"
+msgstr "ముందే తీసుకోబడింది"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "అవసరం కనీసం 1 లేఖ మరియు 3 అక్షరాలు పొడవు"
+
+msgid "Digit can not be the first character"
+msgstr "డిజిట్ మొదటి పాత్ర ఉండకూడదు"
+
+msgid "Enter valid email address"
+msgstr "చెల్లుబాటు అయ్యే ఇమెయిల్ చిరునామా ఎంటర్"
+
+msgid "Enter your skills"
+msgstr "మీ నైపుణ్యాలను ఎంటర్"
+
+msgid "Enter your first name"
+msgstr "మీ మొదటి పేరు నమోదు"
+
+msgid "Enter your last name"
+msgstr "మీ చివరి పేరు నమోదు"
+
+msgid "Enter your first name and last name"
+msgstr "మీ మొదటి పేరు మరియు చివరి పేరు నమోదు"
+
+msgid "Your first name?"
+msgstr "మీ మొదటి పేరు ?"
+
+msgid "Your last name?"
+msgstr "మీ చివరి పేరు ?"
+
+msgid "What are your proficiencies?"
+msgstr "మీ proficiencies ఏమిటి ?"
+
+msgid "Select country"
+msgstr "Select దేశం"
+
+msgid "Select user"
+msgstr "Select యూజర్"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "మీ కల పూర్తి ! సృష్టించు మరియు సహకరించండి ."
+
+msgid "date moved from"
+msgstr "తేదీ నుండి తరలించబడింది"
+
+msgid "work"
+msgstr "పని"
+
+msgid "Conference"
+msgstr "కాన్ఫరెన్స్"
+
+msgid "personal"
+msgstr "వ్యక్తిగత"
+
+msgid "Holiday"
+msgstr "హాలిడే"
+
+msgid "Past"
+msgstr "గత"
+
+msgid "Future"
+msgstr "ఫ్యూచర్"
+
+msgid "Purchase"
+msgstr "కొనుగోలు"
+
+msgid "Personal events"
+msgstr "ప్రైవేట్ ఈవెంట్స్"
+
+msgid "Conferences"
+msgstr "సమావేశం"
+
+msgid "Holidays"
+msgstr "సెలవులు"
+
+msgid "Sport events"
+msgstr "క్రీడలు ఈవెంట్స్"
+
+msgid "Tasks"
+msgstr "పనులు"
+
+msgid "Other events"
+msgstr "ఇతర సంఘటనలు"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "వాయిదా"
+
+msgid "Time management"
+msgstr "టైమ్ మేనేజ్మెంట్"
+
+msgid "Delayed events"
+msgstr "వాయిదాపడిన ఈవెంట్స్"
+
+msgid "Delayed"
+msgstr "వాయిదా"
+
+msgid "Bind to"
+msgstr "అప్పగించుము"
+
+msgid "answered your comment to"
+msgstr "నేను (ఎ) ఆర్టికల్ మీద మీరే చెప్పారు"
+
+msgid "commented your article"
+msgstr "నేను మీ వ్యాసం వ్యాఖ్యానించారు"
+
+msgid "You\'ve answered on comment to"
+msgstr "మీరు వ్యాసం లో చేసిన వ్యాఖ్యలపై స్పందిస్తూ"
+
+msgid "You\'ve commented an article"
+msgstr "మీరు వ్యాసం వ్యాఖ్యానించారు"
+
+msgid "Terms and Conditions"
+msgstr "నియమాలు మరియు నిబంధనలు"
+
+msgid "Privacy Policy"
+msgstr "గోప్యతా విధానం"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "క్లిక్ చేయడం ద్వారా మీరు మా అంగీకరిస్తున్నారు మరియు మీరు చదివి గుర్తించి \"సైన్ అప్\" మా"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "ప్రపంచం నలుమూలల నుంచి సృజనాత్మక ప్రజలు సంఘంలో చేరండి! మీరు అందుకుంటారు: ఇన్వెస్టింగ్ మీ ఆలోచనలు, అతని జట్టు సేకరించడానికి ఒక అవకాశం, నిల్వ మరియు మరిన్ని 2 గిగాబైట్ల, ఒక సమూహం, ఆర్థిక మేనేజర్ పని వారి సమయాన్ని నిర్వహించడం. ఇది ఉచితం!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "క్షమించండి, కానీ మీరు శోధిస్తున్న పేజీ లేదు. మీరు ఆ బ్లేమ్ భావిస్తే మాకు మమ్మల్ని సంప్రదించండి"
+
+msgid "Return"
+msgstr "రిటర్న్"
+
+msgid "COMMON"
+msgstr "Total"
+
+msgid "My events"
+msgstr "నా ఈవెంట్స్"
+
+msgid "Job opening"
+msgstr "కొత్త ఖాళీ"
+
+msgid "Employment"
+msgstr "ఉపాధి రకం"
+
+msgid "Working hours"
+msgstr "ప్రారంభ గంటలు"
+
+msgid "City"
+msgstr "సిటీ"
+
+msgid "Wages"
+msgstr "జీతం"
+
+msgid "Currency"
+msgstr "కరెన్సీ"
+
+msgid "Experience"
+msgstr "అనుభవం"
+
+msgid "Full-time"
+msgstr "పూర్తి ఉపాధి"
+
+msgid "Part-time"
+msgstr "పార్ట్ టైమ్"
+
+msgid "Project employment"
+msgstr "ప్రాజెక్ట్ / తాత్కాలిక"
+
+msgid "Volunteer"
+msgstr "స్వయంసేవకంగా"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "పూర్తి సమయం"
+
+msgid "Shifts"
+msgstr "భర్తీ షెడ్యూల్ను"
+
+msgid "Flexible shifts"
+msgstr "ఫ్లెక్సిబుల్ షెడ్యూల్"
+
+msgid "Remote work"
+msgstr "రిమోట్ పని"
+
+msgid "Rotational basis"
+msgstr "Shift పద్ధతి"
+
+msgid "Do you really want to delete this comment?"
+msgstr "మీరు వ్యాఖ్య తొలగించాలనుకుంటున్నారా మీరు భావిస్తున్నారా?"
+
+msgid "Do you really want to delete this task?"
+msgstr "మీరు ఈ పని తొలగించాలనుకుంటున్నారా మీరు భావిస్తున్నారా?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "మీరు ఈ ఉప ప్రాజెక్టు తొలగించాలనుకుంటున్నారా మీరు భావిస్తున్నారా?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "మీరు స్థానం లో కంపెనీ దరఖాస్తు చేసుకున్నాయి. నిర్ధారించుకోండి దయచేసి"
+
+msgid "Your request to for job has been rejected"
+msgstr "స్థానం కంపెనీ మీ అభ్యర్థనను తిరస్కరించారు"
+
+msgid "Your request to for job has been accepted"
+msgstr "స్థానం కంపెనీ మీ అభ్యర్థనను స్వీకరించబడింది"
+
+msgid "profile is completed"
+msgstr "మీ ప్రొఫైల్ పూర్తి"
+
+msgid "Use account"
+msgstr "ఖాతాను ఉపయోగించండి"
+
+msgid "$/hr"
+msgstr "$ / గంట"
+
+msgid "Finance category"
+msgstr "ఫైనాన్షియల్ వర్గం"
+
+msgid "No projects"
+msgstr "ఏ ప్రాజెక్టులు"
+
+msgid "Bind to finances"
+msgstr "ఆర్థిక ప్రాజెక్ట్ అప్పగించుము"
+
+msgid "Preview"
+msgstr "చూడండి"
+
+msgid "Download"
+msgstr "డౌన్లోడ్"
+
+msgid "Save to my cloud"
+msgstr "రిపోజిటరీ కాపీ"
+
+msgid "File successfully saved to your cloud"
+msgstr "విజయవంతంగా మీ రిపోజిటరీ నిల్వచేసిన ఫైలు"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "మీ రిపోజిటరీ లో ఈ ఫైలు సేవ్?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "ఒక వర్గం ఆర్టికల్ ఎంచుకోండి"
+
+msgid "Type something"
+msgstr "ఏదో వ్రాయండి"
+
+msgid "Founded users"
+msgstr "దొరకలేదు వినియోగదారులు"
+
+msgid "Founded articles"
+msgstr "దొరకలేదు వ్యాసం"
+
+msgid "Founded groups"
+msgstr "స్థాపించబడిన సమూహం"
+
+msgid "What are your skills?"
+msgstr "మీ నైపుణ్యాలను ఏమిటి?"
+
+msgid "Select at least 2 interests"
+msgstr "కనీసం 2 వడ్డీ ఎంచుకోండి"
+
+msgid "Need more interests"
+msgstr "తగినంత ఆసక్తి ఎంపిక"
+
+msgid "What are you interesting in?"
+msgstr "మీరు ఆసక్తి ఉన్నాయి?"
+
+msgid "You have no dialogs"
+msgstr "మీరు డైలాగ్స్ లేదు"
+
+msgid "Usage Stats"
+msgstr "స్టేట్"
+
+msgid "Founded files"
+msgstr "ఫైళ్ళు దొరకలేదు"
+
+msgid "Big tiles"
+msgstr "పెద్ద పలకలు"
+
+msgid "Small tiles"
+msgstr "చిన్న టైల్స్"
+
+msgid "Table view"
+msgstr "పట్టిక వీక్షణ"
+
+msgid "Root folder"
+msgstr "మూలం డైరెక్టరీని"
+
+msgid "My files"
+msgstr "నా ఫైళ్ళు"
+
+msgid "Save as draft"
+msgstr "డ్రాఫ్ట్ గా సేవ్"
+
+msgid "Buy More Space"
+msgstr "మరింత స్థలం కొనుగోలు"
+
+msgid "Buy"
+msgstr "కొనుగోలు"
+
+msgid "You have been invited to group as"
+msgstr "మీరు ఒక పాటలే ఆహ్వానించబడ్డారు"
+
+msgid "User wants to join your group"
+msgstr "వినియోగదారు మీ గుంపులో చేరమని శుభాకాంక్షలు"
+
+msgid "Section is coming soon!"
+msgstr "నిర్మాణంలో విభాగం!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "గత 24 గంటల్లో అభిప్రాయాలు:"
+
+msgid "Task was updated"
+msgstr "పని నవీకరించబడింది"
+
+msgid "Task was closed"
+msgstr "సవాలు ముగిసింది చేయబడింది"
+
+msgid "Task was created"
+msgstr "పని సెట్ జరిగినది"
+
+msgid "Current balance"
+msgstr "ప్రస్తుత సంతులనం"
+
+msgid "Add funds"
+msgstr "చేర్చు"
+
+msgid "Pay"
+msgstr "Checkout"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "మీరు లాగిన్ ప్రయత్నాలు సంఖ్యను అధిగమించారు. మీరు 15 నిమిషాలు ఇరుక్కుపోయారు"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "మీ ఇ-మెయిల్ నిర్ధారించండి. మెయిల్ ద్వారా మీరు పంపిన లేఖ."
+
+msgid "Resend confirmation email"
+msgstr "మళ్ళీ నిర్ధారణ పంపండి"
+
+msgid "Disk 2Gb Monthly"
+msgstr "నెలకు డిస్క్ 2 GB"
+
+msgid "Disk 10Gb Monthly"
+msgstr "ఏడాదికి 10 GB డ్రైవ్"
+
+msgid "Disk 100Gb Yearly"
+msgstr "డిస్క్ 100 GB ప్రతి సంవత్సరం"
+
+msgid "Disk 1Tb Monthly"
+msgstr "డిస్క్ 1TB నెలవారీ"
+
+msgid "Disk 1Tb Yearly"
+msgstr "ప్రతి సంవత్సరం 1 TB డ్రైవ్"
+
+msgid "Project members monthly"
+msgstr "ఒక నెలవారీ ప్రాతిపదికన ప్రాజెక్టు పాల్గొనేవారు"
+
+msgid "Project members yearly"
+msgstr "ఏటా ప్రాజెక్ట్ పాల్గొనే"
+
+msgid "Member(s) yearly"
+msgstr "సంవత్సరానికి సభ్యుడు (లు)"
+
+msgid "Member(s) monthly"
+msgstr "ఒక నెలవారీ ప్రాతిపదికన సభ్యుడు (లు)"
+
+msgid "Authorized"
+msgstr "ఆథరైజ్డ్"
+
+msgid "Authorization expired"
+msgstr "అధికార గడువు"
+
+msgid "Processor declined"
+msgstr "తిరస్కరించబడిన ప్రాసెసింగ్ సిస్టమ్"
+
+msgid "Gateway rejected"
+msgstr "తిరస్కరించబడిన చెల్లింపు గేట్వే"
+
+msgid "Failed"
+msgstr "లోపం"
+
+msgid "Voided"
+msgstr "రద్దు"
+
+msgid "Submitted for settlement"
+msgstr "నమోదు పంపిన"
+
+msgid "Settlement declined"
+msgstr "నమోదు తిరస్కరించబడింది"
+
+msgid "Settlement pending"
+msgstr "పెండింగ్ ఎన్రోల్మెంట్"
+
+msgid "Verified"
+msgstr "నిరూపితమైన"
+
+msgid "Pending"
+msgstr "పెండింగ్"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Past Due"
+msgstr "గడువు"
+
+msgid "Expired"
+msgstr "ముగిసిన"
+
+msgid "Marketer"
+msgstr "వ్యాపారులకు"
+
+msgid "India"
+msgstr "భారతదేశం"
+
+msgid "Malaysia"
+msgstr "మలేషియా"
+
+msgid "Thailand"
+msgstr "థాయిలాండ్"
+
+msgid "South Korea"
+msgstr "దక్షిణ కొరియా"
+
+msgid "Kazakhstan"
+msgstr "కజాఖ్స్తాన్"
+
+msgid "Israel"
+msgstr "ఇజ్రాయెల్"
+
+msgid "Ukraine"
+msgstr "ఉక్రెయిన్"
+
+msgid "Belarus"
+msgstr "బెలారస్"
+
+msgid "Bulgaria"
+msgstr "బల్గేరియా"
+
+msgid "Turkey"
+msgstr "టర్కీ"
+
+msgid "Armenia"
+msgstr "అర్మేనియా"
+
+msgid "Serbia"
+msgstr "సెర్బియా"
+
+msgid "Austria"
+msgstr "ఆస్ట్రియా"
+
+msgid "Poland"
+msgstr "పోలాండ్"
+
+msgid "Germany"
+msgstr "జర్మనీ"
+
+msgid "Italy"
+msgstr "ఇటలీ"
+
+msgid "Netherlands"
+msgstr "నెదర్లాండ్స్"
+
+msgid "Ireland"
+msgstr "ఐర్లాండ్"
+
+msgid "United Kingdom"
+msgstr "గ్రేట్ బ్రిటన్"
+
+msgid "Portugal"
+msgstr "పోర్చుగల్"
+
+msgid "Norway"
+msgstr "నార్వే"
+
+msgid "United States"
+msgstr "యునైటెడ్ స్టేట్స్"
+
+msgid "Canada"
+msgstr "కెనడా"
+
+msgid "Brazil"
+msgstr "బ్రెజిల్"
+
+msgid "Saudi Arabia"
+msgstr "సౌదీ అరేబియా"
+
+msgid "Canada"
+msgstr "ఈజిప్ట్"
+
+msgid "Russia"
+msgstr "రష్యా"
+
+msgid "Hong Kong"
+msgstr "హాంగ్ కాంగ్"
+
+msgid "There was no any transactions yet."
+msgstr "ప్రస్తుతానికి, ఒకే లావాదేవీ లేదు"
+
+msgid "Fulfill your dream"
+msgstr "మీ కల పూర్తి"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "అన్ని భూగోళం చుట్టూ నుండి సృజనాత్మక వ్యక్తుల మా సంఘంలో చేరండి."
+
+msgid "Create and Collaborate"
+msgstr "సృష్టించు మరియు సహకరించండి"
+
+msgid "Start Dreaming"
+msgstr "ఇప్పుడు కల తీర్చే"
+
+msgid "or"
+msgstr "లేదా"
+
+msgid "Our mission:"
+msgstr "మా మిషన్:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "మన భవిష్యత్తుని నిర్దేశిస్తాయి చేసే సాధారణ నుండి మరియు అద్భుతమైన మరియు అద్భుతమైన కు డిమాండ్ ఆలోచనలు అమలు సృజనాత్మక మరియు చురుకుగా ప్రజలు ఏకం."
+
+msgid "What is Konstruktor?"
+msgstr "Konstruktor ఏమిటి?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor- మా రియల్ గణనీయంగా సౌకర్యాలు ఇది జీవితం, మరియు సులభతరం ఒక భాగం"
+
+msgid "*business processes"
+msgstr "* వ్యాపార ప్రక్రియల"
+
+msgid "*materialization of creative ideas"
+msgstr "* సృజనాత్మక ఆలోచనలు materialization"
+
+msgid "*constructive cooperation"
+msgstr "* నిర్మాణాత్మక సహకారం"
+
+msgid "Make your dream!"
+msgstr "మీ కల చేయండి!"
+
+msgid "Vlad Krishtop"
+msgstr "వ్లాడ్ Krishtop"
+
+msgid "CEO"
+msgstr "సియిఒ"
+
+msgid "Yuriy Chekalenko"
+msgstr "యూరి Chekalenko"
+
+msgid "Special Advisor"
+msgstr "ప్రత్యేక సలహాదారు"
+
+msgid "Yaroslav Eroshenko"
+msgstr "యారోస్లావ్ Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "మేనేజర్, సాఫ్ట్వేర్ డవలప్మెంట్"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "స్వెత్లానా Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "సీనియర్ న్యాయవాది"
+
+msgid "Yuriy Himka"
+msgstr "యూరి Himka"
+
+msgid "Designer"
+msgstr "డిజైనర్"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "తదుపరి బటన్ క్లిక్ చేయడం ద్వారా, మీరు అంగీకరించడం మరియు మా నియమాలు మరియు నిబంధనలు తో అంగీకరిస్తున్నారు, మీరు మా గోప్యతా విధానం చదివాను అంగీకరించాయి."
+
+msgid "Incorrect login or password."
+msgstr "తప్పు లాగిన్ లేదా పాస్వర్డ్."
+
+msgid "Password must be at least 6 characters"
+msgstr "పాస్వర్డ్ కనీసం 6 అక్షరాల పొడవు ఉండాలి"
+
+msgid "January"
+msgstr "జనవరి"
+
+msgid "February"
+msgstr "ఫిబ్రవరి"
+
+msgid "March"
+msgstr "మార్చి"
+
+msgid "April"
+msgstr "ఏప్రిల్"
+
+msgid "May"
+msgstr "మే"
+
+msgid "June"
+msgstr "జూన్"
+
+msgid "July"
+msgstr "జూలై"
+
+msgid "August"
+msgstr "ఆగస్టు"
+
+msgid "September"
+msgstr "సెప్టెంబర్"
+
+msgid "October"
+msgstr "అక్టోబర్"
+
+msgid "November"
+msgstr "నవంబర్"
+
+msgid "December"
+msgstr "డిసెంబర్"
+
+msgid "Chat"
+msgstr "చాట్"
+
+msgid "Files"
+msgstr "ఫైళ్ళు"
+
+msgid "Statistic"
+msgstr "గణాంకాలు"
+
+msgid "Support"
+msgstr "మద్దతు"
+
+msgid "Exit"
+msgstr "నిష్క్రమణ"
+
+msgid "Brest"
+msgstr "బ్రెస్ట్"
+
+msgid "Belarus"
+msgstr "బెలారస్"
+
+msgid "Marketing specialist"
+msgstr "మార్కెటింగ్ నిపుణుడు"
+
+msgid "Administrator"
+msgstr "అడ్మినిస్ట్రేటర్"
+
+msgid "Shared with me"
+msgstr "నాతో పంచుకున్నవి"
+
+msgid "File Sharing"
+msgstr "ఫైల్ షేరింగ్"
+
+msgid "Provide access by link"
+msgstr "లింక్ ద్వారా యాక్సెస్ అందించండి"
+
+msgid "Provide Individual access"
+msgstr "వ్యక్తిగత యాక్సెస్ అందించండి"
+
+msgid "Provide edit access"
+msgstr "మార్చు యాక్సెస్ అందించండి"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Files will be available only for selected users"
+msgstr "ఫైళ్ళు ఎంచుకోబడ్డాయి వినియోగదారులకు మాత్రమే అందుబాటులో ఉంటుంది"
+
+msgid "With this link everyone can access to the files"
+msgstr "ఈ లింకులు ఒక్కరూ ఫైళ్లు యాక్సెస్ చేయవచ్చు"
+
+msgid "Search users, groups, articles..."
+msgstr "శోధన వినియోగదారులను, సమూహాలు, కథనాలు ..."
+
+msgid "My Group"
+msgstr "నా గుంపు"
+
+msgid "Mo"
+msgstr "మో"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "మేము"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "సు"
+
+msgid "The file is not selected"
+msgstr "ఫైలు ఎంపిక లేదు"
+
+msgid "Set aside"
+msgstr "ప్రక్కన సెట్"
+
+msgid "Event time"
+msgstr "ఈవెంట్ సమయం"
+
+msgid "Work"
+msgstr "పని"
+
+msgid "Personal"
+msgstr "వ్యక్తిగత"
+
+msgid "Time spent for work:"
+msgstr "సమయం పని కోసం ఖర్చు:"
+
+msgid "Personal time spent:"
+msgstr "వ్యక్తిగత సమయాన్ని ఖర్చు:"
+
+msgid "Present"
+msgstr "ప్రెజెంట్"
+
+msgid "Common"
+msgstr "కామన్"
+
+msgid "Sport"
+msgstr "స్పోర్ట్"
+
+msgid "Entertainment"
+msgstr "వినోదం"
+
+msgid "Select:"
+msgstr "ఎంచుకోండి:"
+
+msgid "Invalid username or password."
+msgstr "తప్పుడు వాడుకరిపేరు లేదా సంకేతపదం."
+
+msgid "Try again."
+msgstr "మళ్ళీ ప్రయత్నించండి."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "మీరు ఆసక్తి ఉన్నాయి?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "కనీసం 2 నైపుణ్యాలు ఎంచుకోండి: 2 మిగిలిపోయింది"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "కనీసం 2 నైపుణ్యాలు ఎంచుకోండి: 1,"
+
+msgid "Select at least 2 skills: remains"
+msgstr "కనీసం 2 నైపుణ్యాలు ఎంచుకోండి: అవశేషాలు"
+
+msgid "Active life"
+msgstr "చురుకైన జీవితం"
+
+msgid "Arts and culture"
+msgstr "కళలు మరియు సంస్కృతి"
+
+msgid "Business"
+msgstr "వ్యాపారం"
+
+msgid "Cinema"
+msgstr "సినిమా"
+
+msgid "Communications"
+msgstr "కమ్యూనికేషన్స్"
+
+msgid "Construction and repair"
+msgstr "నిర్మాణం మరియు మరమ్మత్తు"
+
+msgid "Cooking"
+msgstr "వంట"
+
+msgid "Education"
+msgstr "ఎడ్యుకేషన్"
+
+msgid "Electronics"
+msgstr "ఎలక్ట్రానిక్స్"
+
+msgid "Finances"
+msgstr "పెట్టుబడులు"
+
+msgid "Graphics and design"
+msgstr "గ్రాఫిక్స్ మరియు డిజైన్"
+
+msgid "Health"
+msgstr "ఆరోగ్యం"
+
+msgid "Home and family"
+msgstr "హోమ్ మరియు కుటుంబం"
+
+msgid "Humor"
+msgstr "హాస్యం"
+
+msgid "IT"
+msgstr "ఐటి"
+
+msgid "Industry"
+msgstr "ఇండస్ట్రీ"
+
+msgid "Insurance"
+msgstr "భీమా"
+
+msgid "Literature"
+msgstr "సాహిత్యం"
+
+msgid "Mobile communications and internet"
+msgstr "మొబైల్ కమ్యూనికేషన్స్ మరియు ఇంటర్నెట్"
+
+msgid "News and Media"
+msgstr "న్యూస్ మరియు మీడియా"
+
+msgid "Pets"
+msgstr "పెంపుడు జంతువులు"
+
+msgid "Products and service"
+msgstr "ఉత్పత్తులు మరియు సేవ"
+
+msgid "Real Estate"
+msgstr "హౌసింగ్"
+
+msgid "Religion"
+msgstr "మతం"
+
+msgid "Science and techs"
+msgstr "సైన్స్ మరియు techs"
+
+msgid "Security"
+msgstr "సెక్యూరిటీ"
+
+msgid "Society"
+msgstr "సొసైటీ"
+
+msgid "Television"
+msgstr "టెలివిజన్"
+
+msgid "Travel"
+msgstr "ప్రయాణం"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "అర్జెంటీనా"
+
+msgid "Australia"
+msgstr "ఆస్ట్రేలియా"
+
+msgid "Austria"
+msgstr "ఆస్ట్రియా"
+
+msgid "Belarus"
+msgstr "బెలారస్"
+
+msgid "Belgium"
+msgstr "బెల్జియం"
+
+msgid "Brazil"
+msgstr "బ్రెజిల్"
+
+msgid "Bulgaria"
+msgstr "బల్గేరియా"
+
+msgid "Canada"
+msgstr "కెనడా"
+
+msgid "Chile"
+msgstr "చిలీ"
+
+msgid "Denmark"
+msgstr "డెన్మార్క్"
+
+msgid "France"
+msgstr "ఫ్రాన్స్"
+
+msgid "Germany"
+msgstr "జర్మనీ"
+
+msgid "Greece"
+msgstr "గ్రీస్"
+
+msgid "Hungary"
+msgstr "హంగేరీ"
+
+msgid "Iceland"
+msgstr "ఐస్లాండ్"
+
+msgid "Ireland"
+msgstr "ఐర్లాండ్"
+
+msgid "Israel"
+msgstr "ఇజ్రాయెల్"
+
+msgid "Italy"
+msgstr "ఇటలీ"
+
+msgid "Japan"
+msgstr "జపాన్"
+
+msgid "Mexico"
+msgstr "మెక్సికో"
+
+msgid "Netherlands"
+msgstr "నెదర్లాండ్స్"
+
+msgid "New Zealand"
+msgstr "న్యూజిలాండ్"
+
+msgid "Norway"
+msgstr "నార్వే"
+
+msgid "Poland"
+msgstr "పోలాండ్"
+
+msgid "Portugal"
+msgstr "పోర్చుగల్"
+
+msgid "Russia"
+msgstr "రష్యా"
+
+msgid "Slovakia"
+msgstr "స్లోవేకియా"
+
+msgid "South Africa"
+msgstr "దక్షిణ ఆఫ్రికా"
+
+msgid "South Korea"
+msgstr "దక్షిణ కొరియా"
+
+msgid "Spain"
+msgstr "స్పెయిన్"
+
+msgid "Sweden"
+msgstr "స్వీడన్"
+
+msgid "Switzerland"
+msgstr "స్విట్జర్లాండ్"
+
+msgid "Turkey"
+msgstr "టర్కీ"
+
+msgid "Ukraine"
+msgstr "ఉక్రెయిన్"
+
+msgid "United Arab Emirates"
+msgstr "యునైటెడ్ అరబ్ ఎమిరేట్స్"
+
+msgid "United Kingdom"
+msgstr "యునైటెడ్ కింగ్డమ్"
+
+msgid "United States"
+msgstr "సంయుక్త రాష్ట్రాలు"
+
+msgid "achievements"
+msgstr "విజయాలు"
+
+msgid "Investment management"
+msgstr "పెట్టుబడి నిర్వహణ"
+
+msgid "Select..."
+msgstr "ఎంచుకోండి ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "పెట్టుబడి నిర్వహణ"
+
+msgid "Investors list"
+msgstr "పెట్టుబడిదారులు జాబితా"
+
+msgid "My investments"
+msgstr "నా పెట్టుబడులు"
+
+msgid "Create date"
+msgstr "తేదీ సృష్టించు"
+
+msgid "Author of the project"
+msgstr "ప్రాజెక్టు రచయిత"
+
+msgid "Date and time"
+msgstr "తేదీ మరియు సమయం"
+
+msgid "Status"
+msgstr "స్థితి"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+msgid "Next"
+msgstr "తదుపరి"
+
+msgid "Apply"
+msgstr "వర్తించు"
+
+msgid "Kazakhstan"
+msgstr "కజాఖ్స్తాన్"
+
+msgid "Almaty"
+msgstr "ఆళ్మట్య"
+
+msgid "Hong Kong"
+msgstr "హాంగ్ కొంగ"
+
+msgid "Science"
+msgstr "సైన్స్"
+
+msgid "Architecture"
+msgstr "ఆర్కిటెక్చర్"
+
+msgid "Photography"
+msgstr "ఫోటోగ్రఫి"
+
+msgid "Designer"
+msgstr "డిజైనర్"
+
+msgid "IT specialist"
+msgstr "IT స్పెషలిస్ట్"
+
+msgid "Agronomist"
+msgstr "వ్యవసాయ శాస్త్రవేత్త"
+
+msgid "Architect"
+msgstr "Architector"
+
+msgid "Lawyer"
+msgstr "న్యాయవాది"
+
+msgid "Writer"
+msgstr "రచయిత"
+
+msgid "Doctor"
+msgstr "డాక్టర్"
+
+msgid "Scientist"
+msgstr "సైంటిస్ట్"
+
+msgid "Marketer"
+msgstr "వ్యాపారులకు"
+
+msgid "Teacher"
+msgstr "టీచర్"
+
+msgid "Cook"
+msgstr "కుక్"
+
+msgid "Artist"
+msgstr "ఆర్టిస్ట్"
+
+msgid "Photographer"
+msgstr "ఫోటోగ్రాఫర్"
+
+msgid "Ecologist"
+msgstr "జీవావరణ"
+
+msgid "Economist"
+msgstr "ఎకనామిస్ట్"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Journalist"
+
+msgid "Builder"
+msgstr "బిల్డర్"
+
+msgid "These users may be interesting for you"
+msgstr "ఈ వినియోగదారులు మీ కోసం ఆసక్తికరంగా ఉండవచ్చు"
+
+msgid "These articles may be interesting for you"
+msgstr "ఈ వ్యాసాలు మీరు ఆసక్తికరమైన కావచ్చు"
+
+msgid "You joined this group as Аdministrator"
+msgstr "మీరు Аdministrator ఈ గ్రూపులో చేరారు"
+
+msgid "articles written."
+msgstr "వ్యాసాలు రచించారు."
+
+msgid "groups created."
+msgstr "గుంపులను సృష్టించలేదు."
+
+msgid "Creation"
+msgstr "సృష్టి"
+
+msgid "Build a dream"
+msgstr "ఒక కల బిల్డ్"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "మరింత ఆసక్తికరంగా ఆర్టికల్స్ చదవండి - ఉచిత నమోదు వెళ్ళడానికి"
+

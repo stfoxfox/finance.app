@@ -1,0 +1,3344 @@
+# Malti (Мальтийский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Malti (Мальтийский) <support@konstruktor.com>\n"
+"Language: Malti (Мальтийский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "username"
+
+msgid "Invalid username or password, try again"
+msgstr "Username żbaljata jew il-password . Erġa \'pprova ."
+
+msgid "Settings"
+msgstr "settings"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "You must log in to access this page"
+msgstr "Int trid log in to aċċess din il-paġna"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Sessjoni tiegħek ġie skada . Jekk jogħġbok , relogin biex iwettqu din l-azzjoni"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Head Office"
+msgstr "head Office"
+
+msgid "Address"
+msgstr "indirizz"
+
+msgid "Back"
+msgstr "back"
+
+msgid "Apply"
+msgstr "Applika"
+
+msgid "Upload files…"
+msgstr "Upload fajls ..."
+
+msgid "Set as main"
+msgstr "Set bħala prinċipali"
+
+msgid "Delete"
+msgstr "Ħassar"
+
+msgid "Original image"
+msgstr "immaġini oriġinali"
+
+msgid "Uploaded"
+msgstr "uploaded"
+
+msgid "File name"
+msgstr "isem file"
+
+msgid "File size"
+msgstr "daqs tal-fajl"
+
+msgid "Resolution"
+msgstr "Riżoluzzjoni"
+
+msgid "Enlarge"
+msgstr "tkabbar"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Original size"
+msgstr "daqs oriġinali"
+
+msgid "For editor"
+msgstr "għal editur"
+
+msgid "Resize"
+msgstr "resize"
+
+msgid "Width"
+msgstr "wisa"
+
+msgid "Height"
+msgstr "għoli"
+
+msgid "Media URL"
+msgstr "URL midja"
+
+msgid "Add record"
+msgstr "Żid rekord"
+
+msgid "Show filter settings"
+msgstr "Settings tal-filtru Show"
+
+msgid "Edit record"
+msgstr "rekord Edit"
+
+msgid "Delete record"
+msgstr "Ħassar rekord"
+
+msgid "Delete checked records"
+msgstr "Ħassar rekords ċċekkjati"
+
+msgid "Dashboard"
+msgstr "dashboard"
+
+msgid "Password"
+msgstr "password"
+
+msgid "Remember me"
+msgstr "Ftakar lili"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Clean image cache"
+msgstr "Cache image Nadif"
+
+msgid "Processing query..."
+msgstr "Query Ipproċessar ..."
+
+msgid "CMS Development"
+msgstr "Żvilupp CMS"
+
+msgid "Admin Home Page"
+msgstr "Admin Home Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Open Home page tal Front -end fil ġdid tab"
+
+msgid "Go to Site"
+msgstr "Mur fil- Site"
+
+msgid "Log out"
+msgstr "log out"
+
+msgid "Send"
+msgstr "Ibgħat"
+
+msgid "General"
+msgstr "ġenerali"
+
+msgid "Title"
+msgstr "titolu"
+
+msgid "Teaser"
+msgstr "teaser"
+
+msgid "Published"
+msgstr "ippubblikat"
+
+msgid "Featured"
+msgstr "dehru"
+
+msgid "Active"
+msgstr "attiva"
+
+msgid "Field is mandatory"
+msgstr "Il-qasam huwa obbligatorju"
+
+msgid "Sort Order"
+msgstr "Ordni sort"
+
+msgid "Upload"
+msgstr "upload"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Frar"
+
+msgid "Mar"
+msgstr "marzu"
+
+msgid "Apr"
+msgstr "April"
+
+msgid "May"
+msgstr "jista"
+
+msgid "Jun"
+msgstr "Ġunju"
+
+msgid "Jul"
+msgstr "Lulju"
+
+msgid "Aug"
+msgstr "Awissu"
+
+msgid "Sep"
+msgstr "settembru"
+
+msgid "Oct"
+msgstr "Ottubru"
+
+msgid "Nov"
+msgstr "novembru"
+
+msgid "Dec"
+msgstr "Diċembru"
+
+msgid "Product already exists in the order"
+msgstr "Prodott diġà teżisti fl-ordni"
+
+msgid "Product does not exist"
+msgstr "Prodott ma teżistix"
+
+msgid "Incorrect request"
+msgstr "talba żbaljata"
+
+msgid "Products"
+msgstr "prodotti"
+
+msgid "Product types"
+msgstr "tipi ta \'prodotti"
+
+msgid "Contractors"
+msgstr "kuntratturi"
+
+msgid "Contractor"
+msgstr "kuntrattur"
+
+msgid "Orders"
+msgstr "ordnijiet"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "ordni ġdida"
+
+msgid "My orders"
+msgstr "ordnijiet tiegħi"
+
+msgid "Recharge balance"
+msgstr "bilanċ recharge"
+
+msgid "Administrator"
+msgstr "amministratur"
+
+msgid "Incorrect event ID"
+msgstr "Żbaljata avveniment ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "kuntrattur jeditjaw"
+
+msgid "Create contractor"
+msgstr "Oħloq kuntrattur"
+
+msgid "Edit question"
+msgstr "kwistjoni jeditjaw"
+
+msgid "Create question"
+msgstr "Oħloq kwistjoni"
+
+msgid "Edit order"
+msgstr "ordni jeditjaw"
+
+msgid "Create order"
+msgstr "Oħloq ordni"
+
+msgid "Edit product"
+msgstr "prodott jeditjaw"
+
+msgid "Create product"
+msgstr "toħloq il-prodott"
+
+msgid "Edit product type"
+msgstr "Tip ta \'prodott jeditjaw"
+
+msgid "Create product type"
+msgstr "Oħloq tip ta \'prodott"
+
+msgid "You have received a file"
+msgstr "Irċevejt fajl"
+
+msgid "You received a file from"
+msgstr "Li rċevejt fajl mill-"
+
+msgid "File has been uploaded"
+msgstr "Fajl ġie uploaded"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "kwantità minima"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "oġġetti"
+
+msgid "Remove"
+msgstr "neħħi"
+
+msgid "Contact person"
+msgstr "persuna ta \'kuntatt"
+
+msgid "Email"
+msgstr "email"
+
+msgid "Contractor phone"
+msgstr "kuntrattur telefon"
+
+msgid "Contractor name"
+msgstr "isem kuntrattur"
+
+msgid "Contractor details"
+msgstr "dettalji kuntrattur"
+
+msgid "Order ID"
+msgstr "ordni ID"
+
+msgid "Sum"
+msgstr "somma"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Agħżel il- sistema ta \'pagament xierqa biex recharge -bilanċ tiegħek"
+
+msgid "Recharge amount"
+msgstr "ammont recharge"
+
+msgid "Paid"
+msgstr "mħallsa"
+
+msgid "Shipped"
+msgstr "mibgħuta"
+
+msgid "- No products in this order -"
+msgstr "- L-ebda prodotti f\'dan ordni -"
+
+msgid "month"
+msgstr "xahar"
+
+msgid "No user found"
+msgstr "Ebda utent misjuba"
+
+msgid "Achievement"
+msgstr "Achievement"
+
+msgid "Confirmed accomplishments"
+msgstr "kisbiet ikkonfermati"
+
+msgid "Remove achievement"
+msgstr "neħħi kisba"
+
+msgid "Headquaters"
+msgstr "kwartieri ġenerali"
+
+msgid "Phone"
+msgstr "phone"
+
+msgid "Site URL and email"
+msgstr "URL sit u l-email"
+
+msgid "Remove address"
+msgstr "neħħi indirizz"
+
+msgid "Members"
+msgstr "membri"
+
+msgid "Requires a payment"
+msgstr "Teħtieġ ħlas"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Ready"
+msgstr "lest"
+
+msgid "Find user..."
+msgstr "Sib utent ..."
+
+msgid "Order it"
+msgstr "tordna"
+
+msgid "Find group..."
+msgstr "Sib grupp ..."
+
+msgid "Find user or community..."
+msgstr "Sib utent jew komunità ..."
+
+msgid "No item found"
+msgstr "Ebda partita misjuba"
+
+msgid "years"
+msgstr "snin"
+
+msgid "Send message"
+msgstr "Ibgħat messaġġ"
+
+msgid "Message"
+msgstr "messaġġ"
+
+msgid "To send message press Enter"
+msgstr "Biex tibgħat messaġġ istampa Ikteb"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Biex tibgħat messaġġ CTRL + istampa Ikteb"
+
+msgid "Processing file(s)..."
+msgstr "Fajl (s ) l-ipproċessar ..."
+
+msgid "Group settings"
+msgstr "settings grupp"
+
+msgid "Create group"
+msgstr "Oħloq grupp"
+
+msgid "Group has been successfully saved"
+msgstr "Grupp ġie salvat b\'suċċess"
+
+msgid "Group title"
+msgstr "titolu grupp"
+
+msgid "Group video"
+msgstr "video grupp"
+
+msgid "Description"
+msgstr "deskrizzjoni"
+
+msgid "Your role in group"
+msgstr "Ir-rwol tiegħek fil-grupp"
+
+msgid "Role"
+msgstr "rwol"
+
+msgid "Photo or video gallery"
+msgstr "Ritratt jew vidjo gallery"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "upload video"
+
+msgid "Add group address"
+msgstr "Żid indirizz grupp"
+
+msgid "Group articles"
+msgstr "artikoli grupp"
+
+msgid "No addresses yet"
+msgstr "Ebda indirizzi għadhom"
+
+msgid "Add group achievement"
+msgstr "Żid kisba grupp"
+
+msgid "No achivements yet"
+msgstr "Ebda achivements għadhom"
+
+msgid "Are you sure to delete this user"
+msgstr "Inti żgur li tħassar dan l-utent"
+
+msgid "Add member"
+msgstr "Żid membru"
+
+msgid "Are you sure to delete this record?"
+msgstr "Inti żgur li tħassar dan ir-rekord ?"
+
+msgid "Join this group"
+msgstr "Ingħaqad dan il-grupp"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Istedina tiegħek kien mibgħut lill -amministratur grupp"
+
+msgid "All addresses"
+msgstr "indirizzi kollha"
+
+msgid "Collapse"
+msgstr "kollass"
+
+msgid "Achievements"
+msgstr "kisbiet"
+
+msgid "Show more"
+msgstr "juru aktar"
+
+msgid "Team"
+msgstr "tim"
+
+msgid "Projects"
+msgstr "proġetti"
+
+msgid "New project"
+msgstr "proġett ġdid"
+
+msgid "Project has not been created yet"
+msgstr "Proġett ma tkunx inħolqot għadhom"
+
+msgid "Messanger"
+msgstr "messaġġier"
+
+msgid "Balance"
+msgstr "bilanċ"
+
+msgid "Main page"
+msgstr "paġna prinċipali"
+
+msgid "Upload image"
+msgstr "immaġni upload"
+
+msgid "My time"
+msgstr "ħin tiegħi"
+
+msgid "Day"
+msgstr "jum"
+
+msgid "Week"
+msgstr "ġimgħa"
+
+msgid "Project settings"
+msgstr "settings tal-proġett"
+
+msgid "Create project"
+msgstr "Oħloq proġett"
+
+msgid "Project has been successfully saved"
+msgstr "Proġett ġie salvat b\'suċċess"
+
+msgid "Project name"
+msgstr "isem tal-proġett"
+
+msgid "Deadline"
+msgstr "iskadenza"
+
+msgid "Close"
+msgstr "Agħlaq"
+
+msgid "Manager"
+msgstr "maniġer"
+
+msgid "Assigned to"
+msgstr "assenjat għal"
+
+msgid "Discussion"
+msgstr "diskussjoni"
+
+msgid "Task was created"
+msgstr "Task inħoloq"
+
+msgid "Task was closed"
+msgstr "Task ġiet magħluqa"
+
+msgid "Go to Group"
+msgstr "Mur Group"
+
+msgid "Closed"
+msgstr "magħluq"
+
+msgid "Last updates"
+msgstr "aġġornamenti aħħar"
+
+msgid "Project is closed"
+msgstr "Proġett huwa magħluq"
+
+msgid "No open tasks"
+msgstr "Ebda kompiti miftuħa"
+
+msgid "New task"
+msgstr "kompitu ġdid"
+
+msgid "Closed tasks"
+msgstr "kompiti magħluqa"
+
+msgid "Add subproject"
+msgstr "Żid subproject"
+
+msgid "Add task"
+msgstr "Żid kompitu"
+
+msgid "Sun"
+msgstr "il-Ħadd"
+
+msgid "Mon"
+msgstr "it-tnejn"
+
+msgid "Tue"
+msgstr "it-Tlieta"
+
+msgid "Wed"
+msgstr "l-Erbgħa"
+
+msgid "Thur"
+msgstr "il-Ħamis"
+
+msgid "Fri"
+msgstr "il-ġimgħa"
+
+msgid "Sat"
+msgstr "IS-SIBT"
+
+msgid "Event title"
+msgstr "titolu avveniment"
+
+msgid "Event description"
+msgstr "deskrizzjoni avveniment"
+
+msgid "I registered on this site"
+msgstr "I rreġistrati fuq dan is-sit"
+
+msgid "Last created groups"
+msgstr "Aħħar gruppi maħluqa"
+
+msgid "You joined this group as"
+msgstr "Inti ssieħbu dan il-grupp bħala"
+
+msgid "You received a request to join the group"
+msgstr "Inti rċeviet talba biex jingħaqdu mal-grupp"
+
+msgid "Updated site"
+msgstr "sit aġġornat"
+
+msgid "Site is under construction"
+msgstr "Sit huwa taħt kostruzzjoni"
+
+msgid "Last registered users"
+msgstr "Aħħar utenti reġistrati"
+
+msgid "User settings"
+msgstr "settings utent"
+
+msgid "Technical support"
+msgstr "appoġġ tekniku"
+
+msgid "Change email"
+msgstr "bidla email"
+
+msgid "Change password"
+msgstr "password bidla"
+
+msgid "User has been successfully saved"
+msgstr "Utent ġie salvat b\'suċċess"
+
+msgid "Full name"
+msgstr "isem sħiħ"
+
+msgid "My video"
+msgstr "video tiegħi"
+
+msgid "Skills"
+msgstr "ħiliet"
+
+msgid "Birthday"
+msgstr "birthday"
+
+msgid "Country of residence"
+msgstr "Pajjiż ta \'residenza"
+
+msgid "Country"
+msgstr "pajjiż"
+
+msgid "Zip Code"
+msgstr "Kodiċi Zip"
+
+msgid "City/town of residence"
+msgstr "Belt / raħal ta \'residenza"
+
+msgid "University/college"
+msgstr "Università / kulleġġ"
+
+msgid "University/college photo"
+msgstr "Università / photo kulleġġ"
+
+msgid "Add user\'s accomplishments"
+msgstr "Żid kisbiet utent"
+
+msgid "Interface language"
+msgstr "lingwa interface"
+
+msgid "How other people see this page"
+msgstr "Kif in-nies oħra ara din il-paġna"
+
+msgid "Video with me"
+msgstr "Video miegħi"
+
+msgid "Groups"
+msgstr "gruppi"
+
+msgid "Registered today"
+msgstr "reġistrati illum"
+
+msgid "Qty"
+msgstr "Qty"
+
+msgid "No registered users yet"
+msgstr "Nru utenti reġistrati għadhom"
+
+msgid "Total"
+msgstr "total"
+
+msgid "Registered total"
+msgstr "totali rreġistrat"
+
+msgid "You received a file"
+msgstr "Li rċevejt fajl"
+
+msgid "You were invited into this room"
+msgstr "You kienu mistiedna fil din il-kamra"
+
+msgid "Request is being processed"
+msgstr "Talba tkun qed tiġi pproċessata"
+
+msgid "Fax"
+msgstr "fax"
+
+msgid "Messenger"
+msgstr "Messenger"
+
+msgid "New subproject"
+msgstr "subproject New"
+
+msgid "messages written."
+msgstr "messaġġi miktuba ."
+
+msgid "projects created based on groups."
+msgstr "proġetti maħluqa ibbażata fuq gruppi ."
+
+msgid "users registered on website."
+msgstr "utenti reġistrati fuq websajt."
+
+msgid "New email"
+msgstr "email New"
+
+msgid "Confirm email"
+msgstr "Ikkonferma email"
+
+msgid "New password"
+msgstr "password ġdida"
+
+msgid "Confirm password"
+msgstr "Ikkonferma password"
+
+msgid "Occupation"
+msgstr "Speċjalità"
+
+msgid "Timezone"
+msgstr "TIMEZONE"
+
+msgid "Answer"
+msgstr "tweġiba"
+
+msgid "Articles"
+msgstr "Artikoli"
+
+msgid "Article"
+msgstr "Artikolu"
+
+msgid "Video-article"
+msgstr "Video -subartikolu"
+
+msgid "Find article..."
+msgstr "Sib artikolu ..."
+
+msgid "Politics"
+msgstr "Politics"
+
+msgid "Economics"
+msgstr "ekonomija"
+
+msgid "Community"
+msgstr "Komunità"
+
+msgid "Culture"
+msgstr "kultura"
+
+msgid "Sports"
+msgstr "Sports"
+
+msgid "Hi-tech"
+msgstr "Hi- tech"
+
+msgid "Cars"
+msgstr "karozzi"
+
+msgid "Fashion"
+msgstr "Fashion"
+
+msgid "Games"
+msgstr "logħob"
+
+msgid "Other"
+msgstr "oħra"
+
+msgid "Invalid mediafile"
+msgstr "mediafile Invalid"
+
+msgid "No articles in this category yet"
+msgstr "Nru artikoli f\'din il-kategorija għadha"
+
+msgid "Back to profile"
+msgstr "Lura għall profil"
+
+msgid "View article"
+msgstr "artikolu View"
+
+msgid "Edit article"
+msgstr "artikolu Edit"
+
+msgid "Create article"
+msgstr "Oħloq artikolu"
+
+msgid "Article title"
+msgstr "Artikolu titolu"
+
+msgid "Article section"
+msgstr "Artikolu sezzjoni"
+
+msgid "Choose image"
+msgstr "immaġni Agħżel"
+
+msgid "Save and upload"
+msgstr "Issalva u upload"
+
+msgid "Show more..."
+msgstr "Juru aktar ..."
+
+msgid "Create"
+msgstr "Oħloq"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Project"
+msgstr "proġett"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "A new article was published"
+msgstr "Artikolu ġdid ġie ppubblikat"
+
+msgid "You joined this project"
+msgstr "Inti ssieħbu dan il-proġett"
+
+msgid "Enter your information in the User settings"
+msgstr "Ikteb informazzjoni tiegħek fil-settings Utent"
+
+msgid "Communities"
+msgstr "Komunitajiet"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Video preżentazzjoni ta \'kisbiet tiegħi"
+
+msgid "My articles"
+msgstr "oġġetti tiegħi"
+
+msgid "User"
+msgstr "utent"
+
+msgid "Users"
+msgstr "utenti"
+
+msgid "Add new list"
+msgstr "Żid lista l-ġdida"
+
+msgid "List title"
+msgstr "titolu Lista"
+
+msgid "Add"
+msgstr "Żid"
+
+msgid "Add to favorites"
+msgstr "Żid mal-favoriti"
+
+msgid "Delete from favorites"
+msgstr "Ħassar mill Favourites"
+
+msgid "Select list"
+msgstr "lista Agħżel"
+
+msgid "Subscriptions"
+msgstr "abbonamenti"
+
+msgid "Subscribe"
+msgstr "Abbona"
+
+msgid "Unsubscribe"
+msgstr "unsubscribe"
+
+msgid "General list"
+msgstr "lista ġenerali"
+
+msgid "No users in this list"
+msgstr "L-ebda Utent f\'din il-lista"
+
+msgid "Publish"
+msgstr "Publish"
+
+msgid "Unpublish"
+msgstr "unpublish"
+
+msgid "Add user"
+msgstr "Żid utent"
+
+msgid "Create document"
+msgstr "toħloq dokument"
+
+msgid "Edit document"
+msgstr "dokument jeditjaw"
+
+msgid "View"
+msgstr "View"
+
+msgid "Document title"
+msgstr "titolu tad-dokument"
+
+msgid "Find document..."
+msgstr "Sib dokument ..."
+
+msgid "Share your thoughts"
+msgstr "Share ħsibijiet tiegħek"
+
+msgid "Leave your comment"
+msgstr "Ħalli kumment tiegħek"
+
+msgid "Accept"
+msgstr "Aċċetta"
+
+msgid "Decline"
+msgstr "tnaqqis"
+
+msgid "Add article"
+msgstr "Żid artikolu"
+
+msgid "Link to verified accomplishments"
+msgstr "Link għall-kisbiet verifikati"
+
+msgid "No articles here yet..."
+msgstr "Nru artikoli hawn għadhom"
+
+msgid "Find file or folder..."
+msgstr "Sib fajl jew folder ..."
+
+msgid "Sort"
+msgstr "sort"
+
+msgid "By name"
+msgstr "bl-isem"
+
+msgid "By date"
+msgstr "skond id-data"
+
+msgid "By updated date"
+msgstr "Skond id-data aġġornata"
+
+msgid "By size"
+msgstr "skond id-daqs"
+
+msgid "By type"
+msgstr "Skond it-tip"
+
+msgid "Move"
+msgstr "Nimxu"
+
+msgid "File Manager"
+msgstr "file Manager"
+
+msgid "Share link"
+msgstr "link Share"
+
+msgid "Responsible"
+msgstr "responsabbli"
+
+msgid "Performer"
+msgstr "performer"
+
+msgid "New Folder"
+msgstr "Folder New"
+
+msgid "Folder name"
+msgstr "isem folder"
+
+msgid "By default"
+msgstr "permezz ta \'default"
+
+msgid "Back to group"
+msgstr "Lura għall-grupp"
+
+msgid "year(s)"
+msgstr "sena (snin)"
+
+msgid "January"
+msgstr "jannar"
+
+msgid "February"
+msgstr "Frar"
+
+msgid "March"
+msgstr "Marzu"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Mejju"
+
+msgid "June"
+msgstr "ġunju"
+
+msgid "July"
+msgstr "lulju"
+
+msgid "August"
+msgstr "awissu"
+
+msgid "September"
+msgstr "settembru"
+
+msgid "October"
+msgstr "ottubru"
+
+msgid "November"
+msgstr "novembru"
+
+msgid "December"
+msgstr "diċembru"
+
+msgid "Password Reminder"
+msgstr "Nota ta \'tfakkir password"
+
+msgid "Log In"
+msgstr "log Fil"
+
+msgid "Sign in"
+msgstr "Sinjal"
+
+msgid "Register"
+msgstr "reġistru"
+
+msgid "First name"
+msgstr "Isem"
+
+msgid "Last name"
+msgstr "Kunjom"
+
+msgid "I agree with rules"
+msgstr "Jiena naqbel ma \'regoli"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "A mail konferma ntbagħtet lill-indirizz email tiegħek."
+
+msgid "Thanks"
+msgstr "grazzi"
+
+msgid "Password must be at least 6 characters"
+msgstr "Password għandu jkun mill-inqas 6 karattri"
+
+msgid "Creative Environment"
+msgstr "Ambjent Creative"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Inti jeħtieġ li tkun mill-inqas tlettax-il sena li jużaw dan is-servizz"
+
+msgid "Order status"
+msgstr "istatus ordni"
+
+msgid "Processing order"
+msgstr "sabiex ipproċessar"
+
+msgid "Requires a payment"
+msgstr "Teħtieġ ħlas"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Ready"
+msgstr "lesti"
+
+msgid "Thank you for your payment"
+msgstr "Grazzi għall-pagament tiegħek"
+
+msgid "Your payment has been cancelled"
+msgstr "Pagament tiegħek tkun ġiet ikkanċellata"
+
+msgid "page"
+msgstr "paġna"
+
+msgid "Rent period"
+msgstr "perjodu kera"
+
+msgid "Total, month"
+msgstr "Total, xahar"
+
+msgid "Order items"
+msgstr "oġġetti ordni"
+
+msgid "No records found"
+msgstr "Ebda rekords misjuba"
+
+msgid "User with this email is already exist"
+msgstr "Ma \'din l-email huwa diġà jeżistu"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Folder jew file ma tali isem huwa diġà jeżistu fil-folder destinazzjoni"
+
+msgid "Minimal quantity"
+msgstr "kwantità minima"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "kopji stampati"
+
+msgid "Terms of Use"
+msgstr "Termini ta \'Użu"
+
+msgid "Privacy Policy"
+msgstr "Politika ta \'Privatezza"
+
+msgid "Find project..."
+msgstr "Sib proġett ..."
+
+msgid "New Project"
+msgstr "Proġett ġdid"
+
+msgid "Accounts"
+msgstr "kontijiet"
+
+msgid "Operations"
+msgstr "operazzjonijiet"
+
+msgid "All accounts"
+msgstr "Il-kontijiet kollha"
+
+msgid "All categories"
+msgstr "kategoriji kollha"
+
+msgid "Expense"
+msgstr "Expense"
+
+msgid "Income"
+msgstr "income"
+
+msgid "Transfer"
+msgstr "trasferiment"
+
+msgid "Expense"
+msgstr "Expense"
+
+msgid "income"
+msgstr "dħul"
+
+msgid "tax"
+msgstr "taxxa"
+
+msgid "percent"
+msgstr "mija"
+
+msgid "transfer"
+msgstr "trasferiment"
+
+msgid "Make operation"
+msgstr "Għamla operazzjoni"
+
+msgid "Select date"
+msgstr "data Agħżel"
+
+msgid "Select account"
+msgstr "kont Agħżel"
+
+msgid "Month"
+msgstr "xahar"
+
+msgid "Quarter"
+msgstr "Kwartier"
+
+msgid "Year"
+msgstr "sena"
+
+msgid "From"
+msgstr "mill"
+
+msgid "To"
+msgstr "biex"
+
+msgid "Expense amount"
+msgstr "ammont Expense"
+
+msgid "Categories"
+msgstr "kategoriji"
+
+msgid "Comments"
+msgstr "kummenti"
+
+msgid "Income amount"
+msgstr "ammont income"
+
+msgid "Transfer amount"
+msgstr "ammont trasferiment"
+
+msgid "From account"
+msgstr "mill-kont"
+
+msgid "To account"
+msgstr "sabiex jittieħed kont"
+
+msgid "New Account"
+msgstr "Kont New"
+
+msgid "New Category"
+msgstr "New Kategorija"
+
+msgid "All"
+msgstr "kollha"
+
+msgid "Name"
+msgstr "isem"
+
+msgid "Enter category name"
+msgstr "Daħħal isem tal-kategorija"
+
+msgid "Select type"
+msgstr "tip Agħżel"
+
+msgid "Credit card"
+msgstr "Karta tal-kreditu"
+
+msgid "Debit card"
+msgstr "karta ta \'debitu"
+
+msgid "Bank account"
+msgstr "kont bankarju"
+
+msgid "Cash"
+msgstr "Cash"
+
+msgid "Balance is empty"
+msgstr "Bilanċ huwa vojt"
+
+msgid "Statistic is empty"
+msgstr "Statistika ikun vojt"
+
+msgid "Regular payments"
+msgstr "pagamenti regolari"
+
+msgid "Are you sure ?"
+msgstr "Żgur ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Inti żgur li tagħlaq dan il-proġett ?"
+
+msgid "Project was deleted successfully"
+msgstr "Proġett ġie mħassar b\'suċċess"
+
+msgid "Select currency"
+msgstr "munita Agħżel"
+
+msgid "Account"
+msgstr "kont"
+
+msgid "Orders list"
+msgstr "lista ordnijiet"
+
+msgid "Order payments"
+msgstr "pagamenti ordni"
+
+msgid "View order"
+msgstr "ordni View"
+
+msgid "No response from Printer API"
+msgstr "Ebda tweġiba mill Printer API"
+
+msgid "Bad response from Printer API"
+msgstr "Rispons ħażina mill Printer API"
+
+msgid "User ID"
+msgstr "user ID"
+
+msgid "Contact Person"
+msgstr "Persuna ta \'Kuntatt"
+
+msgid "No orders to process"
+msgstr "Ebda ordnijiet għall-proċess"
+
+msgid "Article announce image"
+msgstr "Artikolu image jħabbar"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Video url invalida. Ħalli vojt jew daħħal url youtube validu"
+
+msgid "Please, enter Contractor data"
+msgstr "Jekk jogħġbok , jidħol data Kuntrattur"
+
+msgid "Distribute devices"
+msgstr "Qassam apparati"
+
+msgid "Quantity"
+msgstr "kwantità"
+
+msgid "Devices left"
+msgstr "mezzi xellug"
+
+msgid "Distributed devices"
+msgstr "mezzi distribwiti"
+
+msgid "You must enter quantity"
+msgstr "Int trid tidħol kwantità"
+
+msgid "All devices are distributed"
+msgstr "L-apparati kollha huma mqassma"
+
+msgid "IP address"
+msgstr "indirizz IP"
+
+msgid "Only for printer"
+msgstr "Biss għall-printer"
+
+msgid "Counter"
+msgstr "counter"
+
+msgid "You was excluded from this room"
+msgstr "Inti ġiet eskluża minn dan kamra"
+
+msgid "Compare"
+msgstr "Qabbel"
+
+msgid "Scheduled transaction"
+msgstr "transazzjoni skedat"
+
+msgid "Select transfer account"
+msgstr "Kont trasferiment Agħżel"
+
+msgid "Select income account"
+msgstr "Kont tad-dħul Agħżel"
+
+msgid "Reports"
+msgstr "rapporti"
+
+msgid "Goals"
+msgstr "Għanijiet"
+
+msgid "Budgets"
+msgstr "baġits"
+
+msgid "Enter user name or email..."
+msgstr "Daħħal isem l-utent jew email ..."
+
+msgid "Invite had been sended"
+msgstr "Jistiednu kien sended"
+
+msgid "Statistics"
+msgstr "Statistics"
+
+msgid "Updated site began to work"
+msgstr "Sit aġġornat beda x-xogħol"
+
+msgid "City of residence"
+msgstr "Belt ta \' residenza"
+
+msgid "Edit favourites list"
+msgstr "Favourites Edit lista"
+
+msgid "Add favourites list"
+msgstr "Żid Favourites lista"
+
+msgid "Categories is required"
+msgstr "Kategoriji hija meħtieġa"
+
+msgid "Type new category name and hit Enter"
+msgstr "Isem kategorija ġdida tip u hit Ikteb"
+
+msgid "You created an order"
+msgstr "Inti maħluqa ordni"
+
+msgid "You received a device due to this order"
+msgstr "Inti rċeviet apparat minħabb din l-ordni"
+
+msgid "%s attached %s to task %s"
+msgstr "%s mehmuża %s għal kompitu %s"
+
+msgid "member(s)"
+msgstr "membru (i )"
+
+msgid "%s commented task %s"
+msgstr "%s kompitu ikkummenta %s"
+
+msgid "%s closed task %s"
+msgstr "%s kompitu magħluqa %s"
+
+msgid "%s created task %s"
+msgstr "%s kompitu maħluqa %s"
+
+msgid "%s created this project"
+msgstr "%s maħluqa dan il-proġett"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s subproject maħluqa \"%s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s magħluqa proġett \" %s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s magħluqa subproject \"%s \""
+
+msgid "This field must not be blank"
+msgstr "Dan il-qasam m\'għandux ikun vojt"
+
+msgid "Document with such name is already exist"
+msgstr "Dokument bl-isem bħal din hija diġà jeżistu"
+
+msgid "Wait until image upload"
+msgstr "Stenna sakemm image upload"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Message can not be empty"
+msgstr "Messaġġ ma jistgħux ikunu vojta"
+
+msgid "Yes"
+msgstr "Iva"
+
+msgid "No"
+msgstr "Nru"
+
+msgid "Created"
+msgstr "maħluqa"
+
+msgid "Compare is empty"
+msgstr "Qabbel hija vojta"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Inti żgur li trid tħassar operazzjoni"
+
+msgid "Do you really want to delete transaction"
+msgstr "Do you verament tixtieq li tħassar transazzjoni"
+
+msgid "Project with same name already exists"
+msgstr "Proġett bl -istess isem diġà jeżisti"
+
+msgid "Account is not found"
+msgstr "Kont ma tinstabx"
+
+msgid "Currency is required"
+msgstr "Munita hija meħtieġa"
+
+msgid "error while deleting document"
+msgstr "żball filwaqt dokument tħassar"
+
+msgid "Expences"
+msgstr "spejjeż tal-"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "You mistieden utent \" %s\" f\'din il-kamra"
+
+msgid "User \"%s\" joined this room"
+msgstr "Utent \" %s \" ssieħbu din il-kamra"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "You esklużi utent \"%s \" minn din il-kamra"
+
+msgid "User \"%s\" left this room"
+msgstr "Utent \" %s \" xellug din il-kamra"
+
+msgid "Add account"
+msgstr "Żid kont"
+
+msgid "The requested page is not found"
+msgstr "Il -paġna mitluba ma tinstabx"
+
+msgid "Document"
+msgstr "dokument"
+
+msgid "Table"
+msgstr "tabella"
+
+msgid "file(s)"
+msgstr "fajl (s )"
+
+msgid "Residue"
+msgstr "residwu"
+
+msgid "Result is empty"
+msgstr "Riżultat huwa vojt"
+
+msgid "The total amount is %s for %s mo"
+msgstr "L-ammont totali huwa %s għall %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Inti għandek biex jiddepożita %s \'kull xahar lill-kont relatat"
+
+msgid "Start"
+msgstr "bidu"
+
+msgid "finish"
+msgstr "finitura"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Kont magħżula hija diġa qed jintużaw għal għan ieħor"
+
+msgid "Amount required"
+msgstr "ammont meħtieġ"
+
+msgid "New goal"
+msgstr "għan ġdid"
+
+msgid "Goal"
+msgstr "Goal"
+
+msgid "Goal name"
+msgstr "isem Goal"
+
+msgid "Invalid date"
+msgstr "data Invalid"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Somma neċessarji għandhom jkunu stabbiliti numru pożittiv"
+
+msgid "Remain"
+msgstr "jibqgħu"
+
+msgid "Last day"
+msgstr "L-aħħar jum"
+
+msgid "Accumulated"
+msgstr "akkumulati"
+
+msgid "Put aside"
+msgstr "twarrab"
+
+msgid "January"
+msgstr "jannar"
+
+msgid "February"
+msgstr "Frar"
+
+msgid "March"
+msgstr "Marzu"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Mejju"
+
+msgid "June"
+msgstr "ġunju"
+
+msgid "July"
+msgstr "lulju"
+
+msgid "August"
+msgstr "awissu"
+
+msgid "September"
+msgstr "settembru"
+
+msgid "October"
+msgstr "ottubru"
+
+msgid "November"
+msgstr "novembru"
+
+msgid "December"
+msgstr "Diċembru"
+
+msgid "Expenses projected/actual"
+msgstr "Spejjeż proġettati / attwali"
+
+msgid "Net Income projected/actual"
+msgstr "Dħul nett proġettat / attwali"
+
+msgid "New budget"
+msgstr "baġit ġdid"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Dħul u Spejjeż Ċart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Baġit bl -istess par ta \' kont u l-kategorija diġà jeżisti"
+
+msgid "Budget is empty"
+msgstr "Baġit huwa vojt"
+
+msgid "Budget"
+msgstr "baġit"
+
+msgid "plan"
+msgstr "pjan"
+
+msgid "fact"
+msgstr "fatt"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "Uri Aktar"
+
+msgid "Cancel"
+msgstr "Ikkanċella"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "bejgħ tiegħi"
+
+msgid "Time spent"
+msgstr "ħin mgħoddi"
+
+msgid "Total time spent"
+msgstr "Ħin totali minfuq"
+
+msgid "Earnings per hour"
+msgstr "Qligħ fis-siegħa"
+
+msgid "Total earnings"
+msgstr "qligħ totali"
+
+msgid "Call"
+msgstr "sejħa"
+
+msgid "Phone call"
+msgstr "telefonata"
+
+msgid "Telephone calls"
+msgstr "telefonati"
+
+msgid "Send email"
+msgstr "Ibgħat email"
+
+msgid "Emails"
+msgstr "emails"
+
+msgid "Meeting"
+msgstr "Laqgħa"
+
+msgid "Meetings"
+msgstr "laqgħat"
+
+msgid "All events"
+msgstr "l-avvenimenti kollha"
+
+msgid "Task"
+msgstr "Task"
+
+msgid "Event"
+msgstr "avveniment"
+
+msgid "Events"
+msgstr "avvenimenti"
+
+msgid "Time"
+msgstr "ħin"
+
+msgid "Events statistics"
+msgstr "istatistika avvenimenti"
+
+msgid "days"
+msgstr "jiem"
+
+msgid "hours"
+msgstr "sigħat"
+
+msgid "minutes"
+msgstr "minuti"
+
+msgid "Income & expense"
+msgstr "Income & spiża"
+
+msgid "Show chart"
+msgstr "chart Show"
+
+msgid "Hide chart"
+msgstr "chart Hide"
+
+msgid "Add event"
+msgstr "Żid avveniment"
+
+msgid "Add financial data"
+msgstr "Żid data finanzjarja"
+
+msgid "Select contractor"
+msgstr "kuntrattur Agħżel"
+
+msgid "Net Income"
+msgstr "Dħul nett"
+
+msgid "Revenue"
+msgstr "dħul"
+
+msgid "Taxes"
+msgstr "taxxi"
+
+msgid "Amount planned"
+msgstr "ammont ippjanat"
+
+msgid "Amount"
+msgstr "ammont"
+
+msgid "Period"
+msgstr "perjodu"
+
+msgid "Are you sure to close this task?"
+msgstr "Inti żgur li tagħlaq dan il-kompitu ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "Il-gruppi kollha"
+
+msgid "added from task"
+msgstr "miżjud minn kompitu"
+
+msgid "Monthly repeat"
+msgstr "irrepeti kull xahar"
+
+msgid "Select category"
+msgstr "Agħżel kategorija"
+
+msgid "Event type"
+msgstr "tip ta \'avveniment"
+
+msgid "Margin"
+msgstr "marġni"
+
+msgid "Use finance project"
+msgstr "Użu Project Finance"
+
+msgid "New investment project"
+msgstr "Proġett ġdid ta \'investiment"
+
+msgid "Investment project settings"
+msgstr "Settings proġett ta \'investiment"
+
+msgid "Picture, for the announcement project"
+msgstr "Stampa , għall-proġett tħabbira"
+
+msgid "Announcement project"
+msgstr "proġett tħabbir"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Photos or videos gallery"
+msgstr "Ritratti jew videos gallery"
+
+msgid "required amount"
+msgstr "ammont meħtieġ"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Tul tal-proġett ( 60 jum massimu )"
+
+msgid "Project duration"
+msgstr "tul tal-proġett"
+
+msgid "Add reward"
+msgstr "Żid premju"
+
+msgid "Delivery date"
+msgstr "data tal-konsenja"
+
+msgid "Payment systems"
+msgstr "sistemi ta \'pagament"
+
+msgid "Terms of service"
+msgstr "Termini ta \' servizz"
+
+msgid "Agreement"
+msgstr "Ftehim"
+
+msgid "Payment"
+msgstr "ħlas"
+
+msgid "My projects"
+msgstr "proġetti tiegħi"
+
+msgid "Search result"
+msgstr "Fittex riżultat"
+
+msgid "Nothing not found"
+msgstr "Xejn ma sabet"
+
+msgid "The project has no sponsors"
+msgstr "Il-proġett għandu l-ebda sponsors"
+
+msgid "Design"
+msgstr "disinn"
+
+msgid "Food"
+msgstr "ikel"
+
+msgid "Journalism"
+msgstr "ġurnaliżmu"
+
+msgid "Games"
+msgstr "logħob"
+
+msgid "Art"
+msgstr "Art"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "mużika"
+
+msgid "Handicrafts"
+msgstr "Snajja"
+
+msgid "Publishing"
+msgstr "Publishing"
+
+msgid "Theater"
+msgstr "teatru"
+
+msgid "Technology"
+msgstr "teknoloġija"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Dance"
+msgstr "Dance"
+
+msgid "Invalid youtube video"
+msgstr "Invalid video youtube"
+
+msgid "is required"
+msgstr "huwa meħtieġ"
+
+msgid "User"
+msgstr "utent"
+
+msgid "Date"
+msgstr "data"
+
+msgid "Collected"
+msgstr "miġbura"
+
+msgid "Choose period"
+msgstr "perjodu Agħżel"
+
+msgid "Choose region"
+msgstr "Agħżel reġjun"
+
+msgid "Country"
+msgstr "pajjiż"
+
+msgid "Today"
+msgstr "Illum"
+
+msgid "Week"
+msgstr "ġimgħa"
+
+msgid "Month"
+msgstr "xahar"
+
+msgid "Year"
+msgstr "sena"
+
+msgid "Free registration"
+msgstr "Free reġistrazzjoni"
+
+msgid "Join"
+msgstr "Ingħaqad"
+
+msgid "Log in using"
+msgstr "Log fl-użu"
+
+msgid "Vacancies"
+msgstr "opportunitajiet ta \'impjieg"
+
+msgid "About Us"
+msgstr "Fuqna"
+
+msgid "You will need email to log in"
+msgstr "Ikollok bżonn email log fil"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Taħlita ta \' 6 ċifri u l-karattri"
+
+msgid "Search users, groups, articles..."
+msgstr "Fittex utenti , gruppi, artikoli ..."
+
+msgid "Cloud"
+msgstr "Cloud"
+
+msgid "Sunday"
+msgstr "il-Ħadd"
+
+msgid "Monday"
+msgstr "it-tnejn"
+
+msgid "Tuesday"
+msgstr "it-Tlieta"
+
+msgid "Wednesday"
+msgstr "l-Erbgħa"
+
+msgid "Thursday"
+msgstr "il-Ħamis"
+
+msgid "Friday"
+msgstr "il-ġimgħa"
+
+msgid "Saturday"
+msgstr "IS-SIBT"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Create group"
+msgstr "Oħloq grupp"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Inti żgur li int tixtieq li jħallu din il-paġna ?"
+
+msgid "More"
+msgstr "aktar"
+
+msgid "Less"
+msgstr "inqas"
+
+msgid "Pending"
+msgstr "Fl-istennija"
+
+msgid "Approved"
+msgstr "approvat"
+
+msgid "Rejected"
+msgstr "rifjutata"
+
+msgid "Subprojects"
+msgstr "sottoproġetti"
+
+msgid "Group edit"
+msgstr "grupp jeditjaw"
+
+msgid "Startup"
+msgstr "Ibda"
+
+msgid "Tattoo"
+msgstr "tatwaġġ"
+
+msgid "Health"
+msgstr "saħħa"
+
+msgid "Weapon"
+msgstr "Weapon"
+
+msgid "Astronomy"
+msgstr "astronomija"
+
+msgid "All articles"
+msgstr "l-artikli kollha"
+
+msgid "Article editor"
+msgstr "Artikolu editur"
+
+msgid "Document editor"
+msgstr "editur dokument"
+
+msgid "Apply changes"
+msgstr "Applika bidliet"
+
+msgid "Save changes?"
+msgstr "Save bidliet ?"
+
+msgid "published an article"
+msgstr "ippubblikat artiklu"
+
+msgid "Users"
+msgstr "utenti"
+
+msgid "Shared With Me"
+msgstr "Maqsuma miegħi"
+
+msgid "share"
+msgstr "sehem"
+
+msgid "Select Group Responsible"
+msgstr "Agħżel Grupp Responsabbli"
+
+msgid "Create folder"
+msgstr "Oħloq folder"
+
+msgid "Title must be at least 3 characters"
+msgstr "Titolu għandu jkun mill- inqas 3 karattri"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Free 10 GB , manager finanzi , jinvestu modulu , u ħafna oħrajn b\'xejn u dejjem"
+
+msgid "Best regards"
+msgstr "aħjar fir-rigward"
+
+msgid "Updates in last 12 hours:"
+msgstr "Aġġornamenti fil aħħar 12 siegħa:"
+
+msgid "expense"
+msgstr "spejjeż"
+
+msgid "Commentary on the event:"
+msgstr "Kummentarju dwar l-avveniment :"
+
+msgid "Event place"
+msgstr "post Event"
+
+msgid "Project was updated"
+msgstr "Proġett ġie aġġornat"
+
+msgid "Project was created"
+msgstr "Proġett inħoloq"
+
+msgid "Project was closed"
+msgstr "Proġett ġiet magħluqa"
+
+msgid "account"
+msgstr "kont"
+
+msgid "removed task"
+msgstr "kompitu jitneħħew"
+
+msgid "removed subproject"
+msgstr "jitneħħew subproject"
+
+msgid "Title can not be empty"
+msgstr "Titolu ma jistgħux ikunu vojta"
+
+msgid "Do not select the type of event"
+msgstr "Ma agħżel it-tip ta \' avveniment"
+
+msgid "Error while saving comment"
+msgstr "Error filwaqt li niffrankaw kumment"
+
+msgid "Save error: access denied"
+msgstr "Save \'żball: aċċess miċħud"
+
+msgid "Remains"
+msgstr "jibqa"
+
+msgid "Time spent, h."
+msgstr "Ħin mgħoddi , h ."
+
+msgid "Emails"
+msgstr "emails"
+
+msgid "Meetings"
+msgstr "laqgħat"
+
+msgid "All users"
+msgstr "l-utenti kollha"
+
+msgid "Category"
+msgstr "kategorija"
+
+msgid "Finance project"
+msgstr "Project Finance"
+
+msgid "Investment project"
+msgstr "proġett ta \'investiment"
+
+msgid "Nature"
+msgstr "natura"
+
+msgid "Data is empty"
+msgstr "Data hija vojta"
+
+msgid "Visitors"
+msgstr "viżitaturi"
+
+msgid "My profile"
+msgstr "profil tiegħi"
+
+msgid "Sponsors"
+msgstr "sponsors"
+
+msgid "Prior to completion"
+msgstr "Qabel ma titlesta"
+
+msgid "Select"
+msgstr "Agħżel"
+
+msgid "My groups"
+msgstr "gruppi tiegħi"
+
+msgid "The invitation has been sent successfully"
+msgstr "L-istedina tkun intbagħtet b\'suċċess"
+
+msgid "Username has already been invited to this project"
+msgstr "Username diġà ġie mistieden dan il-proġett"
+
+msgid "The user is the creator of the project"
+msgstr "L-utent huwa l-kreatur tal-proġett"
+
+msgid "Provide full access"
+msgstr "Jipprovdu aċċess sħiħ"
+
+msgid "Select elements to provide access"
+msgstr "Agħżel elementi li jipprovdu aċċess"
+
+msgid "Select all"
+msgstr "Agħżel kollha"
+
+msgid "User E-mail"
+msgstr "User E -mail"
+
+msgid "Click on the field to select a category"
+msgstr "Ikklikkja fuq il-qasam li tagħżel kategorija"
+
+msgid "Invitation was deleted"
+msgstr "Stedina kienet imħassra"
+
+msgid "Permission denied"
+msgstr "Permess miċħud"
+
+msgid "Printed"
+msgstr "stampati"
+
+msgid "Incorrect Contractor email"
+msgstr "Email Kuntrattur żbaljata"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Do inti tixtieq iżżid proġett għall-finanzjament tal -maniġer ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Biex itemmu l- proċess ta \'reġistrazzjoni jekk jogħġbok imla l -ħiliet tiegħek"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Posta aktar istruzzjonijiet ntbagħtet lill-indirizz email tiegħek"
+
+msgid "Submit"
+msgstr "Issottometti"
+
+msgid "Cars"
+msgstr "karozzi"
+
+msgid "Science"
+msgstr "xjenza"
+
+msgid "Donation"
+msgstr "donazzjoni"
+
+msgid "Interests"
+msgstr "interessi"
+
+msgid "Driver"
+msgstr "Driver"
+
+msgid "Sportsman"
+msgstr "Sportsman"
+
+msgid "Businessman"
+msgstr "negozjant"
+
+msgid "Accountant"
+msgstr "Accountant"
+
+msgid "Engineer"
+msgstr "inġinier"
+
+msgid "Soldier"
+msgstr "suldat"
+
+msgid "Next"
+msgstr "Li jmiss"
+
+msgid "Hide group"
+msgstr "grupp Hide"
+
+msgid "groups created"
+msgstr "gruppi maħluqa"
+
+msgid "articles written"
+msgstr "artikli"
+
+msgid "These groups may be interesting for you"
+msgstr "Dawn il-gruppi jistgħu jkunu interessanti għalik"
+
+msgid "About Group"
+msgstr "dwar Group"
+
+msgid "view(s)"
+msgstr "opinjoni (jiet )"
+
+msgid "Favorite users"
+msgstr "utenti favoriti"
+
+msgid "No accounts"
+msgstr "L-ebda kontijiet"
+
+msgid "Facebook authorization failed."
+msgstr "Awtorizzazzjoni Facebook fallew."
+
+msgid "Authorization Required"
+msgstr "Meħtieġa l-awtorizzazzjoni"
+
+msgid "You have to make a call:"
+msgstr "Inti għandek tagħmel sejħa :"
+
+msgid "You have to send an email:"
+msgstr "Int għandek tibgħat email :"
+
+msgid "You have a meetup:"
+msgstr "Għandek meetup :"
+
+msgid "You event :"
+msgstr "Każ inti :"
+
+msgid "Participants:"
+msgstr "parteċipanti :"
+
+msgid "Search"
+msgstr "Fittex"
+
+msgid "News"
+msgstr "Aħbarijiet"
+
+msgid "Investments"
+msgstr "investimenti"
+
+msgid "Back to Cloud"
+msgstr "Lura għall Cloud"
+
+msgid "Documents"
+msgstr "dokumenti"
+
+msgid "Planet"
+msgstr "Planet"
+
+msgid "Group url"
+msgstr "url grupp"
+
+msgid "Profile url"
+msgstr "url profil"
+
+msgid "Already taken"
+msgstr "Diga meħud"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Mill-anqas 1 ittra u 3 Chars tul meħtieġa"
+
+msgid "Digit can not be the first character"
+msgstr "DIGIT ma tistax tkun l-ewwel karattru"
+
+msgid "Enter valid email address"
+msgstr "Ikteb indirizz email validu"
+
+msgid "Enter your skills"
+msgstr "Ikteb il-ħiliet tiegħek"
+
+msgid "Enter your first name"
+msgstr "Ikteb l-ewwel isem tiegħek"
+
+msgid "Enter your last name"
+msgstr "Ikteb isem tiegħek aħħar"
+
+msgid "Enter your first name and last name"
+msgstr "Ikteb l-ewwel isem tiegħek u isem l-aħħar"
+
+msgid "Your first name?"
+msgstr "Ewwel isem tiegħek ?"
+
+msgid "Your last name?"
+msgstr "Isem tiegħek aħħar ?"
+
+msgid "What are your proficiencies?"
+msgstr "X\'inhuma l profiċjenza tiegħek ?"
+
+msgid "Select country"
+msgstr "pajjiż Agħżel"
+
+msgid "Select user"
+msgstr "utent Agħżel"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Jissodisfaw ħolma tiegħek ! Oħloq u jikkollaboraw ."
+
+msgid "date moved from"
+msgstr "data imċaqlaq minn"
+
+msgid "work"
+msgstr "xogħol"
+
+msgid "Conference"
+msgstr "Konferenza"
+
+msgid "personal"
+msgstr "personali"
+
+msgid "Holiday"
+msgstr "Btala"
+
+msgid "Past"
+msgstr "Passat"
+
+msgid "Future"
+msgstr "Futur"
+
+msgid "Purchase"
+msgstr "Xiri"
+
+msgid "Personal events"
+msgstr "Avvenimenti privati"
+
+msgid "Conferences"
+msgstr "Laqgħa"
+
+msgid "Holidays"
+msgstr "Festi"
+
+msgid "Sport events"
+msgstr "Avvenimenti sportivi"
+
+msgid "Tasks"
+msgstr "Kompiti"
+
+msgid "Other events"
+msgstr "Avvenimenti oħra"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Diferita"
+
+msgid "Time management"
+msgstr "Ħin ta \'Ġestjoni"
+
+msgid "Delayed events"
+msgstr "Avvenimenti differit"
+
+msgid "Delayed"
+msgstr "Diferita"
+
+msgid "Bind to"
+msgstr "Jassenja"
+
+msgid "answered your comment to"
+msgstr "I qal (a) Kumment dwar l-artikolu"
+
+msgid "commented your article"
+msgstr "I kkummentaw dwar artiklu tiegħek"
+
+msgid "You\'ve answered on comment to"
+msgstr "Inti wieġeb għall-kumment fuq l-artikolu"
+
+msgid "You\'ve commented an article"
+msgstr "Inti ikkummenta fuq l-artikolu"
+
+msgid "Terms and Conditions"
+msgstr "Termini u Kundizzjonijiet"
+
+msgid "Privacy Policy"
+msgstr "Politika ta \'Privatezza"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Billi tikklikkja fuq \"jiffirmaw\" inti taqbel mal tagħna u jirrikonoxxu li inti qrajt tagħna"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Ingħaqad fil-komunità ta \'nies kreattivi minn madwar id-dinja! Inti ser tirċievi: Investiment fl-ideat tiegħek, l-opportunità biex tiġbor tim tiegħu, li jaħdmu fi grupp, il-manager finanzjarja, immaniġġjar tal-ħin tagħhom, 2 gigabytes fil-ħażna u aktar. U huwa b\'xejn!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Jiddispjacini, iżda l-paġna li qed tfittex ma jeżistix. Jekk taħseb li t-tort lilna tikkuntattjana"
+
+msgid "Return"
+msgstr "Ritorn"
+
+msgid "COMMON"
+msgstr "Total"
+
+msgid "My events"
+msgstr "My Avvenimenti"
+
+msgid "Job opening"
+msgstr "Vakanza New"
+
+msgid "Employment"
+msgstr "Tip ta \'impjieg"
+
+msgid "Working hours"
+msgstr "Ħinijiet tal-ftuħ"
+
+msgid "City"
+msgstr "City"
+
+msgid "Wages"
+msgstr "Salarju"
+
+msgid "Currency"
+msgstr "Munita"
+
+msgid "Experience"
+msgstr "Esperjenza"
+
+msgid "Full-time"
+msgstr "Impjieg sħiħ"
+
+msgid "Part-time"
+msgstr "Part-time"
+
+msgid "Project employment"
+msgstr "Proġett / temporanju"
+
+msgid "Volunteer"
+msgstr "Volontarjat"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "Ħin Full"
+
+msgid "Shifts"
+msgstr "Iskeda Sostituzzjoni"
+
+msgid "Flexible shifts"
+msgstr "Skeda flessibbli"
+
+msgid "Remote work"
+msgstr "Xogħol Remote"
+
+msgid "Rotational basis"
+msgstr "Metodu Shift"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Inti żgur li trid tħassar il-kumment?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Inti żgur li trid tħassar dan il-kompitu?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Inti żgur li trid tħassar dan is-proġett?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Inti applikaw għall-kumpanija fil-pożizzjoni. Jekk jogħġbok kun żgur li l-"
+
+msgid "Your request to for job has been rejected"
+msgstr "Talba tiegħek lill-kumpanija għall-pożizzjoni ġiet irrifjutata"
+
+msgid "Your request to for job has been accepted"
+msgstr "It-talba tiegħek lill-kumpanija għall-pożizzjoni ġiet adottata"
+
+msgid "profile is completed"
+msgstr "Profil tiegħek hija sħiħa"
+
+msgid "Use account"
+msgstr "Uża kont"
+
+msgid "$/hr"
+msgstr "$ / Siegħa"
+
+msgid "Finance category"
+msgstr "Kategorija finanzjarja"
+
+msgid "No projects"
+msgstr "Ebda proġett"
+
+msgid "Bind to finances"
+msgstr "Jassenja proġett finanzjarju"
+
+msgid "Preview"
+msgstr "View"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Save to my cloud"
+msgstr "Ikkopja l-repożitorju"
+
+msgid "File successfully saved to your cloud"
+msgstr "Fajl maħżuna b\'suċċess fil repożitorju tiegħek"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Ħlief dan fajl fil repożitorju tiegħek?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Agħżel kategorija Artikolu"
+
+msgid "Type something"
+msgstr "Ikteb xi ħaġa"
+
+msgid "Founded users"
+msgstr "Utenti misjuba"
+
+msgid "Founded articles"
+msgstr "Artikolu Misjuba"
+
+msgid "Founded groups"
+msgstr "Grupp fondat"
+
+msgid "What are your skills?"
+msgstr "X\'inhuma l-ħiliet tiegħek?"
+
+msgid "Select at least 2 interests"
+msgstr "Agħżel mill-inqas 2 interess"
+
+msgid "Need more interests"
+msgstr "Mhux interess biżżejjed magħżul"
+
+msgid "What are you interesting in?"
+msgstr "Liema huma inti interessat?"
+
+msgid "You have no dialogs"
+msgstr "Inti ma għandekx djalogi"
+
+msgid "Usage Stats"
+msgstr "Istat ta \'"
+
+msgid "Founded files"
+msgstr "Fajls Misjuba"
+
+msgid "Big tiles"
+msgstr "Madum kbar"
+
+msgid "Small tiles"
+msgstr "Madum żgħir"
+
+msgid "Table view"
+msgstr "Tabella fehma"
+
+msgid "Root folder"
+msgstr "Id-direttorju għerq"
+
+msgid "My files"
+msgstr "Fajls tiegħi"
+
+msgid "Save as draft"
+msgstr "Għajr kif Abbozz"
+
+msgid "Buy More Space"
+msgstr "Jixtru aktar spazju"
+
+msgid "Buy"
+msgstr "Buy"
+
+msgid "You have been invited to group as"
+msgstr "Inti ġew mistiedna għall-grupp bħala"
+
+msgid "User wants to join your group"
+msgstr "L-utent jixtieq jissieħeb grupp tiegħek"
+
+msgid "Section is coming soon!"
+msgstr "Taqsima taħt kostruzzjoni!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Views fl-aħħar 24 siegħa:"
+
+msgid "Task was updated"
+msgstr "Il-kompitu ġie aġġornat"
+
+msgid "Task was closed"
+msgstr "L-isfida tkun ingħalqet"
+
+msgid "Task was created"
+msgstr "Il-kompitu ġie stabbilit"
+
+msgid "Current balance"
+msgstr "Bilanċ kurrenti"
+
+msgid "Add funds"
+msgstr "Żid"
+
+msgid "Pay"
+msgstr "Checkout"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Inti għandek qabeż in-numru ta \'tentattivi login. Inti huma imblokkati għal 15 minuta"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Jekk jogħġbok ikkonferma e-mail tiegħek. L-ittra mibgħuta lilek bil-posta."
+
+msgid "Resend confirmation email"
+msgstr "Ibgħat konferma mill-ġdid"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB kull xahar"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Drive 10 GB kull sena"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB kull sena"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1TB kull xahar"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Drive 1 TB kull sena"
+
+msgid "Project members monthly"
+msgstr "Parteċipanti tal-proġett fuq bażi mensili"
+
+msgid "Project members yearly"
+msgstr "Parteċipanti tal-proġett fis-sena"
+
+msgid "Member(s) yearly"
+msgstr "Membru (i) fis-sena"
+
+msgid "Member(s) monthly"
+msgstr "Membru (i) fuq bażi mensili"
+
+msgid "Authorized"
+msgstr "Awtorizzat"
+
+msgid "Authorization expired"
+msgstr "Awtorizzazzjoni skada"
+
+msgid "Processor declined"
+msgstr "Sistema ta \'pproċessar Rifjutata"
+
+msgid "Gateway rejected"
+msgstr "Portal ta \'ħlas Rifjutata"
+
+msgid "Failed"
+msgstr "Error"
+
+msgid "Voided"
+msgstr "Tannulla"
+
+msgid "Submitted for settlement"
+msgstr "Mibgħut lill jinkitbu"
+
+msgid "Settlement declined"
+msgstr "Enrollment tkun ġiet irrifjutata"
+
+msgid "Settlement pending"
+msgstr "Fl-istennija reġistrazzjoni"
+
+msgid "Verified"
+msgstr "Checked"
+
+msgid "Pending"
+msgstr "Fl-istennija"
+
+msgid "Active"
+msgstr "Attiva"
+
+msgid "Past Due"
+msgstr "Skada"
+
+msgid "Expired"
+msgstr "Temm"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "Indja"
+
+msgid "Malaysia"
+msgstr "Malasja"
+
+msgid "Thailand"
+msgstr "Tajlandja"
+
+msgid "South Korea"
+msgstr "Korea t\'Isfel"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Bulgaria"
+msgstr "Bulgarija"
+
+msgid "Turkey"
+msgstr "Dundjan"
+
+msgid "Armenia"
+msgstr "Armenja"
+
+msgid "Serbia"
+msgstr "Serbja"
+
+msgid "Austria"
+msgstr "L-Awstrija"
+
+msgid "Poland"
+msgstr "Il-Polonja"
+
+msgid "Germany"
+msgstr "Il-Ġermanja"
+
+msgid "Italy"
+msgstr "Italja"
+
+msgid "Netherlands"
+msgstr "Olanda"
+
+msgid "Ireland"
+msgstr "Irlanda"
+
+msgid "United Kingdom"
+msgstr "Gran Brittanja"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Norway"
+msgstr "Norveġja"
+
+msgid "United States"
+msgstr "Istati Uniti"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Brazil"
+msgstr "Brażil"
+
+msgid "Saudi Arabia"
+msgstr "Għarabja Sawdita"
+
+msgid "Canada"
+msgstr "Eġittu"
+
+msgid "Russia"
+msgstr "Russja"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Fil-mument, ma kienx hemm tranżazzjoni unika"
+
+msgid "Fulfill your dream"
+msgstr "Jissodisfaw ħolma TIEGĦEK"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Jissieħbu komunità tagħna ta \'individwi kreattivi minn madwar id-dinja."
+
+msgid "Create and Collaborate"
+msgstr "Oħloq u jikkollaboraw"
+
+msgid "Fulfill your dream"
+msgstr "Jissodisfaw ħolma ISSA"
+
+msgid "or"
+msgstr "jew"
+
+msgid "Our mission:"
+msgstr "Il-missjoni tagħna:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Li jgħaqqdu nies kreattivi u attivi biex jimplimentaw ideat minn sempliċi u fid-domanda għall inkredibbli u meraviljuż, li jistgħu jiffurmaw il-futur tagħna."
+
+msgid "What is Konstruktor?"
+msgstr "X\'inhu Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - hija parti mill-ħajja reali tagħna, li jiffaċilita b\'mod sinifikanti u tissimplifika"
+
+msgid "*business processes"
+msgstr "* proċessi tan-negozju"
+
+msgid "*materialization of creative ideas"
+msgstr "* materjalizzazzjoni tar ideat kreattivi"
+
+msgid "*constructive cooperation"
+msgstr "* kooperazzjoni kostruttiva"
+
+msgid "Make your dream!"
+msgstr "Jagħmlu ħolma tiegħek!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Konsulent speċjali"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Manager, Software għall-Iżvilupp"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Avukat anzjan"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Disinjatur"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Billi tikklikkja fuq il- \"Li jmiss\" buttuna, inti taċċetta u jaqblu mal-Termini tagħna u Kundizzjonijiet, u inti tirrikonoxxi li inti qrajt Privacy Policy tagħna."
+
+msgid "Incorrect login or password."
+msgstr "Login żbaljata jew il-password."
+
+msgid "Password must be at least 6 characters"
+msgstr "Password għandu jkun mill-inqas 6 karattri"
+
+msgid "January"
+msgstr "Jannar"
+
+msgid "February"
+msgstr "Frar"
+
+msgid "March"
+msgstr "Marzu"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Mejju"
+
+msgid "June"
+msgstr "Ġunju"
+
+msgid "July"
+msgstr "Lulju"
+
+msgid "August"
+msgstr "Awissu"
+
+msgid "September"
+msgstr "Settembru"
+
+msgid "October"
+msgstr "Ottubru"
+
+msgid "November"
+msgstr "Novembru"
+
+msgid "December"
+msgstr "Diċembru"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Files"
+msgstr "Fajls"
+
+msgid "Statistic"
+msgstr "Statistika"
+
+msgid "Support"
+msgstr "Appoġġ"
+
+msgid "Exit"
+msgstr "Ħruġ"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Marketing specialist"
+msgstr "Marketing speċjalista"
+
+msgid "Administrator"
+msgstr "Amministratur"
+
+msgid "Shared with me"
+msgstr "Maqsuma miegħi"
+
+msgid "File Sharing"
+msgstr "Qsim tal-Fajls"
+
+msgid "Provide access by link"
+msgstr "Jipprovdu aċċess permezz ta \'rabta"
+
+msgid "Provide Individual access"
+msgstr "Jipprovdu aċċess individwali"
+
+msgid "Provide edit access"
+msgstr "Ipprovdi jeditjaw aċċess"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Files will be available only for selected users"
+msgstr "Fajls se jkunu disponibbli biss għal utenti magħżula"
+
+msgid "With this link everyone can access to the files"
+msgstr "Ma \'dan links kulħadd jista\' jkollu aċċess għall-fajls"
+
+msgid "Search users, groups, articles..."
+msgstr "Fittex utenti, gruppi, artikoli ..."
+
+msgid "My Group"
+msgstr "Grupp My"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Aħna"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Il-fajl ma jiġix magħżul"
+
+msgid "Set aside"
+msgstr "Twarrib"
+
+msgid "Event time"
+msgstr "Ħin Event"
+
+msgid "Work"
+msgstr "Xogħol"
+
+msgid "Personal"
+msgstr "Personali"
+
+msgid "Time spent for work:"
+msgstr "Ħin mgħoddi għax-xogħol:"
+
+msgid "Personal time spent:"
+msgstr "Ħin personali mgħoddi:"
+
+msgid "Present"
+msgstr "Preżenti"
+
+msgid "Common"
+msgstr "Komuni"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "Entertainment"
+msgstr "Entertainment"
+
+msgid "Select:"
+msgstr "Agħżel:"
+
+msgid "Invalid username or password."
+msgstr "Username invalida jew password."
+
+msgid "Try again."
+msgstr "Erġa \'prova."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "X\'INHU huma inti interessat?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Agħżel mill-inqas 2 ħiliet: għadu 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Agħżel mill-inqas 2 ħiliet: għadu 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Agħżel mill-inqas 2 ħiliet: fdalijiet"
+
+msgid "Active life"
+msgstr "Ħajja attiva"
+
+msgid "Arts and culture"
+msgstr "Arti u kultura"
+
+msgid "Business"
+msgstr "Negozju"
+
+msgid "Cinema"
+msgstr "Ċinema"
+
+msgid "Communications"
+msgstr "Komunikazzjonijiet"
+
+msgid "Construction and repair"
+msgstr "Kostruzzjoni u t-tiswija"
+
+msgid "Cooking"
+msgstr "Tisjir"
+
+msgid "Education"
+msgstr "Edukazzjoni"
+
+msgid "Electronics"
+msgstr "Electronics"
+
+msgid "Finances"
+msgstr "Finanzi"
+
+msgid "Graphics and design"
+msgstr "Grafika u d-disinn"
+
+msgid "Health"
+msgstr "Saħħa"
+
+msgid "Home and family"
+msgstr "Dar u tal-familja"
+
+msgid "Humor"
+msgstr "Humer"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Industrija"
+
+msgid "Insurance"
+msgstr "Assigurazzjoni"
+
+msgid "Literature"
+msgstr "Letteratura"
+
+msgid "Mobile communications and internet"
+msgstr "Komunikazzjonijiet mobbli u l-internet"
+
+msgid "News and Media"
+msgstr "Aħbarijiet u l-Midja"
+
+msgid "Pets"
+msgstr "Pets"
+
+msgid "Products and service"
+msgstr "Prodotti u servizzi"
+
+msgid "Real Estate"
+msgstr "Real Estate"
+
+msgid "Religion"
+msgstr "Reliġjon"
+
+msgid "Science and techs"
+msgstr "Xjenza u techs"
+
+msgid "Security"
+msgstr "Sigurtà"
+
+msgid "Society"
+msgstr "Soċjetà"
+
+msgid "Television"
+msgstr "Television"
+
+msgid "Travel"
+msgstr "Travel"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Arġentina"
+
+msgid "Australia"
+msgstr "Awstralja"
+
+msgid "Austria"
+msgstr "L-Awstrija"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belgium"
+msgstr "Il-Belġju"
+
+msgid "Brazil"
+msgstr "Brażil"
+
+msgid "Bulgaria"
+msgstr "Bulgarija"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Chile"
+msgstr "Ċili"
+
+msgid "Denmark"
+msgstr "Danimarka"
+
+msgid "France"
+msgstr "Franza"
+
+msgid "Germany"
+msgstr "Il-Ġermanja"
+
+msgid "Greece"
+msgstr "Il-Greċja"
+
+msgid "Hungary"
+msgstr "L-Ungerija"
+
+msgid "Iceland"
+msgstr "Islanda"
+
+msgid "Ireland"
+msgstr "Irlanda"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Italja"
+
+msgid "Japan"
+msgstr "Ġappun"
+
+msgid "Mexico"
+msgstr "Messiku"
+
+msgid "Netherlands"
+msgstr "Olanda"
+
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgid "Norway"
+msgstr "Norveġja"
+
+msgid "Poland"
+msgstr "Il-Polonja"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Russia"
+msgstr "Russja"
+
+msgid "Slovakia"
+msgstr "Is-Slovakkja"
+
+msgid "South Africa"
+msgstr "l-Afrika t\'Isfel"
+
+msgid "South Korea"
+msgstr "Korea t\'Isfel"
+
+msgid "Spain"
+msgstr "Spanja"
+
+msgid "Sweden"
+msgstr "Iżvezja"
+
+msgid "Switzerland"
+msgstr "Isvizzera"
+
+msgid "Turkey"
+msgstr "Dundjan"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "United Arab Emirates"
+msgstr "Emirati Għarab Magħquda"
+
+msgid "United Kingdom"
+msgstr "Ir-Renju Unit"
+
+msgid "United States"
+msgstr "L-Istati Uniti"
+
+msgid "achievements"
+msgstr "kisbiet"
+
+msgid "Investment management"
+msgstr "Amministrazzjoni ta \'investiment"
+
+msgid "Select..."
+msgstr "Agħżel ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "Investment Management"
+
+msgid "Investors list"
+msgstr "Lista Investituri"
+
+msgid "My investments"
+msgstr "Investimenti tiegħi"
+
+msgid "Create date"
+msgstr "Oħloq data"
+
+msgid "Author of the project"
+msgstr "Awtur tal-proġett"
+
+msgid "Date and time"
+msgstr "Data u ħin"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "NEXT"
+msgstr "JMISS"
+
+msgid "Next"
+msgstr "Li jmiss"
+
+msgid "Apply"
+msgstr "Applika"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Xjenza"
+
+msgid "Architecture"
+msgstr "Arkitettura"
+
+msgid "Photography"
+msgstr "Fotografija"
+
+msgid "Designer"
+msgstr "Disinjatur"
+
+msgid "IT specialist"
+msgstr "IT speċjalista"
+
+msgid "Agronomist"
+msgstr "Agronomi"
+
+msgid "Architect"
+msgstr "Perit"
+
+msgid "Lawyer"
+msgstr "Avukat"
+
+msgid "Writer"
+msgstr "Writer"
+
+msgid "Doctor"
+msgstr "Tabib"
+
+msgid "Scientist"
+msgstr "Xjentist"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Għalliema"
+
+msgid "Cook"
+msgstr "Cook"
+
+msgid "Artist"
+msgstr "Artist"
+
+msgid "Photographer"
+msgstr "Fotografu"
+
+msgid "Ecologist"
+msgstr "Ekoloġista"
+
+msgid "Economist"
+msgstr "Ekonomista"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Ġurnalist"
+
+msgid "Builder"
+msgstr "Bennej"
+
+msgid "These users may be interesting for you"
+msgstr "Dawn l-utenti jistgħu jkunu interessanti għalik"
+
+msgid "These articles may be interesting for you"
+msgstr "Dawn l-artikoli jistgħu jkunu interessanti għalik"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Inti ssieħbu dan il-grupp bħala Аdministrator"
+
+msgid "articles written."
+msgstr "artikli."
+
+msgid "groups created."
+msgstr "gruppi maħluqa."
+
+msgid "Creation"
+msgstr "Ħolqien"
+
+msgid "Build a dream"
+msgstr "Tibni ħolma"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Aqra aktar artikli interessanti - mur reġistrazzjoni ħielsa"
+

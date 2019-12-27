@@ -1,0 +1,31 @@
+index_page:
+  path: /
+  defaults: { _controller: App\Controller\BalanceController::index }
+
+replenish:
+  path: /replenish
+  defaults: { _controller: App\Controller\BalanceController::replenish }
+
+windrawal:
+  path: /windrawal
+  defaults: { _controller: App\Controller\BalanceController::windrawal }
+
+test:
+  path: /test
+  defaults: { _controller: App\Controller\BalanceController::test }
+
+balance_get_wallet:
+  path: /get-wallet
+  defaults: { _controller: App\Controller\BalanceController::getWallet }
+
+balance_save_wallet:
+  path: /save-wallet
+  defaults: { _controller: App\Controller\BalanceController::saveWallet }
+
+balance_windrawal_proccess:
+  path: /windrawal-process
+  defaults: { _controller: App\Controller\BalanceController::windrawalProcess }
+
+send_sms:
+  path: /send-sms
+  defaults: { _controller: App\Controller\BalanceController::sendSms }

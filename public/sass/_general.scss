@@ -1,0 +1,180 @@
+/*
+file for other main styles for popular(main) classes and tags
+*/
+@import "variables";
+
+
+/*main styles*/
+.container-fluid.fixedLayout{
+  max-width: 1280px;
+}
+/*fix scrollbar problem*/
+    @media screen and (min-width: 960px) {
+      html {
+        margin-left: calc(100vw - 100%) !important;
+        margin-right: 0 !important;
+      }
+    }
+  /*end fix scrollbar problem*/
+
+  body{
+    background: #e9ebf2 !important;
+    font-family: "Open Sans";
+  }
+  .container.origin-styles{
+    margin-top:10px;
+  }
+  .origin-styles a:hover {
+    color: #808996;
+  }
+  /*window resize -> responsive animation*/
+    *{
+      -webkit-transition: all 0.3s ease;
+      -moz-transition: all 0.3s ease;
+      -o-transition: all 0.3s ease;
+      -ms-transition: all 0.3s ease;
+      transition: all 0.3s ease;
+    }
+  /*end indow resize -> responsive animation*/
+
+  /*scroll*/
+  .wrapper-container {
+    height: 100%;
+    overflow-y: scroll;
+  }
+  /*scroll*/
+
+/*end main styles*/
+
+/*tabs*/
+  .tabs {
+    border-top: 1px solid #d8e0e6;
+    display: inline-block;
+    margin: 8px 0 -10px;
+    padding: 0;
+    width: 100%;
+  }
+  .tabs > div{
+    padding-top:10px;
+  }
+  .tabs ul{
+    margin:0px;
+    padding:0px;
+  }
+  .tabs ul li{
+    height: 52px;
+    margin: 0;
+    padding: 4px 10px;
+    cursor:pointer;
+    display:block;
+    float:left;
+    background:#fff;
+    color:#666666;
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+    border-right: 1px solid #ccced3;
+    text-align: center;
+  }
+    .tabs ul li:last-child{
+      //border-right: none;
+    }
+
+  .tabs ul li.active, .tabs ul li.active:hover{
+    background:#7288d8;
+    color:#fff;
+  }
+  .tabs ul li:hover{
+    background:#d6d6d7;
+  }
+/*end tabs*/
+/*forms*/
+  .form input,
+  .jq-selectbox__select,
+  .form .input-origin input[type="text"] {
+    border: 1px solid #d8e0e6;
+    border-radius: 12px;
+    color: #444444;
+    display: block;
+    font-weight: 800;
+    height: 40px;
+    padding: 10px;
+    text-transform: uppercase;
+    width: 100%;
+  }
+.jq-selectbox__trigger-arrow {
+  margin-top: 5px;
+}
+.form select {
+  border: 1px solid #d8e0e6;
+  border-radius: 12px;
+  color: #828894;
+  display: block;
+  font-weight: 400;
+  font-size: 14px;
+  height: 40px;
+  padding: 0 10px;
+  //width: 201px;
+  //text-transform: uppercase;
+  width: 100%;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: url('/images/origin/dropdown.png') calc(100% - 10px) center no-repeat #fff;
+  cursor: pointer;
+}
+/*end forms*/
+.orange-task {
+  border: 2px solid #fbc193;
+  border-radius: 50%;
+  color: #fbc193;
+  font-size: 13px;
+  font-weight: 700;
+  height: 21px;
+  line-height: 1.08;
+  padding: 0;
+  text-align: center;
+  width: 21px
+}
+.grey-task{
+  @extend .orange-task;
+  border-color: #b2bcca;
+  color: #959aa3;
+}
+.red-task{
+  @extend .orange-task;
+  border-color: #fb9393;
+  color: #ff6f6f;
+}
+
+.orange-task.toobig {
+  background: rgba(0, 0, 0, 0) url("/images/origin/orange-round.png") no-repeat scroll center top;
+  border: medium none;
+  height: 30px;
+  margin-left: -11px;
+  margin-right: 0;
+  padding-top: 1px;
+  width: 35px;
+}
+.grey-task.toobig {
+  background: rgba(0, 0, 0, 0) url("/images/origin/grey-round.png") no-repeat scroll center top;
+  border: medium none;
+  height: 30px;
+  margin-left: -11px;
+  margin-right: 0;
+  padding-top: 1px;
+  width: 35px;
+}
+.red-task.toobig {
+  background: rgba(0, 0, 0, 0) url("/images/origin/red-round.png") no-repeat scroll center top;
+  border: medium none;
+  height: 30px;
+  margin-left: -11px;
+  margin-right: 0;
+  padding-top: 1px;
+  width: 35px;
+}
+
+.modal-content{
+  margin-top:15%;
+}

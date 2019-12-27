@@ -1,0 +1,3344 @@
+# Somalia (Сомали) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Somalia (Сомали) <support@konstruktor.com>\n"
+"Language: Somalia (Сомали)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "username"
+
+msgid "Invalid username or password, try again"
+msgstr "Username la qaldo ama Passwordkaaga . Isku day mar kale ."
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "You must log in to access this page"
+msgstr "Waa inaad gasho si aad u hesho this page"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Your fadhi ayaa la dhacay . Fadlan , relogin in talaabadan"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Head Office"
+msgstr "Xafiiska Head"
+
+msgid "Address"
+msgstr "Address"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Apply"
+msgstr "Codso"
+
+msgid "Upload files…"
+msgstr "Computer- files ..."
+
+msgid "Set as main"
+msgstr "Dhig sida ugu weyn"
+
+msgid "Delete"
+msgstr "delete"
+
+msgid "Original image"
+msgstr "image Original"
+
+msgid "Uploaded"
+msgstr "Uploaded"
+
+msgid "File name"
+msgstr "File name"
+
+msgid "File size"
+msgstr "size File"
+
+msgid "Resolution"
+msgstr "Resolution"
+
+msgid "Enlarge"
+msgstr "ballaadhi"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Original size"
+msgstr "size Original"
+
+msgid "For editor"
+msgstr "Wixii editor"
+
+msgid "Resize"
+msgstr "Resize"
+
+msgid "Width"
+msgstr "Width"
+
+msgid "Height"
+msgstr "Dhererka"
+
+msgid "Media URL"
+msgstr "URL Media"
+
+msgid "Add record"
+msgstr "Add record"
+
+msgid "Show filter settings"
+msgstr "Goobaha Show filter"
+
+msgid "Edit record"
+msgstr "record Edit"
+
+msgid "Delete record"
+msgstr "delete record"
+
+msgid "Delete checked records"
+msgstr "Delete diiwaanka hubiyaa"
+
+msgid "Dashboard"
+msgstr "dashboard"
+
+msgid "Password"
+msgstr "Sirta"
+
+msgid "Remember me"
+msgstr "ii xusuuso"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Clean image cache"
+msgstr "Cache Nadiifi image"
+
+msgid "Processing query..."
+msgstr "Su\'aal Processing ..."
+
+msgid "CMS Development"
+msgstr "Horumarinta CMS"
+
+msgid "Admin Home Page"
+msgstr "Admin Home Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Open Home page of Front - dhamaadka ee tab cusub"
+
+msgid "Go to Site"
+msgstr "Tag Site"
+
+msgid "Log out"
+msgstr "Log baxay"
+
+msgid "Send"
+msgstr "U dir"
+
+msgid "General"
+msgstr "General"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Teaser"
+msgstr "teaser"
+
+msgid "Published"
+msgstr "Published"
+
+msgid "Featured"
+msgstr "Featured"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Field is mandatory"
+msgstr "Field waa khasab ah"
+
+msgid "Sort Order"
+msgstr "Sort Order"
+
+msgid "Upload"
+msgstr "Upload"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "March"
+
+msgid "Apr"
+msgstr "April"
+
+msgid "May"
+msgstr "May"
+
+msgid "Jun"
+msgstr "June"
+
+msgid "Jul"
+msgstr "July"
+
+msgid "Aug"
+msgstr "August"
+
+msgid "Sep"
+msgstr "September"
+
+msgid "Oct"
+msgstr "October"
+
+msgid "Nov"
+msgstr "November"
+
+msgid "Dec"
+msgstr "December"
+
+msgid "Product already exists in the order"
+msgstr "Product hore u jirta si ay ugu"
+
+msgid "Product does not exist"
+msgstr "Product kajirin"
+
+msgid "Incorrect request"
+msgstr "codsi la qaldo"
+
+msgid "Products"
+msgstr "Products"
+
+msgid "Product types"
+msgstr "noocyada Product"
+
+msgid "Contractors"
+msgstr "qandaraaslayaasha"
+
+msgid "Contractor"
+msgstr "Qandaraaslaha"
+
+msgid "Orders"
+msgstr "Amarada"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "si New"
+
+msgid "My orders"
+msgstr "amarada My"
+
+msgid "Recharge balance"
+msgstr "dheelitirka xoqdo"
+
+msgid "Administrator"
+msgstr "Maamulaha"
+
+msgid "Incorrect event ID"
+msgstr "ID dhacdo la qaldo"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "qandaraasle edit"
+
+msgid "Create contractor"
+msgstr "Samee qandaraasle"
+
+msgid "Edit question"
+msgstr "su\'aal edit"
+
+msgid "Create question"
+msgstr "Samee su\'aal"
+
+msgid "Edit order"
+msgstr "si edit"
+
+msgid "Create order"
+msgstr "Samee si"
+
+msgid "Edit product"
+msgstr "wax soo saarka edit"
+
+msgid "Create product"
+msgstr "Samee wax soo saarka"
+
+msgid "Edit product type"
+msgstr "Nooca badeecada Edit"
+
+msgid "Create product type"
+msgstr "Samee nooca badeecada"
+
+msgid "You have received a file"
+msgstr "Waxaad ka heshay file ah"
+
+msgid "You received a file from"
+msgstr "Waxaad file ka helay"
+
+msgid "File has been uploaded"
+msgstr "File ayaa uploaded"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "tiro yar"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "items"
+
+msgid "Remove"
+msgstr "saar"
+
+msgid "Contact person"
+msgstr "qofka lala xiriirayo"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Contractor phone"
+msgstr "phone Qandaraaslaha"
+
+msgid "Contractor name"
+msgstr "magaca Qandaraaslaha"
+
+msgid "Contractor details"
+msgstr "faahfaahin Qandaraaslaha"
+
+msgid "Order ID"
+msgstr "Amarka ID"
+
+msgid "Sum"
+msgstr "wadarta"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Dooro habka ku haboon bixinta ku nasto islamarkaana aad isu dheeli"
+
+msgid "Recharge amount"
+msgstr "qadar xoqdo"
+
+msgid "Paid"
+msgstr "Lacag"
+
+msgid "Shipped"
+msgstr "rari"
+
+msgid "- No products in this order -"
+msgstr "- No waxyaabaha si this -"
+
+msgid "month"
+msgstr "bishii"
+
+msgid "No user found"
+msgstr "No user helay"
+
+msgid "Achievement"
+msgstr "Achievement"
+
+msgid "Confirmed accomplishments"
+msgstr "Waxqabadka ay Xaqiijiyey"
+
+msgid "Remove achievement"
+msgstr "saar guul"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "Phone"
+
+msgid "Site URL and email"
+msgstr "URL Site iyo email"
+
+msgid "Remove address"
+msgstr "saar cinwaanka"
+
+msgid "Members"
+msgstr "Xubnaha"
+
+msgid "Requires a payment"
+msgstr "Baahan yahay lacag"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Ready"
+msgstr "Ready"
+
+msgid "Find user..."
+msgstr "Raadi user ..."
+
+msgid "Order it"
+msgstr "amarkannaga"
+
+msgid "Find group..."
+msgstr "Raadi kooxda ..."
+
+msgid "Find user or community..."
+msgstr "Raadi user ama bulshada ..."
+
+msgid "No item found"
+msgstr "Item No helay"
+
+msgid "years"
+msgstr "sano"
+
+msgid "Send message"
+msgstr "U dir fariin"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "To send message press Enter"
+msgstr "Si aad u soo diri jaraa\'id oo fariin gala"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Si aad u soo diri Ctrl jaraa\'id oo fariin + gala"
+
+msgid "Processing file(s)..."
+msgstr "File Processing (s) ..."
+
+msgid "Group settings"
+msgstr "goobaha Group"
+
+msgid "Create group"
+msgstr "Samee group"
+
+msgid "Group has been successfully saved"
+msgstr "Group ayaa si guul leh ku badbaadi la"
+
+msgid "Group title"
+msgstr "horyaalka Group"
+
+msgid "Group video"
+msgstr "Group video"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Your role in group"
+msgstr "Your kaalin ee group"
+
+msgid "Role"
+msgstr "Doorka"
+
+msgid "Photo or video gallery"
+msgstr "Photo ama video gallery"
+
+msgid "Youtube.com URL"
+msgstr "URL Youtube.com"
+
+msgid "Upload video"
+msgstr "Upload video"
+
+msgid "Add group address"
+msgstr "Add to address group"
+
+msgid "Group articles"
+msgstr "articles Group"
+
+msgid "No addresses yet"
+msgstr "No cinwaanada weli"
+
+msgid "Add group achievement"
+msgstr "Add guul group"
+
+msgid "No achivements yet"
+msgstr "No achivements weli"
+
+msgid "Are you sure to delete this user"
+msgstr "Ma hubtaa in aad tirtirto this user"
+
+msgid "Add member"
+msgstr "Add xubin"
+
+msgid "Are you sure to delete this record?"
+msgstr "Ma hubtaa in aad tirtirto diiwaankan ?"
+
+msgid "Join this group"
+msgstr "Ku biir kooxda this"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Your casuumad loo diray maamulka kooxda"
+
+msgid "All addresses"
+msgstr "cinwaanada oo dhan"
+
+msgid "Collapse"
+msgstr "burburkii"
+
+msgid "Achievements"
+msgstr "Guulo"
+
+msgid "Show more"
+msgstr "Tus dheeraad ah"
+
+msgid "Team"
+msgstr "Kooxda"
+
+msgid "Projects"
+msgstr "Mashaariicda"
+
+msgid "New project"
+msgstr "mashruuca cusub"
+
+msgid "Project has not been created yet"
+msgstr "Project aan la abuuray weli"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "Balance"
+
+msgid "Main page"
+msgstr "page Main"
+
+msgid "Upload image"
+msgstr "image Upload"
+
+msgid "My time"
+msgstr "Wakhtigaygii"
+
+msgid "Day"
+msgstr "Maalinta"
+
+msgid "Week"
+msgstr "Week"
+
+msgid "Project settings"
+msgstr "goobaha Project"
+
+msgid "Create project"
+msgstr "Samee mashruuca"
+
+msgid "Project has been successfully saved"
+msgstr "Mashruuca ayaa si guul leh ku badbaadi la"
+
+msgid "Project name"
+msgstr "magaca Mashruuca"
+
+msgid "Deadline"
+msgstr "Deadline"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Assigned to"
+msgstr "Hawsha in"
+
+msgid "Discussion"
+msgstr "Dood"
+
+msgid "Task was created"
+msgstr "Task waxaa la abuuray"
+
+msgid "Task was closed"
+msgstr "Task la xiray"
+
+msgid "Go to Group"
+msgstr "Tag Group"
+
+msgid "Closed"
+msgstr "xirayaa"
+
+msgid "Last updates"
+msgstr "Last updates"
+
+msgid "Project is closed"
+msgstr "Project waa la xiray"
+
+msgid "No open tasks"
+msgstr "Hawlaha furan No"
+
+msgid "New task"
+msgstr "hawl New"
+
+msgid "Closed tasks"
+msgstr "hawlaha xiran"
+
+msgid "Add subproject"
+msgstr "Ku dar VC"
+
+msgid "Add task"
+msgstr "Ku dar hawsha"
+
+msgid "Sun"
+msgstr "Sunday"
+
+msgid "Mon"
+msgstr "Monday"
+
+msgid "Tue"
+msgstr "Tuesday"
+
+msgid "Wed"
+msgstr "Wednesday"
+
+msgid "Thur"
+msgstr "Thursday"
+
+msgid "Fri"
+msgstr "Friday"
+
+msgid "Sat"
+msgstr "Saturday"
+
+msgid "Event title"
+msgstr "Event horyaalka"
+
+msgid "Event description"
+msgstr "sharaxaad Event"
+
+msgid "I registered on this site"
+msgstr "Waxaan ka diiwaan gashan on this site"
+
+msgid "Last created groups"
+msgstr "Kooxaha abuuray Last"
+
+msgid "You joined this group as"
+msgstr "Waxaad ku soo biiray kooxda sida"
+
+msgid "You received a request to join the group"
+msgstr "Waxaad codsi inuu ku biiro kooxda"
+
+msgid "Updated site"
+msgstr "Updated goobta"
+
+msgid "Site is under construction"
+msgstr "Site ka yar yahay dhismaha"
+
+msgid "Last registered users"
+msgstr "Last users ka diiwaan gashan"
+
+msgid "User settings"
+msgstr "User goobaha"
+
+msgid "Technical support"
+msgstr "taageero Technical"
+
+msgid "Change email"
+msgstr "Change email"
+
+msgid "Change password"
+msgstr "Change password"
+
+msgid "User has been successfully saved"
+msgstr "User ayaa si guul leh ku badbaadi la"
+
+msgid "Full name"
+msgstr "magaca"
+
+msgid "My video"
+msgstr "My video"
+
+msgid "Skills"
+msgstr "Skills"
+
+msgid "Birthday"
+msgstr "Dhalashada"
+
+msgid "Country of residence"
+msgstr "Dalka aad deggan tahay"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Zip Code"
+msgstr "Zip Code"
+
+msgid "City/town of residence"
+msgstr "City / magaalada ay degan yihiin"
+
+msgid "University/college"
+msgstr "University / kulliyad"
+
+msgid "University/college photo"
+msgstr "University / sawir college"
+
+msgid "Add user\'s accomplishments"
+msgstr "Add guulaha user ee"
+
+msgid "Interface language"
+msgstr "af interface"
+
+msgid "How other people see this page"
+msgstr "Sidee dadka kale u arkaan this page"
+
+msgid "Video with me"
+msgstr "Video ila"
+
+msgid "Groups"
+msgstr "Kooxaha"
+
+msgid "Registered today"
+msgstr "diiwaangashan maanta"
+
+msgid "Qty"
+msgstr "Qty"
+
+msgid "No registered users yet"
+msgstr "No users diiwaangashan weli"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Registered total"
+msgstr "diiwaangashan total"
+
+msgid "You received a file"
+msgstr "Waxaad heshay file ah"
+
+msgid "You were invited into this room"
+msgstr "Waxaad la marti qaaday qolka this"
+
+msgid "Request is being processed"
+msgstr "Codsiga waxaa la warshadeeyey"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Messenger"
+msgstr "Rasuulka"
+
+msgid "New subproject"
+msgstr "VC New"
+
+msgid "messages written."
+msgstr "farriimo qoraal ah ."
+
+msgid "projects created based on groups."
+msgstr "Mashaariicda abuuray ku salaysan kooxo ."
+
+msgid "users registered on website."
+msgstr "users ka diiwaan gashan on website ."
+
+msgid "New email"
+msgstr "New email"
+
+msgid "Confirm email"
+msgstr "Xaqiiji email"
+
+msgid "New password"
+msgstr "New password"
+
+msgid "Confirm password"
+msgstr "Xaqiiji password"
+
+msgid "Occupation"
+msgstr "Speciality"
+
+msgid "Timezone"
+msgstr "Timezone"
+
+msgid "Answer"
+msgstr "Jawaab"
+
+msgid "Articles"
+msgstr "Articles"
+
+msgid "Article"
+msgstr "Qodobka"
+
+msgid "Video-article"
+msgstr "Video - article"
+
+msgid "Find article..."
+msgstr "Raadi article ..."
+
+msgid "Politics"
+msgstr "Politics"
+
+msgid "Economics"
+msgstr "dhaqaalaha"
+
+msgid "Community"
+msgstr "Bulshada"
+
+msgid "Culture"
+msgstr "Dhaqanka"
+
+msgid "Sports"
+msgstr "Sports"
+
+msgid "Hi-tech"
+msgstr "Hi - casriga ah"
+
+msgid "Cars"
+msgstr "Baabuurta"
+
+msgid "Fashion"
+msgstr "Fashion"
+
+msgid "Games"
+msgstr "Ciyaaraha"
+
+msgid "Other"
+msgstr "kale"
+
+msgid "Invalid mediafile"
+msgstr "mediafile aan saxnayn"
+
+msgid "No articles in this category yet"
+msgstr "No articles in this category weli"
+
+msgid "Back to profile"
+msgstr "Back to muuqaal"
+
+msgid "View article"
+msgstr "article View"
+
+msgid "Edit article"
+msgstr "article edit"
+
+msgid "Create article"
+msgstr "Samee article"
+
+msgid "Article title"
+msgstr "Qodobka horyaalka"
+
+msgid "Article section"
+msgstr "QODOBKA"
+
+msgid "Choose image"
+msgstr "Dooro image"
+
+msgid "Save and upload"
+msgstr "Save iyo geliyaan"
+
+msgid "Show more..."
+msgstr "Tus more ..."
+
+msgid "Create"
+msgstr "Samee"
+
+msgid "Edit"
+msgstr "edit"
+
+msgid "Project"
+msgstr "Project"
+
+msgid "Team"
+msgstr "Kooxda"
+
+msgid "A new article was published"
+msgstr "Article cusub oo la daabacay"
+
+msgid "You joined this project"
+msgstr "Waxaad ku biiray mashruuca"
+
+msgid "Enter your information in the User settings"
+msgstr "Waxaad ku qortaa macluumaadka goobaha User"
+
+msgid "Communities"
+msgstr "Communities"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Video bandhigga guulaha aan"
+
+msgid "My articles"
+msgstr "articles My"
+
+msgid "User"
+msgstr "User"
+
+msgid "Users"
+msgstr "Users"
+
+msgid "Add new list"
+msgstr "Ku dar liiska cusub"
+
+msgid "List title"
+msgstr "List horyaalka"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Add to favorites"
+msgstr "Ku dar ugu cadcad"
+
+msgid "Delete from favorites"
+msgstr "Delete ka cadcad"
+
+msgid "Select list"
+msgstr "Dooro liiska"
+
+msgid "Subscriptions"
+msgstr "Macmiil-"
+
+msgid "Subscribe"
+msgstr "Subscribe"
+
+msgid "Unsubscribe"
+msgstr "Unsubscribe"
+
+msgid "General list"
+msgstr "liiska Guud"
+
+msgid "No users in this list"
+msgstr "No isticmaala in liiskan"
+
+msgid "Publish"
+msgstr "naadiya"
+
+msgid "Unpublish"
+msgstr "Unpublish"
+
+msgid "Add user"
+msgstr "Ku dar user"
+
+msgid "Create document"
+msgstr "Samee qoraal"
+
+msgid "Edit document"
+msgstr "document edit"
+
+msgid "View"
+msgstr "View"
+
+msgid "Document title"
+msgstr "Document horyaalka"
+
+msgid "Find document..."
+msgstr "Raadi document ..."
+
+msgid "Share your thoughts"
+msgstr "La wadaag fikradahaaga"
+
+msgid "Leave your comment"
+msgstr "Ka tag comment"
+
+msgid "Accept"
+msgstr "Ogolaanshaha"
+
+msgid "Decline"
+msgstr "Hoos u dhaca"
+
+msgid "Add article"
+msgstr "Ku dar article"
+
+msgid "Link to verified accomplishments"
+msgstr "Link in guulaha la xaqiijiyey"
+
+msgid "No articles here yet..."
+msgstr "No halkan articles weli"
+
+msgid "Find file or folder..."
+msgstr "Raadi file ama folder ..."
+
+msgid "Sort"
+msgstr "Sort"
+
+msgid "By name"
+msgstr "By magaca"
+
+msgid "By date"
+msgstr "By taariikhda"
+
+msgid "By updated date"
+msgstr "By taariikhda updated"
+
+msgid "By size"
+msgstr "By size"
+
+msgid "By type"
+msgstr "By nooca"
+
+msgid "Move"
+msgstr "dhaqaaq"
+
+msgid "File Manager"
+msgstr "File Manager"
+
+msgid "Share link"
+msgstr "Share link"
+
+msgid "Responsible"
+msgstr "Responsible"
+
+msgid "Performer"
+msgstr "jilaa"
+
+msgid "New Folder"
+msgstr "Folder New"
+
+msgid "Folder name"
+msgstr "magaca folder"
+
+msgid "By default"
+msgstr "By default"
+
+msgid "Back to group"
+msgstr "Back to group"
+
+msgid "year(s)"
+msgstr "sano (s)"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "February"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "July"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "October"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Password Reminder"
+msgstr "Xusuusinta Password"
+
+msgid "Log In"
+msgstr "Log In"
+
+msgid "Sign in"
+msgstr "Gudaha gal"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "First name"
+msgstr "Magaca hore"
+
+msgid "Last name"
+msgstr "Magaca awoowe"
+
+msgid "I agree with rules"
+msgstr "Waxaan la xeerarka heshiin"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Mail xaqiijin A soo diray cinwaanka emailkaaga."
+
+msgid "Thanks"
+msgstr "Thanks"
+
+msgid "Password must be at least 6 characters"
+msgstr "Password waa in ugu yaraan 6 characters"
+
+msgid "Creative Environment"
+msgstr "Deegaanka Creative"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Waxaad u baahan tahay in ugu yaraan saddex iyo toban sano jir si ay u isticmaalaan adeeggan"
+
+msgid "Order status"
+msgstr "xaaladda Order"
+
+msgid "Processing order"
+msgstr "si Processing"
+
+msgid "Requires a payment"
+msgstr "Baahan yahay lacag"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Ready"
+msgstr "Ready"
+
+msgid "Thank you for your payment"
+msgstr "Waad ku mahadsan tahay bixinta"
+
+msgid "Your payment has been cancelled"
+msgstr "Lacagta ayaa la baajiyay"
+
+msgid "page"
+msgstr "page"
+
+msgid "Rent period"
+msgstr "muddo Rent"
+
+msgid "Total, month"
+msgstr "Total, bishii"
+
+msgid "Order items"
+msgstr "waxyaabaha Order"
+
+msgid "No records found"
+msgstr "Diiwaanka No helay"
+
+msgid "User with this email is already exist"
+msgstr "User la email tani waa hore u jirin"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Folder ama file la magac oo kale waxaa hore u jirin in folder caga"
+
+msgid "Minimal quantity"
+msgstr "tiro yar"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "nuqulo print"
+
+msgid "Terms of Use"
+msgstr "Shuruudaha Isticmaalka"
+
+msgid "Privacy Policy"
+msgstr "Qaanuunka Arrimaha Khaaska ah"
+
+msgid "Find project..."
+msgstr "Raadi mashruuca ..."
+
+msgid "New Project"
+msgstr "Mashruuca cusub"
+
+msgid "Accounts"
+msgstr "Xisaabaadka"
+
+msgid "Operations"
+msgstr "Hawlgallada"
+
+msgid "All accounts"
+msgstr "Dhammaan xisaabaadka"
+
+msgid "All categories"
+msgstr "qaybaha oo dhan"
+
+msgid "Expense"
+msgstr "Kharashka"
+
+msgid "Income"
+msgstr "Income"
+
+msgid "Transfer"
+msgstr "Transfer"
+
+msgid "Expense"
+msgstr "Kharashka"
+
+msgid "income"
+msgstr "dakhliga"
+
+msgid "tax"
+msgstr "canshuurta"
+
+msgid "percent"
+msgstr "boqolkiiba"
+
+msgid "transfer"
+msgstr "kala iibsiga"
+
+msgid "Make operation"
+msgstr "samee howlgal"
+
+msgid "Select date"
+msgstr "Dooro taariikhda"
+
+msgid "Select account"
+msgstr "Dooro account"
+
+msgid "Month"
+msgstr "Bisha"
+
+msgid "Quarter"
+msgstr "quarter"
+
+msgid "Year"
+msgstr "Sanadka"
+
+msgid "From"
+msgstr "Laga soo bilaabo"
+
+msgid "To"
+msgstr "Si aad u"
+
+msgid "Expense amount"
+msgstr "qadarka Kharash"
+
+msgid "Categories"
+msgstr "Categories"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "Income amount"
+msgstr "qadar Income"
+
+msgid "Transfer amount"
+msgstr "qadar Transfer"
+
+msgid "From account"
+msgstr "Laga soo bilaabo account"
+
+msgid "To account"
+msgstr "Si aad u xisaabiyo"
+
+msgid "New Account"
+msgstr "Akoonka Cusub"
+
+msgid "New Category"
+msgstr "New Category"
+
+msgid "All"
+msgstr "All"
+
+msgid "Name"
+msgstr "Magaca"
+
+msgid "Enter category name"
+msgstr "Ku qor magaca category"
+
+msgid "Select type"
+msgstr "Dooro nooca"
+
+msgid "Credit card"
+msgstr "card Credit"
+
+msgid "Debit card"
+msgstr "kaarka Deynta"
+
+msgid "Bank account"
+msgstr "account Bank"
+
+msgid "Cash"
+msgstr "Lacag caddaan ah"
+
+msgid "Balance is empty"
+msgstr "Balance madhan tahay"
+
+msgid "Statistic is empty"
+msgstr "Tiro madhan tahay"
+
+msgid "Regular payments"
+msgstr "lacagaha joogtada ah"
+
+msgid "Are you sure ?"
+msgstr "Ma hubtaa ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Ma hubtaa in ay xirto mashruucan ?"
+
+msgid "Project was deleted successfully"
+msgstr "Project ayaa si guul leh tirtiray"
+
+msgid "Select currency"
+msgstr "Dooro lacagta"
+
+msgid "Account"
+msgstr "Account"
+
+msgid "Orders list"
+msgstr "liiska Amarada"
+
+msgid "Order payments"
+msgstr "lacagta Order"
+
+msgid "View order"
+msgstr "si View"
+
+msgid "No response from Printer API"
+msgstr "No jawaab ka Printer API"
+
+msgid "Bad response from Printer API"
+msgstr "Jawaab xun ka Printer API"
+
+msgid "User ID"
+msgstr "User ID"
+
+msgid "Contact Person"
+msgstr "Qofka xiriiriyaha"
+
+msgid "No orders to process"
+msgstr "Amarada No si loo farsameeyo"
+
+msgid "Article announce image"
+msgstr "Qodobka ku dhawaaqo image"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Saxnayn video url . Leave maran ama geliso url youtube sax ah"
+
+msgid "Please, enter Contractor data"
+msgstr "Fadlan , soo galaan xogta Qandaraaslaha"
+
+msgid "Distribute devices"
+msgstr "U qaybi qalabka"
+
+msgid "Quantity"
+msgstr "tirada"
+
+msgid "Devices left"
+msgstr "Qalabka tagay"
+
+msgid "Distributed devices"
+msgstr "qalabka qeybiyey"
+
+msgid "You must enter quantity"
+msgstr "Waa in aad soo galaan tiro"
+
+msgid "All devices are distributed"
+msgstr "Qalabka oo dhan waxaa loo qaybiyey"
+
+msgid "IP address"
+msgstr "ciwaanka IP: ga"
+
+msgid "Only for printer"
+msgstr "Kaliya u printer"
+
+msgid "Counter"
+msgstr "Counter"
+
+msgid "You was excluded from this room"
+msgstr "Waxaad ahaa laga saaray qolka this"
+
+msgid "Compare"
+msgstr "Is barbar dhig"
+
+msgid "Scheduled transaction"
+msgstr "macaamil ganacsi loo qabtay"
+
+msgid "Select transfer account"
+msgstr "Account kala iibsiga Select"
+
+msgid "Select income account"
+msgstr "Dakhliga Select"
+
+msgid "Reports"
+msgstr "Wararka"
+
+msgid "Goals"
+msgstr "Goolal"
+
+msgid "Budgets"
+msgstr "miisaaniyadda"
+
+msgid "Enter user name or email..."
+msgstr "Ku qor magaca isticmaalaha ama email ..."
+
+msgid "Invite had been sended"
+msgstr "Martiqaad la sended"
+
+msgid "Statistics"
+msgstr "Statistics"
+
+msgid "Updated site began to work"
+msgstr "Updated goobta bilaabeen in ay ka shaqeeyaan"
+
+msgid "City of residence"
+msgstr "City ay degan yihiin"
+
+msgid "Edit favourites list"
+msgstr "Liiska ugu cadcad Edit"
+
+msgid "Add favourites list"
+msgstr "Ku dar liiska ugu cadcad"
+
+msgid "Categories is required"
+msgstr "Categories ayaa loo baahan yahay"
+
+msgid "Type new category name and hit Enter"
+msgstr "Ku qor magaca cusub category oo ka dhacay gala"
+
+msgid "You created an order"
+msgstr "Waxaad abuuray amar"
+
+msgid "You received a device due to this order"
+msgstr "Waxaad helay qalab ay sabab u tahay sidan"
+
+msgid "%s attached %s to task %s"
+msgstr "%s lifaaqan %s qaban %s"
+
+msgid "member(s)"
+msgstr "xubin (s)"
+
+msgid "%s commented task %s"
+msgstr "%s hawsha uga hadashay %s"
+
+msgid "%s closed task %s"
+msgstr "%s hawsha u xiran %s"
+
+msgid "%s created task %s"
+msgstr "%s hawl abuuray %s"
+
+msgid "%s created this project"
+msgstr "%s abuuray mashruucan"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s VC abuuray \" %s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s xiran mashruuca \" %s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s xiran VC \" %s \""
+
+msgid "This field must not be blank"
+msgstr "Beerta waa in aanay noqon maran"
+
+msgid "Document with such name is already exist"
+msgstr "Document la magac oo kale waa hore u jirin"
+
+msgid "Wait until image upload"
+msgstr "Sug ilaa Upload image"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Message can not be empty"
+msgstr "Fariinta ma noqon karo madhan"
+
+msgid "Yes"
+msgstr "Haa"
+
+msgid "No"
+msgstr "No"
+
+msgid "Created"
+msgstr "Created"
+
+msgid "Compare is empty"
+msgstr "Isbarbardhigga madhan tahay"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Ma hubtaa in aad rabto in aad tirtirto howlgal"
+
+msgid "Do you really want to delete transaction"
+msgstr "Xaqiiqdii ma waxaad rabtaa in ay tirtirto macaamil ganacsi"
+
+msgid "Project with same name already exists"
+msgstr "Mashruuca la magac la mid ah horay ka jira"
+
+msgid "Account is not found"
+msgstr "Account waa inaan laga helin"
+
+msgid "Currency is required"
+msgstr "Lacagta ayaa loo baahan yahay"
+
+msgid "error while deleting document"
+msgstr "Baadi halka tirka document"
+
+msgid "Expences"
+msgstr "meherkii"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Waxaad casuumay user \" %s \" qolka this"
+
+msgid "User \"%s\" joined this room"
+msgstr "User \" %s \" biiray qolka this"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Waxaad saaray user \" %s \" ka qolkan"
+
+msgid "User \"%s\" left this room"
+msgstr "User \" %s \" qolka tagay"
+
+msgid "Add account"
+msgstr "Ku dar xisaabta"
+
+msgid "The requested page is not found"
+msgstr "Bogga codsaday waa inaan laga helin"
+
+msgid "Document"
+msgstr "Document"
+
+msgid "Table"
+msgstr "Shaxda"
+
+msgid "file(s)"
+msgstr "file (s)"
+
+msgid "Residue"
+msgstr "ka hadhay"
+
+msgid "Result is empty"
+msgstr "Natiijada waa madhan"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Tirada guud waa %s u %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "In lagu aamino %s bishiiba si account la xiriira Waxaad"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "finish"
+msgstr "dhameysatay"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Account soo xulay waa hore u isticmaalka goolka kale"
+
+msgid "Amount required"
+msgstr "Lacagta loo baahan yahay"
+
+msgid "New goal"
+msgstr "goolka New"
+
+msgid "Goal"
+msgstr "Goal"
+
+msgid "Goal name"
+msgstr "magaca Goal"
+
+msgid "Invalid date"
+msgstr "taariikhda saxda aheyn"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Wadarta lagama maarmaanka ah waa in ay noqdaan tiro togan"
+
+msgid "Remain"
+msgstr "Remain"
+
+msgid "Last day"
+msgstr "maalinta ugu dambeysa"
+
+msgid "Accumulated"
+msgstr "ururay"
+
+msgid "Put aside"
+msgstr "iska dhigay"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "February"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "July"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "October"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Expenses projected/actual"
+msgstr "Kharashka la saadaaliyey / dhabta ah"
+
+msgid "Net Income projected/actual"
+msgstr "Saadaaliyey / dhabta ah Income Net"
+
+msgid "New budget"
+msgstr "miisaaniyadda New"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Dakhliga iyo Kharashyada Chart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Miisaaniyadda iyadoo labada isku mid ah xisaabta iyo category horeba ka jira"
+
+msgid "Budget is empty"
+msgstr "Miisaaniyadda madhan tahay"
+
+msgid "Budget"
+msgstr "Miisaaniyadda"
+
+msgid "plan"
+msgstr "qorshaha"
+
+msgid "fact"
+msgstr "Dhab ahaantii"
+
+msgid "diff"
+msgstr "Diif"
+
+msgid "Show More"
+msgstr "Tus More"
+
+msgid "Cancel"
+msgstr "cancel"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "iibka My"
+
+msgid "Time spent"
+msgstr "Time ku qaatay"
+
+msgid "Total time spent"
+msgstr "Total waqtiga"
+
+msgid "Earnings per hour"
+msgstr "Lacagta saacaddii"
+
+msgid "Total earnings"
+msgstr "Wadarta dakhliga"
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Phone call"
+msgstr "Phone call"
+
+msgid "Telephone calls"
+msgstr "telephone"
+
+msgid "Send email"
+msgstr "U dir email"
+
+msgid "Emails"
+msgstr "emails"
+
+msgid "Meeting"
+msgstr "Shirkii"
+
+msgid "Meetings"
+msgstr "Shirarka"
+
+msgid "All events"
+msgstr "Dhammaan dhacdooyinka"
+
+msgid "Task"
+msgstr "Task"
+
+msgid "Event"
+msgstr "dhacdo"
+
+msgid "Events"
+msgstr "Dhacdooyinka"
+
+msgid "Time"
+msgstr "Waqtiga"
+
+msgid "Events statistics"
+msgstr "Dhacdooyinka statistics"
+
+msgid "days"
+msgstr "maalmood"
+
+msgid "hours"
+msgstr "saacadood"
+
+msgid "minutes"
+msgstr "daqiiqo"
+
+msgid "Income & expense"
+msgstr "Dakhliga & kharashka"
+
+msgid "Show chart"
+msgstr "Show shaxda"
+
+msgid "Hide chart"
+msgstr "Qari shaxda"
+
+msgid "Add event"
+msgstr "Ku dar dhacdo"
+
+msgid "Add financial data"
+msgstr "Ku dar xog maaliyadeed"
+
+msgid "Select contractor"
+msgstr "Dooro qandaraasle"
+
+msgid "Net Income"
+msgstr "Dakhliga Net"
+
+msgid "Revenue"
+msgstr "Revenue"
+
+msgid "Taxes"
+msgstr "Cashuurta"
+
+msgid "Amount planned"
+msgstr "qorsheeyay Lacagta"
+
+msgid "Amount"
+msgstr "Lacagta"
+
+msgid "Period"
+msgstr "Muddada"
+
+msgid "Are you sure to close this task?"
+msgstr "Ma hubtaa in ay xirto hawshan ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "kooxaha oo dhan"
+
+msgid "added from task"
+msgstr "ku daray ka hawl"
+
+msgid "Monthly repeat"
+msgstr "celis Bishiiba"
+
+msgid "Select category"
+msgstr "Select category"
+
+msgid "Event type"
+msgstr "nooca Event"
+
+msgid "Margin"
+msgstr "margin"
+
+msgid "Use finance project"
+msgstr "Isticmaal mashruuca maaliyadda"
+
+msgid "New investment project"
+msgstr "Mashruuc maalgashi New"
+
+msgid "Investment project settings"
+msgstr "Goobaha mashruuca Investment"
+
+msgid "Picture, for the announcement project"
+msgstr "Picture , mashruuca dhawaaqay"
+
+msgid "Announcement project"
+msgstr "mashruuca Farriin"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Photos or videos gallery"
+msgstr "Photos ama videos gallery"
+
+msgid "required amount"
+msgstr "lacagta loo baahan yahay"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Duration Project ( 60 cisho ugu badnaan )"
+
+msgid "Project duration"
+msgstr "duration Project"
+
+msgid "Add reward"
+msgstr "Ku dar abaal"
+
+msgid "Delivery date"
+msgstr "taariikhda Delivery"
+
+msgid "Payment systems"
+msgstr "nidaamyada Payment"
+
+msgid "Terms of service"
+msgstr "Shuruudaha adeegga"
+
+msgid "Agreement"
+msgstr "Heshiiska"
+
+msgid "Payment"
+msgstr "Payment"
+
+msgid "My projects"
+msgstr "mashaariicda My"
+
+msgid "Search result"
+msgstr "natiijada Search"
+
+msgid "Nothing not found"
+msgstr "Waxba ma aan helin"
+
+msgid "The project has no sponsors"
+msgstr "Mashruucu wuxuu leeyahay kafaala lahayn"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Food"
+msgstr "Cuntada"
+
+msgid "Journalism"
+msgstr "Journalism"
+
+msgid "Games"
+msgstr "Ciyaaraha"
+
+msgid "Art"
+msgstr "Art"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "Music"
+
+msgid "Handicrafts"
+msgstr "farsamada gacanta"
+
+msgid "Publishing"
+msgstr "FAAFINTA"
+
+msgid "Theater"
+msgstr "tiyaatarka"
+
+msgid "Technology"
+msgstr "Technology"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Dance"
+msgstr "Qoob ka ciyaarka"
+
+msgid "Invalid youtube video"
+msgstr "Saxnayn youtube video"
+
+msgid "is required"
+msgstr "ayaa loo baahan yahay"
+
+msgid "User"
+msgstr "User"
+
+msgid "Date"
+msgstr "Taariikhda"
+
+msgid "Collected"
+msgstr "ururiyay"
+
+msgid "Choose period"
+msgstr "Dooro muddo"
+
+msgid "Choose region"
+msgstr "Dooro gobolka"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Today"
+msgstr "Maanta"
+
+msgid "Week"
+msgstr "Week"
+
+msgid "Month"
+msgstr "Bisha"
+
+msgid "Year"
+msgstr "Sanadka"
+
+msgid "Free registration"
+msgstr "diiwaangelinta Free"
+
+msgid "Join"
+msgstr "Ku biir"
+
+msgid "Log in using"
+msgstr "Gal la isticmaalayo"
+
+msgid "Vacancies"
+msgstr "fursadaha shaqo"
+
+msgid "About Us"
+msgstr "Nagu saabsan"
+
+msgid "You will need email to log in"
+msgstr "Waxaad u baahan doontaa email si ay u gasho"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Isku darka A of 6 lambar iyo jilayaal"
+
+msgid "Search users, groups, articles..."
+msgstr "Search users , kooxaha , articles ..."
+
+msgid "Cloud"
+msgstr "Cloud"
+
+msgid "Sunday"
+msgstr "Sunday"
+
+msgid "Monday"
+msgstr "Monday"
+
+msgid "Tuesday"
+msgstr "Tuesday"
+
+msgid "Wednesday"
+msgstr "Wednesday"
+
+msgid "Thursday"
+msgstr "Thursday"
+
+msgid "Friday"
+msgstr "Friday"
+
+msgid "Saturday"
+msgstr "Saturday"
+
+msgid "Edit"
+msgstr "edit"
+
+msgid "Create group"
+msgstr "Samee group"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Aad hubto in aad dooneyso in aad ka tago this page ?"
+
+msgid "More"
+msgstr "More"
+
+msgid "Less"
+msgstr "In ka yar"
+
+msgid "Pending"
+msgstr "sugayo"
+
+msgid "Approved"
+msgstr "ansixiyey"
+
+msgid "Rejected"
+msgstr "diiday"
+
+msgid "Subprojects"
+msgstr "waakuwan"
+
+msgid "Group edit"
+msgstr "edit Group"
+
+msgid "Startup"
+msgstr "xawaaladaha"
+
+msgid "Tattoo"
+msgstr "tattoo"
+
+msgid "Health"
+msgstr "Caafimaadka"
+
+msgid "Weapon"
+msgstr "hub"
+
+msgid "Astronomy"
+msgstr "xiddigaha"
+
+msgid "All articles"
+msgstr "Dhamaan maqaalada"
+
+msgid "Article editor"
+msgstr "editor Qodobka"
+
+msgid "Document editor"
+msgstr "editor Document"
+
+msgid "Apply changes"
+msgstr "Codso isbedel"
+
+msgid "Save changes?"
+msgstr "Save isbedel ?"
+
+msgid "published an article"
+msgstr "daabacday maqaal"
+
+msgid "Users"
+msgstr "Users"
+
+msgid "Shared With Me"
+msgstr "Ila qaybsan"
+
+msgid "share"
+msgstr "share"
+
+msgid "Select Group Responsible"
+msgstr "Dooro Group Responsible"
+
+msgid "Create folder"
+msgstr "Samee folder"
+
+msgid "Title must be at least 3 characters"
+msgstr "Title waa in ugu yaraan 3 xuruuf"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Free 10 GB , Finance Manager , maal module , iyo qaar kale oo badan oo bilaash ah iyo weligiis"
+
+msgid "Best regards"
+msgstr "Salaan Best"
+
+msgid "Updates in last 12 hours:"
+msgstr "Updates in 12 saacadood ee la soo dhaafay :"
+
+msgid "expense"
+msgstr "kharashka"
+
+msgid "Commentary on the event:"
+msgstr "Commentary on dhacdo :"
+
+msgid "Event place"
+msgstr "meel Event"
+
+msgid "Project was updated"
+msgstr "Project ahayd"
+
+msgid "Project was created"
+msgstr "Mashruuca waxaa la abuuray"
+
+msgid "Project was closed"
+msgstr "Mashruuca ayaa la xiray"
+
+msgid "account"
+msgstr "account"
+
+msgid "removed task"
+msgstr "hawsha laga saaray"
+
+msgid "removed subproject"
+msgstr "VC saaray"
+
+msgid "Title can not be empty"
+msgstr "Title ma noqon karo madhan"
+
+msgid "Do not select the type of event"
+msgstr "Ha dooro nooca dhacdada"
+
+msgid "Error while saving comment"
+msgstr "Error halka lagu badbaadinayo comment"
+
+msgid "Save error: access denied"
+msgstr "Save baadi : helaan beeniyay"
+
+msgid "Remains"
+msgstr "weli"
+
+msgid "Time spent, h."
+msgstr "Time ku qaatay , h ."
+
+msgid "Emails"
+msgstr "emails"
+
+msgid "Meetings"
+msgstr "Shirarka"
+
+msgid "All users"
+msgstr "Dhamaan dadka isticmaala"
+
+msgid "Category"
+msgstr "Category"
+
+msgid "Finance project"
+msgstr "mashruuca Maaliyadda"
+
+msgid "Investment project"
+msgstr "mashruuca Investment"
+
+msgid "Nature"
+msgstr "Nature"
+
+msgid "Data is empty"
+msgstr "Data madhan tahay"
+
+msgid "Visitors"
+msgstr "Visitors"
+
+msgid "My profile"
+msgstr "My profile"
+
+msgid "Sponsors"
+msgstr "Dadka kafaala"
+
+msgid "Prior to completion"
+msgstr "Ka hor inta aan la dhameeyo"
+
+msgid "Select"
+msgstr "Dooro"
+
+msgid "My groups"
+msgstr "kooxaha My"
+
+msgid "The invitation has been sent successfully"
+msgstr "Martiqaadka ayaa loo diray si guul leh"
+
+msgid "Username has already been invited to this project"
+msgstr "Username ayaa durbaba lagu martiqaaday in ay mashruucan"
+
+msgid "The user is the creator of the project"
+msgstr "User waa abuuraha mashruuca"
+
+msgid "Provide full access"
+msgstr "Bixi marin buuxa"
+
+msgid "Select elements to provide access"
+msgstr "Dooro xubno si ay u bixiyaan helitaanka"
+
+msgid "Select all"
+msgstr "Dooro dhamaan"
+
+msgid "User E-mail"
+msgstr "User E -mail"
+
+msgid "Click on the field to select a category"
+msgstr "Riix garoonka in ay doortaan category a"
+
+msgid "Invitation was deleted"
+msgstr "Martiqaad la tirtiray"
+
+msgid "Permission denied"
+msgstr "Ogolaansho beeniyay"
+
+msgid "Printed"
+msgstr "Waxaa lagu daabacay"
+
+msgid "Incorrect Contractor email"
+msgstr "Qandaraaslaha email qaldo"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Ma rabtaa in aad ku darto mashruuc si ay u maal Tababaraha ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Si aad u buuxiso nidaamka diiwaan gelinta fadlan buuxi hoos xirfadahaaga"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Mail An la tilmaamo dheeraad ah loo diray cinwaanka emailkaaga"
+
+msgid "Submit"
+msgstr "Gudbi"
+
+msgid "Cars"
+msgstr "Baabuurta"
+
+msgid "Science"
+msgstr "Science"
+
+msgid "Donation"
+msgstr "deeq"
+
+msgid "Interests"
+msgstr "Danta"
+
+msgid "Driver"
+msgstr "Driver"
+
+msgid "Sportsman"
+msgstr "Isboortiga"
+
+msgid "Businessman"
+msgstr "ganacsade"
+
+msgid "Accountant"
+msgstr "xisaabiyaha"
+
+msgid "Engineer"
+msgstr "Engineer"
+
+msgid "Soldier"
+msgstr "askari"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Hide group"
+msgstr "kooxda Qari"
+
+msgid "groups created"
+msgstr "kooxaha abuuray"
+
+msgid "articles written"
+msgstr "qoraal articles"
+
+msgid "These groups may be interesting for you"
+msgstr "Kooxaha waxaa laga yaabaa in aad u xiiso badan , waayo,"
+
+msgid "About Group"
+msgstr "About Group"
+
+msgid "view(s)"
+msgstr "view (s)"
+
+msgid "Favorite users"
+msgstr "users jecel"
+
+msgid "No accounts"
+msgstr "xisaab No"
+
+msgid "Facebook authorization failed."
+msgstr "Oggolaansho Facebook ku guuldareystay ."
+
+msgid "Authorization Required"
+msgstr "Oggolaanshaha baahan yahay"
+
+msgid "You have to make a call:"
+msgstr "Waxaad si ay u sameeyaan call a :"
+
+msgid "You have to send an email:"
+msgstr "Waa in aad email u soo dir :"
+
+msgid "You have a meetup:"
+msgstr "Waxaad meetup ah :"
+
+msgid "You event :"
+msgstr "Waxaad dhacdo :"
+
+msgid "Participants:"
+msgstr "Ka qaybgalayaashu waxay :"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "News"
+msgstr "News"
+
+msgid "Investments"
+msgstr "Maalgashiga"
+
+msgid "Back to Cloud"
+msgstr "Back to Cloud"
+
+msgid "Documents"
+msgstr "Waraaqaha"
+
+msgid "Planet"
+msgstr "Planet"
+
+msgid "Group url"
+msgstr "url Group"
+
+msgid "Profile url"
+msgstr "url profile"
+
+msgid "Already taken"
+msgstr "Dhab ahaanbuu u qaaday"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Ugu yaraan 1 warqad iyo 3 dhererka laqeexay loo baahan yahay"
+
+msgid "Digit can not be the first character"
+msgstr "Rug ma noqon karo qof ee ugu horeeyay ee"
+
+msgid "Enter valid email address"
+msgstr "Ku qor cinwaanka email sax ah"
+
+msgid "Enter your skills"
+msgstr "Ku qor xirfadaha"
+
+msgid "Enter your first name"
+msgstr "Waxaad ku qortaa magaca hore"
+
+msgid "Enter your last name"
+msgstr "Waxaad ku qortaa Magaca awoowe"
+
+msgid "Enter your first name and last name"
+msgstr "Waxaad ku qortaa magaca hore iyo Magaca awoowe"
+
+msgid "Your first name?"
+msgstr "Magacaaga hore ?"
+
+msgid "Your last name?"
+msgstr "Your Magaca awoowe ?"
+
+msgid "What are your proficiencies?"
+msgstr "Waa maxay kufiicnaanshaha aad ?"
+
+msgid "Select country"
+msgstr "Dooro dalka"
+
+msgid "Select user"
+msgstr "Dooro user"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Eraygaaga ii riyo ! Samaynta, Iyo La shaqee ."
+
+msgid "date moved from"
+msgstr "taariikhda ayaa ka soo dhaqaaqay"
+
+msgid "work"
+msgstr "shaqada"
+
+msgid "Conference"
+msgstr "Shirka"
+
+msgid "personal"
+msgstr "shakhsiyeed"
+
+msgid "Holiday"
+msgstr "Holiday"
+
+msgid "Past"
+msgstr "Hore"
+
+msgid "Future"
+msgstr "Future"
+
+msgid "Purchase"
+msgstr "Iibso"
+
+msgid "Personal events"
+msgstr "Dhacdooyinka gaarka ah"
+
+msgid "Conferences"
+msgstr "Shirkii"
+
+msgid "Holidays"
+msgstr "Holidays"
+
+msgid "Sport events"
+msgstr "Dhacdooyinka Sports"
+
+msgid "Tasks"
+msgstr "Hawlaha"
+
+msgid "Other events"
+msgstr "Dhacdooyin kale oo"
+
+msgid "Set aside"
+msgstr "Ibuucii.Ilmayhgu"
+
+msgid "Set aside"
+msgstr "Dib-"
+
+msgid "Time management"
+msgstr "Maamulka Time"
+
+msgid "Delayed events"
+msgstr "Dhacdooyinka raagtaa"
+
+msgid "Delayed"
+msgstr "Dib-"
+
+msgid "Bind to"
+msgstr "Ka dhig"
+
+msgid "answered your comment to"
+msgstr "Waxaan is-idhi (a) Comment on maqaalka"
+
+msgid "commented your article"
+msgstr "Waxaan uga hadashay on your article"
+
+msgid "You\'ve answered on comment to"
+msgstr "Waxaad ku jawaabay in ay faallo ku saabsan maqaalka"
+
+msgid "You\'ve commented an article"
+msgstr "Waxaad faallo maqaalka"
+
+msgid "Terms and Conditions"
+msgstr "Shuruudaha iyo Xaaladaha"
+
+msgid "Privacy Policy"
+msgstr "Qaanuunka Arrimaha Khaaska ah"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "By gujinaya \"saxiixdo\" raacsan tahay iyo qirayaa in aad ka akhriso"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Ku biir bulshada dadka hal abuur ka adduunka oo dhan! Waxaad heli doontaa: Maalgalinta aad fikrado, fursad ay ku soo ururin doonaa kooxda, ka shaqeeya koox, tababaraha dhaqaale, maaraynta waqtigooda, 2 gigabytes in lagu keydiyo iyo in ka badan. Waxaa kale oo lacag la\'aan ah!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Sorry, laakiin bogga aad raadinayso in aanu jirin. Haddii aad u malaynayso in lagu eedeeyo na nala soo xiriir"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "COMMON"
+msgstr "Total"
+
+msgid "My events"
+msgstr "My Dhacdooyinka"
+
+msgid "Job opening"
+msgstr "Firaaqo New"
+
+msgid "Employment"
+msgstr "Nooca shaqada"
+
+msgid "Working hours"
+msgstr "Saacadaha ay furan tahay"
+
+msgid "City"
+msgstr "City"
+
+msgid "Wages"
+msgstr "MUSHAHARKA"
+
+msgid "Currency"
+msgstr "Lacagta"
+
+msgid "Experience"
+msgstr "Experience"
+
+msgid "Full-time"
+msgstr "Shaqo Full"
+
+msgid "Part-time"
+msgstr "Part-time"
+
+msgid "Project employment"
+msgstr "Project / ku meel gaar ah"
+
+msgid "Volunteer"
+msgstr "Tabaruciddu"
+
+msgid "Internship"
+msgstr "Tababaridda"
+
+msgid "Full day"
+msgstr "Full Time"
+
+msgid "Shifts"
+msgstr "Jadwalka Bedelaadda"
+
+msgid "Flexible shifts"
+msgstr "Jadwalka debecsan"
+
+msgid "Remote work"
+msgstr "Shaqada Remote"
+
+msgid "Rotational basis"
+msgstr "Habka Shift"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Aad hubto in aad dooneyso in aad tirtirto comment ah?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Aad hubto in aad dooneyso in aad tirtirto hawshan?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Aad hubto in aad dooneyso in aad tirtirto Mashruuc-hoosaadka this?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Waxaad ka codsatay in shirkadda booska. Fadlan hubi in"
+
+msgid "Your request to for job has been rejected"
+msgstr "Codsigaaga in shirkadda si ay boos ayaa loo diiday"
+
+msgid "Your request to for job has been accepted"
+msgstr "Codsigaaga in shirkadda in booska la ansixiyay"
+
+msgid "profile is completed"
+msgstr "Your profile waxaa ka buuxa"
+
+msgid "Use account"
+msgstr "Isticmaal account"
+
+msgid "$/hr"
+msgstr "$ / Saacad"
+
+msgid "Finance category"
+msgstr "Category Financial"
+
+msgid "No projects"
+msgstr "Mashaariicda No"
+
+msgid "Bind to finances"
+msgstr "Ka dhig mashruuca dhaqaale"
+
+msgid "Preview"
+msgstr "View"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Save to my cloud"
+msgstr "Copy bakhaar"
+
+msgid "File successfully saved to your cloud"
+msgstr "File si guul leh ku kaydsan aad u dheelman"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Save file this aad u dheelman?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Dooro Qodobka category a"
+
+msgid "Type something"
+msgstr "Qor wax"
+
+msgid "Founded users"
+msgstr "Users helay"
+
+msgid "Founded articles"
+msgstr "Article helay"
+
+msgid "Founded groups"
+msgstr "Kooxda la aasaasay"
+
+msgid "What are your skills?"
+msgstr "Waa maxay waxa aad xirfado?"
+
+msgid "Select at least 2 interests"
+msgstr "Dooro ugu yaraan 2 xiisaha"
+
+msgid "Need more interests"
+msgstr "Ma xiisaha ku filan loo doortay"
+
+msgid "What are you interesting in?"
+msgstr "Maxay aad xiisaynayso?"
+
+msgid "You have no dialogs"
+msgstr "Haddii aadan haysan wada hadalada"
+
+msgid "Usage Stats"
+msgstr "State of"
+
+msgid "Founded files"
+msgstr "Faylal ay Helay"
+
+msgid "Big tiles"
+msgstr "Marmarka waaweyn"
+
+msgid "Small tiles"
+msgstr "Marmarka Small"
+
+msgid "Table view"
+msgstr "Shaxda view"
+
+msgid "Root folder"
+msgstr "Buugga xidid ayaa"
+
+msgid "My files"
+msgstr "My Files"
+
+msgid "Save as draft"
+msgstr "Save sida Qabyo"
+
+msgid "Buy More Space"
+msgstr "Iibso meel dheeraad ah"
+
+msgid "Buy"
+msgstr "Iibso"
+
+msgid "You have been invited to group as"
+msgstr "Waxaad lagu martiqaaday in ay kooxda sida a"
+
+msgid "User wants to join your group"
+msgstr "User oo jecel inuu ku biiro kooxda"
+
+msgid "Section is coming soon!"
+msgstr "Qaybta dhismaha!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Views in 24-kii saac ee la soo dhaafay:"
+
+msgid "Task was updated"
+msgstr "Hawsha ayaa la casriyeeyay"
+
+msgid "Task was closed"
+msgstr "Hawsha ugu weyn ayaa la xiray"
+
+msgid "Task was created"
+msgstr "Hawsha la dhigay"
+
+msgid "Current balance"
+msgstr "Haraaga haatan"
+
+msgid "Add funds"
+msgstr "Add"
+
+msgid "Pay"
+msgstr "Iibsiga"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Waxaad kibirka tirada iskudayga login. Waxaad ayaa xiran 15 daqiiqo"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Fadlan xaqiiji in aad e-mail. Warqadda ayaa idinkugu soo dhiibay mail."
+
+msgid "Resend confirmation email"
+msgstr "Xaqiijin mar kale soo dir"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB bil kasta"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Luudh iyo 10 GB sanadkiiba"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB sanad kasta"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1TB bil kasta"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Luudh iyo 1 TB sanad kasta"
+
+msgid "Project members monthly"
+msgstr "Ka qayb-galayaasha ka mid ah mashruuca ee ku salysan bishiiba"
+
+msgid "Project members yearly"
+msgstr "Mashruuca ka qaybgalayaashu sanad walba"
+
+msgid "Member(s) yearly"
+msgstr "Xubin (s) sanadkiiba"
+
+msgid "Member(s) monthly"
+msgstr "Xubin (s) ee ku salysan bishiiba"
+
+msgid "Authorized"
+msgstr "Idman"
+
+msgid "Authorization expired"
+msgstr "Oggolaanshaha dhacay"
+
+msgid "Processor declined"
+msgstr "Nidaamka processing diiday"
+
+msgid "Gateway rejected"
+msgstr "Albaab bixinta diiday"
+
+msgid "Failed"
+msgstr "Error"
+
+msgid "Voided"
+msgstr "Burin"
+
+msgid "Submitted for settlement"
+msgstr "La diray inay isku qoraan"
+
+msgid "Settlement declined"
+msgstr "Diiwaangelinta ayaa la diiday"
+
+msgid "Settlement pending"
+msgstr "Diiwaangelinta Sugayo"
+
+msgid "Verified"
+msgstr "Hubisay"
+
+msgid "Pending"
+msgstr "Sugayo"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Past Due"
+msgstr "Dhacay"
+
+msgid "Expired"
+msgstr "Joogsaday"
+
+msgid "Marketer"
+msgstr "Suuq"
+
+msgid "India"
+msgstr "Hindiya"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "South Korea"
+msgstr "South Korea"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Israel"
+msgstr "Israa\'iil"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Turkey"
+msgstr "Turkey"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Germany"
+msgstr "Germany"
+
+msgid "Italy"
+msgstr "Italy"
+
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "United Kingdom"
+msgstr "Great Britain"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "United States"
+msgstr "United States"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+msgid "Canada"
+msgstr "Masar"
+
+msgid "Russia"
+msgstr "Russia"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Waqtigan xaadirka ah, ma jiro macaamil ganacsi hal ahaa"
+
+msgid "Fulfill your dream"
+msgstr "Oofiyo riyoon"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Ku biir bulshada ah oo ay shakhsiyaad hal abuur leh oo ka dhan dacaladeeda Ilaaheenna."
+
+msgid "Create and Collaborate"
+msgstr "Samaynta, Iyo La shaqee"
+
+msgid "Fulfill your dream"
+msgstr "Rajadiisa NOW"
+
+msgid "or"
+msgstr "ama"
+
+msgid "Our mission:"
+msgstr "Our mission:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Si aad u midoobaan dad hal abuur leh oo firfircoon si ay u hirgeliyaan fikradaha ka fudud iyo in baahida loo qabo in cajiib ah oo fantastik ah, in qaabaynta karaa mustaqbalka."
+
+msgid "What is Konstruktor?"
+msgstr "Waa maxay Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor- waa qayb ka yahay nolosha dhabta ah, taas oo si weyn u fududeeyaa iyo nayaa"
+
+msgid "*business processes"
+msgstr "* Geedi socodka ganacsiga"
+
+msgid "*materialization of creative ideas"
+msgstr "* Materialization fikrado hal abuur leh"
+
+msgid "*constructive cooperation"
+msgstr "* Iskaashiga wax dhisaya"
+
+msgid "Make your dream!"
+msgstr "Samee aad riyo!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "La taliyihiisa Gaarka ah"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Manager, Horumarinta Software"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Qareen Senior"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Designer"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "By gujinaya ah \"Next\" button, aad aqbalayaan iyo heshiiska la xeerarka iyo shuruudaha our, oo aad la aqoonsado in aad akhrido Qaanuunka Arrimaha Khaaska ah our."
+
+msgid "Incorrect login or password."
+msgstr "Login qalad ah ama password."
+
+msgid "Password must be at least 6 characters"
+msgstr "Password waa in ugu yaraan 6 characters"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "February"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "July"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "October"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Files"
+msgstr "Faylal"
+
+msgid "Statistic"
+msgstr "Tiro"
+
+msgid "Support"
+msgstr "Taageerada"
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Marketing specialist"
+msgstr "Takhasus Suuq-"
+
+msgid "Administrator"
+msgstr "Maamulaha"
+
+msgid "Shared with me"
+msgstr "Ila qaybsan"
+
+msgid "File Sharing"
+msgstr "File Sharing"
+
+msgid "Provide access by link"
+msgstr "• Loo sahlo helitaanka by link"
+
+msgid "Provide Individual access"
+msgstr "• Loo sahlo helitaanka Individual"
+
+msgid "Provide edit access"
+msgstr "Bixi edit helaan"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Files will be available only for selected users"
+msgstr "Faylal laga heli doonaa oo keliya dadka isticmaala xushay"
+
+msgid "With this link everyone can access to the files"
+msgstr "Iyada oo ay taasi xidha qof kasta u heli kara inay faylasha"
+
+msgid "Search users, groups, articles..."
+msgstr "Search users, kooxaha, articles ..."
+
+msgid "My Group"
+msgstr "My Group"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Waxaan"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "File waa mid aan la doortay"
+
+msgid "Set aside"
+msgstr "U qoondeey"
+
+msgid "Event time"
+msgstr "Mar Event"
+
+msgid "Work"
+msgstr "Work"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Time spent for work:"
+msgstr "Time ku qaatay, waayo, shaqada:"
+
+msgid "Personal time spent:"
+msgstr "Mar Personal qaatay:"
+
+msgid "Present"
+msgstr "Goobjoog"
+
+msgid "Common"
+msgstr "Common"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "Entertainment"
+msgstr "Entertainment"
+
+msgid "Select:"
+msgstr "Dooro:"
+
+msgid "Invalid username or password."
+msgstr "Username jabeen ama password."
+
+msgid "Try again."
+msgstr "Mar kale isku day."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "MAXAA aad xiisaynayso?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Dooro ugu yaraan 2 xirfadaha, weli 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Dooro ugu yaraan 2 xirfadaha, weli 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Dooro ugu yaraan 2 xirfadaha: hadhaagii"
+
+msgid "Active life"
+msgstr "Nolosha Active"
+
+msgid "Arts and culture"
+msgstr "Hiddaha iyo dhaqanka"
+
+msgid "Business"
+msgstr "Business"
+
+msgid "Cinema"
+msgstr "Shaneebada"
+
+msgid "Communications"
+msgstr "Communications"
+
+msgid "Construction and repair"
+msgstr "Dhisidda iyo dayactirka"
+
+msgid "Cooking"
+msgstr "Karinta"
+
+msgid "Education"
+msgstr "Waxbarashada"
+
+msgid "Electronics"
+msgstr "Electronics"
+
+msgid "Finances"
+msgstr "Dhaqaalaha"
+
+msgid "Graphics and design"
+msgstr "Graphics iyo design"
+
+msgid "Health"
+msgstr "Caafimaadka"
+
+msgid "Home and family"
+msgstr "Home iyo qoyska"
+
+msgid "Humor"
+msgstr "Kaftanka"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Industry"
+
+msgid "Insurance"
+msgstr "Caymiska"
+
+msgid "Literature"
+msgstr "Suugaanta"
+
+msgid "Mobile communications and internet"
+msgstr "Isgaarsiinta Mobile iyo internet"
+
+msgid "News and Media"
+msgstr "News iyo Media"
+
+msgid "Pets"
+msgstr "Xayawaanka"
+
+msgid "Products and service"
+msgstr "Products iyo adeegga"
+
+msgid "Real Estate"
+msgstr "Estate Real"
+
+msgid "Religion"
+msgstr "Diinta"
+
+msgid "Science and techs"
+msgstr "Sayniska iyo techs"
+
+msgid "Security"
+msgstr "Ammaanka"
+
+msgid "Society"
+msgstr "Bulshada"
+
+msgid "Television"
+msgstr "Television"
+
+msgid "Travel"
+msgstr "Travel"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belgium"
+msgstr "Belgium"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Denmark"
+
+msgid "France"
+msgstr "France"
+
+msgid "Germany"
+msgstr "Germany"
+
+msgid "Greece"
+msgstr "Greece"
+
+msgid "Hungary"
+msgstr "Hungary"
+
+msgid "Iceland"
+msgstr "Iceland"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "Israel"
+msgstr "Israa\'iil"
+
+msgid "Italy"
+msgstr "Italy"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Russia"
+msgstr "Russia"
+
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgid "South Africa"
+msgstr "Koonfur Afrika"
+
+msgid "South Korea"
+msgstr "South Korea"
+
+msgid "Spain"
+msgstr "Spain"
+
+msgid "Sweden"
+msgstr "Sweden"
+
+msgid "Switzerland"
+msgstr "Switzerland"
+
+msgid "Turkey"
+msgstr "Turkey"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "United Arab Emirates"
+msgstr "United Arab Emirates"
+
+msgid "United Kingdom"
+msgstr "Boqortooyada Ingiriiska"
+
+msgid "United States"
+msgstr "United States"
+
+msgid "achievements"
+msgstr "guulaha"
+
+msgid "Investment management"
+msgstr "Maamulka Investment"
+
+msgid "Select..."
+msgstr "Dooro ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "MAAMULKA baaro"
+
+msgid "Investors list"
+msgstr "Liiska Investors"
+
+msgid "My investments"
+msgstr "Maalgelinta My"
+
+msgid "Create date"
+msgstr "Samee taariikhda"
+
+msgid "Author of the project"
+msgstr "Author mashruuca"
+
+msgid "Date and time"
+msgstr "Taariikh iyo waqtiga"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Apply"
+msgstr "Codso"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Science"
+
+msgid "Architecture"
+msgstr "Architecture"
+
+msgid "Photography"
+msgstr "Sawir"
+
+msgid "Designer"
+msgstr "Designer"
+
+msgid "IT specialist"
+msgstr "Ku takhasusay IT"
+
+msgid "Agronomist"
+msgstr "Fiisooyinka"
+
+msgid "Architect"
+msgstr "Architector"
+
+msgid "Lawyer"
+msgstr "Lawyer"
+
+msgid "Writer"
+msgstr "Writer"
+
+msgid "Doctor"
+msgstr "Doctor"
+
+msgid "Scientist"
+msgstr "Saynisyahanka"
+
+msgid "Marketer"
+msgstr "Suuq"
+
+msgid "Teacher"
+msgstr "Macallimow"
+
+msgid "Cook"
+msgstr "Cook"
+
+msgid "Artist"
+msgstr "Artist"
+
+msgid "Photographer"
+msgstr "Sawir"
+
+msgid "Ecologist"
+msgstr "Beey\'ada"
+
+msgid "Economist"
+msgstr "Economist"
+
+msgid "Logistician"
+msgstr "Logistics"
+
+msgid "Journalist"
+msgstr "Wariye"
+
+msgid "Builder"
+msgstr "Dhise"
+
+msgid "These users may be interesting for you"
+msgstr "Users waxaa laga yaabaa in aad u xiiso badan, waayo,"
+
+msgid "These articles may be interesting for you"
+msgstr "Articles waxaa laga yaabaa in aad u xiiso badan, waayo,"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Waxaad ku soo biiray kooxda sida Аdministrator"
+
+msgid "articles written."
+msgstr "articles ku qoran."
+
+msgid "groups created."
+msgstr "kooxaha abuuray."
+
+msgid "Creation"
+msgstr "Abuurkii"
+
+msgid "Build a dream"
+msgstr "Dhis riyo"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Xiiso leh - tag diiwaangelinta free"
+

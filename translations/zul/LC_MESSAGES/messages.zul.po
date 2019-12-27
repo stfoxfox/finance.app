@@ -1,0 +1,3344 @@
+# Zulu (Зулу) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Zulu (Зулу) <support@konstruktor.com>\n"
+"Language: Zulu (Зулу)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "lomsebenzisi"
+
+msgid "Invalid username or password, try again"
+msgstr "Igama lomsebenzisi noma iphasiwedi . Zama futhi."
+
+msgid "Settings"
+msgstr "izilungiselelo"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "You must log in to access this page"
+msgstr "Kumele ungene ukufinyelela leli khasi"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Session Your iye siphelelwe isikhathi. Sicela , relogin ukwenza lesi senzo"
+
+msgid "Save"
+msgstr "Londoloza"
+
+msgid "Head Office"
+msgstr "Igatsha Eliphethe"
+
+msgid "Address"
+msgstr "Ikheli"
+
+msgid "Back"
+msgstr "Emuva"
+
+msgid "Apply"
+msgstr "Sebenzisa"
+
+msgid "Upload files…"
+msgstr "Layisha amafayela ..."
+
+msgid "Set as main"
+msgstr "Beka njengoba main"
+
+msgid "Delete"
+msgstr "susa"
+
+msgid "Original image"
+msgstr "image Original"
+
+msgid "Uploaded"
+msgstr "Ilayishwe"
+
+msgid "File name"
+msgstr "igama lefayela"
+
+msgid "File size"
+msgstr "Usayizi File"
+
+msgid "Resolution"
+msgstr "Resolution"
+
+msgid "Enlarge"
+msgstr "Yandisa"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Original size"
+msgstr "Usayizi wasekuqaleni"
+
+msgid "For editor"
+msgstr "Ukuze umhleli"
+
+msgid "Resize"
+msgstr "Shintsha usayizi"
+
+msgid "Width"
+msgstr "ububanzi"
+
+msgid "Height"
+msgstr "Height"
+
+msgid "Media URL"
+msgstr "URL Media"
+
+msgid "Add record"
+msgstr "Engeza irekhodi"
+
+msgid "Show filter settings"
+msgstr "Bonisa filter izilungiselelo"
+
+msgid "Edit record"
+msgstr "Hlela irekhodi"
+
+msgid "Delete record"
+msgstr "susa irekhodi"
+
+msgid "Delete checked records"
+msgstr "Susa amarekhodi kuhloliwe"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Password"
+msgstr "Iphasiwedi"
+
+msgid "Remember me"
+msgstr "Ngikhumbule"
+
+msgid "Login"
+msgstr "Ngena Ngemvume"
+
+msgid "Clean image cache"
+msgstr "Isilondolozi image Clean"
+
+msgid "Processing query..."
+msgstr "Query Processing ..."
+
+msgid "CMS Development"
+msgstr "Development CMS"
+
+msgid "Admin Home Page"
+msgstr "Admin Ikhasinkomba"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Vula ikhasi Home of Front - ekupheleni in a ithebhu entsha"
+
+msgid "Go to Site"
+msgstr "Iya Site"
+
+msgid "Log out"
+msgstr "Phuma"
+
+msgid "Send"
+msgstr "Thumela"
+
+msgid "General"
+msgstr "General"
+
+msgid "Title"
+msgstr "isihloko"
+
+msgid "Teaser"
+msgstr "Teaser"
+
+msgid "Published"
+msgstr "Kushicilelwe"
+
+msgid "Featured"
+msgstr "Okufakiwe"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Field is mandatory"
+msgstr "Field Kuphoqelekile"
+
+msgid "Sort Order"
+msgstr "Uhlobo Order"
+
+msgid "Upload"
+msgstr "Layisha"
+
+msgid "Loading..."
+msgstr "Iyalayisha ..."
+
+msgid "Jan"
+msgstr "uJan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "March"
+
+msgid "Apr"
+msgstr "Ephreli"
+
+msgid "May"
+msgstr "Kwangathi"
+
+msgid "Jun"
+msgstr "June"
+
+msgid "Jul"
+msgstr "July"
+
+msgid "Aug"
+msgstr "August"
+
+msgid "Sep"
+msgstr "September"
+
+msgid "Oct"
+msgstr "October"
+
+msgid "Nov"
+msgstr "November"
+
+msgid "Dec"
+msgstr "December"
+
+msgid "Product already exists in the order"
+msgstr "Product selikhona vele ukuze"
+
+msgid "Product does not exist"
+msgstr "Product akekho"
+
+msgid "Incorrect request"
+msgstr "isicelo engalungile"
+
+msgid "Products"
+msgstr "imikhiqizo"
+
+msgid "Product types"
+msgstr "izinhlobo Product"
+
+msgid "Contractors"
+msgstr "Contractors"
+
+msgid "Contractor"
+msgstr "Osebenza"
+
+msgid "Orders"
+msgstr "Ama-oda"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "ukuze New"
+
+msgid "My orders"
+msgstr "Ama-oda wami"
+
+msgid "Recharge balance"
+msgstr "Shaja balance"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Incorrect event ID"
+msgstr "ID umcimbi engalungile"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Hlela usonkontileka"
+
+msgid "Create contractor"
+msgstr "Dala usonkontileka"
+
+msgid "Edit question"
+msgstr "Hlela umbuzo"
+
+msgid "Create question"
+msgstr "Dala umbuzo"
+
+msgid "Edit order"
+msgstr "Hlela oda"
+
+msgid "Create order"
+msgstr "Dala oda"
+
+msgid "Edit product"
+msgstr "Hlela umkhiqizo"
+
+msgid "Create product"
+msgstr "Dala umkhiqizo"
+
+msgid "Edit product type"
+msgstr "Hlela umkhiqizo uhlobo"
+
+msgid "Create product type"
+msgstr "Dala uhlobo lomkhiqizo"
+
+msgid "You have received a file"
+msgstr "Uye wathola ifayela"
+
+msgid "You received a file from"
+msgstr "Uthole ifayela kusuka"
+
+msgid "File has been uploaded"
+msgstr "Ifayela lilayishiwe"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "quantity Minimal"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "izinto"
+
+msgid "Remove"
+msgstr "Susa"
+
+msgid "Contact person"
+msgstr "umuntu othintwayo"
+
+msgid "Email"
+msgstr "I-imeyili"
+
+msgid "Contractor phone"
+msgstr "Osebenza ifoni"
+
+msgid "Contractor name"
+msgstr "Igama usonkontileka"
+
+msgid "Contractor details"
+msgstr "imininingwane usonkontileka"
+
+msgid "Order ID"
+msgstr "Order ID"
+
+msgid "Sum"
+msgstr "sum"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Khetha ofanele zokukhokhelana ashona ibhalansi yakho"
+
+msgid "Recharge amount"
+msgstr "Shaja lemali"
+
+msgid "Paid"
+msgstr "akhokhelwayo"
+
+msgid "Shipped"
+msgstr "ezithunyelwa"
+
+msgid "- No products in this order -"
+msgstr "- No imikhiqizo kule oda -"
+
+msgid "month"
+msgstr "ngenyanga"
+
+msgid "No user found"
+msgstr "Akekho umsebenzisi etholakele"
+
+msgid "Achievement"
+msgstr "Achievement"
+
+msgid "Confirmed accomplishments"
+msgstr "Izinto ezihleliwe eziye zafezwa Siqinisekisiwe"
+
+msgid "Remove achievement"
+msgstr "Susa ukufeza"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "Hambayo"
+
+msgid "Site URL and email"
+msgstr "URL Site and imeyili"
+
+msgid "Remove address"
+msgstr "Susa ikheli"
+
+msgid "Members"
+msgstr "Amalungu"
+
+msgid "Requires a payment"
+msgstr "Kudinga inkokhelo"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Ready"
+msgstr "Ready"
+
+msgid "Find user..."
+msgstr "Thola umsebenzisi …"
+
+msgid "Order it"
+msgstr "oda it"
+
+msgid "Find group..."
+msgstr "Thola iqembu ..."
+
+msgid "Find user or community..."
+msgstr "Thola umsebenzisi noma umphakathi ..."
+
+msgid "No item found"
+msgstr "Ayikho into etholakele"
+
+msgid "years"
+msgstr "iminyaka"
+
+msgid "Send message"
+msgstr "Thumela umlayezo"
+
+msgid "Message"
+msgstr "Umlayezo"
+
+msgid "To send message press Enter"
+msgstr "Ukuthumela umlayezo cindezela Faka"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Ukuthumela umyalezo cindezela CTRL + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Ifayela Processing ( s ) ..."
+
+msgid "Group settings"
+msgstr "izilungiselelo Group"
+
+msgid "Create group"
+msgstr "Dala iqembu"
+
+msgid "Group has been successfully saved"
+msgstr "Group lulondiwe ngempumelelo"
+
+msgid "Group title"
+msgstr "isihloko Group"
+
+msgid "Group video"
+msgstr "Group isiqophi"
+
+msgid "Description"
+msgstr "incazelo"
+
+msgid "Your role in group"
+msgstr "Indima Yakho eqenjini"
+
+msgid "Role"
+msgstr "Indima"
+
+msgid "Photo or video gallery"
+msgstr "Isithombe noma ividiyo gallery"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Layisha ividiyo"
+
+msgid "Add group address"
+msgstr "Faka ikheli iqembu"
+
+msgid "Group articles"
+msgstr "Group izihloko"
+
+msgid "No addresses yet"
+msgstr "No amakheli okwamanje"
+
+msgid "Add group achievement"
+msgstr "Engeza impumelelo yeqembu"
+
+msgid "No achivements yet"
+msgstr "No achivements okwamanje"
+
+msgid "Are you sure to delete this user"
+msgstr "Uqinisekile ukuthi ufuna ukususa lo msebenzisi"
+
+msgid "Add member"
+msgstr "Engeza ilungu"
+
+msgid "Are you sure to delete this record?"
+msgstr "Uqinisekile ukuthi ufuna ukususa le rekhodi ?"
+
+msgid "Join this group"
+msgstr "Joyina leli qembu"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Isimemo sakho sithunyelwe ku-administrator iqembu"
+
+msgid "All addresses"
+msgstr "Zonke amakheli"
+
+msgid "Collapse"
+msgstr "Collapse"
+
+msgid "Achievements"
+msgstr "Imphumelelo"
+
+msgid "Show more"
+msgstr "Bonisa okuningi"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "Projects"
+msgstr "Projects"
+
+msgid "New project"
+msgstr "project New"
+
+msgid "Project has not been created yet"
+msgstr "Project engakaze wadala okwamanje"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "Balance"
+
+msgid "Main page"
+msgstr "Ikhasi main"
+
+msgid "Upload image"
+msgstr "Layisha isithombe"
+
+msgid "My time"
+msgstr "isikhathi sami"
+
+msgid "Day"
+msgstr "Day"
+
+msgid "Week"
+msgstr "Week"
+
+msgid "Project settings"
+msgstr "izilungiselelo Project"
+
+msgid "Create project"
+msgstr "Dala iphrojekthi"
+
+msgid "Project has been successfully saved"
+msgstr "Project lulondiwe ngempumelelo"
+
+msgid "Project name"
+msgstr "Igama Project"
+
+msgid "Deadline"
+msgstr "umnqamulajuqu"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Assigned to"
+msgstr "eyabelwe"
+
+msgid "Discussion"
+msgstr "Ingxoxo"
+
+msgid "Task was created"
+msgstr "Task wadalwa"
+
+msgid "Task was closed"
+msgstr "Task yavalwa"
+
+msgid "Go to Group"
+msgstr "Iya Group"
+
+msgid "Closed"
+msgstr "Kuvalwe"
+
+msgid "Last updates"
+msgstr "updates last"
+
+msgid "Project is closed"
+msgstr "Project ivaliwe"
+
+msgid "No open tasks"
+msgstr "Ayikho imisebenzi evulekile"
+
+msgid "New task"
+msgstr "umsebenzi New"
+
+msgid "Closed tasks"
+msgstr "imisebenzi Closed"
+
+msgid "Add subproject"
+msgstr "Engeza subproject"
+
+msgid "Add task"
+msgstr "Engeza umsebenzi"
+
+msgid "Sun"
+msgstr "Sunday"
+
+msgid "Mon"
+msgstr "Monday"
+
+msgid "Tue"
+msgstr "ngoLwesibili"
+
+msgid "Wed"
+msgstr "ngoLwesithathu"
+
+msgid "Thur"
+msgstr "uLwesine"
+
+msgid "Fri"
+msgstr "Friday"
+
+msgid "Sat"
+msgstr "Saturday"
+
+msgid "Event title"
+msgstr "Indawo isihloko"
+
+msgid "Event description"
+msgstr "incazelo Indawo"
+
+msgid "I registered on this site"
+msgstr "I kubhaliswe kulelifomu indawo"
+
+msgid "Last created groups"
+msgstr "Amaqembu Last wadala"
+
+msgid "You joined this group as"
+msgstr "You kuleli qembu njengoba"
+
+msgid "You received a request to join the group"
+msgstr "You wathola isicelo ukujoyina iqembu"
+
+msgid "Updated site"
+msgstr "indawo Kubuyekeziwe"
+
+msgid "Site is under construction"
+msgstr "Site kusakhiwa"
+
+msgid "Last registered users"
+msgstr "Abasebenzisi Last ababhalisiwe"
+
+msgid "User settings"
+msgstr "izilungiselelo Umsebenzisi"
+
+msgid "Technical support"
+msgstr "Ukusekela kwezobuchwepheshe"
+
+msgid "Change email"
+msgstr "Shintsha i-imeyili"
+
+msgid "Change password"
+msgstr "SHINTSHA iphasiwedi"
+
+msgid "User has been successfully saved"
+msgstr "Umsebenzisi lulondiwe ngempumelelo"
+
+msgid "Full name"
+msgstr "Igama eligcwele"
+
+msgid "My video"
+msgstr "isiqophi My"
+
+msgid "Skills"
+msgstr "Amakhono"
+
+msgid "Birthday"
+msgstr "Birthday"
+
+msgid "Country of residence"
+msgstr "Izwe Ohlala kulo"
+
+msgid "Country"
+msgstr "izwe"
+
+msgid "Zip Code"
+msgstr "Ikhodi ye-ZIP"
+
+msgid "City/town of residence"
+msgstr "City / edolobheni indlu"
+
+msgid "University/college"
+msgstr "University / ekolishi"
+
+msgid "University/college photo"
+msgstr "University / ekolishi photo"
+
+msgid "Add user\'s accomplishments"
+msgstr "Engeza akufezile sika umsebenzisi"
+
+msgid "Interface language"
+msgstr "Interface ulimi"
+
+msgid "How other people see this page"
+msgstr "Indlela abanye abantu babone kuleli khasi"
+
+msgid "Video with me"
+msgstr "Isiqophi nami"
+
+msgid "Groups"
+msgstr "Amaqembu"
+
+msgid "Registered today"
+msgstr "namuhla Registered"
+
+msgid "Qty"
+msgstr "Qty"
+
+msgid "No registered users yet"
+msgstr "No abasebenzisi ababhalisiwe okwamanje"
+
+msgid "Total"
+msgstr "inani"
+
+msgid "Registered total"
+msgstr "inani Registered"
+
+msgid "You received a file"
+msgstr "You wathola ifayela"
+
+msgid "You were invited into this room"
+msgstr "Umenyiwe kulo ekamelweni"
+
+msgid "Request is being processed"
+msgstr "Cela iyenziwa"
+
+msgid "Fax"
+msgstr "Isikhahlamezi"
+
+msgid "Messenger"
+msgstr "Messenger"
+
+msgid "New subproject"
+msgstr "subproject New"
+
+msgid "messages written."
+msgstr "imiyalezo ebhaliwe ."
+
+msgid "projects created based on groups."
+msgstr "Amaphrojekthi Ukudalwa okusekelwe amaqembu ."
+
+msgid "users registered on website."
+msgstr "abasebenzisi ababhalisiwe on website ."
+
+msgid "New email"
+msgstr "imeyili New"
+
+msgid "Confirm email"
+msgstr "Qinisela i-Email"
+
+msgid "New password"
+msgstr "Iphasiwedi Entsha"
+
+msgid "Confirm password"
+msgstr "Qinisekisa Iphasiwedi"
+
+msgid "Occupation"
+msgstr "Speciality"
+
+msgid "Timezone"
+msgstr "timezone"
+
+msgid "Answer"
+msgstr "Phendula"
+
+msgid "Articles"
+msgstr "Izihloko"
+
+msgid "Article"
+msgstr "Isigaba"
+
+msgid "Video-article"
+msgstr "Isiqophi - athikili"
+
+msgid "Find article..."
+msgstr "Thola sihloko ..."
+
+msgid "Politics"
+msgstr "Ezombusazwe"
+
+msgid "Economics"
+msgstr "Ezomnotho"
+
+msgid "Community"
+msgstr "Community"
+
+msgid "Culture"
+msgstr "Culture"
+
+msgid "Sports"
+msgstr "Ezemidlalo"
+
+msgid "Hi-tech"
+msgstr "Hi - tech"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Fashion"
+msgstr "Fashion"
+
+msgid "Games"
+msgstr "Imidlalo"
+
+msgid "Other"
+msgstr "Ezenye"
+
+msgid "Invalid mediafile"
+msgstr "mediafile elingalungile"
+
+msgid "No articles in this category yet"
+msgstr "No izihloko kule mkhakha kodwa"
+
+msgid "Back to profile"
+msgstr "Buyela profile"
+
+msgid "View article"
+msgstr "Buka sihloko"
+
+msgid "Edit article"
+msgstr "Hlela isihloko"
+
+msgid "Create article"
+msgstr "Dala sihloko"
+
+msgid "Article title"
+msgstr "Isigaba isihloko"
+
+msgid "Article section"
+msgstr "isigaba isigaba"
+
+msgid "Choose image"
+msgstr "Khetha isithombe"
+
+msgid "Save and upload"
+msgstr "Gcina bese ulayisha"
+
+msgid "Show more..."
+msgstr "Bonisa more ..."
+
+msgid "Create"
+msgstr "Dala"
+
+msgid "Edit"
+msgstr "Hlela"
+
+msgid "Project"
+msgstr "Project"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "A new article was published"
+msgstr "Isihloko esisha esashicilelwa"
+
+msgid "You joined this project"
+msgstr "Ujoyine le phrojekthi"
+
+msgid "Enter your information in the User settings"
+msgstr "Faka imininingwane yakho ku izilungiselelo User"
+
+msgid "Communities"
+msgstr "Imiphakathi"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Isiqophi isethulo ngalokho yami"
+
+msgid "My articles"
+msgstr "izihloko My"
+
+msgid "User"
+msgstr "User"
+
+msgid "Users"
+msgstr "Abasebenzisi"
+
+msgid "Add new list"
+msgstr "Engeza ohlwini olusha"
+
+msgid "List title"
+msgstr "Uhlu isihloko"
+
+msgid "Add"
+msgstr "Engeza"
+
+msgid "Add to favorites"
+msgstr "Engeza izintandokazi"
+
+msgid "Delete from favorites"
+msgstr "Susa kusuka kuzintandokazi"
+
+msgid "Select list"
+msgstr "Khetha uhlu"
+
+msgid "Subscriptions"
+msgstr "Ukubhalisela"
+
+msgid "Subscribe"
+msgstr "Bhalisela"
+
+msgid "Unsubscribe"
+msgstr "Zikhiphe ohlwini"
+
+msgid "General list"
+msgstr "uhlu General"
+
+msgid "No users in this list"
+msgstr "No abasebenzisi kule ohlwini"
+
+msgid "Publish"
+msgstr "Shicilela"
+
+msgid "Unpublish"
+msgstr "Hoxisa ukushicilela"
+
+msgid "Add user"
+msgstr "Engeza umsebenzisi"
+
+msgid "Create document"
+msgstr "Yakha idokhumenti"
+
+msgid "Edit document"
+msgstr "Hlela idokhumenti"
+
+msgid "View"
+msgstr "Buka"
+
+msgid "Document title"
+msgstr "Document isihloko"
+
+msgid "Find document..."
+msgstr "Thola idokhumenti ..."
+
+msgid "Share your thoughts"
+msgstr "Yabelana ngemicabango yakho"
+
+msgid "Leave your comment"
+msgstr "Shiya amazwana akho"
+
+msgid "Accept"
+msgstr "Yamukela"
+
+msgid "Decline"
+msgstr "Nqaba"
+
+msgid "Add article"
+msgstr "Engeza isihloko"
+
+msgid "Link to verified accomplishments"
+msgstr "Xhumanisa akufezile okuqinisekiswe"
+
+msgid "No articles here yet..."
+msgstr "No izihloko lapha okwamanje ..."
+
+msgid "Find file or folder..."
+msgstr "Thola ifayela noma ifolda ..."
+
+msgid "Sort"
+msgstr "Uhlobo"
+
+msgid "By name"
+msgstr "By igama"
+
+msgid "By date"
+msgstr "By usuku"
+
+msgid "By updated date"
+msgstr "By usuku olusha"
+
+msgid "By size"
+msgstr "By usayizi"
+
+msgid "By type"
+msgstr "By uhlobo"
+
+msgid "Move"
+msgstr "Hambisa"
+
+msgid "File Manager"
+msgstr "imenenja yefayela"
+
+msgid "Share link"
+msgstr "Ungahlukıselana isixhumanisi"
+
+msgid "Responsible"
+msgstr "Ukuzimela"
+
+msgid "Performer"
+msgstr "umdlali"
+
+msgid "New Folder"
+msgstr "Ifolda New"
+
+msgid "Folder name"
+msgstr "Igama ifolda"
+
+msgid "By default"
+msgstr "Ngephutha"
+
+msgid "Back to group"
+msgstr "Buyela group"
+
+msgid "year(s)"
+msgstr "ngonyaka (s)"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "February"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "Ephreli"
+
+msgid "May"
+msgstr "Kwangathi"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "July"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "October"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Password Reminder"
+msgstr "Iphasiwedi Isikhumbuzi"
+
+msgid "Log In"
+msgstr "Ngena ngemvume"
+
+msgid "Sign in"
+msgstr "Ngena ngemvume"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "First name"
+msgstr "Igama"
+
+msgid "Last name"
+msgstr "Isibongo"
+
+msgid "I agree with rules"
+msgstr "Ngivumelana imithetho"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "A mail isiqinisekiso wathunyelwa ikheli lakho le."
+
+msgid "Thanks"
+msgstr "Thanks"
+
+msgid "Password must be at least 6 characters"
+msgstr "Iphasiwedi kumele ibe nezinhlamvu okungenani 6"
+
+msgid "Creative Environment"
+msgstr "Environment Creative"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Udinga ukuba okungenani iminyaka nantathu ubudala ukusebenzisa le sevisi"
+
+msgid "Order status"
+msgstr "isimo Order"
+
+msgid "Processing order"
+msgstr "Processing oda"
+
+msgid "Requires a payment"
+msgstr "Kudinga yokukhokha"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Ready"
+msgstr "Ready"
+
+msgid "Thank you for your payment"
+msgstr "Siyabonga inkokhelo yakho"
+
+msgid "Your payment has been cancelled"
+msgstr "Inkokhelo yakho imisiwe"
+
+msgid "page"
+msgstr "page"
+
+msgid "Rent period"
+msgstr "Rent period"
+
+msgid "Total, month"
+msgstr "Inani, ngenyanga"
+
+msgid "Order items"
+msgstr "Order izinto"
+
+msgid "No records found"
+msgstr "Ayikho amarekhodi wathola"
+
+msgid "User with this email is already exist"
+msgstr "Umsebenzisi nalokhu imeyili isivele akhona"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Ifolda noma ifayela gama is kakade kwifolda ukuphela"
+
+msgid "Minimal quantity"
+msgstr "quantity Minimal"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "ukuphrinta amakhophi"
+
+msgid "Terms of Use"
+msgstr "Imigomo Yokusebenzisa"
+
+msgid "Privacy Policy"
+msgstr "Inqubomgomo yobumfihlo"
+
+msgid "Find project..."
+msgstr "Thola project ..."
+
+msgid "New Project"
+msgstr "Project New"
+
+msgid "Accounts"
+msgstr "Ama-akhawunti"
+
+msgid "Operations"
+msgstr "Operations"
+
+msgid "All accounts"
+msgstr "Zonke akhawunti"
+
+msgid "All categories"
+msgstr "Zonke izigaba"
+
+msgid "Expense"
+msgstr "Izindleko"
+
+msgid "Income"
+msgstr "Income"
+
+msgid "Transfer"
+msgstr "Dlulisa"
+
+msgid "Expense"
+msgstr "Izindleko"
+
+msgid "income"
+msgstr "engenayo"
+
+msgid "tax"
+msgstr "intela"
+
+msgid "percent"
+msgstr "Amaphesenti angu"
+
+msgid "transfer"
+msgstr "ukudluliswa"
+
+msgid "Make operation"
+msgstr "Yenza operation"
+
+msgid "Select date"
+msgstr "Khetha usuku"
+
+msgid "Select account"
+msgstr "Khetha i-akhawunti"
+
+msgid "Month"
+msgstr "Inyanga"
+
+msgid "Quarter"
+msgstr "quarter"
+
+msgid "Year"
+msgstr "Unyaka"
+
+msgid "From"
+msgstr "Ibhayisikobho"
+
+msgid "To"
+msgstr "Ukuze"
+
+msgid "Expense amount"
+msgstr "Izindleko lemali"
+
+msgid "Categories"
+msgstr "imidlalo"
+
+msgid "Comments"
+msgstr "Amazwana"
+
+msgid "Income amount"
+msgstr "Income lemali"
+
+msgid "Transfer amount"
+msgstr "Dlulisa lemali"
+
+msgid "From account"
+msgstr "Ibhayisikobho akhawunti"
+
+msgid "To account"
+msgstr "Ukuze akhawunti"
+
+msgid "New Account"
+msgstr "akhawunti New"
+
+msgid "New Category"
+msgstr "Isigaba New"
+
+msgid "All"
+msgstr "Zonke"
+
+msgid "Name"
+msgstr "Igama"
+
+msgid "Enter category name"
+msgstr "Faka igama isigaba"
+
+msgid "Select type"
+msgstr "Khetha uhlobo"
+
+msgid "Credit card"
+msgstr "Ikhadi lesikweletu"
+
+msgid "Debit card"
+msgstr "I-debit card"
+
+msgid "Bank account"
+msgstr "akhawunti Bank"
+
+msgid "Cash"
+msgstr "Cash"
+
+msgid "Balance is empty"
+msgstr "Balance ayinalutho"
+
+msgid "Statistic is empty"
+msgstr "Zibalo ezingenalutho"
+
+msgid "Regular payments"
+msgstr "izinkokhelo njalo"
+
+msgid "Are you sure ?"
+msgstr "Uqinisekile ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Uqinisekile ukuthi ufuna ukuvala le phrojekthi ?"
+
+msgid "Project was deleted successfully"
+msgstr "Project isusiwe ngempumelelo"
+
+msgid "Select currency"
+msgstr "Khetha currency"
+
+msgid "Account"
+msgstr "akhawunti"
+
+msgid "Orders list"
+msgstr "Ama-oda uhlu"
+
+msgid "Order payments"
+msgstr "izinkokhelo Order"
+
+msgid "View order"
+msgstr "Buka oda"
+
+msgid "No response from Printer API"
+msgstr "Ayikho impendulo kusuka Iphrinta API"
+
+msgid "Bad response from Printer API"
+msgstr "Impendulo engalungile kusuka Iphrinta API"
+
+msgid "User ID"
+msgstr "I-ID Yomsebenzisi"
+
+msgid "Contact Person"
+msgstr "Umuntu othintwayo"
+
+msgid "No orders to process"
+msgstr "No oda ukucubungula"
+
+msgid "Article announce image"
+msgstr "Isigaba ukumemezela image"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Isiqophi url obungavumelekile . Shiya kungenalutho noma ufaka esebenzayo youtube url"
+
+msgid "Please, enter Contractor data"
+msgstr "Sicela , faka idatha Umsebenzi"
+
+msgid "Distribute devices"
+msgstr "Sakaza Amadivayisi"
+
+msgid "Quantity"
+msgstr "ubuningi"
+
+msgid "Devices left"
+msgstr "Amadivayisi kwesokunxele"
+
+msgid "Distributed devices"
+msgstr "Amadivayisi UxhumanoNgaphakathi"
+
+msgid "You must enter quantity"
+msgstr "Kufanele ufake zokwandisa"
+
+msgid "All devices are distributed"
+msgstr "Zonke Amadivayisi zabiwa"
+
+msgid "IP address"
+msgstr "ikheli le-IP"
+
+msgid "Only for printer"
+msgstr "Kuphela printer"
+
+msgid "Counter"
+msgstr "Counter"
+
+msgid "You was excluded from this room"
+msgstr "You ngaphandle ngesikhathi lesi ekamelweni"
+
+msgid "Compare"
+msgstr "Qhathanisa"
+
+msgid "Scheduled transaction"
+msgstr "transaction Kuhleliwe"
+
+msgid "Select transfer account"
+msgstr "Khetha i-akhawunti ukudluliswa"
+
+msgid "Select income account"
+msgstr "Akhawunti engenayo Khetha"
+
+msgid "Reports"
+msgstr "Imibiko"
+
+msgid "Goals"
+msgstr "Imigomo"
+
+msgid "Budgets"
+msgstr "Izabelomali"
+
+msgid "Enter user name or email..."
+msgstr "Faka igama lomsebenzisi noma i-imeyili ..."
+
+msgid "Invite had been sended"
+msgstr "Mema ayekade sended"
+
+msgid "Statistics"
+msgstr "Izibalo"
+
+msgid "Updated site began to work"
+msgstr "Indawo Kubuyekeziwe waqala ukusebenza"
+
+msgid "City of residence"
+msgstr "City of indlu"
+
+msgid "Edit favourites list"
+msgstr "Hlela izintandokazi uhlu"
+
+msgid "Add favourites list"
+msgstr "Engeza Izintandokazi uhlu"
+
+msgid "Categories is required"
+msgstr "Imidlalo iyadingeka"
+
+msgid "Type new category name and hit Enter"
+msgstr "Thayipha igama elisha isigaba and hit Faka"
+
+msgid "You created an order"
+msgstr "Wena wadala umyalelo"
+
+msgid "You received a device due to this order"
+msgstr "Namukelé idivayisi ngenxa le oda"
+
+msgid "%s attached %s to task %s"
+msgstr "%s exhunywe %s komsebenzi %s"
+
+msgid "member(s)"
+msgstr "ilungu ( s )"
+
+msgid "%s commented task %s"
+msgstr "%s umsebenzi amazwana %s"
+
+msgid "%s closed task %s"
+msgstr "%s umsebenzi closed %s"
+
+msgid "%s created task %s"
+msgstr "%s umsebenzi wadala %s"
+
+msgid "%s created this project"
+msgstr "%s wadala le phrojekthi"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s subproject wadala \" %s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s avaliwe project \" %s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s avaliwe subproject \" %s \""
+
+msgid "This field must not be blank"
+msgstr "Lendawo kufanele ingabi nalutho"
+
+msgid "Document with such name is already exist"
+msgstr "Document kanye gama isivele akhona"
+
+msgid "Wait until image upload"
+msgstr "Linda kuze image upload"
+
+msgid "Video"
+msgstr "Isiqophi"
+
+msgid "Message can not be empty"
+msgstr "Umlayezo awukwazi ukungabi nalutho"
+
+msgid "Yes"
+msgstr "Yebo"
+
+msgid "No"
+msgstr "No"
+
+msgid "Created"
+msgstr "Wadala"
+
+msgid "Compare is empty"
+msgstr "Qhathanisa ayinalutho"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Ingabe uqinisekile ukuthi ufuna ukususa ukusebenza"
+
+msgid "Do you really want to delete transaction"
+msgstr "Ingabe ngempela ufuna ukususa transaction"
+
+msgid "Project with same name already exists"
+msgstr "Project negama elifanayo isikhona kakade"
+
+msgid "Account is not found"
+msgstr "Akhawunti ayitholakali"
+
+msgid "Currency is required"
+msgstr "Currency iyadingeka"
+
+msgid "error while deleting document"
+msgstr "Iphutha ngenkathi isula idokhumenti"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Umeme umsebenzisi \" %s \" kule room"
+
+msgid "User \"%s\" joined this room"
+msgstr "User \" %s \" ahlanganyela lokhu ekamelweni"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "You abashiywe ngaphandle umsebenzisi \" %s \" kusukela kulesi ekamelweni"
+
+msgid "User \"%s\" left this room"
+msgstr "User \" %s \" washiya le ekamelweni"
+
+msgid "Add account"
+msgstr "Engeza i-akhawunti"
+
+msgid "The requested page is not found"
+msgstr "Ikhasi eliceliwe lingatholakali"
+
+msgid "Document"
+msgstr "Document"
+
+msgid "Table"
+msgstr "Ithebula"
+
+msgid "file(s)"
+msgstr "ifayela ( s )"
+
+msgid "Residue"
+msgstr "zinsalela"
+
+msgid "Result is empty"
+msgstr "Umphumela ayinalutho"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Isamba semali kuyinto s % for %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Kufanele sigcine %s yanyangazonke akhawunti ahlobene"
+
+msgid "Start"
+msgstr "Qala"
+
+msgid "finish"
+msgstr "sekugcineni"
+
+msgid "Selected account is already in use for another goal"
+msgstr "I-akhawunti ekhethiwe isivele iyasebenza for omunye umgomo"
+
+msgid "Amount required"
+msgstr "Inani edingekayo"
+
+msgid "New goal"
+msgstr "umgomo New"
+
+msgid "Goal"
+msgstr "Goal"
+
+msgid "Goal name"
+msgstr "Goal igama"
+
+msgid "Invalid date"
+msgstr "usuku olungavumelekile"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Sum Kudingekile kumele kube inombolo positive"
+
+msgid "Remain"
+msgstr "Hlala"
+
+msgid "Last day"
+msgstr "usuku Last"
+
+msgid "Accumulated"
+msgstr "zanqwabelana"
+
+msgid "Put aside"
+msgstr "Beka eceleni"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "February"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "Ephreli"
+
+msgid "May"
+msgstr "Kwangathi"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "July"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "October"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Expenses projected/actual"
+msgstr "Izindleko afakwa / langempela"
+
+msgid "Net Income projected/actual"
+msgstr "Income Net afakwa / langempela"
+
+msgid "New budget"
+msgstr "isabelomali New"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Revenue and Izindleko Chart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Budget kanye pair elifanayo akhawunti kanye isigaba selikhona vele"
+
+msgid "Budget is empty"
+msgstr "Budget ayinalutho"
+
+msgid "Budget"
+msgstr "Budget"
+
+msgid "plan"
+msgstr "plan"
+
+msgid "fact"
+msgstr "Empeleni"
+
+msgid "diff"
+msgstr "Diff"
+
+msgid "Show More"
+msgstr "Bonisa okuningi"
+
+msgid "Cancel"
+msgstr "Khansela"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "yokuthengisa My"
+
+msgid "Time spent"
+msgstr "Isikhathi esichithwa"
+
+msgid "Total time spent"
+msgstr "Inani wachitha"
+
+msgid "Earnings per hour"
+msgstr "Amaholo ngehora"
+
+msgid "Total earnings"
+msgstr "Amaholo Total"
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Phone call"
+msgstr "Hambayo call"
+
+msgid "Telephone calls"
+msgstr "izingcingo Telephone"
+
+msgid "Send email"
+msgstr "Thumela i-imeyili"
+
+msgid "Emails"
+msgstr "imeyili"
+
+msgid "Meeting"
+msgstr "Ukuhlangana"
+
+msgid "Meetings"
+msgstr "Imihlangano"
+
+msgid "All events"
+msgstr "Zonke izenzakalo"
+
+msgid "Task"
+msgstr "Task"
+
+msgid "Event"
+msgstr "Indawo"
+
+msgid "Events"
+msgstr "izenzakalo"
+
+msgid "Time"
+msgstr "Isikhathi"
+
+msgid "Events statistics"
+msgstr "izenzakalo izibalo"
+
+msgid "days"
+msgstr "izinsuku"
+
+msgid "hours"
+msgstr "amahora"
+
+msgid "minutes"
+msgstr "amaminithi"
+
+msgid "Income & expense"
+msgstr "Income & ngezindleko"
+
+msgid "Show chart"
+msgstr "Bonisa ishadi"
+
+msgid "Hide chart"
+msgstr "Fihla ishadi"
+
+msgid "Add event"
+msgstr "Engeza umcimbi"
+
+msgid "Add financial data"
+msgstr "Engeza idatha yezimali"
+
+msgid "Select contractor"
+msgstr "Khetha usonkontileka"
+
+msgid "Net Income"
+msgstr "Umholo ophelele"
+
+msgid "Revenue"
+msgstr "Revenue"
+
+msgid "Taxes"
+msgstr "izintela"
+
+msgid "Amount planned"
+msgstr "Inani kuhlelwe"
+
+msgid "Amount"
+msgstr "Inani"
+
+msgid "Period"
+msgstr "Isikhathi"
+
+msgid "Are you sure to close this task?"
+msgstr "Uqinisekile ukuthi ufuna ukuvala lo msebenzi ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "Zonke amaqembu"
+
+msgid "added from task"
+msgstr "Wanezela kusukela umsebenzi"
+
+msgid "Monthly repeat"
+msgstr "uphinda Monthly"
+
+msgid "Select category"
+msgstr "Khetha isigaba"
+
+msgid "Event type"
+msgstr "Indawo uhlobo"
+
+msgid "Margin"
+msgstr "wekhasi"
+
+msgid "Use finance project"
+msgstr "Sebenzisa ezezimali project"
+
+msgid "New investment project"
+msgstr "New utshalomali project"
+
+msgid "Investment project settings"
+msgstr "Izilungiselelo Investment project"
+
+msgid "Picture, for the announcement project"
+msgstr "Isithombe , ngoba project isimemezelo"
+
+msgid "Announcement project"
+msgstr "Announcement project"
+
+msgid "Video"
+msgstr "Isiqophi"
+
+msgid "Photos or videos gallery"
+msgstr "Ama ifotho noma ama eholweni"
+
+msgid "required amount"
+msgstr "lemali edingekayo"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Ubude Project (ezingu-60 esiphezulu )"
+
+msgid "Project duration"
+msgstr "Project ubude"
+
+msgid "Add reward"
+msgstr "Engeza umvuzo"
+
+msgid "Delivery date"
+msgstr "Usuku lokuthumela"
+
+msgid "Payment systems"
+msgstr "Ukukhokhela izinhlelo"
+
+msgid "Terms of service"
+msgstr "Imigomo yesevisi"
+
+msgid "Agreement"
+msgstr "Isivumelwano"
+
+msgid "Payment"
+msgstr "Ukukhokhwa"
+
+msgid "My projects"
+msgstr "amaphrojekthi My"
+
+msgid "Search result"
+msgstr "Ukucinga Chile"
+
+msgid "Nothing not found"
+msgstr "Nothing akutholakalanga"
+
+msgid "The project has no sponsors"
+msgstr "Le project alinaso abaxhasi"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Food"
+msgstr "Ukudla"
+
+msgid "Journalism"
+msgstr "journalism"
+
+msgid "Games"
+msgstr "Imidlalo"
+
+msgid "Art"
+msgstr "art"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "umculo"
+
+msgid "Handicrafts"
+msgstr "Handicrafts"
+
+msgid "Publishing"
+msgstr "Publishing"
+
+msgid "Theater"
+msgstr "Theater"
+
+msgid "Technology"
+msgstr "Ubuchwepheshe"
+
+msgid "Film/Video"
+msgstr "Film / Isiqophi"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Dance"
+msgstr "Dance"
+
+msgid "Invalid youtube video"
+msgstr "Isiqophi youtube obungavumelekile"
+
+msgid "is required"
+msgstr "iyadingeka"
+
+msgid "User"
+msgstr "User"
+
+msgid "Date"
+msgstr "Usuku"
+
+msgid "Collected"
+msgstr "Kwaqoqwa"
+
+msgid "Choose period"
+msgstr "Khetha isikhathi"
+
+msgid "Choose region"
+msgstr "Khetha isifunda"
+
+msgid "Country"
+msgstr "Izwe"
+
+msgid "Today"
+msgstr "Namuhla"
+
+msgid "Week"
+msgstr "Week"
+
+msgid "Month"
+msgstr "Inyanga"
+
+msgid "Year"
+msgstr "Unyaka"
+
+msgid "Free registration"
+msgstr "ukubhaliswa Free"
+
+msgid "Join"
+msgstr "Joyina"
+
+msgid "Log in using"
+msgstr "Ngena ngemvume usebenzisa"
+
+msgid "Vacancies"
+msgstr "amathuba Employment"
+
+msgid "About Us"
+msgstr "Mayelana NATHI"
+
+msgid "You will need email to log in"
+msgstr "Uzodinga imeyili ungena"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Inhlanganisela 6 kwamadijithi kanye nezinhlamvu"
+
+msgid "Search users, groups, articles..."
+msgstr "Ukucinga abasebenzisi , amaqembu , izihloko ..."
+
+msgid "Cloud"
+msgstr "Cloud"
+
+msgid "Sunday"
+msgstr "Sunday"
+
+msgid "Monday"
+msgstr "Monday"
+
+msgid "Tuesday"
+msgstr "ngoLwesibili"
+
+msgid "Wednesday"
+msgstr "ngoLwesithathu"
+
+msgid "Thursday"
+msgstr "uLwesine"
+
+msgid "Friday"
+msgstr "Friday"
+
+msgid "Saturday"
+msgstr "Saturday"
+
+msgid "Edit"
+msgstr "Hlela"
+
+msgid "Create group"
+msgstr "Dala iqembu"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Ingabe uqinisekile ukuthi ufuna ukushiya leli khasi ?"
+
+msgid "More"
+msgstr "Okuningi"
+
+msgid "Less"
+msgstr "Ngaphansi"
+
+msgid "Pending"
+msgstr "Kusalindelwe"
+
+msgid "Approved"
+msgstr "Kuvunyiwe"
+
+msgid "Rejected"
+msgstr "Owaliwe"
+
+msgid "Subprojects"
+msgstr "Subprojects"
+
+msgid "Group edit"
+msgstr "Group edit"
+
+msgid "Startup"
+msgstr "Qalisa"
+
+msgid "Tattoo"
+msgstr "Tattoo"
+
+msgid "Health"
+msgstr "Health"
+
+msgid "Weapon"
+msgstr "Weapon"
+
+msgid "Astronomy"
+msgstr "Astronomy"
+
+msgid "All articles"
+msgstr "Zonke izihloko"
+
+msgid "Article editor"
+msgstr "Isigaba umhleli"
+
+msgid "Document editor"
+msgstr "Document umhleli"
+
+msgid "Apply changes"
+msgstr "Sebenzisa izinguquko"
+
+msgid "Save changes?"
+msgstr "Londoloza izinguquko ?"
+
+msgid "published an article"
+msgstr "yashicilela isihloko"
+
+msgid "Users"
+msgstr "Abasebenzisi"
+
+msgid "Shared With Me"
+msgstr "Ngekuhlanganyela With Me"
+
+msgid "share"
+msgstr "share"
+
+msgid "Select Group Responsible"
+msgstr "Khetha Group Ukuzimela"
+
+msgid "Create folder"
+msgstr "Dala ifolda"
+
+msgid "Title must be at least 3 characters"
+msgstr "Isihloko kumele ibe nezinhlamvu okungenani 3"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Free 10 GB , imenenja ezezimali , izimali module , futhi eziningi mahhala kanye phakade"
+
+msgid "Best regards"
+msgstr "Ozithobayo"
+
+msgid "Updates in last 12 hours:"
+msgstr "Updates e last amahora 12 :"
+
+msgid "expense"
+msgstr "ngezindleko"
+
+msgid "Commentary on the event:"
+msgstr "Commentary on the umcimbi :"
+
+msgid "Event place"
+msgstr "Indawo endaweni"
+
+msgid "Project was updated"
+msgstr "Project olusha"
+
+msgid "Project was created"
+msgstr "Project wadalwa"
+
+msgid "Project was closed"
+msgstr "Project yavalwa"
+
+msgid "account"
+msgstr "akhawunti"
+
+msgid "removed task"
+msgstr "umsebenzi isuswe"
+
+msgid "removed subproject"
+msgstr "subproject isuswe"
+
+msgid "Title can not be empty"
+msgstr "Isihloko asikwazi ukungabi nalutho"
+
+msgid "Do not select the type of event"
+msgstr "Musa ukhethe uhlobo lomcimbi"
+
+msgid "Error while saving comment"
+msgstr "Iphutha ngenkathi ekulondolozeni amazwana"
+
+msgid "Save error: access denied"
+msgstr "Gcina Iphutha : ukufinyelela waphika"
+
+msgid "Remains"
+msgstr "izinsalela"
+
+msgid "Time spent, h."
+msgstr "Isikhathi esichithwa , h ."
+
+msgid "Emails"
+msgstr "imeyili"
+
+msgid "Meetings"
+msgstr "Imihlangano"
+
+msgid "All users"
+msgstr "Bonke abasebenzisi"
+
+msgid "Category"
+msgstr "isigaba"
+
+msgid "Finance project"
+msgstr "Finance project"
+
+msgid "Investment project"
+msgstr "Investment project"
+
+msgid "Nature"
+msgstr "Nature"
+
+msgid "Data is empty"
+msgstr "Data ayinalutho"
+
+msgid "Visitors"
+msgstr "Izivakashi"
+
+msgid "My profile"
+msgstr "profile My"
+
+msgid "Sponsors"
+msgstr "abaxhasi"
+
+msgid "Prior to completion"
+msgstr "Ngaphambi kokuphothulwa"
+
+msgid "Select"
+msgstr "Khetha"
+
+msgid "My groups"
+msgstr "amaqembu My"
+
+msgid "The invitation has been sent successfully"
+msgstr "Isimemo sithunyelwe ngempumelelo"
+
+msgid "Username has already been invited to this project"
+msgstr "Igama lomsebenzisi kakade umenywe kule phrojekthi"
+
+msgid "The user is the creator of the project"
+msgstr "Umsebenzisi ungumdali iphrojekthi"
+
+msgid "Provide full access"
+msgstr "Nikeza ukufinyelela okugcwele"
+
+msgid "Select elements to provide access"
+msgstr "Khetha izakhi ukunikeza ukufinyelela"
+
+msgid "Select all"
+msgstr "Khetha konke"
+
+msgid "User E-mail"
+msgstr "User E - mail"
+
+msgid "Click on the field to select a category"
+msgstr "Chofoza enkundleni ukuze ukhethe isigaba"
+
+msgid "Invitation was deleted"
+msgstr "Isimemo sisusiwe"
+
+msgid "Permission denied"
+msgstr "Imvume inqatshelwe"
+
+msgid "Printed"
+msgstr "Wanyathelisa"
+
+msgid "Incorrect Contractor email"
+msgstr "Engalungile Umsebenzi imeyili"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Ingabe ufuna ukwengeza project ukuba ngezimali manager ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Ukuze agcwalise le inqubo yokubhalisa sicela ugcwalise phansi amakhono akho"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "An mail imiyalelo eminye wathunyelwa ikheli lakho le"
+
+msgid "Submit"
+msgstr "Hambisa"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Science"
+msgstr "Isayensi"
+
+msgid "Donation"
+msgstr "Donation"
+
+msgid "Interests"
+msgstr "Izithakazelo"
+
+msgid "Driver"
+msgstr "Driver"
+
+msgid "Sportsman"
+msgstr "umdlali"
+
+msgid "Businessman"
+msgstr "Businessman"
+
+msgid "Accountant"
+msgstr "accountant"
+
+msgid "Engineer"
+msgstr "Engineer"
+
+msgid "Soldier"
+msgstr "Soldier"
+
+msgid "Next"
+msgstr "Olandelayo"
+
+msgid "Hide group"
+msgstr "Fihla iqembu"
+
+msgid "groups created"
+msgstr "amaqembu wadala"
+
+msgid "articles written"
+msgstr "ezihlokweni ezilotshwe"
+
+msgid "These groups may be interesting for you"
+msgstr "Lamaqembu kungase kuthakazelise ngawe"
+
+msgid "About Group"
+msgstr "Mayelana Group"
+
+msgid "view(s)"
+msgstr "buka ( s )"
+
+msgid "Favorite users"
+msgstr "abasebenzisi Izintandokazi"
+
+msgid "No accounts"
+msgstr "Awekho ama-akhawunti"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook ukugunyazwa wehluleka ."
+
+msgid "Authorization Required"
+msgstr "Ukugunyaza Kuyadingeka"
+
+msgid "You have to make a call:"
+msgstr "Kufanele wenze ucingo :"
+
+msgid "You have to send an email:"
+msgstr "Kufanele uthumele i -imeyili :"
+
+msgid "You have a meetup:"
+msgstr "Wena ube meetup :"
+
+msgid "You event :"
+msgstr "Umcimbi You :"
+
+msgid "Participants:"
+msgstr "Abahlanganyeli :"
+
+msgid "Search"
+msgstr "Ukucinga"
+
+msgid "News"
+msgstr "Izindaba"
+
+msgid "Investments"
+msgstr "Investments"
+
+msgid "Back to Cloud"
+msgstr "Buyela Cloud"
+
+msgid "Documents"
+msgstr "Imibhalo"
+
+msgid "Planet"
+msgstr "Planet"
+
+msgid "Group url"
+msgstr "Group url"
+
+msgid "Profile url"
+msgstr "url profile"
+
+msgid "Already taken"
+msgstr "Kuthathiwe kakade"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Okungenani 1 incwadi and 3 bezinhlamvu ubude edingekayo"
+
+msgid "Digit can not be the first character"
+msgstr "Digit angeke kube uhlamvu lokuqala"
+
+msgid "Enter valid email address"
+msgstr "Faka ikheli le-imeyili elilungile"
+
+msgid "Enter your skills"
+msgstr "Ngena amakhono akho"
+
+msgid "Enter your first name"
+msgstr "Faka igama lakho lokuqala"
+
+msgid "Enter your last name"
+msgstr "Faka igama lakho lokugcina"
+
+msgid "Enter your first name and last name"
+msgstr "Faka igama lakho lokuqala negama lokugcina"
+
+msgid "Your first name?"
+msgstr "Igama lakho lokuqala ?"
+
+msgid "Your last name?"
+msgstr "Igama lakho lokugcina ?"
+
+msgid "What are your proficiencies?"
+msgstr "Yiziphi proficiencies yakho ?"
+
+msgid "Select country"
+msgstr "Khetha izwe"
+
+msgid "Select user"
+msgstr "Khetha umsebenzisi"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Feza iphupho lakho ! Yakha futhi Ukusebenzisana ."
+
+msgid "date moved from"
+msgstr "usuku yasuka"
+
+msgid "work"
+msgstr "umsebenzi"
+
+msgid "Conference"
+msgstr "Conference"
+
+msgid "personal"
+msgstr "siqu"
+
+msgid "Holiday"
+msgstr "Holiday"
+
+msgid "Past"
+msgstr "Past"
+
+msgid "Future"
+msgstr "Future"
+
+msgid "Purchase"
+msgstr "Ukuthengwa"
+
+msgid "Personal events"
+msgstr "Imicimbi Private"
+
+msgid "Conferences"
+msgstr "Ukuhlangana"
+
+msgid "Holidays"
+msgstr "Amaholide"
+
+msgid "Sport events"
+msgstr "Ezemidlalo izenzakalo"
+
+msgid "Tasks"
+msgstr "Imisebenzi"
+
+msgid "Other events"
+msgstr "Ezenye izenzakalo"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Ayilibalanga"
+
+msgid "Time management"
+msgstr "Management Time"
+
+msgid "Delayed events"
+msgstr "Imicimbi ayilibalanga"
+
+msgid "Delayed"
+msgstr "Ayilibalanga"
+
+msgid "Bind to"
+msgstr "Beka"
+
+msgid "answered your comment to"
+msgstr "Ngathi (a) Comment on the sihloko"
+
+msgid "commented your article"
+msgstr "I amazwana on sihloko yakho"
+
+msgid "You\'ve answered on comment to"
+msgstr "You basabela comment on the sihloko"
+
+msgid "You\'ve commented an article"
+msgstr "You amazwana on the sihloko"
+
+msgid "Terms and Conditions"
+msgstr "Imigomo nemibandela"
+
+msgid "Privacy Policy"
+msgstr "Inqubomgomo yemfihlo"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Ngokuchofoza \"ubhalisele\" Uyavumelana yethu futhi bavume ukuthi ufundile wethu"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Joyina umphakathi wabantu zokudala ezivela emhlabeni wonke! Uzothola: Ukutshala imali imibono yakho, ithuba ukubutha iqembu lakhe, esebenza iqembu, umphathi wezimali, ukulawula isikhathi sabo, 2 gigabytes isitoreji and more. Futhi kumahhala!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Uxolo, kodwa page owufunayo akekho. Uma ucabanga ukuthi ukusola us uxhumane nathi"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "COMMON"
+msgstr "Amamaki"
+
+msgid "My events"
+msgstr "Izenzakalo My"
+
+msgid "Job opening"
+msgstr "Isikhundla New"
+
+msgid "Employment"
+msgstr "Uhlobo emisebenzi"
+
+msgid "Working hours"
+msgstr "Amahora okuvula"
+
+msgid "City"
+msgstr "City"
+
+msgid "Wages"
+msgstr "Salary"
+
+msgid "Currency"
+msgstr "Currency"
+
+msgid "Experience"
+msgstr "Experience"
+
+msgid "Full-time"
+msgstr "Emisebenzi Full"
+
+msgid "Part-time"
+msgstr "Ingxenye-time"
+
+msgid "Project employment"
+msgstr "Project / lesikhashana"
+
+msgid "Volunteer"
+msgstr "Wokuzithandela"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "Esigcwele"
+
+msgid "Shifts"
+msgstr "Ukubuyiselwa schedule"
+
+msgid "Flexible shifts"
+msgstr "Schedule Flexible"
+
+msgid "Remote work"
+msgstr "Umsebenzi Remote"
+
+msgid "Rotational basis"
+msgstr "Shift indlela"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Ingabe uqinisekile ukuthi ufuna ukususa le amazwana?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Ingabe uqinisekile ukuthi ufuna ukususa lo msebenzi?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Ingabe uqinisekile ukuthi ufuna ukususa le sub-project?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "You ezisetshenziswe inkampani isikhundla. Sicela uqinisekise ukuthi"
+
+msgid "Your request to for job has been rejected"
+msgstr "Sinqatshiwe isicelo sakho enkampanini isikhundla"
+
+msgid "Your request to for job has been accepted"
+msgstr "Isicelo sakho enkampanini isikhundla kwavunyelwana"
+
+msgid "profile is completed"
+msgstr "Iphrofayela yakho egcwele"
+
+msgid "Use account"
+msgstr "Sebenzisa i-akhawunti"
+
+msgid "$/hr"
+msgstr "$ / Ihora"
+
+msgid "Finance category"
+msgstr "Isigaba Financial"
+
+msgid "No projects"
+msgstr "Awekho amaphrojekthi"
+
+msgid "Bind to finances"
+msgstr "Beka project zezimali"
+
+msgid "Preview"
+msgstr "Buka"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Save to my cloud"
+msgstr "Kopisha Igumbi"
+
+msgid "File successfully saved to your cloud"
+msgstr "Ifayela agcinwe ngempumelelo Igumbi yakho"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Londoloza le ifayela Igumbi yakho?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Khetha Isigaba isigaba"
+
+msgid "Type something"
+msgstr "Bhala into"
+
+msgid "Founded users"
+msgstr "Abasebenzisi Found"
+
+msgid "Founded articles"
+msgstr "Isihloko Found"
+
+msgid "Founded groups"
+msgstr "Iqembu Wasekelwa"
+
+msgid "What are your skills?"
+msgstr "Yiziphi amakhono akho?"
+
+msgid "Select at least 2 interests"
+msgstr "Khetha okungenani 2 nesithakazelo"
+
+msgid "Need more interests"
+msgstr "Not nesithakazelo ngokwanele akhethiwe"
+
+msgid "What are you interesting in?"
+msgstr "Yini isithakazelo?"
+
+msgid "You have no dialogs"
+msgstr "Akudingeki mpendulwano"
+
+msgid "Usage Stats"
+msgstr "State of"
+
+msgid "Founded files"
+msgstr "Amafayela Found"
+
+msgid "Big tiles"
+msgstr "Tiles Large"
+
+msgid "Small tiles"
+msgstr "Tiles Small"
+
+msgid "Table view"
+msgstr "Ithebula buka"
+
+msgid "Root folder"
+msgstr "The lwemibhalo impande"
+
+msgid "My files"
+msgstr "Amafayela My"
+
+msgid "Save as draft"
+msgstr "Londoloza njengoba Draft"
+
+msgid "Buy More Space"
+msgstr "Thenga isikhala more"
+
+msgid "Buy"
+msgstr "Thenga"
+
+msgid "You have been invited to group as"
+msgstr "Umenyiwe ukuba iqembu njengoba"
+
+msgid "User wants to join your group"
+msgstr "Umsebenzisi ofisa ukujoyina iqembu lakho"
+
+msgid "Section is coming soon!"
+msgstr "Isigaba Kwakhiwa!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Ukubukwa the last 24 amahora:"
+
+msgid "Task was updated"
+msgstr "Umsebenzi ibuyekeziwe"
+
+msgid "Task was closed"
+msgstr "Inselelo sivaliwe"
+
+msgid "Task was created"
+msgstr "Umsebenzi lamiswa"
+
+msgid "Current balance"
+msgstr "Balance Current"
+
+msgid "Add funds"
+msgstr "Engeza"
+
+msgid "Pay"
+msgstr "Checkout"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Usuyeqile isibalo imizamo yokungena. Wena ivinjiwe imizuzu engu-15"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Sicela uqinisekise e-mail yakho. Le ncwadi ithunyelwe kuwe ngeposi."
+
+msgid "Resend confirmation email"
+msgstr "Thumela isiqinisekiso aphinde"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB ngenyanga"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Shayela 10 GB ngonyaka"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB unyaka ngamunye"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1TB nyangazonke"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Shayela 1 TB unyaka ngamunye"
+
+msgid "Project members monthly"
+msgstr "Abahlanganyeli of the project njalo ngenyanga"
+
+msgid "Project members yearly"
+msgstr "Project abahlanganyeli njalo ngonyaka"
+
+msgid "Member(s) yearly"
+msgstr "Member (s) ngonyaka"
+
+msgid "Member(s) monthly"
+msgstr "Member (s) njalo ngenyanga"
+
+msgid "Authorized"
+msgstr "Authorized"
+
+msgid "Authorization expired"
+msgstr "Ukugunyaza iphelelwe isikhathi"
+
+msgid "Processor declined"
+msgstr "Owaliwe processing uhlelo"
+
+msgid "Gateway rejected"
+msgstr "Owaliwe yokukhokha gateway"
+
+msgid "Failed"
+msgstr "Iphutha"
+
+msgid "Voided"
+msgstr "Chitha"
+
+msgid "Submitted for settlement"
+msgstr "Kuthunyelwe ibhalise"
+
+msgid "Settlement declined"
+msgstr "Ukufaka isicelo sinqatshiwe"
+
+msgid "Settlement pending"
+msgstr "Labafundi Kusalindelwe"
+
+msgid "Verified"
+msgstr "Ungene"
+
+msgid "Pending"
+msgstr "Kusalindelwe"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Past Due"
+msgstr "Yisikhathi"
+
+msgid "Expired"
+msgstr "Kuphelile"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "India"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "South Korea"
+msgstr "South Korea"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Turkey"
+msgstr "Turkey"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Germany"
+msgstr "Germany"
+
+msgid "Italy"
+msgstr "Italy"
+
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "United Kingdom"
+msgstr "IGreat Britain"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "United States"
+msgstr "United States"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+msgid "Canada"
+msgstr "Egypt"
+
+msgid "Russia"
+msgstr "Russia"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Okwamanje, kwakungekho ukuthengiselana olulodwa"
+
+msgid "Fulfill your dream"
+msgstr "Ukufeza iphupho YAKHO"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Joyina umphakathi wethu abantu zokudala ezivela kuzo zonke emhlabeni wonke."
+
+msgid "Create and Collaborate"
+msgstr "Dala futhi Ukusebenzisana"
+
+msgid "Start Dreaming"
+msgstr "Ukufeza iphupho MANJE"
+
+msgid "or"
+msgstr "noma"
+
+msgid "Our mission:"
+msgstr "Umsebenzi wethu:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Ukuze yokuhlanganisa abantu creative futhi ekhuthele nokuqalisa imibono evela elula ku funa Amazing futhi kumnandi, ukuthi kungaba ikusasa lethu."
+
+msgid "What is Konstruktor?"
+msgstr "Kuyini Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - kuyingxenye yokuphila kwethu Okuyınqo, okusho kusiza kakhulu futhi lula"
+
+msgid "*business processes"
+msgstr "* izinqubo zebhizinisi"
+
+msgid "*materialization of creative ideas"
+msgstr "* materialization imibono creative"
+
+msgid "*constructive cooperation"
+msgstr "* Ukubambisana okwakhayo"
+
+msgid "Make your dream!"
+msgstr "Yenza iphupho lakho!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Special Advisor"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Manager, Development Software"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Ummeli Senior"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Umklami"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Ngokuchofoza inkinobho \"Okulandelayo\", namukela bevuma kanye nemigomo nemibandela, futhi wena kokuqaphela ukuthi ufundile Inqubomgomo yemfihlo yethu."
+
+msgid "Incorrect login or password."
+msgstr "Login noma iphasiwedi engalungile."
+
+msgid "Password must be at least 6 characters"
+msgstr "Iphasiwedi kumele ibe nezinhlamvu okungenani 6"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "February"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "Ephreli"
+
+msgid "May"
+msgstr "Kwangathi"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "July"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "October"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Chat"
+msgstr "Xoxa"
+
+msgid "Files"
+msgstr "Amafayela"
+
+msgid "Statistic"
+msgstr "Izibalo"
+
+msgid "Support"
+msgstr "Ukusekela"
+
+msgid "Exit"
+msgstr "Phuma"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Marketing specialist"
+msgstr "Marketing specialist"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Shared with me"
+msgstr "Ngekuhlanganyela nami"
+
+msgid "File Sharing"
+msgstr "Ifayela Ukwabelana"
+
+msgid "Provide access by link"
+msgstr "Nikeza ukufinyelela isixhumanisi"
+
+msgid "Provide Individual access"
+msgstr "Nikeza ukufinyelela Individual"
+
+msgid "Provide edit access"
+msgstr "Nikeza ukufinyelela ukuhlela"
+
+msgid "Share"
+msgstr "Ungahlukıselana"
+
+msgid "Files will be available only for selected users"
+msgstr "Abasebenzisi akhethiwe Amafayela izotholakala kuphela"
+
+msgid "With this link everyone can access to the files"
+msgstr "Nalokhu uxhumanisa wonke umuntu angakwazi ukufinyelela amafayela"
+
+msgid "Search users, groups, articles..."
+msgstr "Ukucinga abasebenzisi, amaqembu, izihloko ..."
+
+msgid "My Group"
+msgstr "Iqembu My"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "We"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Ulwesihlanu"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Ifayela ingakhethiwe"
+
+msgid "Set aside"
+msgstr "Beka eceleni"
+
+msgid "Event time"
+msgstr "Isikhathi Indawo"
+
+msgid "Work"
+msgstr "Umsebenzi"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Time spent for work:"
+msgstr "Isikhathi esichithwa umsebenzi:"
+
+msgid "Personal time spent:"
+msgstr "Isikhathi Personal wachitha:"
+
+msgid "Present"
+msgstr "Present"
+
+msgid "Common"
+msgstr "Common"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "Entertainment"
+msgstr "Entertainment"
+
+msgid "Select:"
+msgstr "Khetha:"
+
+msgid "Invalid username or password."
+msgstr "Igama lomsebenzisi noma iphasiwedi."
+
+msgid "Try again."
+msgstr "Zama futhi."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "YINI unentshisekelo?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Khetha amakhono okungenani 2: uhlala 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Khetha amakhono okungenani 2: uhlala 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Khetha amakhono okungenani 2: izinsalela"
+
+msgid "Active life"
+msgstr "Ukuphila Active"
+
+msgid "Arts and culture"
+msgstr "Arts and namasiko"
+
+msgid "Business"
+msgstr "Business"
+
+msgid "Cinema"
+msgstr "Cinema"
+
+msgid "Communications"
+msgstr "Communications"
+
+msgid "Construction and repair"
+msgstr "Ukwakhiwa kanye ukukhanda"
+
+msgid "Cooking"
+msgstr "Ukupheka"
+
+msgid "Education"
+msgstr "Imfundo"
+
+msgid "Electronics"
+msgstr "Electronics"
+
+msgid "Finances"
+msgstr "Imali"
+
+msgid "Graphics and design"
+msgstr "Graphics and design"
+
+msgid "Health"
+msgstr "Health"
+
+msgid "Home and family"
+msgstr "Home nomndeni"
+
+msgid "Humor"
+msgstr "Amahlaya"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Industry"
+
+msgid "Insurance"
+msgstr "Insurance"
+
+msgid "Literature"
+msgstr "Literature"
+
+msgid "Mobile communications and internet"
+msgstr "Ukuxhumana Hambayo and internet"
+
+msgid "News and Media"
+msgstr "Izindaba and Media"
+
+msgid "Pets"
+msgstr "Pets"
+
+msgid "Products and service"
+msgstr "Imikhiqizo service"
+
+msgid "Real Estate"
+msgstr "Ukuthengisa izindlu"
+
+msgid "Religion"
+msgstr "Inkolo"
+
+msgid "Science and techs"
+msgstr "Isayensi kanye techs"
+
+msgid "Security"
+msgstr "Security"
+
+msgid "Society"
+msgstr "Society"
+
+msgid "Television"
+msgstr "Television"
+
+msgid "Travel"
+msgstr "Ichibi"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belgium"
+msgstr "Belgium"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Denmark"
+
+msgid "France"
+msgstr "France"
+
+msgid "Germany"
+msgstr "Germany"
+
+msgid "Greece"
+msgstr "Greece"
+
+msgid "Hungary"
+msgstr "Hungary"
+
+msgid "Iceland"
+msgstr "Iceland"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Italy"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgid "New Zealand"
+msgstr "E-New Zealand"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Russia"
+msgstr "Russia"
+
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgid "South Africa"
+msgstr "Iningizimu Afrika"
+
+msgid "South Korea"
+msgstr "INingizimu Korea"
+
+msgid "Spain"
+msgstr "Spain"
+
+msgid "Sweden"
+msgstr "Sweden"
+
+msgid "Switzerland"
+msgstr "Switzerland"
+
+msgid "Turkey"
+msgstr "igalikuni"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "United Arab Emirates"
+msgstr "I-United Arab Emirates"
+
+msgid "United Kingdom"
+msgstr "i-United Kingdom"
+
+msgid "United States"
+msgstr "I-united states"
+
+msgid "achievements"
+msgstr "impumelelo"
+
+msgid "Investment management"
+msgstr "Investment Ukuphathwa"
+
+msgid "Select..."
+msgstr "Khetha ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "INVESTMENT UKUPHATHWA"
+
+msgid "Investors list"
+msgstr "Investors uhlu"
+
+msgid "My investments"
+msgstr "Nokutshalwa My"
+
+msgid "Create date"
+msgstr "Dala usuku"
+
+msgid "Author of the project"
+msgstr "Umbhali we project"
+
+msgid "Date and time"
+msgstr "Usuku nesikhathi"
+
+msgid "Status"
+msgstr "Isimo"
+
+msgid "NEXT"
+msgstr "OLANDELAYO"
+
+msgid "Next"
+msgstr "Olandelayo"
+
+msgid "Apply"
+msgstr "Sebenzisa"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "i-Hong Kong"
+
+msgid "Science"
+msgstr "Isayensi"
+
+msgid "Architecture"
+msgstr "Architecture"
+
+msgid "Photography"
+msgstr "Photography"
+
+msgid "Designer"
+msgstr "Umklami"
+
+msgid "IT specialist"
+msgstr "IT specialist"
+
+msgid "Agronomist"
+msgstr "Sezolimo namahlathi"
+
+msgid "Architect"
+msgstr "Architect"
+
+msgid "Lawyer"
+msgstr "Ummeli"
+
+msgid "Writer"
+msgstr "Umlobi"
+
+msgid "Doctor"
+msgstr "Doctor"
+
+msgid "Scientist"
+msgstr "Scientist"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Teacher"
+
+msgid "Cook"
+msgstr "Cook"
+
+msgid "Artist"
+msgstr "Umculi"
+
+msgid "Photographer"
+msgstr "Photographer"
+
+msgid "Ecologist"
+msgstr "Semvelo"
+
+msgid "Economist"
+msgstr "Economist"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Intatheli"
+
+msgid "Builder"
+msgstr "Builder"
+
+msgid "These users may be interesting for you"
+msgstr "Lezi abasebenzisi kungase kuthakazelise ngawe"
+
+msgid "These articles may be interesting for you"
+msgstr "Lezi zihloko kungase kuthakazelise ngawe"
+
+msgid "You joined this group as Аdministrator"
+msgstr "You kuleli qembu njengoba Аdministrator"
+
+msgid "articles written."
+msgstr "ezihlokweni ezilotshwe."
+
+msgid "groups created."
+msgstr "amaqembu wadala."
+
+msgid "Creation"
+msgstr "Indalo"
+
+msgid "Build a dream"
+msgstr "Yakha iphupho"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Funda izihloko ezithakazelisayo kabanzi - go yokubhalisa khulula"
+

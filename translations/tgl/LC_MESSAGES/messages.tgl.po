@@ -1,0 +1,3344 @@
+# Tagalog (Тагальский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Tagalog (Тагальский) <support@konstruktor.com>\n"
+"Language: Tagalog (Тагальский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "username"
+
+msgid "Invalid username or password, try again"
+msgstr "Maling username o password . Subukan muli."
+
+msgid "Settings"
+msgstr "Mga Setting"
+
+msgid "Home"
+msgstr "tahanan"
+
+msgid "You must log in to access this page"
+msgstr "Kailangan mong mag-log in upang ma-access ang pahinang ito"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Ang iyong session ay nag-expire. Mangyaring, muling mag-login upang isagawa ang pagkilos"
+
+msgid "Save"
+msgstr "I-save ang"
+
+msgid "Head Office"
+msgstr "opisina"
+
+msgid "Address"
+msgstr "tirahan"
+
+msgid "Back"
+msgstr "likod"
+
+msgid "Apply"
+msgstr "gamitin"
+
+msgid "Upload files…"
+msgstr "Mag-upload ng file ..."
+
+msgid "Set as main"
+msgstr "Itakda bilang pangunahing"
+
+msgid "Delete"
+msgstr "alisin"
+
+msgid "Original image"
+msgstr "ang orihinal na larawan"
+
+msgid "Uploaded"
+msgstr "Nag-upload"
+
+msgid "File name"
+msgstr "Ang pangalan ng file"
+
+msgid "File size"
+msgstr "laki ng file"
+
+msgid "Resolution"
+msgstr "paglutas"
+
+msgid "Enlarge"
+msgstr "palakihin"
+
+msgid "Links"
+msgstr "Link"
+
+msgid "Original size"
+msgstr "orihinal na sukat"
+
+msgid "For editor"
+msgstr "para sa editor"
+
+msgid "Resize"
+msgstr "Baguhin ang laki"
+
+msgid "Width"
+msgstr "lapad"
+
+msgid "Height"
+msgstr "taas"
+
+msgid "Media URL"
+msgstr "media URL"
+
+msgid "Add record"
+msgstr "Magdagdag ng tala"
+
+msgid "Show filter settings"
+msgstr "Ipakita ang mga setting ng filter"
+
+msgid "Edit record"
+msgstr "I-edit ang tala"
+
+msgid "Delete record"
+msgstr "Tanggalin ang tala"
+
+msgid "Delete checked records"
+msgstr "Tanggalin ang check talaan"
+
+msgid "Dashboard"
+msgstr "dashboard"
+
+msgid "Password"
+msgstr "password"
+
+msgid "Remember me"
+msgstr "Tandaan ako"
+
+msgid "Login"
+msgstr "login"
+
+msgid "Clean image cache"
+msgstr "Malinis cache ng imahe"
+
+msgid "Processing query..."
+msgstr "Pagpoproseso ng query ..."
+
+msgid "CMS Development"
+msgstr "CMS Development"
+
+msgid "Admin Home Page"
+msgstr "Admin Home Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Buksan ang home page ng Front -end sa bagong tab"
+
+msgid "Go to Site"
+msgstr "Pumunta sa Site"
+
+msgid "Log out"
+msgstr "Mag-log out"
+
+msgid "Send"
+msgstr "magpadala"
+
+msgid "General"
+msgstr "pangkalahatan"
+
+msgid "Title"
+msgstr "pamagat"
+
+msgid "Teaser"
+msgstr "tagatis"
+
+msgid "Published"
+msgstr "Nai-publish"
+
+msgid "Featured"
+msgstr "Itinatampok"
+
+msgid "Active"
+msgstr "aktibo"
+
+msgid "Field is mandatory"
+msgstr "Field ay sapilitan"
+
+msgid "Sort Order"
+msgstr "Pagsunud-sunurin ayon Order"
+
+msgid "Upload"
+msgstr "upload"
+
+msgid "Loading..."
+msgstr "Naglo-load ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Pebrero"
+
+msgid "Mar"
+msgstr "Marso"
+
+msgid "Apr"
+msgstr "Abril"
+
+msgid "May"
+msgstr "Mayo"
+
+msgid "Jun"
+msgstr "Hunyo"
+
+msgid "Jul"
+msgstr "Hulyo"
+
+msgid "Aug"
+msgstr "Agosto"
+
+msgid "Sep"
+msgstr "Setyembre"
+
+msgid "Oct"
+msgstr "Oktubre"
+
+msgid "Nov"
+msgstr "Nobyembre"
+
+msgid "Dec"
+msgstr "Disyembre"
+
+msgid "Product already exists in the order"
+msgstr "Umiiral na ang Product sa pagkakasunud-sunod"
+
+msgid "Product does not exist"
+msgstr "Produkto ay hindi umiiral"
+
+msgid "Incorrect request"
+msgstr "Maling kahilingan"
+
+msgid "Products"
+msgstr "Produkto"
+
+msgid "Product types"
+msgstr "Mga uri ng produkto"
+
+msgid "Contractors"
+msgstr "Kontratista"
+
+msgid "Contractor"
+msgstr "kontratista"
+
+msgid "Orders"
+msgstr "Orders"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "Bagong pagkakasunod-sunod"
+
+msgid "My orders"
+msgstr "Aking mga order"
+
+msgid "Recharge balance"
+msgstr "Recharge balance"
+
+msgid "Administrator"
+msgstr "administrador"
+
+msgid "Incorrect event ID"
+msgstr "Maling ID kaganapan"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "I-edit ang contractor"
+
+msgid "Create contractor"
+msgstr "Lumikha ng contractor"
+
+msgid "Edit question"
+msgstr "I-edit ang tanong"
+
+msgid "Create question"
+msgstr "Lumikha ng tanong"
+
+msgid "Edit order"
+msgstr "I-edit ang mga order"
+
+msgid "Create order"
+msgstr "Lumikha ng order"
+
+msgid "Edit product"
+msgstr "Edit produkto"
+
+msgid "Create product"
+msgstr "Lumikha produkto"
+
+msgid "Edit product type"
+msgstr "I-edit ang uri ng produkto"
+
+msgid "Create product type"
+msgstr "Lumikha ng uri ng produkto"
+
+msgid "You have received a file"
+msgstr "Nakatanggap ka ng isang file"
+
+msgid "You received a file from"
+msgstr "Natanggap mo ang isang file mula sa"
+
+msgid "File has been uploaded"
+msgstr "File ay nai-upload"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "minimal dami"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "item"
+
+msgid "Remove"
+msgstr "alisin"
+
+msgid "Contact person"
+msgstr "taong"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Contractor phone"
+msgstr "contractor phone"
+
+msgid "Contractor name"
+msgstr "name contractor"
+
+msgid "Contractor details"
+msgstr "detalye contractor"
+
+msgid "Order ID"
+msgstr "ID ng Order"
+
+msgid "Sum"
+msgstr "kabuuan"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Piliin ang naaangkop na sistema ng pagbabayad upang muling magkarga ang iyong balanse"
+
+msgid "Recharge amount"
+msgstr "Recharge halaga"
+
+msgid "Paid"
+msgstr "bayad"
+
+msgid "Shipped"
+msgstr "naipadala"
+
+msgid "- No products in this order -"
+msgstr "- Walang mga produkto sa order na ito -"
+
+msgid "month"
+msgstr "buwan"
+
+msgid "No user found"
+msgstr "Walang natagpuang mga user"
+
+msgid "Achievement"
+msgstr "Achievement"
+
+msgid "Confirmed accomplishments"
+msgstr "Nakumpirma kabutihan"
+
+msgid "Remove achievement"
+msgstr "alisin achievement"
+
+msgid "Headquaters"
+msgstr "Punong-himpilan"
+
+msgid "Phone"
+msgstr "telepono"
+
+msgid "Site URL and email"
+msgstr "Site URL at email"
+
+msgid "Remove address"
+msgstr "alisin ang address"
+
+msgid "Members"
+msgstr "Miyembro"
+
+msgid "Requires a payment"
+msgstr "Nangangailangan ng isang pagbabayad"
+
+msgid "Shipping"
+msgstr "Pagpapadala"
+
+msgid "Ready"
+msgstr "nakahanda"
+
+msgid "Find user..."
+msgstr "Hanapin ang user ..."
+
+msgid "Order it"
+msgstr "Order na ito"
+
+msgid "Find group..."
+msgstr "Maghanap ng grupo ..."
+
+msgid "Find user or community..."
+msgstr "Hanapin ang user o komunidad ..."
+
+msgid "No item found"
+msgstr "Walang natagpuang mga item"
+
+msgid "years"
+msgstr "taon"
+
+msgid "Send message"
+msgstr "Magpadala ng mensahe"
+
+msgid "Message"
+msgstr "mensahe"
+
+msgid "To send message press Enter"
+msgstr "Upang magpadala ng press message Magpasok"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Upang magpadala ng mensahe pindutin ang CTRL + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Processing file (s) ..."
+
+msgid "Group settings"
+msgstr "Mga setting ng Group"
+
+msgid "Create group"
+msgstr "Gumawa ng grupo"
+
+msgid "Group has been successfully saved"
+msgstr "Group ay matagumpay na nai-save"
+
+msgid "Group title"
+msgstr "title Group"
+
+msgid "Group video"
+msgstr "Group video"
+
+msgid "Description"
+msgstr "paglalarawan"
+
+msgid "Your role in group"
+msgstr "Ang iyong papel sa grupo"
+
+msgid "Role"
+msgstr "papel"
+
+msgid "Photo or video gallery"
+msgstr "Larawan o video gallery"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Mag-upload ng video"
+
+msgid "Add group address"
+msgstr "Magdagdag group address"
+
+msgid "Group articles"
+msgstr "artikulo Group"
+
+msgid "No addresses yet"
+msgstr "Wala pang mga addresses"
+
+msgid "Add group achievement"
+msgstr "Magdagdag achievement grupo"
+
+msgid "No achivements yet"
+msgstr "Wala pang mga achivements"
+
+msgid "Are you sure to delete this user"
+msgstr "Sigurado ka bang tanggalin ang user na ito"
+
+msgid "Add member"
+msgstr "Magdagdag ng miyembro"
+
+msgid "Are you sure to delete this record?"
+msgstr "Sigurado ka bang burahin ang record?"
+
+msgid "Join this group"
+msgstr "Sumali sa grupong ito"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Ang iyong paanyaya ay ipinadala sa administrator ng grupo"
+
+msgid "All addresses"
+msgstr "lahat ng mga address"
+
+msgid "Collapse"
+msgstr "pagbagsak"
+
+msgid "Achievements"
+msgstr "Mga nagawa"
+
+msgid "Show more"
+msgstr "Magpakita nang higit pa"
+
+msgid "Team"
+msgstr "pangkat"
+
+msgid "Projects"
+msgstr "Proyekto"
+
+msgid "New project"
+msgstr "Bagong proyekto"
+
+msgid "Project has not been created yet"
+msgstr "Project ay hindi pa nilikha"
+
+msgid "Messanger"
+msgstr "Messenger"
+
+msgid "Balance"
+msgstr "balanse"
+
+msgid "Main page"
+msgstr "pangunahing pahina"
+
+msgid "Upload image"
+msgstr "Mag-upload ng larawan"
+
+msgid "My time"
+msgstr "My time"
+
+msgid "Day"
+msgstr "araw"
+
+msgid "Week"
+msgstr "linggo"
+
+msgid "Project settings"
+msgstr "settings Project"
+
+msgid "Create project"
+msgstr "Lumikha ng proyekto"
+
+msgid "Project has been successfully saved"
+msgstr "Project ay matagumpay na nai-save"
+
+msgid "Project name"
+msgstr "name Project"
+
+msgid "Deadline"
+msgstr "huling araw o oras"
+
+msgid "Close"
+msgstr "malapit"
+
+msgid "Manager"
+msgstr "tagapamahala"
+
+msgid "Assigned to"
+msgstr "Nakatalaga sa"
+
+msgid "Discussion"
+msgstr "pagtalakay"
+
+msgid "Task was created"
+msgstr "Task ay nilikha"
+
+msgid "Task was closed"
+msgstr "Task ay sarado"
+
+msgid "Go to Group"
+msgstr "Pumunta sa Group"
+
+msgid "Closed"
+msgstr "sarado"
+
+msgid "Last updates"
+msgstr "Huling update"
+
+msgid "Project is closed"
+msgstr "Project ay sarado"
+
+msgid "No open tasks"
+msgstr "Walang bukas na gawain"
+
+msgid "New task"
+msgstr "Bagong gawain"
+
+msgid "Closed tasks"
+msgstr "Closed gawain"
+
+msgid "Add subproject"
+msgstr "Idagdag subproject"
+
+msgid "Add task"
+msgstr "Magdagdag ng gawain"
+
+msgid "Sun"
+msgstr "Linggo"
+
+msgid "Mon"
+msgstr "Lunes"
+
+msgid "Tue"
+msgstr "Martes"
+
+msgid "Wed"
+msgstr "Miyerkules"
+
+msgid "Thur"
+msgstr "Huwebes"
+
+msgid "Fri"
+msgstr "Biyernes"
+
+msgid "Sat"
+msgstr "Sabado"
+
+msgid "Event title"
+msgstr "pamagat ng kaganapan"
+
+msgid "Event description"
+msgstr "paglalarawan ng Kaganapan"
+
+msgid "I registered on this site"
+msgstr "I nakarehistro sa site na ito"
+
+msgid "Last created groups"
+msgstr "Huling nilikha grupo"
+
+msgid "You joined this group as"
+msgstr "Sumali ka sa grupong ito bilang"
+
+msgid "You received a request to join the group"
+msgstr "Nakatanggap ka ng isang kahilingan upang sumali sa pangkat"
+
+msgid "Updated site"
+msgstr "Na-update site"
+
+msgid "Site is under construction"
+msgstr "Site ay kasalukuyang ginagawa"
+
+msgid "Last registered users"
+msgstr "Huling rehistradong gumagamit"
+
+msgid "User settings"
+msgstr "Mga setting ng gumagamit"
+
+msgid "Technical support"
+msgstr "Ang teknikal na suporta"
+
+msgid "Change email"
+msgstr "Baguhin ang email"
+
+msgid "Change password"
+msgstr "Baguhin ang password"
+
+msgid "User has been successfully saved"
+msgstr "Ay matagumpay na nai-save User"
+
+msgid "Full name"
+msgstr "Buong pangalan"
+
+msgid "My video"
+msgstr "Ang aking video"
+
+msgid "Skills"
+msgstr "Mga Kasanayan"
+
+msgid "Birthday"
+msgstr "kaarawan"
+
+msgid "Country of residence"
+msgstr "Bansa ng paninirahan"
+
+msgid "Country"
+msgstr "bansa"
+
+msgid "Zip Code"
+msgstr "zip code"
+
+msgid "City/town of residence"
+msgstr "City / bayan ng paninirahan"
+
+msgid "University/college"
+msgstr "Unibersidad / Kolehiyo"
+
+msgid "University/college photo"
+msgstr "University / larawan sa kolehiyo"
+
+msgid "Add user\'s accomplishments"
+msgstr "Magdagdag ng kabutihan user"
+
+msgid "Interface language"
+msgstr "wika interface"
+
+msgid "How other people see this page"
+msgstr "Paano makita ng ibang tao ang pahinang ito"
+
+msgid "Video with me"
+msgstr "Video sa akin"
+
+msgid "Groups"
+msgstr "Grupo"
+
+msgid "Registered today"
+msgstr "Rehistradong ngayon"
+
+msgid "Qty"
+msgstr "Dami"
+
+msgid "No registered users yet"
+msgstr "Wala pang mga nakarehistrong user"
+
+msgid "Total"
+msgstr "kabuuan"
+
+msgid "Registered total"
+msgstr "Rehistradong pagiging"
+
+msgid "You received a file"
+msgstr "Nakatanggap ka ng isang file"
+
+msgid "You were invited into this room"
+msgstr "Naimbitahan ka sa silid na ito"
+
+msgid "Request is being processed"
+msgstr "Request ay pinoproseso"
+
+msgid "Fax"
+msgstr "fax"
+
+msgid "Messenger"
+msgstr "sugo"
+
+msgid "New subproject"
+msgstr "New subproject"
+
+msgid "messages written."
+msgstr "mga mensahe na nakasulat ."
+
+msgid "projects created based on groups."
+msgstr "proyekto na nilikha batay sa mga grupo."
+
+msgid "users registered on website."
+msgstr "gumagamit na nakarehistro sa website."
+
+msgid "New email"
+msgstr "Bagong email"
+
+msgid "Confirm email"
+msgstr "kumpirmahin ang email"
+
+msgid "New password"
+msgstr "Bagong password"
+
+msgid "Confirm password"
+msgstr "kumpirmahin ang password"
+
+msgid "Occupation"
+msgstr "pinagdalubhasaan"
+
+msgid "Timezone"
+msgstr "Timezone"
+
+msgid "Answer"
+msgstr "Sagot"
+
+msgid "Articles"
+msgstr "Artikulo"
+
+msgid "Article"
+msgstr "Artikulo"
+
+msgid "Video-article"
+msgstr "Video- artikulo"
+
+msgid "Find article..."
+msgstr "Maghanap ng mga artikulo ..."
+
+msgid "Politics"
+msgstr "politika"
+
+msgid "Economics"
+msgstr "Economics"
+
+msgid "Community"
+msgstr "Community"
+
+msgid "Culture"
+msgstr "Kultura"
+
+msgid "Sports"
+msgstr "Sports"
+
+msgid "Hi-tech"
+msgstr "Hi- tech"
+
+msgid "Cars"
+msgstr "Mga Kotse"
+
+msgid "Fashion"
+msgstr "moda"
+
+msgid "Games"
+msgstr "Mga Laro"
+
+msgid "Other"
+msgstr "Iba"
+
+msgid "Invalid mediafile"
+msgstr "Di-wastong mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Walang mga artikulo sa kategoryang ito pa"
+
+msgid "Back to profile"
+msgstr "Bumalik sa profile"
+
+msgid "View article"
+msgstr "Tingnan ang artikulo"
+
+msgid "Edit article"
+msgstr "I-edit ang artikulo"
+
+msgid "Create article"
+msgstr "Lumikha ng artikulong"
+
+msgid "Article title"
+msgstr "pamagat ng artikulo"
+
+msgid "Article section"
+msgstr "section Artikulo"
+
+msgid "Choose image"
+msgstr "Pumili ng imahe"
+
+msgid "Save and upload"
+msgstr "I-save at i-upload"
+
+msgid "Show more..."
+msgstr "Magpakita nang higit pa ..."
+
+msgid "Create"
+msgstr "likhain"
+
+msgid "Edit"
+msgstr "I-edit ang"
+
+msgid "Project"
+msgstr "Project"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "A new article was published"
+msgstr "Ang isang bagong artikulo ay nai-publish"
+
+msgid "You joined this project"
+msgstr "Sumali ka sa proyektong ito"
+
+msgid "Enter your information in the User settings"
+msgstr "Ipasok ang iyong impormasyon sa mga setting ng User"
+
+msgid "Communities"
+msgstr "Communities"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Pagtatanghal Video ng aking mga kabutihan"
+
+msgid "My articles"
+msgstr "Aking mga artikulo"
+
+msgid "User"
+msgstr "User"
+
+msgid "Users"
+msgstr "Mga gumagamit"
+
+msgid "Add new list"
+msgstr "Magdagdag ng bagong listahan"
+
+msgid "List title"
+msgstr "title Talaan"
+
+msgid "Add"
+msgstr "magdagdag"
+
+msgid "Add to favorites"
+msgstr "Idagdag sa mga paborito"
+
+msgid "Delete from favorites"
+msgstr "Tanggalin mula sa mga paborito"
+
+msgid "Select list"
+msgstr "Piliin ang listahan"
+
+msgid "Subscriptions"
+msgstr "Mga Subscription"
+
+msgid "Subscribe"
+msgstr "sumuskribi"
+
+msgid "Unsubscribe"
+msgstr "Mag-unsubscribe"
+
+msgid "General list"
+msgstr "General listahan"
+
+msgid "No users in this list"
+msgstr "Walang mga gumagamit sa listahang ito"
+
+msgid "Publish"
+msgstr "I-publish"
+
+msgid "Unpublish"
+msgstr "Hindi nai-publish"
+
+msgid "Add user"
+msgstr "Magdagdag ng user"
+
+msgid "Create document"
+msgstr "Lumikha ng dokumento"
+
+msgid "Edit document"
+msgstr "I-edit ang dokumento"
+
+msgid "View"
+msgstr "pagtingin"
+
+msgid "Document title"
+msgstr "pamagat ng Dokumento"
+
+msgid "Find document..."
+msgstr "Hanapin ang dokumento ..."
+
+msgid "Share your thoughts"
+msgstr "Ibahagi ang iyong mga saloobin"
+
+msgid "Leave your comment"
+msgstr "Mag-iwan ng iyong puna"
+
+msgid "Accept"
+msgstr "Tanggapin"
+
+msgid "Decline"
+msgstr "tanggihan"
+
+msgid "Add article"
+msgstr "Magdagdag ng artikulo"
+
+msgid "Link to verified accomplishments"
+msgstr "Mag-link sa na-verify na mga kabutihan"
+
+msgid "No articles here yet..."
+msgstr "Walang mga artikulo dito pa"
+
+msgid "Find file or folder..."
+msgstr "Hanapin ang file o folder ..."
+
+msgid "Sort"
+msgstr "Pagsunud-sunurin ayon"
+
+msgid "By name"
+msgstr "Sa pamamagitan ng pangalan"
+
+msgid "By date"
+msgstr "Sa pamamagitan ng petsa"
+
+msgid "By updated date"
+msgstr "Sa pamamagitan ng na-update na petsa"
+
+msgid "By size"
+msgstr "Sa pamamagitan ng laki"
+
+msgid "By type"
+msgstr "Ayon sa uri"
+
+msgid "Move"
+msgstr "ilipat"
+
+msgid "File Manager"
+msgstr "File Manager"
+
+msgid "Share link"
+msgstr "Ibahagi ang link"
+
+msgid "Responsible"
+msgstr "responsable"
+
+msgid "Performer"
+msgstr "Performer"
+
+msgid "New Folder"
+msgstr "Bagong folder"
+
+msgid "Folder name"
+msgstr "pangalan ng folder"
+
+msgid "By default"
+msgstr "Sa pamamagitan ng default"
+
+msgid "Back to group"
+msgstr "Bumalik sa grupo"
+
+msgid "year(s)"
+msgstr "(mga) taon"
+
+msgid "January"
+msgstr "Enero"
+
+msgid "February"
+msgstr "Pebrero"
+
+msgid "March"
+msgstr "Marso"
+
+msgid "April"
+msgstr "Abril"
+
+msgid "May"
+msgstr "Mayo"
+
+msgid "June"
+msgstr "Hunyo"
+
+msgid "July"
+msgstr "Hulyo"
+
+msgid "August"
+msgstr "Agosto"
+
+msgid "September"
+msgstr "Setyembre"
+
+msgid "October"
+msgstr "Oktubre"
+
+msgid "November"
+msgstr "Nobyembre"
+
+msgid "December"
+msgstr "Disyembre"
+
+msgid "Password Reminder"
+msgstr "Paalala Password"
+
+msgid "Log In"
+msgstr "Mag-log In"
+
+msgid "Sign in"
+msgstr "Mag-sign in"
+
+msgid "Register"
+msgstr "Magrehistro"
+
+msgid "First name"
+msgstr "Unang pangalan"
+
+msgid "Last name"
+msgstr "Huling pangalan"
+
+msgid "I agree with rules"
+msgstr "Sumasang-ayon ako sa mga patakaran"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Isang confirmation mail ay ipapadala sa iyong email address."
+
+msgid "Thanks"
+msgstr "Salamat"
+
+msgid "Password must be at least 6 characters"
+msgstr "Hindi dapat bababa sa 6 na mga character Password"
+
+msgid "Creative Environment"
+msgstr "Creative Environment"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Kailangan mong maging sa hindi bababa sa labing-tatlong taong gulang upang gamitin ang serbisyong ito"
+
+msgid "Order status"
+msgstr "katayuan ng Order"
+
+msgid "Processing order"
+msgstr "Processing sunod"
+
+msgid "Requires a payment"
+msgstr "Nangangailangan ng isang pagbabayad"
+
+msgid "Shipping"
+msgstr "Pagpapadala"
+
+msgid "Ready"
+msgstr "Ready"
+
+msgid "Thank you for your payment"
+msgstr "Salamat sa iyong bayad"
+
+msgid "Your payment has been cancelled"
+msgstr "Ang iyong bayad ay nakansela"
+
+msgid "page"
+msgstr "pahina"
+
+msgid "Rent period"
+msgstr "period Rent"
+
+msgid "Total, month"
+msgstr "Total, buwan"
+
+msgid "Order items"
+msgstr "Order item"
+
+msgid "No records found"
+msgstr "Walang natagpuang mga talaan"
+
+msgid "User with this email is already exist"
+msgstr "User na may email na ito ay mayroon na"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Folder o file na may ganoong pangalan ay mayroon na sa patutunguhang folder"
+
+msgid "Minimal quantity"
+msgstr "Minimal dami"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "print na kopya"
+
+msgid "Terms of Use"
+msgstr "Mga Tuntunin ng Paggamit"
+
+msgid "Privacy Policy"
+msgstr "Patakaran sa Pagkapribado"
+
+msgid "Find project..."
+msgstr "Hanapin ang mga proyekto ..."
+
+msgid "New Project"
+msgstr "Bagong proyekto"
+
+msgid "Accounts"
+msgstr "Accounts"
+
+msgid "Operations"
+msgstr "Operations"
+
+msgid "All accounts"
+msgstr "Lahat ng mga account"
+
+msgid "All categories"
+msgstr "Lahat ng kategorya"
+
+msgid "Expense"
+msgstr "Gastos"
+
+msgid "Income"
+msgstr "income"
+
+msgid "Transfer"
+msgstr "Transfer"
+
+msgid "Expense"
+msgstr "Gastos"
+
+msgid "income"
+msgstr "kita"
+
+msgid "tax"
+msgstr "buwis"
+
+msgid "percent"
+msgstr "porsiyento"
+
+msgid "transfer"
+msgstr "paglilipat"
+
+msgid "Make operation"
+msgstr "Gumawa ng operasyon"
+
+msgid "Select date"
+msgstr "Pumili ng petsa"
+
+msgid "Select account"
+msgstr "Pumili ng account"
+
+msgid "Month"
+msgstr "buwan"
+
+msgid "Quarter"
+msgstr "Quarter"
+
+msgid "Year"
+msgstr "Taon"
+
+msgid "From"
+msgstr "sa"
+
+msgid "To"
+msgstr "sa"
+
+msgid "Expense amount"
+msgstr "halaga ng Gastos"
+
+msgid "Categories"
+msgstr "Kategorya"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "Income amount"
+msgstr "halaga income"
+
+msgid "Transfer amount"
+msgstr "halaga Transfer"
+
+msgid "From account"
+msgstr "Mula account"
+
+msgid "To account"
+msgstr "upang account"
+
+msgid "New Account"
+msgstr "Bagong account"
+
+msgid "New Category"
+msgstr "Bagong Kategorya"
+
+msgid "All"
+msgstr "Lahat"
+
+msgid "Name"
+msgstr "pangalan"
+
+msgid "Enter category name"
+msgstr "Ipasok ang pangalan ng kategorya"
+
+msgid "Select type"
+msgstr "Pumili ng uri ng"
+
+msgid "Credit card"
+msgstr "Credit card"
+
+msgid "Debit card"
+msgstr "Debit card"
+
+msgid "Bank account"
+msgstr "bank account"
+
+msgid "Cash"
+msgstr "Cash"
+
+msgid "Balance is empty"
+msgstr "Balanse ay walang laman"
+
+msgid "Statistic is empty"
+msgstr "Statistic ay walang laman"
+
+msgid "Regular payments"
+msgstr "Regular na pagbabayad"
+
+msgid "Are you sure ?"
+msgstr "Sigurado ka ba ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Sigurado ka ba na upang isara ang proyektong ito?"
+
+msgid "Project was deleted successfully"
+msgstr "Project ay matagumpay na natanggal"
+
+msgid "Select currency"
+msgstr "Pumili ng currency"
+
+msgid "Account"
+msgstr "account"
+
+msgid "Orders list"
+msgstr "list Orders"
+
+msgid "Order payments"
+msgstr "pagbabayad Order"
+
+msgid "View order"
+msgstr "Tingnan ang Order"
+
+msgid "No response from Printer API"
+msgstr "Walang tugon mula sa Printer API"
+
+msgid "Bad response from Printer API"
+msgstr "Bad tugon mula Printer API"
+
+msgid "User ID"
+msgstr "ID ng Gumagamit"
+
+msgid "Contact Person"
+msgstr "Kontakin"
+
+msgid "No orders to process"
+msgstr "Walang mga order upang i-proseso"
+
+msgid "Article announce image"
+msgstr "Artikulo ipahayag image"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Di-wastong url ng video. Iwanang blangko o ipasok valid youtube url"
+
+msgid "Please, enter Contractor data"
+msgstr "Mangyaring, ipasok ang data Contractor"
+
+msgid "Distribute devices"
+msgstr "Ipamahagi device"
+
+msgid "Quantity"
+msgstr "dami"
+
+msgid "Devices left"
+msgstr "Devices kaliwa"
+
+msgid "Distributed devices"
+msgstr "ipinamamahagi device"
+
+msgid "You must enter quantity"
+msgstr "Kailangan mong ipasok ang dami"
+
+msgid "All devices are distributed"
+msgstr "Lahat ng mga aparatong ito ay ipinamamahagi"
+
+msgid "IP address"
+msgstr "IP address"
+
+msgid "Only for printer"
+msgstr "Para sa printer lamang"
+
+msgid "Counter"
+msgstr "Counter"
+
+msgid "You was excluded from this room"
+msgstr "Ikaw ay ibinukod mula sa room na ito"
+
+msgid "Compare"
+msgstr "Paghambingin"
+
+msgid "Scheduled transaction"
+msgstr "Naka-iskedyul na mga transaksyon"
+
+msgid "Select transfer account"
+msgstr "Pumili ng transfer account"
+
+msgid "Select income account"
+msgstr "Pumili ng income account"
+
+msgid "Reports"
+msgstr "Mga Ulat"
+
+msgid "Goals"
+msgstr "Layunin"
+
+msgid "Budgets"
+msgstr "Badyet"
+
+msgid "Enter user name or email..."
+msgstr "Ipasok ang user name o email ..."
+
+msgid "Invite had been sended"
+msgstr "Imbitahan ay sended"
+
+msgid "Statistics"
+msgstr "Statistics"
+
+msgid "Updated site began to work"
+msgstr "Nagsimula update site sa trabaho"
+
+msgid "City of residence"
+msgstr "City of residence"
+
+msgid "Edit favourites list"
+msgstr "List Edit paborito"
+
+msgid "Add favourites list"
+msgstr "Idagdag ang listahan ng mga paborito"
+
+msgid "Categories is required"
+msgstr "Mga Kinakailangan"
+
+msgid "Type new category name and hit Enter"
+msgstr "I-type ang bagong pangalan ng kategorya at pindutin ang Enter"
+
+msgid "You created an order"
+msgstr "Nilikha mo ang isang order"
+
+msgid "You received a device due to this order"
+msgstr "Nakatanggap ka ng isang aparato dahil sa order na ito"
+
+msgid "%s attached %s to task %s"
+msgstr "%s na naka-attach %s sa gawain %s"
+
+msgid "member(s)"
+msgstr "(mga) miyembro"
+
+msgid "%s commented task %s"
+msgstr "%s nagkomento gawain %s"
+
+msgid "%s closed task %s"
+msgstr "%s closed gawain %s"
+
+msgid "%s created task %s"
+msgstr "%s nilikha gawain %s"
+
+msgid "%s created this project"
+msgstr "%s na nilikha sa proyektong ito"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s nilikha subproject \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s closed proyektong \" %s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s closed subproject \"%s\""
+
+msgid "This field must not be blank"
+msgstr "Ang patlang na ito ay hindi dapat blangko"
+
+msgid "Document with such name is already exist"
+msgstr "Document na may ganoong pangalan ay mayroon na"
+
+msgid "Wait until image upload"
+msgstr "Maghintay hanggang sa pag-upload ng imahe"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Message can not be empty"
+msgstr "Hindi maaaring walang laman Mensahe"
+
+msgid "Yes"
+msgstr "Oo"
+
+msgid "No"
+msgstr "Hindi"
+
+msgid "Created"
+msgstr "nilikha"
+
+msgid "Compare is empty"
+msgstr "Paghambingin Walang laman"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Sigurado ka bang gusto mong tanggalin ang operasyon"
+
+msgid "Do you really want to delete transaction"
+msgstr "Gusto mo ba talagang tanggalin ang transaksyon"
+
+msgid "Project with same name already exists"
+msgstr "Project na may parehong pangalan ay mayroon na"
+
+msgid "Account is not found"
+msgstr "Account ay hindi natagpuan"
+
+msgid "Currency is required"
+msgstr "Currency ay kinakailangan"
+
+msgid "error while deleting document"
+msgstr "error habang tinatanggal dokumento"
+
+msgid "Expences"
+msgstr "expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Inanyayahan ka ng gumagamit \" %s\" sa kuwartong ito"
+
+msgid "User \"%s\" joined this room"
+msgstr "User \"%s\" ay sumali sa kuwartong ito"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Ibinukod mo user \"%s\" mula sa room na ito"
+
+msgid "User \"%s\" left this room"
+msgstr "User \"%s \" kaliwa ang kuwartong ito"
+
+msgid "Add account"
+msgstr "Magdagdag ng account"
+
+msgid "The requested page is not found"
+msgstr "Ang hiniling na pahina ay hindi natagpuan"
+
+msgid "Document"
+msgstr "Document"
+
+msgid "Table"
+msgstr "Table"
+
+msgid "file(s)"
+msgstr "(mga) file"
+
+msgid "Residue"
+msgstr "nalalabi"
+
+msgid "Result is empty"
+msgstr "Result ay walang laman"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Ang kabuuang halaga ay%s para sa mo ang%s"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Ikaw ay may na magdeposito ng %s buwanang sa mga kaugnay na account"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "finish"
+msgstr "tapusin"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Napiling account ay ginagamit na para sa ibang layunin"
+
+msgid "Amount required"
+msgstr "kinakailangang halaga"
+
+msgid "New goal"
+msgstr "New layunin"
+
+msgid "Goal"
+msgstr "Goal"
+
+msgid "Goal name"
+msgstr "pangalan ng layunin"
+
+msgid "Invalid date"
+msgstr "Di-wastong petsa"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Ang halagang kailangan ay dapat na isang positibong numero"
+
+msgid "Remain"
+msgstr "mananatiling"
+
+msgid "Last day"
+msgstr "Huling araw"
+
+msgid "Accumulated"
+msgstr "Naipon"
+
+msgid "Put aside"
+msgstr "Isantabi"
+
+msgid "January"
+msgstr "Enero"
+
+msgid "February"
+msgstr "Pebrero"
+
+msgid "March"
+msgstr "Marso"
+
+msgid "April"
+msgstr "Abril"
+
+msgid "May"
+msgstr "Mayo"
+
+msgid "June"
+msgstr "Hunyo"
+
+msgid "July"
+msgstr "Hulyo"
+
+msgid "August"
+msgstr "Agosto"
+
+msgid "September"
+msgstr "Setyembre"
+
+msgid "October"
+msgstr "Oktubre"
+
+msgid "November"
+msgstr "Nobyembre"
+
+msgid "December"
+msgstr "Disyembre"
+
+msgid "Expenses projected/actual"
+msgstr "Gastusin inaasahang / aktwal"
+
+msgid "Net Income projected/actual"
+msgstr "Net Income inaasahang / aktwal"
+
+msgid "New budget"
+msgstr "Bagong badyet"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Kita at Gastos Chart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Budget na may parehong pares ng account at kategorya ay umiiral na"
+
+msgid "Budget is empty"
+msgstr "Budget ay walang laman"
+
+msgid "Budget"
+msgstr "Budget"
+
+msgid "plan"
+msgstr "plano"
+
+msgid "fact"
+msgstr "katunayan"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "Ipakita ang Karagdagang"
+
+msgid "Cancel"
+msgstr "kanselahin"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "Aking mga benta"
+
+msgid "Time spent"
+msgstr "Oras na ginugol"
+
+msgid "Total time spent"
+msgstr "Ginugol Kabuuang oras"
+
+msgid "Earnings per hour"
+msgstr "Mga Kita sa bawat oras"
+
+msgid "Total earnings"
+msgstr "Kabuuang kita"
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Phone call"
+msgstr "Tawag sa telepono"
+
+msgid "Telephone calls"
+msgstr "tawag sa telepono"
+
+msgid "Send email"
+msgstr "Magpadala ng email"
+
+msgid "Emails"
+msgstr "Mga Email"
+
+msgid "Meeting"
+msgstr "Pagpupulong"
+
+msgid "Meetings"
+msgstr "Pulong"
+
+msgid "All events"
+msgstr "Lahat ng mga kaganapan"
+
+msgid "Task"
+msgstr "gawain"
+
+msgid "Event"
+msgstr "Event"
+
+msgid "Events"
+msgstr "Mga kaganapan"
+
+msgid "Time"
+msgstr "Time"
+
+msgid "Events statistics"
+msgstr "statistics Kaganapan"
+
+msgid "days"
+msgstr "araw"
+
+msgid "hours"
+msgstr "oras"
+
+msgid "minutes"
+msgstr "minuto"
+
+msgid "Income & expense"
+msgstr "Income at gastos"
+
+msgid "Show chart"
+msgstr "Ipakita ang chart"
+
+msgid "Hide chart"
+msgstr "Itago ang tsart"
+
+msgid "Add event"
+msgstr "Magdagdag ng kaganapan"
+
+msgid "Add financial data"
+msgstr "Idagdag financial data"
+
+msgid "Select contractor"
+msgstr "Pumili ng contractor"
+
+msgid "Net Income"
+msgstr "Net Income"
+
+msgid "Revenue"
+msgstr "Kita"
+
+msgid "Taxes"
+msgstr "Buwis"
+
+msgid "Amount planned"
+msgstr "halaga binalak"
+
+msgid "Amount"
+msgstr "dami"
+
+msgid "Period"
+msgstr "Panahon"
+
+msgid "Are you sure to close this task?"
+msgstr "Sigurado ka ba na upang isara ang gawaing ito?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "Lahat ng mga pangkat"
+
+msgid "added from task"
+msgstr "idinagdag mula sa gawain"
+
+msgid "Monthly repeat"
+msgstr "buwanang umuulit"
+
+msgid "Select category"
+msgstr "Pumili ng Kategorya"
+
+msgid "Event type"
+msgstr "type ng Kaganapan"
+
+msgid "Margin"
+msgstr "puwang sa paligid"
+
+msgid "Use finance project"
+msgstr "Gamitin proyekto pananalapi"
+
+msgid "New investment project"
+msgstr "Bagong proyekto investment"
+
+msgid "Investment project settings"
+msgstr "Setting ng proyekto Investment"
+
+msgid "Picture, for the announcement project"
+msgstr "Picture, para sa proyekto anunsyo"
+
+msgid "Announcement project"
+msgstr "proyekto anunsyo"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Photos or videos gallery"
+msgstr "Mga larawan o video gallery"
+
+msgid "required amount"
+msgstr "kinakailangang halaga"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Tagal Project ( 60 araw maximum)"
+
+msgid "Project duration"
+msgstr "tagal Project"
+
+msgid "Add reward"
+msgstr "Idagdag gantimpala"
+
+msgid "Delivery date"
+msgstr "Paghahatid ng petsa"
+
+msgid "Payment systems"
+msgstr "sistema ng pagbabayad"
+
+msgid "Terms of service"
+msgstr "Mga palatuntunan"
+
+msgid "Agreement"
+msgstr "Kasunduan"
+
+msgid "Payment"
+msgstr "Pagbabayad"
+
+msgid "My projects"
+msgstr "Aking mga proyekto"
+
+msgid "Search result"
+msgstr "Search result"
+
+msgid "Nothing not found"
+msgstr "Hindi natagpuan Nothing"
+
+msgid "The project has no sponsors"
+msgstr "Ang proyekto ay walang sponsors"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Food"
+msgstr "Pagkain"
+
+msgid "Journalism"
+msgstr "pamamahayag"
+
+msgid "Games"
+msgstr "Mga Laro"
+
+msgid "Art"
+msgstr "Art"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "Music"
+
+msgid "Handicrafts"
+msgstr "handicrafts"
+
+msgid "Publishing"
+msgstr "paglilimbag"
+
+msgid "Theater"
+msgstr "mga dula"
+
+msgid "Technology"
+msgstr "teknolohiya"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Dance"
+msgstr "Dance"
+
+msgid "Invalid youtube video"
+msgstr "Hindi wastong video youtube"
+
+msgid "is required"
+msgstr "ay kinakailangan"
+
+msgid "User"
+msgstr "User"
+
+msgid "Date"
+msgstr "Petsa"
+
+msgid "Collected"
+msgstr "Nakolektang"
+
+msgid "Choose period"
+msgstr "Pumili ng panahon"
+
+msgid "Choose region"
+msgstr "Pumili ng rehiyon"
+
+msgid "Country"
+msgstr "Bansa"
+
+msgid "Today"
+msgstr "sa araw na ito"
+
+msgid "Week"
+msgstr "linggo"
+
+msgid "Month"
+msgstr "buwan"
+
+msgid "Year"
+msgstr "Taon"
+
+msgid "Free registration"
+msgstr "Libreng rehistrasyon"
+
+msgid "Join"
+msgstr "sumali"
+
+msgid "Log in using"
+msgstr "Mag-log in gamit"
+
+msgid "Vacancies"
+msgstr "Employment pagkakataon"
+
+msgid "About Us"
+msgstr "Tungkol sa atin"
+
+msgid "You will need email to log in"
+msgstr "Kakailanganin mo ng email upang mag-log in"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Ang isang kumbinasyon ng 6 na numero at letra"
+
+msgid "Search users, groups, articles..."
+msgstr "Gumagamit Search , mga pangkat, mga artikulo ..."
+
+msgid "Cloud"
+msgstr "Cloud"
+
+msgid "Sunday"
+msgstr "Linggo"
+
+msgid "Monday"
+msgstr "Lunes"
+
+msgid "Tuesday"
+msgstr "Martes"
+
+msgid "Wednesday"
+msgstr "Miyerkules"
+
+msgid "Thursday"
+msgstr "Huwebes"
+
+msgid "Friday"
+msgstr "Biyernes"
+
+msgid "Saturday"
+msgstr "Sabado"
+
+msgid "Edit"
+msgstr "I-edit ang"
+
+msgid "Create group"
+msgstr "Gumawa ng grupo"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Sigurado ka bang gusto mong iwanan ang pahinang ito ?"
+
+msgid "More"
+msgstr "Iba pa"
+
+msgid "Less"
+msgstr "Less"
+
+msgid "Pending"
+msgstr "Nakabinbin"
+
+msgid "Approved"
+msgstr "naaprubahan"
+
+msgid "Rejected"
+msgstr "tinanggihan"
+
+msgid "Subprojects"
+msgstr "subprojects"
+
+msgid "Group edit"
+msgstr "edit Group"
+
+msgid "Startup"
+msgstr "Magsimula"
+
+msgid "Tattoo"
+msgstr "Tattoo"
+
+msgid "Health"
+msgstr "Kalusugan"
+
+msgid "Weapon"
+msgstr "• Ang sandata"
+
+msgid "Astronomy"
+msgstr "astronomya"
+
+msgid "All articles"
+msgstr "Lahat ng mga artikulo"
+
+msgid "Article editor"
+msgstr "editor Artikulo"
+
+msgid "Document editor"
+msgstr "editor Document"
+
+msgid "Apply changes"
+msgstr "Gawin ang pagbabago"
+
+msgid "Save changes?"
+msgstr "I-save ang mga pagbabago?"
+
+msgid "published an article"
+msgstr "publish ng isang artikulo"
+
+msgid "Users"
+msgstr "Mga gumagamit"
+
+msgid "Shared With Me"
+msgstr "Ibinahagi Sa Akin"
+
+msgid "share"
+msgstr "magbahagi"
+
+msgid "Select Group Responsible"
+msgstr "Piliin Group Responsable"
+
+msgid "Create folder"
+msgstr "Lumikha ng folder"
+
+msgid "Title must be at least 3 characters"
+msgstr "Pamagat ay dapat na hindi bababa sa 3 mga character"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Libreng 10 GB , finance manager , mamuhunan module, at marami pang ibang para sa libre at magpakailanman"
+
+msgid "Best regards"
+msgstr "Malugod na pagbati"
+
+msgid "Updates in last 12 hours:"
+msgstr "Update sa huling 12 oras:"
+
+msgid "expense"
+msgstr "gastos"
+
+msgid "Commentary on the event:"
+msgstr "Kuro sa mga kaganapan:"
+
+msgid "Event place"
+msgstr "lugar ng Kaganapan"
+
+msgid "Project was updated"
+msgstr "Project ay na-update"
+
+msgid "Project was created"
+msgstr "Project ay nilikha"
+
+msgid "Project was closed"
+msgstr "Project ay sarado"
+
+msgid "account"
+msgstr "account"
+
+msgid "removed task"
+msgstr "dahil gawain"
+
+msgid "removed subproject"
+msgstr "dahil subproject"
+
+msgid "Title can not be empty"
+msgstr "Title hindi maaaring walang laman"
+
+msgid "Do not select the type of event"
+msgstr "Huwag piliin ang mga uri ng kaganapan"
+
+msgid "Error while saving comment"
+msgstr "Error habang nagse-save ng puna"
+
+msgid "Save error: access denied"
+msgstr "I-save ang error: access tinanggihan"
+
+msgid "Remains"
+msgstr "mga nalabi"
+
+msgid "Time spent, h."
+msgstr "Oras na ginugol , h ."
+
+msgid "Emails"
+msgstr "Mga Email"
+
+msgid "Meetings"
+msgstr "Pulong"
+
+msgid "All users"
+msgstr "Lahat ng gumagamit"
+
+msgid "Category"
+msgstr "kategorya"
+
+msgid "Finance project"
+msgstr "proyekto Finance"
+
+msgid "Investment project"
+msgstr "proyekto Investment"
+
+msgid "Nature"
+msgstr "Nature"
+
+msgid "Data is empty"
+msgstr "Data ay walang laman"
+
+msgid "Visitors"
+msgstr "Bisita"
+
+msgid "My profile"
+msgstr "Ang aking pagkatao"
+
+msgid "Sponsors"
+msgstr "Mga Sponsor"
+
+msgid "Prior to completion"
+msgstr "Bago ang pagkumpleto"
+
+msgid "Select"
+msgstr "piliin"
+
+msgid "My groups"
+msgstr "Aking mga grupo"
+
+msgid "The invitation has been sent successfully"
+msgstr "Ang imbitasyon ay matagumpay na naipadala"
+
+msgid "Username has already been invited to this project"
+msgstr "Username ay nai- naimbitahan sa proyektong ito"
+
+msgid "The user is the creator of the project"
+msgstr "Ang user ay ang lumikha ng mga proyekto"
+
+msgid "Provide full access"
+msgstr "Magbigay ng buong access"
+
+msgid "Select elements to provide access"
+msgstr "Piliin sangkap upang magbigay ng access"
+
+msgid "Select all"
+msgstr "Piliin lahat"
+
+msgid "User E-mail"
+msgstr "User E -mail"
+
+msgid "Click on the field to select a category"
+msgstr "Mag-click sa patlang upang pumili ng isang kategorya"
+
+msgid "Invitation was deleted"
+msgstr "Invitation Tinanggal"
+
+msgid "Permission denied"
+msgstr "tinanggihan ang pahintulot"
+
+msgid "Printed"
+msgstr "Naka-print"
+
+msgid "Incorrect Contractor email"
+msgstr "Maling Contractor email"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Gusto mo bang magdagdag ng proyekto sa pananalapi manager?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Upang makumpleto ang proseso ng pagpaparehistro mangyaring punan ang iyong mga kasanayan sa"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Isang mail na may karagdagang mga tagubilin ay ipinadala sa iyong e-mail address"
+
+msgid "Submit"
+msgstr "Isumite"
+
+msgid "Cars"
+msgstr "Mga Kotse"
+
+msgid "Science"
+msgstr "Science"
+
+msgid "Donation"
+msgstr "Donasyon"
+
+msgid "Interests"
+msgstr "Hilig"
+
+msgid "Driver"
+msgstr "Driver"
+
+msgid "Sportsman"
+msgstr "taong mahilig sa laro"
+
+msgid "Businessman"
+msgstr "businessman"
+
+msgid "Accountant"
+msgstr "tagatuos"
+
+msgid "Engineer"
+msgstr "Engineer"
+
+msgid "Soldier"
+msgstr "maglingkod sa hukbo"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Hide group"
+msgstr "Itago ang grupo"
+
+msgid "groups created"
+msgstr "grupong nilikha"
+
+msgid "articles written"
+msgstr "artikulo na isinulat"
+
+msgid "These groups may be interesting for you"
+msgstr "Maaaring maging kawili-wili para sa iyo ang mga grupong ito"
+
+msgid "About Group"
+msgstr "tungkol Group"
+
+msgid "view(s)"
+msgstr "view (s)"
+
+msgid "Favorite users"
+msgstr "Paboritong mga gumagamit"
+
+msgid "No accounts"
+msgstr "Walang account"
+
+msgid "Facebook authorization failed."
+msgstr "Nabigo ang pag-debit Facebook."
+
+msgid "Authorization Required"
+msgstr "Kinakailangan Authorization"
+
+msgid "You have to make a call:"
+msgstr "Kailangan ninyong gumawa ng isang tawag:"
+
+msgid "You have to send an email:"
+msgstr "Mayroon kang upang magpadala ng isang email:"
+
+msgid "You have a meetup:"
+msgstr "Mayroon kang isang meetup :"
+
+msgid "You event :"
+msgstr "Ikaw kaganapan:"
+
+msgid "Participants:"
+msgstr "Kalahok:"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "News"
+msgstr "News"
+
+msgid "Investments"
+msgstr "Investments"
+
+msgid "Back to Cloud"
+msgstr "Bumalik sa Cloud"
+
+msgid "Documents"
+msgstr "Dokumento"
+
+msgid "Planet"
+msgstr "Planet"
+
+msgid "Group url"
+msgstr "url Group"
+
+msgid "Profile url"
+msgstr "Profile URL"
+
+msgid "Already taken"
+msgstr "Nakuha na"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Hindi bababa sa 1 titik at 3 haba karakter kinakailangan"
+
+msgid "Digit can not be the first character"
+msgstr "Digit ay hindi maaaring ang unang character"
+
+msgid "Enter valid email address"
+msgstr "Magpasok ng wastong email address"
+
+msgid "Enter your skills"
+msgstr "Ipasok ang iyong mga kasanayan sa"
+
+msgid "Enter your first name"
+msgstr "Ipasok ang iyong unang pangalan"
+
+msgid "Enter your last name"
+msgstr "Ipasok ang iyong apelyido"
+
+msgid "Enter your first name and last name"
+msgstr "Ipasok ang iyong unang pangalan at apelyido"
+
+msgid "Your first name?"
+msgstr "Ang iyong unang pangalan ?"
+
+msgid "Your last name?"
+msgstr "Ang iyong apelyido?"
+
+msgid "What are your proficiencies?"
+msgstr "Ano ang iyong mga proficiencies ?"
+
+msgid "Select country"
+msgstr "Piliin ang bansa"
+
+msgid "Select user"
+msgstr "Piliin ang user"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Tuparin ang iyong pangarap! Lumikha at Makipagtulungan ."
+
+msgid "date moved from"
+msgstr "Petsa na inilipat mula sa"
+
+msgid "work"
+msgstr "trabaho"
+
+msgid "Conference"
+msgstr "Conference"
+
+msgid "personal"
+msgstr "personal"
+
+msgid "Holiday"
+msgstr "araw na pahinga"
+
+msgid "Past"
+msgstr "Nakalipas"
+
+msgid "Future"
+msgstr "Future"
+
+msgid "Purchase"
+msgstr "Purchase"
+
+msgid "Personal events"
+msgstr "Pribadong mga kaganapan"
+
+msgid "Conferences"
+msgstr "Pagpupulong"
+
+msgid "Holidays"
+msgstr "Holidays"
+
+msgid "Sport events"
+msgstr "Mga kaganapan Sports"
+
+msgid "Tasks"
+msgstr "Mga Gawain"
+
+msgid "Other events"
+msgstr "Iba pang mga kaganapan"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Ipinagpaliban"
+
+msgid "Time management"
+msgstr "Time Management"
+
+msgid "Delayed events"
+msgstr "Ipinagpaliban kaganapan"
+
+msgid "Delayed"
+msgstr "Ipinagpaliban"
+
+msgid "Bind to"
+msgstr "Magtalaga"
+
+msgid "answered your comment to"
+msgstr "Sabi ko (a) ng puna sa mga artikulo"
+
+msgid "commented your article"
+msgstr "Nagkomento ako sa iyong mga artikulo"
+
+msgid "You\'ve answered on comment to"
+msgstr "Tumugon ka sa komento sa artikulo"
+
+msgid "You\'ve commented an article"
+msgstr "Nagkomento mo sa artikulo"
+
+msgid "Terms and Conditions"
+msgstr "Mga Tuntunin at Kundisyon"
+
+msgid "Privacy Policy"
+msgstr "Patakaran sa Pagkapribado"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Sa pamamagitan ng pag-click sa \"mag-sign up\" sumasang-ayon ka sa aming at kinikilala mo na nabasa mo ang aming"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Sumali sa komunidad ng mga creative na tao mula sa lahat ng dako ng mundo! Makakatanggap ka ng: Namumuhunan sa iyong mga ideya, isang pagkakataon upang makalikom ng kanyang koponan, na nagtatrabaho sa isang grupo, ang manager ng pananalapi, pamamahala ng kanilang oras, 2 gigabytes sa storage at higit pa. At ito ay libre!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Paumanhin, ngunit ang pahina na iyong hinahanap para sa ay hindi umiiral. Kung sa tingin mo na masisi sa amin makipag-ugnayan sa amin"
+
+msgid "Return"
+msgstr "Pagbabalik"
+
+msgid "COMMON"
+msgstr "Total"
+
+msgid "My events"
+msgstr "Aking Mga Kaganapan"
+
+msgid "Job opening"
+msgstr "New bakante"
+
+msgid "Employment"
+msgstr "Uri ng trabaho"
+
+msgid "Working hours"
+msgstr "Oras ng pagbubukas"
+
+msgid "City"
+msgstr "City"
+
+msgid "Wages"
+msgstr "Suweldo"
+
+msgid "Currency"
+msgstr "Pera"
+
+msgid "Experience"
+msgstr "Karanasan"
+
+msgid "Full-time"
+msgstr "Full employment"
+
+msgid "Part-time"
+msgstr "Part-time"
+
+msgid "Project employment"
+msgstr "Project / Temporary"
+
+msgid "Volunteer"
+msgstr "Volunteer"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "Full Time"
+
+msgid "Shifts"
+msgstr "Schedule Kapalit"
+
+msgid "Flexible shifts"
+msgstr "Flexible schedule"
+
+msgid "Remote work"
+msgstr "Remote trabaho"
+
+msgid "Rotational basis"
+msgstr "Ang pamamaraan Shift"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Sigurado ka bang gusto mong tanggalin ang mga komento?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Sigurado ka bang gusto mong tanggalin ang gawaing ito?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Sigurado ka bang gusto mong burahin ang sub-proyekto?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Inilapat mo sa kumpanya sa posisyon. Mangyaring tiyakin na ang"
+
+msgid "Your request to for job has been rejected"
+msgstr "Ay tinanggihan ang iyong kahilingan sa kumpanya sa posisyon"
+
+msgid "Your request to for job has been accepted"
+msgstr "Ang iyong kahilingan sa kumpanya sa posisyon ay pinagtibay"
+
+msgid "profile is completed"
+msgstr "Ang iyong profile ay puno"
+
+msgid "Use account"
+msgstr "Gamitin account"
+
+msgid "$/hr"
+msgstr "$ / Hour"
+
+msgid "Finance category"
+msgstr "Kategorya Financial"
+
+msgid "No projects"
+msgstr "Walang mga proyekto"
+
+msgid "Bind to finances"
+msgstr "Magtalaga ng mga pinansiyal na mga proyekto"
+
+msgid "Preview"
+msgstr "Pagtingin"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Save to my cloud"
+msgstr "Kopyahin ang repository"
+
+msgid "File successfully saved to your cloud"
+msgstr "File matagumpay na naka-imbak sa iyong lalagyan"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "I-save ang file na ito sa iyong lalagyan?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Pumili ng isang Artikulo kategorya"
+
+msgid "Type something"
+msgstr "Sumulat ng isang bagay"
+
+msgid "Founded users"
+msgstr "Natagpuan ang mga gumagamit"
+
+msgid "Founded articles"
+msgstr "Nahanap na artikulo"
+
+msgid "Founded groups"
+msgstr "Itinatag grupo"
+
+msgid "What are your skills?"
+msgstr "Ano ang iyong mga kasanayan?"
+
+msgid "Select at least 2 interests"
+msgstr "Pumili ng hindi bababa sa 2 interes"
+
+msgid "Need more interests"
+msgstr "Napiling Hindi sapat na interes"
+
+msgid "What are you interesting in?"
+msgstr "Ano ang mga interesado?"
+
+msgid "You have no dialogs"
+msgstr "Wala kang dialogues"
+
+msgid "Usage Stats"
+msgstr "Estado ng"
+
+msgid "Founded files"
+msgstr "Natagpuan Files"
+
+msgid "Big tiles"
+msgstr "Malaking tile"
+
+msgid "Small tiles"
+msgstr "Maliit na tile"
+
+msgid "Table view"
+msgstr "Table view"
+
+msgid "Root folder"
+msgstr "Ang root directory"
+
+msgid "My files"
+msgstr "Aking mga File"
+
+msgid "Save as draft"
+msgstr "I-save bilang Draft"
+
+msgid "Buy More Space"
+msgstr "Bumili ng karagdagang space"
+
+msgid "Buy"
+msgstr "Bilhin"
+
+msgid "You have been invited to group as"
+msgstr "Ikaw ay naimbitahan sa pangkat bilang isang"
+
+msgid "User wants to join your group"
+msgstr "Ang gumagamit ay nais na sumali sa iyong grupo"
+
+msgid "Section is coming soon!"
+msgstr "Section under construction!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Tignan sa huling 24 oras:"
+
+msgid "Task was updated"
+msgstr "Na-update ang gawain"
+
+msgid "Task was closed"
+msgstr "Ang hamon ay sarado"
+
+msgid "Task was created"
+msgstr "Ang gawain ay naitakda"
+
+msgid "Current balance"
+msgstr "Kasalukuyang balanse"
+
+msgid "Add funds"
+msgstr "Magdagdag"
+
+msgid "Pay"
+msgstr "Checkout"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Lumampas ka na sa bilang ng mga pagtatangka sa pag-login. Ikaw ay naka-block para sa 15 minuto"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Mangyaring kumpirmahin ang iyong e-mail. Ang sulat na ipinadala sa iyo sa pamamagitan ng koreo."
+
+msgid "Resend confirmation email"
+msgstr "Magpadala muli confirmation"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB bawat buwan"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Magmaneho 10 GB sa bawat taon"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB sa bawat taon"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1TB buwanang"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Pataasin ang 1 TB bawat taon"
+
+msgid "Project members monthly"
+msgstr "Kalahok ng proyekto sa isang buwanang batayan"
+
+msgid "Project members yearly"
+msgstr "Kalahok Project taun-taon"
+
+msgid "Member(s) yearly"
+msgstr "(Mga) miyembro sa bawat taon"
+
+msgid "Member(s) monthly"
+msgstr "Miyembro (s) sa isang buwanang batayan"
+
+msgid "Authorized"
+msgstr "Awtorisadong"
+
+msgid "Authorization expired"
+msgstr "Nag-expire na Authorization"
+
+msgid "Processor declined"
+msgstr "Tinanggihan processing system"
+
+msgid "Gateway rejected"
+msgstr "Tinanggihan pagbabayad gateway"
+
+msgid "Failed"
+msgstr "Error"
+
+msgid "Voided"
+msgstr "Magpawalang-bisa"
+
+msgid "Submitted for settlement"
+msgstr "Ipinadala upang magpatala"
+
+msgid "Settlement declined"
+msgstr "Ay tinanggihan Enrollment"
+
+msgid "Settlement pending"
+msgstr "Nakabinbin enrollment"
+
+msgid "Verified"
+msgstr "Nag-check"
+
+msgid "Pending"
+msgstr "Nakabinbin"
+
+msgid "Active"
+msgstr "Aktibo"
+
+msgid "Past Due"
+msgstr "Nag-expire"
+
+msgid "Expired"
+msgstr "Natapos"
+
+msgid "Marketer"
+msgstr "Nagmemerkado"
+
+msgid "India"
+msgstr "India"
+
+msgid "Malaysia"
+msgstr "Malaisiya"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "South Korea"
+msgstr "Timog Korea"
+
+msgid "Kazakhstan"
+msgstr "Kasakstan"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Bulgaria"
+msgstr "Bulgarya"
+
+msgid "Turkey"
+msgstr "Karne ng pabo"
+
+msgid "Armenia"
+msgstr "Armenya"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Awstrya"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Germany"
+msgstr "Alemanya"
+
+msgid "Italy"
+msgstr "Italya"
+
+msgid "Netherlands"
+msgstr "Olanda"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "United Kingdom"
+msgstr "Great Britain"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Norway"
+msgstr "Norwega"
+
+msgid "United States"
+msgstr "Estados Unidos"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+msgid "Canada"
+msgstr "Ehipto"
+
+msgid "Russia"
+msgstr "Russia"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "Sa ngayon, doon ay hindi isang solong transaksyon"
+
+msgid "Fulfill your dream"
+msgstr "Matupad ang iyong Dream"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Sumali sa aming komunidad ng mga creative indibidwal mula sa lahat sa buong mundo."
+
+msgid "Create and Collaborate"
+msgstr "Lumikha at Makipagtulungan"
+
+msgid "Start Dreaming"
+msgstr "Matupad DREAM NGAYON"
+
+msgid "or"
+msgstr "o"
+
+msgid "Our mission:"
+msgstr "Ang aming misyon:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Upang magkaisa creative at aktibong mga tao upang ipatupad ang mga ideya mula sa simple at in demand sa paniwala at kamangha-manghang, na maaaring hugis ang aming hinaharap."
+
+msgid "What is Konstruktor?"
+msgstr "Ano ang Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor- ay isang bahagi ng aming tunay na buhay, na makabuluhang pinapadali at pinapasimple"
+
+msgid "*business processes"
+msgstr "* mga proseso sa negosyo"
+
+msgid "*materialization of creative ideas"
+msgstr "* pagtupad ng mga creative mga ideya"
+
+msgid "*constructive cooperation"
+msgstr "* nakabubuo pakikipagtulungan"
+
+msgid "Make your dream!"
+msgstr "Gawin ang iyong mga panaginip!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Espesyal Advisor"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Manager, Development Software"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Senior abogado"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Designer"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Sa pamamagitan ng pag-click sa \"Next\" button, ikaw ay tumatanggap at sumasang-ayon sa aming Mga Tuntunin at Kundisyon, at kinikilala mo na nabasa mo na ang aming Patakaran sa Privacy."
+
+msgid "Incorrect login or password."
+msgstr "Maling pag-login o password."
+
+msgid "Password must be at least 6 characters"
+msgstr "Hindi dapat bababa sa 6 na mga character Password"
+
+msgid "January"
+msgstr "Enero"
+
+msgid "February"
+msgstr "Pebrero"
+
+msgid "March"
+msgstr "Marso"
+
+msgid "April"
+msgstr "Abril"
+
+msgid "May"
+msgstr "Mayo"
+
+msgid "June"
+msgstr "Hunyo"
+
+msgid "July"
+msgstr "Hulyo"
+
+msgid "August"
+msgstr "Agosto"
+
+msgid "September"
+msgstr "Setyembre"
+
+msgid "October"
+msgstr "Oktubre"
+
+msgid "November"
+msgstr "Nobyembre"
+
+msgid "December"
+msgstr "Disyembre"
+
+msgid "Chat"
+msgstr "Usap-usapan"
+
+msgid "Files"
+msgstr "File"
+
+msgid "Statistic"
+msgstr "Statistic"
+
+msgid "Support"
+msgstr "Suporta"
+
+msgid "Exit"
+msgstr "Labasan"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Marketing specialist"
+msgstr "Espesyalista Marketing"
+
+msgid "Administrator"
+msgstr "Administrador"
+
+msgid "Shared with me"
+msgstr "Ibinahagi sa akin"
+
+msgid "File Sharing"
+msgstr "Pagbabahagi ng File"
+
+msgid "Provide access by link"
+msgstr "Magbigay ng access sa pamamagitan ng link"
+
+msgid "Provide Individual access"
+msgstr "Magbigay ng mga Indibidwal na access"
+
+msgid "Provide edit access"
+msgstr "Magbigay ng mga edit access"
+
+msgid "Share"
+msgstr "Ibahagi"
+
+msgid "Files will be available only for selected users"
+msgstr "Files ay magagamit lamang para sa mga napiling mga gumagamit"
+
+msgid "With this link everyone can access to the files"
+msgstr "Gamit ang mga link sa lahat ng tao ay maaaring ma-access sa mga file"
+
+msgid "Search users, groups, articles..."
+msgstr "Gumagamit Search, mga pangkat, mga artikulo ..."
+
+msgid "My Group"
+msgstr "Aking Group"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Kami"
+
+msgid "Th"
+msgstr "Ika"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Ang file ay hindi napili"
+
+msgid "Set aside"
+msgstr "Itabi"
+
+msgid "Event time"
+msgstr "Time Event"
+
+msgid "Work"
+msgstr "Work"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Time spent for work:"
+msgstr "Oras na ginugol para sa trabaho:"
+
+msgid "Personal time spent:"
+msgstr "Personal na oras na ginugol:"
+
+msgid "Present"
+msgstr "Kasalukuyan"
+
+msgid "Common"
+msgstr "Common"
+
+msgid "Sport"
+msgstr "Isport"
+
+msgid "Entertainment"
+msgstr "Entertainment"
+
+msgid "Select:"
+msgstr "Piliin ang:"
+
+msgid "Invalid username or password."
+msgstr "Di-wastong username o password."
+
+msgid "Try again."
+msgstr "Subukan muli."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "ANO IKAW AY interesado sa?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Pumili ng hindi bababa sa 2 na mga kasanayan: nananatiling 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Pumili ng hindi bababa sa 2 na mga kasanayan: nananatiling 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Pumili ng hindi bababa sa 2 na mga kasanayan: labi"
+
+msgid "Active life"
+msgstr "Aktibong buhay"
+
+msgid "Arts and culture"
+msgstr "Sining at kultura"
+
+msgid "Business"
+msgstr "Negosyo"
+
+msgid "Cinema"
+msgstr "Sinehan"
+
+msgid "Communications"
+msgstr "Komunikasyon"
+
+msgid "Construction and repair"
+msgstr "Construction at pagkukumpuni"
+
+msgid "Cooking"
+msgstr "Pagluluto"
+
+msgid "Education"
+msgstr "Edukasyon"
+
+msgid "Electronics"
+msgstr "Elektronika"
+
+msgid "Finances"
+msgstr "Pananalapi"
+
+msgid "Graphics and design"
+msgstr "Graphics at disenyo"
+
+msgid "Health"
+msgstr "Kalusugan"
+
+msgid "Home and family"
+msgstr "Home at pamilya"
+
+msgid "Humor"
+msgstr "Katatawanan"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Industry"
+
+msgid "Insurance"
+msgstr "Insurance"
+
+msgid "Literature"
+msgstr "Literatura"
+
+msgid "Mobile communications and internet"
+msgstr "Mobile komunikasyon at internet"
+
+msgid "News and Media"
+msgstr "Mga Balita at Media"
+
+msgid "Pets"
+msgstr "Mga Alagang Hayop"
+
+msgid "Products and service"
+msgstr "Mga Produkto at mga serbisyo"
+
+msgid "Real Estate"
+msgstr "Real Estate"
+
+msgid "Religion"
+msgstr "Relihiyon"
+
+msgid "Science and techs"
+msgstr "Agham at techs"
+
+msgid "Security"
+msgstr "Security"
+
+msgid "Society"
+msgstr "Society"
+
+msgid "Television"
+msgstr "Telebisyon"
+
+msgid "Travel"
+msgstr "Travel"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Arhentina"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Awstrya"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belgium"
+msgstr "Belgium"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Bulgaria"
+msgstr "Bulgarya"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Chile"
+msgstr "Tsile"
+
+msgid "Denmark"
+msgstr "Denmark"
+
+msgid "France"
+msgstr "Pransiya"
+
+msgid "Germany"
+msgstr "Alemanya"
+
+msgid "Greece"
+msgstr "Gresya"
+
+msgid "Hungary"
+msgstr "Unggarya"
+
+msgid "Iceland"
+msgstr "Iceland"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Italya"
+
+msgid "Japan"
+msgstr "Hapon"
+
+msgid "Mexico"
+msgstr "Mehiko"
+
+msgid "Netherlands"
+msgstr "Olanda"
+
+msgid "New Zealand"
+msgstr "Niyusiland"
+
+msgid "Norway"
+msgstr "Norwega"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Russia"
+msgstr "Russia"
+
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgid "South Africa"
+msgstr "Timog Africa"
+
+msgid "South Korea"
+msgstr "Timog Korea"
+
+msgid "Spain"
+msgstr "Espanya"
+
+msgid "Sweden"
+msgstr "Sweden"
+
+msgid "Switzerland"
+msgstr "Switzerland"
+
+msgid "Turkey"
+msgstr "Karne ng pabo"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "United Arab Emirates"
+msgstr "United Arab Emirates"
+
+msgid "United Kingdom"
+msgstr "Reyno Unido"
+
+msgid "United States"
+msgstr "Estados Unidos"
+
+msgid "achievements"
+msgstr "mga nagawa"
+
+msgid "Investment management"
+msgstr "Pamamahala ng Investment"
+
+msgid "Select..."
+msgstr "Piliin ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "INVESTMENT MANAGEMENT"
+
+msgid "Investors list"
+msgstr "List Mamumuhunan"
+
+msgid "My investments"
+msgstr "Aking mga pamumuhunan"
+
+msgid "Create date"
+msgstr "Lumikha ng petsa"
+
+msgid "Author of the project"
+msgstr "May-akda ng proyekto"
+
+msgid "Date and time"
+msgstr "Petsa at oras"
+
+msgid "Status"
+msgstr "Katayuan"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Apply"
+msgstr "Ilapat"
+
+msgid "Kazakhstan"
+msgstr "Kasakstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Science"
+
+msgid "Architecture"
+msgstr "Arkitektura"
+
+msgid "Photography"
+msgstr "Photography"
+
+msgid "Designer"
+msgstr "Designer"
+
+msgid "IT specialist"
+msgstr "Espesyalista sa IT"
+
+msgid "Agronomist"
+msgstr "Agronomo"
+
+msgid "Architect"
+msgstr "Architector"
+
+msgid "Lawyer"
+msgstr "Abogado"
+
+msgid "Writer"
+msgstr "Writer"
+
+msgid "Doctor"
+msgstr "Doctor"
+
+msgid "Scientist"
+msgstr "Scientist"
+
+msgid "Marketer"
+msgstr "Nagmemerkado"
+
+msgid "Teacher"
+msgstr "Teacher"
+
+msgid "Cook"
+msgstr "Tagapagluto"
+
+msgid "Artist"
+msgstr "Artist"
+
+msgid "Photographer"
+msgstr "Photographer"
+
+msgid "Ecologist"
+msgstr "Eksperto sa ekolohiya"
+
+msgid "Economist"
+msgstr "Economist"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Mamamahayag"
+
+msgid "Builder"
+msgstr "Builder"
+
+msgid "These users may be interesting for you"
+msgstr "Maaaring maging kawili-wili para sa iyo ang mga ito ang mga gumagamit"
+
+msgid "These articles may be interesting for you"
+msgstr "Maaaring maging kawili-wili para sa iyo ang mga artikulo"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Sumali ka sa grupong ito bilang Аdministrator"
+
+msgid "articles written."
+msgstr "artikulo na isinulat."
+
+msgid "groups created."
+msgstr "grupong nilikha."
+
+msgid "Creation"
+msgstr "Paglalang"
+
+msgid "Build a dream"
+msgstr "Bumuo ng isang panaginip"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Magbasa nang higit pa kawili-wiling artikulo - pumunta libreng registration"
+

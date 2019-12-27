@@ -1,0 +1,3344 @@
+# Irish (Ирландский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Irish (Ирландский) <support@konstruktor.com>\n"
+"Language: Irish (Ирландский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "ainm úsáideora"
+
+msgid "Invalid username or password, try again"
+msgstr "Ainm úsáideora mícheart nó focal faire. Déan iarracht eile ."
+
+msgid "Settings"
+msgstr "Socruithe"
+
+msgid "Home"
+msgstr "Baile"
+
+msgid "You must log in to access this page"
+msgstr "Ní mór duit logáil isteach chun rochtain a fháil ar an leathanach seo"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Tá do seisiún a bheith imithe in éag . Le do thoil , relogin chun an gníomh seo"
+
+msgid "Save"
+msgstr "Sábháil"
+
+msgid "Head Office"
+msgstr "Ard-Oifig"
+
+msgid "Address"
+msgstr "seoladh"
+
+msgid "Back"
+msgstr "Ar ais"
+
+msgid "Apply"
+msgstr "Cuir iarratas isteach"
+
+msgid "Upload files…"
+msgstr "Comhaid a uaslódáil ..."
+
+msgid "Set as main"
+msgstr "Socraigh mar phríomh"
+
+msgid "Delete"
+msgstr "Scrios"
+
+msgid "Original image"
+msgstr "íomhá bunaidh"
+
+msgid "Uploaded"
+msgstr "Uasluchtaithe"
+
+msgid "File name"
+msgstr "Ainm comhaid"
+
+msgid "File size"
+msgstr "méid comhaid"
+
+msgid "Resolution"
+msgstr "Rún"
+
+msgid "Enlarge"
+msgstr "Enlarge"
+
+msgid "Links"
+msgstr "naisc"
+
+msgid "Original size"
+msgstr "mhéid bunaidh"
+
+msgid "For editor"
+msgstr "Le haghaidh eagarthóir"
+
+msgid "Resize"
+msgstr "Athraigh"
+
+msgid "Width"
+msgstr "leithead"
+
+msgid "Height"
+msgstr "airde"
+
+msgid "Media URL"
+msgstr "Meáin URL"
+
+msgid "Add record"
+msgstr "cuir taifead"
+
+msgid "Show filter settings"
+msgstr "Socruithe Taispeáin scagaire"
+
+msgid "Edit record"
+msgstr "taifead eagar"
+
+msgid "Delete record"
+msgstr "Scrios taifead"
+
+msgid "Delete checked records"
+msgstr "Scrios taifid sheiceáil"
+
+msgid "Dashboard"
+msgstr "painéal na nIonstraimí"
+
+msgid "Password"
+msgstr "Pasfhocal"
+
+msgid "Remember me"
+msgstr "Cuimhnigh orm"
+
+msgid "Login"
+msgstr "Logáil isteach"
+
+msgid "Clean image cache"
+msgstr "Taisce íomhá glan"
+
+msgid "Processing query..."
+msgstr "Cheist a phróiseáil ..."
+
+msgid "CMS Development"
+msgstr "Forbairt CMS"
+
+msgid "Admin Home Page"
+msgstr "Riarachán Leathanach Baile"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Leathanach Baile Oscailte Front - deireadh i cluaisín nua"
+
+msgid "Go to Site"
+msgstr "Téigh go dtí an Suíomh"
+
+msgid "Log out"
+msgstr "logáil amach"
+
+msgid "Send"
+msgstr "Seol"
+
+msgid "General"
+msgstr "ginearálta"
+
+msgid "Title"
+msgstr "Teideal"
+
+msgid "Teaser"
+msgstr "teaser"
+
+msgid "Published"
+msgstr "foilsithe"
+
+msgid "Featured"
+msgstr "Réadmhaoin"
+
+msgid "Active"
+msgstr "Gníomhach"
+
+msgid "Field is mandatory"
+msgstr "Is Field éigeantach"
+
+msgid "Sort Order"
+msgstr "Ordú Sórtáil"
+
+msgid "Upload"
+msgstr "uaslódáil"
+
+msgid "Loading..."
+msgstr "Ag luchtú ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feabhra"
+
+msgid "Mar"
+msgstr "Márta"
+
+msgid "Apr"
+msgstr "aibreán"
+
+msgid "May"
+msgstr "Bealtaine"
+
+msgid "Jun"
+msgstr "Meitheamh"
+
+msgid "Jul"
+msgstr "Iúil"
+
+msgid "Aug"
+msgstr "Lúnasa"
+
+msgid "Sep"
+msgstr "Meán Fómhair"
+
+msgid "Oct"
+msgstr "Deireadh Fómhair"
+
+msgid "Nov"
+msgstr "Samhain"
+
+msgid "Dec"
+msgstr "nollaig"
+
+msgid "Product already exists in the order"
+msgstr "Táirge ann cheana san ordú"
+
+msgid "Product does not exist"
+msgstr "Ní Táirge ann"
+
+msgid "Incorrect request"
+msgstr "iarratas mícheart"
+
+msgid "Products"
+msgstr "táirgí"
+
+msgid "Product types"
+msgstr "cineálacha táirgí"
+
+msgid "Contractors"
+msgstr "conraitheoirí"
+
+msgid "Contractor"
+msgstr "conraitheoir"
+
+msgid "Orders"
+msgstr "Orduithe"
+
+msgid "FAQ"
+msgstr "Ceisteanna Coitianta"
+
+msgid "New order"
+msgstr "ordú nua"
+
+msgid "My orders"
+msgstr "mo orduithe"
+
+msgid "Recharge balance"
+msgstr "cothromaíocht recharge"
+
+msgid "Administrator"
+msgstr "riarthóir"
+
+msgid "Incorrect event ID"
+msgstr "Mícheart ID imeacht"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "conraitheoir in Eagar"
+
+msgid "Create contractor"
+msgstr "Cruthaigh conraitheoir"
+
+msgid "Edit question"
+msgstr "Cuir ceist"
+
+msgid "Create question"
+msgstr "Cruthaigh ceist"
+
+msgid "Edit order"
+msgstr "ordú eagar"
+
+msgid "Create order"
+msgstr "Cruthaigh ordú"
+
+msgid "Edit product"
+msgstr "táirge eagar"
+
+msgid "Create product"
+msgstr "Cruthaigh táirge"
+
+msgid "Edit product type"
+msgstr "Cineál táirge Eagar"
+
+msgid "Create product type"
+msgstr "Cruthaigh cineál táirge"
+
+msgid "You have received a file"
+msgstr "Tá comhad a fuair tú"
+
+msgid "You received a file from"
+msgstr "Fuair ​​tú comhad ó"
+
+msgid "File has been uploaded"
+msgstr "Tá comhad uaslódáilte"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "cainníocht Íosráta"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "míreanna"
+
+msgid "Remove"
+msgstr "Bain"
+
+msgid "Contact person"
+msgstr "teagmhálaí"
+
+msgid "Email"
+msgstr "Ríomhphost"
+
+msgid "Contractor phone"
+msgstr "fón conraitheoir"
+
+msgid "Contractor name"
+msgstr "ainm conraitheoir"
+
+msgid "Contractor details"
+msgstr "sonraí conraitheoir"
+
+msgid "Order ID"
+msgstr "Ordú ID"
+
+msgid "Sum"
+msgstr "suim"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Roghnaigh an córas íocaíochta atá oiriúnach chun recharge do chomhardú"
+
+msgid "Recharge amount"
+msgstr "recharge méid"
+
+msgid "Paid"
+msgstr "íoctha"
+
+msgid "Shipped"
+msgstr "shipped"
+
+msgid "- No products in this order -"
+msgstr "- Uimh táirgí sa ord -"
+
+msgid "month"
+msgstr "mí"
+
+msgid "No user found"
+msgstr "Aon úsáideoir le fáil"
+
+msgid "Achievement"
+msgstr "Gnóthachtáil"
+
+msgid "Confirmed accomplishments"
+msgstr "éachtaí Confirmed"
+
+msgid "Remove achievement"
+msgstr "Bain bhaint"
+
+msgid "Headquaters"
+msgstr "ceanncheathrú"
+
+msgid "Phone"
+msgstr "Fón"
+
+msgid "Site URL and email"
+msgstr "URL Láithreán agus r-phost"
+
+msgid "Remove address"
+msgstr "Bain seoladh"
+
+msgid "Members"
+msgstr "baill"
+
+msgid "Requires a payment"
+msgstr "Éilíonn íocaíocht"
+
+msgid "Shipping"
+msgstr "Loingseoireacht"
+
+msgid "Ready"
+msgstr "réidh"
+
+msgid "Find user..."
+msgstr "Aimsigh úsáideoir ..."
+
+msgid "Order it"
+msgstr "ordú sé"
+
+msgid "Find group..."
+msgstr "Aimsigh grúpa ..."
+
+msgid "Find user or community..."
+msgstr "Aimsigh úsáideora nó pobail ..."
+
+msgid "No item found"
+msgstr "Níl mír le fáil"
+
+msgid "years"
+msgstr "blianta"
+
+msgid "Send message"
+msgstr "Seol teachtaireacht"
+
+msgid "Message"
+msgstr "teachtaireacht"
+
+msgid "To send message press Enter"
+msgstr "Chun a sheoladh teachtaireacht brúigh Iontráil"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Chun a sheoladh teachtaireacht brúigh CTRL + Iontráil"
+
+msgid "Processing file(s)..."
+msgstr "Comhad próiseála ( s) ..."
+
+msgid "Group settings"
+msgstr "suímh Grúpa"
+
+msgid "Create group"
+msgstr "Cruthaigh grúpa"
+
+msgid "Group has been successfully saved"
+msgstr "Tá grúpa éirigh le sábháil"
+
+msgid "Group title"
+msgstr "teideal Grúpa"
+
+msgid "Group video"
+msgstr "físeán Grúpa"
+
+msgid "Description"
+msgstr "Cur síos"
+
+msgid "Your role in group"
+msgstr "Do ról sa ghrúpa"
+
+msgid "Role"
+msgstr "ról"
+
+msgid "Photo or video gallery"
+msgstr "Grianghraf nó físeán gailearaí"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "físeán upload"
+
+msgid "Add group address"
+msgstr "Cuir seoladh ghrúpa"
+
+msgid "Group articles"
+msgstr "earraí Grúpa"
+
+msgid "No addresses yet"
+msgstr "Uimh seoltaí fós"
+
+msgid "Add group achievement"
+msgstr "Cuir bhaint amach grúpa"
+
+msgid "No achivements yet"
+msgstr "Uimh achivements fós"
+
+msgid "Are you sure to delete this user"
+msgstr "An bhfuil tú cinnte a scriosadh úsáideoir seo"
+
+msgid "Add member"
+msgstr "cuir comhalta"
+
+msgid "Are you sure to delete this record?"
+msgstr "An bhfuil tú cinnte an taifead seo a scriosadh ?"
+
+msgid "Join this group"
+msgstr "Bí an grúpa seo"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Cuireadh do chuireadh a sheoladh chuig an riarthóir ghrúpa"
+
+msgid "All addresses"
+msgstr "gach seoltaí"
+
+msgid "Collapse"
+msgstr "collapse"
+
+msgid "Achievements"
+msgstr "Baineadh Amach"
+
+msgid "Show more"
+msgstr "Taispeáin níos mó"
+
+msgid "Team"
+msgstr "Foireann"
+
+msgid "Projects"
+msgstr "tionscadail"
+
+msgid "New project"
+msgstr "tionscadal nua"
+
+msgid "Project has not been created yet"
+msgstr "Nach bhfuil an tionscadal cruthaithe go fóill"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "Iarmhéid"
+
+msgid "Main page"
+msgstr "príomh- leathanach"
+
+msgid "Upload image"
+msgstr "íomhá uaslódáil"
+
+msgid "My time"
+msgstr "mo chuid ama"
+
+msgid "Day"
+msgstr "lá"
+
+msgid "Week"
+msgstr "Seachtain na"
+
+msgid "Project settings"
+msgstr "socruithe Tionscadail"
+
+msgid "Create project"
+msgstr "Cruthaigh tionscadal"
+
+msgid "Project has been successfully saved"
+msgstr "Tá an tionscadal éirigh le sábháil"
+
+msgid "Project name"
+msgstr "ainm Tionscadail"
+
+msgid "Deadline"
+msgstr "spriocdháta"
+
+msgid "Close"
+msgstr "Dún"
+
+msgid "Manager"
+msgstr "Bainisteoir"
+
+msgid "Assigned to"
+msgstr "sannta chuig"
+
+msgid "Discussion"
+msgstr "plé"
+
+msgid "Task was created"
+msgstr "Bhí Tasc Cruthaíodh"
+
+msgid "Task was closed"
+msgstr "Bhí Tasc dúnta"
+
+msgid "Go to Group"
+msgstr "Téigh go dtí an Ghrúpa"
+
+msgid "Closed"
+msgstr "dúnta"
+
+msgid "Last updates"
+msgstr "nuashonruithe Last"
+
+msgid "Project is closed"
+msgstr "Tá an tionscadal dúnta"
+
+msgid "No open tasks"
+msgstr "Uimh tascanna oscailte"
+
+msgid "New task"
+msgstr "tasc nua"
+
+msgid "Closed tasks"
+msgstr "tascanna dúnta"
+
+msgid "Add subproject"
+msgstr "Cuir subproject"
+
+msgid "Add task"
+msgstr "Cuir tasc"
+
+msgid "Sun"
+msgstr "Dé Domhnaigh"
+
+msgid "Mon"
+msgstr "Dé Luain"
+
+msgid "Tue"
+msgstr "Dé Máirt"
+
+msgid "Wed"
+msgstr "Dé Céadaoin"
+
+msgid "Thur"
+msgstr "Déardaoin"
+
+msgid "Fri"
+msgstr "Dé hAoine"
+
+msgid "Sat"
+msgstr "Dé Sathairn"
+
+msgid "Event title"
+msgstr "teideal imeacht"
+
+msgid "Event description"
+msgstr "imeacht Cur síos"
+
+msgid "I registered on this site"
+msgstr "Cláraithe mé ar an suíomh seo"
+
+msgid "Last created groups"
+msgstr "Na meithleacha arna gcruthú Last"
+
+msgid "You joined this group as"
+msgstr "Chuaigh tú an grúpa seo mar"
+
+msgid "You received a request to join the group"
+msgstr "Fuair ​​tú iarratas a bheith ar an ngrúpa"
+
+msgid "Updated site"
+msgstr "Nuashonraithe suíomh"
+
+msgid "Site is under construction"
+msgstr "Tá an suíomh á thógáil"
+
+msgid "Last registered users"
+msgstr "Úsáideoirí cláraithe Last"
+
+msgid "User settings"
+msgstr "socruithe úsáideora"
+
+msgid "Technical support"
+msgstr "tacaíocht theicniúil"
+
+msgid "Change email"
+msgstr "Athrú ríomhphoist"
+
+msgid "Change password"
+msgstr "Athrú focal faire"
+
+msgid "User has been successfully saved"
+msgstr "Tá Úsáideoir éirigh le sábháil"
+
+msgid "Full name"
+msgstr "ainm iomlán"
+
+msgid "My video"
+msgstr "mo físeán"
+
+msgid "Skills"
+msgstr "scileanna"
+
+msgid "Birthday"
+msgstr "lá breithe"
+
+msgid "Country of residence"
+msgstr "Tír chónaithe"
+
+msgid "Country"
+msgstr "tír"
+
+msgid "Zip Code"
+msgstr "Cód zip"
+
+msgid "City/town of residence"
+msgstr "Cathair / baile cónaithe"
+
+msgid "University/college"
+msgstr "Ollscoil / coláiste"
+
+msgid "University/college photo"
+msgstr "Ollscoil / coláiste grianghraf"
+
+msgid "Add user\'s accomplishments"
+msgstr "Cuir úsáideora éachtaí"
+
+msgid "Interface language"
+msgstr "teanga an chomhéadain"
+
+msgid "How other people see this page"
+msgstr "Conas daoine eile féachaint ar an leathanach"
+
+msgid "Video with me"
+msgstr "Video liom"
+
+msgid "Groups"
+msgstr "grúpaí"
+
+msgid "Registered today"
+msgstr "lá atá inniu ann cláraithe"
+
+msgid "Qty"
+msgstr "qty"
+
+msgid "No registered users yet"
+msgstr "Níl aon úsáideoirí cláraithe go fóill"
+
+msgid "Total"
+msgstr "iomlán"
+
+msgid "Registered total"
+msgstr "iomlán cláraithe"
+
+msgid "You received a file"
+msgstr "Fuair ​​tú comhad"
+
+msgid "You were invited into this room"
+msgstr "Tugadh cuireadh tú isteach an seomra"
+
+msgid "Request is being processed"
+msgstr "Tá Iarratas á phróiseáil"
+
+msgid "Fax"
+msgstr "Facs"
+
+msgid "Messenger"
+msgstr "Messenger"
+
+msgid "New subproject"
+msgstr "subproject nua"
+
+msgid "messages written."
+msgstr "teachtaireachtaí scríofa."
+
+msgid "projects created based on groups."
+msgstr "tionscadail a cruthaíodh bunaithe ar ghrúpaí ."
+
+msgid "users registered on website."
+msgstr "úsáideoirí cláraithe ar an láithreán gréasáin ."
+
+msgid "New email"
+msgstr "r-phost nua"
+
+msgid "Confirm email"
+msgstr "Deimhnigh ríomhphost"
+
+msgid "New password"
+msgstr "Focal faire nua"
+
+msgid "Confirm password"
+msgstr "Dearbhaigh an focal faire"
+
+msgid "Occupation"
+msgstr "Speisialtachta"
+
+msgid "Timezone"
+msgstr "crios ama"
+
+msgid "Answer"
+msgstr "freagra"
+
+msgid "Articles"
+msgstr "Airteagail"
+
+msgid "Article"
+msgstr "Airteagal"
+
+msgid "Video-article"
+msgstr "Video- airteagal"
+
+msgid "Find article..."
+msgstr "Aimsigh article ..."
+
+msgid "Politics"
+msgstr "Polaitíocht"
+
+msgid "Economics"
+msgstr "Eacnamaíocht"
+
+msgid "Community"
+msgstr "Pobail"
+
+msgid "Culture"
+msgstr "Cultúr"
+
+msgid "Sports"
+msgstr "spóirt"
+
+msgid "Hi-tech"
+msgstr "Hi - tech"
+
+msgid "Cars"
+msgstr "Carranna"
+
+msgid "Fashion"
+msgstr "Faisean"
+
+msgid "Games"
+msgstr "Cluichí"
+
+msgid "Other"
+msgstr "eile"
+
+msgid "Invalid mediafile"
+msgstr "Mediafile neamhbhailí"
+
+msgid "No articles in this category yet"
+msgstr "Níl aon ailt sa chatagóir seo go fóill"
+
+msgid "Back to profile"
+msgstr "Ar ais go próifíl"
+
+msgid "View article"
+msgstr "Féach article"
+
+msgid "Edit article"
+msgstr "article Cuir"
+
+msgid "Create article"
+msgstr "Cruthaigh airteagal"
+
+msgid "Article title"
+msgstr "Airteagal teideal"
+
+msgid "Article section"
+msgstr "Airteagal alt"
+
+msgid "Choose image"
+msgstr "Roghnaigh an íomhá"
+
+msgid "Save and upload"
+msgstr "Sábháil agus uaslódáil"
+
+msgid "Show more..."
+msgstr "Taispeáin níos mó ..."
+
+msgid "Create"
+msgstr "Cruthaigh"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Project"
+msgstr "tionscadal"
+
+msgid "Team"
+msgstr "Foireann"
+
+msgid "A new article was published"
+msgstr "Cuireadh Airteagal nua a foilsíodh"
+
+msgid "You joined this project"
+msgstr "Chuaigh tú an tionscadal seo"
+
+msgid "Enter your information in the User settings"
+msgstr "Cuir isteach do chuid faisnéise sna suímh Úsáideoir"
+
+msgid "Communities"
+msgstr "Rialacháin na gComhphobal"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Cur i láthair físeán de mo éachtaí"
+
+msgid "My articles"
+msgstr "mo earraí"
+
+msgid "User"
+msgstr "Úsáideoir"
+
+msgid "Users"
+msgstr "úsáideoirí"
+
+msgid "Add new list"
+msgstr "Cuir liosta nua"
+
+msgid "List title"
+msgstr "liosta teideal"
+
+msgid "Add"
+msgstr "Cuir"
+
+msgid "Add to favorites"
+msgstr "Add to Favorites"
+
+msgid "Delete from favorites"
+msgstr "Scrios ó Favorites"
+
+msgid "Select list"
+msgstr "Roghnaigh liosta"
+
+msgid "Subscriptions"
+msgstr "síntiúis"
+
+msgid "Subscribe"
+msgstr "Liostáil"
+
+msgid "Unsubscribe"
+msgstr "díliostáil"
+
+msgid "General list"
+msgstr "liosta ginearálta"
+
+msgid "No users in this list"
+msgstr "Níl aon úsáideoir sa liosta seo"
+
+msgid "Publish"
+msgstr "Foilsigh"
+
+msgid "Unpublish"
+msgstr "Bain"
+
+msgid "Add user"
+msgstr "Cuir úsáideora"
+
+msgid "Create document"
+msgstr "Cruthaigh doiciméad"
+
+msgid "Edit document"
+msgstr "doiciméad Edit"
+
+msgid "View"
+msgstr "Amharc"
+
+msgid "Document title"
+msgstr "teideal doiciméad"
+
+msgid "Find document..."
+msgstr "Aimsigh doiciméad ..."
+
+msgid "Share your thoughts"
+msgstr "Comhroinn do chuid smaointe"
+
+msgid "Leave your comment"
+msgstr "Fág nóta tráchta do"
+
+msgid "Accept"
+msgstr "Glac"
+
+msgid "Decline"
+msgstr "meath"
+
+msgid "Add article"
+msgstr "Cuir article"
+
+msgid "Link to verified accomplishments"
+msgstr "Nasc le éachtaí fhíorú"
+
+msgid "No articles here yet..."
+msgstr "Níl aon earraí anseo fós ..."
+
+msgid "Find file or folder..."
+msgstr "Faigh an comhad nó fillteán ..."
+
+msgid "Sort"
+msgstr "Sórtáil"
+
+msgid "By name"
+msgstr "De réir Ainm"
+
+msgid "By date"
+msgstr "De réir dáta a chruthú"
+
+msgid "By updated date"
+msgstr "Dáta an athchóiriú"
+
+msgid "By size"
+msgstr "Fit"
+
+msgid "By type"
+msgstr "De réir an chineáil"
+
+msgid "Move"
+msgstr "Bog"
+
+msgid "File Manager"
+msgstr "Bainisteoir comhad"
+
+msgid "Share link"
+msgstr "Comhroinn"
+
+msgid "Responsible"
+msgstr "freagrach"
+
+msgid "Performer"
+msgstr "Ceoltóir"
+
+msgid "New Folder"
+msgstr "Fillteán nua"
+
+msgid "Folder name"
+msgstr "an t-ainm fillteán"
+
+msgid "By default"
+msgstr "De réir réamhshocraithe"
+
+msgid "Back to group"
+msgstr "Ar ais go grúpa"
+
+msgid "year(s)"
+msgstr "bliain (í)"
+
+msgid "January"
+msgstr "Eanáir"
+
+msgid "February"
+msgstr "feabhra"
+
+msgid "March"
+msgstr "Márta"
+
+msgid "April"
+msgstr "aibreán"
+
+msgid "May"
+msgstr "Bealtaine"
+
+msgid "June"
+msgstr "meitheamh"
+
+msgid "July"
+msgstr "iúil"
+
+msgid "August"
+msgstr "lúnasa"
+
+msgid "September"
+msgstr "Meán Fómhair"
+
+msgid "October"
+msgstr "Deireadh Fómhair"
+
+msgid "November"
+msgstr "samhain"
+
+msgid "December"
+msgstr "nollaig"
+
+msgid "Password Reminder"
+msgstr "Pasfhocal Meabhrúchán"
+
+msgid "Log In"
+msgstr "Logáil isteach"
+
+msgid "Sign in"
+msgstr "sínigh isteach"
+
+msgid "Register"
+msgstr "Cláraigh"
+
+msgid "First name"
+msgstr "Ainm"
+
+msgid "Last name"
+msgstr "sloinne"
+
+msgid "I agree with rules"
+msgstr "Aontaím le rialacha"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Cuireadh teachtaireacht deimhnithe a sheoladh chuig do sheoladh r-phoist."
+
+msgid "Thanks"
+msgstr "Go raibh maith agat"
+
+msgid "Password must be at least 6 characters"
+msgstr "Ní mór Pasfhocal bheith ar a laghad 6 litreacha"
+
+msgid "Creative Environment"
+msgstr "Comhshaol Creative"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Ní mór duit a bheith ar a laghad trí bliana déag d\'aois a tseirbhís seo a úsáid"
+
+msgid "Order status"
+msgstr "stádas ordú"
+
+msgid "Processing order"
+msgstr "ordú a phróiseáil"
+
+msgid "Requires a payment"
+msgstr "Éilíonn íocaíocht"
+
+msgid "Shipping"
+msgstr "Á sheoladh"
+
+msgid "Ready"
+msgstr "réidh"
+
+msgid "Thank you for your payment"
+msgstr "Go raibh maith agat as do íocaíocht"
+
+msgid "Your payment has been cancelled"
+msgstr "Tá d\'íocaíocht curtha ar ceal"
+
+msgid "page"
+msgstr "leathanach"
+
+msgid "Rent period"
+msgstr "tréimhse cíosa"
+
+msgid "Total, month"
+msgstr "Iomlán, mí"
+
+msgid "Order items"
+msgstr "míreanna Ordú"
+
+msgid "No records found"
+msgstr "Aon taifid le fáil"
+
+msgid "User with this email is already exist"
+msgstr "Is Úsáideoir leis an ríomhphost seo ann cheana"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Tá fillteán nó comhad leis an ainm den sórt sin ann cheana i fillteán scríbe"
+
+msgid "Minimal quantity"
+msgstr "cainníocht Íosráta"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "cóipeanna clóite"
+
+msgid "Terms of Use"
+msgstr "Téarmaí Úsáide"
+
+msgid "Privacy Policy"
+msgstr "Beartas Príobháideachais"
+
+msgid "Find project..."
+msgstr "Aimsigh tionscadal ..."
+
+msgid "New Project"
+msgstr "Tionscadail nua"
+
+msgid "Accounts"
+msgstr "cuntais"
+
+msgid "Operations"
+msgstr "oibríochtaí"
+
+msgid "All accounts"
+msgstr "gach cuntais"
+
+msgid "All categories"
+msgstr "gach catagóir"
+
+msgid "Expense"
+msgstr "Costais"
+
+msgid "Income"
+msgstr "ioncam"
+
+msgid "Transfer"
+msgstr "Aistriú"
+
+msgid "Expense"
+msgstr "Costais"
+
+msgid "income"
+msgstr "ioncam"
+
+msgid "tax"
+msgstr "cáin"
+
+msgid "percent"
+msgstr "faoin gcéad"
+
+msgid "transfer"
+msgstr "aistriú"
+
+msgid "Make operation"
+msgstr "déan oibriú"
+
+msgid "Select date"
+msgstr "Roghnaigh dáta"
+
+msgid "Select account"
+msgstr "Roghnaigh cuntas"
+
+msgid "Month"
+msgstr "mí"
+
+msgid "Quarter"
+msgstr "Ceathrú"
+
+msgid "Year"
+msgstr "bliain"
+
+msgid "From"
+msgstr "ó"
+
+msgid "To"
+msgstr "Chun"
+
+msgid "Expense amount"
+msgstr "méid Costais"
+
+msgid "Categories"
+msgstr "Catagóirí"
+
+msgid "Comments"
+msgstr "tuairimí"
+
+msgid "Income amount"
+msgstr "méid ioncaim"
+
+msgid "Transfer amount"
+msgstr "méid an aistrithe"
+
+msgid "From account"
+msgstr "ón cuntas"
+
+msgid "To account"
+msgstr "cuntas"
+
+msgid "New Account"
+msgstr "Cuntas Nua"
+
+msgid "New Category"
+msgstr "Catagóir nua"
+
+msgid "All"
+msgstr "gach"
+
+msgid "Name"
+msgstr "ainm"
+
+msgid "Enter category name"
+msgstr "Iontráil catagóir ainm"
+
+msgid "Select type"
+msgstr "Roghnaigh cineál"
+
+msgid "Credit card"
+msgstr "Cárta creidmheasa"
+
+msgid "Debit card"
+msgstr "cárta dochair"
+
+msgid "Bank account"
+msgstr "cuntas bainc"
+
+msgid "Cash"
+msgstr "Airgead Tirim"
+
+msgid "Balance is empty"
+msgstr "Is Iarmhéid folamh"
+
+msgid "Statistic is empty"
+msgstr "Tá staitistic folamh"
+
+msgid "Regular payments"
+msgstr "íocaíochtaí rialta"
+
+msgid "Are you sure ?"
+msgstr "An bhfuil tú cinnte ?"
+
+msgid "Are you sure to close this project?"
+msgstr "An bhfuil tú cinnte a dhúnadh an tionscadal seo?"
+
+msgid "Project was deleted successfully"
+msgstr "Scriosadh tionscadal go rathúil"
+
+msgid "Select currency"
+msgstr "Roghnaigh airgeadra"
+
+msgid "Account"
+msgstr "cuntas"
+
+msgid "Orders list"
+msgstr "Orduithe liosta"
+
+msgid "Order payments"
+msgstr "íocaíochtaí Ordú"
+
+msgid "View order"
+msgstr "Féach ordú"
+
+msgid "No response from Printer API"
+msgstr "Freagra ar bith ó Printéir API"
+
+msgid "Bad response from Printer API"
+msgstr "Freagra dona ó Printéir API"
+
+msgid "User ID"
+msgstr "ID Úsáideora"
+
+msgid "Contact Person"
+msgstr "teagmháil"
+
+msgid "No orders to process"
+msgstr "Aon orduithe a phróiseáil"
+
+msgid "Article announce image"
+msgstr "Airteagal fhógairt íomhá"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Url físeán neamhbhailí. Fág bán nó cuir isteach url youtube bailí"
+
+msgid "Please, enter Contractor data"
+msgstr "Le do thoil , dul isteach sonraí Conraitheoir"
+
+msgid "Distribute devices"
+msgstr "Tabhair amach feistí"
+
+msgid "Quantity"
+msgstr "Cainníocht"
+
+msgid "Devices left"
+msgstr "gléasanna chlé"
+
+msgid "Distributed devices"
+msgstr "feistí dháileadh"
+
+msgid "You must enter quantity"
+msgstr "Ní mór duit dul isteach chainníocht"
+
+msgid "All devices are distributed"
+msgstr "Gach feiste a dháileadh"
+
+msgid "IP address"
+msgstr "seoladh IP"
+
+msgid "Only for printer"
+msgstr "Ach amháin le haghaidh printéir"
+
+msgid "Counter"
+msgstr "gcuntar"
+
+msgid "You was excluded from this room"
+msgstr "Bhí tú eisiata ón seomra seo"
+
+msgid "Compare"
+msgstr "Déan comparáid idir"
+
+msgid "Scheduled transaction"
+msgstr "idirbheart sceidealta"
+
+msgid "Select transfer account"
+msgstr "Roghnaigh cuntas aistrithe"
+
+msgid "Select income account"
+msgstr "Roghnaigh chuntas ioncaim"
+
+msgid "Reports"
+msgstr "tuarascálacha"
+
+msgid "Goals"
+msgstr "spriocanna"
+
+msgid "Budgets"
+msgstr "buiséid"
+
+msgid "Enter user name or email..."
+msgstr "Iontráil ainm úsáideora nó ar r-phost ..."
+
+msgid "Invite had been sended"
+msgstr "Tabhair cuireadh bhí sended"
+
+msgid "Statistics"
+msgstr "Staitisticí"
+
+msgid "Updated site began to work"
+msgstr "Thosaigh Nuashonraithe suíomh seo a bheith ag obair"
+
+msgid "City of residence"
+msgstr "Cathair chónaithe"
+
+msgid "Edit favourites list"
+msgstr "Favorites Cuir liosta"
+
+msgid "Add favourites list"
+msgstr "Add to Favorites liosta"
+
+msgid "Categories is required"
+msgstr "Catagóirí ag teastáil"
+
+msgid "Type new category name and hit Enter"
+msgstr "Cineál ainm catagóir nua agus bhuail Iontráil"
+
+msgid "You created an order"
+msgstr "Chruthaigh tú ordú"
+
+msgid "You received a device due to this order"
+msgstr "Fuair ​​tú gléas mar gheall ar an ordú"
+
+msgid "%s attached %s to task %s"
+msgstr "%s %s ag gabháil go tasc %s"
+
+msgid "member(s)"
+msgstr "comhalta (í )"
+
+msgid "%s commented task %s"
+msgstr "%s tasc dúirt %s"
+
+msgid "%s closed task %s"
+msgstr "%s %s tasc dúnta"
+
+msgid "%s created task %s"
+msgstr "%s tasc a cruthaíodh %s"
+
+msgid "%s created this project"
+msgstr "%s an tionscadal seo a cruthaíodh"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s cruthaíodh subproject \"%s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s dúnta tionscadal \" %s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s dúnta subproject \"%s \""
+
+msgid "This field must not be blank"
+msgstr "Ní mór é seo a bheith bán réimse"
+
+msgid "Document with such name is already exist"
+msgstr "Is doiciméad leis an ainm den sórt sin ann cheana"
+
+msgid "Wait until image upload"
+msgstr "Fan go dtí an íomhá a uaslódáil"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Message can not be empty"
+msgstr "Ní féidir teachtaireacht a bheith folamh"
+
+msgid "Yes"
+msgstr "yes"
+
+msgid "No"
+msgstr "Uimh"
+
+msgid "Created"
+msgstr "cruthaithe"
+
+msgid "Compare is empty"
+msgstr "Déan comparáid idir go bhfuil folamh"
+
+msgid "Are you sure you want to delete operation"
+msgstr "An bhfuil tú cinnte gur mian leat oibriú a scriosadh"
+
+msgid "Do you really want to delete transaction"
+msgstr "Ar mhaith leat i ndáiríre idirbheart a scriosadh"
+
+msgid "Project with same name already exists"
+msgstr "Tionscadal leis an ainm céanna ann cheana"
+
+msgid "Account is not found"
+msgstr "Níl cuntas le fáil"
+
+msgid "Currency is required"
+msgstr "Tá Airgeadra ag teastáil"
+
+msgid "error while deleting document"
+msgstr "earráid agus scriosadh doiciméad"
+
+msgid "Expences"
+msgstr "expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Cuireadh duit úsáideoir \" %s \" sa seomra seo"
+
+msgid "User \"%s\" joined this room"
+msgstr "Úsáideoir \"%s \" Chuaigh an seomra seo"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Eisiata tú úsáideoir \" %s \" as an seomra seo"
+
+msgid "User \"%s\" left this room"
+msgstr "Úsáideoir \"%s \" D\'fhág an seomra seo"
+
+msgid "Add account"
+msgstr "Cuir cuntas"
+
+msgid "The requested page is not found"
+msgstr "Níl an leathanaigh a d\'iarr le fáil"
+
+msgid "Document"
+msgstr "doiciméad"
+
+msgid "Table"
+msgstr "tábla"
+
+msgid "file(s)"
+msgstr "comhad (í)"
+
+msgid "Residue"
+msgstr "iarmhar"
+
+msgid "Result is empty"
+msgstr "Tá Toradh folamh"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Is é an méid iomlán %s le %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Tá tú a thaisceadh %s míosúil le cuntas a bhaineann leo"
+
+msgid "Start"
+msgstr "Tosaigh"
+
+msgid "finish"
+msgstr "bailchríoch"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Tá cuntas roghnaithe cheana féin in úsáid le haghaidh sprioc eile"
+
+msgid "Amount required"
+msgstr "méid is gá"
+
+msgid "New goal"
+msgstr "sprioc nua"
+
+msgid "Goal"
+msgstr "sprioc"
+
+msgid "Goal name"
+msgstr "ainm sprioc"
+
+msgid "Invalid date"
+msgstr "dáta neamhbhailí"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Ní mór suime is gá a bheith ina uimhir dheimhneach"
+
+msgid "Remain"
+msgstr "fanacht"
+
+msgid "Last day"
+msgstr "Lá deirneach"
+
+msgid "Accumulated"
+msgstr "carntha"
+
+msgid "Put aside"
+msgstr "A chur ar leataobh"
+
+msgid "January"
+msgstr "eanáir"
+
+msgid "February"
+msgstr "feabhra"
+
+msgid "March"
+msgstr "Márta"
+
+msgid "April"
+msgstr "Aibreán"
+
+msgid "May"
+msgstr "Bealtaine"
+
+msgid "June"
+msgstr "meitheamh"
+
+msgid "July"
+msgstr "iúil"
+
+msgid "August"
+msgstr "lúnasa"
+
+msgid "September"
+msgstr "Meán Fómhair"
+
+msgid "October"
+msgstr "Deireadh Fómhair"
+
+msgid "November"
+msgstr "samhain"
+
+msgid "December"
+msgstr "nollaig"
+
+msgid "Expenses projected/actual"
+msgstr "Costais réamh-mheasta / iarbhír"
+
+msgid "Net Income projected/actual"
+msgstr "Ioncam glan réamh-mheasta / iarbhír"
+
+msgid "New budget"
+msgstr "buiséad nua"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Na Coimisinéirí Ioncaim agus Costais Cairt"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Buiséad le péire céanna chuntais agus catagóir ann cheana"
+
+msgid "Budget is empty"
+msgstr "Is Buiséad folamh"
+
+msgid "Budget"
+msgstr "Buiséad"
+
+msgid "plan"
+msgstr "plean"
+
+msgid "fact"
+msgstr "Go deimhin"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "Taispeáin More"
+
+msgid "Cancel"
+msgstr "Cealaigh"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "mo díolacháin"
+
+msgid "Time spent"
+msgstr "am a chaitear"
+
+msgid "Total time spent"
+msgstr "Am iomlán a caitheadh"
+
+msgid "Earnings per hour"
+msgstr "Tuilleamh in aghaidh na huaire"
+
+msgid "Total earnings"
+msgstr "Iomlán tuilleamh"
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Phone call"
+msgstr "Glaoch fóin"
+
+msgid "Telephone calls"
+msgstr "glaonna teileafóin"
+
+msgid "Send email"
+msgstr "Seol r-phost"
+
+msgid "Emails"
+msgstr "ríomhphoist"
+
+msgid "Meeting"
+msgstr "Cruinniú"
+
+msgid "Meetings"
+msgstr "cruinnithe"
+
+msgid "All events"
+msgstr "gach imeachtaí"
+
+msgid "Task"
+msgstr "tasc"
+
+msgid "Event"
+msgstr "imeacht"
+
+msgid "Events"
+msgstr "imeachtaí"
+
+msgid "Time"
+msgstr "am"
+
+msgid "Events statistics"
+msgstr "staitisticí imeachtaí"
+
+msgid "days"
+msgstr "laethanta"
+
+msgid "hours"
+msgstr "uair an chloig"
+
+msgid "minutes"
+msgstr "nóiméad"
+
+msgid "Income & expense"
+msgstr "Ioncam & chostas"
+
+msgid "Show chart"
+msgstr "chairt Taispeáin"
+
+msgid "Hide chart"
+msgstr "chairt Folaigh"
+
+msgid "Add event"
+msgstr "Cuir imeacht"
+
+msgid "Add financial data"
+msgstr "Cuir sonraí airgeadais"
+
+msgid "Select contractor"
+msgstr "Roghnaigh chonraitheoir"
+
+msgid "Net Income"
+msgstr "Ioncam glan"
+
+msgid "Revenue"
+msgstr "na Coimisinéirí Ioncaim"
+
+msgid "Taxes"
+msgstr "cánacha"
+
+msgid "Amount planned"
+msgstr "méid atá beartaithe"
+
+msgid "Amount"
+msgstr "méid"
+
+msgid "Period"
+msgstr "tréimhse"
+
+msgid "Are you sure to close this task?"
+msgstr "An bhfuil tú cinnte a dhúnadh an tasc seo ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "gach grúpa"
+
+msgid "added from task"
+msgstr "chur leis ó tasc"
+
+msgid "Monthly repeat"
+msgstr "athuair míosúil"
+
+msgid "Select category"
+msgstr "Roghnaigh catagóir"
+
+msgid "Event type"
+msgstr "cineál imeacht"
+
+msgid "Margin"
+msgstr "Imeall"
+
+msgid "Use finance project"
+msgstr "Bain úsáid as tionscadal airgeadas"
+
+msgid "New investment project"
+msgstr "Tionscadal infheistíochta nua"
+
+msgid "Investment project settings"
+msgstr "Suímh tionscadal infheistíochta"
+
+msgid "Picture, for the announcement project"
+msgstr "Pictiúr , don tionscadal fhógra"
+
+msgid "Announcement project"
+msgstr "tionscadal Fógra"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Photos or videos gallery"
+msgstr "Grianghraif nó físeáin gailearaí"
+
+msgid "required amount"
+msgstr "méid is gá"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Ré Tionscadail ( 60 lá uasta)"
+
+msgid "Project duration"
+msgstr "ré Tionscadail"
+
+msgid "Add reward"
+msgstr "Cuir luaíocht"
+
+msgid "Delivery date"
+msgstr "dáta seachadta"
+
+msgid "Payment systems"
+msgstr "córais íocaíochta"
+
+msgid "Terms of service"
+msgstr "Tearmaí Seirbhís"
+
+msgid "Agreement"
+msgstr "comhaontú"
+
+msgid "Payment"
+msgstr "íocaíocht"
+
+msgid "My projects"
+msgstr "mo tionscadail"
+
+msgid "Search result"
+msgstr "toradh an chuardaigh"
+
+msgid "Nothing not found"
+msgstr "Ní dhéanfaidh aon ní gan aimsiú"
+
+msgid "The project has no sponsors"
+msgstr "Níl aon urraitheoirí an tionscadail"
+
+msgid "Design"
+msgstr "dearadh"
+
+msgid "Food"
+msgstr "bia"
+
+msgid "Journalism"
+msgstr "iriseoireacht"
+
+msgid "Games"
+msgstr "Cluichí"
+
+msgid "Art"
+msgstr "ealaín"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "Ceol"
+
+msgid "Handicrafts"
+msgstr "handicrafts"
+
+msgid "Publishing"
+msgstr "Foilsitheoireachta"
+
+msgid "Theater"
+msgstr "amharclann"
+
+msgid "Technology"
+msgstr "teicneolaíocht"
+
+msgid "Film/Video"
+msgstr "Scannán / Físeán"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Dance"
+msgstr "rince"
+
+msgid "Invalid youtube video"
+msgstr "Neamhbhailí físeán youtube"
+
+msgid "is required"
+msgstr "ag teastáil"
+
+msgid "User"
+msgstr "Úsáideoir"
+
+msgid "Date"
+msgstr "dáta"
+
+msgid "Collected"
+msgstr "bailíodh"
+
+msgid "Choose period"
+msgstr "Roghnaigh an tréimhse"
+
+msgid "Choose region"
+msgstr "Roghnaigh réigiún"
+
+msgid "Country"
+msgstr "Tír"
+
+msgid "Today"
+msgstr "Sa lá atá inniu"
+
+msgid "Week"
+msgstr "seachtain"
+
+msgid "Month"
+msgstr "mí"
+
+msgid "Year"
+msgstr "bliain"
+
+msgid "Free registration"
+msgstr "clárú saor in aisce"
+
+msgid "Join"
+msgstr "Member"
+
+msgid "Log in using"
+msgstr "Logáil isteach ag baint úsáide as"
+
+msgid "Vacancies"
+msgstr "deiseanna fostaíochta"
+
+msgid "About Us"
+msgstr "Fúinn"
+
+msgid "You will need email to log in"
+msgstr "Beidh ort ríomhphost a logáil isteach"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Meascán de 6 dhigit agus carachtair"
+
+msgid "Search users, groups, articles..."
+msgstr "Úsáideoirí cuardaigh , grúpaí , earraí ..."
+
+msgid "Cloud"
+msgstr "Cloud"
+
+msgid "Sunday"
+msgstr "Dé Domhnaigh"
+
+msgid "Monday"
+msgstr "Dé Luain"
+
+msgid "Tuesday"
+msgstr "Dé Máirt"
+
+msgid "Wednesday"
+msgstr "Dé Céadaoin"
+
+msgid "Thursday"
+msgstr "Déardaoin"
+
+msgid "Friday"
+msgstr "Dé hAoine"
+
+msgid "Saturday"
+msgstr "Dé Sathairn"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Create group"
+msgstr "Cruthaigh grúpa"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "An bhfuil tú cinnte go bhfuil tú ag iarraidh a fhágáil ar an leathanach seo?"
+
+msgid "More"
+msgstr "níos mó"
+
+msgid "Less"
+msgstr "lúide"
+
+msgid "Pending"
+msgstr "Go dtí go"
+
+msgid "Approved"
+msgstr "ceadaithe"
+
+msgid "Rejected"
+msgstr "diúltaithe"
+
+msgid "Subprojects"
+msgstr "subprojects"
+
+msgid "Group edit"
+msgstr "in eagar grúpa"
+
+msgid "Startup"
+msgstr "am tosaithe"
+
+msgid "Tattoo"
+msgstr "tattoo"
+
+msgid "Health"
+msgstr "sláinte"
+
+msgid "Weapon"
+msgstr "arm"
+
+msgid "Astronomy"
+msgstr "Réalteolaíocht"
+
+msgid "All articles"
+msgstr "gach earra"
+
+msgid "Article editor"
+msgstr "Airteagal eagarthóir"
+
+msgid "Document editor"
+msgstr "eagarthóir doiciméad"
+
+msgid "Apply changes"
+msgstr "Cuir iarratas isteach ar athruithe"
+
+msgid "Save changes?"
+msgstr "Sábháil athruithe?"
+
+msgid "published an article"
+msgstr "foilsíodh alt"
+
+msgid "Users"
+msgstr "úsáideoirí"
+
+msgid "Shared With Me"
+msgstr "Roinnte Le Mise"
+
+msgid "share"
+msgstr "scair"
+
+msgid "Select Group Responsible"
+msgstr "Roghnaigh Grúpa Freagrach"
+
+msgid "Create folder"
+msgstr "Cruthaigh fillteán"
+
+msgid "Title must be at least 3 characters"
+msgstr "Ní mór teideal a bheith ar a laghad 3 carachtair"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Saor in aisce 10 GB , bainisteoir airgeadais , infheistíocht modúl , agus go leor eile saor in aisce agus go deo"
+
+msgid "Best regards"
+msgstr "is fearr maidir le"
+
+msgid "Updates in last 12 hours:"
+msgstr "Nuashonruithe i 12 uair an chloig caite :"
+
+msgid "expense"
+msgstr "costas"
+
+msgid "Commentary on the event:"
+msgstr "Tráchtaireacht ar an ócáid:"
+
+msgid "Event place"
+msgstr "imeacht áit"
+
+msgid "Project was updated"
+msgstr "Rinneadh nuashonrú ar an tionscadal"
+
+msgid "Project was created"
+msgstr "Cuireadh an tionscadal a cruthaíodh"
+
+msgid "Project was closed"
+msgstr "Dúnadh an tionscadal"
+
+msgid "account"
+msgstr "cuntas"
+
+msgid "removed task"
+msgstr "tasc a bhaint"
+
+msgid "removed subproject"
+msgstr "subproject bhaint"
+
+msgid "Title can not be empty"
+msgstr "Ní féidir a bheith folamh Teideal"
+
+msgid "Do not select the type of event"
+msgstr "Ná roghnaigh an cineál ócáid"
+
+msgid "Error while saving comment"
+msgstr "Earráid agus sábháil comment"
+
+msgid "Save error: access denied"
+msgstr "Sábháil Earráid : Rochtain dhiúltú"
+
+msgid "Remains"
+msgstr "taisí"
+
+msgid "Time spent, h."
+msgstr "Am a chaitear , h ."
+
+msgid "Emails"
+msgstr "ríomhphoist"
+
+msgid "Meetings"
+msgstr "cruinnithe"
+
+msgid "All users"
+msgstr "gach úsáideoir"
+
+msgid "Category"
+msgstr "Catagóir"
+
+msgid "Finance project"
+msgstr "tionscadal Airgeadas"
+
+msgid "Investment project"
+msgstr "tionscadal infheistíochta"
+
+msgid "Nature"
+msgstr "Dúlra"
+
+msgid "Data is empty"
+msgstr "Tá sonraí folamh"
+
+msgid "Visitors"
+msgstr "cuairteoirí"
+
+msgid "My profile"
+msgstr "Mo phróifíl"
+
+msgid "Sponsors"
+msgstr "Urraitheoirí"
+
+msgid "Prior to completion"
+msgstr "Sula dtiocfaidh"
+
+msgid "Select"
+msgstr "Roghnaigh"
+
+msgid "My groups"
+msgstr "mo ngrúpaí"
+
+msgid "The invitation has been sent successfully"
+msgstr "Tá an cuireadh seolta go rathúil"
+
+msgid "Username has already been invited to this project"
+msgstr "Tá ainm úsáideora tugadh cuireadh cheana leis an tionscadal seo"
+
+msgid "The user is the creator of the project"
+msgstr "Is é an t-úsáideoir an cruthaitheoir an tionscadail"
+
+msgid "Provide full access"
+msgstr "A chur ar fáil rochtain iomlán"
+
+msgid "Select elements to provide access"
+msgstr "Eilimintí a roghnú chun rochtain a sholáthar"
+
+msgid "Select all"
+msgstr "Roghnaigh na"
+
+msgid "User E-mail"
+msgstr "Úsáideoir E-mail"
+
+msgid "Click on the field to select a category"
+msgstr "Cliceáil ar an réimse a roghnú catagóir"
+
+msgid "Invitation was deleted"
+msgstr "Scriosadh Cuireadh"
+
+msgid "Permission denied"
+msgstr "Níl cead ag"
+
+msgid "Printed"
+msgstr "clóbhuailte"
+
+msgid "Incorrect Contractor email"
+msgstr "R-phost Contractor mícheart"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Ar mhaith leat tionscadal a chur leis bainisteoir a mhaoiniú ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Chun an próiseas clárúcháin a chríochnú do thoil líon isteach síos do scileanna"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "An phost le treoracha breise cuireadh chuig do sheoladh r-phoist"
+
+msgid "Submit"
+msgstr "Cuir isteach"
+
+msgid "Cars"
+msgstr "Carranna"
+
+msgid "Science"
+msgstr "Eolaíocht"
+
+msgid "Donation"
+msgstr "síntiús"
+
+msgid "Interests"
+msgstr "leasanna"
+
+msgid "Driver"
+msgstr "tiománaí"
+
+msgid "Sportsman"
+msgstr "Sportsman"
+
+msgid "Businessman"
+msgstr "Fear Gnó"
+
+msgid "Accountant"
+msgstr "cuntasóir"
+
+msgid "Engineer"
+msgstr "innealtóir"
+
+msgid "Soldier"
+msgstr "saighdiúir"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Hide group"
+msgstr "grúpa Folaigh"
+
+msgid "groups created"
+msgstr "na meithleacha arna gcruthú"
+
+msgid "articles written"
+msgstr "ailt scríofa"
+
+msgid "These groups may be interesting for you"
+msgstr "D\'fhéadfadh na grúpaí a bheith suimiúil ar do shon"
+
+msgid "About Group"
+msgstr "Maidir Group"
+
+msgid "view(s)"
+msgstr "View ( í )"
+
+msgid "Favorite users"
+msgstr "úsáideoirí is fearr leat"
+
+msgid "No accounts"
+msgstr "Uimh cuntais"
+
+msgid "Facebook authorization failed."
+msgstr "Theip ar facebook údarú ."
+
+msgid "Authorization Required"
+msgstr "údarú Riachtanach"
+
+msgid "You have to make a call:"
+msgstr "Tá tú a dhéanamh glaoch :"
+
+msgid "You have to send an email:"
+msgstr "Tá tú a sheoladh r-phost :"
+
+msgid "You have a meetup:"
+msgstr "Tá tú bhrú :"
+
+msgid "You event :"
+msgstr "Tú imeacht:"
+
+msgid "Participants:"
+msgstr "rannpháirtithe :"
+
+msgid "Search"
+msgstr "cuardaigh"
+
+msgid "News"
+msgstr "Nuacht"
+
+msgid "Investments"
+msgstr "Infheistíochtaí"
+
+msgid "Back to Cloud"
+msgstr "Ar ais go Cloud"
+
+msgid "Documents"
+msgstr "doiciméid"
+
+msgid "Planet"
+msgstr "Planet"
+
+msgid "Group url"
+msgstr "url grúpa"
+
+msgid "Profile url"
+msgstr "url Próifíl"
+
+msgid "Already taken"
+msgstr "déanta cheana féin"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Ar a laghad 1 litir agus 3 chars fad is gá"
+
+msgid "Digit can not be the first character"
+msgstr "Ní féidir Digit a bheith ar an chéad charachtar"
+
+msgid "Enter valid email address"
+msgstr "Cuir isteach seoladh ríomhphoist bailí"
+
+msgid "Enter your skills"
+msgstr "Cuir isteach do chuid scileanna"
+
+msgid "Enter your first name"
+msgstr "Cuir isteach do chéad ainm"
+
+msgid "Enter your last name"
+msgstr "Cuir isteach d\'ainm seo caite"
+
+msgid "Enter your first name and last name"
+msgstr "Cuir isteach do chéad ainm agus ainm seo caite"
+
+msgid "Your first name?"
+msgstr "Do chéad ainm?"
+
+msgid "Your last name?"
+msgstr "D\'ainm seo caite ?"
+
+msgid "What are your proficiencies?"
+msgstr "Cad iad do proficiencies ?"
+
+msgid "Select country"
+msgstr "Roghnaigh tír"
+
+msgid "Select user"
+msgstr "Roghnaigh úsáideoir"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Chomhlíonadh do bhrionglóid ! Cruthaigh agus Comhoibriú ."
+
+msgid "date moved from"
+msgstr "Dáta athraíodh a ionad ó"
+
+msgid "work"
+msgstr "obair"
+
+msgid "Conference"
+msgstr "Comhdháil"
+
+msgid "personal"
+msgstr "pearsanta"
+
+msgid "Holiday"
+msgstr "saoire"
+
+msgid "Past"
+msgstr "Past"
+
+msgid "Future"
+msgstr "Todhchaí"
+
+msgid "Purchase"
+msgstr "Ceannach"
+
+msgid "Personal events"
+msgstr "Imeachtaí príobháideacha"
+
+msgid "Conferences"
+msgstr "Cruinniú"
+
+msgid "Holidays"
+msgstr "Laethanta Saoire"
+
+msgid "Sport events"
+msgstr "Imeachtaí spóirt"
+
+msgid "Tasks"
+msgstr "Tascanna"
+
+msgid "Other events"
+msgstr "Imeachtaí eile"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Iarchurtha"
+
+msgid "Time management"
+msgstr "Bainistíocht Ama"
+
+msgid "Delayed events"
+msgstr "Imeachtaí iarchurtha"
+
+msgid "Delayed"
+msgstr "Iarchurtha"
+
+msgid "Bind to"
+msgstr "Sann"
+
+msgid "answered your comment to"
+msgstr "Dúirt mé (a) Déan trácht ar an earra"
+
+msgid "commented your article"
+msgstr "Thrácht mé ar do airteagal"
+
+msgid "You\'ve answered on comment to"
+msgstr "D\'fhreagair tú go dtí an trácht ar an earra"
+
+msgid "You\'ve commented an article"
+msgstr "Dúirt tú ar an earra"
+
+msgid "Terms and Conditions"
+msgstr "Téarmaí agus Coinníollacha"
+
+msgid "Privacy Policy"
+msgstr "Polasaí Príobháideachta"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Trí ghliogáil ar \"clárú\" aontaíonn tú lenár agus aitheantas a thabhairt go bhfuil tú ag léamh ár"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Bí ar an pobal daoine cruthaitheacha ó gach cearn den domhan! Gheobhaidh tú: Infheistíocht a dhéanamh i do chuid smaointe, deis a bhailiú a fhoireann, ag obair i ngrúpa, an bainisteoir airgeadais, bainistiú a gcuid ama, 2 ghigibheart i stóráil agus níos mó. Agus tá sé saor in aisce!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Tá brón orm, ach ní hionann an leathanach atá á lorg agat ann. Má cheapann tú go locht linn teagmháil a dhéanamh linn"
+
+msgid "Return"
+msgstr "Tuairisceán"
+
+msgid "COMMON"
+msgstr "IOMLÁN"
+
+msgid "My events"
+msgstr "Mo Imeachtaí"
+
+msgid "Job opening"
+msgstr "Folúntas nua"
+
+msgid "Employment"
+msgstr "Cineál na fostaíochta"
+
+msgid "Working hours"
+msgstr "Uaireanta oscailte"
+
+msgid "City"
+msgstr "Cathair"
+
+msgid "Wages"
+msgstr "Tuarastal"
+
+msgid "Currency"
+msgstr "Airgeadra"
+
+msgid "Experience"
+msgstr "Taithí"
+
+msgid "Full-time"
+msgstr "Lánfhostaíocht"
+
+msgid "Part-time"
+msgstr "Páirtaimseartha"
+
+msgid "Project employment"
+msgstr "Tionscadal / Sealadach"
+
+msgid "Volunteer"
+msgstr "Obair Dheonach"
+
+msgid "Internship"
+msgstr "Cúrsa Oiliúna"
+
+msgid "Full day"
+msgstr "Lánaimseartha"
+
+msgid "Shifts"
+msgstr "Sceideal athsholáthair"
+
+msgid "Flexible shifts"
+msgstr "Sceideal solúbtha"
+
+msgid "Remote work"
+msgstr "Obair iargúlta"
+
+msgid "Rotational basis"
+msgstr "Modh Shift"
+
+msgid "Do you really want to delete this comment?"
+msgstr "An bhfuil tú cinnte gur mian leat a scriosadh an trácht?"
+
+msgid "Do you really want to delete this task?"
+msgstr "An bhfuil tú cinnte go bhfuil tú ag iarraidh an tasc seo a scriosadh?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "An bhfuil tú cinnte gur mian leat a scriosadh fo-tionscadal seo?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Tá tú i bhfeidhm ar an gcuideachta sa suíomh. Bí cinnte go bhfuil an"
+
+msgid "Your request to for job has been rejected"
+msgstr "Tá do iarratas chuig an gcuideachta ar sheasamh diúltaíodh"
+
+msgid "Your request to for job has been accepted"
+msgstr "Glacadh d\'iarratas chuig an gcuideachta ar sheasamh"
+
+msgid "profile is completed"
+msgstr "Tá do phróifíl iomlán"
+
+msgid "Use account"
+msgstr "Bain úsáid as cuntas"
+
+msgid "$/hr"
+msgstr "$ / Uair an chloig"
+
+msgid "Finance category"
+msgstr "Catagóir Airgeadais"
+
+msgid "No projects"
+msgstr "Uimh tionscadail"
+
+msgid "Bind to finances"
+msgstr "Sann tionscadal airgeadais"
+
+msgid "Preview"
+msgstr "Amharc"
+
+msgid "Download"
+msgstr "Íosluchtaigh"
+
+msgid "Save to my cloud"
+msgstr "Cóipeáil an stór"
+
+msgid "File successfully saved to your cloud"
+msgstr "Comhad stóráil go rathúil i do stór"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Sábháil an comhad seo i do stór?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Roghnaigh catagóir Airteagal"
+
+msgid "Type something"
+msgstr "Scríobh rud éigin"
+
+msgid "Founded users"
+msgstr "Úsáideoirí fuair"
+
+msgid "Founded articles"
+msgstr "Airteagal fuair"
+
+msgid "Founded groups"
+msgstr "Grúpa Bunaithe"
+
+msgid "What are your skills?"
+msgstr "Cad iad do chuid scileanna?"
+
+msgid "Select at least 2 interests"
+msgstr "Roghnaigh ar a laghad 2 ús"
+
+msgid "Need more interests"
+msgstr "Ní spéis leor roghnaithe"
+
+msgid "What are you interesting in?"
+msgstr "Cad tá suim agat?"
+
+msgid "You have no dialogs"
+msgstr "Ní gá duit comhráite"
+
+msgid "Usage Stats"
+msgstr "Staid na"
+
+msgid "Founded files"
+msgstr "Comhaid Aimsíodh"
+
+msgid "Big tiles"
+msgstr "Tíleanna Móra"
+
+msgid "Small tiles"
+msgstr "Tíleanna beag"
+
+msgid "Table view"
+msgstr "Tábla View"
+
+msgid "Root folder"
+msgstr "An eolaire fhréamh"
+
+msgid "My files"
+msgstr "Mo Comhaid"
+
+msgid "Save as draft"
+msgstr "Ach amháin mar Dréacht"
+
+msgid "Buy More Space"
+msgstr "A cheannach níos mó spáis"
+
+msgid "Buy"
+msgstr "A cheannach"
+
+msgid "You have been invited to group as"
+msgstr "Bhí tú ag cuireadh don ghrúpa mar"
+
+msgid "User wants to join your group"
+msgstr "Is mian leis an úsáideoir a bheith páirteach do ghrúpa"
+
+msgid "Section is coming soon!"
+msgstr "Alt á thógáil!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Radhairc sa 24 uair an chloig caite:"
+
+msgid "Task was updated"
+msgstr "Tá an tasc tugtha cothrom le dáta"
+
+msgid "Task was closed"
+msgstr "Tá an dúshlán a dúnta"
+
+msgid "Task was created"
+msgstr "Bunaíodh an tasc"
+
+msgid "Current balance"
+msgstr "Iarmhéid reatha"
+
+msgid "Add funds"
+msgstr "Cuir"
+
+msgid "Pay"
+msgstr "Seiceáil"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Tá tú níos mó ná an líon na n-iarrachtaí logáil isteach. Tá tú ag bac ar feadh 15 nóiméad"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Cinntigh do r-phost. An litir sheoladh chugat tríd an bpost."
+
+msgid "Resend confirmation email"
+msgstr "Seol deimhniú arís"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB in aghaidh na míosa"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Céide 10 GB in aghaidh na bliana"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Diosca 100 GB gach bliain"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Diosca 1TB míosúil"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Céide 1 TB gach bliain"
+
+msgid "Project members monthly"
+msgstr "Rannpháirtithe an tionscadail ar bhonn míosúil"
+
+msgid "Project members yearly"
+msgstr "Rannpháirtithe tionscadail go bliantúil"
+
+msgid "Member(s) yearly"
+msgstr "Comhalta (í) in aghaidh na bliana"
+
+msgid "Member(s) monthly"
+msgstr "Comhalta (í) ar bhonn míosúil"
+
+msgid "Authorized"
+msgstr "Údaraithe"
+
+msgid "Authorization expired"
+msgstr "Údarú éag"
+
+msgid "Processor declined"
+msgstr "Córas próiseála Diúltaithe"
+
+msgid "Gateway rejected"
+msgstr "Gheata íocaíocht Diúltaithe"
+
+msgid "Failed"
+msgstr "Earráid"
+
+msgid "Voided"
+msgstr "Neamhniú"
+
+msgid "Submitted for settlement"
+msgstr "Seolta a chlárú"
+
+msgid "Settlement declined"
+msgstr "Tá Enrollment diúltaíodh"
+
+msgid "Settlement pending"
+msgstr "Rollú ar feitheamh"
+
+msgid "Verified"
+msgstr "Seiceáilte"
+
+msgid "Pending"
+msgstr "Go dtí go"
+
+msgid "Active"
+msgstr "Gníomhach"
+
+msgid "Past Due"
+msgstr "Imithe in éag"
+
+msgid "Expired"
+msgstr "Dar Críoch"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "An India"
+
+msgid "Malaysia"
+msgstr "An Mhalaeisia"
+
+msgid "Thailand"
+msgstr "An Téalainn"
+
+msgid "South Korea"
+msgstr "An Chóiré Theas"
+
+msgid "Kazakhstan"
+msgstr "Chasacstáin"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Ukraine"
+msgstr "An Úcráin"
+
+msgid "Belarus"
+msgstr "An Bhealarúis"
+
+msgid "Bulgaria"
+msgstr "An bhulgáir"
+
+msgid "Turkey"
+msgstr "Turcaí"
+
+msgid "Armenia"
+msgstr "An Airméin"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Poland"
+msgstr "An Pholainn"
+
+msgid "Germany"
+msgstr "An Ghearmáin"
+
+msgid "Italy"
+msgstr "An Iodáil"
+
+msgid "Netherlands"
+msgstr "An Ísiltír"
+
+msgid "Ireland"
+msgstr "Éire"
+
+msgid "United Kingdom"
+msgstr "An Bhreatain Mhór"
+
+msgid "Portugal"
+msgstr "An Phortaingéil"
+
+msgid "Norway"
+msgstr "Iorua"
+
+msgid "United States"
+msgstr "Stáit Aontaithe"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Brazil"
+msgstr "An Bhrasaíl"
+
+msgid "Saudi Arabia"
+msgstr "An Araib Shádach"
+
+msgid "Canada"
+msgstr "Egypt"
+
+msgid "Russia"
+msgstr "An Rúis"
+
+msgid "Hong Kong"
+msgstr "Hong Cong"
+
+msgid "There was no any transactions yet."
+msgstr "I láthair na huaire, ní raibh idirbheart amháin"
+
+msgid "Fulfill your dream"
+msgstr "Chomhlíonadh do bhrionglóid"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Cláraigh lenár bpobal daoine aonair cruthaitheacha ó gach ar fud na cruinne."
+
+msgid "Create and Collaborate"
+msgstr "Cruthaigh agus Comhoibriú"
+
+msgid "Start Dreaming"
+msgstr "Chomhlíonadh Dream ANOIS"
+
+msgid "or"
+msgstr "nó"
+
+msgid "Our mission:"
+msgstr "Ár misean:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "A aontú daoine cruthaitheacha agus gníomhach chun smaointe a chur i bhfeidhm ó simplí agus ar an éileamh le dochreidte agus iontach, is féidir a mhúnlú ár dtodhchaí."
+
+msgid "What is Konstruktor?"
+msgstr "Cad é Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - Is cuid dár saol fíor, a éascaíonn go mór agus simpliú"
+
+msgid "*business processes"
+msgstr "* próisis ghnó"
+
+msgid "*materialization of creative ideas"
+msgstr "* materialization smaointe cruthaitheacha"
+
+msgid "*constructive cooperation"
+msgstr "* Comhar cuiditheach"
+
+msgid "Make your dream!"
+msgstr "Déan do bhrionglóid!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "POF"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Comhairleoir Speisialta"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Bainisteoir, Forbairt Bogearraí"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Dlíodóir sinsearach"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Dearthóir"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Trí chliceáil ar an \"Next\" a bhrú, tá tú ag glacadh agus a aontú leis an ár Téarmaí agus Coinníollacha, agus má tá tú ag aithint gur léigh tú ár Polasaí Príobháideachta."
+
+msgid "Incorrect login or password."
+msgstr "Logáil isteach mícheart nó focal faire."
+
+msgid "Password must be at least 6 characters"
+msgstr "Ní mór Pasfhocal bheith ar a laghad 6 litreacha"
+
+msgid "January"
+msgstr "Eanáir"
+
+msgid "February"
+msgstr "Feabhra"
+
+msgid "March"
+msgstr "Márta"
+
+msgid "April"
+msgstr "Aibreán"
+
+msgid "May"
+msgstr "Bealtaine"
+
+msgid "June"
+msgstr "Meitheamh"
+
+msgid "July"
+msgstr "Iúil"
+
+msgid "August"
+msgstr "Lúnasa"
+
+msgid "September"
+msgstr "Meán Fómhair"
+
+msgid "October"
+msgstr "Deireadh Fómhair"
+
+msgid "November"
+msgstr "Samhain"
+
+msgid "December"
+msgstr "Nollaig"
+
+msgid "Chat"
+msgstr "Comhrá"
+
+msgid "Files"
+msgstr "Comhaid"
+
+msgid "Statistic"
+msgstr "Staidrimh"
+
+msgid "Support"
+msgstr "Tacaíocht"
+
+msgid "Exit"
+msgstr "Scoir"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "An Bhealarúis"
+
+msgid "Marketing specialist"
+msgstr "Speisialaithe margaíochta"
+
+msgid "Administrator"
+msgstr "Riarthóir"
+
+msgid "Shared with me"
+msgstr "Roinnte liom"
+
+msgid "File Sharing"
+msgstr "Roinnt Comhad"
+
+msgid "Provide access by link"
+msgstr "Rochtain a chur ar fáil nasc a"
+
+msgid "Provide Individual access"
+msgstr "Rochtain Aonair"
+
+msgid "Provide edit access"
+msgstr "Rochtain eagar"
+
+msgid "Share"
+msgstr "Comhroinn"
+
+msgid "Files will be available only for selected users"
+msgstr "Beidh Comhaid a bheith ar fáil ach amháin le haghaidh úsáideoirí roghnaithe"
+
+msgid "With this link everyone can access to the files"
+msgstr "Leis an nascann sé seo is féidir gach duine rochtain a fháil ar na comhaid"
+
+msgid "Search users, groups, articles..."
+msgstr "Úsáideoirí cuardaigh, grúpaí, earraí ..."
+
+msgid "My Group"
+msgstr "Mo Grúpa"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Táimid ag"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Níl an comhad roghnaithe"
+
+msgid "Set aside"
+msgstr "Socraigh ar leataobh"
+
+msgid "Event time"
+msgstr "Am imeacht"
+
+msgid "Work"
+msgstr "Obair"
+
+msgid "Personal"
+msgstr "Pearsanta"
+
+msgid "Time spent for work:"
+msgstr "Am a chaitear le haghaidh oibre:"
+
+msgid "Personal time spent:"
+msgstr "Am pearsanta a chaitear:"
+
+msgid "Present"
+msgstr "I láthair"
+
+msgid "Common"
+msgstr "Common"
+
+msgid "Sport"
+msgstr "Spórt"
+
+msgid "Entertainment"
+msgstr "Siamsaíocht"
+
+msgid "Select:"
+msgstr "Roghnaigh:"
+
+msgid "Invalid username or password."
+msgstr "Ainm úsáideora nó ar do phasfhocal neamhbhailí."
+
+msgid "Try again."
+msgstr "Déan iarracht arís."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "CAD TÁ TÚ LEASMHARA?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Roghnaigh ar a laghad 2 scileanna: Tá 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Roghnaigh ar a laghad 2 scileanna: Tá 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Roghnaigh ar a laghad 2 scileanna: iarsmaí"
+
+msgid "Active life"
+msgstr "Saol gníomhach"
+
+msgid "Arts and culture"
+msgstr "Na healaíona agus an cultúr"
+
+msgid "Business"
+msgstr "Gnó"
+
+msgid "Cinema"
+msgstr "Pictiúrlann"
+
+msgid "Communications"
+msgstr "Cumarsáid"
+
+msgid "Construction and repair"
+msgstr "Tógáil agus deisiú"
+
+msgid "Cooking"
+msgstr "Cócaireacht"
+
+msgid "Education"
+msgstr "Oideachas"
+
+msgid "Electronics"
+msgstr "Leictreonaic"
+
+msgid "Finances"
+msgstr "Airgeadas"
+
+msgid "Graphics and design"
+msgstr "Grafaic agus dearadh"
+
+msgid "Health"
+msgstr "Sláinte"
+
+msgid "Home and family"
+msgstr "Bhaile agus teaghlaigh"
+
+msgid "Humor"
+msgstr "Humor"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Tionscal"
+
+msgid "Insurance"
+msgstr "Árachas"
+
+msgid "Literature"
+msgstr "Litríocht"
+
+msgid "Mobile communications and internet"
+msgstr "Cumarsáide soghluaiste agus ar an idirlíon"
+
+msgid "News and Media"
+msgstr "Nuacht agus Meáin"
+
+msgid "Pets"
+msgstr "Peataí"
+
+msgid "Products and service"
+msgstr "Táirgí agus seirbhísí"
+
+msgid "Real Estate"
+msgstr "Real Estate"
+
+msgid "Religion"
+msgstr "Creideamh"
+
+msgid "Science and techs"
+msgstr "Eolaíocht agus techs"
+
+msgid "Security"
+msgstr "Slándáil"
+
+msgid "Society"
+msgstr "Sochaí"
+
+msgid "Television"
+msgstr "Teilifís"
+
+msgid "Travel"
+msgstr "Taisteal"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "An Airgintín"
+
+msgid "Australia"
+msgstr "An Astráil"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Belarus"
+msgstr "An Bhealarúis"
+
+msgid "Belgium"
+msgstr "An Bheilg"
+
+msgid "Brazil"
+msgstr "An Bhrasaíl"
+
+msgid "Bulgaria"
+msgstr "An bhulgáir"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Danmhairg"
+
+msgid "France"
+msgstr "An Fhrainc"
+
+msgid "Germany"
+msgstr "An Ghearmáin"
+
+msgid "Greece"
+msgstr "An Ghréig"
+
+msgid "Hungary"
+msgstr "An Ungáir"
+
+msgid "Iceland"
+msgstr "An Íoslainn"
+
+msgid "Ireland"
+msgstr "Éire"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "An Iodáil"
+
+msgid "Japan"
+msgstr "An tSeapáin"
+
+msgid "Mexico"
+msgstr "Meicsiceo"
+
+msgid "Netherlands"
+msgstr "An Ísiltír"
+
+msgid "New Zealand"
+msgstr "An Nua-Shéalainn"
+
+msgid "Norway"
+msgstr "Iorua"
+
+msgid "Poland"
+msgstr "An Pholainn"
+
+msgid "Portugal"
+msgstr "An Phortaingéil"
+
+msgid "Russia"
+msgstr "An Rúis"
+
+msgid "Slovakia"
+msgstr "An tSlóvaic"
+
+msgid "South Africa"
+msgstr "an Afraic Theas"
+
+msgid "South Korea"
+msgstr "An Chóiré Theas"
+
+msgid "Spain"
+msgstr "Spain"
+
+msgid "Sweden"
+msgstr "An tSualainn"
+
+msgid "Switzerland"
+msgstr "An Eilvéis"
+
+msgid "Turkey"
+msgstr "Turcaí"
+
+msgid "Ukraine"
+msgstr "An Úcráin"
+
+msgid "United Arab Emirates"
+msgstr "Aontas na nÉimíríochtaí Arabacha"
+
+msgid "United Kingdom"
+msgstr "an Ríocht Aontaithe"
+
+msgid "United States"
+msgstr "Stáit Aontaithe"
+
+msgid "achievements"
+msgstr "éachtaí"
+
+msgid "Investment management"
+msgstr "Bainistíocht infheistíochta"
+
+msgid "Select..."
+msgstr "Roghnaigh ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "BAINISTÍOCHT INFHEISTÍOCHTA"
+
+msgid "Investors list"
+msgstr "Infheisteoirí liosta"
+
+msgid "My investments"
+msgstr "Mo infheistíochtaí"
+
+msgid "Create date"
+msgstr "Cruthaigh dáta"
+
+msgid "Author of the project"
+msgstr "Údar an tionscadail"
+
+msgid "Date and time"
+msgstr "Dáta agus am"
+
+msgid "Status"
+msgstr "Stádas"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Apply"
+msgstr "Cuir iarratas isteach"
+
+msgid "Kazakhstan"
+msgstr "Chasacstáin"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Cong"
+
+msgid "Science"
+msgstr "Eolaíocht"
+
+msgid "Architecture"
+msgstr "Ailtireacht"
+
+msgid "Photography"
+msgstr "Grianghrafadóireacht"
+
+msgid "Designer"
+msgstr "Dearthóir"
+
+msgid "IT specialist"
+msgstr "Speisialtóireachta TF"
+
+msgid "Agronomist"
+msgstr "Agronomist"
+
+msgid "Architect"
+msgstr "Ailtire"
+
+msgid "Lawyer"
+msgstr "Dlíodóir"
+
+msgid "Writer"
+msgstr "Writer"
+
+msgid "Doctor"
+msgstr "Dochtúir"
+
+msgid "Scientist"
+msgstr "Eolaí"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Múinteoir"
+
+msgid "Cook"
+msgstr "Cook"
+
+msgid "Artist"
+msgstr "Artist"
+
+msgid "Photographer"
+msgstr "Grianghrafadóir"
+
+msgid "Ecologist"
+msgstr "Éiceolaí"
+
+msgid "Economist"
+msgstr "Eacnamaí"
+
+msgid "Logistician"
+msgstr "Lóistíochtóir"
+
+msgid "Journalist"
+msgstr "Iriseoir"
+
+msgid "Builder"
+msgstr "Tógálaí"
+
+msgid "These users may be interesting for you"
+msgstr "D\'fhéadfadh na húsáideoirí a bheith suimiúil ar do shon"
+
+msgid "These articles may be interesting for you"
+msgstr "Is féidir na hairteagail a bheith suimiúil ar do shon"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Chuaigh tú an grúpa seo mar Аdministrator"
+
+msgid "articles written."
+msgstr "ailt scríofa."
+
+msgid "groups created."
+msgstr "na meithleacha arna gcruthú."
+
+msgid "Creation"
+msgstr "Cruthú"
+
+msgid "Build a dream"
+msgstr "Tóg aisling"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Léigh níos mó altanna suimiúla - téigh clárú saor in aisce"
+

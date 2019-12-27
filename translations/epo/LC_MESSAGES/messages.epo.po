@@ -1,0 +1,3344 @@
+# esperanta (Эсперанто) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: esperanta (Эсперанто) <support@konstruktor.com>\n"
+"Language: esperanta (Эсперанто)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "uzantonomo"
+
+msgid "Invalid username or password, try again"
+msgstr "Neĝusta salutnomo aŭ pasvorto . Provu denove."
+
+msgid "Settings"
+msgstr "agordoj"
+
+msgid "Home"
+msgstr "Hejmo"
+
+msgid "You must log in to access this page"
+msgstr "Vi devas ensaluti por atingi la paĝon"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Via seanco estis eksvalidiĝis . Bonvolu , relogin plenumi tiun agon"
+
+msgid "Save"
+msgstr "Konservi"
+
+msgid "Head Office"
+msgstr "kapo Oficejo"
+
+msgid "Address"
+msgstr "adreso"
+
+msgid "Back"
+msgstr "reen"
+
+msgid "Apply"
+msgstr "apliki"
+
+msgid "Upload files…"
+msgstr "Alŝuti dosierojn ..."
+
+msgid "Set as main"
+msgstr "Fiksi kiel ĉefa"
+
+msgid "Delete"
+msgstr "Forigi"
+
+msgid "Original image"
+msgstr "originala bildo"
+
+msgid "Uploaded"
+msgstr "Uploaded"
+
+msgid "File name"
+msgstr "Dosiera nomo"
+
+msgid "File size"
+msgstr "Dosiera grandeco"
+
+msgid "Resolution"
+msgstr "rezolucio"
+
+msgid "Enlarge"
+msgstr "Pligrandigu"
+
+msgid "Links"
+msgstr "ligiloj"
+
+msgid "Original size"
+msgstr "originala grandeco"
+
+msgid "For editor"
+msgstr "por redaktoro"
+
+msgid "Resize"
+msgstr "Regrandigi"
+
+msgid "Width"
+msgstr "larĝeco"
+
+msgid "Height"
+msgstr "alteco"
+
+msgid "Media URL"
+msgstr "amaskomunikiloj URL"
+
+msgid "Add record"
+msgstr "Aldoni rekordo"
+
+msgid "Show filter settings"
+msgstr "Montri filtrilo agordojn"
+
+msgid "Edit record"
+msgstr "Redakti rekordo"
+
+msgid "Delete record"
+msgstr "Forigi rekordo"
+
+msgid "Delete checked records"
+msgstr "Forigi kontrolis rekordojn"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Password"
+msgstr "Pasvorto"
+
+msgid "Remember me"
+msgstr "Memoru min"
+
+msgid "Login"
+msgstr "Salutnomo"
+
+msgid "Clean image cache"
+msgstr "Clean bildo kaŝmemoro"
+
+msgid "Processing query..."
+msgstr "Procesorado informpeto ..."
+
+msgid "CMS Development"
+msgstr "CMS Disvolviĝo"
+
+msgid "Admin Home Page"
+msgstr "Admin Ĉefpaĝo"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Malferma Hejmpaĝo de antaŭkovrilaj fino en nova langeto"
+
+msgid "Go to Site"
+msgstr "Iru al Site"
+
+msgid "Log out"
+msgstr "elsaluti"
+
+msgid "Send"
+msgstr "Sendu"
+
+msgid "General"
+msgstr "Ĝenerala"
+
+msgid "Title"
+msgstr "titolo"
+
+msgid "Teaser"
+msgstr "teaser"
+
+msgid "Published"
+msgstr "eldonita"
+
+msgid "Featured"
+msgstr "Featured"
+
+msgid "Active"
+msgstr "aktivaj"
+
+msgid "Field is mandatory"
+msgstr "Kampo estas deviga"
+
+msgid "Sort Order"
+msgstr "Ordigi Ordo"
+
+msgid "Upload"
+msgstr "Alŝuti"
+
+msgid "Loading..."
+msgstr "Ŝarĝante ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "marto"
+
+msgid "Apr"
+msgstr "aprilo"
+
+msgid "May"
+msgstr "majo"
+
+msgid "Jun"
+msgstr "junio"
+
+msgid "Jul"
+msgstr "julio"
+
+msgid "Aug"
+msgstr "aŭgusto"
+
+msgid "Sep"
+msgstr "septembro"
+
+msgid "Oct"
+msgstr "oktobro"
+
+msgid "Nov"
+msgstr "novembro"
+
+msgid "Dec"
+msgstr "decembro"
+
+msgid "Product already exists in the order"
+msgstr "Produkto jam ekzistas en la ordo"
+
+msgid "Product does not exist"
+msgstr "Produkto ne ekzistas"
+
+msgid "Incorrect request"
+msgstr "malĝusta peto"
+
+msgid "Products"
+msgstr "produktoj"
+
+msgid "Product types"
+msgstr "produkto tipoj"
+
+msgid "Contractors"
+msgstr "entreprenistoj"
+
+msgid "Contractor"
+msgstr "entreprenisto"
+
+msgid "Orders"
+msgstr "ordoj"
+
+msgid "FAQ"
+msgstr "Oftaj Demandoj"
+
+msgid "New order"
+msgstr "nova ordo"
+
+msgid "My orders"
+msgstr "miaj ordonoj"
+
+msgid "Recharge balance"
+msgstr "Recharge ekvilibro"
+
+msgid "Administrator"
+msgstr "administrator"
+
+msgid "Incorrect event ID"
+msgstr "Malĝusta okazaĵo ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "redakti entreprenisto"
+
+msgid "Create contractor"
+msgstr "krei entreprenisto"
+
+msgid "Edit question"
+msgstr "redakti demando"
+
+msgid "Create question"
+msgstr "krei demando"
+
+msgid "Edit order"
+msgstr "redakti ordon"
+
+msgid "Create order"
+msgstr "krei ordon"
+
+msgid "Edit product"
+msgstr "redakti produkto"
+
+msgid "Create product"
+msgstr "krei produkto"
+
+msgid "Edit product type"
+msgstr "Redakti produkto tipo"
+
+msgid "Create product type"
+msgstr "Krei produkto tipo"
+
+msgid "You have received a file"
+msgstr "Vi ricevis paĝo"
+
+msgid "You received a file from"
+msgstr "Vi ricevis dosiero de"
+
+msgid "File has been uploaded"
+msgstr "Dosiero estis alŝutita"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "minimuma kvanto"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "eroj"
+
+msgid "Remove"
+msgstr "forigi"
+
+msgid "Contact person"
+msgstr "kontaktulo"
+
+msgid "Email"
+msgstr "retpoŝto"
+
+msgid "Contractor phone"
+msgstr "entreprenisto telefono"
+
+msgid "Contractor name"
+msgstr "entreprenisto nomon"
+
+msgid "Contractor details"
+msgstr "entreprenisto detaloj"
+
+msgid "Order ID"
+msgstr "ordo ID"
+
+msgid "Sum"
+msgstr "sum"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Elektu la taŭga pago sistemo por lardi via ekvilibro"
+
+msgid "Recharge amount"
+msgstr "Recharge kvanto"
+
+msgid "Paid"
+msgstr "Paid"
+
+msgid "Shipped"
+msgstr "senditaj"
+
+msgid "- No products in this order -"
+msgstr "- Neniu produktojn en tiu ordo -"
+
+msgid "month"
+msgstr "monato"
+
+msgid "No user found"
+msgstr "Neniu uzanto trovita"
+
+msgid "Achievement"
+msgstr "atingo"
+
+msgid "Confirmed accomplishments"
+msgstr "konfirmitaj atingoj"
+
+msgid "Remove achievement"
+msgstr "forigi atingo"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "telefono"
+
+msgid "Site URL and email"
+msgstr "Site URL kaj retpoŝto"
+
+msgid "Remove address"
+msgstr "forigi adreso"
+
+msgid "Members"
+msgstr "membroj"
+
+msgid "Requires a payment"
+msgstr "Postulas pagon"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Ready"
+msgstr "lertaj"
+
+msgid "Find user..."
+msgstr "Trovu uzanto ..."
+
+msgid "Order it"
+msgstr "arangxadu"
+
+msgid "Find group..."
+msgstr "Trovu grupo ..."
+
+msgid "Find user or community..."
+msgstr "Trovu uzanto aŭ komunumo ..."
+
+msgid "No item found"
+msgstr "Neniu ero trovita"
+
+msgid "years"
+msgstr "jaroj"
+
+msgid "Send message"
+msgstr "Sendu mesaĝon"
+
+msgid "Message"
+msgstr "mesaĝo"
+
+msgid "To send message press Enter"
+msgstr "Por sendi mesaĝon gazetaro ENTER"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Por sendi mesaĝon gazetaro CTRL + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Procesorado dosiero (j ) ..."
+
+msgid "Group settings"
+msgstr "grupo agordojn"
+
+msgid "Create group"
+msgstr "krei grupo"
+
+msgid "Group has been successfully saved"
+msgstr "Grupo sukcese savita"
+
+msgid "Group title"
+msgstr "grupo titolon"
+
+msgid "Group video"
+msgstr "grupo video"
+
+msgid "Description"
+msgstr "priskribo"
+
+msgid "Your role in group"
+msgstr "Via rolo en grupo"
+
+msgid "Role"
+msgstr "rolo"
+
+msgid "Photo or video gallery"
+msgstr "Foto aŭ video galerio"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Alŝuti video"
+
+msgid "Add group address"
+msgstr "Aldoni grupo adreso"
+
+msgid "Group articles"
+msgstr "grupo artikoloj"
+
+msgid "No addresses yet"
+msgstr "Neniu adresoj ankoraŭ"
+
+msgid "Add group achievement"
+msgstr "Aldoni grupo atingo"
+
+msgid "No achivements yet"
+msgstr "Neniu achivements ankoraŭ"
+
+msgid "Are you sure to delete this user"
+msgstr "Ĉu vi certas forigi tiun uzanton"
+
+msgid "Add member"
+msgstr "Aldoni membro"
+
+msgid "Are you sure to delete this record?"
+msgstr "Ĉu vi certas forigi tiun rekordon ?"
+
+msgid "Join this group"
+msgstr "Aliĝu ĉi grupo"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Via invito estis sendita al la grupo administranto"
+
+msgid "All addresses"
+msgstr "Ĉiuj adresoj"
+
+msgid "Collapse"
+msgstr "kolapso"
+
+msgid "Achievements"
+msgstr "atingoj"
+
+msgid "Show more"
+msgstr "Montri pli"
+
+msgid "Team"
+msgstr "Teamo"
+
+msgid "Projects"
+msgstr "projektoj"
+
+msgid "New project"
+msgstr "nova projekto"
+
+msgid "Project has not been created yet"
+msgstr "Projekto ne estis kreita ankoraŭ"
+
+msgid "Messanger"
+msgstr "Messanger"
+
+msgid "Balance"
+msgstr "ekvilibro"
+
+msgid "Main page"
+msgstr "ĉefa paĝo"
+
+msgid "Upload image"
+msgstr "Alŝuti dosieron"
+
+msgid "My time"
+msgstr "mia tempo"
+
+msgid "Day"
+msgstr "tago"
+
+msgid "Week"
+msgstr "semajno"
+
+msgid "Project settings"
+msgstr "projekto agordojn"
+
+msgid "Create project"
+msgstr "krei projekto"
+
+msgid "Project has been successfully saved"
+msgstr "Projekto estas sukcese konservita"
+
+msgid "Project name"
+msgstr "projekto nomon"
+
+msgid "Deadline"
+msgstr "Findato"
+
+msgid "Close"
+msgstr "Fermi"
+
+msgid "Manager"
+msgstr "direktisto"
+
+msgid "Assigned to"
+msgstr "atribuita al"
+
+msgid "Discussion"
+msgstr "diskutejo"
+
+msgid "Task was created"
+msgstr "Tasko estis kreita"
+
+msgid "Task was closed"
+msgstr "Tasko estis fermita"
+
+msgid "Go to Group"
+msgstr "Iru al Grupo"
+
+msgid "Closed"
+msgstr "fermita"
+
+msgid "Last updates"
+msgstr "lastaj ĝisdatigoj"
+
+msgid "Project is closed"
+msgstr "Projekto estas fermita"
+
+msgid "No open tasks"
+msgstr "Neniu malferma taskoj"
+
+msgid "New task"
+msgstr "nova tasko"
+
+msgid "Closed tasks"
+msgstr "fermita taskoj"
+
+msgid "Add subproject"
+msgstr "Aldoni subprojekto"
+
+msgid "Add task"
+msgstr "Aldoni tasko"
+
+msgid "Sun"
+msgstr "dimanĉo"
+
+msgid "Mon"
+msgstr "lundo"
+
+msgid "Tue"
+msgstr "mardo"
+
+msgid "Wed"
+msgstr "merkredo"
+
+msgid "Thur"
+msgstr "ĵaŭdo"
+
+msgid "Fri"
+msgstr "vendredo"
+
+msgid "Sat"
+msgstr "sabato"
+
+msgid "Event title"
+msgstr "eventon titolo"
+
+msgid "Event description"
+msgstr "eventon priskribo"
+
+msgid "I registered on this site"
+msgstr "Mi registris en tiu ejo"
+
+msgid "Last created groups"
+msgstr "Lasta kreita grupoj"
+
+msgid "You joined this group as"
+msgstr "Vi aliĝis tiun grupon kiel"
+
+msgid "You received a request to join the group"
+msgstr "Vi ricevis peton aliĝi al la grupo"
+
+msgid "Updated site"
+msgstr "ĝisdatigita ejo"
+
+msgid "Site is under construction"
+msgstr "Retejo estas sub konstruo"
+
+msgid "Last registered users"
+msgstr "Lasta registritaj uzantoj"
+
+msgid "User settings"
+msgstr "uzanto agordojn"
+
+msgid "Technical support"
+msgstr "teknika subteno"
+
+msgid "Change email"
+msgstr "ŝanĝo retpoŝto"
+
+msgid "Change password"
+msgstr "Ŝanĝi pasvorton"
+
+msgid "User has been successfully saved"
+msgstr "Uzanto estis sukcese konservita"
+
+msgid "Full name"
+msgstr "plena nomo"
+
+msgid "My video"
+msgstr "mia video"
+
+msgid "Skills"
+msgstr "kapabloj"
+
+msgid "Birthday"
+msgstr "naskiĝtago"
+
+msgid "Country of residence"
+msgstr "Loĝlando"
+
+msgid "Country"
+msgstr "Lando"
+
+msgid "Zip Code"
+msgstr "poŝtkodo"
+
+msgid "City/town of residence"
+msgstr "Urbo / urbeto de restadejo"
+
+msgid "University/college"
+msgstr "Universitato / kolegio"
+
+msgid "University/college photo"
+msgstr "Universitato / kolegio foto"
+
+msgid "Add user\'s accomplishments"
+msgstr "Aldoni uzanto plenumoj"
+
+msgid "Interface language"
+msgstr "lingvo de interfaco"
+
+msgid "How other people see this page"
+msgstr "Kiel aliaj homoj vidas la paĝon"
+
+msgid "Video with me"
+msgstr "Video kun mi"
+
+msgid "Groups"
+msgstr "grupoj"
+
+msgid "Registered today"
+msgstr "registritaj hodiaŭ"
+
+msgid "Qty"
+msgstr "Qty"
+
+msgid "No registered users yet"
+msgstr "Neniu registritaj uzantoj tamen"
+
+msgid "Total"
+msgstr "Sumo"
+
+msgid "Registered total"
+msgstr "registritaj entute"
+
+msgid "You received a file"
+msgstr "Vi ricevis dosieron"
+
+msgid "You were invited into this room"
+msgstr "Vi estis invititaj en tiun ĉambron"
+
+msgid "Request is being processed"
+msgstr "Peto estas procesitaj"
+
+msgid "Fax"
+msgstr "fakso"
+
+msgid "Messenger"
+msgstr "mesaĝisto"
+
+msgid "New subproject"
+msgstr "nova subprojekto"
+
+msgid "messages written."
+msgstr "skribitaj mesaĝoj ."
+
+msgid "projects created based on groups."
+msgstr "projektoj kreita surbaze de grupoj ."
+
+msgid "users registered on website."
+msgstr "uzantoj registritaj sur retejo ."
+
+msgid "New email"
+msgstr "nova poŝto"
+
+msgid "Confirm email"
+msgstr "konfirmu retpoŝto"
+
+msgid "New password"
+msgstr "nova pasvorto"
+
+msgid "Confirm password"
+msgstr "konfirmu pasvorton"
+
+msgid "Occupation"
+msgstr "Speciality"
+
+msgid "Timezone"
+msgstr "horzono"
+
+msgid "Answer"
+msgstr "respondo"
+
+msgid "Articles"
+msgstr "artikoloj"
+
+msgid "Article"
+msgstr "artikolo"
+
+msgid "Video-article"
+msgstr "Video - artikolo"
+
+msgid "Find article..."
+msgstr "Trovu artikolo ..."
+
+msgid "Politics"
+msgstr "politiko"
+
+msgid "Economics"
+msgstr "ekonomiko"
+
+msgid "Community"
+msgstr "komunumo"
+
+msgid "Culture"
+msgstr "kulturo"
+
+msgid "Sports"
+msgstr "sportoj"
+
+msgid "Hi-tech"
+msgstr "Hi - tech"
+
+msgid "Cars"
+msgstr "aŭtoj"
+
+msgid "Fashion"
+msgstr "modo"
+
+msgid "Games"
+msgstr "ludoj"
+
+msgid "Other"
+msgstr "aliaj"
+
+msgid "Invalid mediafile"
+msgstr "Nevalida mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Neniu artikolo en tiu kategorio ankoraŭ"
+
+msgid "Back to profile"
+msgstr "Reen al profilo"
+
+msgid "View article"
+msgstr "Rigardi artikolo"
+
+msgid "Edit article"
+msgstr "Redaktu artikolo"
+
+msgid "Create article"
+msgstr "krei artikolo"
+
+msgid "Article title"
+msgstr "artikolo titolon"
+
+msgid "Article section"
+msgstr "artikolo sekcio"
+
+msgid "Choose image"
+msgstr "Elektu bildon"
+
+msgid "Save and upload"
+msgstr "Konservi kaj alŝuti"
+
+msgid "Show more..."
+msgstr "Montri pli ..."
+
+msgid "Create"
+msgstr "krei"
+
+msgid "Edit"
+msgstr "Redaktu"
+
+msgid "Project"
+msgstr "projekto"
+
+msgid "Team"
+msgstr "Teamo"
+
+msgid "A new article was published"
+msgstr "Nova artikolo estis publikigita"
+
+msgid "You joined this project"
+msgstr "Vi aliĝis ĉi projekto"
+
+msgid "Enter your information in the User settings"
+msgstr "Entajpu vian informon en la Uzanto agordojn"
+
+msgid "Communities"
+msgstr "komunumoj"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Video prezento de mia plenumoj"
+
+msgid "My articles"
+msgstr "miaj artikoloj"
+
+msgid "User"
+msgstr "uzanto"
+
+msgid "Users"
+msgstr "uzantoj"
+
+msgid "Add new list"
+msgstr "Aldoni novan listo"
+
+msgid "List title"
+msgstr "listo titolon"
+
+msgid "Add"
+msgstr "Aldoni"
+
+msgid "Add to favorites"
+msgstr "Aldoni al miaj plej ŝatataj"
+
+msgid "Delete from favorites"
+msgstr "Forigi de favoritos"
+
+msgid "Select list"
+msgstr "unuaranga listo"
+
+msgid "Subscriptions"
+msgstr "abonoj"
+
+msgid "Subscribe"
+msgstr "aboni"
+
+msgid "Unsubscribe"
+msgstr "malaboni"
+
+msgid "General list"
+msgstr "ĝenerala listo"
+
+msgid "No users in this list"
+msgstr "Neniu uzantoj en ĉi tiu listo"
+
+msgid "Publish"
+msgstr "Publikigu"
+
+msgid "Unpublish"
+msgstr "Malpublikigi"
+
+msgid "Add user"
+msgstr "Aldoni uzanto"
+
+msgid "Create document"
+msgstr "krei dokumenton"
+
+msgid "Edit document"
+msgstr "Redaktu dokumenton"
+
+msgid "View"
+msgstr "Vidi"
+
+msgid "Document title"
+msgstr "Dokumento titolon"
+
+msgid "Find document..."
+msgstr "Trovu dokumenton ..."
+
+msgid "Share your thoughts"
+msgstr "Dividi viajn pensojn"
+
+msgid "Leave your comment"
+msgstr "Lasu vian komenton"
+
+msgid "Accept"
+msgstr "Accept"
+
+msgid "Decline"
+msgstr "malpliiĝo"
+
+msgid "Add article"
+msgstr "Aldoni artikolo"
+
+msgid "Link to verified accomplishments"
+msgstr "Ligilo al kontrolita plenumoj"
+
+msgid "No articles here yet..."
+msgstr "Neniu artikolojn tie ankoraŭ"
+
+msgid "Find file or folder..."
+msgstr "Trovu dosiero aŭ dosierujo ..."
+
+msgid "Sort"
+msgstr "Ordigi"
+
+msgid "By name"
+msgstr "laŭnome"
+
+msgid "By date"
+msgstr "laŭ dato"
+
+msgid "By updated date"
+msgstr "Per ĝisdatigita daton"
+
+msgid "By size"
+msgstr "per grandeco"
+
+msgid "By type"
+msgstr "Laŭ tipo"
+
+msgid "Move"
+msgstr "Move"
+
+msgid "File Manager"
+msgstr "dosieradministrilo"
+
+msgid "Share link"
+msgstr "Kunhavigi ligilo"
+
+msgid "Responsible"
+msgstr "priresponda"
+
+msgid "Performer"
+msgstr "prezentisto"
+
+msgid "New Folder"
+msgstr "nova Dosierujo"
+
+msgid "Folder name"
+msgstr "dosierujo nomon"
+
+msgid "By default"
+msgstr "defaŭlte"
+
+msgid "Back to group"
+msgstr "Reen al grupo"
+
+msgid "year(s)"
+msgstr "jaro (j)"
+
+msgid "January"
+msgstr "januaro"
+
+msgid "February"
+msgstr "februaro"
+
+msgid "March"
+msgstr "marto"
+
+msgid "April"
+msgstr "aprilo"
+
+msgid "May"
+msgstr "majo"
+
+msgid "June"
+msgstr "junio"
+
+msgid "July"
+msgstr "julio"
+
+msgid "August"
+msgstr "aŭgusto"
+
+msgid "September"
+msgstr "septembro"
+
+msgid "October"
+msgstr "oktobro"
+
+msgid "November"
+msgstr "novembro"
+
+msgid "December"
+msgstr "decembro"
+
+msgid "Password Reminder"
+msgstr "Pasvorto Rememorigilo"
+
+msgid "Log In"
+msgstr "Ensaluti"
+
+msgid "Sign in"
+msgstr "Ensaluti"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "First name"
+msgstr "antaŭnomo"
+
+msgid "Last name"
+msgstr "Familia nomo"
+
+msgid "I agree with rules"
+msgstr "Mi konsentas kun reguloj"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Konfirma retpoŝto estis sendita al via retpoŝta adreso."
+
+msgid "Thanks"
+msgstr "danke"
+
+msgid "Password must be at least 6 characters"
+msgstr "Pasvorto devas esti almenaŭ 6 karakteroj"
+
+msgid "Creative Environment"
+msgstr "kreiva medio"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Vi devas esti almenaŭ dek tri jaroj de aĝo por uzi tiun servon"
+
+msgid "Order status"
+msgstr "ordo statuso"
+
+msgid "Processing order"
+msgstr "Procesorado ordon"
+
+msgid "Requires a payment"
+msgstr "Postulas pagon"
+
+msgid "Shipping"
+msgstr "Sendo"
+
+msgid "Ready"
+msgstr "preta"
+
+msgid "Thank you for your payment"
+msgstr "Dankon por via pago"
+
+msgid "Your payment has been cancelled"
+msgstr "Via pago estis nuligita"
+
+msgid "page"
+msgstr "paĝo"
+
+msgid "Rent period"
+msgstr "luo periodo"
+
+msgid "Total, month"
+msgstr "Entute monato"
+
+msgid "Order items"
+msgstr "ordo erojn"
+
+msgid "No records found"
+msgstr "Neniu rekordojn trovita"
+
+msgid "User with this email is already exist"
+msgstr "Uzanto kun ĉi retpoŝto estas jam ekzistas"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Dosierujo aŭ dosieron kun tia nomo jam ekzistas en celloka teko"
+
+msgid "Minimal quantity"
+msgstr "minimuma kvanto"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "print kopioj"
+
+msgid "Terms of Use"
+msgstr "Kondiĉoj de uzado"
+
+msgid "Privacy Policy"
+msgstr "privateca Politiko"
+
+msgid "Find project..."
+msgstr "Trovu projekto ..."
+
+msgid "New Project"
+msgstr "nova Projekto"
+
+msgid "Accounts"
+msgstr "kontoj"
+
+msgid "Operations"
+msgstr "operacioj"
+
+msgid "All accounts"
+msgstr "ĉiuj kontoj"
+
+msgid "All categories"
+msgstr "ĉiuj kategorioj"
+
+msgid "Expense"
+msgstr "elspezon"
+
+msgid "Income"
+msgstr "Enspezoj"
+
+msgid "Transfer"
+msgstr "translokigo"
+
+msgid "Expense"
+msgstr "elspezon"
+
+msgid "income"
+msgstr "enspezoj"
+
+msgid "tax"
+msgstr "impost"
+
+msgid "percent"
+msgstr "procentoj"
+
+msgid "transfer"
+msgstr "transporto"
+
+msgid "Make operation"
+msgstr "faru operacio"
+
+msgid "Select date"
+msgstr "Elektu daton"
+
+msgid "Select account"
+msgstr "Elektu konton"
+
+msgid "Month"
+msgstr "monato"
+
+msgid "Quarter"
+msgstr "kvarono"
+
+msgid "Year"
+msgstr "jaro"
+
+msgid "From"
+msgstr "de"
+
+msgid "To"
+msgstr "por"
+
+msgid "Expense amount"
+msgstr "koste kvanto"
+
+msgid "Categories"
+msgstr "kategorioj"
+
+msgid "Comments"
+msgstr "komentoj"
+
+msgid "Income amount"
+msgstr "Enspezoj kvanto"
+
+msgid "Transfer amount"
+msgstr "translokigo kvanto"
+
+msgid "From account"
+msgstr "el konton"
+
+msgid "To account"
+msgstr "klarigebla"
+
+msgid "New Account"
+msgstr "nova konto"
+
+msgid "New Category"
+msgstr "novaj Kategorio"
+
+msgid "All"
+msgstr "ĉiuj"
+
+msgid "Name"
+msgstr "nomo"
+
+msgid "Enter category name"
+msgstr "Entajpu kategorio nomon"
+
+msgid "Select type"
+msgstr "Elektu tipon"
+
+msgid "Credit card"
+msgstr "Kreditkarto"
+
+msgid "Debit card"
+msgstr "egreso karto"
+
+msgid "Bank account"
+msgstr "bankokonto"
+
+msgid "Cash"
+msgstr "Cash"
+
+msgid "Balance is empty"
+msgstr "Ekvilibro estas malplena"
+
+msgid "Statistic is empty"
+msgstr "Statistiko estas malplena"
+
+msgid "Regular payments"
+msgstr "regulaj pagoj"
+
+msgid "Are you sure ?"
+msgstr "Ĉu vi certas ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Ĉu vi certas fermi tiun projekton?"
+
+msgid "Project was deleted successfully"
+msgstr "Projekto estis forigita sukcese"
+
+msgid "Select currency"
+msgstr "Elektu valuton"
+
+msgid "Account"
+msgstr "Konta"
+
+msgid "Orders list"
+msgstr "ordoj listo"
+
+msgid "Order payments"
+msgstr "ordo pagoj"
+
+msgid "View order"
+msgstr "Vidi ordon"
+
+msgid "No response from Printer API"
+msgstr "Neniu respondo de API Printer"
+
+msgid "Bad response from Printer API"
+msgstr "Malbona respondo el Printer API"
+
+msgid "User ID"
+msgstr "uzanto ID"
+
+msgid "Contact Person"
+msgstr "Kontakto Persono"
+
+msgid "No orders to process"
+msgstr "Neniu ordoj procesi"
+
+msgid "Article announce image"
+msgstr "Artikolo anonci bildo"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Nevalida video url . Lasu malplena aŭ enmeti valida youtube url"
+
+msgid "Please, enter Contractor data"
+msgstr "Bonvolu , eniri Entreprenisto datumoj"
+
+msgid "Distribute devices"
+msgstr "disdoni aparatoj"
+
+msgid "Quantity"
+msgstr "Kvanto"
+
+msgid "Devices left"
+msgstr "aparatoj forlasis"
+
+msgid "Distributed devices"
+msgstr "Distribuata aparatoj"
+
+msgid "You must enter quantity"
+msgstr "Vi devas eniri kvanto"
+
+msgid "All devices are distributed"
+msgstr "Ĉiuj aparatoj distribuas"
+
+msgid "IP address"
+msgstr "IP"
+
+msgid "Only for printer"
+msgstr "Nur por presilo"
+
+msgid "Counter"
+msgstr "kontraŭreformacio"
+
+msgid "You was excluded from this room"
+msgstr "Vi estis ekskludita de ĉi tiu ĉambro"
+
+msgid "Compare"
+msgstr "komparu"
+
+msgid "Scheduled transaction"
+msgstr "planitaj transakcio"
+
+msgid "Select transfer account"
+msgstr "Elektu transigo konton"
+
+msgid "Select income account"
+msgstr "Elektu enspezoj konton"
+
+msgid "Reports"
+msgstr "raportoj"
+
+msgid "Goals"
+msgstr "celoj"
+
+msgid "Budgets"
+msgstr "buĝetoj"
+
+msgid "Enter user name or email..."
+msgstr "Entajpu salutnomon aŭ retpoŝton ..."
+
+msgid "Invite had been sended"
+msgstr "Invitu estis sended"
+
+msgid "Statistics"
+msgstr "Statistikoj"
+
+msgid "Updated site began to work"
+msgstr "Ĝisdatigita ejo komencis labori"
+
+msgid "City of residence"
+msgstr "Urbo de restadejo"
+
+msgid "Edit favourites list"
+msgstr "Redaktu memoriga listo"
+
+msgid "Add favourites list"
+msgstr "Aldoni memoriga listo"
+
+msgid "Categories is required"
+msgstr "Kategorioj estas postulata"
+
+msgid "Type new category name and hit Enter"
+msgstr "Tajpu novan kategorion nomo kaj batis Enter"
+
+msgid "You created an order"
+msgstr "Vi kreis ordon"
+
+msgid "You received a device due to this order"
+msgstr "Vi ricevis aparaton pro tiu ordo"
+
+msgid "%s attached %s to task %s"
+msgstr "%s %s alkroĉita al tasko %s"
+
+msgid "member(s)"
+msgstr "membro (j )"
+
+msgid "%s commented task %s"
+msgstr "%s komentis tasko %s"
+
+msgid "%s closed task %s"
+msgstr "%s fermita tasko %s"
+
+msgid "%s created task %s"
+msgstr "%s kreita tasko %s"
+
+msgid "%s created this project"
+msgstr "%s kreis tiun projekton"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s kreita subprojekto \" %s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s fermita projekto \" %s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s fermita subprojekto \" %s \""
+
+msgid "This field must not be blank"
+msgstr "Tiu kampo ne estu malplena"
+
+msgid "Document with such name is already exist"
+msgstr "Dokumento kun tia nomo jam ekzistas"
+
+msgid "Wait until image upload"
+msgstr "Atendu ĝis bildo alŝuto"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Message can not be empty"
+msgstr "Mesaĝo ne povas esti malplena"
+
+msgid "Yes"
+msgstr "Jes"
+
+msgid "No"
+msgstr "neniu"
+
+msgid "Created"
+msgstr "kreita"
+
+msgid "Compare is empty"
+msgstr "Komparu estas malplena"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Ĉu vi vere volas forigi operacio"
+
+msgid "Do you really want to delete transaction"
+msgstr "Ĉu vi vere volas forigi transakcio"
+
+msgid "Project with same name already exists"
+msgstr "Projekto kun sama nomo jam ekzistas"
+
+msgid "Account is not found"
+msgstr "Konto ne trovita"
+
+msgid "Currency is required"
+msgstr "Monero estas postulata"
+
+msgid "error while deleting document"
+msgstr "Eraro dum forigo dokumenton"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Vi invitis uzanto \" %s\" en tiu ĉambro"
+
+msgid "User \"%s\" joined this room"
+msgstr "Uzanto \" %s \" aliĝis tiun ĉambron"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Vi ekskludita uzanto \" %s \" el ĉi tiu ĉambro"
+
+msgid "User \"%s\" left this room"
+msgstr "Uzanto \" %s \" forlasis tiun ĉambron"
+
+msgid "Add account"
+msgstr "Aldoni konton"
+
+msgid "The requested page is not found"
+msgstr "La petita paĝo ne trovita"
+
+msgid "Document"
+msgstr "Dokumento"
+
+msgid "Table"
+msgstr "tablo"
+
+msgid "file(s)"
+msgstr "dosiero (j )"
+
+msgid "Residue"
+msgstr "restaĵo"
+
+msgid "Result is empty"
+msgstr "Rezulto estas malplena"
+
+msgid "The total amount is %s for %s mo"
+msgstr "La totala kvanto estas%s por%s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Vi devas deponi %s ĉiumonate al rilataj konton"
+
+msgid "Start"
+msgstr "Komenci"
+
+msgid "finish"
+msgstr "finpoluro"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Elektita konto jam estas uzata por alia celo"
+
+msgid "Amount required"
+msgstr "kvanto postulata"
+
+msgid "New goal"
+msgstr "nova celo"
+
+msgid "Goal"
+msgstr "celo"
+
+msgid "Goal name"
+msgstr "celo nomon"
+
+msgid "Invalid date"
+msgstr "Nevalida daton"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Necesa sumo devas esti pozitiva nombro"
+
+msgid "Remain"
+msgstr "resti"
+
+msgid "Last day"
+msgstr "Lasta tago"
+
+msgid "Accumulated"
+msgstr "amasigita"
+
+msgid "Put aside"
+msgstr "flankenmeti"
+
+msgid "January"
+msgstr "januaro"
+
+msgid "February"
+msgstr "februaro"
+
+msgid "March"
+msgstr "marto"
+
+msgid "April"
+msgstr "aprilo"
+
+msgid "May"
+msgstr "majo"
+
+msgid "June"
+msgstr "junio"
+
+msgid "July"
+msgstr "julio"
+
+msgid "August"
+msgstr "aŭgusto"
+
+msgid "September"
+msgstr "septembro"
+
+msgid "October"
+msgstr "oktobro"
+
+msgid "November"
+msgstr "novembro"
+
+msgid "December"
+msgstr "decembro"
+
+msgid "Expenses projected/actual"
+msgstr "Elspezoj projektita / fakta"
+
+msgid "Net Income projected/actual"
+msgstr "Net Enspezoj projektita / fakta"
+
+msgid "New budget"
+msgstr "nova buĝeto"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Enspezo kaj Elspezoj Chart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Buĝeto kun sama paro de konto kaj kategorio jam ekzistas"
+
+msgid "Budget is empty"
+msgstr "Buĝeto estas malplena"
+
+msgid "Budget"
+msgstr "buĝeto"
+
+msgid "plan"
+msgstr "plano"
+
+msgid "fact"
+msgstr "fakto"
+
+msgid "diff"
+msgstr "malsamoj"
+
+msgid "Show More"
+msgstr "montri pli"
+
+msgid "Cancel"
+msgstr "Rezignu"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "mia vendoj"
+
+msgid "Time spent"
+msgstr "Tempo pasigis"
+
+msgid "Total time spent"
+msgstr "Sumtempo foruzis"
+
+msgid "Earnings per hour"
+msgstr "Gajnojn hore"
+
+msgid "Total earnings"
+msgstr "totala gajno"
+
+msgid "Call"
+msgstr "voko"
+
+msgid "Phone call"
+msgstr "Telefonvoko"
+
+msgid "Telephone calls"
+msgstr "telefonvokoj"
+
+msgid "Send email"
+msgstr "Sendu retpoŝton"
+
+msgid "Emails"
+msgstr "Retmesaĝoj"
+
+msgid "Meeting"
+msgstr "kunveno"
+
+msgid "Meetings"
+msgstr "Renkontiĝoj"
+
+msgid "All events"
+msgstr "ĉiuj okazaĵoj"
+
+msgid "Task"
+msgstr "tasko"
+
+msgid "Event"
+msgstr "eventon"
+
+msgid "Events"
+msgstr "eventoj"
+
+msgid "Time"
+msgstr "Tempo"
+
+msgid "Events statistics"
+msgstr "eventoj statistiko"
+
+msgid "days"
+msgstr "tagoj"
+
+msgid "hours"
+msgstr "horojn"
+
+msgid "minutes"
+msgstr "minutoj"
+
+msgid "Income & expense"
+msgstr "Enspezoj & elspezo"
+
+msgid "Show chart"
+msgstr "Montri abako"
+
+msgid "Hide chart"
+msgstr "kaŝi abako"
+
+msgid "Add event"
+msgstr "Aldoni eventon"
+
+msgid "Add financial data"
+msgstr "Aldoni financaj datumoj"
+
+msgid "Select contractor"
+msgstr "Elektu kontraktisto"
+
+msgid "Net Income"
+msgstr "Neta enspezo"
+
+msgid "Revenue"
+msgstr "enspezo"
+
+msgid "Taxes"
+msgstr "impostoj"
+
+msgid "Amount planned"
+msgstr "kvanto planis"
+
+msgid "Amount"
+msgstr "kvanto"
+
+msgid "Period"
+msgstr "periodo"
+
+msgid "Are you sure to close this task?"
+msgstr "Ĉu vi certas fermi tiun taskon ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "ĉiuj grupoj"
+
+msgid "added from task"
+msgstr "aldonitan de tasko"
+
+msgid "Monthly repeat"
+msgstr "monata ripeto"
+
+msgid "Select category"
+msgstr "Elekti kategorion"
+
+msgid "Event type"
+msgstr "eventon tipo"
+
+msgid "Margin"
+msgstr "marĝeno"
+
+msgid "Use finance project"
+msgstr "Uzu financon projekto"
+
+msgid "New investment project"
+msgstr "Novaj investoj projekto"
+
+msgid "Investment project settings"
+msgstr "Investo projekto agordojn"
+
+msgid "Picture, for the announcement project"
+msgstr "Bildon, ĉar la anonco projekto"
+
+msgid "Announcement project"
+msgstr "anonco projekto"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Photos or videos gallery"
+msgstr "Fotojn aŭ filmetoj galerio"
+
+msgid "required amount"
+msgstr "bezonata kvanto"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Projekto daŭro ( 60 tagoj maksimuma )"
+
+msgid "Project duration"
+msgstr "projekto daŭro"
+
+msgid "Add reward"
+msgstr "Aldoni rekompenco"
+
+msgid "Delivery date"
+msgstr "livera dato"
+
+msgid "Payment systems"
+msgstr "pago sistemoj"
+
+msgid "Terms of service"
+msgstr "Reguloj de servado"
+
+msgid "Agreement"
+msgstr "interkonsento"
+
+msgid "Payment"
+msgstr "pago"
+
+msgid "My projects"
+msgstr "miaj projektoj"
+
+msgid "Search result"
+msgstr "Serĉu rezulto"
+
+msgid "Nothing not found"
+msgstr "Nenio ne trovita"
+
+msgid "The project has no sponsors"
+msgstr "La projekto ne havas sponsoroj"
+
+msgid "Design"
+msgstr "dezajno"
+
+msgid "Food"
+msgstr "Manĝaĵo"
+
+msgid "Journalism"
+msgstr "ĵurnalismo"
+
+msgid "Games"
+msgstr "ludoj"
+
+msgid "Art"
+msgstr "arto"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "muziko"
+
+msgid "Handicrafts"
+msgstr "Handicrafts"
+
+msgid "Publishing"
+msgstr "Eldonejo"
+
+msgid "Theater"
+msgstr "teatro"
+
+msgid "Technology"
+msgstr "teknologio"
+
+msgid "Film/Video"
+msgstr "Filmo / Video"
+
+msgid "Photo"
+msgstr "Foto"
+
+msgid "Dance"
+msgstr "danco"
+
+msgid "Invalid youtube video"
+msgstr "Nevalida youtube video"
+
+msgid "is required"
+msgstr "estas postulata"
+
+msgid "User"
+msgstr "uzanto"
+
+msgid "Date"
+msgstr "Dato"
+
+msgid "Collected"
+msgstr "Collected"
+
+msgid "Choose period"
+msgstr "Elektu periodo"
+
+msgid "Choose region"
+msgstr "Elektu regionon"
+
+msgid "Country"
+msgstr "Lando"
+
+msgid "Today"
+msgstr "hodiaŭ"
+
+msgid "Week"
+msgstr "semajno"
+
+msgid "Month"
+msgstr "monato"
+
+msgid "Year"
+msgstr "jaro"
+
+msgid "Free registration"
+msgstr "liberaj registriĝo"
+
+msgid "Join"
+msgstr "aliĝi"
+
+msgid "Log in using"
+msgstr "Ensalutu per"
+
+msgid "Vacancies"
+msgstr "laboreblecojn"
+
+msgid "About Us"
+msgstr "Pri ni"
+
+msgid "You will need email to log in"
+msgstr "Vi bezonos email ensaluti"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Kombinaĵo de 6 ciferoj kaj signoj"
+
+msgid "Search users, groups, articles..."
+msgstr "Serĉu uzantojn , grupoj , artikoloj ..."
+
+msgid "Cloud"
+msgstr "nubo"
+
+msgid "Sunday"
+msgstr "dimanĉo"
+
+msgid "Monday"
+msgstr "lundo"
+
+msgid "Tuesday"
+msgstr "mardo"
+
+msgid "Wednesday"
+msgstr "merkredo"
+
+msgid "Thursday"
+msgstr "ĵaŭdo"
+
+msgid "Friday"
+msgstr "vendredo"
+
+msgid "Saturday"
+msgstr "sabato"
+
+msgid "Edit"
+msgstr "Redaktu"
+
+msgid "Create group"
+msgstr "krei grupo"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Ĉu vi certas ke vi volas forlasi ĉi paĝo?"
+
+msgid "More"
+msgstr "pli"
+
+msgid "Less"
+msgstr "malpli"
+
+msgid "Pending"
+msgstr "pritraktata"
+
+msgid "Approved"
+msgstr "aprobita"
+
+msgid "Rejected"
+msgstr "malakceptita"
+
+msgid "Subprojects"
+msgstr "Subprojects"
+
+msgid "Group edit"
+msgstr "grupo redakti"
+
+msgid "Startup"
+msgstr "starto"
+
+msgid "Tattoo"
+msgstr "tatuaje"
+
+msgid "Health"
+msgstr "sano"
+
+msgid "Weapon"
+msgstr "armilo"
+
+msgid "Astronomy"
+msgstr "Astronomio"
+
+msgid "All articles"
+msgstr "ĉiuj artikoloj"
+
+msgid "Article editor"
+msgstr "artikolo redaktoro"
+
+msgid "Document editor"
+msgstr "Dokumento redaktoro"
+
+msgid "Apply changes"
+msgstr "apliki ŝanĝojn"
+
+msgid "Save changes?"
+msgstr "Konservu ŝanĝojn ?"
+
+msgid "published an article"
+msgstr "eldonis artikolon"
+
+msgid "Users"
+msgstr "uzantoj"
+
+msgid "Shared With Me"
+msgstr "Dividita kun mi"
+
+msgid "share"
+msgstr "kunhavigi"
+
+msgid "Select Group Responsible"
+msgstr "Elektu Grupo Responsible"
+
+msgid "Create folder"
+msgstr "Kreu dosierujon"
+
+msgid "Title must be at least 3 characters"
+msgstr "Titolo devas esti almenaŭ 3 signoj"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Free 10 GB , financo manaĝero , investi modulo , kaj multaj aliaj por libera kaj forever"
+
+msgid "Best regards"
+msgstr "Best regards"
+
+msgid "Updates in last 12 hours:"
+msgstr "Ĝisdatigoj dum la lastaj 12 horoj :"
+
+msgid "expense"
+msgstr "elspezon"
+
+msgid "Commentary on the event:"
+msgstr "Komento sur la okazaĵo :"
+
+msgid "Event place"
+msgstr "eventon loko"
+
+msgid "Project was updated"
+msgstr "Projekto estis ĝisdatigita"
+
+msgid "Project was created"
+msgstr "Projekto estis kreita"
+
+msgid "Project was closed"
+msgstr "Projekto estis fermita"
+
+msgid "account"
+msgstr "konto"
+
+msgid "removed task"
+msgstr "forigita tasko"
+
+msgid "removed subproject"
+msgstr "forigita subprojekto"
+
+msgid "Title can not be empty"
+msgstr "Titolo ne povas esti malplena"
+
+msgid "Do not select the type of event"
+msgstr "Ne elektu la tipo de okazaĵo"
+
+msgid "Error while saving comment"
+msgstr "Eraro dum konservado komenton"
+
+msgid "Save error: access denied"
+msgstr "Konservu eraro: aliro neita"
+
+msgid "Remains"
+msgstr "restaĵoj"
+
+msgid "Time spent, h."
+msgstr "Tempo pasis , h ."
+
+msgid "Emails"
+msgstr "Retmesaĝoj"
+
+msgid "Meetings"
+msgstr "Renkontiĝoj"
+
+msgid "All users"
+msgstr "ĉiuj uzantoj"
+
+msgid "Category"
+msgstr "Kategorio"
+
+msgid "Finance project"
+msgstr "Financoj projekto"
+
+msgid "Investment project"
+msgstr "investo projekto"
+
+msgid "Nature"
+msgstr "naturo"
+
+msgid "Data is empty"
+msgstr "Datumoj estas malplena"
+
+msgid "Visitors"
+msgstr "vizitantoj"
+
+msgid "My profile"
+msgstr "mia profilo"
+
+msgid "Sponsors"
+msgstr "Sponsoroj"
+
+msgid "Prior to completion"
+msgstr "Antaŭ kompletiĝo"
+
+msgid "Select"
+msgstr "Elektu"
+
+msgid "My groups"
+msgstr "miaj grupoj"
+
+msgid "The invitation has been sent successfully"
+msgstr "La invito estas sendita sukcese"
+
+msgid "Username has already been invited to this project"
+msgstr "Uzulnomo jam invitis al tiu projekto"
+
+msgid "The user is the creator of the project"
+msgstr "La uzanto estas la kreinto de la projekto"
+
+msgid "Provide full access"
+msgstr "Provizi plenan aliron"
+
+msgid "Select elements to provide access"
+msgstr "Elektu elementojn havigi aliron"
+
+msgid "Select all"
+msgstr "Elekti ĉiujn"
+
+msgid "User E-mail"
+msgstr "Uzanto Retpoŝto"
+
+msgid "Click on the field to select a category"
+msgstr "Klaku sur la kampon, por elekti kategorion"
+
+msgid "Invitation was deleted"
+msgstr "Invito estis forigita"
+
+msgid "Permission denied"
+msgstr "permeso malkonfesis"
+
+msgid "Printed"
+msgstr "presita"
+
+msgid "Incorrect Contractor email"
+msgstr "Malĝusta Entreprenisto retpoŝto"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Ĉu vi volas aldoni projekto financi manaĝero ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Por kompletigi la registriĝo procezo bonvolu plenigi malsupren viajn kapablojn"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "An poŝto kun pliaj instrukcioj estis sendita al via retpoŝta adreso"
+
+msgid "Submit"
+msgstr "Proponu"
+
+msgid "Cars"
+msgstr "aŭtoj"
+
+msgid "Science"
+msgstr "scienco"
+
+msgid "Donation"
+msgstr "donaco"
+
+msgid "Interests"
+msgstr "interesoj"
+
+msgid "Driver"
+msgstr "ŝoforo"
+
+msgid "Sportsman"
+msgstr "sportisto"
+
+msgid "Businessman"
+msgstr "komercisto"
+
+msgid "Accountant"
+msgstr "librotenisto"
+
+msgid "Engineer"
+msgstr "inĝeniero"
+
+msgid "Soldier"
+msgstr "soldato"
+
+msgid "Next"
+msgstr "sekva"
+
+msgid "Hide group"
+msgstr "kaŝi grupo"
+
+msgid "groups created"
+msgstr "grupoj kreitaj"
+
+msgid "articles written"
+msgstr "skribitaj artikoloj"
+
+msgid "These groups may be interesting for you"
+msgstr "Tiuj grupoj povas esti interesa por vi"
+
+msgid "About Group"
+msgstr "pri Group"
+
+msgid "view(s)"
+msgstr "vido ( j)"
+
+msgid "Favorite users"
+msgstr "Favorite uzantoj"
+
+msgid "No accounts"
+msgstr "neniu kontoj"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook rajtigo malsukcesis ."
+
+msgid "Authorization Required"
+msgstr "rajtigo Bezonata"
+
+msgid "You have to make a call:"
+msgstr "Vi devas fari alvokon :"
+
+msgid "You have to send an email:"
+msgstr "Vi devas sendi retmesaĝon :"
+
+msgid "You have a meetup:"
+msgstr "Vi havas meetup :"
+
+msgid "You event :"
+msgstr "Vi evento :"
+
+msgid "Participants:"
+msgstr "partoprenantoj :"
+
+msgid "Search"
+msgstr "serĉo"
+
+msgid "News"
+msgstr "novaĵoj"
+
+msgid "Investments"
+msgstr "investoj"
+
+msgid "Back to Cloud"
+msgstr "Reen al Nubo"
+
+msgid "Documents"
+msgstr "dokumentoj"
+
+msgid "Planet"
+msgstr "planedo"
+
+msgid "Group url"
+msgstr "grupo url"
+
+msgid "Profile url"
+msgstr "Profilo url"
+
+msgid "Already taken"
+msgstr "Jam prenita"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Almenaŭ 1 letero kaj 3 signoj longo postulata"
+
+msgid "Digit can not be the first character"
+msgstr "Cifero povas ne esti la unua karaktero"
+
+msgid "Enter valid email address"
+msgstr "Entajpu validan retpoŝtadreson"
+
+msgid "Enter your skills"
+msgstr "Entajpu viajn kapablojn"
+
+msgid "Enter your first name"
+msgstr "Entajpu vian antaŭnomon"
+
+msgid "Enter your last name"
+msgstr "Entajpu vian familinomon"
+
+msgid "Enter your first name and last name"
+msgstr "Entajpu vian antaŭnomon kaj lasta nomo"
+
+msgid "Your first name?"
+msgstr "Via unua nomo ?"
+
+msgid "Your last name?"
+msgstr "Via familinomo ?"
+
+msgid "What are your proficiencies?"
+msgstr "Kio estas via proficiencies ?"
+
+msgid "Select country"
+msgstr "Elektu lando"
+
+msgid "Select user"
+msgstr "Elektu uzanto"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Plenumi vian sonĝon ! Krei kaj kunlabori."
+
+msgid "date moved from"
+msgstr "Dato moviĝis de"
+
+msgid "work"
+msgstr "laboro"
+
+msgid "Conference"
+msgstr "konferenco"
+
+msgid "personal"
+msgstr "persona"
+
+msgid "Holiday"
+msgstr "ferio"
+
+msgid "Past"
+msgstr "Pasintaj"
+
+msgid "Future"
+msgstr "Estonteco"
+
+msgid "Purchase"
+msgstr "Aĉeto"
+
+msgid "Personal events"
+msgstr "Privata okazaĵoj"
+
+msgid "Conferences"
+msgstr "Kunveno"
+
+msgid "Holidays"
+msgstr "Ferioj"
+
+msgid "Sport events"
+msgstr "Sportaj eventoj"
+
+msgid "Tasks"
+msgstr "Taskoj"
+
+msgid "Other events"
+msgstr "Aliaj okazaĵoj"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Prokrastata"
+
+msgid "Time management"
+msgstr "Tempo Management"
+
+msgid "Delayed events"
+msgstr "Prokrastita okazaĵoj"
+
+msgid "Delayed"
+msgstr "Prokrastata"
+
+msgid "Bind to"
+msgstr "Asigni"
+
+msgid "answered your comment to"
+msgstr "Mi diris (al) komenti la artikolo"
+
+msgid "commented your article"
+msgstr "Mi komentis pri via artikolo"
+
+msgid "You\'ve answered on comment to"
+msgstr "Vi respondis al la komento en la artikolo"
+
+msgid "You\'ve commented an article"
+msgstr "Vi komentis pri la artikolo"
+
+msgid "Terms and Conditions"
+msgstr "Terminoj kaj Kondiĉoj"
+
+msgid "Privacy Policy"
+msgstr "Privateca Politiko"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Klakante sur \"subskriboj\" vi konsentas kun niaj kaj agnoskas ke vi legis niajn"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Aliĝu la komunumon de kreivaj homoj de ĉiuj super la mondo! Vi ricevos: Investing en viajn ideojn, ŝanco por kolekti sian teamo, laborante en grupo, la financa direktoro, sukcesante lia epoko, 2 gigabajtoj en stokado kaj pli. Kaj ĝi estas libera!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Pardonu, sed la paĝo vi estas serĉanta ne ekzistas. Se vi pensas ke kulpas ni kontaktu nin"
+
+msgid "Return"
+msgstr "Reveno"
+
+msgid "COMMON"
+msgstr "Tuta"
+
+msgid "My events"
+msgstr "Miaj Eventoj"
+
+msgid "Job opening"
+msgstr "Nova libera"
+
+msgid "Employment"
+msgstr "Tipo de dungado"
+
+msgid "Working hours"
+msgstr "Malfermo horoj"
+
+msgid "City"
+msgstr "Urbo"
+
+msgid "Wages"
+msgstr "Salajro"
+
+msgid "Currency"
+msgstr "Monero"
+
+msgid "Experience"
+msgstr "Sperto"
+
+msgid "Full-time"
+msgstr "Plena dungado"
+
+msgid "Part-time"
+msgstr "Partatempan"
+
+msgid "Project employment"
+msgstr "Projekto / Temporal"
+
+msgid "Volunteer"
+msgstr "Volontulado"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "Plentempe"
+
+msgid "Shifts"
+msgstr "Remeto horaro"
+
+msgid "Flexible shifts"
+msgstr "Fleksebla horaro"
+
+msgid "Remote work"
+msgstr "Izolita laboro"
+
+msgid "Rotational basis"
+msgstr "Shift metodo"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Ĉu vi certas ke vi volas forigi la komento?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Ĉu vi vere volas forigi tiun taskon?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Ĉu vi vere volas forigi tiun sub- projekto?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Vi aplikita al la kompanio en la pozicio. Bonvolu certigi ke la"
+
+msgid "Your request to for job has been rejected"
+msgstr "Via peto por la kompanio al pozicio estis malakceptita"
+
+msgid "Your request to for job has been accepted"
+msgstr "Via peto por la kompanio al pozicio estis adoptita"
+
+msgid "profile is completed"
+msgstr "Via profilo estas plena"
+
+msgid "Use account"
+msgstr "Uzu konton"
+
+msgid "$/hr"
+msgstr "$ / Horo"
+
+msgid "Finance category"
+msgstr "Financaj kategorio"
+
+msgid "No projects"
+msgstr "Neniu projektoj"
+
+msgid "Bind to finances"
+msgstr "Asigni financa projekto"
+
+msgid "Preview"
+msgstr "Vidi"
+
+msgid "Download"
+msgstr "Elŝuti"
+
+msgid "Save to my cloud"
+msgstr "Kopiu la dosieraro"
+
+msgid "File successfully saved to your cloud"
+msgstr "Dosiero sukcese stokitaj en via dosieraro"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Konservu tiun dosieron en via dosieraro?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Elekti kategorion Artikolo"
+
+msgid "Type something"
+msgstr "Skribu ion"
+
+msgid "Founded users"
+msgstr "Trovita uzantoj"
+
+msgid "Founded articles"
+msgstr "Trovita artikolo"
+
+msgid "Founded groups"
+msgstr "Fondita grupo"
+
+msgid "What are your skills?"
+msgstr "Kio estas viaj kapabloj?"
+
+msgid "Select at least 2 interests"
+msgstr "Elektu almenaŭ 2 intereso"
+
+msgid "Need more interests"
+msgstr "Ne sufiĉe intereso selektitaj"
+
+msgid "What are you interesting in?"
+msgstr "Kio vi interesas?"
+
+msgid "You have no dialogs"
+msgstr "Vi ne devas dialogoj"
+
+msgid "Usage Stats"
+msgstr "Ŝtato de"
+
+msgid "Founded files"
+msgstr "Dosieroj Trovis"
+
+msgid "Big tiles"
+msgstr "Grandaj kaheloj"
+
+msgid "Small tiles"
+msgstr "Malgrandaj Kaheloj"
+
+msgid "Table view"
+msgstr "Tablo vido"
+
+msgid "Root folder"
+msgstr "La radika dosierujo"
+
+msgid "My files"
+msgstr "Mia Dosieroj"
+
+msgid "Save as draft"
+msgstr "Konservi kiel Skizo"
+
+msgid "Buy More Space"
+msgstr "Aĉeti pli spaco"
+
+msgid "Buy"
+msgstr "Aĉeti"
+
+msgid "You have been invited to group as"
+msgstr "Vi estis invitita al la grupo kiel"
+
+msgid "User wants to join your group"
+msgstr "La uzanto deziras aliĝi vian grupon"
+
+msgid "Section is coming soon!"
+msgstr "Sekcio sub konstruo!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Vidoj en la lastaj 24 horoj:"
+
+msgid "Task was updated"
+msgstr "La tasko estis ĝisdatigita"
+
+msgid "Task was closed"
+msgstr "La defio estis fermita"
+
+msgid "Task was created"
+msgstr "La tasko estis starigita"
+
+msgid "Current balance"
+msgstr "Nuna ekvilibro"
+
+msgid "Add funds"
+msgstr "Aldoni"
+
+msgid "Pay"
+msgstr "Kaso"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Vi plialtigis la nombron de ensalutu provoj. Vi estas blokitaj dum 15 minutoj"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Bonvolu konfirmi vian retpoŝtan. La letero sendita al vi per poŝto."
+
+msgid "Resend confirmation email"
+msgstr "Sendu konfirmo denove"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disko 2 Gb por monato"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Veturi 10 Gb por jaro"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Disk 100 GB ĉiu jaro"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1TB ĉiumonate"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Veturi 1 TB ĉiujare"
+
+msgid "Project members monthly"
+msgstr "Partoprenantoj de la projekto je monata bazo"
+
+msgid "Project members yearly"
+msgstr "Projekto partoprenantoj ĉiujare"
+
+msgid "Member(s) yearly"
+msgstr "Membro (j) por jaro"
+
+msgid "Member(s) monthly"
+msgstr "Membro (j) je monata bazo"
+
+msgid "Authorized"
+msgstr "Rajtigita"
+
+msgid "Authorization expired"
+msgstr "Rajtigo eksvalidiĝis"
+
+msgid "Processor declined"
+msgstr "Malakceptita prilaborado sistemo"
+
+msgid "Gateway rejected"
+msgstr "Malakceptita pago kluzo"
+
+msgid "Failed"
+msgstr "Eraro"
+
+msgid "Voided"
+msgstr "Nuligas"
+
+msgid "Submitted for settlement"
+msgstr "Senditaj enskribiĝi"
+
+msgid "Settlement declined"
+msgstr "Rekrutado estis malakceptita"
+
+msgid "Settlement pending"
+msgstr "Pritraktata rekrutado"
+
+msgid "Verified"
+msgstr "Kontrolata"
+
+msgid "Pending"
+msgstr "Pritraktata"
+
+msgid "Active"
+msgstr "Aktivaj"
+
+msgid "Past Due"
+msgstr "Elspiris"
+
+msgid "Expired"
+msgstr "Finiĝis"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "Barato"
+
+msgid "Malaysia"
+msgstr "Malajzio"
+
+msgid "Thailand"
+msgstr "Tajlando"
+
+msgid "South Korea"
+msgstr "Suda Koreio"
+
+msgid "Kazakhstan"
+msgstr "Kazaĥio"
+
+msgid "Israel"
+msgstr "Israelo"
+
+msgid "Ukraine"
+msgstr "Ukrainio"
+
+msgid "Belarus"
+msgstr "Belorusio"
+
+msgid "Bulgaria"
+msgstr "Bulgario"
+
+msgid "Turkey"
+msgstr "Turkio"
+
+msgid "Armenia"
+msgstr "Armenio"
+
+msgid "Serbia"
+msgstr "Serbio"
+
+msgid "Austria"
+msgstr "Aŭstrio"
+
+msgid "Poland"
+msgstr "Pollando"
+
+msgid "Germany"
+msgstr "Germanio"
+
+msgid "Italy"
+msgstr "Italio"
+
+msgid "Netherlands"
+msgstr "Nederlando"
+
+msgid "Ireland"
+msgstr "Irlando"
+
+msgid "United Kingdom"
+msgstr "Britio"
+
+msgid "Portugal"
+msgstr "Portugalio"
+
+msgid "Norway"
+msgstr "Norvegio"
+
+msgid "United States"
+msgstr "Usono"
+
+msgid "Canada"
+msgstr "Kanado"
+
+msgid "Brazil"
+msgstr "Brazilo"
+
+msgid "Saudi Arabia"
+msgstr "Saŭda Arabio"
+
+msgid "Canada"
+msgstr "Egiptujo"
+
+msgid "Russia"
+msgstr "Rusio"
+
+msgid "Hong Kong"
+msgstr "Honkongo"
+
+msgid "There was no any transactions yet."
+msgstr "Nuntempe, ekzistis ne ununura transakcio"
+
+msgid "Fulfill your dream"
+msgstr "Plenumi vian sonĝon"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Aliĝu nia komunumo de krea individuoj de ĉiuj ĉirkaŭ la globo."
+
+msgid "Create and Collaborate"
+msgstr "Krei kaj Kunlabori"
+
+msgid "Start Dreaming"
+msgstr "Pasigu DREAM NUN"
+
+msgid "or"
+msgstr "aŭ"
+
+msgid "Our mission:"
+msgstr "Nia misio:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Kunigi krea kaj aktiva popolo implementar ideoj de simplaj kaj en postulo al nekredebla kaj mirinda, kiu povas formi nian estontecon."
+
+msgid "What is Konstruktor?"
+msgstr "Kio estas Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor- estas parto de nia reala vivo, kiu signife faciligas kaj simplifica"
+
+msgid "*business processes"
+msgstr "* negoco procezoj"
+
+msgid "*materialization of creative ideas"
+msgstr "* materiiĝo de kreivaj ideoj"
+
+msgid "*constructive cooperation"
+msgstr "* konstrua kunlaboro"
+
+msgid "Make your dream!"
+msgstr "Faru vian sonĝon!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Specialaj Advisor"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Direktisto, Programaro Disvolviĝo"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Altranga advokato"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Designer"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Klakante sur la \"Sekva\" butonon, vi akcepti kaj koincidante kun nia Terminoj kaj Kondiĉoj, kaj vi agnoskante ke vi legis nia Privateca Politiko."
+
+msgid "Incorrect login or password."
+msgstr "Neĝusta salutnomo aŭ pasvorto."
+
+msgid "Password must be at least 6 characters"
+msgstr "Pasvorto devas esti almenaŭ 6 karakteroj"
+
+msgid "January"
+msgstr "Januaro"
+
+msgid "February"
+msgstr "Februaro"
+
+msgid "March"
+msgstr "Marto"
+
+msgid "April"
+msgstr "Aprilo"
+
+msgid "May"
+msgstr "Majo"
+
+msgid "June"
+msgstr "Junio"
+
+msgid "July"
+msgstr "Julio"
+
+msgid "August"
+msgstr "Aŭgusto"
+
+msgid "September"
+msgstr "Septembro"
+
+msgid "October"
+msgstr "Oktobro"
+
+msgid "November"
+msgstr "Novembro"
+
+msgid "December"
+msgstr "Decembro"
+
+msgid "Chat"
+msgstr "Babilejo"
+
+msgid "Files"
+msgstr "Dosieroj"
+
+msgid "Statistic"
+msgstr "Estadística"
+
+msgid "Support"
+msgstr "Subteno"
+
+msgid "Exit"
+msgstr "Elirejo"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belorusio"
+
+msgid "Marketing specialist"
+msgstr "Marketing specialisto"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Shared with me"
+msgstr "Dividis kun mi"
+
+msgid "File Sharing"
+msgstr "Dosiero Sharing"
+
+msgid "Provide access by link"
+msgstr "Havigi aliron per ligilo"
+
+msgid "Provide Individual access"
+msgstr "Provizi Individuaj aliro"
+
+msgid "Provide edit access"
+msgstr "Provizi redakti aliro"
+
+msgid "Share"
+msgstr "Interŝanĝado"
+
+msgid "Files will be available only for selected users"
+msgstr "Dosieroj estos disponebla nur por elektitaj uzantoj"
+
+msgid "With this link everyone can access to the files"
+msgstr "Kun ĉi ligiloj ĉiu povas aliri al la dosieroj"
+
+msgid "Search users, groups, articles..."
+msgstr "Serĉu uzantojn, grupoj, artikoloj ..."
+
+msgid "My Group"
+msgstr "Mia Grupo"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Ni"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "La dosiero ne estas ebligita"
+
+msgid "Set aside"
+msgstr "Flankenmetis"
+
+msgid "Event time"
+msgstr "Eventon tempo"
+
+msgid "Work"
+msgstr "Laboro"
+
+msgid "Personal"
+msgstr "Personaj"
+
+msgid "Time spent for work:"
+msgstr "Tempo elspezita por laboro:"
+
+msgid "Personal time spent:"
+msgstr "Personaj tempo pasigita:"
+
+msgid "Present"
+msgstr "Ĉeestanta"
+
+msgid "Common"
+msgstr "Komuna"
+
+msgid "Sport"
+msgstr "Sporto"
+
+msgid "Entertainment"
+msgstr "Entertainment"
+
+msgid "Select:"
+msgstr "Elektu:"
+
+msgid "Invalid username or password."
+msgstr "Nevalida uzantnomo aŭ pasvorto."
+
+msgid "Try again."
+msgstr "Provu denove."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "KION Ĉu vi interesiĝas?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Elektu almenaŭ 2 kapablojn: restas 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Elektu almenaŭ 2 kapablojn: restas 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Elektu almenaŭ 2 kapablojn: restaĵoj"
+
+msgid "Active life"
+msgstr "Aktiva vivo"
+
+msgid "Arts and culture"
+msgstr "Artoj kaj kulturo"
+
+msgid "Business"
+msgstr "Komerca"
+
+msgid "Cinema"
+msgstr "Kino"
+
+msgid "Communications"
+msgstr "Konektoj"
+
+msgid "Construction and repair"
+msgstr "Konstruo kaj riparo"
+
+msgid "Cooking"
+msgstr "Kuirado"
+
+msgid "Education"
+msgstr "Edukado"
+
+msgid "Electronics"
+msgstr "Elektroniko"
+
+msgid "Finances"
+msgstr "Financoj"
+
+msgid "Graphics and design"
+msgstr "Grafikaĵoj kaj dezajno"
+
+msgid "Health"
+msgstr "Sano"
+
+msgid "Home and family"
+msgstr "Hejmo kaj familio"
+
+msgid "Humor"
+msgstr "Humuro"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Industrio"
+
+msgid "Insurance"
+msgstr "Asekuro"
+
+msgid "Literature"
+msgstr "Literaturo"
+
+msgid "Mobile communications and internet"
+msgstr "Poŝtelefono konektoj kaj interreto"
+
+msgid "News and Media"
+msgstr "Novaĵo kaj Media"
+
+msgid "Pets"
+msgstr "Dorlotbestoj"
+
+msgid "Products and service"
+msgstr "Produktoj kaj servoj"
+
+msgid "Real Estate"
+msgstr "Nemoveblaĵoj"
+
+msgid "Religion"
+msgstr "Religio"
+
+msgid "Science and techs"
+msgstr "Scienco kaj Techs"
+
+msgid "Security"
+msgstr "Sekureco"
+
+msgid "Society"
+msgstr "Socio"
+
+msgid "Television"
+msgstr "Televido"
+
+msgid "Travel"
+msgstr "Vojaĝado"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentino"
+
+msgid "Australia"
+msgstr "Aŭstralio"
+
+msgid "Austria"
+msgstr "Aŭstrio"
+
+msgid "Belarus"
+msgstr "Belorusio"
+
+msgid "Belgium"
+msgstr "Belgio"
+
+msgid "Brazil"
+msgstr "Brazilo"
+
+msgid "Bulgaria"
+msgstr "Bulgario"
+
+msgid "Canada"
+msgstr "Kanado"
+
+msgid "Chile"
+msgstr "Ĉilio"
+
+msgid "Denmark"
+msgstr "Danio"
+
+msgid "France"
+msgstr "Francio"
+
+msgid "Germany"
+msgstr "Germanio"
+
+msgid "Greece"
+msgstr "Grekio"
+
+msgid "Hungary"
+msgstr "Hungario"
+
+msgid "Iceland"
+msgstr "Islando"
+
+msgid "Ireland"
+msgstr "Irlando"
+
+msgid "Israel"
+msgstr "Israelo"
+
+msgid "Italy"
+msgstr "Italio"
+
+msgid "Japan"
+msgstr "Japanio"
+
+msgid "Mexico"
+msgstr "Meksiko"
+
+msgid "Netherlands"
+msgstr "Nederlando"
+
+msgid "New Zealand"
+msgstr "Nov-Zelando"
+
+msgid "Norway"
+msgstr "Norvegio"
+
+msgid "Poland"
+msgstr "Pollando"
+
+msgid "Portugal"
+msgstr "Portugalio"
+
+msgid "Russia"
+msgstr "Rusio"
+
+msgid "Slovakia"
+msgstr "Slovakio"
+
+msgid "South Africa"
+msgstr "Sudafriko"
+
+msgid "South Korea"
+msgstr "Sudkoreio"
+
+msgid "Spain"
+msgstr "Hispanio"
+
+msgid "Sweden"
+msgstr "Svedio"
+
+msgid "Switzerland"
+msgstr "Svislando"
+
+msgid "Turkey"
+msgstr "Turkio"
+
+msgid "Ukraine"
+msgstr "Ukrainio"
+
+msgid "United Arab Emirates"
+msgstr "Unuiĝintaj Arabaj Emirlandoj"
+
+msgid "United Kingdom"
+msgstr "Unuiĝinta Reĝlando"
+
+msgid "United States"
+msgstr "Usono"
+
+msgid "achievements"
+msgstr "atingoj"
+
+msgid "Investment management"
+msgstr "Investo mastrumado"
+
+msgid "Select..."
+msgstr "Elektu ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "INVESTMENT MANAGEMENT"
+
+msgid "Investors list"
+msgstr "Investantoj listo"
+
+msgid "My investments"
+msgstr "Mia investoj"
+
+msgid "Create date"
+msgstr "Krei daton"
+
+msgid "Author of the project"
+msgstr "Aŭtoro de la projekto"
+
+msgid "Date and time"
+msgstr "Dato kaj tempo"
+
+msgid "Status"
+msgstr "Statuso"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+msgid "Next"
+msgstr "Sekva"
+
+msgid "Apply"
+msgstr "Apliki"
+
+msgid "Kazakhstan"
+msgstr "Kazaĥio"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Honkongo"
+
+msgid "Science"
+msgstr "Scienco"
+
+msgid "Architecture"
+msgstr "Arkitekturo"
+
+msgid "Photography"
+msgstr "Foto"
+
+msgid "Designer"
+msgstr "Designer"
+
+msgid "IT specialist"
+msgstr "IT specialisto"
+
+msgid "Agronomist"
+msgstr "Agronomo"
+
+msgid "Architect"
+msgstr "Architector"
+
+msgid "Lawyer"
+msgstr "Advokato"
+
+msgid "Writer"
+msgstr "Verkisto"
+
+msgid "Doctor"
+msgstr "Doktoro"
+
+msgid "Scientist"
+msgstr "Sciencisto"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Majstro"
+
+msgid "Cook"
+msgstr "Cook"
+
+msgid "Artist"
+msgstr "Artisto"
+
+msgid "Photographer"
+msgstr "Fotisto"
+
+msgid "Ecologist"
+msgstr "Ekologiisto"
+
+msgid "Economist"
+msgstr "Ekonomikisto"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Ĵurnalisto"
+
+msgid "Builder"
+msgstr "Konstruanto"
+
+msgid "These users may be interesting for you"
+msgstr "Tiuj uzantoj povas esti interesa por vi"
+
+msgid "These articles may be interesting for you"
+msgstr "Tiuj artikoloj povas esti interesa por vi"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Vi aliĝis tiun grupon kiel Аdministrator"
+
+msgid "articles written."
+msgstr "skribitaj artikoloj."
+
+msgid "groups created."
+msgstr "grupoj kreitaj."
+
+msgid "Creation"
+msgstr "Kreo"
+
+msgid "Build a dream"
+msgstr "Konstruu sonĝo"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Legu pli interesaj artikoloj - forflugi registriĝo"
+

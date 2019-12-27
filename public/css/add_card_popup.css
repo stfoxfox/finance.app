@@ -1,0 +1,98 @@
+/* add_card_popup
+------------------------------------*/
+
+.container-card{
+  max-width: 570px;
+  position: relative;
+  margin:0 auto;
+  padding:45px 50px;
+  background:#fff;
+}
+
+.wTab_Nav {
+  display: table;
+  width: 100%;
+  font-size: 0;
+  line-height: 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  text-align: center;
+}
+
+.wTab_link:first-child{
+  border-radius: 4px 0px 0px 4px;
+}
+
+.wTab_link:last-child{
+  border-radius: 0px 4px 4px 0px;
+}
+
+.wTab_link {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  height: 36px;
+  padding: 0 30px;
+  font: 15px/36px Arial,Helvetica,sans-serif;
+  color: #78797a;
+  background: #fff;
+  border:1px solid #bbbbbb;
+  cursor: pointer;
+  -webkit-backface-visibility:hidden;
+}
+
+.no-touch .wTab_link:hover {
+  color: #fff;
+  background: #eb7209;
+}
+
+.wTab_link.curr {
+  color: #fff;
+  background: #12d09b;
+  border:#12d09b;
+}
+
+.no-touch .wTab_link.curr:hover {
+  background: #00f;
+}
+
+.wTab_Cantainer {
+  position: relative;
+}
+
+.wTab_Block {
+  display: none;
+}
+
+.wTab_Block.curr {
+  display: block;
+}
+
+@media (max-width: 1280px){
+
+}
+
+@media (max-width: 1024px){
+
+}
+
+@media (max-width: 980px){
+
+}
+
+@media (max-width: 780px){
+
+}
+
+@media (max-width: 540px){
+
+}
+
+@media (max-width: 480px){
+
+}
+
+/*------------------------------------*/

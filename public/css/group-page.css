@@ -1,0 +1,540 @@
+.group-page {
+  cursor: default;
+  position: relative;
+  padding: 0 20px;
+  z-index: 50; }
+  .group-page .container-fluid {
+    max-width: 1200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
+  .group-page .page-menu .dropdown {
+    position: inherit;
+    display: inline-block; }
+    .group-page .page-menu .dropdown .dropdown-menu {
+      position: fixed;
+      left: 50%;
+      top: 50%;
+      margin: -133px 0 0 -267.5px; }
+  .group-page .gallery-box {
+    padding: 0; }
+    .group-page .gallery-box .gallery-box-item {
+      margin-bottom: 20px;
+      padding: 0; }
+      .group-page .gallery-box .gallery-box-item.video-box a {
+        position: relative;
+        display: inline-block;
+        height: 100%;
+        width: 100%; }
+        .group-page .gallery-box .gallery-box-item.video-box a:hover:before {
+          content: '';
+          position: absolute;
+          background: rgba(0, 0, 0, 0.4) url(../img/play-btn-gallery.png) no-repeat 50% 50%;
+          height: 100%;
+          width: 100%;
+          top: 0;
+          left: 0; }
+      .group-page .gallery-box .gallery-box-item img {
+        width: 100%; }
+  .group-page .taright .wrench {
+    height: 20px;
+    top: -3px;
+    left: 2px; }
+  .group-page .taright .btn-default {
+    height: 34px; }
+  .group-page .subheading .pencil {
+    top: -3px;
+    left: 2px; }
+  .group-page .header-group-create {
+    padding-top: 18px;
+    margin-bottom: 10px; }
+    .group-page .header-group-create .group-page-title {
+      color: #313131;
+      font-family: "Roboto";
+      font-size: 36px;
+      font-weight: 900; }
+/*
+    .group-page .header-group-create .page-title-group-image {
+      height: 50px;
+      width: 50px;
+      margin-right: 20px;
+      overflow: hidden;
+      float: left; }
+
+      .group-page .header-group-create .page-title-group-image img {
+        display: block;
+        min-width: 50px;
+        min-height: 50px; }
+*/
+    .group-page .header-group-create .title-button {
+      text-align: right;
+      font-size: 14px;
+      margin: 8px 0 0; }
+      .group-page .header-group-create .title-button .parents {
+        margin: -1px -5px 0 0; }
+      .group-page .header-group-create .title-button .wrench {
+        margin: -2px -7px 1px 0; }
+  .group-page .group-create {
+    padding: 14px 0 45px; }
+    .group-page .group-create .group-create-head .group-create-logo {
+      padding: 0 30px 0 0; }
+      .group-page .group-create .group-create-head .group-create-logo figure {
+        padding: 0;
+        margin: 0 0 10px; }
+        .group-page .group-create .group-create-head .group-create-logo figure img {
+          width: 100%;
+          max-width: 200px;
+          padding-right: 15px;
+          margin-bottom: 15px;
+          cursor: pointer; }
+        .group-page .group-create .group-create-head .group-create-logo figure label {
+          margin-bottom: 0; }
+      .group-page .group-create .group-create-head .group-create-logo .edit-group-logo {
+        color: #616161;
+        font-size: 13px;
+        font-weight: 400;
+        padding: 0; }
+    .group-page .group-create .group-create-cell {
+      padding: 0; }
+      .group-page .group-create .group-create-cell fieldset {
+        margin-bottom: 15px; }
+        .group-page .group-create .group-create-cell fieldset label {
+          display: block;
+          color: #818181;
+          font-size: 11px;
+          font-weight: 400; }
+        .group-page .group-create .group-create-cell fieldset .input-boxing {
+          margin-bottom: 15px;
+          border-bottom: 2px solid #eeeeee; }
+          .group-page .group-create .group-create-cell fieldset .input-boxing .icon-input {
+            display: inline-block;
+            height: 34px;
+            width: 34px;
+            padding-top: 3px;
+            font-size: 18px;
+            color: #616161;
+            float: left; }
+          .group-page .group-create .group-create-cell fieldset .input-boxing input {
+            width: 100%;
+            color: #313131;
+            font-family: "Open Sans";
+            padding: 2px 0 10px;
+            font-weight: 700;
+            font-size: 24px;
+            border: none;
+            float: left; }
+            .group-page .group-create .group-create-cell fieldset .input-boxing input.icon-left-width {
+              width: 89%; }
+          .group-page .group-create .group-create-cell fieldset .input-boxing textarea {
+            width: 90%;
+            color: #313131;
+            font-family: "Open Sans";
+            overflow-y: hidden;
+            padding: 2px 0 10px;
+            font-weight: 700;
+            font-size: 24px;
+            border: none;
+            float: left;
+            resize: none; }
+            .group-page .group-create .group-create-cell fieldset .input-boxing textarea.animated {
+              -webkit-transition: height 0.2s;
+              -moz-transition: height 0.2s;
+              transition: height 0.2s; }
+        .group-page .group-create .group-create-cell fieldset .gallery-add {
+          position: relative;
+          margin: 15px 0 14px; }
+          .group-page .group-create .group-create-cell fieldset .gallery-add .jq-file {
+            float: left; }
+          .group-page .group-create .group-create-cell fieldset .gallery-add .btn-default {
+            padding: 5px 10px 6px;
+            font-size: 13px; }
+          .group-page .group-create .group-create-cell fieldset .gallery-add .gallery-add-list {
+            position: relative; }
+            .group-page .group-create .group-create-cell fieldset .gallery-add .gallery-add-list li {
+              position: relative;
+              height: 94px;
+              width: 124px;
+              border: 2px solid #efefef;
+              margin-bottom: 10px;
+              margin-right: 20px;
+              text-align: center;
+              font-size: 18px;
+              float: left; }
+              .group-page .group-create .group-create-cell fieldset .gallery-add .gallery-add-list li:last-child {
+                margin-right: 0; }
+              .group-page .group-create .group-create-cell fieldset .gallery-add .gallery-add-list li .label-add {
+                display: inline-block;
+                padding: 34px 0;
+                margin: 0 0 0 8px;
+                color: #CBCBCB; }
+                .group-page .group-create .group-create-cell fieldset .gallery-add .gallery-add-list li .label-add label {
+                  font-size: 18px;
+                  color: #CBCBCB; }
+                .group-page .group-create .group-create-cell fieldset .gallery-add .gallery-add-list li .label-add:focus {
+                  outline: none; }
+              .group-page .group-create .group-create-cell fieldset .gallery-add .gallery-add-list li .remove-media {
+                position: absolute;
+                height: 21px;
+                width: 21px;
+                border-top-left-radius: 50%;
+                border-top-right-radius: 50%;
+                border-bottom-left-radius: 50%;
+                border-bottom-right-radius: 50%;
+                top: -10px;
+                right: -10px;
+                padding: 0 0 0 5px;
+                background: #fff;
+                cursor: pointer;
+                font-size: 12px;
+                color: #CBCBCB;
+                z-index: 20; }
+                .group-page .group-create .group-create-cell fieldset .gallery-add .gallery-add-list li .remove-media .glyphicons {
+                  margin-top: -1px; }
+                .group-page .group-create .group-create-cell fieldset .gallery-add .gallery-add-list li .remove-media:hover {
+                  background: #fff;
+                  color: #23b5ae; }
+              .group-page .group-create .group-create-cell fieldset .gallery-add .gallery-add-list li .gallery-video {
+                position: relative; }
+                .group-page .group-create .group-create-cell fieldset .gallery-add .gallery-add-list li .gallery-video:hover:before {
+                  content: '';
+                  position: absolute;
+                  height: 90px;
+                  width: 120px;
+                  background: rgba(48, 48, 47, 0.2) url(../img/play-btn-gallery.png) no-repeat 50% 50%;
+                  left: 0;
+                  top: -33px;
+                  z-index: 10; }
+          .group-page .group-create .group-create-cell fieldset .gallery-add .drop-add-video {
+            display: none;
+            position: absolute;
+            height: 160px;
+            width: 370px;
+            border-top-left-radius: 2px;
+            border-top-right-radius: 2px;
+            border-bottom-left-radius: 2px;
+            border-bottom-right-radius: 2px;
+            box-shadow: 0 3px 13px rgba(0, 0, 0, 0.41);
+            border: 1px solid #CCC;
+            background: #fff;
+            top: 50%;
+            left: 50%;
+            text-align: left;
+            padding: 12px 25px;
+            margin: -80px 0 0 -185px;
+            z-index: 500; }
+            .group-page .group-create .group-create-cell fieldset .gallery-add .drop-add-video.open {
+              display: block; }
+            .group-page .group-create .group-create-cell fieldset .gallery-add .drop-add-video .close-block {
+              position: absolute;
+              top: 5px;
+              right: 5px;
+              color: #C5C5C5;
+              font-size: 15px;
+              cursor: pointer; }
+            .group-page .group-create .group-create-cell fieldset .gallery-add .drop-add-video label {
+              display: inline-block;
+              margin-bottom: 0;
+              font-weight: 400;
+              font-size: 11px;
+              color: #818181; }
+            .group-page .group-create .group-create-cell fieldset .gallery-add .drop-add-video input {
+              width: 100%;
+              border: none;
+              color: #313131;
+              font-family: "Open Sans";
+              border-bottom: 2px solid #eeeeee;
+              margin-bottom: 20px;
+              padding: 5px 0 7px;
+              font-weight: 700;
+              font-size: 24px;
+              float: left; }
+      .group-page .group-create .group-create-cell .group-block-remove {
+        position: relative;
+        margin-top: -20px;
+        padding: 0 0 30px;
+        font-size: 11px;
+        font-weight: 400;
+        text-align: right;
+        font-style: italic;
+        color: #818181; }
+        .group-page .group-create .group-create-cell .group-block-remove span {
+          cursor: pointer; }
+          .group-page .group-create .group-create-cell .group-block-remove span:hover i {
+            border-bottom-color: transparent; }
+          .group-page .group-create .group-create-cell .group-block-remove span i {
+            border-bottom: 1px dotted #818181; }
+      .group-page .group-create .group-create-cell .group-create-left {
+        text-align: right; }
+        .group-page .group-create .group-create-cell .group-create-left .add-new-info {
+          position: relative;
+          display: inline-block;
+          text-decoration: none;
+          font-weight: 400;
+          font-size: 13px;
+          color: #313131;
+          top: -4px; }
+          .group-page .group-create .group-create-cell .group-create-left .add-new-info:hover .title-new-info {
+            border-bottom-color: transparent; }
+          .group-page .group-create .group-create-cell .group-create-left .add-new-info .icons-new-info {
+            margin-top: -7px;
+            font-size: 15px;
+            color: #23B5AE; }
+          .group-page .group-create .group-create-cell .group-create-left .add-new-info .title-new-info {
+            border-bottom: 1px dotted #c4c4c4; }
+      .group-page .group-create .group-create-cell .delete-group {
+        float: right; }
+  .group-page .group-users-block {
+    padding: 30px 0 18px; }
+    .group-page .group-users-block .panel-users-block {
+      position: relative;
+      background: #f5f6f8;
+      margin-bottom: 20px;
+      overflow: hidden;
+      height: 74px; }
+      .group-page .group-users-block .panel-users-block.remove-open .r-users-block {
+        border-left: none;
+        right: -1px; }
+      .group-page .group-users-block .panel-users-block.remove-open .remove {
+        color: #fff !important;
+        background: #ff6363; }
+      .group-page .group-users-block .panel-users-block.remove-open .remove-block-drop {
+        top: 0%; }
+      .group-page .group-users-block .panel-users-block .link-block {
+        width: 100%;
+        float: left; }
+      .group-page .group-users-block .panel-users-block .l-users-block {
+        width: 100%;
+        padding: 10px 0 10px 10px;
+        float: left; }
+        .group-page .group-users-block .panel-users-block .l-users-block figure {
+          height: 52px;
+          width: 50px;
+          border-bottom: 2px solid transparent;
+          overflow: hidden;
+          float: left; }
+          .group-page .group-users-block .panel-users-block .l-users-block figure.rate-10 {
+            border-color: #23b5ae; }
+          .group-page .group-users-block .panel-users-block .l-users-block figure.rate-0 {
+            border-color: #ff6363; }
+          .group-page .group-users-block .panel-users-block .l-users-block figure img {
+            display: block;
+            min-height: 50px;
+            min-width: 50px; }
+        .group-page .group-users-block .panel-users-block .l-users-block .text {
+          width: 81%;
+          padding: 4px 0 0 15px;
+          float: left; }
+          .group-page .group-users-block .panel-users-block .l-users-block .text .name {
+            width: 100%;
+            display: inline-block;
+            max-width: 100%;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            color: #313131;
+            font-size: 15px;
+            font-weight: 600; }
+          .group-page .group-users-block .panel-users-block .l-users-block .text .skills {
+            width: 100%;
+            display: inline-block;
+            max-width: 100%;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            color: #616161;
+            font-size: 13px;
+            font-weight: 400; }
+      .group-page .group-users-block .panel-users-block .r-users-block {
+        position: absolute;
+        height: 74px;
+        width: 37px;
+        border-left: 1px solid #e6e6e6;
+        background: #f5f6f8;
+        right: 0;
+        top: 0;
+        z-index: 10; }
+        .group-page .group-users-block .panel-users-block .r-users-block .ok {
+          color: #ABABAB;
+          height: 37px;
+          width: 37px;
+          padding: 6px 0 0 12px;
+          cursor: pointer; }
+          .group-page .group-users-block .panel-users-block .r-users-block .ok:hover {
+            color: #fff;
+            background: #23b5ae; }
+        .group-page .group-users-block .panel-users-block .r-users-block .remove {
+          color: #ABABAB;
+          height: 37px;
+          width: 37px;
+          padding: 6px 0 0 11px;
+          cursor: pointer; }
+          .group-page .group-users-block .panel-users-block .r-users-block .remove:hover {
+            color: #fff;
+            background: #ff6363; }
+      .group-page .group-users-block .panel-users-block .remove-block-drop {
+        background: #ff6363;
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        -webkit-transition: top 0.3s ease-in-out;
+        -moz-transition: top 0.3s ease-in-out;
+        transition: top 0.3s ease-in-out;
+        color: #fff;
+        top: 100%;
+        left: 0; }
+        .group-page .group-users-block .panel-users-block .remove-block-drop .remove-text {
+          padding: 10px 40px 27px 10px;
+          font-size: 13px; }
+          .group-page .group-users-block .panel-users-block .remove-block-drop .remove-text a {
+            color: #fff;
+            border-bottom: 1px dotted #fff; }
+            .group-page .group-users-block .panel-users-block .remove-block-drop .remove-text a:hover {
+              border-bottom-color: transparent;
+              text-decoration: none; }
+        .group-page .group-users-block .panel-users-block .remove-block-drop .remove-button {
+          position: absolute;
+          bottom: 10px;
+          right: 45px; }
+          .group-page .group-users-block .panel-users-block .remove-block-drop .remove-button a {
+            display: inline-block;
+            margin: 0 5px; }
+  .group-page .group-list-ur {
+    padding: 29px 0; }
+    .group-page .group-list-ur li {
+      position: relative;
+      height: 190px;
+      width: 100px;
+      margin: 0 20px 20px 0;
+      float: left; }
+      .group-page .group-list-ur li.add-new-user figure {
+        background: url(../img/temp/emtyimage.jpg) no-repeat; }
+      .group-page .group-list-ur li .remove-media {
+        position: absolute;
+        height: 20px;
+        width: 20px;
+        border-top-left-radius: 50%;
+        border-top-right-radius: 50%;
+        border-bottom-left-radius: 50%;
+        border-bottom-right-radius: 50%;
+        top: -10px;
+        right: -10px;
+        padding: 0 0 0 4px;
+        background: #fff;
+        cursor: pointer;
+        font-size: 12px;
+        color: #CBCBCB;
+        z-index: 20; }
+        .group-page .group-list-ur li .remove-media .glyphicons {
+          margin-top: -3px; }
+        .group-page .group-list-ur li .remove-media:hover {
+          background: #23b5ae;
+          color: #fff; }
+      .group-page .group-list-ur li a {
+        text-decoration: none; }
+      .group-page .group-list-ur li figure {
+        position: relative;
+        height: 103px;
+        width: 100px;
+        border-bottom: 3px solid transparent;
+        overflow: hidden;
+        margin: 0 0 6px; }
+        .group-page .group-list-ur li figure.rate-10 {
+          border-color: #23b5ae; }
+        .group-page .group-list-ur li figure.rate-0 {
+          border-color: #ff6363; }
+        .group-page .group-list-ur li figure img {
+          display: block;
+          min-height: 100px;
+          min-width: 100px; }
+      .group-page .group-list-ur li .name {
+        font-size: 15px;
+        line-height: 22px;
+        display: inline-block;
+        max-width: 100%;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        color: #313131; }
+      .group-page .group-list-ur li .profession {
+        font-size: 13px;
+        font-style: italic;
+        color: #616161; }
+
+.drop-add-list-user {
+  display: none;
+  position: absolute;
+  height: 340px;
+  width: 370px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  box-shadow: 0 3px 13px rgba(0, 0, 0, 0.41);
+  border: 1px solid #cccccc;
+  background: #fff;
+  top: 50%;
+  left: 50%;
+  text-align: left;
+  padding: 16px 25px;
+  margin: -170px 0 0 -185px;
+  z-index: 500; }
+  .drop-add-list-user .close-block {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    color: #C5C5C5;
+    font-size: 15px;
+    cursor: pointer; }
+  .drop-add-list-user label {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    font-size: 11px;
+    color: #818181; }
+  .drop-add-list-user input {
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #eeeeee;
+    margin-bottom: 25px;
+    padding: 11px 0 12px;
+    color: #313131;
+    font-family: "Roboto";
+    font-size: 17px; }
+  .drop-add-list-user .user-box-list .user-add-cell {
+    margin-bottom: 20px; }
+    .drop-add-list-user .user-box-list .user-add-cell:after {
+      content: "";
+      display: table;
+      clear: both; }
+  .drop-add-list-user .user-box-list figure {
+    position: relative;
+    border-bottom: 3px solid transparent;
+    overflow: hidden;
+    margin: 0 16px 6px 0;
+    float: left; }
+    .drop-add-list-user .user-box-list figure.rate-10 {
+      border-color: #23b5ae; }
+    .drop-add-list-user .user-box-list figure.rate-0 {
+      border-color: #ff6363; }
+    .drop-add-list-user .user-box-list figure img {
+      display: block;
+      min-height: 50px;
+      min-width: 50px; }
+  .drop-add-list-user .user-box-list .name {
+    width: 250px;
+    float: left; }
+    .drop-add-list-user .user-box-list .name .name-link {
+      display: inline-block;
+      margin-bottom: 5px;
+      color: #313131;
+      font-size: 15px; }
+      .drop-add-list-user .user-box-list .name .name-link:hover {
+        text-decoration: none; }
+    .drop-add-list-user .user-box-list .name .profession {
+      color: #616161;
+      font-size: 13px;
+      cursor: default; }
+
+.avatar-img img {
+	padding-right: 15px;
+}

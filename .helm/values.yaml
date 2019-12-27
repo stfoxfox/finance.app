@@ -1,0 +1,158 @@
+app:
+  env:
+    _default: dev
+  jwt_secret_key: 
+    _default: "%kernel.project_dir%/config/jwt/private.pem"
+  jwt_public_key:
+    _default: "%kernel.project_dir%/config/jwt/public.pem"
+  jwt_pub:
+    production: |
+      -----BEGIN PUBLIC KEY-----
+      MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAsNoWUhDkokjLxEFNcVHQ
+      sREIndClaXNdZsL9KJjRt0Mhbmps8uvyKODU357WiqJb/kSb6o0TshzPYbGj139f
+      ZVUqpx83Mhi1WUrD4Tdld62xGdDWwLFTDNVnG0Z9q0nC7Jpe2FbhVguDrDAw/3Ed
+      ECu+hnhv/vRJ0mepdj4MeDzXiJaekn1l9UF6IIp/CQJBefCRZeVkXwJfNUmSUHEY
+      tGfruNXEF53tz6Fabq5rkhhRWIavuHJYMFxxIbpBZzfOk5Okt4ERr/vc/Ds3YXOm
+      msbUAfQcigbxEYodexMhYAZp7oSaB0DvmKEMl4ipZxsdXCtUQIs2QZIGQkzJUqc8
+      zYUSGVhwH/uvNPiP9wl6abQX+iZFI/5f7cIadtzfehQOZQW9GMYUjIDZijEXyE3X
+      XRplLFNA6Lno3na4gfFANObCgOwdSwlQS3fI0QD5al3HM7p2BU+37gB0l7R7oqV1
+      nhbAEMqUxqEv8PWdh3pfVDAE+O6NOv+N4BYnyHVkQcIgofPmAKVy+mLMx2QuV9Zs
+      4WzJC7+kLTPUoM6X+KTKWuErJysh9/kUhz2UMG7tBS0vVxabHJWr7y6JYJGtQ7Nu
+      qGtyLp8SfY8uTXrePkHu/OdvgKNr2v8XmuaM1TSviNl9zOvkNOUIQdbnHQiHgAdF
+      PEW50XdL8v3+1sNa/47IbUkCAwEAAQ==
+      -----END PUBLIC KEY-----
+    _default: |
+      -----BEGIN PUBLIC KEY-----
+      MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAvFPocesWaudJ9KD9XrzH
+      +pugzbHmT83RlLTZXN01N9HxYnN7W/1lWASxy15fsQIghyp1yVk2KZtBlQ+GCG/0
+      ofPRuzamlpxbzLs0a5JAq/WnK32O9URTTzDjMJXzF6h4JcL5ckk5Xpt4zT0Ghg8z
+      x5B5RO+xvrC8Ogx/PtkIY+J0ffkumStG4gxHTGTjPY8KayqlCLiwJaNbkQ1kBp8O
+      RgEs2YPCytkzaY1+Ai4E9GOs8g8MaWPptV4jWyzSs1Y/cSXTp28lJxKfyTDWF9B3
+      eIbRw2LcTp3nIxlIByANXb5wB2DMPm+D+Gb8H2q15T7doE8KBZuZCI6lCrf/LIRT
+      I5LGL6/pXhjPD1GmY1XWR/D+X23+3+jm1zBMHshuZ+o0/OqnMxYmmFb5xtcSBjMn
+      VXqMm+cHbrnBeeYjarow5ZM9YDU5kO1y3YA+71jLU5THN6v5Dhx2fa8vSx0jDMYM
+      3QlXMnc0+jsuTX2Evksy/7ZQ+6F3z5TOjpxhTHsBBFDQOxM07boNkW+ZHG14rNAX
+      sI1uJqQ4G4pnzEj76BzsomYtge7CuEIkMd9Yix8JQUog4SnCERUk4ChxrR5I4ZkK
+      yqe3mHgEd6vX8XD6/O/6h623vX/XYTSVw7BMC2Hh5AfFNNiNdJpeLLpAYcndLIYI
+      AE69HTo5IUrrS9JM1Jf839ECAwEAAQ==
+      -----END PUBLIC KEY-----
+  locate:
+    _default: eng
+  cookie_domain: 
+    _default: "%s.k8s.konstruktor.com"
+  authentification_cookie_name:
+    _default: AUTHKONSTRUKTOR
+  token_life_time:
+    _default: 1800
+  length_password:
+    _default: 6
+  from_email: 
+    _default: k8s@konstruktor.com
+  site_domain: 
+    _default: "finance.%s.k8s.konstruktor.com"
+  cookie_language: 
+    _default: language
+  replicas:
+    finance:
+      _default: 1
+  private_api_endpoint:
+    _default: auth-private-api/api/v1
+  authentification_url:
+    _default: "http://test.k8s.konstruktor.com"
+  app_id:
+    _default: 1
+  roles_key:
+    _default: roles
+  roles_ttl:
+    _default: 60
+  braintree_environment:
+    _default: sandbox
+    production: sandbox
+  braintree_merchant_id:
+    _default: zgj4bwxr6rq29spm
+    production: zgj4bwxr6rq29spm
+  braintree_public_key:
+    _default: fk9rb7hpsfgxfzb6
+    production: fk9rb7hpsfgxfzb6
+  braintree_customer_id:
+    _default: konstruktor-05ff04c3
+    production: konstruktor-05ff04c3
+  private_finance_api_endpoint:
+    _default: finance-private-api/api/v1
+resources:
+  psql:
+    requests:
+      cpu:
+        _default: 50m
+      memory:
+        _default: 1Gi
+    limits:
+      cpu:
+        _default: 2000m
+      memory:
+        _default: 4Gi
+  redis:
+    requests:
+      cpu:
+        _default: 50m
+        production: 100m
+      memory:
+        _default: 100Mi
+        production: 4Gi
+    limits:
+      cpu:
+        _default: 1000m
+      memory:
+        _default: 512Mi
+        production: 4Gi
+  nginx:
+    requests:
+      cpu:
+        _default: 10m
+        production: 200m
+      memory:
+        _default: 256Mi
+    limits:
+      cpu:
+        _default: 500m
+      memory:
+        _default: 256Mi
+  backend:
+    requests:
+      cpu:
+        _default: 10m
+        production: 100m
+      memory:
+        _default: 128Mi
+        production: 768Mi
+    limits:
+      cpu:
+        _default: 200m
+        production: 1000m
+      memory:
+        _default: 1Gi
+newrelic:
+  key:
+    _default: ""
+psql:
+  external_name:
+    _default: 127.0.0.1
+  external_slave_name:
+    _default: 127.0.0.1
+  host:
+    _default: psql-finance
+  port:
+    _default: "5432"
+  db:
+    _default: finance
+  user:
+    _default: postgres
+    production: postgres
+redis:
+  dns:
+    _default: redis://redis-finance
+  port:
+    _default: 6379
+  database:
+    _default: 1
+

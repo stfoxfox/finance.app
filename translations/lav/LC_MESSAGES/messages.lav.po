@@ -1,0 +1,3344 @@
+# Latvijas (Латышский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: Latvijas (Латышский) <support@konstruktor.com>\n"
+"Language: Latvijas (Латышский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "lietotājvārds"
+
+msgid "Invalid username or password, try again"
+msgstr "Nepareizs lietotājvārds vai parole . Mēģiniet vēlreiz."
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Home"
+msgstr "mājas"
+
+msgid "You must log in to access this page"
+msgstr "Jums jāpiesakās, lai piekļūtu šai lapai"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Jūsu sesija ir beigusies. Lūdzu , relogin veikt šo darbību"
+
+msgid "Save"
+msgstr "Saglabāt"
+
+msgid "Head Office"
+msgstr "Centrālais birojs"
+
+msgid "Address"
+msgstr "adrese"
+
+msgid "Back"
+msgstr "atpakaļ"
+
+msgid "Apply"
+msgstr "pieteikties"
+
+msgid "Upload files…"
+msgstr "Augšupielādēt failus ..."
+
+msgid "Set as main"
+msgstr "Uzstādīt kā galveno"
+
+msgid "Delete"
+msgstr "izdzēst"
+
+msgid "Original image"
+msgstr "oriģinālais attēls"
+
+msgid "Uploaded"
+msgstr "augšupielādēts"
+
+msgid "File name"
+msgstr "faila nosaukumu"
+
+msgid "File size"
+msgstr "faila izmērs"
+
+msgid "Resolution"
+msgstr "rezolūcija"
+
+msgid "Enlarge"
+msgstr "palielināt"
+
+msgid "Links"
+msgstr "saites"
+
+msgid "Original size"
+msgstr "Original size"
+
+msgid "For editor"
+msgstr "par redaktors"
+
+msgid "Resize"
+msgstr "Resize"
+
+msgid "Width"
+msgstr "platums"
+
+msgid "Height"
+msgstr "augstums"
+
+msgid "Media URL"
+msgstr "Media URL"
+
+msgid "Add record"
+msgstr "Pievienot ierakstu"
+
+msgid "Show filter settings"
+msgstr "Rādīt filtra iestatījumus"
+
+msgid "Edit record"
+msgstr "rediģēt ierakstu"
+
+msgid "Delete record"
+msgstr "dzēst ierakstu"
+
+msgid "Delete checked records"
+msgstr "Dzēst atzīmētos ierakstus"
+
+msgid "Dashboard"
+msgstr "mērinstrumentu panelis"
+
+msgid "Password"
+msgstr "parole"
+
+msgid "Remember me"
+msgstr "Atcerēties mani"
+
+msgid "Login"
+msgstr "lietotāja vārds"
+
+msgid "Clean image cache"
+msgstr "Clean image kešatmiņa"
+
+msgid "Processing query..."
+msgstr "Apstrāde vaicājums ..."
+
+msgid "CMS Development"
+msgstr "CMS attīstība"
+
+msgid "Admin Home Page"
+msgstr "Admin mājas lapa"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Atvērt mājas lapa Front -end jaunā cilnē"
+
+msgid "Go to Site"
+msgstr "Doties uz mājas lapu"
+
+msgid "Log out"
+msgstr "Iziet"
+
+msgid "Send"
+msgstr "sūtīt"
+
+msgid "General"
+msgstr "vispārējs"
+
+msgid "Title"
+msgstr "virsraksts"
+
+msgid "Teaser"
+msgstr "ķircinātājs"
+
+msgid "Published"
+msgstr "Izdots"
+
+msgid "Featured"
+msgstr "Featured"
+
+msgid "Active"
+msgstr "aktīvs"
+
+msgid "Field is mandatory"
+msgstr "Lauks ir obligāts"
+
+msgid "Sort Order"
+msgstr "Kārtot Order"
+
+msgid "Upload"
+msgstr "Upload"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "februāris"
+
+msgid "Mar"
+msgstr "marts"
+
+msgid "Apr"
+msgstr "aprīlis"
+
+msgid "May"
+msgstr "maijs"
+
+msgid "Jun"
+msgstr "jūnijs"
+
+msgid "Jul"
+msgstr "jūlijs"
+
+msgid "Aug"
+msgstr "augusts"
+
+msgid "Sep"
+msgstr "septembris"
+
+msgid "Oct"
+msgstr "oktobris"
+
+msgid "Nov"
+msgstr "novembris"
+
+msgid "Dec"
+msgstr "decembris"
+
+msgid "Product already exists in the order"
+msgstr "Produkts jau ir kārtībā"
+
+msgid "Product does not exist"
+msgstr "Produkts neeksistē"
+
+msgid "Incorrect request"
+msgstr "nepareizs pieprasījums"
+
+msgid "Products"
+msgstr "produkti"
+
+msgid "Product types"
+msgstr "produktu veidi"
+
+msgid "Contractors"
+msgstr "Contractors"
+
+msgid "Contractor"
+msgstr "darbuzņēmējs"
+
+msgid "Orders"
+msgstr "Pasūtījumi"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "New order"
+msgstr "jaunā kārtība"
+
+msgid "My orders"
+msgstr "Mani pasūtījumi"
+
+msgid "Recharge balance"
+msgstr "Uzlādējiet bilance"
+
+msgid "Administrator"
+msgstr "administrators"
+
+msgid "Incorrect event ID"
+msgstr "Nepareizs notikuma ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Edit darbuzņēmējs"
+
+msgid "Create contractor"
+msgstr "Izveidot darbuzņēmējs"
+
+msgid "Edit question"
+msgstr "Edit jautājums"
+
+msgid "Create question"
+msgstr "Izveidot jautājumu"
+
+msgid "Edit order"
+msgstr "Edit rīkojums"
+
+msgid "Create order"
+msgstr "Izveidot pasūtījumu"
+
+msgid "Edit product"
+msgstr "Edit produkts"
+
+msgid "Create product"
+msgstr "Izveidot produkts"
+
+msgid "Edit product type"
+msgstr "Edit produkta veids"
+
+msgid "Create product type"
+msgstr "Izveidot produkta veidu"
+
+msgid "You have received a file"
+msgstr "Jūs esat saņēmis failu"
+
+msgid "You received a file from"
+msgstr "Jūs saņēmāt failu no"
+
+msgid "File has been uploaded"
+msgstr "Fails ir augšupielādēts"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "Minimālais daudzums"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "priekšmeti"
+
+msgid "Remove"
+msgstr "noņemt"
+
+msgid "Contact person"
+msgstr "Kontaktpersona"
+
+msgid "Email"
+msgstr "E-pasts"
+
+msgid "Contractor phone"
+msgstr "Izpildītājs tālrunis"
+
+msgid "Contractor name"
+msgstr "Izpildītājs nosaukums"
+
+msgid "Contractor details"
+msgstr "darbuzņēmējs informācija"
+
+msgid "Order ID"
+msgstr "Order ID"
+
+msgid "Sum"
+msgstr "summa"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Izvēlieties piemērotu maksājumu sistēmu papildināt savu bilanci"
+
+msgid "Recharge amount"
+msgstr "Uzlādējiet summa"
+
+msgid "Paid"
+msgstr "Apmaksātais"
+
+msgid "Shipped"
+msgstr "nosūtīti"
+
+msgid "- No products in this order -"
+msgstr "- Preces nav šādā secībā -"
+
+msgid "month"
+msgstr "mēnesis"
+
+msgid "No user found"
+msgstr "Neviens lietotājs atrasts"
+
+msgid "Achievement"
+msgstr "sasniegums"
+
+msgid "Confirmed accomplishments"
+msgstr "Apstiprināts sasniegumi"
+
+msgid "Remove achievement"
+msgstr "noņemt sasniegšanu"
+
+msgid "Headquaters"
+msgstr "galvenā mītne"
+
+msgid "Phone"
+msgstr "telefons"
+
+msgid "Site URL and email"
+msgstr "Site URL un e-pasta"
+
+msgid "Remove address"
+msgstr "noņemt adresi"
+
+msgid "Members"
+msgstr "Deputāti"
+
+msgid "Requires a payment"
+msgstr "Nepieciešama maksājumu"
+
+msgid "Shipping"
+msgstr "Piegāde"
+
+msgid "Ready"
+msgstr "gatavs"
+
+msgid "Find user..."
+msgstr "Atrast lietotāju ..."
+
+msgid "Order it"
+msgstr "pasūtīt"
+
+msgid "Find group..."
+msgstr "Atrast grupu ..."
+
+msgid "Find user or community..."
+msgstr "Atrast lietotāju vai kopienu ..."
+
+msgid "No item found"
+msgstr "Nē postenis atrasts"
+
+msgid "years"
+msgstr "gadiem"
+
+msgid "Send message"
+msgstr "Nosūtīt ziņu"
+
+msgid "Message"
+msgstr "ziņa"
+
+msgid "To send message press Enter"
+msgstr "Lai nosūtītu ziņu , nospiediet Enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Lai nosūtītu īsziņu nospiediet Ctrl + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Apstrāde fails ( -i ) ..."
+
+msgid "Group settings"
+msgstr "grupu iestatījumi"
+
+msgid "Create group"
+msgstr "Izveidot grupu"
+
+msgid "Group has been successfully saved"
+msgstr "Grupa ir veiksmīgi saglabāta"
+
+msgid "Group title"
+msgstr "grupas nosaukums"
+
+msgid "Group video"
+msgstr "Group video"
+
+msgid "Description"
+msgstr "apraksts"
+
+msgid "Your role in group"
+msgstr "Jūsu loma grupā"
+
+msgid "Role"
+msgstr "loma"
+
+msgid "Photo or video gallery"
+msgstr "Foto vai video galerija"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Upload video"
+
+msgid "Add group address"
+msgstr "Pievienot grupas adresi"
+
+msgid "Group articles"
+msgstr "grupu raksti"
+
+msgid "No addresses yet"
+msgstr "Nav adreses vēl"
+
+msgid "Add group achievement"
+msgstr "Pievienot grupu sasniegšanu"
+
+msgid "No achivements yet"
+msgstr "Nav Achivements vēl"
+
+msgid "Are you sure to delete this user"
+msgstr "Vai esat pārliecināts, dzēst šo lietotāju"
+
+msgid "Add member"
+msgstr "Pievienot dalībnieku"
+
+msgid "Are you sure to delete this record?"
+msgstr "Vai esat pārliecināts, dzēst šo ierakstu ?"
+
+msgid "Join this group"
+msgstr "Pievienoties šai grupai"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Jūsu uzaicinājums tika nosūtīts uz grupas administratoram"
+
+msgid "All addresses"
+msgstr "Visas adreses"
+
+msgid "Collapse"
+msgstr "sabrukums"
+
+msgid "Achievements"
+msgstr "sasniegumi"
+
+msgid "Show more"
+msgstr "Rādīt vairāk"
+
+msgid "Team"
+msgstr "komanda"
+
+msgid "Projects"
+msgstr "projekti"
+
+msgid "New project"
+msgstr "jaunais projekts"
+
+msgid "Project has not been created yet"
+msgstr "Projekts nav izveidota vēl"
+
+msgid "Messanger"
+msgstr "Messenger"
+
+msgid "Balance"
+msgstr "bilance"
+
+msgid "Main page"
+msgstr "Galvenā lapa"
+
+msgid "Upload image"
+msgstr "Augšupielādēt attēlu"
+
+msgid "My time"
+msgstr "Mans laiks"
+
+msgid "Day"
+msgstr "diena"
+
+msgid "Week"
+msgstr "nedēļa"
+
+msgid "Project settings"
+msgstr "projekta iestatījumi"
+
+msgid "Create project"
+msgstr "Izveidot projektu"
+
+msgid "Project has been successfully saved"
+msgstr "Projekts ir veiksmīgi saglabāta"
+
+msgid "Project name"
+msgstr "projekta nosaukums"
+
+msgid "Deadline"
+msgstr "Termiņš"
+
+msgid "Close"
+msgstr "aizvērt"
+
+msgid "Manager"
+msgstr "vadītājs"
+
+msgid "Assigned to"
+msgstr "piešķirts"
+
+msgid "Discussion"
+msgstr "diskusija"
+
+msgid "Task was created"
+msgstr "Uzdevums tika izveidots"
+
+msgid "Task was closed"
+msgstr "Uzdevums tika slēgta"
+
+msgid "Go to Group"
+msgstr "Iet uz grupas"
+
+msgid "Closed"
+msgstr "slēgts"
+
+msgid "Last updates"
+msgstr "Pēdējie atjauninājumi"
+
+msgid "Project is closed"
+msgstr "Projekts tiek slēgts"
+
+msgid "No open tasks"
+msgstr "Nav atklātas uzdevumi"
+
+msgid "New task"
+msgstr "Jauns uzdevums"
+
+msgid "Closed tasks"
+msgstr "Slēgts uzdevumi"
+
+msgid "Add subproject"
+msgstr "Pievienot apakšprojekts"
+
+msgid "Add task"
+msgstr "Pievienot uzdevumu"
+
+msgid "Sun"
+msgstr "svētdiena"
+
+msgid "Mon"
+msgstr "pirmdiena"
+
+msgid "Tue"
+msgstr "otrdiena"
+
+msgid "Wed"
+msgstr "trešdiena"
+
+msgid "Thur"
+msgstr "ceturtdiena"
+
+msgid "Fri"
+msgstr "piektdiena"
+
+msgid "Sat"
+msgstr "sestdiena"
+
+msgid "Event title"
+msgstr "Pasākuma nosaukums"
+
+msgid "Event description"
+msgstr "Pasākumu apraksts"
+
+msgid "I registered on this site"
+msgstr "Es reģistrēta šajā vietnē"
+
+msgid "Last created groups"
+msgstr "Pēdējās izveidotās grupas"
+
+msgid "You joined this group as"
+msgstr "Tu pievienojies šo grupu kā"
+
+msgid "You received a request to join the group"
+msgstr "Jūs saņēmāt pieprasījumu pievienoties grupai"
+
+msgid "Updated site"
+msgstr "atjaunināts vietne"
+
+msgid "Site is under construction"
+msgstr "Lapa ir izstrādes stadijā"
+
+msgid "Last registered users"
+msgstr "Pēdējie reģistrētie lietotāji"
+
+msgid "User settings"
+msgstr "Lietotāja uzstādījumi"
+
+msgid "Technical support"
+msgstr "tehniskais atbalsts"
+
+msgid "Change email"
+msgstr "Mainīt e-pastu"
+
+msgid "Change password"
+msgstr "Mainīt paroli"
+
+msgid "User has been successfully saved"
+msgstr "Lietotājs ir veiksmīgi saglabāta"
+
+msgid "Full name"
+msgstr "Pilnais vārds"
+
+msgid "My video"
+msgstr "Mans video"
+
+msgid "Skills"
+msgstr "prasmes"
+
+msgid "Birthday"
+msgstr "dzimšanas diena"
+
+msgid "Country of residence"
+msgstr "Dzīvesvietas valsts"
+
+msgid "Country"
+msgstr "valsts"
+
+msgid "Zip Code"
+msgstr "Pasta indekss"
+
+msgid "City/town of residence"
+msgstr "Pilsēta / pilsēta dzīvesvietas"
+
+msgid "University/college"
+msgstr "Universitāte / koledža"
+
+msgid "University/college photo"
+msgstr "Universitāte / koledža foto"
+
+msgid "Add user\'s accomplishments"
+msgstr "Pievienot lietotāja paveikto"
+
+msgid "Interface language"
+msgstr "interfeisa valoda"
+
+msgid "How other people see this page"
+msgstr "Kā citi cilvēki redz šo lapu"
+
+msgid "Video with me"
+msgstr "Video ar mani"
+
+msgid "Groups"
+msgstr "Grupas"
+
+msgid "Registered today"
+msgstr "reģistrēta šodien"
+
+msgid "Qty"
+msgstr "Daudz"
+
+msgid "No registered users yet"
+msgstr "Nav reģistrētu lietotāju atsauksmes"
+
+msgid "Total"
+msgstr "kopsumma"
+
+msgid "Registered total"
+msgstr "reģistrēta kopējā"
+
+msgid "You received a file"
+msgstr "Jūs saņēmāt failu"
+
+msgid "You were invited into this room"
+msgstr "Jums tika uzaicināti uz šo telpā"
+
+msgid "Request is being processed"
+msgstr "Pieprasījums tiek apstrādāts"
+
+msgid "Fax"
+msgstr "fakss"
+
+msgid "Messenger"
+msgstr "kurjers"
+
+msgid "New subproject"
+msgstr "Jauns apakšprojekts"
+
+msgid "messages written."
+msgstr "ziņas rakstīts ."
+
+msgid "projects created based on groups."
+msgstr "projekti , kas izveidoti, balstoties uz grupu ."
+
+msgid "users registered on website."
+msgstr "Lietotāji reģistrēta mājas lapā ."
+
+msgid "New email"
+msgstr "Jaunā e-pasts"
+
+msgid "Confirm email"
+msgstr "Apstiprini epastu"
+
+msgid "New password"
+msgstr "Jauna parole"
+
+msgid "Confirm password"
+msgstr "Apstipriniet paroli"
+
+msgid "Occupation"
+msgstr "Speciality"
+
+msgid "Timezone"
+msgstr "Laika josla"
+
+msgid "Answer"
+msgstr "atbilde"
+
+msgid "Articles"
+msgstr "Raksti"
+
+msgid "Article"
+msgstr "raksts"
+
+msgid "Video-article"
+msgstr "Video - raksts"
+
+msgid "Find article..."
+msgstr "Atrast rakstu ..."
+
+msgid "Politics"
+msgstr "politika"
+
+msgid "Economics"
+msgstr "Ekonomika"
+
+msgid "Community"
+msgstr "Kopiena"
+
+msgid "Culture"
+msgstr "kultūra"
+
+msgid "Sports"
+msgstr "sporta"
+
+msgid "Hi-tech"
+msgstr "Hi -tech"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Fashion"
+msgstr "fasons"
+
+msgid "Games"
+msgstr "spēles"
+
+msgid "Other"
+msgstr "cits"
+
+msgid "Invalid mediafile"
+msgstr "Nederīga mediafile"
+
+msgid "No articles in this category yet"
+msgstr "Nav raksti šajā kategorijā vēl"
+
+msgid "Back to profile"
+msgstr "Atpakaļ uz profilu"
+
+msgid "View article"
+msgstr "Skatīt rakstu"
+
+msgid "Edit article"
+msgstr "Edit raksts"
+
+msgid "Create article"
+msgstr "Izveidot rakstu"
+
+msgid "Article title"
+msgstr "virsraksts pants"
+
+msgid "Article section"
+msgstr "sadaļa pants"
+
+msgid "Choose image"
+msgstr "Izvēlieties attēlu"
+
+msgid "Save and upload"
+msgstr "Saglabāt un augšupielādēt"
+
+msgid "Show more..."
+msgstr "Parādīt vairāk ..."
+
+msgid "Create"
+msgstr "izveidot"
+
+msgid "Edit"
+msgstr "rediģēt"
+
+msgid "Project"
+msgstr "projekts"
+
+msgid "Team"
+msgstr "komanda"
+
+msgid "A new article was published"
+msgstr "Jauns raksts tika publicēts"
+
+msgid "You joined this project"
+msgstr "Tu pievienojies šo projektu"
+
+msgid "Enter your information in the User settings"
+msgstr "Ievadiet informāciju lietotāja iestatījumiem"
+
+msgid "Communities"
+msgstr "Communities"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Video prezentācija maniem sasniegumiem"
+
+msgid "My articles"
+msgstr "Mani raksti"
+
+msgid "User"
+msgstr "lietotājs"
+
+msgid "Users"
+msgstr "lietotāji"
+
+msgid "Add new list"
+msgstr "Pievienot jaunu sarakstu"
+
+msgid "List title"
+msgstr "Saraksts virsraksts"
+
+msgid "Add"
+msgstr "pievienot"
+
+msgid "Add to favorites"
+msgstr "Pievienot pie favorītiem"
+
+msgid "Delete from favorites"
+msgstr "Dzēst no izlases"
+
+msgid "Select list"
+msgstr "Izvēlēties sarakstu"
+
+msgid "Subscriptions"
+msgstr "Abonementi"
+
+msgid "Subscribe"
+msgstr "abonēt"
+
+msgid "Unsubscribe"
+msgstr "Atteikties"
+
+msgid "General list"
+msgstr "General saraksts"
+
+msgid "No users in this list"
+msgstr "Nav lietotāji šajā sarakstā"
+
+msgid "Publish"
+msgstr "publicēt"
+
+msgid "Unpublish"
+msgstr "Atcelt publicēšanu"
+
+msgid "Add user"
+msgstr "Pievienot lietotāju"
+
+msgid "Create document"
+msgstr "Izveidot dokumentu"
+
+msgid "Edit document"
+msgstr "Edit dokuments"
+
+msgid "View"
+msgstr "skats"
+
+msgid "Document title"
+msgstr "dokumenta nosaukums"
+
+msgid "Find document..."
+msgstr "Atrast dokumentu ..."
+
+msgid "Share your thoughts"
+msgstr "Dalīties ar jūsu domas"
+
+msgid "Leave your comment"
+msgstr "Atstājiet savu komentāru"
+
+msgid "Accept"
+msgstr "akceptēt"
+
+msgid "Decline"
+msgstr "panīkums"
+
+msgid "Add article"
+msgstr "Pievienot rakstu"
+
+msgid "Link to verified accomplishments"
+msgstr "Saite uz pārbaudītiem paveikto"
+
+msgid "No articles here yet..."
+msgstr "Nav raksti šeit vēl ..."
+
+msgid "Find file or folder..."
+msgstr "Atrast failu vai mapi ..."
+
+msgid "Sort"
+msgstr "šķirot"
+
+msgid "By name"
+msgstr "pēc nosaukuma"
+
+msgid "By date"
+msgstr "pēc datuma"
+
+msgid "By updated date"
+msgstr "Ar atjaunināto datuma"
+
+msgid "By size"
+msgstr "pēc izmēra"
+
+msgid "By type"
+msgstr "pēc veida"
+
+msgid "Move"
+msgstr "pārvietot"
+
+msgid "File Manager"
+msgstr "failu pārvaldnieks"
+
+msgid "Share link"
+msgstr "Share link"
+
+msgid "Responsible"
+msgstr "atbildīgs"
+
+msgid "Performer"
+msgstr "izpildītājs"
+
+msgid "New Folder"
+msgstr "Jauna mape"
+
+msgid "Folder name"
+msgstr "Mapes nosaukums"
+
+msgid "By default"
+msgstr "Pēc noklusējuma"
+
+msgid "Back to group"
+msgstr "Atpakaļ uz grupu"
+
+msgid "year(s)"
+msgstr "gads (-i)"
+
+msgid "January"
+msgstr "janvāris"
+
+msgid "February"
+msgstr "februāris"
+
+msgid "March"
+msgstr "marts"
+
+msgid "April"
+msgstr "aprīlis"
+
+msgid "May"
+msgstr "maijs"
+
+msgid "June"
+msgstr "jūnijs"
+
+msgid "July"
+msgstr "jūlijs"
+
+msgid "August"
+msgstr "augusts"
+
+msgid "September"
+msgstr "septembris"
+
+msgid "October"
+msgstr "oktobris"
+
+msgid "November"
+msgstr "novembris"
+
+msgid "December"
+msgstr "decembris"
+
+msgid "Password Reminder"
+msgstr "paroles atgādinājums"
+
+msgid "Log In"
+msgstr "Pieslēgties"
+
+msgid "Sign in"
+msgstr "Ielogoties"
+
+msgid "Register"
+msgstr "Reģistrēties"
+
+msgid "First name"
+msgstr "Vārds"
+
+msgid "Last name"
+msgstr "Uzvārds"
+
+msgid "I agree with rules"
+msgstr "Es piekrītu noteikumiem"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Apstiprinājuma pasts tika nosūtīts uz jūsu e-pasta adresi."
+
+msgid "Thanks"
+msgstr "paldies"
+
+msgid "Password must be at least 6 characters"
+msgstr "Paroles jābūt vismaz 6 simboli"
+
+msgid "Creative Environment"
+msgstr "Creative Vide"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Jums ir jābūt vismaz trīspadsmit gadiem, lai izmantotu šo pakalpojumu"
+
+msgid "Order status"
+msgstr "Pasūtījuma statuss"
+
+msgid "Processing order"
+msgstr "apstrādes kārtība"
+
+msgid "Requires a payment"
+msgstr "Nepieciešams maksājumu"
+
+msgid "Shipping"
+msgstr "Piegāde"
+
+msgid "Ready"
+msgstr "gatavs"
+
+msgid "Thank you for your payment"
+msgstr "Paldies par Jūsu maksājumu"
+
+msgid "Your payment has been cancelled"
+msgstr "Tavs maksājums tika atcelts"
+
+msgid "page"
+msgstr "lappuse"
+
+msgid "Rent period"
+msgstr "Rent periods"
+
+msgid "Total, month"
+msgstr "Kopā, mēnesis"
+
+msgid "Order items"
+msgstr "pasūtīt preces"
+
+msgid "No records found"
+msgstr "Ieraksti nav atrasti"
+
+msgid "User with this email is already exist"
+msgstr "Lietotājs ar šo e-pastu, ir jau eksistē"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Mapi vai failu ar šādu nosaukumu jau pastāv mērķa mapē"
+
+msgid "Minimal quantity"
+msgstr "Minimālais daudzums"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "drukāt kopijas"
+
+msgid "Terms of Use"
+msgstr "Lietošanas noteikumi"
+
+msgid "Privacy Policy"
+msgstr "Privātuma politika"
+
+msgid "Find project..."
+msgstr "Atrast projektu ..."
+
+msgid "New Project"
+msgstr "Jaunceltne"
+
+msgid "Accounts"
+msgstr "konti"
+
+msgid "Operations"
+msgstr "operācijas"
+
+msgid "All accounts"
+msgstr "Visi konti"
+
+msgid "All categories"
+msgstr "Visas kategorijas"
+
+msgid "Expense"
+msgstr "izdevumi"
+
+msgid "Income"
+msgstr "ienākums"
+
+msgid "Transfer"
+msgstr "nodošana"
+
+msgid "Expense"
+msgstr "izdevumi"
+
+msgid "income"
+msgstr "ienākums"
+
+msgid "tax"
+msgstr "nodoklis"
+
+msgid "percent"
+msgstr "procents"
+
+msgid "transfer"
+msgstr "nodošana"
+
+msgid "Make operation"
+msgstr "padarīt darbību"
+
+msgid "Select date"
+msgstr "Izvēlēties datumu"
+
+msgid "Select account"
+msgstr "Izvēlieties kontu"
+
+msgid "Month"
+msgstr "mēnesis"
+
+msgid "Quarter"
+msgstr "ceturksnis"
+
+msgid "Year"
+msgstr "gads"
+
+msgid "From"
+msgstr "no"
+
+msgid "To"
+msgstr "līdz"
+
+msgid "Expense amount"
+msgstr "izdevumu summa"
+
+msgid "Categories"
+msgstr "Kategorijas"
+
+msgid "Comments"
+msgstr "Komentāri"
+
+msgid "Income amount"
+msgstr "Ienākumu summa"
+
+msgid "Transfer amount"
+msgstr "Transfer summa"
+
+msgid "From account"
+msgstr "no konta"
+
+msgid "To account"
+msgstr "atskaitīties"
+
+msgid "New Account"
+msgstr "Jauns konts"
+
+msgid "New Category"
+msgstr "jaunu kategoriju"
+
+msgid "All"
+msgstr "visi"
+
+msgid "Name"
+msgstr "nosaukums"
+
+msgid "Enter category name"
+msgstr "Ievadiet kategorijas nosaukumu"
+
+msgid "Select type"
+msgstr "Izvēlēties veidu"
+
+msgid "Credit card"
+msgstr "Kredītkarte"
+
+msgid "Debit card"
+msgstr "Debetkarte"
+
+msgid "Bank account"
+msgstr "bankas konts"
+
+msgid "Cash"
+msgstr "skaidra nauda"
+
+msgid "Balance is empty"
+msgstr "Bilance ir tukšs"
+
+msgid "Statistic is empty"
+msgstr "Statistika ir tukšs"
+
+msgid "Regular payments"
+msgstr "regulārie maksājumi"
+
+msgid "Are you sure ?"
+msgstr "Vai tu esi pārliecināts ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Vai esat pārliecināts , lai aizvērtu šo projektu ?"
+
+msgid "Project was deleted successfully"
+msgstr "Projekts tika veiksmīgi izdzēsts"
+
+msgid "Select currency"
+msgstr "Izvēlieties valūtu"
+
+msgid "Account"
+msgstr "konts"
+
+msgid "Orders list"
+msgstr "Pasūtījumi saraksts"
+
+msgid "Order payments"
+msgstr "Pasūtīt maksājumi"
+
+msgid "View order"
+msgstr "Skatīt pasūtījums"
+
+msgid "No response from Printer API"
+msgstr "Nav atbildes no Printer API"
+
+msgid "Bad response from Printer API"
+msgstr "Bad atbilde no Printer API"
+
+msgid "User ID"
+msgstr "Lietotāja ID"
+
+msgid "Contact Person"
+msgstr "Kontaktpersona"
+
+msgid "No orders to process"
+msgstr "Nav pasūtījumus apstrādāt"
+
+msgid "Article announce image"
+msgstr "Pants paziņot attēlu"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Nederīga video url . Atstājiet tukšu, vai ievietojiet derīgu youtube url"
+
+msgid "Please, enter Contractor data"
+msgstr "Lūdzu , ievadiet Uzņēmēja dati"
+
+msgid "Distribute devices"
+msgstr "izplatīt ierīces"
+
+msgid "Quantity"
+msgstr "daudzums"
+
+msgid "Devices left"
+msgstr "kreisi Devices"
+
+msgid "Distributed devices"
+msgstr "Distributed ierīces"
+
+msgid "You must enter quantity"
+msgstr "Jāievada daudzumu"
+
+msgid "All devices are distributed"
+msgstr "Visas ierīces ir izplatīti"
+
+msgid "IP address"
+msgstr "IP adrese"
+
+msgid "Only for printer"
+msgstr "Tikai printeri"
+
+msgid "Counter"
+msgstr "skaitītājs"
+
+msgid "You was excluded from this room"
+msgstr "Jums tika izslēgts no šīs telpas"
+
+msgid "Compare"
+msgstr "salīdzināt"
+
+msgid "Scheduled transaction"
+msgstr "Plānotais darījums"
+
+msgid "Select transfer account"
+msgstr "Izvēlieties nodošana konts"
+
+msgid "Select income account"
+msgstr "Izvēlieties ienākuma konts"
+
+msgid "Reports"
+msgstr "ziņojumi"
+
+msgid "Goals"
+msgstr "mērķi"
+
+msgid "Budgets"
+msgstr "budžeti"
+
+msgid "Enter user name or email..."
+msgstr "Ievadiet lietotāja vārdu vai e-pastu ..."
+
+msgid "Invite had been sended"
+msgstr "Uzaicināt bija sended"
+
+msgid "Statistics"
+msgstr "statistika"
+
+msgid "Updated site began to work"
+msgstr "Atjaunots vietā sāka strādāt"
+
+msgid "City of residence"
+msgstr "City dzīvesvietas"
+
+msgid "Edit favourites list"
+msgstr "Labot favorīti saraksts"
+
+msgid "Add favourites list"
+msgstr "Pievienot izlases sarakstu"
+
+msgid "Categories is required"
+msgstr "Kategorijas ir nepieciešama"
+
+msgid "Type new category name and hit Enter"
+msgstr "Ierakstiet jaunās kategorijas nosaukumu un hit Enter"
+
+msgid "You created an order"
+msgstr "Jūs izveidojāt pasūtījumu"
+
+msgid "You received a device due to this order"
+msgstr "Jūs saņēmāt ierīce sakarā ar šo rīkojumu"
+
+msgid "%s attached %s to task %s"
+msgstr "%s pievienots %s dot uzdevumu %s"
+
+msgid "member(s)"
+msgstr "locekli (us )"
+
+msgid "%s commented task %s"
+msgstr "%s komentēja uzdevums %s"
+
+msgid "%s closed task %s"
+msgstr "%s slēgta uzdevums %s"
+
+msgid "%s created task %s"
+msgstr "%s izveidots uzdevums %s"
+
+msgid "%s created this project"
+msgstr "%s radīja šo projektu"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s izveidots apakšprojekta \"%s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s slēgts projekta \"%s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s slēgta apakšprojekta \"%s \""
+
+msgid "This field must not be blank"
+msgstr "Šajā laukā nedrīkst būt tukšs"
+
+msgid "Document with such name is already exist"
+msgstr "Dokumentu ar šādu nosaukumu jau eksistē"
+
+msgid "Wait until image upload"
+msgstr "Pagaidiet, līdz attēlu augšupielādes"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Message can not be empty"
+msgstr "Ziņa nevar būt tukša"
+
+msgid "Yes"
+msgstr "jā"
+
+msgid "No"
+msgstr "nē"
+
+msgid "Created"
+msgstr "Izveidots"
+
+msgid "Compare is empty"
+msgstr "Salīdzināt ir tukšs"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Vai tiešām vēlaties dzēst darbību"
+
+msgid "Do you really want to delete transaction"
+msgstr "Vai jūs tiešām vēlaties dzēst darījums"
+
+msgid "Project with same name already exists"
+msgstr "Projekts ar tādu pašu nosaukumu jau eksistē"
+
+msgid "Account is not found"
+msgstr "Konts nav atrasts"
+
+msgid "Currency is required"
+msgstr "Valūta ir nepieciešama"
+
+msgid "error while deleting document"
+msgstr "Kļūda dzēšot dokumentu"
+
+msgid "Expences"
+msgstr "expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Jūs uzaicināja lietotāja \"%s\" šajā telpā"
+
+msgid "User \"%s\" joined this room"
+msgstr "Lietotājs \" %s \" pievienojās šajā telpā"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Jūs izslēgti lietotāja \"%s\" no šīs telpas"
+
+msgid "User \"%s\" left this room"
+msgstr "Lietotājs \" %s \" atstāja šo telpu"
+
+msgid "Add account"
+msgstr "Pievienot kontu"
+
+msgid "The requested page is not found"
+msgstr "Pieprasītā lapa nav atrasta"
+
+msgid "Document"
+msgstr "dokuments"
+
+msgid "Table"
+msgstr "galds"
+
+msgid "file(s)"
+msgstr "fails ( -i )"
+
+msgid "Residue"
+msgstr "atlikums"
+
+msgid "Result is empty"
+msgstr "Rezultāts ir tukšs"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Kopējā summa ir %s %s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Jums ir noguldīt %s ikmēneša saistīto kontu"
+
+msgid "Start"
+msgstr "sākums"
+
+msgid "finish"
+msgstr "apdare"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Izvēlēts konts jau tiek lietots citam mērķim"
+
+msgid "Amount required"
+msgstr "nepieciešamā summa"
+
+msgid "New goal"
+msgstr "Jaunu mērķi"
+
+msgid "Goal"
+msgstr "mērķis"
+
+msgid "Goal name"
+msgstr "Goal nosaukums"
+
+msgid "Invalid date"
+msgstr "nederīgs datums"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Nepieciešamā summa ir pozitīvs skaitlis"
+
+msgid "Remain"
+msgstr "palikt"
+
+msgid "Last day"
+msgstr "Pēdējā diena"
+
+msgid "Accumulated"
+msgstr "uzkrātais"
+
+msgid "Put aside"
+msgstr "Nolikt malā"
+
+msgid "January"
+msgstr "janvāris"
+
+msgid "February"
+msgstr "februāris"
+
+msgid "March"
+msgstr "marts"
+
+msgid "April"
+msgstr "aprīlis"
+
+msgid "May"
+msgstr "maijs"
+
+msgid "June"
+msgstr "jūnijs"
+
+msgid "July"
+msgstr "jūlijs"
+
+msgid "August"
+msgstr "augusts"
+
+msgid "September"
+msgstr "septembris"
+
+msgid "October"
+msgstr "oktobris"
+
+msgid "November"
+msgstr "novembris"
+
+msgid "December"
+msgstr "decembris"
+
+msgid "Expenses projected/actual"
+msgstr "Izdevumi prognozēts / faktiskie"
+
+msgid "Net Income projected/actual"
+msgstr "Neto Ienākumi prognozēts / faktiskais"
+
+msgid "New budget"
+msgstr "jaunais budžets"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Ieņēmumi un izdevumi Chart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Budžets ar konta pašu pāri un kategoriju jau eksistē"
+
+msgid "Budget is empty"
+msgstr "Budžets ir tukšs"
+
+msgid "Budget"
+msgstr "budžets"
+
+msgid "plan"
+msgstr "plāns"
+
+msgid "fact"
+msgstr "fakts"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "Rādīt vairāk"
+
+msgid "Cancel"
+msgstr "atcelt"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "Mani pārdošana"
+
+msgid "Time spent"
+msgstr "pavadīts laiks"
+
+msgid "Total time spent"
+msgstr "Kopā pavadītais laiks"
+
+msgid "Earnings per hour"
+msgstr "Peļņa uz vienu stundu"
+
+msgid "Total earnings"
+msgstr "kopējie ieņēmumi"
+
+msgid "Call"
+msgstr "aicinājums"
+
+msgid "Phone call"
+msgstr "Telefona zvans"
+
+msgid "Telephone calls"
+msgstr "telefona zvani"
+
+msgid "Send email"
+msgstr "Sūtīt e-pastu"
+
+msgid "Emails"
+msgstr "E-pasti"
+
+msgid "Meeting"
+msgstr "sanāksme"
+
+msgid "Meetings"
+msgstr "sanāksmes"
+
+msgid "All events"
+msgstr "Visi notikumi"
+
+msgid "Task"
+msgstr "uzdevums"
+
+msgid "Event"
+msgstr "notikums"
+
+msgid "Events"
+msgstr "Notikumi"
+
+msgid "Time"
+msgstr "laiks"
+
+msgid "Events statistics"
+msgstr "Pasākumi statistika"
+
+msgid "days"
+msgstr "dienas"
+
+msgid "hours"
+msgstr "stundas"
+
+msgid "minutes"
+msgstr "protokols"
+
+msgid "Income & expense"
+msgstr "Ienākumi un izdevumi"
+
+msgid "Show chart"
+msgstr "Rādīt diagramma"
+
+msgid "Hide chart"
+msgstr "Slēpt diagramma"
+
+msgid "Add event"
+msgstr "Pievienot notikumu"
+
+msgid "Add financial data"
+msgstr "Pievienot finanšu datiem"
+
+msgid "Select contractor"
+msgstr "Izvēlieties darbuzņēmējs"
+
+msgid "Net Income"
+msgstr "Tīrie ienākumi"
+
+msgid "Revenue"
+msgstr "ieņēmumi"
+
+msgid "Taxes"
+msgstr "nodokļi"
+
+msgid "Amount planned"
+msgstr "plānots summa"
+
+msgid "Amount"
+msgstr "summa"
+
+msgid "Period"
+msgstr "periods"
+
+msgid "Are you sure to close this task?"
+msgstr "Vai esat pārliecināts , lai aizvērtu šo uzdevumu ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "Visas grupas"
+
+msgid "added from task"
+msgstr "pievienotās no uzdevuma"
+
+msgid "Monthly repeat"
+msgstr "Mēneša atkārtojiet"
+
+msgid "Select category"
+msgstr "Izvēlieties kategoriju"
+
+msgid "Event type"
+msgstr "Notikuma veids"
+
+msgid "Margin"
+msgstr "Margin"
+
+msgid "Use finance project"
+msgstr "Izmantot finanšu projektu"
+
+msgid "New investment project"
+msgstr "Jaunais investīciju projekts"
+
+msgid "Investment project settings"
+msgstr "Investīciju projekts iestatījumi"
+
+msgid "Picture, for the announcement project"
+msgstr "Picture , par paziņojuma projektu"
+
+msgid "Announcement project"
+msgstr "Sludinājums projekts"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Photos or videos gallery"
+msgstr "Fotogrāfijas vai video galerija"
+
+msgid "required amount"
+msgstr "nepieciešamā summa"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Projekta īstenošanas laiks ( 60 dienas maksimums)"
+
+msgid "Project duration"
+msgstr "projekta ilgums"
+
+msgid "Add reward"
+msgstr "Pievienot atlīdzību"
+
+msgid "Delivery date"
+msgstr "Piegādes datums"
+
+msgid "Payment systems"
+msgstr "Maksājumu sistēmas"
+
+msgid "Terms of service"
+msgstr "Pakalpojumu sniegšanas noteikumi"
+
+msgid "Agreement"
+msgstr "līgums"
+
+msgid "Payment"
+msgstr "maksājums"
+
+msgid "My projects"
+msgstr "Mani projekti"
+
+msgid "Search result"
+msgstr "Meklēt rezultāts"
+
+msgid "Nothing not found"
+msgstr "Nekas nav atrasts"
+
+msgid "The project has no sponsors"
+msgstr "Projekts nav sponsori"
+
+msgid "Design"
+msgstr "dizains"
+
+msgid "Food"
+msgstr "pārtika"
+
+msgid "Journalism"
+msgstr "žurnālistika"
+
+msgid "Games"
+msgstr "spēles"
+
+msgid "Art"
+msgstr "māksla"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "mūzika"
+
+msgid "Handicrafts"
+msgstr "rokdarbi"
+
+msgid "Publishing"
+msgstr "izdevējdarbība"
+
+msgid "Theater"
+msgstr "teātris"
+
+msgid "Technology"
+msgstr "tehnoloģija"
+
+msgid "Film/Video"
+msgstr "Film / Video"
+
+msgid "Photo"
+msgstr "foto"
+
+msgid "Dance"
+msgstr "deja"
+
+msgid "Invalid youtube video"
+msgstr "Nederīga youtube video"
+
+msgid "is required"
+msgstr "ir nepieciešams"
+
+msgid "User"
+msgstr "lietotājs"
+
+msgid "Date"
+msgstr "datums"
+
+msgid "Collected"
+msgstr "Savākts"
+
+msgid "Choose period"
+msgstr "Izvēlieties periodu"
+
+msgid "Choose region"
+msgstr "Izvēlieties reģionu"
+
+msgid "Country"
+msgstr "valsts"
+
+msgid "Today"
+msgstr "šodien"
+
+msgid "Week"
+msgstr "nedēļa"
+
+msgid "Month"
+msgstr "mēnesis"
+
+msgid "Year"
+msgstr "gads"
+
+msgid "Free registration"
+msgstr "Bezmaksas reģistrācija"
+
+msgid "Join"
+msgstr "pievienoties"
+
+msgid "Log in using"
+msgstr "Ieiet , izmantojot"
+
+msgid "Vacancies"
+msgstr "darba iespējas"
+
+msgid "About Us"
+msgstr "Par mums"
+
+msgid "You will need email to log in"
+msgstr "Jums būs nepieciešams e-pastu , lai pieteiktos"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Vairāki 6 cipariem un burtiem kombinācija"
+
+msgid "Search users, groups, articles..."
+msgstr "Meklēt lietotājus , grupas , raksti ..."
+
+msgid "Cloud"
+msgstr "mākonis"
+
+msgid "Sunday"
+msgstr "svētdiena"
+
+msgid "Monday"
+msgstr "pirmdiena"
+
+msgid "Tuesday"
+msgstr "otrdiena"
+
+msgid "Wednesday"
+msgstr "trešdiena"
+
+msgid "Thursday"
+msgstr "ceturtdiena"
+
+msgid "Friday"
+msgstr "piektdiena"
+
+msgid "Saturday"
+msgstr "sestdiena"
+
+msgid "Edit"
+msgstr "rediģēt"
+
+msgid "Create group"
+msgstr "Izveidot grupu"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Vai jūs tiešām vēlaties pamest šo lapu ?"
+
+msgid "More"
+msgstr "vairāk"
+
+msgid "Less"
+msgstr "mazāk"
+
+msgid "Pending"
+msgstr "Līdz"
+
+msgid "Approved"
+msgstr "apstiprināts"
+
+msgid "Rejected"
+msgstr "noraidīts"
+
+msgid "Subprojects"
+msgstr "apakšprojekti"
+
+msgid "Group edit"
+msgstr "Group rediģēt"
+
+msgid "Startup"
+msgstr "Uzsākt"
+
+msgid "Tattoo"
+msgstr "tetovējums"
+
+msgid "Health"
+msgstr "veselība"
+
+msgid "Weapon"
+msgstr "ierocis"
+
+msgid "Astronomy"
+msgstr "astronomija"
+
+msgid "All articles"
+msgstr "Visi raksti"
+
+msgid "Article editor"
+msgstr "redaktors pants"
+
+msgid "Document editor"
+msgstr "Dokumentu redaktors"
+
+msgid "Apply changes"
+msgstr "Lietot izmaiņas"
+
+msgid "Save changes?"
+msgstr "Saglabāt izmaiņas?"
+
+msgid "published an article"
+msgstr "publicēja rakstu"
+
+msgid "Users"
+msgstr "lietotāji"
+
+msgid "Shared With Me"
+msgstr "Dalīta With Me"
+
+msgid "share"
+msgstr "daļa"
+
+msgid "Select Group Responsible"
+msgstr "Izvēlieties Group Atbildīgais"
+
+msgid "Create folder"
+msgstr "Izveidot mapi"
+
+msgid "Title must be at least 3 characters"
+msgstr "Nosaukums ir jābūt vismaz 3 simboli"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Bezmaksas 10 GB , finanses vadītājs , ieguldīt moduli , un daudzi citi par brīvu un uz visiem laikiem"
+
+msgid "Best regards"
+msgstr "Ar laba vēlējumiem"
+
+msgid "Updates in last 12 hours:"
+msgstr "Atjauninājumi pēdējo 12 stundu laikā:"
+
+msgid "expense"
+msgstr "izdevumi"
+
+msgid "Commentary on the event:"
+msgstr "Komentārs par notikumu:"
+
+msgid "Event place"
+msgstr "Norises vieta"
+
+msgid "Project was updated"
+msgstr "Projekts tika atjaunināta"
+
+msgid "Project was created"
+msgstr "Projekts tika izveidots"
+
+msgid "Project was closed"
+msgstr "Projekts tika slēgts"
+
+msgid "account"
+msgstr "konts"
+
+msgid "removed task"
+msgstr "noņemts uzdevums"
+
+msgid "removed subproject"
+msgstr "noņemts apakšprojekts"
+
+msgid "Title can not be empty"
+msgstr "Nosaukums nedrīkst būt tukšs"
+
+msgid "Do not select the type of event"
+msgstr "Neizvēlieties no notikuma veida"
+
+msgid "Error while saving comment"
+msgstr "Kļūda ietaupot komentāru"
+
+msgid "Save error: access denied"
+msgstr "Ietaupi kļūda : piekļuve liegta"
+
+msgid "Remains"
+msgstr "mirstīgās atliekas"
+
+msgid "Time spent, h."
+msgstr "Laiks, kas pavadīts , m ."
+
+msgid "Emails"
+msgstr "E-pasti"
+
+msgid "Meetings"
+msgstr "sanāksmes"
+
+msgid "All users"
+msgstr "Visi lietotāji"
+
+msgid "Category"
+msgstr "kategorija"
+
+msgid "Finance project"
+msgstr "Finanses projekts"
+
+msgid "Investment project"
+msgstr "Investīciju projekts"
+
+msgid "Nature"
+msgstr "daba"
+
+msgid "Data is empty"
+msgstr "Dati ir tukšs"
+
+msgid "Visitors"
+msgstr "apmeklētāji"
+
+msgid "My profile"
+msgstr "Mans profils"
+
+msgid "Sponsors"
+msgstr "sponsori"
+
+msgid "Prior to completion"
+msgstr "Pirms pabeigšanas"
+
+msgid "Select"
+msgstr "atlasīt"
+
+msgid "My groups"
+msgstr "Manas grupas"
+
+msgid "The invitation has been sent successfully"
+msgstr "Ielūgums ir veiksmīgi nosūtīts"
+
+msgid "Username has already been invited to this project"
+msgstr "Lietotājvārds jau ir uzaicināts uz šo projektu"
+
+msgid "The user is the creator of the project"
+msgstr "Lietotājs ir radītājs projekta"
+
+msgid "Provide full access"
+msgstr "Nodrošināt pilnīgu piekļuvi"
+
+msgid "Select elements to provide access"
+msgstr "Izvēlieties elementus, lai nodrošinātu piekļuvi"
+
+msgid "Select all"
+msgstr "Izvēlēties visu"
+
+msgid "User E-mail"
+msgstr "Lietotājs E - pasts"
+
+msgid "Click on the field to select a category"
+msgstr "Noklikšķiniet uz lauka , lai izvēlētos kategoriju"
+
+msgid "Invitation was deleted"
+msgstr "Ielūgums tika dzēsts"
+
+msgid "Permission denied"
+msgstr "atļauja liegta"
+
+msgid "Printed"
+msgstr "Printed"
+
+msgid "Incorrect Contractor email"
+msgstr "Nepareiza Izpildītājs email"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Vai vēlaties pievienot projektu finansēšanai pārvaldnieks ?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Lai pabeigtu reģistrācijas procesu , lūdzu , aizpildiet leju savas prasmes"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Pasts ar tālākiem norādījumiem tika nosūtīts uz jūsu e-pasta adresi"
+
+msgid "Submit"
+msgstr "iesniegt"
+
+msgid "Cars"
+msgstr "Cars"
+
+msgid "Science"
+msgstr "zinātne"
+
+msgid "Donation"
+msgstr "ziedojums"
+
+msgid "Interests"
+msgstr "intereses"
+
+msgid "Driver"
+msgstr "vadītājs"
+
+msgid "Sportsman"
+msgstr "sportists"
+
+msgid "Businessman"
+msgstr "biznesmenis"
+
+msgid "Accountant"
+msgstr "grāmatvedis"
+
+msgid "Engineer"
+msgstr "inženieris"
+
+msgid "Soldier"
+msgstr "karavīrs"
+
+msgid "Next"
+msgstr "nākamais"
+
+msgid "Hide group"
+msgstr "Slēpt grupa"
+
+msgid "groups created"
+msgstr "izveidojis grupas"
+
+msgid "articles written"
+msgstr "raksti rakstisks"
+
+msgid "These groups may be interesting for you"
+msgstr "Šīs grupas var būt interesanti jums"
+
+msgid "About Group"
+msgstr "Par grupas"
+
+msgid "view(s)"
+msgstr "skats ( s )"
+
+msgid "Favorite users"
+msgstr "Izlases lietotājiem"
+
+msgid "No accounts"
+msgstr "Nav konti"
+
+msgid "Facebook authorization failed."
+msgstr "Facebook atļauja neizdevās ."
+
+msgid "Authorization Required"
+msgstr "Nepieciešama autorizācija"
+
+msgid "You have to make a call:"
+msgstr "Jums ir, lai piezvanītu :"
+
+msgid "You have to send an email:"
+msgstr "Jums ir jānosūta e-pastu :"
+
+msgid "You have a meetup:"
+msgstr "Jums ir Meetup :"
+
+msgid "You event :"
+msgstr "You notikums :"
+
+msgid "Participants:"
+msgstr "dalībnieki :"
+
+msgid "Search"
+msgstr "meklēt"
+
+msgid "News"
+msgstr "jaunumi"
+
+msgid "Investments"
+msgstr "investīcijas"
+
+msgid "Back to Cloud"
+msgstr "Atpakaļ uz Cloud"
+
+msgid "Documents"
+msgstr "dokumenti"
+
+msgid "Planet"
+msgstr "planēta"
+
+msgid "Group url"
+msgstr "Group url"
+
+msgid "Profile url"
+msgstr "Profile url"
+
+msgid "Already taken"
+msgstr "Jau paņemts"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Vismaz 1 burts un nepieciešami 3 simboli garums"
+
+msgid "Digit can not be the first character"
+msgstr "Cipars nevar būt pirmais simbols"
+
+msgid "Enter valid email address"
+msgstr "Ievadiet derīgu e-pasta adresi"
+
+msgid "Enter your skills"
+msgstr "Ievadiet savas prasmes"
+
+msgid "Enter your first name"
+msgstr "Ievadiet savu vārdu"
+
+msgid "Enter your last name"
+msgstr "Ievadiet savu uzvārdu"
+
+msgid "Enter your first name and last name"
+msgstr "Ievadiet savu vārdu un uzvārdu"
+
+msgid "Your first name?"
+msgstr "Jūsu vārds?"
+
+msgid "Your last name?"
+msgstr "Tavs uzvārds?"
+
+msgid "What are your proficiencies?"
+msgstr "Kādas ir jūsu proficiencies ?"
+
+msgid "Select country"
+msgstr "Izvēlēties valsti"
+
+msgid "Select user"
+msgstr "Izvēlieties lietotāju"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Piepildi savu sapni ! Izveidot un sadarboties ."
+
+msgid "date moved from"
+msgstr "datums pārcelts no"
+
+msgid "work"
+msgstr "darbs"
+
+msgid "Conference"
+msgstr "konference"
+
+msgid "personal"
+msgstr "personisks"
+
+msgid "Holiday"
+msgstr "brīvdiena"
+
+msgid "Past"
+msgstr "Pagātne"
+
+msgid "Future"
+msgstr "Nākotne"
+
+msgid "Purchase"
+msgstr "Pirkuma"
+
+msgid "Personal events"
+msgstr "Privātie pasākumi"
+
+msgid "Conferences"
+msgstr "Sanāksme"
+
+msgid "Holidays"
+msgstr "Brīvdienas"
+
+msgid "Sport events"
+msgstr "Sporta pasākumi"
+
+msgid "Tasks"
+msgstr "Uzdevumi"
+
+msgid "Other events"
+msgstr "Citi pasākumi"
+
+msgid "Set aside"
+msgstr "Arhivators"
+
+msgid "Set aside"
+msgstr "Atliktais"
+
+msgid "Time management"
+msgstr "Time Management"
+
+msgid "Delayed events"
+msgstr "Atliktā notikumi"
+
+msgid "Delayed"
+msgstr "Atliktais"
+
+msgid "Bind to"
+msgstr "Piešķirt"
+
+msgid "answered your comment to"
+msgstr "Es teicu (a) Komentārs par rakstu"
+
+msgid "commented your article"
+msgstr "Es komentēja savu rakstu"
+
+msgid "You\'ve answered on comment to"
+msgstr "Jūs reaģēja uz komentēt rakstu"
+
+msgid "You\'ve commented an article"
+msgstr "Jūs komentēja rakstu"
+
+msgid "Terms and Conditions"
+msgstr "Noteikumi un nosacījumi"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Uzklikšķinot uz \"pierakstīties\", jūs piekrītat mūsu un atzīstat, ka esat izlasījis mūsu"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Pievienojieties kopienai radošiem cilvēkiem no visas pasaules! Jūs saņemsiet: ieguldot savu ideju, iespēja savākt savu komandu, strādājot grupā, finanšu vadītājs, pārvaldīt savu laiku, 2 gigabaitiem uzglabāšanas un vairāk. Un tas ir bez maksas!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Atvainojiet, bet lapu jūs meklējat neeksistē. Ja jūs domājat, ka vainīgs mums sazināties ar mums"
+
+msgid "Return"
+msgstr "Atgriešanās"
+
+msgid "COMMON"
+msgstr "KOPĀ"
+
+msgid "My events"
+msgstr "Mani notikumi"
+
+msgid "Job opening"
+msgstr "Jauna vakance"
+
+msgid "Employment"
+msgstr "Veids nodarbinātības"
+
+msgid "Working hours"
+msgstr "Darba laiks"
+
+msgid "City"
+msgstr "Pilsēta"
+
+msgid "Wages"
+msgstr "Alga"
+
+msgid "Currency"
+msgstr "Valūta"
+
+msgid "Experience"
+msgstr "Pieredze"
+
+msgid "Full-time"
+msgstr "Pilna nodarbinātība"
+
+msgid "Part-time"
+msgstr "Nepilna laika"
+
+msgid "Project employment"
+msgstr "Projekta / Pagaidu"
+
+msgid "Volunteer"
+msgstr "Brīvprātīgais darbs"
+
+msgid "Internship"
+msgstr "Stažēšanās"
+
+msgid "Full day"
+msgstr "Pilna laika"
+
+msgid "Shifts"
+msgstr "Replacement grafiks"
+
+msgid "Flexible shifts"
+msgstr "Elastīgs grafiks"
+
+msgid "Remote work"
+msgstr "Attālinātā darba"
+
+msgid "Rotational basis"
+msgstr "Shift metode"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Vai tiešām vēlaties dzēst komentāru?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Vai tiešām vēlaties dzēst šo uzdevumu?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Vai tiešām vēlaties dzēst šo apakšprojekts?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Jūs esat piemērots uzņēmumam stāvoklī. Lūdzu, pārliecinieties, ka"
+
+msgid "Your request to for job has been rejected"
+msgstr "Jūsu pieprasījums uzņēmumam stāvoklī ir noraidīts"
+
+msgid "Your request to for job has been accepted"
+msgstr "Jūsu pieprasījums uzņēmumam pozicionēt pieņēma"
+
+msgid "profile is completed"
+msgstr "Jūsu profils ir pilna"
+
+msgid "Use account"
+msgstr "Izmantot kontu"
+
+msgid "$/hr"
+msgstr "$ / Stundā"
+
+msgid "Finance category"
+msgstr "Finanšu kategorija"
+
+msgid "No projects"
+msgstr "Nav projekti"
+
+msgid "Bind to finances"
+msgstr "Piešķirt finansiālu projektu"
+
+msgid "Preview"
+msgstr "Skats"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Save to my cloud"
+msgstr "Kopēt repozitoriju"
+
+msgid "File successfully saved to your cloud"
+msgstr "Fails veiksmīgi saglabāta jūsu repozitorijā"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Saglabājiet šo failu savā glabātavā?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Izvēlieties kategoriju pants"
+
+msgid "Type something"
+msgstr "Uzrakstiet kaut ko"
+
+msgid "Founded users"
+msgstr "Atrasti lietotājiem"
+
+msgid "Founded articles"
+msgstr "Atrasts raksts"
+
+msgid "Founded groups"
+msgstr "Dibināta grupa"
+
+msgid "What are your skills?"
+msgstr "Kādas ir jūsu prasmes?"
+
+msgid "Select at least 2 interests"
+msgstr "Izvēlieties vismaz 2 interesi"
+
+msgid "Need more interests"
+msgstr "Nepietiek procenti izvēlēts"
+
+msgid "What are you interesting in?"
+msgstr "Ko jūs interesē?"
+
+msgid "You have no dialogs"
+msgstr "Jums nav dialogus"
+
+msgid "Usage Stats"
+msgstr "Valsts"
+
+msgid "Founded files"
+msgstr "Faili Atrasts"
+
+msgid "Big tiles"
+msgstr "Lielas flīzes"
+
+msgid "Small tiles"
+msgstr "Mazie Flīzes"
+
+msgid "Table view"
+msgstr "Galda view"
+
+msgid "Root folder"
+msgstr "Saknes direktoriju"
+
+msgid "My files"
+msgstr "Mani faili"
+
+msgid "Save as draft"
+msgstr "Saglabāt kā melnrakstu"
+
+msgid "Buy More Space"
+msgstr "Pērk vairāk vietas"
+
+msgid "Buy"
+msgstr "Nopirkt"
+
+msgid "You have been invited to group as"
+msgstr "Jūs esat uzaicināts grupai kā"
+
+msgid "User wants to join your group"
+msgstr "Lietotājs vēlas pievienoties jūsu grupai"
+
+msgid "Section is coming soon!"
+msgstr "Iedaļa stadijā!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Views pēdējo 24 stundu laikā:"
+
+msgid "Task was updated"
+msgstr "Uzdevums ir atjaunināta"
+
+msgid "Task was closed"
+msgstr "Uzdevums ir slēgta"
+
+msgid "Task was created"
+msgstr "Uzdevums tika noteikts"
+
+msgid "Current balance"
+msgstr "Pašreizējā bilance"
+
+msgid "Add funds"
+msgstr "Pievienot"
+
+msgid "Pay"
+msgstr "Izrakstīšanās"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Jūs esat pārsniedzis skaitu pieteikšanās mēģinājumi. Jums ir bloķēti 15 minūtes"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Lūdzu, apstipriniet savu e-pastu. Vēstule nosūtīta jums pa pastu."
+
+msgid "Resend confirmation email"
+msgstr "Nosūtīt apstiprinājumu atkal"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB mēnesī"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Brauciet 10 GB gadā"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Katru gadu disks 100 GB"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Disk 1TB mēnesī"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Drive 1 TB katru gadu"
+
+msgid "Project members monthly"
+msgstr "Projekta dalībnieki par katru mēnesi"
+
+msgid "Project members yearly"
+msgstr "Projekta dalībnieki ik gadu"
+
+msgid "Member(s) yearly"
+msgstr "Locekli (us) gadā"
+
+msgid "Member(s) monthly"
+msgstr "Loceklis (-i) katru mēnesi"
+
+msgid "Authorized"
+msgstr "Atļauts"
+
+msgid "Authorization expired"
+msgstr "Autorizācija beidzies"
+
+msgid "Processor declined"
+msgstr "Noraidīts apstrādes sistēma"
+
+msgid "Gateway rejected"
+msgstr "Noraidīts maksājumu vārteja"
+
+msgid "Failed"
+msgstr "Kļūda"
+
+msgid "Voided"
+msgstr "Anulēt"
+
+msgid "Submitted for settlement"
+msgstr "Nosūtīts uzņemt"
+
+msgid "Settlement declined"
+msgstr "Uzņemšana ir noraidīts"
+
+msgid "Settlement pending"
+msgstr "Kamēr uzņemšana"
+
+msgid "Verified"
+msgstr "Pārbaudīts"
+
+msgid "Pending"
+msgstr "Līdz"
+
+msgid "Active"
+msgstr "Aktīvs"
+
+msgid "Past Due"
+msgstr "Beidzies"
+
+msgid "Expired"
+msgstr "Beidzās"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "Indija"
+
+msgid "Malaysia"
+msgstr "Malaizija"
+
+msgid "Thailand"
+msgstr "Taizeme"
+
+msgid "South Korea"
+msgstr "Dienvidkoreja"
+
+msgid "Kazakhstan"
+msgstr "Kazahstāna"
+
+msgid "Israel"
+msgstr "Izraēla"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "Belarus"
+msgstr "Baltkrievija"
+
+msgid "Bulgaria"
+msgstr "Bulgārija"
+
+msgid "Turkey"
+msgstr "Turcija"
+
+msgid "Armenia"
+msgstr "Armēnija"
+
+msgid "Serbia"
+msgstr "Serbija"
+
+msgid "Austria"
+msgstr "Austrija"
+
+msgid "Poland"
+msgstr "Polija"
+
+msgid "Germany"
+msgstr "Vācija"
+
+msgid "Italy"
+msgstr "Itālija"
+
+msgid "Netherlands"
+msgstr "Nīderlande"
+
+msgid "Ireland"
+msgstr "Īrija"
+
+msgid "United Kingdom"
+msgstr "Lielbritānija"
+
+msgid "Portugal"
+msgstr "Portugāle"
+
+msgid "Norway"
+msgstr "Norvēģija"
+
+msgid "United States"
+msgstr "ASV"
+
+msgid "Canada"
+msgstr "Kanāda"
+
+msgid "Brazil"
+msgstr "Brazīlija"
+
+msgid "Saudi Arabia"
+msgstr "Saūda Arābija"
+
+msgid "Canada"
+msgstr "Ēģipte"
+
+msgid "Russia"
+msgstr "Krievija"
+
+msgid "Hong Kong"
+msgstr "Honkonga"
+
+msgid "There was no any transactions yet."
+msgstr "Šobrīd, tur nebija neviena darījums"
+
+msgid "Fulfill your dream"
+msgstr "Piepildīt savu sapni"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Pievienojies mūsu kopienai radošām personām no visas pasaules."
+
+msgid "Create and Collaborate"
+msgstr "Izveidot un Sadarboties"
+
+msgid "Fulfill your dream"
+msgstr "Izpildīt DREAM NOW"
+
+msgid "or"
+msgstr "vai"
+
+msgid "Our mission:"
+msgstr "Mūsu misija:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Apvienot radošus un aktīvus cilvēkus, lai īstenotu idejas no vienkāršas un pieprasījums uz neticami un fantastiski, ka var veidot mūsu nākotni."
+
+msgid "What is Konstruktor?"
+msgstr "Kas ir Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - ir daļa no mūsu reālajā dzīvē, kas būtiski atvieglo un vienkāršo"
+
+msgid "*business processes"
+msgstr "* biznesa procesu"
+
+msgid "*materialization of creative ideas"
+msgstr "* materializācija radošas idejas"
+
+msgid "*constructive cooperation"
+msgstr "* konstruktīva sadarbība"
+
+msgid "Make your dream!"
+msgstr "Padariet savu sapni!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Yuriy Chekalenko"
+msgstr "Jurijs Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Īpašais padomnieks"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Jaroslavs Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Vadītājs, Software Development"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Vecākais jurists"
+
+msgid "Yuriy Himka"
+msgstr "Jurijs Himka"
+
+msgid "Designer"
+msgstr "Dizainers"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Uzklikšķinot uz \"Next\" pogu, jūs uzņematies un vienojoties ar mūsu pakalpojumu sniegšanas noteikumiem, un jūs atzīstot, ka esat iepazinies ar mūsu konfidencialitātes politiku."
+
+msgid "Incorrect login or password."
+msgstr "Nepareiza login vai parole."
+
+msgid "Password must be at least 6 characters"
+msgstr "Paroles jābūt vismaz 6 simboli"
+
+msgid "January"
+msgstr "Janvāris"
+
+msgid "February"
+msgstr "Februāris"
+
+msgid "March"
+msgstr "Marts"
+
+msgid "April"
+msgstr "Aprīlis"
+
+msgid "May"
+msgstr "Maijs"
+
+msgid "June"
+msgstr "Jūnijs"
+
+msgid "July"
+msgstr "Jūlijs"
+
+msgid "August"
+msgstr "Augusts"
+
+msgid "September"
+msgstr "Septembris"
+
+msgid "October"
+msgstr "Oktobris"
+
+msgid "November"
+msgstr "Novembris"
+
+msgid "December"
+msgstr "Decembris"
+
+msgid "Chat"
+msgstr "Tērzēšana"
+
+msgid "Files"
+msgstr "Faili"
+
+msgid "Statistic"
+msgstr "Statistika"
+
+msgid "Support"
+msgstr "Atbalsts"
+
+msgid "Exit"
+msgstr "Izeja"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Baltkrievija"
+
+msgid "Marketing specialist"
+msgstr "Mārketinga speciālists"
+
+msgid "Administrator"
+msgstr "Administrators"
+
+msgid "Shared with me"
+msgstr "Dalīta ar mani"
+
+msgid "File Sharing"
+msgstr "Failu koplietošana"
+
+msgid "Provide access by link"
+msgstr "Nodrošināt piekļuvi saiti"
+
+msgid "Provide Individual access"
+msgstr "Nodrošināt individuāla pieeja"
+
+msgid "Provide edit access"
+msgstr "Nodrošināt rediģēt piekļuvi"
+
+msgid "Share"
+msgstr "Akcija"
+
+msgid "Files will be available only for selected users"
+msgstr "Faili būs pieejami tikai atsevišķiem lietotājiem"
+
+msgid "With this link everyone can access to the files"
+msgstr "Ar šo links ikviens var piekļūt failiem"
+
+msgid "Search users, groups, articles..."
+msgstr "Meklēt lietotājus, grupas, raksti ..."
+
+msgid "My Group"
+msgstr "Mana grupa"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Mēs"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Fails nav izvēlēta"
+
+msgid "Set aside"
+msgstr "Atlikt malā"
+
+msgid "Event time"
+msgstr "Notikuma laiks"
+
+msgid "Work"
+msgstr "Darbs"
+
+msgid "Personal"
+msgstr "Personisks"
+
+msgid "Time spent for work:"
+msgstr "Laiks, kas pavadīts darbā:"
+
+msgid "Personal time spent:"
+msgstr "Personal pavadītais laiks:"
+
+msgid "Present"
+msgstr "Klātesošs"
+
+msgid "Common"
+msgstr "Kopīgs"
+
+msgid "Sport"
+msgstr "Sports"
+
+msgid "Entertainment"
+msgstr "Izklaide"
+
+msgid "Select:"
+msgstr "Izvēlieties:"
+
+msgid "Invalid username or password."
+msgstr "Nederīgs lietotājvārds vai parole."
+
+msgid "Try again."
+msgstr "Mēģini vēlreiz."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "Ko jūs interesē?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Izvēlieties vismaz 2 prasmes: paliek 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Izvēlieties vismaz 2 prasmes: joprojām 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Izvēlieties vismaz 2 prasmes: atliekas"
+
+msgid "Active life"
+msgstr "Aktīvā dzīve"
+
+msgid "Arts and culture"
+msgstr "Māksla un kultūra"
+
+msgid "Business"
+msgstr "Bizness"
+
+msgid "Cinema"
+msgstr "Kino"
+
+msgid "Communications"
+msgstr "Communications"
+
+msgid "Construction and repair"
+msgstr "Celtniecība un remonts"
+
+msgid "Cooking"
+msgstr "Cooking"
+
+msgid "Education"
+msgstr "Izglītība"
+
+msgid "Electronics"
+msgstr "Elektronika"
+
+msgid "Finances"
+msgstr "Finanses"
+
+msgid "Graphics and design"
+msgstr "Grafika un dizains"
+
+msgid "Health"
+msgstr "Veselība"
+
+msgid "Home and family"
+msgstr "Mājas un ģimenes"
+
+msgid "Humor"
+msgstr "Humors"
+
+msgid "IT"
+msgstr "IT"
+
+msgid "Industry"
+msgstr "Industrija"
+
+msgid "Insurance"
+msgstr "Apdrošināšana"
+
+msgid "Literature"
+msgstr "Literatūra"
+
+msgid "Mobile communications and internet"
+msgstr "Mobilie sakari un internets"
+
+msgid "News and Media"
+msgstr "Ziņas un Media"
+
+msgid "Pets"
+msgstr "Mājdzīvnieki"
+
+msgid "Products and service"
+msgstr "Produktu un pakalpojumu"
+
+msgid "Real Estate"
+msgstr "Nekustamais īpašums"
+
+msgid "Religion"
+msgstr "Reliģija"
+
+msgid "Science and techs"
+msgstr "Zinātne un techs"
+
+msgid "Security"
+msgstr "Drošība"
+
+msgid "Society"
+msgstr "Sabiedrība"
+
+msgid "Television"
+msgstr "Televīzija"
+
+msgid "Travel"
+msgstr "Ceļot"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentīna"
+
+msgid "Australia"
+msgstr "Austrālija"
+
+msgid "Austria"
+msgstr "Austrija"
+
+msgid "Belarus"
+msgstr "Baltkrievija"
+
+msgid "Belgium"
+msgstr "Beļģija"
+
+msgid "Brazil"
+msgstr "Brazīlija"
+
+msgid "Bulgaria"
+msgstr "Bulgārija"
+
+msgid "Canada"
+msgstr "Kanāda"
+
+msgid "Chile"
+msgstr "Čīle"
+
+msgid "Denmark"
+msgstr "Dānija"
+
+msgid "France"
+msgstr "Francija"
+
+msgid "Germany"
+msgstr "Vācija"
+
+msgid "Greece"
+msgstr "Grieķija"
+
+msgid "Hungary"
+msgstr "Ungārija"
+
+msgid "Iceland"
+msgstr "Islande"
+
+msgid "Ireland"
+msgstr "Īrija"
+
+msgid "Israel"
+msgstr "Izraēla"
+
+msgid "Italy"
+msgstr "Itālija"
+
+msgid "Japan"
+msgstr "Japāna"
+
+msgid "Mexico"
+msgstr "Meksika"
+
+msgid "Netherlands"
+msgstr "Nīderlande"
+
+msgid "New Zealand"
+msgstr "Jaunzēlande"
+
+msgid "Norway"
+msgstr "Norvēģija"
+
+msgid "Poland"
+msgstr "Polija"
+
+msgid "Portugal"
+msgstr "Portugāle"
+
+msgid "Russia"
+msgstr "Krievija"
+
+msgid "Slovakia"
+msgstr "Slovākija"
+
+msgid "South Africa"
+msgstr "Dienvidāfrika"
+
+msgid "South Korea"
+msgstr "Dienvidkoreja"
+
+msgid "Spain"
+msgstr "Spānija"
+
+msgid "Sweden"
+msgstr "Zviedrija"
+
+msgid "Switzerland"
+msgstr "Šveice"
+
+msgid "Turkey"
+msgstr "Turcija"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "United Arab Emirates"
+msgstr "Apvienotie Arābu Emirāti"
+
+msgid "United Kingdom"
+msgstr "Apvienotā Karaliste"
+
+msgid "United States"
+msgstr "Savienotās Valstis"
+
+msgid "achievements"
+msgstr "sasniegumi"
+
+msgid "Investment management"
+msgstr "Ieguldījumu pārvaldes"
+
+msgid "Select..."
+msgstr "Izvēlieties ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "IEGULDĪJUMU PĀRVALDES"
+
+msgid "Investors list"
+msgstr "Investors saraksts"
+
+msgid "My investments"
+msgstr "Mani ieguldījumi"
+
+msgid "Create date"
+msgstr "Izveidot datumu"
+
+msgid "Author of the project"
+msgstr "Projekta autors"
+
+msgid "Date and time"
+msgstr "Datums un laiks"
+
+msgid "Status"
+msgstr "Stāvoklis"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+msgid "Next"
+msgstr "Nākamais"
+
+msgid "Apply"
+msgstr "Pieteikties"
+
+msgid "Kazakhstan"
+msgstr "Kazahstāna"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Honkonga"
+
+msgid "Science"
+msgstr "Zinātne"
+
+msgid "Architecture"
+msgstr "Arhitektūra"
+
+msgid "Photography"
+msgstr "Fotografēšana"
+
+msgid "Designer"
+msgstr "Dizainers"
+
+msgid "IT specialist"
+msgstr "IT speciālists"
+
+msgid "Agronomist"
+msgstr "Agronoms"
+
+msgid "Architect"
+msgstr "Arhitekts"
+
+msgid "Lawyer"
+msgstr "Advokāts"
+
+msgid "Writer"
+msgstr "Rakstnieks"
+
+msgid "Doctor"
+msgstr "Ārsts"
+
+msgid "Scientist"
+msgstr "Zinātnieks"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Skolotāja"
+
+msgid "Cook"
+msgstr "Pavārs"
+
+msgid "Artist"
+msgstr "Mākslinieks"
+
+msgid "Photographer"
+msgstr "Fotogrāfs"
+
+msgid "Ecologist"
+msgstr "Ekologa"
+
+msgid "Economist"
+msgstr "Ekonomists"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Žurnālists"
+
+msgid "Builder"
+msgstr "Celtnieks"
+
+msgid "These users may be interesting for you"
+msgstr "Šie lietotāji var būt interesanti jums"
+
+msgid "These articles may be interesting for you"
+msgstr "Šie izstrādājumi var būt interesanti jums"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Tu pievienojies šo grupu kā Аdministrator"
+
+msgid "articles written."
+msgstr "rakstiem."
+
+msgid "groups created."
+msgstr "izveidots grupām."
+
+msgid "Creation"
+msgstr "Radīšana"
+
+msgid "Build a dream"
+msgstr "Veidot sapni"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Lasīt vairāk interesantus rakstus - doties bezmaksas reģistrācijai"
+

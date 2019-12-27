@@ -1,0 +1,100 @@
+variables:
+  DAPP_VERSION: "0.31"
+.base_deploy: &base_deploy
+  stage: deploy
+  script:
+    - env
+    - pwd
+    - kubectl get ns "${CI_ENVIRONMENT_SLUG}" || kubectl create ns "${CI_ENVIRONMENT_SLUG}"
+    - kubectl get secret registrysecret -n kube-system -o json |
+                      jq ".metadata.namespace = \"${CI_ENVIRONMENT_SLUG}\"|
+                      del(.metadata.annotations,.metadata.creationTimestamp,.metadata.resourceVersion,.metadata.selfLink,.metadata.uid)" |
+                      kubectl apply -f -
+#    - dapp_use ${DAPP_VERSION}
+    - dapp kube deploy
+      --tag-ci
+      --namespace ${CI_ENVIRONMENT_SLUG}
+      --set "global.env=${CI_ENVIRONMENT_SLUG}"
+      ${CI_REGISTRY_IMAGE}
+  dependencies:
+    - build
+  tags:
+    - kube
+
+stages:
+  - build
+  - deploy
+  - cleanup_registry
+  - cleanup_builder
+
+build:
+  stage: build
+  script:
+    - pwd
+    - export ENV=${CI_ENVIRONMENT_SLUG}
+    - dapp_use ${DAPP_VERSION}
+    - dapp --version
+    - dapp dimg bp ${CI_REGISTRY_IMAGE} --tag-ci
+  except:
+    - schedules
+  tags:
+    - build
+
+Deploy to Production:
+  <<: *base_deploy
+  stage: deploy
+  environment:
+    name: production
+  only:
+    - tags
+  except:
+    - shedules 
+  when: manual
+  tags:
+    - deploy
+
+Deploy to Test:
+  <<: *base_deploy
+  stage: deploy
+  environment:
+    name: test
+  except:
+    - shedules
+  when: manual
+  tags:
+    - deploy
+
+Deploy to Stage:
+  <<: *base_deploy
+  stage: deploy
+  environment:
+    name: stage
+  when: manual
+  tags:
+    - deploy
+
+Cleanup registry:
+  stage: cleanup_registry
+  script:
+    - set -x
+    - source dapp_use ${DAPP_VERSION}
+    - dapp dimg cleanup repo ${CI_REGISTRY_IMAGE}
+  only:
+    - schedules
+  tags:
+    - deploy
+
+Cleanup builder:
+  stage: cleanup_builder
+  script:
+    - set -x
+    - source dapp_use ${DAPP_VERSION}
+    - dapp dimg stages cleanup local
+        --improper-cache-version
+        --improper-git-commit
+        --improper-repo-cache
+        ${CI_REGISTRY_IMAGE}
+  only:
+    - schedules
+  tags:
+    - build

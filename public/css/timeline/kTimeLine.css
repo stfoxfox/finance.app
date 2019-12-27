@@ -1,0 +1,168 @@
+.kNoteTitleView {
+    -webkit-touch-callout: none !important;
+    -webkit-user-select: none !important;
+}
+
+.kTitle{
+    cursor: pointer;
+    text-align: center;
+    width:200px;
+    position: relative;
+    display: block;
+
+    padding: 5px 0;
+    margin: 10px auto;
+    color: #818A96;
+    background-color: #E9EBF2;
+
+    /*text-transform: uppercase;*/
+    /*font-weight: bold;*/
+
+}
+
+.kTimeTitle{
+    display: block;
+    width: 100%;
+    position: relative;
+    text-align: center;
+    padding: 5px 0;
+    margin: 20px auto;
+    color: #9EA4AD;
+    background-color: #E9EBF2;
+}
+
+
+.kFloatingTime{
+    position: absolute;
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-weight: bold;
+    color: #9EA4AD;
+    background-color: #E9EBF2;
+    z-index: 1;
+}
+
+.kContent{
+    position:relative;
+    width: 100%!important;
+    display:block;
+}
+
+.kTimelineDay, .kTimelineMonth, .kTimelineYear, .kTimelineTime, .kNotification{
+    position:relative;
+    width: 100%!important;
+    display:-webkit-flex;
+    display:flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction:column;
+}
+
+.kCollapsed{
+    display:none
+}
+
+.wrapper-scroll {
+    height: 100%;
+    overflow: auto;
+    width: 100%;
+}
+
+.kTimelineContent{
+    max-width: 1260px;
+    background: url(/img/timeline/Timeline.png) repeat-y 50% 0;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    min-height:101%;
+}
+.kTimelineBlock{
+    position:relative;
+    display:-webkit-flex;
+    display: flex;
+    width: 100%!important;
+}
+
+.kEvent{
+    -webkit-user-select: none !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    word-wrap: break-word;
+    display:-webkit-flex;
+    display:flex;
+    position: relative;
+    width: 100%;
+    max-width: 580px;
+}
+
+.kTimelineRight{
+    text-align: left;
+    padding-left: 30px;
+    width: 50%;
+    float: right;
+}
+
+.kTimelineRight .kEvent{
+    margin-right: auto;
+}
+
+.kTimelineLeft{
+    text-align: right;
+    padding-right: 30px;
+    width: 50%;
+    float: left;
+}
+
+.kTimelineLeft .kEvent{
+    margin-left: auto;
+}
+
+.kStrongHide{
+    display: none!important;
+}
+
+.clearfix {
+    clear: both;
+    float: none;
+}
+
+.kModal{
+    display:-webkit-flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-align-items: center;
+    -webkit-justify-content: center;
+    width: 100%;
+}
+
+.kModalContent{
+    max-width: 100%;
+}
+
+@media (max-width: 767px) {
+    .kTimelineLeft, .kTimelineRight {
+        float: none;
+        padding: 0;
+        text-align: center;
+    }
+
+    .kTimelineLeft{
+        width: 100%;
+    }
+
+    .kTimelineRight{
+        display:none;
+    }
+
+    .kEvent{
+        margin: 20px auto;
+    }
+}

@@ -1,0 +1,10 @@
+.page-header-block {
+	height: 40px;
+	background: #000000 url("../images/icons/s-logo.png") no-repeat right;
+	-webkit-background-size: 147px;
+	background-size: 147px;
+}
+
+
+.top-rounded-corners { border-radius: 0px 0px; }
+.bot-rounded-corners { border-radius: 0px 0px; }

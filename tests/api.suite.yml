@@ -1,0 +1,14 @@
+actor: ApiTester
+modules:
+    enabled:
+        - REST:
+            url: http://localhost:2000
+            depends: PhpBrowser
+            part: Json
+        - Symfony:
+            part: SERVICES
+            app_path: 'src'
+        - Asserts
+        - Doctrine2:
+            depends: Symfony
+        - \Helper\Api

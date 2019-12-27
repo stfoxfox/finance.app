@@ -1,0 +1,21 @@
+---
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: financeapp
+  annotations:
+    kubernetes.io/ingress.class: "nginx"
+spec:
+  rules:
+{{- if eq .Values.global.env "production" }}
+  - host: {{ pluck .Values.global.env .Values.app.site_domain | first | default .Values.app.site_domain._default }}
+{{- else }}
+  - host: {{ printf (pluck .Values.global.env .Values.app.site_domain | first | default .Values.app.site_domain._default) .Values.global.env }}
+{{- end }}
+    http:
+      paths:
+      - path: /
+        backend:
+          serviceName: finance-public
+          servicePort: http
+

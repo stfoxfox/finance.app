@@ -1,0 +1,179 @@
+{{- if (eq .Values.global.env "production") }}
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: redis-finance-conf
+data:
+  node.conf: |
+    protected-mode no
+    port 6379
+    tcp-backlog 511
+    loglevel notice
+    logfile ""
+    dir /data
+    save 900 1
+    save 300 10
+    save 60 10000
+    stop-writes-on-bgsave-error yes
+    rdbcompression yes
+    maxclients 100000
+    hash-max-ziplist-entries 512
+    hash-max-ziplist-value 64
+    list-max-ziplist-entries 512
+    list-max-ziplist-value 64
+    set-max-intset-entries 512
+    zset-max-ziplist-entries 128
+    zset-max-ziplist-value 64
+    hll-sparse-max-bytes 3000
+    activerehashing yes
+    maxmemory 4096mb
+    maxmemory-policy volatile-lru
+{{- range $i, $e := until 3 }}
+---
+apiVersion: apps/v1beta1
+kind: StatefulSet
+metadata:
+  name: {{ printf "redis-finance-%s" ($i | toString) }}
+  labels:
+    component: {{ printf "redis-finance-%s" ($i | toString) }}
+  annotations:
+    service.alpha.kubernetes.io/tolerate-unready-endpoints: "true"
+spec:
+  serviceName: {{ printf "redis-finance-%s" ($i | toString) }}
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        component: {{ printf "redis-finance-%s" ($i | toString) }}
+    spec:
+      terminationGracePeriodSeconds: 10
+      containers:
+        - name: redis-node
+          image: redis:3.2
+          command:
+            - redis-server
+          args:
+            - /config/node.conf
+          ports:
+            - name: redis
+              containerPort: 6379
+          volumeMounts:
+            - name: data
+              mountPath: /data
+            - name: redis-config
+              mountPath: /config
+          livenessProbe: &healthcheck
+            exec:
+              command: [ "redis-cli", "ping" ]
+          readinessProbe:
+            <<: *healthcheck
+{{- include "redis_resources" $ | indent 10 }}
+      volumes:
+        - name: redis-config
+          configMap:
+            name: redis-finance-conf
+        - name: data
+          persistentVolumeClaim:
+            claimName: redis-finance
+  volumeClaimTemplates:
+  - metadata:
+      name: redis-finance
+    spec:
+      accessModes: [ "ReadWriteOnce" ]
+      resources:
+        requests:
+          storage: 20Gi
+      storageClassName: gp2
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ printf "redis-finance-%s" ($i | toString) }}
+  labels:
+    component: {{ printf "redis-finance-%s" ($i | toString) }}
+spec:
+  clusterIP: None
+  selector:
+    component: {{ printf "redis-finance-%s" ($i | toString) }}
+  ports:
+  - name: {{ printf "redis-fianance-%s" ($i | toString) }}
+    port: 6379
+    targetPort: 6379
+{{- end }}
+{{- else }}
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: redis-finance-conf
+data:
+  node.conf: |
+    protected-mode no
+    port 6379
+    tcp-backlog 511
+    loglevel notice
+    logfile ""
+    dir /data
+    save ""
+    stop-writes-on-bgsave-error no
+    maxclients 100000
+    hash-max-ziplist-entries 512
+    hash-max-ziplist-value 64
+    list-max-ziplist-entries 512
+    list-max-ziplist-value 64
+    set-max-intset-entries 512
+    zset-max-ziplist-entries 128
+    zset-max-ziplist-value 64
+    hll-sparse-max-bytes 3000
+    activerehashing yes
+    maxmemory 1024mb
+    maxmemory-policy volatile-lru
+---
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: redis-finance
+spec:
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        component: redis-finance
+    spec:
+      terminationGracePeriodSeconds: 10
+      containers:
+      - name: redis
+        image: redis:3.2
+        command:
+        - redis-server
+        args:
+        - /config/node.conf
+        ports:
+        - name: redis
+          containerPort: 6379
+        volumeMounts:
+        - name: data
+          mountPath: /data
+        - name: redis-config
+          mountPath: /config
+{{- include "redis_resources" . | indent 8 }}
+      volumes:
+      - name: data
+        emptyDir: {}
+      - name: redis-config
+        configMap:
+          name: redis-conf
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: redis-finance
+spec:
+  clusterIP: None
+  selector:
+    component: redis-finance
+  ports:
+  - name: redis
+    port: 6379
+    targetPort: 6379
+{{- end }}

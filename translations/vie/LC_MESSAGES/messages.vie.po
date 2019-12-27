@@ -1,0 +1,3344 @@
+# tiếng Việt (Вьетнамский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: tiếng Việt (Вьетнамский) <support@konstruktor.com>\n"
+"Language: tiếng Việt (Вьетнамский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "tên người dùng"
+
+msgid "Invalid username or password, try again"
+msgstr "Tên truy nhập không chính xác hoặc mật khẩu . Thử lại."
+
+msgid "Settings"
+msgstr "cài đặt"
+
+msgid "Home"
+msgstr "nhà"
+
+msgid "You must log in to access this page"
+msgstr "Bạn phải đăng nhập để truy cập trang này"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Phiên của bạn đã hết hạn. Xin vui lòng đăng nhập lại để thực hiện hành động này"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Head Office"
+msgstr "Trụ Sở Chính"
+
+msgid "Address"
+msgstr "địa chỉ"
+
+msgid "Back"
+msgstr "trở lại"
+
+msgid "Apply"
+msgstr "ứng dụng"
+
+msgid "Upload files…"
+msgstr "Tải file ..."
+
+msgid "Set as main"
+msgstr "Đặt làm chính"
+
+msgid "Delete"
+msgstr "xóa bỏ"
+
+msgid "Original image"
+msgstr "hình ảnh ban đầu"
+
+msgid "Uploaded"
+msgstr "tải lên"
+
+msgid "File name"
+msgstr "file name"
+
+msgid "File size"
+msgstr "kích thước tập tin"
+
+msgid "Resolution"
+msgstr "Nghị quyết"
+
+msgid "Enlarge"
+msgstr "phóng to"
+
+msgid "Links"
+msgstr "Liên kết"
+
+msgid "Original size"
+msgstr "kích thước ban đầu"
+
+msgid "For editor"
+msgstr "Đối với biên tập viên"
+
+msgid "Resize"
+msgstr "Thay đổi kích cỡ"
+
+msgid "Width"
+msgstr "chiều rộng"
+
+msgid "Height"
+msgstr "chiều cao"
+
+msgid "Media URL"
+msgstr "Truyền thông URL"
+
+msgid "Add record"
+msgstr "Thêm kỷ lục"
+
+msgid "Show filter settings"
+msgstr "Hiển thị cài đặt bộ lọc"
+
+msgid "Edit record"
+msgstr "sửa kỷ lục"
+
+msgid "Delete record"
+msgstr "xóa kỷ lục"
+
+msgid "Delete checked records"
+msgstr "Xóa các bản ghi kiểm tra"
+
+msgid "Dashboard"
+msgstr "bảng điều khiển"
+
+msgid "Password"
+msgstr "mật khẩu"
+
+msgid "Remember me"
+msgstr "Ghi nhớ tôi"
+
+msgid "Login"
+msgstr "Đăng Nhập"
+
+msgid "Clean image cache"
+msgstr "Làm sạch bộ nhớ cache hình ảnh"
+
+msgid "Processing query..."
+msgstr "Truy vấn xử lý ..."
+
+msgid "CMS Development"
+msgstr "Phát triển CMS"
+
+msgid "Admin Home Page"
+msgstr "Admin Home Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Mở trang Home của Front- end trong một tab mới"
+
+msgid "Go to Site"
+msgstr "Tới trang web"
+
+msgid "Log out"
+msgstr "đăng xuất"
+
+msgid "Send"
+msgstr "gởi"
+
+msgid "General"
+msgstr "chung"
+
+msgid "Title"
+msgstr "Tiêu đề"
+
+msgid "Teaser"
+msgstr "Teaser"
+
+msgid "Published"
+msgstr "Xuất bản"
+
+msgid "Featured"
+msgstr "Đặc trưng"
+
+msgid "Active"
+msgstr "hoạt động"
+
+msgid "Field is mandatory"
+msgstr "Dòng bắt buộc"
+
+msgid "Sort Order"
+msgstr "Xếp theo thứ tự"
+
+msgid "Upload"
+msgstr "tải lên"
+
+msgid "Loading..."
+msgstr "Đang tải ..."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Tháng Hai"
+
+msgid "Mar"
+msgstr "tháng ba"
+
+msgid "Apr"
+msgstr "tháng tư"
+
+msgid "May"
+msgstr "có thể"
+
+msgid "Jun"
+msgstr "tháng sáu"
+
+msgid "Jul"
+msgstr "tháng bảy"
+
+msgid "Aug"
+msgstr "tháng tám"
+
+msgid "Sep"
+msgstr "tháng chín"
+
+msgid "Oct"
+msgstr "tháng mười"
+
+msgid "Nov"
+msgstr "tháng mười một"
+
+msgid "Dec"
+msgstr "tháng mười hai"
+
+msgid "Product already exists in the order"
+msgstr "Sản phẩm đã tồn tại trong trật tự"
+
+msgid "Product does not exist"
+msgstr "Sản phẩm không tồn tại"
+
+msgid "Incorrect request"
+msgstr "yêu cầu không chính xác"
+
+msgid "Products"
+msgstr "sản phẩm"
+
+msgid "Product types"
+msgstr "loại sản phẩm"
+
+msgid "Contractors"
+msgstr "Nhà thầu"
+
+msgid "Contractor"
+msgstr "Nhà thầu"
+
+msgid "Orders"
+msgstr "Đơn đặt hàng"
+
+msgid "FAQ"
+msgstr "Hỏi đáp"
+
+msgid "New order"
+msgstr "Đơn đặt hàng mới"
+
+msgid "My orders"
+msgstr "đơn đặt hàng của tôi"
+
+msgid "Recharge balance"
+msgstr "cân bằng Recharge"
+
+msgid "Administrator"
+msgstr "quản trị viên"
+
+msgid "Incorrect event ID"
+msgstr "ID sự kiện không chính xác"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "sửa nhà thầu"
+
+msgid "Create contractor"
+msgstr "tạo thầu"
+
+msgid "Edit question"
+msgstr "chỉnh sửa câu hỏi"
+
+msgid "Create question"
+msgstr "tạo câu hỏi"
+
+msgid "Edit order"
+msgstr "biên tập thứ tự"
+
+msgid "Create order"
+msgstr "tạo đơn đặt hàng"
+
+msgid "Edit product"
+msgstr "sửa sản phẩm"
+
+msgid "Create product"
+msgstr "tạo sản phẩm"
+
+msgid "Edit product type"
+msgstr "Chỉnh sửa loại sản phẩm"
+
+msgid "Create product type"
+msgstr "Tạo loại sản phẩm"
+
+msgid "You have received a file"
+msgstr "Bạn đã nhận được một tập tin"
+
+msgid "You received a file from"
+msgstr "Bạn đã nhận được một tập tin từ"
+
+msgid "File has been uploaded"
+msgstr "Tập tin đã được tải lên"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "số lượng tối thiểu"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "mặt hàng"
+
+msgid "Remove"
+msgstr "tẩy"
+
+msgid "Contact person"
+msgstr "người liên hệ"
+
+msgid "Email"
+msgstr "email"
+
+msgid "Contractor phone"
+msgstr "điện thoại thầu"
+
+msgid "Contractor name"
+msgstr "tên nhà thầu"
+
+msgid "Contractor details"
+msgstr "chi tiết thầu"
+
+msgid "Order ID"
+msgstr "Order ID"
+
+msgid "Sum"
+msgstr "tổng số"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Chọn hệ thống thanh toán phù hợp để nạp tiền dư của bạn"
+
+msgid "Recharge amount"
+msgstr "số tiền nạp"
+
+msgid "Paid"
+msgstr "Paid"
+
+msgid "Shipped"
+msgstr "vận chuyển"
+
+msgid "- No products in this order -"
+msgstr "- Không có sản phẩm theo thứ tự này -"
+
+msgid "month"
+msgstr "tháng"
+
+msgid "No user found"
+msgstr "Không thấy"
+
+msgid "Achievement"
+msgstr "Thành tựu"
+
+msgid "Confirmed accomplishments"
+msgstr "Xác nhận thành tựu"
+
+msgid "Remove achievement"
+msgstr "Di tích"
+
+msgid "Headquaters"
+msgstr "Trụ sở chính"
+
+msgid "Phone"
+msgstr "điện thoại"
+
+msgid "Site URL and email"
+msgstr "URL trang web và email"
+
+msgid "Remove address"
+msgstr "Xóa địa chỉ"
+
+msgid "Members"
+msgstr "Thành viên"
+
+msgid "Requires a payment"
+msgstr "Yêu cầu một khoản thanh toán"
+
+msgid "Shipping"
+msgstr "Đang Chuyển Hàng"
+
+msgid "Ready"
+msgstr "sẳn sàng"
+
+msgid "Find user..."
+msgstr "Tìm người dùng ..."
+
+msgid "Order it"
+msgstr "tự nó"
+
+msgid "Find group..."
+msgstr "Tìm nhóm ..."
+
+msgid "Find user or community..."
+msgstr "Tìm người dùng hoặc cộng đồng ..."
+
+msgid "No item found"
+msgstr "Không tìm thấy mục"
+
+msgid "years"
+msgstr "năm"
+
+msgid "Send message"
+msgstr "gửi tin nhắn"
+
+msgid "Message"
+msgstr "thông điệp"
+
+msgid "To send message press Enter"
+msgstr "Để gửi tin nhấn Enter"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Để gửi tin nhắn nhấn Ctrl + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Tập tin xử lý ( s ) ..."
+
+msgid "Group settings"
+msgstr "thiết lập Group"
+
+msgid "Create group"
+msgstr "tạo nhóm"
+
+msgid "Group has been successfully saved"
+msgstr "Nhóm đã được lưu thành công"
+
+msgid "Group title"
+msgstr "Nhóm tiêu đề"
+
+msgid "Group video"
+msgstr "video nhóm"
+
+msgid "Description"
+msgstr "miêu tả"
+
+msgid "Your role in group"
+msgstr "Vai trò của bạn trong nhóm"
+
+msgid "Role"
+msgstr "vai trò"
+
+msgid "Photo or video gallery"
+msgstr "Hình ảnh hoặc video gallery"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "upload video"
+
+msgid "Add group address"
+msgstr "Thêm địa chỉ nhóm"
+
+msgid "Group articles"
+msgstr "Nhóm điều"
+
+msgid "No addresses yet"
+msgstr "Không có địa chỉ nào"
+
+msgid "Add group achievement"
+msgstr "Thêm thành tích nhóm"
+
+msgid "No achivements yet"
+msgstr "Không có thành tích nào"
+
+msgid "Are you sure to delete this user"
+msgstr "Bạn có chắc chắn muốn xóa người dùng này"
+
+msgid "Add member"
+msgstr "Thêm thành viên"
+
+msgid "Are you sure to delete this record?"
+msgstr "Bạn có chắc chắn muốn xóa hồ sơ này ?"
+
+msgid "Join this group"
+msgstr "Tham gia nhóm này"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Lời mời của bạn đã được gửi đến Ban quản trị"
+
+msgid "All addresses"
+msgstr "Tất cả các địa chỉ"
+
+msgid "Collapse"
+msgstr "sập"
+
+msgid "Achievements"
+msgstr "Thành tích đạt được"
+
+msgid "Show more"
+msgstr "cho xem thêm"
+
+msgid "Team"
+msgstr "đội"
+
+msgid "Projects"
+msgstr "Dự án"
+
+msgid "New project"
+msgstr "dự án mới"
+
+msgid "Project has not been created yet"
+msgstr "Dự án không được khởi tạo"
+
+msgid "Messanger"
+msgstr "Messenger"
+
+msgid "Balance"
+msgstr "Balance"
+
+msgid "Main page"
+msgstr "trang chính"
+
+msgid "Upload image"
+msgstr "hình ảnh tải lên"
+
+msgid "My time"
+msgstr "thời gian của tôi"
+
+msgid "Day"
+msgstr "ngày"
+
+msgid "Week"
+msgstr "tuần"
+
+msgid "Project settings"
+msgstr "thiết lập dự án"
+
+msgid "Create project"
+msgstr "tạo dự án"
+
+msgid "Project has been successfully saved"
+msgstr "Dự án đã được lưu thành công"
+
+msgid "Project name"
+msgstr "tên dự án"
+
+msgid "Deadline"
+msgstr "Hạn Chót"
+
+msgid "Close"
+msgstr "gần"
+
+msgid "Manager"
+msgstr "người quản lý"
+
+msgid "Assigned to"
+msgstr "phân công"
+
+msgid "Discussion"
+msgstr "thảo luận"
+
+msgid "Task was created"
+msgstr "Nhiệm vụ đã được tạo ra"
+
+msgid "Task was closed"
+msgstr "Nhiệm vụ đã được đóng lại"
+
+msgid "Go to Group"
+msgstr "Tới Nhóm"
+
+msgid "Closed"
+msgstr "đóng"
+
+msgid "Last updates"
+msgstr "cập nhật cuối"
+
+msgid "Project is closed"
+msgstr "Dự án được đóng lại"
+
+msgid "No open tasks"
+msgstr "Không có nhiệm vụ mở"
+
+msgid "New task"
+msgstr "nhiệm vụ mới"
+
+msgid "Closed tasks"
+msgstr "nhiệm vụ khép kín"
+
+msgid "Add subproject"
+msgstr "Thêm tiểu dự án"
+
+msgid "Add task"
+msgstr "Thêm công việc"
+
+msgid "Sun"
+msgstr "chủ nhật"
+
+msgid "Mon"
+msgstr "thứ hai"
+
+msgid "Tue"
+msgstr "thứ ba"
+
+msgid "Wed"
+msgstr "thứ tư"
+
+msgid "Thur"
+msgstr "thứ năm"
+
+msgid "Fri"
+msgstr "thứ sáu"
+
+msgid "Sat"
+msgstr "thứ bảy"
+
+msgid "Event title"
+msgstr "Tiêu đề sự kiện"
+
+msgid "Event description"
+msgstr "Mô tả sự kiện"
+
+msgid "I registered on this site"
+msgstr "Tôi đã đăng ký trên trang web này"
+
+msgid "Last created groups"
+msgstr "Nhóm tạo ra cuối cùng"
+
+msgid "You joined this group as"
+msgstr "Bạn đã tham gia nhóm này như"
+
+msgid "You received a request to join the group"
+msgstr "Bạn đã nhận được yêu cầu tham gia nhóm"
+
+msgid "Updated site"
+msgstr "trang web cập nhật"
+
+msgid "Site is under construction"
+msgstr "Site đang được xây dựng"
+
+msgid "Last registered users"
+msgstr "Người dùng đã đăng ký cuối cùng"
+
+msgid "User settings"
+msgstr "cài đặt người dùng"
+
+msgid "Technical support"
+msgstr "Hỗ trợ kỹ thuật"
+
+msgid "Change email"
+msgstr "thay đổi e-mail"
+
+msgid "Change password"
+msgstr "đổi mật khẩu"
+
+msgid "User has been successfully saved"
+msgstr "Người dùng đã được lưu thành công"
+
+msgid "Full name"
+msgstr "Họ và tên"
+
+msgid "My video"
+msgstr "video của tôi"
+
+msgid "Skills"
+msgstr "Kỹ năng"
+
+msgid "Birthday"
+msgstr "ngày sinh nhật"
+
+msgid "Country of residence"
+msgstr "Quốc gia cư trú"
+
+msgid "Country"
+msgstr "Đất Nước"
+
+msgid "Zip Code"
+msgstr "Ma Bưu Điện"
+
+msgid "City/town of residence"
+msgstr "Thành phố / thị trấn nơi cư trú"
+
+msgid "University/college"
+msgstr "Đại học / cao đẳng"
+
+msgid "University/college photo"
+msgstr "Đại học / cao đẳng ảnh"
+
+msgid "Add user\'s accomplishments"
+msgstr "Thêm thành tựu của người dùng"
+
+msgid "Interface language"
+msgstr "ngôn ngữ giao diện"
+
+msgid "How other people see this page"
+msgstr "Làm thế nào những người khác xem trang này"
+
+msgid "Video with me"
+msgstr "Video với tôi"
+
+msgid "Groups"
+msgstr "nhóm"
+
+msgid "Registered today"
+msgstr "ký ngày hôm nay"
+
+msgid "Qty"
+msgstr "Số lượng"
+
+msgid "No registered users yet"
+msgstr "Không có thành viên nào"
+
+msgid "Total"
+msgstr "tổng số"
+
+msgid "Registered total"
+msgstr "tổng vốn đăng ký"
+
+msgid "You received a file"
+msgstr "Bạn nhận được một tập tin"
+
+msgid "You were invited into this room"
+msgstr "Bạn đã được mời vào phòng này"
+
+msgid "Request is being processed"
+msgstr "Yêu cầu đang được xử lý"
+
+msgid "Fax"
+msgstr "fax"
+
+msgid "Messenger"
+msgstr "sứ giả"
+
+msgid "New subproject"
+msgstr "tiểu dự án mới"
+
+msgid "messages written."
+msgstr "thông điệp bằng văn bản."
+
+msgid "projects created based on groups."
+msgstr "các dự án tạo ra dựa trên các nhóm ."
+
+msgid "users registered on website."
+msgstr "người sử dụng đăng ký trên trang web ."
+
+msgid "New email"
+msgstr "Email mới"
+
+msgid "Confirm email"
+msgstr "Xác nhận email"
+
+msgid "New password"
+msgstr "Mật khẩu mới"
+
+msgid "Confirm password"
+msgstr "Xác nhận mật khẩu"
+
+msgid "Occupation"
+msgstr "Chuyên môn"
+
+msgid "Timezone"
+msgstr "Múi giờ"
+
+msgid "Answer"
+msgstr "câu trả lời"
+
+msgid "Articles"
+msgstr "Các bài viết"
+
+msgid "Article"
+msgstr "Điều"
+
+msgid "Video-article"
+msgstr "Video- bài viết"
+
+msgid "Find article..."
+msgstr "Tìm bài viết ..."
+
+msgid "Politics"
+msgstr "chính trị"
+
+msgid "Economics"
+msgstr "kinh tế học"
+
+msgid "Community"
+msgstr "cộng đồng"
+
+msgid "Culture"
+msgstr "Văn hóa"
+
+msgid "Sports"
+msgstr "môn thể thao"
+
+msgid "Hi-tech"
+msgstr "Hi - tech"
+
+msgid "Cars"
+msgstr "xe ô tô"
+
+msgid "Fashion"
+msgstr "kiểu"
+
+msgid "Games"
+msgstr "Games"
+
+msgid "Other"
+msgstr "khác"
+
+msgid "Invalid mediafile"
+msgstr "mediafile không hợp lệ"
+
+msgid "No articles in this category yet"
+msgstr "Không có bài viết trong danh mục này"
+
+msgid "Back to profile"
+msgstr "Trở lại để hồ sơ"
+
+msgid "View article"
+msgstr "Xem bài viết"
+
+msgid "Edit article"
+msgstr "chỉnh sửa bài viết"
+
+msgid "Create article"
+msgstr "tạo bài viết"
+
+msgid "Article title"
+msgstr "Điều tiêu đề"
+
+msgid "Article section"
+msgstr "Điều mục"
+
+msgid "Choose image"
+msgstr "Chọn ảnh"
+
+msgid "Save and upload"
+msgstr "Lưu và tải lên"
+
+msgid "Show more..."
+msgstr "Cho xem nhiều hơn..."
+
+msgid "Create"
+msgstr "Tạo nên"
+
+msgid "Edit"
+msgstr "chỉnh sửa"
+
+msgid "Project"
+msgstr "dự án"
+
+msgid "Team"
+msgstr "đội"
+
+msgid "A new article was published"
+msgstr "Một bài báo mới được công bố"
+
+msgid "You joined this project"
+msgstr "Bạn đã tham gia dự án này"
+
+msgid "Enter your information in the User settings"
+msgstr "Nhập thông tin của bạn vào Cài đặt người dùng"
+
+msgid "Communities"
+msgstr "cộng đồng"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Video trình bày về thành tựu của tôi"
+
+msgid "My articles"
+msgstr "bài viết của tôi"
+
+msgid "User"
+msgstr "người sử dụng"
+
+msgid "Users"
+msgstr "người sử dụng"
+
+msgid "Add new list"
+msgstr "Thêm danh sách mới"
+
+msgid "List title"
+msgstr "danh sách tiêu đề"
+
+msgid "Add"
+msgstr "thêm vào"
+
+msgid "Add to favorites"
+msgstr "Thêm vào mục yêu thích"
+
+msgid "Delete from favorites"
+msgstr "Xóa khỏi mục ưa thích"
+
+msgid "Select list"
+msgstr "Chọn danh sách"
+
+msgid "Subscriptions"
+msgstr "Các theo dõi"
+
+msgid "Subscribe"
+msgstr "Theo dõi"
+
+msgid "Unsubscribe"
+msgstr "Hủy đăng ký"
+
+msgid "General list"
+msgstr "danh mục chung"
+
+msgid "No users in this list"
+msgstr "Không có người dùng trong danh sách này"
+
+msgid "Publish"
+msgstr "xuất bản"
+
+msgid "Unpublish"
+msgstr "Không xuất bản"
+
+msgid "Add user"
+msgstr "Thêm người dùng"
+
+msgid "Create document"
+msgstr "tạo tài liệu"
+
+msgid "Edit document"
+msgstr "chỉnh sửa tài liệu"
+
+msgid "View"
+msgstr "Xem"
+
+msgid "Document title"
+msgstr "tên tài liệu"
+
+msgid "Find document..."
+msgstr "Tìm tài liệu ..."
+
+msgid "Share your thoughts"
+msgstr "Chia sẻ suy nghĩ của bạn"
+
+msgid "Leave your comment"
+msgstr "Để lại lời nhận xét của bạn"
+
+msgid "Accept"
+msgstr "chấp nhận"
+
+msgid "Decline"
+msgstr "suy giảm"
+
+msgid "Add article"
+msgstr "Thêm bài viết"
+
+msgid "Link to verified accomplishments"
+msgstr "Liên kết để xác minh thành tích"
+
+msgid "No articles here yet..."
+msgstr "Không có bài viết ở đây chưa ..."
+
+msgid "Find file or folder..."
+msgstr "Tìm tập tin hoặc thư mục ..."
+
+msgid "Sort"
+msgstr "loại"
+
+msgid "By name"
+msgstr "Bằng tên"
+
+msgid "By date"
+msgstr "theo ngày"
+
+msgid "By updated date"
+msgstr "Theo ngày cập nhật"
+
+msgid "By size"
+msgstr "theo kích thước"
+
+msgid "By type"
+msgstr "bởi loại"
+
+msgid "Move"
+msgstr "chuyển động"
+
+msgid "File Manager"
+msgstr "Quản lý tập tin"
+
+msgid "Share link"
+msgstr "Chia sẻ đường link"
+
+msgid "Responsible"
+msgstr "chịu trách nhiệm"
+
+msgid "Performer"
+msgstr "Performer"
+
+msgid "New Folder"
+msgstr "Thư mục mới"
+
+msgid "Folder name"
+msgstr "Tên thư mục"
+
+msgid "By default"
+msgstr "Theo mặc định"
+
+msgid "Back to group"
+msgstr "Quay trở lại nhóm"
+
+msgid "year(s)"
+msgstr "năm (s)"
+
+msgid "January"
+msgstr "Tháng một"
+
+msgid "February"
+msgstr "Tháng hai"
+
+msgid "March"
+msgstr "tháng Ba"
+
+msgid "April"
+msgstr "tháng tư"
+
+msgid "May"
+msgstr "có thể"
+
+msgid "June"
+msgstr "Tháng Sáu"
+
+msgid "July"
+msgstr "tháng"
+
+msgid "August"
+msgstr "oai phong"
+
+msgid "September"
+msgstr "Tháng Chín"
+
+msgid "October"
+msgstr "Tháng Mười"
+
+msgid "November"
+msgstr "tháng mười một"
+
+msgid "December"
+msgstr "tháng mười hai"
+
+msgid "Password Reminder"
+msgstr "Trình nhắc mật khẩu"
+
+msgid "Log In"
+msgstr "Đăng nhập"
+
+msgid "Sign in"
+msgstr "Đăng nhập"
+
+msgid "Register"
+msgstr "Ghi danh"
+
+msgid "First name"
+msgstr "Tên"
+
+msgid "Last name"
+msgstr "Họ"
+
+msgid "I agree with rules"
+msgstr "Tôi đồng ý với các quy tắc"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Một email xác nhận đã được gửi đến địa chỉ email của bạn."
+
+msgid "Thanks"
+msgstr "Cảm ơn"
+
+msgid "Password must be at least 6 characters"
+msgstr "Mật khẩu phải có ít nhất 6 ký tự"
+
+msgid "Creative Environment"
+msgstr "Môi trường sáng tạo"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "Bạn cần phải có ít nhất mười ba tuổi để sử dụng dịch vụ này"
+
+msgid "Order status"
+msgstr "Tình trạng đơn hàng"
+
+msgid "Processing order"
+msgstr "để chế biến"
+
+msgid "Requires a payment"
+msgstr "Yêu cầu một khoản thanh toán"
+
+msgid "Shipping"
+msgstr "Đang chuyển hàng"
+
+msgid "Ready"
+msgstr "Sẳn sàng"
+
+msgid "Thank you for your payment"
+msgstr "Cảm ơn bạn đã thanh toán của bạn"
+
+msgid "Your payment has been cancelled"
+msgstr "Thanh toán của bạn đã bị hủy"
+
+msgid "page"
+msgstr "trang"
+
+msgid "Rent period"
+msgstr "thời gian thuê"
+
+msgid "Total, month"
+msgstr "Tổng số, tháng"
+
+msgid "Order items"
+msgstr "mục Đặt hàng"
+
+msgid "No records found"
+msgstr "Không có dữ liệu được tìm thấy"
+
+msgid "User with this email is already exist"
+msgstr "Người dùng với email này đã tồn tại"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Thư mục hoặc tập tin với tên như vậy đã tồn tại trong thư mục đích"
+
+msgid "Minimal quantity"
+msgstr "số lượng tối thiểu"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "bản in"
+
+msgid "Terms of Use"
+msgstr "Điều khoản sử dụng"
+
+msgid "Privacy Policy"
+msgstr "Chính sách riêng tư"
+
+msgid "Find project..."
+msgstr "Tìm dự án ..."
+
+msgid "New Project"
+msgstr "Dự án mới"
+
+msgid "Accounts"
+msgstr "Tài khoản"
+
+msgid "Operations"
+msgstr "hoạt động"
+
+msgid "All accounts"
+msgstr "Tất cả tài khoản"
+
+msgid "All categories"
+msgstr "Tất cả danh mục"
+
+msgid "Expense"
+msgstr "Kinh phí"
+
+msgid "Income"
+msgstr "lợi tức"
+
+msgid "Transfer"
+msgstr "Chuyển giao"
+
+msgid "Expense"
+msgstr "Kinh phí"
+
+msgid "income"
+msgstr "lợi tức"
+
+msgid "tax"
+msgstr "thuế suất"
+
+msgid "percent"
+msgstr "phần trăm"
+
+msgid "transfer"
+msgstr "chuyển giao"
+
+msgid "Make operation"
+msgstr "làm cho hoạt động"
+
+msgid "Select date"
+msgstr "Chọn ngày"
+
+msgid "Select account"
+msgstr "Chọn tài khoản"
+
+msgid "Month"
+msgstr "tháng"
+
+msgid "Quarter"
+msgstr "Phần tư"
+
+msgid "Year"
+msgstr "Năm"
+
+msgid "From"
+msgstr "Từ"
+
+msgid "To"
+msgstr "Đến"
+
+msgid "Expense amount"
+msgstr "mức chi phí"
+
+msgid "Categories"
+msgstr "Thể loại"
+
+msgid "Comments"
+msgstr "comments"
+
+msgid "Income amount"
+msgstr "số thuế thu nhập"
+
+msgid "Transfer amount"
+msgstr "số tiền chuyển khoản"
+
+msgid "From account"
+msgstr "từ tài khoản"
+
+msgid "To account"
+msgstr "Tính toán"
+
+msgid "New Account"
+msgstr "Tài khoản mới"
+
+msgid "New Category"
+msgstr "New Category"
+
+msgid "All"
+msgstr "Toàn bộ"
+
+msgid "Name"
+msgstr "Tên"
+
+msgid "Enter category name"
+msgstr "Nhập tên thể loại"
+
+msgid "Select type"
+msgstr "Chọn loại"
+
+msgid "Credit card"
+msgstr "Thẻ tín dụng"
+
+msgid "Debit card"
+msgstr "Thẻ ghi nợ"
+
+msgid "Bank account"
+msgstr "tài khoản ngân hàng"
+
+msgid "Cash"
+msgstr "tiền mặt"
+
+msgid "Balance is empty"
+msgstr "Cân bằng là trống rỗng"
+
+msgid "Statistic is empty"
+msgstr "Thống kê có sản phẩm nào"
+
+msgid "Regular payments"
+msgstr "các khoản thanh toán thường xuyên"
+
+msgid "Are you sure ?"
+msgstr "Bạn có chắc không ?"
+
+msgid "Are you sure to close this project?"
+msgstr "Bạn có chắc chắn để đóng dự án này ?"
+
+msgid "Project was deleted successfully"
+msgstr "Dự án đã được xóa thành công"
+
+msgid "Select currency"
+msgstr "Chọn tiền tệ"
+
+msgid "Account"
+msgstr "Tài khoản"
+
+msgid "Orders list"
+msgstr "danh sách đơn hàng"
+
+msgid "Order payments"
+msgstr "các khoản thanh toán theo thứ tự"
+
+msgid "View order"
+msgstr "Xem đơn đặt hàng"
+
+msgid "No response from Printer API"
+msgstr "Không có phản ứng từ máy in API"
+
+msgid "Bad response from Printer API"
+msgstr "Phản hồi từ máy in API"
+
+msgid "User ID"
+msgstr "ID người dùng"
+
+msgid "Contact Person"
+msgstr "Người liên hệ"
+
+msgid "No orders to process"
+msgstr "Không có đơn đặt hàng để xử lý"
+
+msgid "Article announce image"
+msgstr "Điều bố hình ảnh"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "Url video không hợp lệ . Để trống hoặc chèn url youtube hợp lệ"
+
+msgid "Please, enter Contractor data"
+msgstr "Vui lòng nhập dữ liệu thầu"
+
+msgid "Distribute devices"
+msgstr "phân phối thiết bị"
+
+msgid "Quantity"
+msgstr "Số lượng"
+
+msgid "Devices left"
+msgstr "thiết bị rời"
+
+msgid "Distributed devices"
+msgstr "thiết bị phân phối"
+
+msgid "You must enter quantity"
+msgstr "Bạn phải nhập số lượng"
+
+msgid "All devices are distributed"
+msgstr "Tất cả các thiết bị được phân phối"
+
+msgid "IP address"
+msgstr "địa chỉ IP"
+
+msgid "Only for printer"
+msgstr "Chỉ cho máy in"
+
+msgid "Counter"
+msgstr "Phản đối"
+
+msgid "You was excluded from this room"
+msgstr "Bạn đã được loại trừ ra khỏi căn phòng này"
+
+msgid "Compare"
+msgstr "So sánh"
+
+msgid "Scheduled transaction"
+msgstr "giao dịch dự kiến"
+
+msgid "Select transfer account"
+msgstr "Chọn tài khoản chuyển khoản"
+
+msgid "Select income account"
+msgstr "Chọn tài khoản thu nhập"
+
+msgid "Reports"
+msgstr "Báo cáo"
+
+msgid "Goals"
+msgstr "Mục tiêu"
+
+msgid "Budgets"
+msgstr "ngân sách"
+
+msgid "Enter user name or email..."
+msgstr "Nhập tên người dùng hoặc email ..."
+
+msgid "Invite had been sended"
+msgstr "Mời đã được sended"
+
+msgid "Statistics"
+msgstr "Số liệu thống kê"
+
+msgid "Updated site began to work"
+msgstr "Trang web cập nhật bắt đầu làm việc"
+
+msgid "City of residence"
+msgstr "Thành phố cư trú"
+
+msgid "Edit favourites list"
+msgstr "Chỉnh sửa danh sách yêu thích"
+
+msgid "Add favourites list"
+msgstr "Thêm danh sách yêu thích"
+
+msgid "Categories is required"
+msgstr "Danh mục được yêu cầu"
+
+msgid "Type new category name and hit Enter"
+msgstr "Nhập tên sản phẩm mới và nhấn Enter"
+
+msgid "You created an order"
+msgstr "Bạn tạo ra một trật tự"
+
+msgid "You received a device due to this order"
+msgstr "Bạn nhận được một thiết bị do đơn đặt hàng này"
+
+msgid "%s attached %s to task %s"
+msgstr "%s %s kèm theo để công việc %s"
+
+msgid "member(s)"
+msgstr "các thành viên)"
+
+msgid "%s commented task %s"
+msgstr "%s %s nhiệm vụ nhận xét"
+
+msgid "%s closed task %s"
+msgstr "%s nhiệm vụ khép kín %s"
+
+msgid "%s created task %s"
+msgstr "%s nhiệm vụ tạo ra %s"
+
+msgid "%s created this project"
+msgstr "%s tạo ra dự án này"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s tiểu dự án tạo ra \"%s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s kín dự án \"%s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s kín tiểu dự án \"%s \""
+
+msgid "This field must not be blank"
+msgstr "Trường này không phải được để trống"
+
+msgid "Document with such name is already exist"
+msgstr "Tài liệu với tên như vậy là đã tồn tại"
+
+msgid "Wait until image upload"
+msgstr "Chờ cho đến khi upload hình ảnh"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Message can not be empty"
+msgstr "Tin nhắn không thể để trống"
+
+msgid "Yes"
+msgstr "Vâng"
+
+msgid "No"
+msgstr "không"
+
+msgid "Created"
+msgstr "Tạo"
+
+msgid "Compare is empty"
+msgstr "So sánh sản phẩm nào"
+
+msgid "Are you sure you want to delete operation"
+msgstr "Bạn có chắc là bạn muốn xóa các hoạt động"
+
+msgid "Do you really want to delete transaction"
+msgstr "Bạn có thực sự muốn xóa giao dịch"
+
+msgid "Project with same name already exists"
+msgstr "Dự án có cùng tên đã tồn tại"
+
+msgid "Account is not found"
+msgstr "Tài khoản không được tìm thấy"
+
+msgid "Currency is required"
+msgstr "Tiền tệ là cần thiết"
+
+msgid "error while deleting document"
+msgstr "lỗi khi xóa tài liệu"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Bạn mời người dùng \"%s \" trong căn phòng này"
+
+msgid "User \"%s\" joined this room"
+msgstr "Người dùng \"%s \" tham gia phòng này"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Bạn đã loại trừ người dùng \"%s \" từ phòng này"
+
+msgid "User \"%s\" left this room"
+msgstr "Người dùng \"%s \" rời khỏi phòng này"
+
+msgid "Add account"
+msgstr "Thêm tài khoản"
+
+msgid "The requested page is not found"
+msgstr "Trang bạn yêu cầu không được tìm thấy"
+
+msgid "Document"
+msgstr "tài liệu"
+
+msgid "Table"
+msgstr "Bàn"
+
+msgid "file(s)"
+msgstr "các tập tin)"
+
+msgid "Residue"
+msgstr "chất cặn"
+
+msgid "Result is empty"
+msgstr "Kết quả là có sản phẩm nào"
+
+msgid "The total amount is %s for %s mo"
+msgstr "Tổng số tiền là %s cho%s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Bạn phải đặt cọc %s hàng tháng vào tài khoản liên quan"
+
+msgid "Start"
+msgstr "Bắt đầu"
+
+msgid "finish"
+msgstr "hoàn thành"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Tài khoản đã chọn đã được sử dụng cho một mục tiêu khác"
+
+msgid "Amount required"
+msgstr "cần tiền"
+
+msgid "New goal"
+msgstr "mục tiêu mới"
+
+msgid "Goal"
+msgstr "Khung thành"
+
+msgid "Goal name"
+msgstr "tên mục tiêu"
+
+msgid "Invalid date"
+msgstr "Ngày không hợp lệ"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Tiền cần thiết phải là một số dương"
+
+msgid "Remain"
+msgstr "còn lại"
+
+msgid "Last day"
+msgstr "Ngày cuối cùng"
+
+msgid "Accumulated"
+msgstr "tích lũy"
+
+msgid "Put aside"
+msgstr "Để qua một bên"
+
+msgid "January"
+msgstr "Tháng một"
+
+msgid "February"
+msgstr "Tháng hai"
+
+msgid "March"
+msgstr "tháng Ba"
+
+msgid "April"
+msgstr "tháng tư"
+
+msgid "May"
+msgstr "Tháng Năm"
+
+msgid "June"
+msgstr "tháng 6"
+
+msgid "July"
+msgstr "Tháng Bảy"
+
+msgid "August"
+msgstr "tháng Tám"
+
+msgid "September"
+msgstr "Tháng chín"
+
+msgid "October"
+msgstr "Tháng Mười"
+
+msgid "November"
+msgstr "Tháng mười một"
+
+msgid "December"
+msgstr "Tháng mười hai"
+
+msgid "Expenses projected/actual"
+msgstr "Chi phí dự / thực tế"
+
+msgid "Net Income projected/actual"
+msgstr "Thu nhập ròng dự / thực tế"
+
+msgid "New budget"
+msgstr "ngân sách mới"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Doanh thu và Chi phí Chart"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Ngân sách nhà nước với cùng một cặp tài khoản và loại đã tồn tại"
+
+msgid "Budget is empty"
+msgstr "Ngân sách là rỗng"
+
+msgid "Budget"
+msgstr "ngân sách"
+
+msgid "plan"
+msgstr "kế hoạch"
+
+msgid "fact"
+msgstr "thực tế"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "Cho xem nhiều hơn"
+
+msgid "Cancel"
+msgstr "hủy bỏ"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "doanh số bán hàng của tôi"
+
+msgid "Time spent"
+msgstr "Thời gian đã dùng"
+
+msgid "Total time spent"
+msgstr "Tổng thời gian dành"
+
+msgid "Earnings per hour"
+msgstr "Thu nhập trên mỗi giờ"
+
+msgid "Total earnings"
+msgstr "Tổng Thu Nhập"
+
+msgid "Call"
+msgstr "Gọi điện"
+
+msgid "Phone call"
+msgstr "Gọi điện"
+
+msgid "Telephone calls"
+msgstr "Các cuộc điện thoại"
+
+msgid "Send email"
+msgstr "Gửi email"
+
+msgid "Emails"
+msgstr "email"
+
+msgid "Meeting"
+msgstr "Buổi họp"
+
+msgid "Meetings"
+msgstr "Các cuộc họp"
+
+msgid "All events"
+msgstr "Tất cả sự kiện"
+
+msgid "Task"
+msgstr "công việc"
+
+msgid "Event"
+msgstr "Biến cố"
+
+msgid "Events"
+msgstr "Sự kiện"
+
+msgid "Time"
+msgstr "Thời gian"
+
+msgid "Events statistics"
+msgstr "sự kiện thống kê"
+
+msgid "days"
+msgstr "ngày"
+
+msgid "hours"
+msgstr "giờ"
+
+msgid "minutes"
+msgstr "từ phút"
+
+msgid "Income & expense"
+msgstr "Thu nhập & chi phí"
+
+msgid "Show chart"
+msgstr "Hiển thị biểu đồ"
+
+msgid "Hide chart"
+msgstr "Ẩn biểu đồ"
+
+msgid "Add event"
+msgstr "Thêm sự kiện"
+
+msgid "Add financial data"
+msgstr "Thêm dữ liệu tài chính"
+
+msgid "Select contractor"
+msgstr "Chọn nhà thầu"
+
+msgid "Net Income"
+msgstr "thu nhập ròng"
+
+msgid "Revenue"
+msgstr "Doanh thu"
+
+msgid "Taxes"
+msgstr "thuế"
+
+msgid "Amount planned"
+msgstr "Số tiền dự kiến"
+
+msgid "Amount"
+msgstr "Số tiền"
+
+msgid "Period"
+msgstr "thời gian"
+
+msgid "Are you sure to close this task?"
+msgstr "Bạn có chắc chắn để đóng nhiệm vụ này?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "Tất cả các nhóm"
+
+msgid "added from task"
+msgstr "thêm từ công việc"
+
+msgid "Monthly repeat"
+msgstr "lặp lại hàng tháng"
+
+msgid "Select category"
+msgstr "Chọn loại"
+
+msgid "Event type"
+msgstr "loại sự kiện"
+
+msgid "Margin"
+msgstr "Margin"
+
+msgid "Use finance project"
+msgstr "Sử dụng dự án tài chính"
+
+msgid "New investment project"
+msgstr "Dự án đầu tư mới"
+
+msgid "Investment project settings"
+msgstr "Thiết lập dự án đầu tư"
+
+msgid "Picture, for the announcement project"
+msgstr "Hình ảnh, cho các dự án thông báo"
+
+msgid "Announcement project"
+msgstr "dự án Thông báo"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Photos or videos gallery"
+msgstr "Hình ảnh hoặc video gallery"
+
+msgid "required amount"
+msgstr "số tiền yêu cầu"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Thời hạn dự án ( tối đa 60 ngày )"
+
+msgid "Project duration"
+msgstr "thời hạn dự án"
+
+msgid "Add reward"
+msgstr "Thêm phần thưởng"
+
+msgid "Delivery date"
+msgstr "Ngày giao hàng"
+
+msgid "Payment systems"
+msgstr "hệ thống thanh toán"
+
+msgid "Terms of service"
+msgstr "Điều khoản dịch vụ"
+
+msgid "Agreement"
+msgstr "Hiệp định"
+
+msgid "Payment"
+msgstr "Thanh toán"
+
+msgid "My projects"
+msgstr "dự án của tôi"
+
+msgid "Search result"
+msgstr "Tìm kêt quả"
+
+msgid "Nothing not found"
+msgstr "Không có gì không được tìm thấy"
+
+msgid "The project has no sponsors"
+msgstr "Dự án không có nhà tài trợ"
+
+msgid "Design"
+msgstr "thiết kế"
+
+msgid "Food"
+msgstr "thức ăn"
+
+msgid "Journalism"
+msgstr "nghề làm báo"
+
+msgid "Games"
+msgstr "Games"
+
+msgid "Art"
+msgstr "nghệ thuật"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "Âm nhạc"
+
+msgid "Handicrafts"
+msgstr "Thủ công mỹ nghệ"
+
+msgid "Publishing"
+msgstr "Nhà xuất bản"
+
+msgid "Theater"
+msgstr "Rạp hát"
+
+msgid "Technology"
+msgstr "Công nghệ"
+
+msgid "Film/Video"
+msgstr "Phim / Video"
+
+msgid "Photo"
+msgstr "ảnh"
+
+msgid "Dance"
+msgstr "Khiêu vũ"
+
+msgid "Invalid youtube video"
+msgstr "Video youtube không hợp lệ"
+
+msgid "is required"
+msgstr "bắt buộc"
+
+msgid "User"
+msgstr "người sử dụng"
+
+msgid "Date"
+msgstr "ngày tháng"
+
+msgid "Collected"
+msgstr "thu"
+
+msgid "Choose period"
+msgstr "Chọn khoảng thời gian"
+
+msgid "Choose region"
+msgstr "Chọn khu vực"
+
+msgid "Country"
+msgstr "Đất nước"
+
+msgid "Today"
+msgstr "hôm nay"
+
+msgid "Week"
+msgstr "tuần"
+
+msgid "Month"
+msgstr "tháng"
+
+msgid "Year"
+msgstr "năm"
+
+msgid "Free registration"
+msgstr "đăng ký miễn phí"
+
+msgid "Join"
+msgstr "Tham gia"
+
+msgid "Log in using"
+msgstr "Đăng nhập bằng cách sử dụng"
+
+msgid "Vacancies"
+msgstr "Cơ hội việc làm"
+
+msgid "About Us"
+msgstr "Về chúng tôi"
+
+msgid "You will need email to log in"
+msgstr "Bạn sẽ cần email để đăng nhập"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Một sự kết hợp của 6 chữ số và ký tự"
+
+msgid "Search users, groups, articles..."
+msgstr "Người sử dụng tìm kiếm, nhóm , bài viết ..."
+
+msgid "Cloud"
+msgstr "Mây"
+
+msgid "Sunday"
+msgstr "chủ nhật"
+
+msgid "Monday"
+msgstr "thứ hai"
+
+msgid "Tuesday"
+msgstr "thứ ba"
+
+msgid "Wednesday"
+msgstr "thứ tư"
+
+msgid "Thursday"
+msgstr "thứ năm"
+
+msgid "Friday"
+msgstr "thứ sáu"
+
+msgid "Saturday"
+msgstr "thứ bảy"
+
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+msgid "Create group"
+msgstr "tạo nhóm"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Bạn có chắc chắn muốn thoát khỏi trang này ?"
+
+msgid "More"
+msgstr "Hơn"
+
+msgid "Less"
+msgstr "Ít hơn"
+
+msgid "Pending"
+msgstr "chưa giải quyết"
+
+msgid "Approved"
+msgstr "Tán thành"
+
+msgid "Rejected"
+msgstr "Bị từ chối"
+
+msgid "Subprojects"
+msgstr "Các tiểu dự án"
+
+msgid "Group edit"
+msgstr "Nhóm biên tập"
+
+msgid "Startup"
+msgstr "Startup"
+
+msgid "Tattoo"
+msgstr "Hình xăm"
+
+msgid "Health"
+msgstr "Sức khỏe"
+
+msgid "Weapon"
+msgstr "vũ khí"
+
+msgid "Astronomy"
+msgstr "thiên văn học"
+
+msgid "All articles"
+msgstr "Tất cả bài viết"
+
+msgid "Article editor"
+msgstr "Điều biên tập viên"
+
+msgid "Document editor"
+msgstr "biên tập tài liệu"
+
+msgid "Apply changes"
+msgstr "Áp dụng các thay đổi"
+
+msgid "Save changes?"
+msgstr "Lưu thay đổi?"
+
+msgid "published an article"
+msgstr "đăng một bài báo"
+
+msgid "Users"
+msgstr "người sử dụng"
+
+msgid "Shared With Me"
+msgstr "Chia sẻ với tôi"
+
+msgid "share"
+msgstr "chia sẻ"
+
+msgid "Select Group Responsible"
+msgstr "Chọn Nhóm Chịu trách nhiệm"
+
+msgid "Create folder"
+msgstr "Tạo thư mục"
+
+msgid "Title must be at least 3 characters"
+msgstr "Tiêu đề phải có ít nhất 3 ký tự"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Miễn phí 10 GB , quản lý tài chính , đầu tư mô-đun , và nhiều người khác miễn phí và mãi mãi"
+
+msgid "Best regards"
+msgstr "Trân trọng"
+
+msgid "Updates in last 12 hours:"
+msgstr "Cập nhật trong 12 giờ qua:"
+
+msgid "expense"
+msgstr "kinh phí"
+
+msgid "Commentary on the event:"
+msgstr "Bình luận về sự kiện này :"
+
+msgid "Event place"
+msgstr "nơi tổ chức sự kiện"
+
+msgid "Project was updated"
+msgstr "Dự án đã được cập nhật"
+
+msgid "Project was created"
+msgstr "Dự án đã được tạo ra"
+
+msgid "Project was closed"
+msgstr "Dự án đã được đóng lại"
+
+msgid "account"
+msgstr "tài khoản"
+
+msgid "removed task"
+msgstr "nhiệm vụ loại bỏ"
+
+msgid "removed subproject"
+msgstr "tiểu dự án bị loại bỏ"
+
+msgid "Title can not be empty"
+msgstr "Tiêu đề không được để trống"
+
+msgid "Do not select the type of event"
+msgstr "Đừng chọn loại sự kiện"
+
+msgid "Error while saving comment"
+msgstr "Lỗi trong khi tiết kiệm bình luận"
+
+msgid "Save error: access denied"
+msgstr "Lưu lỗi : Truy cập bị từ chối"
+
+msgid "Remains"
+msgstr "di hài"
+
+msgid "Time spent, h."
+msgstr "Thời gian dành cho , h ."
+
+msgid "Emails"
+msgstr "email"
+
+msgid "Meetings"
+msgstr "Các cuộc họp"
+
+msgid "All users"
+msgstr "Tất cả người dùng"
+
+msgid "Category"
+msgstr "thể loại"
+
+msgid "Finance project"
+msgstr "dự án Tài chính"
+
+msgid "Investment project"
+msgstr "dự án đầu tư"
+
+msgid "Nature"
+msgstr "Thiên nhiên"
+
+msgid "Data is empty"
+msgstr "Dữ liệu rỗng"
+
+msgid "Visitors"
+msgstr "Khách"
+
+msgid "My profile"
+msgstr "Tiểu sử của tôi"
+
+msgid "Sponsors"
+msgstr "nhà tài trợ"
+
+msgid "Prior to completion"
+msgstr "Trước khi hoàn thành"
+
+msgid "Select"
+msgstr "lựa chọn"
+
+msgid "My groups"
+msgstr "nhóm của tôi"
+
+msgid "The invitation has been sent successfully"
+msgstr "Lời mời đã được gửi thành công"
+
+msgid "Username has already been invited to this project"
+msgstr "Tên đăng nhập này đã được mời đến dự án này"
+
+msgid "The user is the creator of the project"
+msgstr "Người dùng chính là tác giả của dự án"
+
+msgid "Provide full access"
+msgstr "Cung cấp truy cập đầy đủ"
+
+msgid "Select elements to provide access"
+msgstr "Chọn các yếu tố để cung cấp truy cập"
+
+msgid "Select all"
+msgstr "Chọn tất cả"
+
+msgid "User E-mail"
+msgstr "Người sử dụng E -mail"
+
+msgid "Click on the field to select a category"
+msgstr "Click vào lĩnh vực này để chọn một danh mục"
+
+msgid "Invitation was deleted"
+msgstr "Lời mời đã bị xóa"
+
+msgid "Permission denied"
+msgstr "Quyền bị từ chối"
+
+msgid "Printed"
+msgstr "in"
+
+msgid "Incorrect Contractor email"
+msgstr "Email thầu không chính xác"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "Bạn có muốn thêm dự án để tài trợ cho quản lý?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Để hoàn tất quá trình đăng ký vui lòng điền xuống kỹ năng của bạn"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Một email với hướng dẫn thêm đã được gửi đến địa chỉ email của bạn"
+
+msgid "Submit"
+msgstr "Đệ trình"
+
+msgid "Cars"
+msgstr "xe ô tô"
+
+msgid "Science"
+msgstr "Khoa học"
+
+msgid "Donation"
+msgstr "Tặng"
+
+msgid "Interests"
+msgstr "Sở thích"
+
+msgid "Driver"
+msgstr "Lái xe"
+
+msgid "Sportsman"
+msgstr "Sportsman"
+
+msgid "Businessman"
+msgstr "Doanh nhân"
+
+msgid "Accountant"
+msgstr "Kế toán"
+
+msgid "Engineer"
+msgstr "Kĩ sư"
+
+msgid "Soldier"
+msgstr "Lính"
+
+msgid "Next"
+msgstr "Bên cạnh"
+
+msgid "Hide group"
+msgstr "Ẩn nhóm"
+
+msgid "groups created"
+msgstr "nhóm tạo"
+
+msgid "articles written"
+msgstr "bài viết"
+
+msgid "These groups may be interesting for you"
+msgstr "Các nhóm này có thể là thú vị cho bạn"
+
+msgid "About Group"
+msgstr "về Nhóm"
+
+msgid "view(s)"
+msgstr "lượt xem)"
+
+msgid "Favorite users"
+msgstr "người dùng yêu thích"
+
+msgid "No accounts"
+msgstr "không có tài khoản"
+
+msgid "Facebook authorization failed."
+msgstr "Ủy quyền Facebook thất bại."
+
+msgid "Authorization Required"
+msgstr "Authorization Required"
+
+msgid "You have to make a call:"
+msgstr "Bạn phải thực hiện một cuộc gọi :"
+
+msgid "You have to send an email:"
+msgstr "Bạn phải gửi một email :"
+
+msgid "You have a meetup:"
+msgstr "Bạn có họp mặt :"
+
+msgid "You event :"
+msgstr "Bạn sự kiện :"
+
+msgid "Participants:"
+msgstr "Những người tham gia :"
+
+msgid "Search"
+msgstr "Tìm kiếm"
+
+msgid "News"
+msgstr "Tin tức"
+
+msgid "Investments"
+msgstr "Đầu tư"
+
+msgid "Back to Cloud"
+msgstr "Trở lại với Cloud"
+
+msgid "Documents"
+msgstr "Các tài liệu"
+
+msgid "Planet"
+msgstr "hành tinh"
+
+msgid "Group url"
+msgstr "Nhóm url"
+
+msgid "Profile url"
+msgstr "Hồ sơ url"
+
+msgid "Already taken"
+msgstr "đã đưa"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Ít nhất 1 chữ và 3 ký tự chiều dài yêu cầu"
+
+msgid "Digit can not be the first character"
+msgstr "Chữ số không thể là nhân vật đầu tiên"
+
+msgid "Enter valid email address"
+msgstr "Nhập địa chỉ email hợp lệ"
+
+msgid "Enter your skills"
+msgstr "Nhập các kỹ năng của bạn"
+
+msgid "Enter your first name"
+msgstr "Nhập tên của bạn"
+
+msgid "Enter your last name"
+msgstr "Nhập tên cuối cùng của bạn"
+
+msgid "Enter your first name and last name"
+msgstr "Nhập tên của bạn và tên cuối cùng"
+
+msgid "Your first name?"
+msgstr "Tên của bạn?"
+
+msgid "Your last name?"
+msgstr "Tên của bạn?"
+
+msgid "What are your proficiencies?"
+msgstr "Thành thạo của bạn là gì ?"
+
+msgid "Select country"
+msgstr "Chọn quốc gia"
+
+msgid "Select user"
+msgstr "Chọn người dùng"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Thực hiện ước mơ của bạn ! Tạo và Cộng tác."
+
+msgid "date moved from"
+msgstr "ngày di chuyển từ"
+
+msgid "work"
+msgstr "công việc"
+
+msgid "Conference"
+msgstr "Hội nghị"
+
+msgid "personal"
+msgstr "cá nhân"
+
+msgid "Holiday"
+msgstr "Ngày lễ"
+
+msgid "Past"
+msgstr "Quá khứ"
+
+msgid "Future"
+msgstr "Tương lai"
+
+msgid "Purchase"
+msgstr "Mua"
+
+msgid "Personal events"
+msgstr "Sự kiện riêng tư"
+
+msgid "Conferences"
+msgstr "Đáp"
+
+msgid "Holidays"
+msgstr "Ngày lễ"
+
+msgid "Sport events"
+msgstr "Sự kiện thể thao"
+
+msgid "Tasks"
+msgstr "Nhiệm vụ"
+
+msgid "Other events"
+msgstr "Các sự kiện khác"
+
+msgid "Set aside"
+msgstr "Takeout"
+
+msgid "Set aside"
+msgstr "Hoãn"
+
+msgid "Time management"
+msgstr "Quản lý thời gian"
+
+msgid "Delayed events"
+msgstr "Sự kiện thu nhập hoãn lại"
+
+msgid "Delayed"
+msgstr "Hoãn"
+
+msgid "Bind to"
+msgstr "Chỉ định"
+
+msgid "answered your comment to"
+msgstr "Tôi đã nói (a) Nhận xét về bài viết"
+
+msgid "commented your article"
+msgstr "Tôi nhận xét về bài viết của bạn"
+
+msgid "You\'ve answered on comment to"
+msgstr "Bạn trả lời các bình luận về bài viết"
+
+msgid "You\'ve commented an article"
+msgstr "Bạn nhận xét về bài viết"
+
+msgid "Terms and Conditions"
+msgstr "Điều khoản và Điều kiện"
+
+msgid "Privacy Policy"
+msgstr "Chính sách bảo mật"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Bằng cách nhấp vào \"đăng ký\", bạn đồng ý với chúng tôi và thừa nhận rằng bạn đã đọc của chúng tôi"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "Tham gia vào cộng đồng của những người sáng tạo từ khắp nơi trên thế giới! Bạn sẽ nhận được: Đầu tư vào ý tưởng của bạn, một cơ hội để tập hợp đội của mình, làm việc trong một nhóm, người quản lý tài chính, quản lý thời gian của họ, 2 gigabytes lưu trữ và nhiều hơn nữa. Và nó hoàn toàn miễn phí!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Xin lỗi, nhưng trang mà bạn đang tìm kiếm không tồn tại. Nếu bạn nghĩ rằng để đổ lỗi cho chúng tôi liên hệ với chúng"
+
+msgid "Return"
+msgstr "Trở về"
+
+msgid "COMMON"
+msgstr "Total"
+
+msgid "My events"
+msgstr "Sự kiện của tôi"
+
+msgid "Job opening"
+msgstr "Vị trí tuyển dụng mới"
+
+msgid "Employment"
+msgstr "Loại hình công việc"
+
+msgid "Working hours"
+msgstr "Giờ mở cửa"
+
+msgid "City"
+msgstr "Thành phố"
+
+msgid "Wages"
+msgstr "Tiền lương"
+
+msgid "Currency"
+msgstr "Tiền tệ"
+
+msgid "Experience"
+msgstr "Kinh nghiệm"
+
+msgid "Full-time"
+msgstr "Việc làm đầy đủ"
+
+msgid "Part-time"
+msgstr "Part-time"
+
+msgid "Project employment"
+msgstr "Dự án / Tạm thời"
+
+msgid "Volunteer"
+msgstr "Tình nguyện"
+
+msgid "Internship"
+msgstr "Traineeship"
+
+msgid "Full day"
+msgstr "Toàn thời gian"
+
+msgid "Shifts"
+msgstr "Lịch trình thay thế"
+
+msgid "Flexible shifts"
+msgstr "Lịch trình linh hoạt"
+
+msgid "Remote work"
+msgstr "Làm việc từ xa"
+
+msgid "Rotational basis"
+msgstr "Phương pháp thay đổi"
+
+msgid "Do you really want to delete this comment?"
+msgstr "Bạn có chắc chắn muốn xóa bình luận?"
+
+msgid "Do you really want to delete this task?"
+msgstr "Bạn có chắc chắn muốn xóa nhiệm vụ này?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "Bạn có chắc chắn muốn xóa tiểu dự án này?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Bạn đã áp dụng cho các công ty ở vị trí này. Hãy đảm bảo rằng các"
+
+msgid "Your request to for job has been rejected"
+msgstr "Yêu cầu của bạn cho công ty đến vị trí đã bị từ chối"
+
+msgid "Your request to for job has been accepted"
+msgstr "Yêu cầu của bạn cho công ty đến vị trí đã được thông qua"
+
+msgid "profile is completed"
+msgstr "Hồ sơ của bạn là đầy đủ"
+
+msgid "Use account"
+msgstr "Sử dụng tài khoản"
+
+msgid "$/hr"
+msgstr "$ / Giờ"
+
+msgid "Finance category"
+msgstr "Loại tài chính"
+
+msgid "No projects"
+msgstr "Không có dự án"
+
+msgid "Bind to finances"
+msgstr "Chỉ định tài chính dự án"
+
+msgid "Preview"
+msgstr "Xem"
+
+msgid "Download"
+msgstr "Tải về"
+
+msgid "Save to my cloud"
+msgstr "Sao chép kho"
+
+msgid "File successfully saved to your cloud"
+msgstr "Tập tin được lưu trữ thành công trong kho của bạn"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Lưu tập tin này trong kho lưu trữ của bạn?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Chọn thể loại một Điều"
+
+msgid "Type something"
+msgstr "Viết một cái gì đó"
+
+msgid "Founded users"
+msgstr "Tìm thấy người sử dụng"
+
+msgid "Founded articles"
+msgstr "Tìm thấy bài viết"
+
+msgid "Founded groups"
+msgstr "Được thành lập nhóm"
+
+msgid "What are your skills?"
+msgstr "Kỹ năng của bạn là gì?"
+
+msgid "Select at least 2 interests"
+msgstr "Chọn ít nhất 2 suất"
+
+msgid "Need more interests"
+msgstr "Không đủ quan tâm lựa chọn"
+
+msgid "What are you interesting in?"
+msgstr "Bạn quan tâm gì?"
+
+msgid "You have no dialogs"
+msgstr "Bạn không có đối thoại"
+
+msgid "Usage Stats"
+msgstr "Nhà nước"
+
+msgid "Founded files"
+msgstr "Tìm thấy file"
+
+msgid "Big tiles"
+msgstr "Gạch lớn"
+
+msgid "Small tiles"
+msgstr "Gạch nhỏ"
+
+msgid "Table view"
+msgstr "Xem bảng"
+
+msgid "Root folder"
+msgstr "Các thư mục gốc"
+
+msgid "My files"
+msgstr "My Files"
+
+msgid "Save as draft"
+msgstr "Save as Draft"
+
+msgid "Buy More Space"
+msgstr "Mua thêm không gian"
+
+msgid "Buy"
+msgstr "Mua"
+
+msgid "You have been invited to group as"
+msgstr "Bạn đã được mời đến nhóm như một"
+
+msgid "User wants to join your group"
+msgstr "Người dùng muốn tham gia vào nhóm của bạn"
+
+msgid "Section is coming soon!"
+msgstr "Mục được xây dựng!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "Lần đọc trong 24 giờ qua:"
+
+msgid "Task was updated"
+msgstr "Các nhiệm vụ đã được cập nhật"
+
+msgid "Task was closed"
+msgstr "Thách thức đã được đóng cửa"
+
+msgid "Task was created"
+msgstr "Nhiệm vụ được thiết lập"
+
+msgid "Current balance"
+msgstr "Số dư hiện tại"
+
+msgid "Add funds"
+msgstr "Thêm vào"
+
+msgid "Pay"
+msgstr "Thanh toán"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Bạn đã vượt quá số lần đăng nhập. Bạn đang bị khóa trong 15 phút"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Vui lòng xác nhận e-mail của bạn. Bức thư gửi cho bạn qua đường bưu điện."
+
+msgid "Resend confirmation email"
+msgstr "Gửi xác nhận một lần nữa"
+
+msgid "Disk 2Gb Monthly"
+msgstr "Disc 2 GB mỗi tháng"
+
+msgid "Disk 10Gb Monthly"
+msgstr "Lái xe 10 GB mỗi năm"
+
+msgid "Disk 100Gb Yearly"
+msgstr "Đĩa 100 GB mỗi năm"
+
+msgid "Disk 1Tb Monthly"
+msgstr "Đĩa 1TB hàng tháng"
+
+msgid "Disk 1Tb Yearly"
+msgstr "Lái 1 TB mỗi năm"
+
+msgid "Project members monthly"
+msgstr "Những người tham gia các dự án trên cơ sở hàng tháng"
+
+msgid "Project members yearly"
+msgstr "Tham gia dự án hàng năm"
+
+msgid "Member(s) yearly"
+msgstr "Thành viên (s) mỗi năm"
+
+msgid "Member(s) monthly"
+msgstr "Thành viên (s) trên một cơ sở hàng tháng"
+
+msgid "Authorized"
+msgstr "Ủy quyền"
+
+msgid "Authorization expired"
+msgstr "Ủy quyền hết hạn"
+
+msgid "Processor declined"
+msgstr "Hệ thống xử lý từ chối"
+
+msgid "Gateway rejected"
+msgstr "Cổng thanh toán bị từ chối"
+
+msgid "Failed"
+msgstr "Lỗi"
+
+msgid "Voided"
+msgstr "Bãi bỏ"
+
+msgid "Submitted for settlement"
+msgstr "Gửi đến ghi danh"
+
+msgid "Settlement declined"
+msgstr "Tuyển sinh đã bị từ chối"
+
+msgid "Settlement pending"
+msgstr "Trong khi chờ tuyển sinh"
+
+msgid "Verified"
+msgstr "Kiểm tra"
+
+msgid "Pending"
+msgstr "Chưa giải quyết"
+
+msgid "Active"
+msgstr "Hoạt động"
+
+msgid "Past Due"
+msgstr "Hết hạn"
+
+msgid "Expired"
+msgstr "Đã kết thúc"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "India"
+msgstr "Ấn Độ"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Thailand"
+msgstr "Thái Lan"
+
+msgid "South Korea"
+msgstr "Nam Triều Tiên"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Turkey"
+msgstr "Gà tây"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Áo"
+
+msgid "Poland"
+msgstr "Ba Lan"
+
+msgid "Germany"
+msgstr "Đức"
+
+msgid "Italy"
+msgstr "Ý"
+
+msgid "Netherlands"
+msgstr "Hà Lan"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "United Kingdom"
+msgstr "Nước Anh"
+
+msgid "Portugal"
+msgstr "Bồ Đào Nha"
+
+msgid "Norway"
+msgstr "Na Uy"
+
+msgid "United States"
+msgstr "Hoa Kỳ"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+msgid "Canada"
+msgstr "Ai Cập"
+
+msgid "Russia"
+msgstr "Nga"
+
+msgid "Hong Kong"
+msgstr "Hồng Kông"
+
+msgid "There was no any transactions yet."
+msgstr "Tại thời điểm này, không có một giao dịch duy nhất"
+
+msgid "Fulfill your dream"
+msgstr "HOÀN DREAM CỦA BẠN"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Tham gia cộng đồng của chúng tôi của các cá nhân sáng tạo từ khắp nơi trên thế giới."
+
+msgid "Create and Collaborate"
+msgstr "Tạo và Hợp tác"
+
+msgid "Start Dreaming"
+msgstr "HOÀN DREAM VỚI DOANH NGHIỆP"
+
+msgid "or"
+msgstr "hoặc là"
+
+msgid "Our mission:"
+msgstr "Nhiệm vụ của chúng ta:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Đoàn kết mọi người sáng tạo và tích cực để thực hiện ý tưởng từ đơn giản và có nhu cầu đến đáng kinh ngạc và tuyệt vời, có thể định hình tương lai của chúng tôi."
+
+msgid "What is Konstruktor?"
+msgstr "Konstruktor là gì?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - là một phần của cuộc sống thực của chúng tôi, trong đó tạo điều đáng kể và đơn giản hoá"
+
+msgid "*business processes"
+msgstr "*quy trình kinh doanh"
+
+msgid "*materialization of creative ideas"
+msgstr "* thực hiện ý tưởng sáng tạo"
+
+msgid "*constructive cooperation"
+msgstr "* hợp tác mang tính xây dựng"
+
+msgid "Make your dream!"
+msgstr "Thực hiện ước mơ của bạn!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "Giám đốc điều hành"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Cố vấn đặc biệt"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Quản lý, phát triển phần mềm"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Luật sư cao cấp"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Nhà thiết kế"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Bằng cách nhấp vào nút \"Next\", bạn phải chấp nhận và đồng ý với Điều khoản và Điều kiện của chúng tôi, và bạn sẽ được thừa rằng bạn đã đọc Chính sách bảo mật của chúng tôi."
+
+msgid "Incorrect login or password."
+msgstr "Đăng nhập không chính xác hoặc mật khẩu."
+
+msgid "Password must be at least 6 characters"
+msgstr "Mật khẩu phải có ít nhất 6 ký tự"
+
+msgid "January"
+msgstr "Tháng một"
+
+msgid "February"
+msgstr "Tháng hai"
+
+msgid "March"
+msgstr "tháng Ba"
+
+msgid "April"
+msgstr "Tháng tư"
+
+msgid "May"
+msgstr "Tháng Năm"
+
+msgid "June"
+msgstr "tháng 6"
+
+msgid "July"
+msgstr "Tháng Bảy"
+
+msgid "August"
+msgstr "tháng 8"
+
+msgid "September"
+msgstr "Tháng Chín"
+
+msgid "October"
+msgstr "Tháng Mười"
+
+msgid "November"
+msgstr "Tháng mười một"
+
+msgid "December"
+msgstr "Tháng mười hai"
+
+msgid "Chat"
+msgstr "Trò chuyện"
+
+msgid "Files"
+msgstr "Các tập tin"
+
+msgid "Statistic"
+msgstr "Thống kê"
+
+msgid "Support"
+msgstr "Hỗ trợ"
+
+msgid "Exit"
+msgstr "Lối thoát"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Marketing specialist"
+msgstr "Chuyên gia marketing"
+
+msgid "Administrator"
+msgstr "Người quản lý"
+
+msgid "Shared with me"
+msgstr "Chia sẻ với tôi"
+
+msgid "File Sharing"
+msgstr "Chia sẻ file"
+
+msgid "Provide access by link"
+msgstr "Cung cấp truy cập bằng cách liên kết"
+
+msgid "Provide Individual access"
+msgstr "Cung cấp truy cập cá nhân"
+
+msgid "Provide edit access"
+msgstr "Cung cấp truy cập chỉnh sửa"
+
+msgid "Share"
+msgstr "Chia sẻ"
+
+msgid "Files will be available only for selected users"
+msgstr "File sẽ chỉ có sẵn cho người dùng lựa chọn"
+
+msgid "With this link everyone can access to the files"
+msgstr "Với điều này liên kết tất cả mọi người có thể truy cập vào các tập tin"
+
+msgid "Search users, groups, articles..."
+msgstr "Người sử dụng tìm kiếm, nhóm, bài viết ..."
+
+msgid "My Group"
+msgstr "Nhóm của tôi"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Chúng tôi"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "Các tập tin không được chọn"
+
+msgid "Set aside"
+msgstr "Để qua một bên"
+
+msgid "Event time"
+msgstr "Thời gian tổ chức sự kiện"
+
+msgid "Work"
+msgstr "Công việc"
+
+msgid "Personal"
+msgstr "Cá nhân"
+
+msgid "Time spent for work:"
+msgstr "Thời gian dành cho công việc:"
+
+msgid "Personal time spent:"
+msgstr "Thời gian cá nhân chi tiêu:"
+
+msgid "Present"
+msgstr "Hiện nay"
+
+msgid "Common"
+msgstr "phổ thông"
+
+msgid "Sport"
+msgstr "Thể thao"
+
+msgid "Entertainment"
+msgstr "Giải trí"
+
+msgid "Select:"
+msgstr "Chọn:"
+
+msgid "Invalid username or password."
+msgstr "Sai username hoặc password."
+
+msgid "Try again."
+msgstr "Thử lại."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "BẠN LÀ GÌ QUAN TÂM ĐẾN?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Chọn ít nhất 2 kỹ năng: vẫn là 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Chọn ít nhất 2 kỹ năng: vẫn là 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Chọn ít nhất 2 kỹ năng: hài cốt"
+
+msgid "Active life"
+msgstr "Cuộc sống năng động"
+
+msgid "Arts and culture"
+msgstr "Nghệ thuật và văn hóa"
+
+msgid "Business"
+msgstr "Kinh doanh"
+
+msgid "Cinema"
+msgstr "Rạp chiếu bóng"
+
+msgid "Communications"
+msgstr "Truyền thông"
+
+msgid "Construction and repair"
+msgstr "Xây dựng và sửa chữa"
+
+msgid "Cooking"
+msgstr "Nấu nướng"
+
+msgid "Education"
+msgstr "Giáo dục"
+
+msgid "Electronics"
+msgstr "Hàng điện tử"
+
+msgid "Finances"
+msgstr "Tài chính"
+
+msgid "Graphics and design"
+msgstr "Đồ họa và thiết kế"
+
+msgid "Health"
+msgstr "Sức khỏe"
+
+msgid "Home and family"
+msgstr "Trang chủ và gia đình"
+
+msgid "Humor"
+msgstr "Hài"
+
+msgid "IT"
+msgstr "CNTT"
+
+msgid "Industry"
+msgstr "Ngành công nghiệp"
+
+msgid "Insurance"
+msgstr "Bảo hiểm"
+
+msgid "Literature"
+msgstr "Ngữ văn"
+
+msgid "Mobile communications and internet"
+msgstr "Truyền thông di động và internet"
+
+msgid "News and Media"
+msgstr "Tin tức và Truyền thông"
+
+msgid "Pets"
+msgstr "Vật nuôi"
+
+msgid "Products and service"
+msgstr "Sản phẩm và dịch vụ"
+
+msgid "Real Estate"
+msgstr "Địa ốc"
+
+msgid "Religion"
+msgstr "Tôn giáo"
+
+msgid "Science and techs"
+msgstr "Khoa học và techs"
+
+msgid "Security"
+msgstr "Bảo vệ"
+
+msgid "Society"
+msgstr "Xã hội"
+
+msgid "Television"
+msgstr "Tivi"
+
+msgid "Travel"
+msgstr "Du lịch"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Úc"
+
+msgid "Austria"
+msgstr "Áo"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belgium"
+msgstr "nước Bỉ"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Đan Mạch"
+
+msgid "France"
+msgstr "Pháp"
+
+msgid "Germany"
+msgstr "nước Đức"
+
+msgid "Greece"
+msgstr "Hy Lạp"
+
+msgid "Hungary"
+msgstr "Hungary"
+
+msgid "Iceland"
+msgstr "Iceland"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Ý"
+
+msgid "Japan"
+msgstr "Nhật Bản"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Netherlands"
+msgstr "nước Hà Lan"
+
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgid "Norway"
+msgstr "Na Uy"
+
+msgid "Poland"
+msgstr "Ba Lan"
+
+msgid "Portugal"
+msgstr "Bồ Đào Nha"
+
+msgid "Russia"
+msgstr "Nga"
+
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgid "South Africa"
+msgstr "Nam Phi"
+
+msgid "South Korea"
+msgstr "Nam Triều Tiên"
+
+msgid "Spain"
+msgstr "Tây Ban Nha"
+
+msgid "Sweden"
+msgstr "Thụy Điển"
+
+msgid "Switzerland"
+msgstr "Thụy Sỹ"
+
+msgid "Turkey"
+msgstr "Thổ Nhĩ Kỳ"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "United Arab Emirates"
+msgstr "các Tiểu Vương Quốc Ả Rập Thống Nhất"
+
+msgid "United Kingdom"
+msgstr "Vương quốc Anh"
+
+msgid "United States"
+msgstr "Hoa Kỳ"
+
+msgid "achievements"
+msgstr "thành tựu"
+
+msgid "Investment management"
+msgstr "Quản lí đầu tư"
+
+msgid "Select..."
+msgstr "Chọn ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "QUẢN LÍ ĐẦU TƯ"
+
+msgid "Investors list"
+msgstr "Danh mục đầu tư"
+
+msgid "My investments"
+msgstr "Đầu tư của tôi"
+
+msgid "Create date"
+msgstr "Tạo ngày"
+
+msgid "Author of the project"
+msgstr "Tác giả của dự án"
+
+msgid "Date and time"
+msgstr "Ngày và giờ"
+
+msgid "Status"
+msgstr "Tình trạng"
+
+msgid "NEXT"
+msgstr "BÊN CẠNH"
+
+msgid "Next"
+msgstr "Bên cạnh"
+
+msgid "Apply"
+msgstr "Nộp đơn"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hồng Kông"
+
+msgid "Science"
+msgstr "Khoa học"
+
+msgid "Architecture"
+msgstr "Kiến trúc"
+
+msgid "Photography"
+msgstr "Nhiếp ảnh"
+
+msgid "Designer"
+msgstr "Nhà thiết kế"
+
+msgid "IT specialist"
+msgstr "chuyên gia IT"
+
+msgid "Agronomist"
+msgstr "Nhà nông học"
+
+msgid "Architect"
+msgstr "Kiến trúc sư"
+
+msgid "Lawyer"
+msgstr "Luật sư"
+
+msgid "Writer"
+msgstr "nhà văn"
+
+msgid "Doctor"
+msgstr "Bác sĩ"
+
+msgid "Scientist"
+msgstr "Nhà khoa học"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "Giáo viên"
+
+msgid "Cook"
+msgstr "Đầu bếp"
+
+msgid "Artist"
+msgstr "Họa sĩ"
+
+msgid "Photographer"
+msgstr "Nhiếp ảnh gia"
+
+msgid "Ecologist"
+msgstr "Sinh thái học"
+
+msgid "Economist"
+msgstr "Economist"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Nhà báo"
+
+msgid "Builder"
+msgstr "Người xây dựng"
+
+msgid "These users may be interesting for you"
+msgstr "Những người sử dụng có thể là thú vị cho bạn"
+
+msgid "These articles may be interesting for you"
+msgstr "Các bài viết có thể là thú vị cho bạn"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Bạn đã tham gia nhóm này như Аdministrator"
+
+msgid "articles written."
+msgstr "bài báo viết."
+
+msgid "groups created."
+msgstr "nhóm tạo ra."
+
+msgid "Creation"
+msgstr "Sự sáng tạo"
+
+msgid "Build a dream"
+msgstr "Xây dựng một giấc mơ"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Đọc các bài viết thú vị hơn - đi đăng ký miễn phí"
+

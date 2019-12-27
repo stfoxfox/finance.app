@@ -1,0 +1,3344 @@
+# हिंदी (Хинди) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: हिंदी (Хинди) <support@konstruktor.com>\n"
+"Language: हिंदी (Хинди)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "उपयोगकर्ता नाम    Upayōgakartā nāma"
+
+msgid "Invalid username or password, try again"
+msgstr "गलत उपयोगकर्ता नाम या पासवर्ड। पुनः प्रयास करें।"
+
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+msgid "Home"
+msgstr "घर"
+
+msgid "You must log in to access this page"
+msgstr "इस पृष्ठ तक पहुंचने के लिए आपको जरूर लॉगिन करना चाहिए"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "आपका सत्र समाप्त हो गया है। पर, इस क्रिया को करने के लिए दोबारा लॉगिन कृपया"
+
+msgid "Save"
+msgstr "सहेजें"
+
+msgid "Head Office"
+msgstr "मुख्य कार्यालय"
+
+msgid "Address"
+msgstr "पता"
+
+msgid "Back"
+msgstr "वापस"
+
+msgid "Apply"
+msgstr "लागू करना"
+
+msgid "Upload files…"
+msgstr "फाइलें अपलोड करें ..."
+
+msgid "Set as main"
+msgstr "मुख्य रूप में सेट करें"
+
+msgid "Delete"
+msgstr "हटाना"
+
+msgid "Original image"
+msgstr "मूल छवि"
+
+msgid "Uploaded"
+msgstr "अपलोड की गई"
+
+msgid "File name"
+msgstr "फ़ाइल का नाम"
+
+msgid "File size"
+msgstr "फ़ाइल का साइज़"
+
+msgid "Resolution"
+msgstr "संकल्प"
+
+msgid "Enlarge"
+msgstr "विस्तार करना"
+
+msgid "Links"
+msgstr "लिंक"
+
+msgid "Original size"
+msgstr "मूल आकार"
+
+msgid "For editor"
+msgstr "संपादक के लिए"
+
+msgid "Resize"
+msgstr "आकार बदलें"
+
+msgid "Width"
+msgstr "चौड़ाई"
+
+msgid "Height"
+msgstr "ऊंचाई"
+
+msgid "Media URL"
+msgstr "मीडिया यूआरएल"
+
+msgid "Add record"
+msgstr "रिकॉर्ड जोड़ें"
+
+msgid "Show filter settings"
+msgstr "दिखाएँ फ़िल्टर सेटिंग्स"
+
+msgid "Edit record"
+msgstr "संपादित रिकॉर्ड"
+
+msgid "Delete record"
+msgstr "रिकॉर्ड हटाएं"
+
+msgid "Delete checked records"
+msgstr "जाँच की रिकॉर्ड हटाएँ"
+
+msgid "Dashboard"
+msgstr "डैशबोर्ड"
+
+msgid "Password"
+msgstr "पासवर्ड"
+
+msgid "Remember me"
+msgstr "मुझे याद रखें"
+
+msgid "Login"
+msgstr "लॉग इन करें"
+
+msgid "Clean image cache"
+msgstr "स्वच्छ छवि कैश"
+
+msgid "Processing query..."
+msgstr "प्रसंस्करण क्वेरी ..."
+
+msgid "CMS Development"
+msgstr "सीएमएस विकास"
+
+msgid "Admin Home Page"
+msgstr "व्यवस्थापक मुख पृष्ठ"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "एक नए टैब में फ्रंट -एंड ओपन होम पेज"
+
+msgid "Go to Site"
+msgstr "साइट पर जाएँ"
+
+msgid "Log out"
+msgstr "लॉग आउट"
+
+msgid "Send"
+msgstr "भेजें"
+
+msgid "General"
+msgstr "सामान्य"
+
+msgid "Title"
+msgstr "शीर्षक"
+
+msgid "Teaser"
+msgstr "मंगता"
+
+msgid "Published"
+msgstr "प्रकाशित"
+
+msgid "Featured"
+msgstr "विशेष रुप से प्रदर्शित"
+
+msgid "Active"
+msgstr "सक्रिय"
+
+msgid "Field is mandatory"
+msgstr "फील्ड अनिवार्य है"
+
+msgid "Sort Order"
+msgstr "क्रमबद्ध आदेश"
+
+msgid "Upload"
+msgstr "अपलोड"
+
+msgid "Loading..."
+msgstr "लोड हो रहा है ..."
+
+msgid "Jan"
+msgstr "जनवरी"
+
+msgid "Feb"
+msgstr "फ़रवरी"
+
+msgid "Mar"
+msgstr "मार्च"
+
+msgid "Apr"
+msgstr "अप्रैल"
+
+msgid "May"
+msgstr "मई"
+
+msgid "Jun"
+msgstr "जून"
+
+msgid "Jul"
+msgstr "जुलाई"
+
+msgid "Aug"
+msgstr "अगस्त"
+
+msgid "Sep"
+msgstr "सितंबर"
+
+msgid "Oct"
+msgstr "अक्टूबर"
+
+msgid "Nov"
+msgstr "नवंबर"
+
+msgid "Dec"
+msgstr "दिसंबर"
+
+msgid "Product already exists in the order"
+msgstr "उत्पाद पहले से ही क्रम में मौजूद है"
+
+msgid "Product does not exist"
+msgstr "उत्पाद मौजूद नहीं है"
+
+msgid "Incorrect request"
+msgstr "गलत अनुरोध"
+
+msgid "Products"
+msgstr "उत्पाद"
+
+msgid "Product types"
+msgstr "उत्पाद प्रकार"
+
+msgid "Contractors"
+msgstr "ठेकेदार"
+
+msgid "Contractor"
+msgstr "ठेकेदार"
+
+msgid "Orders"
+msgstr "आदेश"
+
+msgid "FAQ"
+msgstr "सामान्य प्रश्न"
+
+msgid "New order"
+msgstr "नए आदेश"
+
+msgid "My orders"
+msgstr "मेरे आदेश"
+
+msgid "Recharge balance"
+msgstr "रिचार्ज संतुलन"
+
+msgid "Administrator"
+msgstr "प्रशासक"
+
+msgid "Incorrect event ID"
+msgstr "गलत घटना आईडी"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "संपादित करें ठेकेदार"
+
+msgid "Create contractor"
+msgstr "ठेकेदार बनाएँ"
+
+msgid "Edit question"
+msgstr "संपादित करें प्रश्न"
+
+msgid "Create question"
+msgstr "प्रश्न बनाएँ"
+
+msgid "Edit order"
+msgstr "संपादित करें आदेश"
+
+msgid "Create order"
+msgstr "आदेश बनाएँ"
+
+msgid "Edit product"
+msgstr "संपादित करें उत्पाद"
+
+msgid "Create product"
+msgstr "उत्पाद बनाएँ"
+
+msgid "Edit product type"
+msgstr "संपादित करें उत्पाद के प्रकार"
+
+msgid "Create product type"
+msgstr "उत्पाद प्रकार बनाएं"
+
+msgid "You have received a file"
+msgstr "आप एक फ़ाइल मिली है"
+
+msgid "You received a file from"
+msgstr "आप से एक फ़ाइल प्राप्त"
+
+msgid "File has been uploaded"
+msgstr "फाइल अपलोड हो गई है"
+
+msgid "Min.qty"
+msgstr "Min.qty"
+
+msgid "Minimal quantity"
+msgstr "न्यूनतम मात्रा"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "आइटम"
+
+msgid "Remove"
+msgstr "निकालें"
+
+msgid "Contact person"
+msgstr "संपर्क व्यक्ति"
+
+msgid "Email"
+msgstr "ईमेल"
+
+msgid "Contractor phone"
+msgstr "ठेकेदार फोन"
+
+msgid "Contractor name"
+msgstr "ठेकेदार का नाम"
+
+msgid "Contractor details"
+msgstr "ठेकेदार विवरण"
+
+msgid "Order ID"
+msgstr "आदेश कामतत्व"
+
+msgid "Sum"
+msgstr "योग"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "अपनी शेष राशि के पुनर्भरण के लिए उपयुक्त भुगतान प्रणाली चुनें"
+
+msgid "Recharge amount"
+msgstr "रिचार्ज राशि"
+
+msgid "Paid"
+msgstr "सशुल्क"
+
+msgid "Shipped"
+msgstr "जहाज"
+
+msgid "- No products in this order -"
+msgstr "- इस क्रम में कोई उत्पादों -"
+
+msgid "month"
+msgstr "माह"
+
+msgid "No user found"
+msgstr "कोई उपयोगकर्ता नहीं मिला"
+
+msgid "Achievement"
+msgstr "उपलब्धि"
+
+msgid "Confirmed accomplishments"
+msgstr "पुष्टि उपलब्धियां"
+
+msgid "Remove achievement"
+msgstr "उपलब्धि निकालें"
+
+msgid "Headquaters"
+msgstr "मुख्यालय"
+
+msgid "Phone"
+msgstr "फ़ोन"
+
+msgid "Site URL and email"
+msgstr "इस साइट के यूआरएल और ईमेल"
+
+msgid "Remove address"
+msgstr "पता निकालें"
+
+msgid "Members"
+msgstr "सदस्य"
+
+msgid "Requires a payment"
+msgstr "एक भुगतान की आवश्यकता होती है"
+
+msgid "Shipping"
+msgstr "शिपिंग"
+
+msgid "Ready"
+msgstr "तैयार"
+
+msgid "Find user..."
+msgstr "उपयोगकर्ता का पता लगाएं ..."
+
+msgid "Order it"
+msgstr "इसे आदेश करें"
+
+msgid "Find group..."
+msgstr "समूह का पता लगाएं ..."
+
+msgid "Find user or community..."
+msgstr "उपयोगकर्ता या समुदाय का पता लगाएं ..."
+
+msgid "No item found"
+msgstr "कोई आइटम नहीं मिला"
+
+msgid "years"
+msgstr "वर्षों"
+
+msgid "Send message"
+msgstr "मेसेज भेजें"
+
+msgid "Message"
+msgstr "संदेश"
+
+msgid "To send message press Enter"
+msgstr "संदेश प्रेस दर्ज भेजने के लिए"
+
+msgid "To send message press CTRL+Enter"
+msgstr "संदेश प्रेस Ctrl भेजें + Enter करने के लिए"
+
+msgid "Processing file(s)..."
+msgstr "प्रसंस्करण फ़ाइल (s) ..."
+
+msgid "Group settings"
+msgstr "समूह सेटिंग"
+
+msgid "Create group"
+msgstr "समूह बनाना"
+
+msgid "Group has been successfully saved"
+msgstr "समूह सफलतापूर्वक सहेज लिया गया है"
+
+msgid "Group title"
+msgstr "समूह शीर्षक"
+
+msgid "Group video"
+msgstr "समूह वीडियो"
+
+msgid "Description"
+msgstr "विवरण"
+
+msgid "Your role in group"
+msgstr "समूह में अपनी भूमिका"
+
+msgid "Role"
+msgstr "भूमिका"
+
+msgid "Photo or video gallery"
+msgstr "फोटो या वीडियो गैलरी"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com यूआरएल"
+
+msgid "Upload video"
+msgstr "वीडियो अपलोड करें"
+
+msgid "Add group address"
+msgstr "समूह का पता जोड़ें"
+
+msgid "Group articles"
+msgstr "समूह लेख"
+
+msgid "No addresses yet"
+msgstr "अभी तक कोई पतों"
+
+msgid "Add group achievement"
+msgstr "समूह उपलब्धि जोड़ें"
+
+msgid "No achivements yet"
+msgstr "अभी तक कोई achivements"
+
+msgid "Are you sure to delete this user"
+msgstr "आप इस उपयोगकर्ता को हटाने के लिए सुनिश्चित हैं"
+
+msgid "Add member"
+msgstr "सदस्य जोड़ें"
+
+msgid "Are you sure to delete this record?"
+msgstr "आप इस रिकॉर्ड को हटाने के लिए सुनिश्चित हैं?"
+
+msgid "Join this group"
+msgstr "समूह में शामिल हों"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "आपका आमंत्रण समूह व्यवस्थापक को भेजा गया था"
+
+msgid "All addresses"
+msgstr "सभी पतों"
+
+msgid "Collapse"
+msgstr "संकुचित"
+
+msgid "Achievements"
+msgstr "उपलब्धियां"
+
+msgid "Show more"
+msgstr "और दिखाओ"
+
+msgid "Team"
+msgstr "टीम"
+
+msgid "Projects"
+msgstr "परियोजनाएं"
+
+msgid "New project"
+msgstr "नई परियोजना"
+
+msgid "Project has not been created yet"
+msgstr "परियोजना अभी तक नहीं बनाया गया"
+
+msgid "Messanger"
+msgstr "मैसेन्जर"
+
+msgid "Balance"
+msgstr "संतुलन"
+
+msgid "Main page"
+msgstr "मुख्य पृष्ठ"
+
+msgid "Upload image"
+msgstr "चित्र अपलोड करें"
+
+msgid "My time"
+msgstr "मेरे समय"
+
+msgid "Day"
+msgstr "दिन"
+
+msgid "Week"
+msgstr "सप्ताह"
+
+msgid "Project settings"
+msgstr "परियोजना सेटिंग्स"
+
+msgid "Create project"
+msgstr "परियोजना बनाएँ"
+
+msgid "Project has been successfully saved"
+msgstr "प्रोजेक्ट को सफलतापूर्वक सहेज लिया गया है"
+
+msgid "Project name"
+msgstr "परियोजना का नाम"
+
+msgid "Deadline"
+msgstr "समय सीमा"
+
+msgid "Close"
+msgstr "बंद करे"
+
+msgid "Manager"
+msgstr "मैनेजर"
+
+msgid "Assigned to"
+msgstr "को सौपा"
+
+msgid "Discussion"
+msgstr "विचार-विमर्श"
+
+msgid "Task was created"
+msgstr "टास्क बनाया गया था"
+
+msgid "Task was closed"
+msgstr "टास्क बंद हो गया"
+
+msgid "Go to Group"
+msgstr "समूह के लिए जाना"
+
+msgid "Closed"
+msgstr "बंद"
+
+msgid "Last updates"
+msgstr "अंतिम अपडेट"
+
+msgid "Project is closed"
+msgstr "परियोजना बंद हो गया है"
+
+msgid "No open tasks"
+msgstr "नहीं खुले कार्यों"
+
+msgid "New task"
+msgstr "नया कार्य"
+
+msgid "Closed tasks"
+msgstr "बंद कार्यों"
+
+msgid "Add subproject"
+msgstr "subproject जोड़ें"
+
+msgid "Add task"
+msgstr "कार्य जोड़ें"
+
+msgid "Sun"
+msgstr "रविवार"
+
+msgid "Mon"
+msgstr "सोमवार"
+
+msgid "Tue"
+msgstr "मंगलवार"
+
+msgid "Wed"
+msgstr "बुधवार"
+
+msgid "Thur"
+msgstr "गुरूवार"
+
+msgid "Fri"
+msgstr "शुक्रवार"
+
+msgid "Sat"
+msgstr "शनिवार"
+
+msgid "Event title"
+msgstr "कार्यक्रम का शीर्षक"
+
+msgid "Event description"
+msgstr "घटना विवरण"
+
+msgid "I registered on this site"
+msgstr "मैं इस साइट पर पंजीकृत"
+
+msgid "Last created groups"
+msgstr "अंतिम बनाया समूहों"
+
+msgid "You joined this group as"
+msgstr "आप के रूप में इस समूह में शामिल हो गए"
+
+msgid "You received a request to join the group"
+msgstr "आप समूह में शामिल होने के लिए एक अनुरोध प्राप्त हुआ"
+
+msgid "Updated site"
+msgstr "Updated साइट"
+
+msgid "Site is under construction"
+msgstr "साइट निर्माणाधीन है"
+
+msgid "Last registered users"
+msgstr "अंतिम पंजीकृत उपयोगकर्ता"
+
+msgid "User settings"
+msgstr "उपयोगकर्ता सेटिंग"
+
+msgid "Technical support"
+msgstr "तकनीकी समर्थन"
+
+msgid "Change email"
+msgstr "बदले ई - मेल"
+
+msgid "Change password"
+msgstr "पासवर्ड बदलें"
+
+msgid "User has been successfully saved"
+msgstr "प्रयोक्ता को सफलतापूर्वक बचा लिया गया है"
+
+msgid "Full name"
+msgstr "पूरा नाम"
+
+msgid "My video"
+msgstr "मेरा विडियो"
+
+msgid "Skills"
+msgstr "कौशल"
+
+msgid "Birthday"
+msgstr "जन्मदिन"
+
+msgid "Country of residence"
+msgstr "निवास का देश"
+
+msgid "Country"
+msgstr "देश"
+
+msgid "Zip Code"
+msgstr "पिन कोड"
+
+msgid "City/town of residence"
+msgstr "निवास के शहर / कस्बे"
+
+msgid "University/college"
+msgstr "यूनिवर्सिटी का कॉलेज"
+
+msgid "University/college photo"
+msgstr "विश्वविद्यालय / महाविद्यालय तस्वीर"
+
+msgid "Add user\'s accomplishments"
+msgstr "उपयोगकर्ता की उपलब्धियों जोड़ें"
+
+msgid "Interface language"
+msgstr "इंटरफ़ेस भाषा"
+
+msgid "How other people see this page"
+msgstr "कैसे अन्य लोगों को इस पेज को देखने के"
+
+msgid "Video with me"
+msgstr "मेरे साथ वीडियो"
+
+msgid "Groups"
+msgstr "समूह"
+
+msgid "Registered today"
+msgstr "पंजीकृत आज"
+
+msgid "Qty"
+msgstr "मात्रा"
+
+msgid "No registered users yet"
+msgstr "अभी तक कोई पंजीकृत उपयोगकर्ताओं"
+
+msgid "Total"
+msgstr "कुल"
+
+msgid "Registered total"
+msgstr "कुल पंजीकृत"
+
+msgid "You received a file"
+msgstr "आप एक फ़ाइल प्राप्त"
+
+msgid "You were invited into this room"
+msgstr "आप इस कमरे में आमंत्रित किया गया था"
+
+msgid "Request is being processed"
+msgstr "अनुरोध संसाधित किया जा रहा है"
+
+msgid "Fax"
+msgstr "फैक्स"
+
+msgid "Messenger"
+msgstr "मैसेंजर"
+
+msgid "New subproject"
+msgstr "नए subproject"
+
+msgid "messages written."
+msgstr "संदेशों को लिखा है।"
+
+msgid "projects created based on groups."
+msgstr "परियोजनाएं समूह पर आधारित बनाया।"
+
+msgid "users registered on website."
+msgstr "उपयोगकर्ताओं को वेबसाइट पर दर्ज की गई।"
+
+msgid "New email"
+msgstr "नई ईमेल"
+
+msgid "Confirm email"
+msgstr "ईमेल की पुष्टि करें"
+
+msgid "New password"
+msgstr "नया पासवर्ड"
+
+msgid "Confirm password"
+msgstr "पासवर्ड की पुष्टि कीजिये"
+
+msgid "Occupation"
+msgstr "स्पेशलिटी"
+
+msgid "Timezone"
+msgstr "समय क्षेत्र"
+
+msgid "Answer"
+msgstr "उत्तर"
+
+msgid "Articles"
+msgstr "सामग्री"
+
+msgid "Article"
+msgstr "लेख"
+
+msgid "Video-article"
+msgstr "वीडियो लेख"
+
+msgid "Find article..."
+msgstr "लेख खोजें ..."
+
+msgid "Politics"
+msgstr "राजनीति"
+
+msgid "Economics"
+msgstr "अर्थशास्त्र"
+
+msgid "Community"
+msgstr "समुदाय"
+
+msgid "Culture"
+msgstr "संस्कृति"
+
+msgid "Sports"
+msgstr "खेल"
+
+msgid "Hi-tech"
+msgstr "हैटेक"
+
+msgid "Cars"
+msgstr "कारें"
+
+msgid "Fashion"
+msgstr "फ़ैशन"
+
+msgid "Games"
+msgstr "खेल"
+
+msgid "Other"
+msgstr "अन्य"
+
+msgid "Invalid mediafile"
+msgstr "अमान्य MediaFile"
+
+msgid "No articles in this category yet"
+msgstr "अभी तक इस श्रेणी में कोई लेख नहीं"
+
+msgid "Back to profile"
+msgstr "वापस प्रोफाइल पर"
+
+msgid "View article"
+msgstr "देखने के लेख"
+
+msgid "Edit article"
+msgstr "संपादित लेख"
+
+msgid "Create article"
+msgstr "लेख बनाएँ"
+
+msgid "Article title"
+msgstr "लेख का शीर्षक"
+
+msgid "Article section"
+msgstr "अनुच्छेद अनुभाग"
+
+msgid "Choose image"
+msgstr "छवि चुनें"
+
+msgid "Save and upload"
+msgstr "सहेजें और अपलोड"
+
+msgid "Show more..."
+msgstr "और दिखाओ..."
+
+msgid "Create"
+msgstr "बनाएं"
+
+msgid "Edit"
+msgstr "संपादित"
+
+msgid "Project"
+msgstr "परियोजना"
+
+msgid "Team"
+msgstr "टीम"
+
+msgid "A new article was published"
+msgstr "एक नया लेख प्रकाशित किया गया था"
+
+msgid "You joined this project"
+msgstr "आप इस परियोजना में शामिल हो गए"
+
+msgid "Enter your information in the User settings"
+msgstr "प्रयोक्ता सेटिंग्स में अपनी जानकारी दर्ज करें"
+
+msgid "Communities"
+msgstr "समुदाय"
+
+msgid "Video presentation of my accomplishments"
+msgstr "मेरी उपलब्धियों की वीडियो प्रस्तुति"
+
+msgid "My articles"
+msgstr "मेरे लेख"
+
+msgid "User"
+msgstr "उपयोगकर्ता"
+
+msgid "Users"
+msgstr "उपयोगकर्ता"
+
+msgid "Add new list"
+msgstr "नई सूची में जोड़ें"
+
+msgid "List title"
+msgstr "सूची खिताब"
+
+msgid "Add"
+msgstr "जोड़ना"
+
+msgid "Add to favorites"
+msgstr "पसंदीदा में जोड़े"
+
+msgid "Delete from favorites"
+msgstr "पसंदीदा से हटाएँ"
+
+msgid "Select list"
+msgstr "चयन सूची"
+
+msgid "Subscriptions"
+msgstr "सदस्यताएँ"
+
+msgid "Subscribe"
+msgstr "सदस्यता लें"
+
+msgid "Unsubscribe"
+msgstr "सदस्यता रद्द"
+
+msgid "General list"
+msgstr "जनरल सूची"
+
+msgid "No users in this list"
+msgstr "इस सूची में कोई उपयोगकर्ता"
+
+msgid "Publish"
+msgstr "प्रकाशित करना"
+
+msgid "Unpublish"
+msgstr "अप्रकाशित"
+
+msgid "Add user"
+msgstr "उपयोगकर्ता जोड़ें"
+
+msgid "Create document"
+msgstr "दस्तावेज़ बनाएँ"
+
+msgid "Edit document"
+msgstr "संपादित दस्तावेज़"
+
+msgid "View"
+msgstr "राय"
+
+msgid "Document title"
+msgstr "दस्तावेज़ का शीर्षक"
+
+msgid "Find document..."
+msgstr "दस्तावेज़ खोजें ..."
+
+msgid "Share your thoughts"
+msgstr "अपने विचारों को साझा करें"
+
+msgid "Leave your comment"
+msgstr "अपनी टिप्पणी दर्ज करें"
+
+msgid "Accept"
+msgstr "स्वीकार करना"
+
+msgid "Decline"
+msgstr "पतन"
+
+msgid "Add article"
+msgstr "लेख जोड़ें"
+
+msgid "Link to verified accomplishments"
+msgstr "सत्यापित उपलब्धियों के लिए लिंक"
+
+msgid "No articles here yet..."
+msgstr "यहाँ अभी तक कोई लेख नहीं"
+
+msgid "Find file or folder..."
+msgstr "फ़ाइल या फ़ोल्डर का पता लगाएं ..."
+
+msgid "Sort"
+msgstr "प्रकार"
+
+msgid "By name"
+msgstr "नाम के द्वारा"
+
+msgid "By date"
+msgstr "तिथि के अनुसार"
+
+msgid "By updated date"
+msgstr "अद्यतन तारीख तक"
+
+msgid "By size"
+msgstr "आकार से"
+
+msgid "By type"
+msgstr "प्रकार से"
+
+msgid "Move"
+msgstr "चाल"
+
+msgid "File Manager"
+msgstr "फ़ाइल प्रबंधक"
+
+msgid "Share link"
+msgstr "लिंक शेयर करें"
+
+msgid "Responsible"
+msgstr "उत्तरदायी"
+
+msgid "Performer"
+msgstr "अभिनेता"
+
+msgid "New Folder"
+msgstr "नया फ़ोल्डर"
+
+msgid "Folder name"
+msgstr "फ़ोल्डर का नाम"
+
+msgid "By default"
+msgstr "डिफ़ॉल्ट रूप से"
+
+msgid "Back to group"
+msgstr "वापस समूह के लिए"
+
+msgid "year(s)"
+msgstr "वर्ष (s)"
+
+msgid "January"
+msgstr "जनवरी"
+
+msgid "February"
+msgstr "फरवरी"
+
+msgid "March"
+msgstr "मार्च"
+
+msgid "April"
+msgstr "अप्रैल"
+
+msgid "May"
+msgstr "मई"
+
+msgid "June"
+msgstr "जून"
+
+msgid "July"
+msgstr "जुलाई"
+
+msgid "August"
+msgstr "अगस्त"
+
+msgid "September"
+msgstr "सितंबर"
+
+msgid "October"
+msgstr "अक्टूबर"
+
+msgid "November"
+msgstr "नवंबर"
+
+msgid "December"
+msgstr "दिसंबर"
+
+msgid "Password Reminder"
+msgstr "पासवर्ड अनुस्मारक"
+
+msgid "Log In"
+msgstr "लॉग इन करें"
+
+msgid "Sign in"
+msgstr "साइन इन करें"
+
+msgid "Register"
+msgstr "रजिस्टर"
+
+msgid "First name"
+msgstr "पहला नाम"
+
+msgid "Last name"
+msgstr "अंतिम नाम"
+
+msgid "I agree with rules"
+msgstr "मैं नियमों से सहमति"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "एक संपुष्टि मेल आपके ईमेल पते पर भेजा गया था।"
+
+msgid "Thanks"
+msgstr "धन्यवाद"
+
+msgid "Password must be at least 6 characters"
+msgstr "पासवर्ड कम से कम 6 अंकों का होना चाहिए"
+
+msgid "Creative Environment"
+msgstr "रचनात्मक माहौल"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "आप इस सेवा का उपयोग करने के लिए उम्र कम से कम तेरह साल करने की आवश्यकता"
+
+msgid "Order status"
+msgstr "आदेश की स्थिति"
+
+msgid "Processing order"
+msgstr "प्रसंस्करण आदेश"
+
+msgid "Requires a payment"
+msgstr "एक भुगतान की आवश्यकता है"
+
+msgid "Shipping"
+msgstr "शिपिंग"
+
+msgid "Ready"
+msgstr "तैयार"
+
+msgid "Thank you for your payment"
+msgstr "अपने भुगतान के लिए धन्यवाद"
+
+msgid "Your payment has been cancelled"
+msgstr "आपका भुगतान रद्द कर दिया गया"
+
+msgid "page"
+msgstr "पृष्ठ"
+
+msgid "Rent period"
+msgstr "किराए की अवधि"
+
+msgid "Total, month"
+msgstr "कुल, महीने"
+
+msgid "Order items"
+msgstr "आदेश आइटम"
+
+msgid "No records found"
+msgstr "कोई रिकॉर्ड नहीं मिला"
+
+msgid "User with this email is already exist"
+msgstr "इस ईमेल के साथ उपयोगकर्ता पहले से ही मौजूद है"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "इस तरह के नाम के साथ फ़ाइल या फ़ोल्डर पहले से ही गंतव्य फ़ोल्डर में मौजूद है"
+
+msgid "Minimal quantity"
+msgstr "न्यूनतम मात्रा"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "मुद्रित प्रतियां"
+
+msgid "Terms of Use"
+msgstr "उपयोग की शर्तें"
+
+msgid "Privacy Policy"
+msgstr "गोपनीयता नीति"
+
+msgid "Find project..."
+msgstr "परियोजना का पता लगाएं ..."
+
+msgid "New Project"
+msgstr "नई परियोजना"
+
+msgid "Accounts"
+msgstr "लेखा"
+
+msgid "Operations"
+msgstr "संचालन"
+
+msgid "All accounts"
+msgstr "सभी खातों"
+
+msgid "All categories"
+msgstr "सब वर्ग"
+
+msgid "Expense"
+msgstr "व्यय"
+
+msgid "Income"
+msgstr "आमदनी"
+
+msgid "Transfer"
+msgstr "हस्तांतरण"
+
+msgid "Expense"
+msgstr "व्यय"
+
+msgid "income"
+msgstr "आमदनी"
+
+msgid "tax"
+msgstr "टैक्स"
+
+msgid "percent"
+msgstr "प्रतिशत"
+
+msgid "transfer"
+msgstr "हस्तांतरण"
+
+msgid "Make operation"
+msgstr "ऑपरेशन करना"
+
+msgid "Select date"
+msgstr "तारीख़ चुनें"
+
+msgid "Select account"
+msgstr "खाते का चयन करें"
+
+msgid "Month"
+msgstr "माह"
+
+msgid "Quarter"
+msgstr "तिमाही"
+
+msgid "Year"
+msgstr "साल"
+
+msgid "From"
+msgstr "से"
+
+msgid "To"
+msgstr "को"
+
+msgid "Expense amount"
+msgstr "व्यय राशि"
+
+msgid "Categories"
+msgstr "श्रेणियाँ"
+
+msgid "Comments"
+msgstr "टिप्पणियां"
+
+msgid "Income amount"
+msgstr "आय राशि"
+
+msgid "Transfer amount"
+msgstr "स्थानांतरण राशि"
+
+msgid "From account"
+msgstr "खाते से"
+
+msgid "To account"
+msgstr "खाते में"
+
+msgid "New Account"
+msgstr "नया खाता"
+
+msgid "New Category"
+msgstr "नई श्रेणी"
+
+msgid "All"
+msgstr "सब"
+
+msgid "Name"
+msgstr "नाम"
+
+msgid "Enter category name"
+msgstr "श्रेणी नाम दर्ज"
+
+msgid "Select type"
+msgstr "प्रकार चुनें"
+
+msgid "Credit card"
+msgstr "क्रेडिट कार्ड"
+
+msgid "Debit card"
+msgstr "डेबिट कार्ड"
+
+msgid "Bank account"
+msgstr "बैंक खाता"
+
+msgid "Cash"
+msgstr "रोकड़"
+
+msgid "Balance is empty"
+msgstr "शेष खाली है"
+
+msgid "Statistic is empty"
+msgstr "आँकड़ा खाली है"
+
+msgid "Regular payments"
+msgstr "नियमित रूप से भुगतान"
+
+msgid "Are you sure ?"
+msgstr "क्या आपको यकीन है ?"
+
+msgid "Are you sure to close this project?"
+msgstr "आप इस परियोजना को बंद करने के लिए सुनिश्चित कर रहे हैं ?"
+
+msgid "Project was deleted successfully"
+msgstr "परियोजना को सफलतापूर्वक नष्ट कर दिया गया"
+
+msgid "Select currency"
+msgstr "मुद्रा चुनें"
+
+msgid "Account"
+msgstr "खाता"
+
+msgid "Orders list"
+msgstr "आदेश सूची"
+
+msgid "Order payments"
+msgstr "आदेश भुगतान"
+
+msgid "View order"
+msgstr "आदेश देखें"
+
+msgid "No response from Printer API"
+msgstr "प्रिंटर एपीआई से कोई प्रतिक्रिया"
+
+msgid "Bad response from Printer API"
+msgstr "प्रिंटर एपीआई से बुरी प्रतिक्रिया"
+
+msgid "User ID"
+msgstr "यूज़र आईडी"
+
+msgid "Contact Person"
+msgstr "संपर्क व्यक्ति"
+
+msgid "No orders to process"
+msgstr "कोई आदेश की प्रक्रिया में"
+
+msgid "Article announce image"
+msgstr "लेख तस्वीर की घोषणा"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "अमान्य वीडियो URL। खाली छोड़ दें या वैध यूट्यूब यूआरएल डालने"
+
+msgid "Please, enter Contractor data"
+msgstr "ठेकेदार डेटा दर्ज करें"
+
+msgid "Distribute devices"
+msgstr "उपकरणों बांटो"
+
+msgid "Quantity"
+msgstr "मात्रा"
+
+msgid "Devices left"
+msgstr "डिवाइस छोड़ा"
+
+msgid "Distributed devices"
+msgstr "वितरित उपकरणों"
+
+msgid "You must enter quantity"
+msgstr "आप मात्रा दर्ज करना होगा"
+
+msgid "All devices are distributed"
+msgstr "सभी उपकरणों वितरित कर रहे हैं"
+
+msgid "IP address"
+msgstr "आईपी ​​पता"
+
+msgid "Only for printer"
+msgstr "केवल प्रिंटर के लिए"
+
+msgid "Counter"
+msgstr "काउंटर"
+
+msgid "You was excluded from this room"
+msgstr "आप इस कमरे से बाहर रखा गया था"
+
+msgid "Compare"
+msgstr "तुलना"
+
+msgid "Scheduled transaction"
+msgstr "अनुसूचित लेनदेन"
+
+msgid "Select transfer account"
+msgstr "चुनें हस्तांतरण खाते"
+
+msgid "Select income account"
+msgstr "चुनें आय खाते"
+
+msgid "Reports"
+msgstr "रिपोर्टें"
+
+msgid "Goals"
+msgstr "लक्ष्य"
+
+msgid "Budgets"
+msgstr "बजट"
+
+msgid "Enter user name or email..."
+msgstr "उपयोगकर्ता नाम या ईमेल दर्ज करें ..."
+
+msgid "Invite had been sended"
+msgstr "Sended गया था आमंत्रित"
+
+msgid "Statistics"
+msgstr "आंकड़े"
+
+msgid "Updated site began to work"
+msgstr "Updated साइट काम करना शुरू किया"
+
+msgid "City of residence"
+msgstr "निवास का शहर"
+
+msgid "Edit favourites list"
+msgstr "संपादित पसंदीदा सूची"
+
+msgid "Add favourites list"
+msgstr "पसंदीदा सूची जोड़ें"
+
+msgid "Categories is required"
+msgstr "श्रेणियाँ की आवश्यकता है"
+
+msgid "Type new category name and hit Enter"
+msgstr "नई श्रेणी का नाम टाइप करें और हिट दर्ज"
+
+msgid "You created an order"
+msgstr "आप एक आदेश बनाया"
+
+msgid "You received a device due to this order"
+msgstr "आप की वजह से इस आदेश के लिए एक उपकरण प्राप्त"
+
+msgid "%s attached %s to task %s"
+msgstr "%s में संलग्न %s%s काम करने के लिए"
+
+msgid "member(s)"
+msgstr "सदस्य (ओं)"
+
+msgid "%s commented task %s"
+msgstr "%s में टिप्पणी की कार्य % रों"
+
+msgid "%s closed task %s"
+msgstr "%s को बंद कार्य को%s"
+
+msgid "%s created task %s"
+msgstr "%s को बनाया कार्य को%s"
+
+msgid "%s created this project"
+msgstr "%s इस परियोजना बनाई"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s को बनाया subproject \"%s\""
+
+msgid "%s closed project \"%s\""
+msgstr "%s को बंद कर दिया परियोजना \"%s\""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s को बंद subproject \"%s\""
+
+msgid "This field must not be blank"
+msgstr "इस क्षेत्र को खाली नहीं होना चाहिए"
+
+msgid "Document with such name is already exist"
+msgstr "इस तरह के नाम के साथ दस्तावेज पहले से ही मौजूद है"
+
+msgid "Wait until image upload"
+msgstr "छवि अपलोड करने तक प्रतीक्षा करें"
+
+msgid "Video"
+msgstr "वीडियो"
+
+msgid "Message can not be empty"
+msgstr "संदेश खाली नहीं हो सकता"
+
+msgid "Yes"
+msgstr "हाँ"
+
+msgid "No"
+msgstr "नहीं"
+
+msgid "Created"
+msgstr "बनाया गया"
+
+msgid "Compare is empty"
+msgstr "रिक्त है की तुलना करें"
+
+msgid "Are you sure you want to delete operation"
+msgstr "क्या आप आपरेशन को हटाना चाहते हैं"
+
+msgid "Do you really want to delete transaction"
+msgstr "आप वास्तव में लेन-देन को नष्ट करना चाहते हैं"
+
+msgid "Project with same name already exists"
+msgstr "एक ही नाम के साथ परियोजना पहले से ही मौजूद है"
+
+msgid "Account is not found"
+msgstr "खाते नहीं मिला है"
+
+msgid "Currency is required"
+msgstr "मुद्रा की आवश्यकता है"
+
+msgid "error while deleting document"
+msgstr "त्रुटि दस्तावेज मिटाने के दौरान"
+
+msgid "Expences"
+msgstr "expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "आप इस कमरे में उपयोगकर्ता \"%s\" आमंत्रित"
+
+msgid "User \"%s\" joined this room"
+msgstr "उपयोगकर्ता \" %s\" इस कमरे में शामिल हो गए"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "आप इस कमरे से उपयोगकर्ता \"%s\" अपवर्जित"
+
+msgid "User \"%s\" left this room"
+msgstr "उपयोगकर्ता \" %s\" इस कमरे में छोड़ दिया"
+
+msgid "Add account"
+msgstr "खाता जोड़ें"
+
+msgid "The requested page is not found"
+msgstr "पृष्ठ का अनुरोध नहीं मिला है"
+
+msgid "Document"
+msgstr "दस्तावेज़"
+
+msgid "Table"
+msgstr "तालिका"
+
+msgid "file(s)"
+msgstr "फ़ाइल (s)"
+
+msgid "Residue"
+msgstr "छाछ"
+
+msgid "Result is empty"
+msgstr "परिणाम खाली है"
+
+msgid "The total amount is %s for %s mo"
+msgstr "कुल राशि %s के लिए मो %s है"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "आप संबंधित खाते %s मासिक जमा करना"
+
+msgid "Start"
+msgstr "प्रारंभ"
+
+msgid "finish"
+msgstr "अंत"
+
+msgid "Selected account is already in use for another goal"
+msgstr "चयनित खाता एक और गोल के लिए उपयोग में पहले से ही है"
+
+msgid "Amount required"
+msgstr "राशि आवश्यक"
+
+msgid "New goal"
+msgstr "नया लक्ष्य"
+
+msgid "Goal"
+msgstr "लक्ष्य"
+
+msgid "Goal name"
+msgstr "लक्ष्य नाम"
+
+msgid "Invalid date"
+msgstr "अमान्य तिथि"
+
+msgid "Necessary sum must be a positive number"
+msgstr "आवश्यक राशि एक सकारात्मक संख्या होनी चाहिए"
+
+msgid "Remain"
+msgstr "रहना"
+
+msgid "Last day"
+msgstr "आखरी दिन"
+
+msgid "Accumulated"
+msgstr "संचित"
+
+msgid "Put aside"
+msgstr "अलग रख दें"
+
+msgid "January"
+msgstr "जनवरी"
+
+msgid "February"
+msgstr "फरवरी"
+
+msgid "March"
+msgstr "मार्च"
+
+msgid "April"
+msgstr "अप्रैल"
+
+msgid "May"
+msgstr "मई"
+
+msgid "June"
+msgstr "जून"
+
+msgid "July"
+msgstr "जुलाई"
+
+msgid "August"
+msgstr "अगस्त"
+
+msgid "September"
+msgstr "सितंबर"
+
+msgid "October"
+msgstr "अक्टूबर"
+
+msgid "November"
+msgstr "नवंबर"
+
+msgid "December"
+msgstr "दिसंबर"
+
+msgid "Expenses projected/actual"
+msgstr "अनुमान / वास्तविक व्यय"
+
+msgid "Net Income projected/actual"
+msgstr "शुद्ध आय / वास्तविक अनुमान"
+
+msgid "New budget"
+msgstr "नए बजट"
+
+msgid "Revenue and Expenses Chart"
+msgstr "राजस्व और व्यय चार्ट"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "उसी खाते की जोड़ी और वर्ग के साथ बजट पहले से ही मौजूद है"
+
+msgid "Budget is empty"
+msgstr "बजट खाली है"
+
+msgid "Budget"
+msgstr "बजट"
+
+msgid "plan"
+msgstr "योजना"
+
+msgid "fact"
+msgstr "तथ्य"
+
+msgid "diff"
+msgstr "रचनाकार"
+
+msgid "Show More"
+msgstr "और दिखाओ"
+
+msgid "Cancel"
+msgstr "रद्द करना"
+
+msgid "d"
+msgstr "घ"
+
+msgid "h"
+msgstr "ज"
+
+msgid "min"
+msgstr "मिनट"
+
+msgid "My sales"
+msgstr "मेरा बिक्री"
+
+msgid "Time spent"
+msgstr "समय बिताया"
+
+msgid "Total time spent"
+msgstr "कुल समय बिताया"
+
+msgid "Earnings per hour"
+msgstr "प्रति घंटे की कमाई"
+
+msgid "Total earnings"
+msgstr "कुल आय"
+
+msgid "Call"
+msgstr "कॉल"
+
+msgid "Phone call"
+msgstr "फ़ोन कॉल"
+
+msgid "Telephone calls"
+msgstr "टेलीफोन के फोन"
+
+msgid "Send email"
+msgstr "ईमेल भेजें"
+
+msgid "Emails"
+msgstr "ईमेल"
+
+msgid "Meeting"
+msgstr "बैठक"
+
+msgid "Meetings"
+msgstr "बैठक"
+
+msgid "All events"
+msgstr "सभी कार्यक्रम"
+
+msgid "Task"
+msgstr "कार्य"
+
+msgid "Event"
+msgstr "घटना"
+
+msgid "Events"
+msgstr "घटनाक्रम"
+
+msgid "Time"
+msgstr "समय"
+
+msgid "Events statistics"
+msgstr "घटनाक्रम के आँकड़े"
+
+msgid "days"
+msgstr "दिनों"
+
+msgid "hours"
+msgstr "घंटे"
+
+msgid "minutes"
+msgstr "मिनटों"
+
+msgid "Income & expense"
+msgstr "आय और व्यय"
+
+msgid "Show chart"
+msgstr "दिखाएँ चार्ट"
+
+msgid "Hide chart"
+msgstr "पसंदीदा में चार्ट"
+
+msgid "Add event"
+msgstr "कार्यक्रम जोड़ें"
+
+msgid "Add financial data"
+msgstr "वित्तीय डेटा जोड़ें"
+
+msgid "Select contractor"
+msgstr "चुनें ठेकेदार"
+
+msgid "Net Income"
+msgstr "शुद्ध आय"
+
+msgid "Revenue"
+msgstr "राजस्व"
+
+msgid "Taxes"
+msgstr "करों"
+
+msgid "Amount planned"
+msgstr "राशि की योजना बनाई"
+
+msgid "Amount"
+msgstr "मात्रा"
+
+msgid "Period"
+msgstr "अवधि"
+
+msgid "Are you sure to close this task?"
+msgstr "आप इस कार्य को बंद करने के लिए सुनिश्चित कर रहे हैं ?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "सभी समूहों"
+
+msgid "added from task"
+msgstr "कार्य से जोड़ा"
+
+msgid "Monthly repeat"
+msgstr "मासिक दोहराने"
+
+msgid "Select category"
+msgstr "श्रेणी का चयन करें"
+
+msgid "Event type"
+msgstr "घटना प्रकार"
+
+msgid "Margin"
+msgstr "हाशिया"
+
+msgid "Use finance project"
+msgstr "वित्त परियोजना का प्रयोग करें"
+
+msgid "New investment project"
+msgstr "नए निवेश परियोजना"
+
+msgid "Investment project settings"
+msgstr "निवेश परियोजना सेटिंग्स"
+
+msgid "Picture, for the announcement project"
+msgstr "घोषणा परियोजना के लिए चित्र ,"
+
+msgid "Announcement project"
+msgstr "घोषणा परियोजना"
+
+msgid "Video"
+msgstr "वीडियो"
+
+msgid "Photos or videos gallery"
+msgstr "तस्वीरें या वीडियो गैलरी"
+
+msgid "required amount"
+msgstr "आवश्यक राशि"
+
+msgid "Project duration (60 days maximum)"
+msgstr "परियोजना की अवधि (60 दिन अधिकतम)"
+
+msgid "Project duration"
+msgstr "परियोजना अवधि"
+
+msgid "Add reward"
+msgstr "इनाम जोड़ें"
+
+msgid "Delivery date"
+msgstr "डिलीवरी की तारीख"
+
+msgid "Payment systems"
+msgstr "भुगतान प्रणाली"
+
+msgid "Terms of service"
+msgstr "सेवा की शर्तें"
+
+msgid "Agreement"
+msgstr "समझौता"
+
+msgid "Payment"
+msgstr "भुगतान"
+
+msgid "My projects"
+msgstr "मेरे परियोजनाओं"
+
+msgid "Search result"
+msgstr "खोज का परिणाम"
+
+msgid "Nothing not found"
+msgstr "कुछ भी नहीं मिला"
+
+msgid "The project has no sponsors"
+msgstr "परियोजना कोई प्रायोजकों है"
+
+msgid "Design"
+msgstr "डिज़ाइन"
+
+msgid "Food"
+msgstr "भोजन"
+
+msgid "Journalism"
+msgstr "पत्रकारिता"
+
+msgid "Games"
+msgstr "खेल"
+
+msgid "Art"
+msgstr "कला"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "संगीत"
+
+msgid "Handicrafts"
+msgstr "हस्तशिल्प"
+
+msgid "Publishing"
+msgstr "प्रकाशन"
+
+msgid "Theater"
+msgstr "थिएटर"
+
+msgid "Technology"
+msgstr "प्रौद्योगिकी"
+
+msgid "Film/Video"
+msgstr "फिल्म / वीडियो"
+
+msgid "Photo"
+msgstr "फ़ोटो"
+
+msgid "Dance"
+msgstr "नृत्य"
+
+msgid "Invalid youtube video"
+msgstr "अमान्य यूट्यूब वीडियो"
+
+msgid "is required"
+msgstr "आवश्यक है"
+
+msgid "User"
+msgstr "उपयोगकर्ता"
+
+msgid "Date"
+msgstr "तारीख"
+
+msgid "Collected"
+msgstr "इकट्ठा"
+
+msgid "Choose period"
+msgstr "अवधि चुनें"
+
+msgid "Choose region"
+msgstr "क्षेत्र चुनें"
+
+msgid "Country"
+msgstr "देश"
+
+msgid "Today"
+msgstr "आज"
+
+msgid "Week"
+msgstr "सप्ताह"
+
+msgid "Month"
+msgstr "माह"
+
+msgid "Year"
+msgstr "साल"
+
+msgid "Free registration"
+msgstr "नि: शुल्क पंजीकरण"
+
+msgid "Join"
+msgstr "साथ जुड़ें"
+
+msgid "Log in using"
+msgstr "का उपयोग करने में लॉग ऑन करें"
+
+msgid "Vacancies"
+msgstr "रोजगार के अवसर"
+
+msgid "About Us"
+msgstr "हमारे बारे में"
+
+msgid "You will need email to log in"
+msgstr "यदि आप में प्रवेश करने के लिए ईमेल की आवश्यकता होगी"
+
+msgid "A combination of 6 digits and characters"
+msgstr "6 अंक और अक्षरों का एक संयोजन"
+
+msgid "Search users, groups, articles..."
+msgstr "खोज के उपयोगकर्ताओं , समूहों, लेख ..."
+
+msgid "Cloud"
+msgstr "बादल"
+
+msgid "Sunday"
+msgstr "रविवार"
+
+msgid "Monday"
+msgstr "सोमवार"
+
+msgid "Tuesday"
+msgstr "मंगलवार"
+
+msgid "Wednesday"
+msgstr "बुधवार"
+
+msgid "Thursday"
+msgstr "गुरूवार"
+
+msgid "Friday"
+msgstr "शुक्रवार"
+
+msgid "Saturday"
+msgstr "शनिवार"
+
+msgid "Edit"
+msgstr "संपादित"
+
+msgid "Create group"
+msgstr "समूह बनाना"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "आप इस पेज छोड़ना चाहते हैं आप सुनिश्चित हैं?"
+
+msgid "More"
+msgstr "अधिक"
+
+msgid "Less"
+msgstr "कम"
+
+msgid "Pending"
+msgstr "अपूर्ण"
+
+msgid "Approved"
+msgstr "अनुमोदित"
+
+msgid "Rejected"
+msgstr "अस्वीकृत"
+
+msgid "Subprojects"
+msgstr "उप"
+
+msgid "Group edit"
+msgstr "समूह संपादित करें"
+
+msgid "Startup"
+msgstr "चालू होना"
+
+msgid "Tattoo"
+msgstr "टटू"
+
+msgid "Health"
+msgstr "स्वास्थ्य"
+
+msgid "Weapon"
+msgstr "हथियार"
+
+msgid "Astronomy"
+msgstr "खगोल"
+
+msgid "All articles"
+msgstr "सभी चीज़ें"
+
+msgid "Article editor"
+msgstr "अनुच्छेद संपादक"
+
+msgid "Document editor"
+msgstr "दस्तावेज के संपादक"
+
+msgid "Apply changes"
+msgstr "परिवर्तन लागू करें"
+
+msgid "Save changes?"
+msgstr "परिवर्तनों को सुरक्षित करें?"
+
+msgid "published an article"
+msgstr "एक लेख प्रकाशित"
+
+msgid "Users"
+msgstr "उपयोगकर्ता"
+
+msgid "Shared With Me"
+msgstr "मेरे साथ साझा किया"
+
+msgid "share"
+msgstr "शेयर"
+
+msgid "Select Group Responsible"
+msgstr "समूह जिम्मेदार चयन करें"
+
+msgid "Create folder"
+msgstr "फ़ोल्डर बना"
+
+msgid "Title must be at least 3 characters"
+msgstr "शीर्षक कम से कम 3 अक्षरों का होना चाहिए"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "नि: शुल्क 10 जीबी, वित्त प्रबंधक , मॉड्यूल निवेश, और हमेशा के लिए मुक्त और के लिए कई अन्य"
+
+msgid "Best regards"
+msgstr "सादर"
+
+msgid "Updates in last 12 hours:"
+msgstr "पिछले 12 घंटे में अपडेट:"
+
+msgid "expense"
+msgstr "व्यय"
+
+msgid "Commentary on the event:"
+msgstr "घटना पर टीका :"
+
+msgid "Event place"
+msgstr "घटना जगह"
+
+msgid "Project was updated"
+msgstr "परियोजना अद्यतन किया गया था"
+
+msgid "Project was created"
+msgstr "प्रोजेक्ट बनाया गया था"
+
+msgid "Project was closed"
+msgstr "परियोजना बंद हो गया"
+
+msgid "account"
+msgstr "खाता"
+
+msgid "removed task"
+msgstr "हटा दिया काम"
+
+msgid "removed subproject"
+msgstr "हटा दिया subproject"
+
+msgid "Title can not be empty"
+msgstr "शीर्षक खाली नहीं हो सकता"
+
+msgid "Do not select the type of event"
+msgstr "घटना के प्रकार का चयन न करें"
+
+msgid "Error while saving comment"
+msgstr "त्रुटि टिप्पणी की बचत करते हुए"
+
+msgid "Save error: access denied"
+msgstr "त्रुटि को बचाने के लिए: प्रवेश निषेध"
+
+msgid "Remains"
+msgstr "अवशेष"
+
+msgid "Time spent, h."
+msgstr "समय , ज बिताया।"
+
+msgid "Emails"
+msgstr "ईमेल"
+
+msgid "Meetings"
+msgstr "बैठक"
+
+msgid "All users"
+msgstr "सभी उपयोगकर्ता"
+
+msgid "Category"
+msgstr "श्रेणी"
+
+msgid "Finance project"
+msgstr "वित्त परियोजना"
+
+msgid "Investment project"
+msgstr "निवेश परियोजना"
+
+msgid "Nature"
+msgstr "प्रकृति"
+
+msgid "Data is empty"
+msgstr "डेटा खाली है"
+
+msgid "Visitors"
+msgstr "आगंतुकों"
+
+msgid "My profile"
+msgstr "मेरी प्रोफ़ाइल"
+
+msgid "Sponsors"
+msgstr "प्रायोजक"
+
+msgid "Prior to completion"
+msgstr "पहले पूरा करने के लिए"
+
+msgid "Select"
+msgstr "चुनना"
+
+msgid "My groups"
+msgstr "मेरे समूह"
+
+msgid "The invitation has been sent successfully"
+msgstr "निमंत्रण सफलतापूर्वक भेजा गया"
+
+msgid "Username has already been invited to this project"
+msgstr "यूजर का नाम पहले से ही इस परियोजना के लिए आमंत्रित किया गया है"
+
+msgid "The user is the creator of the project"
+msgstr "उपयोगकर्ता परियोजना के निर्माता है"
+
+msgid "Provide full access"
+msgstr "पूर्ण पहुँच प्रदान"
+
+msgid "Select elements to provide access"
+msgstr "पहुँच प्रदान करने के तत्वों का चयन करें"
+
+msgid "Select all"
+msgstr "सबका चयन करें"
+
+msgid "User E-mail"
+msgstr "उपयोगकर्ता ई -मेल"
+
+msgid "Click on the field to select a category"
+msgstr "एक वर्ग का चयन करने के लिए मैदान पर क्लिक करें"
+
+msgid "Invitation was deleted"
+msgstr "निमंत्रण नष्ट कर दिया गया"
+
+msgid "Permission denied"
+msgstr "अनुमति नहीं मिली"
+
+msgid "Printed"
+msgstr "मुद्रित"
+
+msgid "Incorrect Contractor email"
+msgstr "गलत ठेकेदार ईमेल"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "आप प्रबंधक के वित्तपोषण के लिए परियोजना को जोड़ने के लिए करना चाहते हैं?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "पंजीकरण प्रक्रिया को पूरा करने के लिए अपने कौशल नीचे भरें"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "आगे के निर्देश के साथ एक मेल आपके ईमेल पते पर भेजा गया था"
+
+msgid "Submit"
+msgstr "प्रस्तुत करना"
+
+msgid "Cars"
+msgstr "कारें"
+
+msgid "Science"
+msgstr "विज्ञान"
+
+msgid "Donation"
+msgstr "दान"
+
+msgid "Interests"
+msgstr "रूचियाँ"
+
+msgid "Driver"
+msgstr "ड्राइवर"
+
+msgid "Sportsman"
+msgstr "खिलाड़ी"
+
+msgid "Businessman"
+msgstr "व्यवसायी"
+
+msgid "Accountant"
+msgstr "मुनीम"
+
+msgid "Engineer"
+msgstr "इंजीनियर"
+
+msgid "Soldier"
+msgstr "सैनिक"
+
+msgid "Next"
+msgstr "अगला"
+
+msgid "Hide group"
+msgstr "छुपाएँ समूह"
+
+msgid "groups created"
+msgstr "समूह बनाया"
+
+msgid "articles written"
+msgstr "लेख लिखा"
+
+msgid "These groups may be interesting for you"
+msgstr "इन समूहों को आप के लिए दिलचस्प हो सकता है"
+
+msgid "About Group"
+msgstr "समूह के बारे में"
+
+msgid "view(s)"
+msgstr "दृश्य (s)"
+
+msgid "Favorite users"
+msgstr "पसंदीदा उपयोगकर्ताओं"
+
+msgid "No accounts"
+msgstr "कोई खाता नहीं"
+
+msgid "Facebook authorization failed."
+msgstr "फेसबुक प्राधिकरण विफल रहा है।"
+
+msgid "Authorization Required"
+msgstr "अनुमति की आवश्यकता है"
+
+msgid "You have to make a call:"
+msgstr "आप एक फोन करना है :"
+
+msgid "You have to send an email:"
+msgstr "आप एक ईमेल भेजने के लिए है:"
+
+msgid "You have a meetup:"
+msgstr "आप एक meetup है :"
+
+msgid "You event :"
+msgstr "आप घटना :"
+
+msgid "Participants:"
+msgstr "प्रतिभागियों:"
+
+msgid "Search"
+msgstr "खोज"
+
+msgid "News"
+msgstr "समाचार"
+
+msgid "Investments"
+msgstr "निवेश"
+
+msgid "Back to Cloud"
+msgstr "वापस बादल को"
+
+msgid "Documents"
+msgstr "दस्तावेज़"
+
+msgid "Planet"
+msgstr "ग्रह"
+
+msgid "Group url"
+msgstr "समूह URL"
+
+msgid "Profile url"
+msgstr "प्रोफ़ाइल यूआरएल"
+
+msgid "Already taken"
+msgstr "पहले से ही लिया जा चुका है"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "आवश्यक कम से कम एक पत्र और 3 वर्ण लंबाई"
+
+msgid "Digit can not be the first character"
+msgstr "अंकों पहले चरित्र नहीं हो सकता"
+
+msgid "Enter valid email address"
+msgstr "वैध ईमेल पता दर्ज करें"
+
+msgid "Enter your skills"
+msgstr "अपने कौशल दर्ज"
+
+msgid "Enter your first name"
+msgstr "अपना पहला नाम दर्ज करें"
+
+msgid "Enter your last name"
+msgstr "अपने अंतिम नाम दर्ज"
+
+msgid "Enter your first name and last name"
+msgstr "आपका पहला नाम और अंतिम नाम दर्ज करें"
+
+msgid "Your first name?"
+msgstr "आपका प्रथम नाम?"
+
+msgid "Your last name?"
+msgstr "आपका अंतिम नाम?"
+
+msgid "What are your proficiencies?"
+msgstr "अपने proficiencies क्या हैं?"
+
+msgid "Select country"
+msgstr "देश चुनिए"
+
+msgid "Select user"
+msgstr "उपयोगकर्ता का चयन करें"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "अपने सपने को पूरा ! बनाएँ और सहयोग करें।"
+
+msgid "date moved from"
+msgstr "तारीख से ले जाया गया"
+
+msgid "work"
+msgstr "काम"
+
+msgid "Conference"
+msgstr "सम्मेलन"
+
+msgid "personal"
+msgstr "व्यक्तिगत"
+
+msgid "Holiday"
+msgstr "छुट्टी"
+
+msgid "Past"
+msgstr "अतीत"
+
+msgid "Future"
+msgstr "भविष्य"
+
+msgid "Purchase"
+msgstr "क्रय"
+
+msgid "Personal events"
+msgstr "निजी घटनाओं"
+
+msgid "Conferences"
+msgstr "बैठक"
+
+msgid "Holidays"
+msgstr "छुट्टियां"
+
+msgid "Sport events"
+msgstr "खेल की घटनाओं"
+
+msgid "Tasks"
+msgstr "कार्य"
+
+msgid "Other events"
+msgstr "अन्य घटनाओं"
+
+msgid "Set aside"
+msgstr "टेकआउट"
+
+msgid "Set aside"
+msgstr "आस्थगित"
+
+msgid "Time management"
+msgstr "समय प्रबंधन"
+
+msgid "Delayed events"
+msgstr "आस्थगित घटनाओं"
+
+msgid "Delayed"
+msgstr "आस्थगित"
+
+msgid "Bind to"
+msgstr "निरुपित"
+
+msgid "answered your comment to"
+msgstr "मैं (एक) लेख पर टिप्पणी ने कहा"
+
+msgid "commented your article"
+msgstr "मैं अपने लेख पर टिप्पणी"
+
+msgid "You\'ve answered on comment to"
+msgstr "आप इस लेख पर टिप्पणी करने के लिए प्रतिक्रिया"
+
+msgid "You\'ve commented an article"
+msgstr "आप इस लेख पर टिप्पणी"
+
+msgid "Terms and Conditions"
+msgstr "नियम और शर्तें"
+
+msgid "Privacy Policy"
+msgstr "गोपनीयता नीति"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "पर क्लिक करके आप हमारे साथ सहमत हैं और आप पढ़ स्वीकार करते हैं कि \"साइन अप\" हमारे"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "दुनिया भर से रचनात्मक लोगों के समुदाय में शामिल हों! आप प्राप्त होगा: निवेश अपने विचारों में, उनकी टीम को इकट्ठा करने के लिए एक अवसर है, भंडारण और अधिक में 2 गीगाबाइट, एक समूह, वित्तीय प्रबंधक में काम कर अपने समय के प्रबंध। और यह मुफ़्त है!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "क्षमा करें, लेकिन आप के लिए देख रहे हैं पृष्ठ मौजूद नहीं है। आपको लगता है कि इसके लिए जिम्मेदार लगता है कि हमें हमसे संपर्क"
+
+msgid "Return"
+msgstr "वापसी"
+
+msgid "COMMON"
+msgstr "कुल"
+
+msgid "My events"
+msgstr "मेरी गतिविधियाँ"
+
+msgid "Job opening"
+msgstr "नया रिक्ति"
+
+msgid "Employment"
+msgstr "रोजगार के प्रकार"
+
+msgid "Working hours"
+msgstr "खुलने का समय"
+
+msgid "City"
+msgstr "शहर"
+
+msgid "Wages"
+msgstr "वेतन"
+
+msgid "Currency"
+msgstr "मुद्रा"
+
+msgid "Experience"
+msgstr "अनुभव"
+
+msgid "Full-time"
+msgstr "पूर्ण रोजगार"
+
+msgid "Part-time"
+msgstr "अंशकालिक"
+
+msgid "Project employment"
+msgstr "परियोजना / अस्थाई"
+
+msgid "Volunteer"
+msgstr "स्वयंसेवा"
+
+msgid "Internship"
+msgstr "ट्रेनिंग"
+
+msgid "Full day"
+msgstr "फुल टाइम"
+
+msgid "Shifts"
+msgstr "प्रतिस्थापन अनुसूची"
+
+msgid "Flexible shifts"
+msgstr "लचीला अनुसूची"
+
+msgid "Remote work"
+msgstr "रिमोट काम"
+
+msgid "Rotational basis"
+msgstr "शिफ्ट विधि"
+
+msgid "Do you really want to delete this comment?"
+msgstr "आप टिप्पणी को हटाना चाहते तुम्हें यकीन है?"
+
+msgid "Do you really want to delete this task?"
+msgstr "आप इस कार्य को हटाना चाहते हैं आप सुनिश्चित हैं?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "आप इस उप परियोजना को हटाना चाहते हैं आप सुनिश्चित हैं?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "आप की स्थिति में कंपनी के लिए आवेदन किया है। सुनिश्चित करें कि कृपया"
+
+msgid "Your request to for job has been rejected"
+msgstr "स्थिति के लिए कंपनी के लिए अपने अनुरोध को अस्वीकार कर दिया गया है"
+
+msgid "Your request to for job has been accepted"
+msgstr "स्थिति के लिए कंपनी के लिए अपने अनुरोध को अपनाया गया था"
+
+msgid "profile is completed"
+msgstr "आपका प्रोफ़ाइल भरा है"
+
+msgid "Use account"
+msgstr "खाते का उपयोग करें"
+
+msgid "$/hr"
+msgstr "$ / घंटा"
+
+msgid "Finance category"
+msgstr "वित्तीय श्रेणी"
+
+msgid "No projects"
+msgstr "कोई परियोजनाओं"
+
+msgid "Bind to finances"
+msgstr "वित्तीय परियोजना निरुपित"
+
+msgid "Preview"
+msgstr "राय"
+
+msgid "Download"
+msgstr "डाउनलोड"
+
+msgid "Save to my cloud"
+msgstr "रिपोजिटरी को कॉपी"
+
+msgid "File successfully saved to your cloud"
+msgstr "सफलतापूर्वक अपने भंडार में संग्रहीत फ़ाइल"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "अपने भंडार में इस फाइल को सेव करें?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "एक वर्ग लेख का चयन"
+
+msgid "Type something"
+msgstr "कुछ लिखें"
+
+msgid "Founded users"
+msgstr "मिला उपयोगकर्ता"
+
+msgid "Founded articles"
+msgstr "मिला लेख"
+
+msgid "Founded groups"
+msgstr "स्थापित समूह"
+
+msgid "What are your skills?"
+msgstr "अपने कौशल क्या कर रहे हैं?"
+
+msgid "Select at least 2 interests"
+msgstr "कम से कम 2 ब्याज का चयन करें"
+
+msgid "Need more interests"
+msgstr "नहीं पर्याप्त रुचि चयनित"
+
+msgid "What are you interesting in?"
+msgstr "आप रुचि रखते हैं?"
+
+msgid "You have no dialogs"
+msgstr "आप संवादों की जरूरत नहीं है"
+
+msgid "Usage Stats"
+msgstr "के राज्य"
+
+msgid "Founded files"
+msgstr "फ़ाइलें मिला"
+
+msgid "Big tiles"
+msgstr "बड़े टाइल"
+
+msgid "Small tiles"
+msgstr "छोटे टाइल्स"
+
+msgid "Table view"
+msgstr "टेबल देखें"
+
+msgid "Root folder"
+msgstr "रूट निर्देशिका"
+
+msgid "My files"
+msgstr "मेरी फ़ाइलें"
+
+msgid "Save as draft"
+msgstr "ड्राफ्ट के रूप में सहेजें"
+
+msgid "Buy More Space"
+msgstr "अधिक स्थान खरीदें"
+
+msgid "Buy"
+msgstr "खरीदें"
+
+msgid "You have been invited to group as"
+msgstr "आप एक के रूप में समूह के लिए आमंत्रित किया गया है"
+
+msgid "User wants to join your group"
+msgstr "उपयोगकर्ता अपने समूह में शामिल करने की इच्छा"
+
+msgid "Section is coming soon!"
+msgstr "निर्माण के तहत धारा!"
+
+msgid "Shared"
+msgstr "Rassharennye"
+
+msgid "Views in last 24 hours:"
+msgstr "पिछले 24 घंटों में दृश्य:"
+
+msgid "Task was updated"
+msgstr "कार्य अद्यतन किया गया है"
+
+msgid "Task was closed"
+msgstr "चुनौती बंद कर दिया गया"
+
+msgid "Task was created"
+msgstr "कार्य निर्धारित किया गया था,"
+
+msgid "Current balance"
+msgstr "वर्तमान शेष"
+
+msgid "Add funds"
+msgstr "जोड़ना"
+
+msgid "Pay"
+msgstr "जांच"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "आप लॉग इन प्रयासों की संख्या पार कर चुके हैं। आप 15 मिनट के लिए अवरुद्ध कर रहे हैं"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "अपने ई-मेल की पुष्टि करें। मेल द्वारा भेजे गए पत्र।"
+
+msgid "Resend confirmation email"
+msgstr "फिर से पुष्टि भेजें"
+
+msgid "Disk 2Gb Monthly"
+msgstr "प्रति माह डिस्क 2 जीबी"
+
+msgid "Disk 10Gb Monthly"
+msgstr "प्रति वर्ष 10 जीबी ड्राइव"
+
+msgid "Disk 100Gb Yearly"
+msgstr "डिस्क 100 जीबी के लिए हर साल"
+
+msgid "Disk 1Tb Monthly"
+msgstr "डिस्क 1 टीबी मासिक"
+
+msgid "Disk 1Tb Yearly"
+msgstr "प्रत्येक वर्ष के 1 टीबी ड्राइव"
+
+msgid "Project members monthly"
+msgstr "एक मासिक आधार पर परियोजना के प्रतिभागियों"
+
+msgid "Project members yearly"
+msgstr "सालाना परियोजना प्रतिभागियों"
+
+msgid "Member(s) yearly"
+msgstr "प्रति वर्ष सदस्य (ओं)"
+
+msgid "Member(s) monthly"
+msgstr "एक मासिक आधार पर सदस्य (ओं)"
+
+msgid "Authorized"
+msgstr "अधिकृत"
+
+msgid "Authorization expired"
+msgstr "प्राधिकरण की समय सीमा समाप्त"
+
+msgid "Processor declined"
+msgstr "अस्वीकृत प्रोसेसिंग सिस्टम"
+
+msgid "Gateway rejected"
+msgstr "अस्वीकृत भुगतान गेटवे"
+
+msgid "Failed"
+msgstr "एरर"
+
+msgid "Voided"
+msgstr "अन्त करना"
+
+msgid "Submitted for settlement"
+msgstr "नामांकन के लिए भेजा गया"
+
+msgid "Settlement declined"
+msgstr "नामांकन बंद कर दिया गया"
+
+msgid "Settlement pending"
+msgstr "लंबित नामांकन"
+
+msgid "Verified"
+msgstr "जांचा"
+
+msgid "Pending"
+msgstr "अपूर्ण"
+
+msgid "Active"
+msgstr "सक्रिय"
+
+msgid "Past Due"
+msgstr "समय सीमा समाप्त"
+
+msgid "Expired"
+msgstr "समाप्त"
+
+msgid "Marketer"
+msgstr "विपणन"
+
+msgid "India"
+msgstr "भारत"
+
+msgid "Malaysia"
+msgstr "मलेशिया"
+
+msgid "Thailand"
+msgstr "थाईलैंड"
+
+msgid "South Korea"
+msgstr "दक्षिण कोरिया"
+
+msgid "Kazakhstan"
+msgstr "कजाखस्तान"
+
+msgid "Israel"
+msgstr "इजराइल"
+
+msgid "Ukraine"
+msgstr "यूक्रेन"
+
+msgid "Belarus"
+msgstr "बेलोरूस"
+
+msgid "Bulgaria"
+msgstr "बुल्गारिया"
+
+msgid "Turkey"
+msgstr "टर्की"
+
+msgid "Armenia"
+msgstr "आर्मीनिया"
+
+msgid "Serbia"
+msgstr "सर्बिया"
+
+msgid "Austria"
+msgstr "ऑस्ट्रिया"
+
+msgid "Poland"
+msgstr "पोलैंड"
+
+msgid "Germany"
+msgstr "जर्मनी"
+
+msgid "Italy"
+msgstr "इटली"
+
+msgid "Netherlands"
+msgstr "नीदरलैंड"
+
+msgid "Ireland"
+msgstr "आयरलैंड"
+
+msgid "United Kingdom"
+msgstr "ग्रेट ब्रिटेन"
+
+msgid "Portugal"
+msgstr "पुर्तगाल"
+
+msgid "Norway"
+msgstr "नॉर्वे"
+
+msgid "United States"
+msgstr "अमेरिका"
+
+msgid "Canada"
+msgstr "कनाडा"
+
+msgid "Brazil"
+msgstr "ब्राज़िल"
+
+msgid "Saudi Arabia"
+msgstr "सऊदी अरब"
+
+msgid "Canada"
+msgstr "मिस्र"
+
+msgid "Russia"
+msgstr "रूस"
+
+msgid "Hong Kong"
+msgstr "हांगकांग"
+
+msgid "There was no any transactions yet."
+msgstr "फिलहाल, एक सौदे वहाँ नहीं था"
+
+msgid "Fulfill your dream"
+msgstr "अपने सपने को पूरा"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "सभी दुनिया भर से रचनात्मक व्यक्तियों के हमारे समुदाय में शामिल हों।"
+
+msgid "Create and Collaborate"
+msgstr "बनाएँ और सहयोग करें"
+
+msgid "Start Dreaming"
+msgstr "अब सपना पूरा"
+
+msgid "or"
+msgstr "या"
+
+msgid "Our mission:"
+msgstr "हमारा विशेष कार्य:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "हमारे भविष्य को आकार कर सकते हैं, सरल से और अविश्वसनीय हैं और शानदार करने के लिए मांग में विचारों को लागू करने के लिए रचनात्मक और सक्रिय लोगों को एकजुट करने के लिए।"
+
+msgid "What is Konstruktor?"
+msgstr "Konstruktor क्या है?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor- हमारी असली काफी सुविधा है, जो जीवन, और सरल का एक हिस्सा है"
+
+msgid "*business processes"
+msgstr "*व्यापार प्रक्रिया"
+
+msgid "*materialization of creative ideas"
+msgstr "* रचनात्मक विचारों के अमल में लाना"
+
+msgid "*constructive cooperation"
+msgstr "* रचनात्मक सहयोग"
+
+msgid "Make your dream!"
+msgstr "अपने सपने को बनाओ!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "सी ई ओ"
+
+msgid "Yuriy Chekalenko"
+msgstr "यूरी Chekalenko"
+
+msgid "Special Advisor"
+msgstr "विशेष सलाहकार"
+
+msgid "Yaroslav Eroshenko"
+msgstr "यारोस्लाव Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "प्रबंधक, सॉफ्टवेयर विकास"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "स्वेतलाना Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "वरिष्ठ वकील"
+
+msgid "Yuriy Himka"
+msgstr "यूरी Himka"
+
+msgid "Designer"
+msgstr "डिजाइनर"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "अगला बटन पर क्लिक करके, आप स्वीकार कर रहे हैं और हमारे नियम और शर्तों के साथ सहमत हैं, और आप आप हमारी गोपनीयता नीति में पढ़ा है कि स्वीकार कर रहे हैं।"
+
+msgid "Incorrect login or password."
+msgstr "गलत लॉगिन या पासवर्ड।"
+
+msgid "Password must be at least 6 characters"
+msgstr "पासवर्ड कम से कम 6 अंकों का होना चाहिए"
+
+msgid "January"
+msgstr "जनवरी"
+
+msgid "February"
+msgstr "फरवरी"
+
+msgid "March"
+msgstr "मार्च"
+
+msgid "April"
+msgstr "अप्रैल"
+
+msgid "May"
+msgstr "मई"
+
+msgid "June"
+msgstr "जून"
+
+msgid "July"
+msgstr "जुलाई"
+
+msgid "August"
+msgstr "अगस्त"
+
+msgid "September"
+msgstr "सितंबर"
+
+msgid "October"
+msgstr "अक्टूबर"
+
+msgid "November"
+msgstr "नवंबर"
+
+msgid "December"
+msgstr "दिसंबर"
+
+msgid "Chat"
+msgstr "बातचीत"
+
+msgid "Files"
+msgstr "फ़ाइलें"
+
+msgid "Statistic"
+msgstr "सांख्यिकीय"
+
+msgid "Support"
+msgstr "समर्थन"
+
+msgid "Exit"
+msgstr "बाहर जाएं"
+
+msgid "Brest"
+msgstr "ब्रेस्ट"
+
+msgid "Belarus"
+msgstr "बेलोरूस"
+
+msgid "Marketing specialist"
+msgstr "विपणन विशेषज्ञ"
+
+msgid "Administrator"
+msgstr "प्रशासक"
+
+msgid "Shared with me"
+msgstr "मेरे साथ साझा किया"
+
+msgid "File Sharing"
+msgstr "फ़ाइल साझा करना"
+
+msgid "Provide access by link"
+msgstr "कड़ी से पहुँच प्रदान करें"
+
+msgid "Provide Individual access"
+msgstr "व्यक्तिगत पहुँच प्रदान करें"
+
+msgid "Provide edit access"
+msgstr "संपादित पहुँच प्रदान करें"
+
+msgid "Share"
+msgstr "शेयर"
+
+msgid "Files will be available only for selected users"
+msgstr "फ़ाइलें चयनित उपयोगकर्ताओं के लिए ही उपलब्ध हो जाएगा"
+
+msgid "With this link everyone can access to the files"
+msgstr "इस लिंक के साथ हर किसी को फाइल करने के लिए उपयोग कर सकते हैं"
+
+msgid "Search users, groups, articles..."
+msgstr "खोज के उपयोगकर्ताओं, समूहों, लेख ..."
+
+msgid "My Group"
+msgstr "मेरा समूह"
+
+msgid "Mo"
+msgstr "मो"
+
+msgid "Tu"
+msgstr "तू"
+
+msgid "We"
+msgstr "हम"
+
+msgid "Th"
+msgstr "गु"
+
+msgid "Fr"
+msgstr "फादर"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "र"
+
+msgid "The file is not selected"
+msgstr "फ़ाइल चयनित नहीं है"
+
+msgid "Set aside"
+msgstr "रद्द करना"
+
+msgid "Event time"
+msgstr "घटना के समय"
+
+msgid "Work"
+msgstr "काम"
+
+msgid "Personal"
+msgstr "व्यक्तिगत"
+
+msgid "Time spent for work:"
+msgstr "समय काम के लिए खर्च:"
+
+msgid "Personal time spent:"
+msgstr "व्यक्तिगत समय बिताया:"
+
+msgid "Present"
+msgstr "वर्तमान"
+
+msgid "Common"
+msgstr "सामान्य"
+
+msgid "Sport"
+msgstr "खेल"
+
+msgid "Entertainment"
+msgstr "मनोरंजन"
+
+msgid "Select:"
+msgstr "चयन करें:"
+
+msgid "Invalid username or password."
+msgstr "अमान्य उपयोगकर्ता नाम या पासवर्ड।"
+
+msgid "Try again."
+msgstr "पुनः प्रयास करें।"
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "आप किसमें रुचि रखते हैं?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "कम से कम 2 कौशल का चयन: 2 बनी हुई है"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "कम से कम 2 कौशल का चयन करें: 1 रहता है"
+
+msgid "Select at least 2 skills: remains"
+msgstr "कम से कम 2 कौशल का चयन करें: अवशेष"
+
+msgid "Active life"
+msgstr "सक्रिय जीवन"
+
+msgid "Arts and culture"
+msgstr "कला और संस्कृति"
+
+msgid "Business"
+msgstr "व्यापार"
+
+msgid "Cinema"
+msgstr "सिनेमा"
+
+msgid "Communications"
+msgstr "संचार"
+
+msgid "Construction and repair"
+msgstr "निर्माण और मरम्मत"
+
+msgid "Cooking"
+msgstr "पाक कला"
+
+msgid "Education"
+msgstr "शिक्षा"
+
+msgid "Electronics"
+msgstr "इलेक्ट्रानिक्स"
+
+msgid "Finances"
+msgstr "वित्त"
+
+msgid "Graphics and design"
+msgstr "ग्राफिक्स और डिजाइन"
+
+msgid "Health"
+msgstr "स्वास्थ्य"
+
+msgid "Home and family"
+msgstr "घर और परिवार"
+
+msgid "Humor"
+msgstr "हास्य"
+
+msgid "IT"
+msgstr "आईटी"
+
+msgid "Industry"
+msgstr "उद्योग"
+
+msgid "Insurance"
+msgstr "बीमा"
+
+msgid "Literature"
+msgstr "साहित्य"
+
+msgid "Mobile communications and internet"
+msgstr "मोबाइल संचार और इंटरनेट"
+
+msgid "News and Media"
+msgstr "समाचार और मीडिया"
+
+msgid "Pets"
+msgstr "पालतू जानवर"
+
+msgid "Products and service"
+msgstr "उत्पाद और सेवा"
+
+msgid "Real Estate"
+msgstr "रियल एस्टेट"
+
+msgid "Religion"
+msgstr "धर्म"
+
+msgid "Science and techs"
+msgstr "विज्ञान और techs"
+
+msgid "Security"
+msgstr "सुरक्षा"
+
+msgid "Society"
+msgstr "समाज"
+
+msgid "Television"
+msgstr "टेलीविजन"
+
+msgid "Travel"
+msgstr "यात्रा"
+
+msgid "URL"
+msgstr "यूआरएल"
+
+msgid "Argentina"
+msgstr "अर्जेंटीना"
+
+msgid "Australia"
+msgstr "ऑस्ट्रेलिया"
+
+msgid "Austria"
+msgstr "ऑस्ट्रिया"
+
+msgid "Belarus"
+msgstr "बेलोरूस"
+
+msgid "Belgium"
+msgstr "बेल्जियम"
+
+msgid "Brazil"
+msgstr "ब्राज़िल"
+
+msgid "Bulgaria"
+msgstr "बुल्गारिया"
+
+msgid "Canada"
+msgstr "कनाडा"
+
+msgid "Chile"
+msgstr "चिली"
+
+msgid "Denmark"
+msgstr "डेनमार्क"
+
+msgid "France"
+msgstr "फ्रांस"
+
+msgid "Germany"
+msgstr "जर्मनी"
+
+msgid "Greece"
+msgstr "ग्रीस"
+
+msgid "Hungary"
+msgstr "हंगरी"
+
+msgid "Iceland"
+msgstr "आइसलैंड"
+
+msgid "Ireland"
+msgstr "आयरलैंड"
+
+msgid "Israel"
+msgstr "इजराइल"
+
+msgid "Italy"
+msgstr "इटली"
+
+msgid "Japan"
+msgstr "जापान"
+
+msgid "Mexico"
+msgstr "मेक्सिको"
+
+msgid "Netherlands"
+msgstr "नीदरलैंड"
+
+msgid "New Zealand"
+msgstr "न्यूजीलैंड"
+
+msgid "Norway"
+msgstr "नॉर्वे"
+
+msgid "Poland"
+msgstr "पोलैंड"
+
+msgid "Portugal"
+msgstr "पुर्तगाल"
+
+msgid "Russia"
+msgstr "रूस"
+
+msgid "Slovakia"
+msgstr "स्लोवाकिया"
+
+msgid "South Africa"
+msgstr "दक्षिण अफ्रीका"
+
+msgid "South Korea"
+msgstr "दक्षिण कोरिया"
+
+msgid "Spain"
+msgstr "स्पेन"
+
+msgid "Sweden"
+msgstr "स्वीडन"
+
+msgid "Switzerland"
+msgstr "स्विट्जरलैंड"
+
+msgid "Turkey"
+msgstr "तुर्की"
+
+msgid "Ukraine"
+msgstr "यूक्रेन"
+
+msgid "United Arab Emirates"
+msgstr "संयुक्त अरब अमीरात"
+
+msgid "United Kingdom"
+msgstr "यूनाइटेड किंगडम"
+
+msgid "United States"
+msgstr "संयुक्त राज्य अमेरिका"
+
+msgid "achievements"
+msgstr "उपलब्धियों"
+
+msgid "Investment management"
+msgstr "निवेश प्रबंधन"
+
+msgid "Select..."
+msgstr "चयन करें ..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "निवेश प्रबंधन"
+
+msgid "Investors list"
+msgstr "निवेशकों सूची"
+
+msgid "My investments"
+msgstr "मेरे निवेश"
+
+msgid "Create date"
+msgstr "तिथि बनाएं"
+
+msgid "Author of the project"
+msgstr "परियोजना के लेखक"
+
+msgid "Date and time"
+msgstr "दिनांक और समय"
+
+msgid "Status"
+msgstr "स्थिति"
+
+msgid "NEXT"
+msgstr "अगला"
+
+msgid "Next"
+msgstr "अगला"
+
+msgid "Apply"
+msgstr "लागू करें"
+
+msgid "Kazakhstan"
+msgstr "कजाखस्तान"
+
+msgid "Almaty"
+msgstr "अल्माटी"
+
+msgid "Hong Kong"
+msgstr "हॉगकॉग"
+
+msgid "Science"
+msgstr "विज्ञान"
+
+msgid "Architecture"
+msgstr "आर्किटेक्चर"
+
+msgid "Photography"
+msgstr "फोटोग्राफी"
+
+msgid "Designer"
+msgstr "डिजाइनर"
+
+msgid "IT specialist"
+msgstr "आईटी विशेषज्ञ"
+
+msgid "Agronomist"
+msgstr "कृषिविज्ञानी"
+
+msgid "Architect"
+msgstr "Architector"
+
+msgid "Lawyer"
+msgstr "वकील"
+
+msgid "Writer"
+msgstr "लेखक"
+
+msgid "Doctor"
+msgstr "चिकित्सक"
+
+msgid "Scientist"
+msgstr "वैज्ञानिक"
+
+msgid "Marketer"
+msgstr "विपणन"
+
+msgid "Teacher"
+msgstr "अध्यापक"
+
+msgid "Cook"
+msgstr "रसोइया"
+
+msgid "Artist"
+msgstr "कलाकार"
+
+msgid "Photographer"
+msgstr "फोटोग्राफर"
+
+msgid "Ecologist"
+msgstr "परिस्थितिविज्ञानशास्री"
+
+msgid "Economist"
+msgstr "अर्थशास्त्री"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "पत्रकार"
+
+msgid "Builder"
+msgstr "निर्माता"
+
+msgid "These users may be interesting for you"
+msgstr "इन उपयोगकर्ताओं को आप के लिए दिलचस्प हो सकता है"
+
+msgid "These articles may be interesting for you"
+msgstr "ये लेख आप के लिए दिलचस्प हो सकता है"
+
+msgid "You joined this group as Аdministrator"
+msgstr "आप Аdministrator के रूप में इस समूह में शामिल हो गए"
+
+msgid "articles written."
+msgstr "लेख लिखा।"
+
+msgid "groups created."
+msgstr "समूह बनाया।"
+
+msgid "Creation"
+msgstr "सृजन"
+
+msgid "Build a dream"
+msgstr "एक सपना बनाएँ"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "और पढ़ें दिलचस्प लेख - नि: शुल्क पंजीकरण जाना"
+

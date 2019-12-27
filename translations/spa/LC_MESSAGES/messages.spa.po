@@ -1,0 +1,3344 @@
+# español (Испанский) translation of Konstruktor App
+# Copyright Konstruktor Inc <support@konstruktor.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruktor 1.2\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: 2015-12-22 09:13+0000\n"
+"Last-Translator: Translation team <support@konstruktor.com>\n"
+"Language-Team: español (Испанский) <support@konstruktor.com>\n"
+"Language: español (Испанский)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Username"
+msgstr "nombre de usuario"
+
+msgid "Invalid username or password, try again"
+msgstr "Nombre de usuario o contraseña incorrecta. Inténtalo de nuevo."
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Home"
+msgstr "casa"
+
+msgid "You must log in to access this page"
+msgstr "Usted debe ingresar para acceder a esta página"
+
+msgid "Your session has been expired. Please, relogin to perform this action"
+msgstr "Su sesión ha expirado. Por favor , relogin para ejecutar esta acción"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Head Office"
+msgstr "Oficina Central"
+
+msgid "Address"
+msgstr "dirección"
+
+msgid "Back"
+msgstr "espalda"
+
+msgid "Apply"
+msgstr "aplicar"
+
+msgid "Upload files…"
+msgstr "Subir archivos ..."
+
+msgid "Set as main"
+msgstr "Establecer como principal"
+
+msgid "Delete"
+msgstr "borrar"
+
+msgid "Original image"
+msgstr "imagen original"
+
+msgid "Uploaded"
+msgstr "Subido"
+
+msgid "File name"
+msgstr "nombre del archivo"
+
+msgid "File size"
+msgstr "tamaño de archivo"
+
+msgid "Resolution"
+msgstr "resolución"
+
+msgid "Enlarge"
+msgstr "ampliar"
+
+msgid "Links"
+msgstr "enlaces"
+
+msgid "Original size"
+msgstr "tamaño original"
+
+msgid "For editor"
+msgstr "Por editor"
+
+msgid "Resize"
+msgstr "Cambiar el tamaño"
+
+msgid "Width"
+msgstr "ancho"
+
+msgid "Height"
+msgstr "altura"
+
+msgid "Media URL"
+msgstr "URL de Medios"
+
+msgid "Add record"
+msgstr "Añadir récord"
+
+msgid "Show filter settings"
+msgstr "Mostrar ajustes de filtro"
+
+msgid "Edit record"
+msgstr "Editar registro"
+
+msgid "Delete record"
+msgstr "borrar registro"
+
+msgid "Delete checked records"
+msgstr "Eliminar registros verificados"
+
+msgid "Dashboard"
+msgstr "salpicadero"
+
+msgid "Password"
+msgstr "contraseña"
+
+msgid "Remember me"
+msgstr "Recuérdame"
+
+msgid "Login"
+msgstr "Iniciar Sesión"
+
+msgid "Clean image cache"
+msgstr "Caché de imágenes Clean"
+
+msgid "Processing query..."
+msgstr "Consulta Procesamiento ..."
+
+msgid "CMS Development"
+msgstr "Desarrollo CMS"
+
+msgid "Admin Home Page"
+msgstr "Admin Home Page"
+
+msgid "Open Home page of Front-end in a new tab"
+msgstr "Principal abierta de Front-end en una nueva pestaña"
+
+msgid "Go to Site"
+msgstr "Ir a la web"
+
+msgid "Log out"
+msgstr "finalizar la sesión"
+
+msgid "Send"
+msgstr "enviar"
+
+msgid "General"
+msgstr "general"
+
+msgid "Title"
+msgstr "título"
+
+msgid "Teaser"
+msgstr "rompecabezas"
+
+msgid "Published"
+msgstr "publicado"
+
+msgid "Featured"
+msgstr "Destacado"
+
+msgid "Active"
+msgstr "activo"
+
+msgid "Field is mandatory"
+msgstr "El campo es obligatorio"
+
+msgid "Sort Order"
+msgstr "Orden de Clasificación"
+
+msgid "Upload"
+msgstr "Subir"
+
+msgid "Loading..."
+msgstr "Cargando ..."
+
+msgid "Jan"
+msgstr "ene"
+
+msgid "Feb"
+msgstr "febrero"
+
+msgid "Mar"
+msgstr "marzo"
+
+msgid "Apr"
+msgstr "abril"
+
+msgid "May"
+msgstr "mayo"
+
+msgid "Jun"
+msgstr "junio"
+
+msgid "Jul"
+msgstr "julio"
+
+msgid "Aug"
+msgstr "agosto"
+
+msgid "Sep"
+msgstr "septiembre"
+
+msgid "Oct"
+msgstr "octubre"
+
+msgid "Nov"
+msgstr "noviembre"
+
+msgid "Dec"
+msgstr "diciembre"
+
+msgid "Product already exists in the order"
+msgstr "Producto ya existe en el orden"
+
+msgid "Product does not exist"
+msgstr "Producto no existe"
+
+msgid "Incorrect request"
+msgstr "solicitud incorrecta"
+
+msgid "Products"
+msgstr "Productos"
+
+msgid "Product types"
+msgstr "tipos de producto"
+
+msgid "Contractors"
+msgstr "Contratistas"
+
+msgid "Contractor"
+msgstr "contratista"
+
+msgid "Orders"
+msgstr "órdenes"
+
+msgid "FAQ"
+msgstr "PF"
+
+msgid "New order"
+msgstr "Nuevo orden"
+
+msgid "My orders"
+msgstr "Mis pedidos"
+
+msgid "Recharge balance"
+msgstr "balance de Recarga"
+
+msgid "Administrator"
+msgstr "administrador"
+
+msgid "Incorrect event ID"
+msgstr "Evento incorrecta ID"
+
+msgid "Tech.params"
+msgstr "Tech.params"
+
+msgid "Edit contractor"
+msgstr "Editar contratista"
+
+msgid "Create contractor"
+msgstr "crear contratista"
+
+msgid "Edit question"
+msgstr "Editar pregunta"
+
+msgid "Create question"
+msgstr "crear pregunta"
+
+msgid "Edit order"
+msgstr "Editar fin"
+
+msgid "Create order"
+msgstr "crear pedido"
+
+msgid "Edit product"
+msgstr "Editar producto"
+
+msgid "Create product"
+msgstr "crear producto"
+
+msgid "Edit product type"
+msgstr "Editar tipo de producto"
+
+msgid "Create product type"
+msgstr "Crear tipo de producto"
+
+msgid "You have received a file"
+msgstr "Usted ha recibido un archivo"
+
+msgid "You received a file from"
+msgstr "Usted recibió un archivo de"
+
+msgid "File has been uploaded"
+msgstr "El archivo ha sido subido"
+
+msgid "Min.qty"
+msgstr "Min.Qty"
+
+msgid "Minimal quantity"
+msgstr "Cantidad mínima"
+
+msgid "Max.qty"
+msgstr "Max.qty"
+
+msgid "items"
+msgstr "artículos"
+
+msgid "Remove"
+msgstr "quitar"
+
+msgid "Contact person"
+msgstr "persona de contacto"
+
+msgid "Email"
+msgstr "Correo"
+
+msgid "Contractor phone"
+msgstr "teléfono contratista"
+
+msgid "Contractor name"
+msgstr "nombre del contratista"
+
+msgid "Contractor details"
+msgstr "detalles contratista"
+
+msgid "Order ID"
+msgstr "Solicitar ID"
+
+msgid "Sum"
+msgstr "suma"
+
+msgid "Choose the suitable payment system to recharge your balance"
+msgstr "Elija el sistema de pago adecuado para recargar su saldo"
+
+msgid "Recharge amount"
+msgstr "cantidad de recarga"
+
+msgid "Paid"
+msgstr "pagado"
+
+msgid "Shipped"
+msgstr "transportado"
+
+msgid "- No products in this order -"
+msgstr "- No productos en este orden -"
+
+msgid "month"
+msgstr "mes"
+
+msgid "No user found"
+msgstr "No se encontró ninguna de usuario"
+
+msgid "Achievement"
+msgstr "logro"
+
+msgid "Confirmed accomplishments"
+msgstr "logros confirmados"
+
+msgid "Remove achievement"
+msgstr "Retire logro"
+
+msgid "Headquaters"
+msgstr "Headquaters"
+
+msgid "Phone"
+msgstr "teléfono"
+
+msgid "Site URL and email"
+msgstr "URL del sitio y el correo electrónico"
+
+msgid "Remove address"
+msgstr "Retire dirección"
+
+msgid "Members"
+msgstr "Miembros"
+
+msgid "Requires a payment"
+msgstr "Requiere un pago"
+
+msgid "Shipping"
+msgstr "envío"
+
+msgid "Ready"
+msgstr "listo"
+
+msgid "Find user..."
+msgstr "Encuentra usuario ..."
+
+msgid "Order it"
+msgstr "Paga"
+
+msgid "Find group..."
+msgstr "Encuentra grupo ..."
+
+msgid "Find user or community..."
+msgstr "Encuentra usuario o comunidad ..."
+
+msgid "No item found"
+msgstr "Ningún artículo encontrado"
+
+msgid "years"
+msgstr "año"
+
+msgid "Send message"
+msgstr "enviar mensaje"
+
+msgid "Message"
+msgstr "mensaje"
+
+msgid "To send message press Enter"
+msgstr "Para enviar el mensaje pulse Intro"
+
+msgid "To send message press CTRL+Enter"
+msgstr "Para enviar el mensaje presione CTRL + Enter"
+
+msgid "Processing file(s)..."
+msgstr "Procesamiento archivo ( s ) ..."
+
+msgid "Group settings"
+msgstr "configuración del grupo"
+
+msgid "Create group"
+msgstr "crea un grupo"
+
+msgid "Group has been successfully saved"
+msgstr "Grupo ha sido guardado con éxito"
+
+msgid "Group title"
+msgstr "título del Grupo"
+
+msgid "Group video"
+msgstr "Grupo de vídeo"
+
+msgid "Description"
+msgstr "descripción"
+
+msgid "Your role in group"
+msgstr "Su rol en el grupo"
+
+msgid "Role"
+msgstr "papel"
+
+msgid "Photo or video gallery"
+msgstr "Foto o video galería"
+
+msgid "Youtube.com URL"
+msgstr "Youtube.com URL"
+
+msgid "Upload video"
+msgstr "Subir vídeo"
+
+msgid "Add group address"
+msgstr "Añadir dirección de grupo"
+
+msgid "Group articles"
+msgstr "artículos del grupo"
+
+msgid "No addresses yet"
+msgstr "No hay todavía direcciones"
+
+msgid "Add group achievement"
+msgstr "Añadir logro grupo"
+
+msgid "No achivements yet"
+msgstr "No hay todavía LOGROS"
+
+msgid "Are you sure to delete this user"
+msgstr "¿Está seguro de eliminar este usuario"
+
+msgid "Add member"
+msgstr "añadir Miembro"
+
+msgid "Are you sure to delete this record?"
+msgstr "¿Está seguro de eliminar este registro ?"
+
+msgid "Join this group"
+msgstr "Unirse a este grupo"
+
+msgid "Your invitation was sent to the group administrator"
+msgstr "Su invitación fue enviada al administrador del grupo"
+
+msgid "All addresses"
+msgstr "Todas las direcciones"
+
+msgid "Collapse"
+msgstr "colapso"
+
+msgid "Achievements"
+msgstr "Logros"
+
+msgid "Show more"
+msgstr "mostrar más"
+
+msgid "Team"
+msgstr "equipo"
+
+msgid "Projects"
+msgstr "Proyectos"
+
+msgid "New project"
+msgstr "nuevo proyecto"
+
+msgid "Project has not been created yet"
+msgstr "Proyecto no ha sido creada todavía"
+
+msgid "Messanger"
+msgstr "Messenger"
+
+msgid "Balance"
+msgstr "equilibrio"
+
+msgid "Main page"
+msgstr "pagina principal"
+
+msgid "Upload image"
+msgstr "cargar imagen"
+
+msgid "My time"
+msgstr "mi tiempo"
+
+msgid "Day"
+msgstr "día"
+
+msgid "Week"
+msgstr "semana"
+
+msgid "Project settings"
+msgstr "configuración del proyecto"
+
+msgid "Create project"
+msgstr "crear proyecto"
+
+msgid "Project has been successfully saved"
+msgstr "Proyecto ha sido guardado con éxito"
+
+msgid "Project name"
+msgstr "nombre del proyecto"
+
+msgid "Deadline"
+msgstr "Fecha Tope"
+
+msgid "Close"
+msgstr "cerrar"
+
+msgid "Manager"
+msgstr "gerente"
+
+msgid "Assigned to"
+msgstr "asignado a"
+
+msgid "Discussion"
+msgstr "discusión"
+
+msgid "Task was created"
+msgstr "La tarea fue creada"
+
+msgid "Task was closed"
+msgstr "Tarea se cerró"
+
+msgid "Go to Group"
+msgstr "Ir al Grupo"
+
+msgid "Closed"
+msgstr "cerrado"
+
+msgid "Last updates"
+msgstr "Últimas actualizaciones"
+
+msgid "Project is closed"
+msgstr "Proyecto está cerrado"
+
+msgid "No open tasks"
+msgstr "No hay tareas abiertas"
+
+msgid "New task"
+msgstr "nueva tarea"
+
+msgid "Closed tasks"
+msgstr "tareas cerradas"
+
+msgid "Add subproject"
+msgstr "Añadir subproyecto"
+
+msgid "Add task"
+msgstr "Añadir tarea"
+
+msgid "Sun"
+msgstr "domingo"
+
+msgid "Mon"
+msgstr "lunes"
+
+msgid "Tue"
+msgstr "martes"
+
+msgid "Wed"
+msgstr "miércoles"
+
+msgid "Thur"
+msgstr "jueves"
+
+msgid "Fri"
+msgstr "viernes"
+
+msgid "Sat"
+msgstr "sábado"
+
+msgid "Event title"
+msgstr "Nombre del Evento"
+
+msgid "Event description"
+msgstr "Descripción del evento"
+
+msgid "I registered on this site"
+msgstr "Me he registrado en este sitio"
+
+msgid "Last created groups"
+msgstr "Últimos grupos creados"
+
+msgid "You joined this group as"
+msgstr "Te uniste a este grupo como"
+
+msgid "You received a request to join the group"
+msgstr "Usted recibió una solicitud para unirse al grupo"
+
+msgid "Updated site"
+msgstr "Actualizado sitio"
+
+msgid "Site is under construction"
+msgstr "Sitio en construcción"
+
+msgid "Last registered users"
+msgstr "Últimos usuarios registrados"
+
+msgid "User settings"
+msgstr "Ajustes de usuario"
+
+msgid "Technical support"
+msgstr "soporte técnico"
+
+msgid "Change email"
+msgstr "Cambiar e-mail"
+
+msgid "Change password"
+msgstr "cambiar la contraseña"
+
+msgid "User has been successfully saved"
+msgstr "El usuario ha sido guardado con éxito"
+
+msgid "Full name"
+msgstr "Nombre completo"
+
+msgid "My video"
+msgstr "Mi video"
+
+msgid "Skills"
+msgstr "Habilidades"
+
+msgid "Birthday"
+msgstr "cumpleaños"
+
+msgid "Country of residence"
+msgstr "País de residencia"
+
+msgid "Country"
+msgstr "país"
+
+msgid "Zip Code"
+msgstr "Código postal"
+
+msgid "City/town of residence"
+msgstr "Ciudad / pueblo de residencia"
+
+msgid "University/college"
+msgstr "Universidad"
+
+msgid "University/college photo"
+msgstr "Universidad / foto universidad"
+
+msgid "Add user\'s accomplishments"
+msgstr "Añadir logros de usuario"
+
+msgid "Interface language"
+msgstr "Idioma de interfaz"
+
+msgid "How other people see this page"
+msgstr "Cómo otras personas ven esta página"
+
+msgid "Video with me"
+msgstr "Vídeo conmigo"
+
+msgid "Groups"
+msgstr "Grupos"
+
+msgid "Registered today"
+msgstr "Registrados hoy"
+
+msgid "Qty"
+msgstr "Cantidad"
+
+msgid "No registered users yet"
+msgstr "No hay usuarios registrados aún"
+
+msgid "Total"
+msgstr "total"
+
+msgid "Registered total"
+msgstr "registrado total"
+
+msgid "You received a file"
+msgstr "Usted recibió un archivo"
+
+msgid "You were invited into this room"
+msgstr "Usted fue invitado a esta habitación"
+
+msgid "Request is being processed"
+msgstr "Solicitud se está procesando"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Messenger"
+msgstr "Mensajero"
+
+msgid "New subproject"
+msgstr "Nuevo subproyecto"
+
+msgid "messages written."
+msgstr "mensajes escritos ."
+
+msgid "projects created based on groups."
+msgstr "Los proyectos creados basados ​​en grupos."
+
+msgid "users registered on website."
+msgstr "Los usuarios registrados en el sitio web ."
+
+msgid "New email"
+msgstr "Nuevo Email"
+
+msgid "Confirm email"
+msgstr "Confirmar correo electrónico"
+
+msgid "New password"
+msgstr "Nueva contraseña"
+
+msgid "Confirm password"
+msgstr "Confirmar contraseña"
+
+msgid "Occupation"
+msgstr "Otros"
+
+msgid "Timezone"
+msgstr "Zona horaria"
+
+msgid "Answer"
+msgstr "Responder"
+
+msgid "Articles"
+msgstr "Artículos"
+
+msgid "Article"
+msgstr "artículo"
+
+msgid "Video-article"
+msgstr "Video- artículo"
+
+msgid "Find article..."
+msgstr "Encuentra artículo ..."
+
+msgid "Politics"
+msgstr "Política"
+
+msgid "Economics"
+msgstr "Economía"
+
+msgid "Community"
+msgstr "Comunidad"
+
+msgid "Culture"
+msgstr "Cultura"
+
+msgid "Sports"
+msgstr "Deportes"
+
+msgid "Hi-tech"
+msgstr "De alta tecnología"
+
+msgid "Cars"
+msgstr "Carros"
+
+msgid "Fashion"
+msgstr "moda"
+
+msgid "Games"
+msgstr "Juegos"
+
+msgid "Other"
+msgstr "Otros"
+
+msgid "Invalid mediafile"
+msgstr "mediafile válida"
+
+msgid "No articles in this category yet"
+msgstr "No hay artículos en esta categoría"
+
+msgid "Back to profile"
+msgstr "Volver al perfil"
+
+msgid "View article"
+msgstr "Ver artículo"
+
+msgid "Edit article"
+msgstr "Editar artículo"
+
+msgid "Create article"
+msgstr "crear artículo"
+
+msgid "Article title"
+msgstr "Título del artículo"
+
+msgid "Article section"
+msgstr "sección del artículo"
+
+msgid "Choose image"
+msgstr "Elige la imagen"
+
+msgid "Save and upload"
+msgstr "Guardar y cargar"
+
+msgid "Show more..."
+msgstr "Mostrar más..."
+
+msgid "Create"
+msgstr "crear"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Project"
+msgstr "Proyecto"
+
+msgid "Team"
+msgstr "Equipo"
+
+msgid "A new article was published"
+msgstr "Un nuevo artículo"
+
+msgid "You joined this project"
+msgstr "Te uniste este proyecto"
+
+msgid "Enter your information in the User settings"
+msgstr "Ingrese su información en los ajustes del usuario"
+
+msgid "Communities"
+msgstr "comunidades"
+
+msgid "Video presentation of my accomplishments"
+msgstr "Vídeo de presentación de mis logros"
+
+msgid "My articles"
+msgstr "Mis artículos"
+
+msgid "User"
+msgstr "usuario"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "Add new list"
+msgstr "Añadir nueva lista"
+
+msgid "List title"
+msgstr "Lista de títulos"
+
+msgid "Add"
+msgstr "añadir"
+
+msgid "Add to favorites"
+msgstr "Agregar a los favoritos"
+
+msgid "Delete from favorites"
+msgstr "Eliminar de los favoritos"
+
+msgid "Select list"
+msgstr "Seleccione la lista"
+
+msgid "Subscriptions"
+msgstr "Suscripciones"
+
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+msgid "Unsubscribe"
+msgstr "Darse de baja"
+
+msgid "General list"
+msgstr "listado general"
+
+msgid "No users in this list"
+msgstr "No hay usuarios en esta lista"
+
+msgid "Publish"
+msgstr "Publicar"
+
+msgid "Unpublish"
+msgstr "Despublicar"
+
+msgid "Add user"
+msgstr "Agregar usuario"
+
+msgid "Create document"
+msgstr "crear documento"
+
+msgid "Edit document"
+msgstr "Editar documento"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "Document title"
+msgstr "Titulo del documento"
+
+msgid "Find document..."
+msgstr "Encuentra documento ..."
+
+msgid "Share your thoughts"
+msgstr "Comparte tus pensamientos"
+
+msgid "Leave your comment"
+msgstr "Deje su comentario"
+
+msgid "Accept"
+msgstr "aceptar"
+
+msgid "Decline"
+msgstr "decadencia"
+
+msgid "Add article"
+msgstr "Añadir artículo"
+
+msgid "Link to verified accomplishments"
+msgstr "Enlace a logros verificados"
+
+msgid "No articles here yet..."
+msgstr "No hay artículos aquí aún ..."
+
+msgid "Find file or folder..."
+msgstr "Encuentra archivo o carpeta ..."
+
+msgid "Sort"
+msgstr "especie"
+
+msgid "By name"
+msgstr "Por nombre"
+
+msgid "By date"
+msgstr "Por fecha"
+
+msgid "By updated date"
+msgstr "Por fecha de actualización"
+
+msgid "By size"
+msgstr "por tamaño"
+
+msgid "By type"
+msgstr "por tipo de"
+
+msgid "Move"
+msgstr "movida"
+
+msgid "File Manager"
+msgstr "Administrador de archivos"
+
+msgid "Share link"
+msgstr "Compartir enlace"
+
+msgid "Responsible"
+msgstr "Responsable"
+
+msgid "Performer"
+msgstr "Artista"
+
+msgid "New Folder"
+msgstr "Carpeta nueva"
+
+msgid "Folder name"
+msgstr "Nombre de la carpeta"
+
+msgid "By default"
+msgstr "Por defecto"
+
+msgid "Back to group"
+msgstr "Volver al grupo"
+
+msgid "year(s)"
+msgstr "años)"
+
+msgid "January"
+msgstr "enero"
+
+msgid "February"
+msgstr "febrero"
+
+msgid "March"
+msgstr "marcha"
+
+msgid "April"
+msgstr "abril"
+
+msgid "May"
+msgstr "Mayo"
+
+msgid "June"
+msgstr "junio"
+
+msgid "July"
+msgstr "julio"
+
+msgid "August"
+msgstr "agosto"
+
+msgid "September"
+msgstr "setiembre"
+
+msgid "October"
+msgstr "octubre"
+
+msgid "November"
+msgstr "de noviembre"
+
+msgid "December"
+msgstr "diciembre"
+
+msgid "Password Reminder"
+msgstr "Recordatorio de contraseña"
+
+msgid "Log In"
+msgstr "Iniciar sesión"
+
+msgid "Sign in"
+msgstr "registrarse"
+
+msgid "Register"
+msgstr "Registro"
+
+msgid "First name"
+msgstr "Nombre de pila"
+
+msgid "Last name"
+msgstr "Apellido"
+
+msgid "I agree with rules"
+msgstr "Estoy de acuerdo con las normas"
+
+msgid "A confirmation mail was sent to your email address."
+msgstr "Un correo de confirmación fue enviado a su dirección de correo electrónico."
+
+msgid "Thanks"
+msgstr "Gracias"
+
+msgid "Password must be at least 6 characters"
+msgstr "La contraseña debe tener al menos 6 caracteres"
+
+msgid "Creative Environment"
+msgstr "Entorno creativo"
+
+msgid "You need to be at least thirteen years of age to use this service"
+msgstr "¡Tienes que ser al menos trece años de edad para utilizar este servicio"
+
+msgid "Order status"
+msgstr "estado de la orden"
+
+msgid "Processing order"
+msgstr "orden de procesamiento"
+
+msgid "Requires a payment"
+msgstr "Requiere un pago"
+
+msgid "Shipping"
+msgstr "Envío"
+
+msgid "Ready"
+msgstr "Listo"
+
+msgid "Thank you for your payment"
+msgstr "Gracias por su pago"
+
+msgid "Your payment has been cancelled"
+msgstr "Su pago se ha cancelado"
+
+msgid "page"
+msgstr "página"
+
+msgid "Rent period"
+msgstr "período de Renta"
+
+msgid "Total, month"
+msgstr "Total, meses"
+
+msgid "Order items"
+msgstr "artículos de la orden"
+
+msgid "No records found"
+msgstr "No se encontrarón archivos"
+
+msgid "User with this email is already exist"
+msgstr "Usuario con este correo electrónico es ya existen"
+
+msgid "Folder or file with such name is already exist in destination folder"
+msgstr "Carpeta o archivo con ese nombre ya está existen en la carpeta de destino"
+
+msgid "Minimal quantity"
+msgstr "Cantidad mínima"
+
+msgid "mob.spots"
+msgstr "mob.spots"
+
+msgid "stat.spots"
+msgstr "stat.spots"
+
+msgid "print copies"
+msgstr "copias de impresión"
+
+msgid "Terms of Use"
+msgstr "Condiciones de uso"
+
+msgid "Privacy Policy"
+msgstr "política de privacidad"
+
+msgid "Find project..."
+msgstr "Encuentra proyecto ..."
+
+msgid "New Project"
+msgstr "Nuevo proyecto"
+
+msgid "Accounts"
+msgstr "Cuentas"
+
+msgid "Operations"
+msgstr "Operaciones"
+
+msgid "All accounts"
+msgstr "Todas las cuentas"
+
+msgid "All categories"
+msgstr "Todas las categorías"
+
+msgid "Expense"
+msgstr "Gasto"
+
+msgid "Income"
+msgstr "Ingresos"
+
+msgid "Transfer"
+msgstr "Transferencia"
+
+msgid "Expense"
+msgstr "Gasto"
+
+msgid "income"
+msgstr "ingresos"
+
+msgid "tax"
+msgstr "impuesto"
+
+msgid "percent"
+msgstr "por ciento"
+
+msgid "transfer"
+msgstr "transferencia"
+
+msgid "Make operation"
+msgstr "Realiza la operación"
+
+msgid "Select date"
+msgstr "Seleccionar fecha"
+
+msgid "Select account"
+msgstr "Seleccione la cuenta"
+
+msgid "Month"
+msgstr "Mes"
+
+msgid "Quarter"
+msgstr "Trimestre"
+
+msgid "Year"
+msgstr "Año"
+
+msgid "From"
+msgstr "De"
+
+msgid "To"
+msgstr "A"
+
+msgid "Expense amount"
+msgstr "cantidad de gastos"
+
+msgid "Categories"
+msgstr "Categorías"
+
+msgid "Comments"
+msgstr "Comentarios"
+
+msgid "Income amount"
+msgstr "Monto de los ingresos"
+
+msgid "Transfer amount"
+msgstr "Monto de la transferencia"
+
+msgid "From account"
+msgstr "De la cuenta"
+
+msgid "To account"
+msgstr "A la cuenta"
+
+msgid "New Account"
+msgstr "Nueva cuenta"
+
+msgid "New Category"
+msgstr "Nueva categoría"
+
+msgid "All"
+msgstr "Todas"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Enter category name"
+msgstr "Introduzca nombre de la categoría"
+
+msgid "Select type"
+msgstr "Seleccione el tipo"
+
+msgid "Credit card"
+msgstr "Tarjeta de crédito"
+
+msgid "Debit card"
+msgstr "Tarjeta de debito"
+
+msgid "Bank account"
+msgstr "cuenta bancaria"
+
+msgid "Cash"
+msgstr "Efectivo"
+
+msgid "Balance is empty"
+msgstr "El equilibrio es vacía"
+
+msgid "Statistic is empty"
+msgstr "Estadística está vacía"
+
+msgid "Regular payments"
+msgstr "pagos regulares"
+
+msgid "Are you sure ?"
+msgstr "Estas seguro ?"
+
+msgid "Are you sure to close this project?"
+msgstr "¿Está seguro de cerrar este proyecto?"
+
+msgid "Project was deleted successfully"
+msgstr "Proyecto se ha eliminado correctamente"
+
+msgid "Select currency"
+msgstr "Seleccione la moneda"
+
+msgid "Account"
+msgstr "cuenta"
+
+msgid "Orders list"
+msgstr "lista de órdenes"
+
+msgid "Order payments"
+msgstr "pagos Solicitar"
+
+msgid "View order"
+msgstr "Ver pedido"
+
+msgid "No response from Printer API"
+msgstr "No hay respuesta del API de impresora"
+
+msgid "Bad response from Printer API"
+msgstr "Mala respuesta de API impresora"
+
+msgid "User ID"
+msgstr "ID de usuario"
+
+msgid "Contact Person"
+msgstr "Persona de contacto"
+
+msgid "No orders to process"
+msgstr "No hay pedidos para procesar"
+
+msgid "Article announce image"
+msgstr "Artículo anunciar imagen"
+
+msgid "Invalid video url. Leave blank or insert valid youtube url"
+msgstr "URL del video no es válido. Dejar en blanco o insertar url youtube válida"
+
+msgid "Please, enter Contractor data"
+msgstr "Por favor , introduzca los datos contratista"
+
+msgid "Distribute devices"
+msgstr "distribuir dispositivos"
+
+msgid "Quantity"
+msgstr "cantidad"
+
+msgid "Devices left"
+msgstr "Dispositivos dejaron"
+
+msgid "Distributed devices"
+msgstr "dispositivos distribuidos"
+
+msgid "You must enter quantity"
+msgstr "Debe ingresar la cantidad"
+
+msgid "All devices are distributed"
+msgstr "Todos los dispositivos están distribuidos"
+
+msgid "IP address"
+msgstr "dirección IP"
+
+msgid "Only for printer"
+msgstr "Sólo para la impresora"
+
+msgid "Counter"
+msgstr "Mostrador"
+
+msgid "You was excluded from this room"
+msgstr "Usted fue excluido de esta sala"
+
+msgid "Compare"
+msgstr "Comparar"
+
+msgid "Scheduled transaction"
+msgstr "transacción programada"
+
+msgid "Select transfer account"
+msgstr "Seleccionar cuenta de transferencia"
+
+msgid "Select income account"
+msgstr "Seleccione la cuenta de ingresos"
+
+msgid "Reports"
+msgstr "Informes"
+
+msgid "Goals"
+msgstr "Objetivos"
+
+msgid "Budgets"
+msgstr "presupuestos"
+
+msgid "Enter user name or email..."
+msgstr "Introduzca el nombre de usuario o correo electrónico ..."
+
+msgid "Invite had been sended"
+msgstr "Invitar había sended"
+
+msgid "Statistics"
+msgstr "Estadísticas"
+
+msgid "Updated site began to work"
+msgstr "Actualizado sitio comenzó a trabajar"
+
+msgid "City of residence"
+msgstr "Ciudad de residencia"
+
+msgid "Edit favourites list"
+msgstr "Editar lista de favoritos"
+
+msgid "Add favourites list"
+msgstr "Añade lista de favoritos"
+
+msgid "Categories is required"
+msgstr "Se requiere Categorías"
+
+msgid "Type new category name and hit Enter"
+msgstr "Escribir un nuevo nombre de la categoría y pulse Enter"
+
+msgid "You created an order"
+msgstr "Ha creado un pedido"
+
+msgid "You received a device due to this order"
+msgstr "Usted recibió un dispositivo debido a este fin"
+
+msgid "%s attached %s to task %s"
+msgstr "%s %s adjunta a la tarea %s"
+
+msgid "member(s)"
+msgstr "miembro ( s)"
+
+msgid "%s commented task %s"
+msgstr "%s %s tarea comentado"
+
+msgid "%s closed task %s"
+msgstr "%s %s tarea cerrada"
+
+msgid "%s created task %s"
+msgstr "%s %s tarea creada"
+
+msgid "%s created this project"
+msgstr "%s creado este proyecto"
+
+msgid "%s created subproject \"%s\""
+msgstr "%s subproyecto creado \"%s \""
+
+msgid "%s closed project \"%s\""
+msgstr "%s cerrado proyecto \" %s \""
+
+msgid "%s closed subproject \"%s\""
+msgstr "%s cerrado subproyecto \"%s \""
+
+msgid "This field must not be blank"
+msgstr "Este campo no debe estar en blanco"
+
+msgid "Document with such name is already exist"
+msgstr "Documento con tal nombre es ya existen"
+
+msgid "Wait until image upload"
+msgstr "Espere hasta que la carga de imágenes"
+
+msgid "Video"
+msgstr "Vídeo"
+
+msgid "Message can not be empty"
+msgstr "El mensaje no puede estar vacío"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "No"
+msgstr "No"
+
+msgid "Created"
+msgstr "creado"
+
+msgid "Compare is empty"
+msgstr "Compara está vacío"
+
+msgid "Are you sure you want to delete operation"
+msgstr "¿Seguro que quieres eliminar la operación"
+
+msgid "Do you really want to delete transaction"
+msgstr "¿De verdad quiere eliminar la transacción"
+
+msgid "Project with same name already exists"
+msgstr "Proyecto con el mismo nombre ya existe"
+
+msgid "Account is not found"
+msgstr "Cuenta no se encuentra"
+
+msgid "Currency is required"
+msgstr "Se requiere moneda"
+
+msgid "error while deleting document"
+msgstr "error al eliminar el documento"
+
+msgid "Expences"
+msgstr "Expences"
+
+msgid "You invited user \"%s\" in this room"
+msgstr "Has invitado a usuario \" %s \" en esta sala"
+
+msgid "User \"%s\" joined this room"
+msgstr "El usuario \"%s \" se unieron a esta sala"
+
+msgid "You excluded user \"%s\" from this room"
+msgstr "Usted excluidos por el usuario \"%s \" de esta sala"
+
+msgid "User \"%s\" left this room"
+msgstr "El usuario \"%s \" dejó esta sala"
+
+msgid "Add account"
+msgstr "Añadir cuenta"
+
+msgid "The requested page is not found"
+msgstr "La página solicitada no se encuentra"
+
+msgid "Document"
+msgstr "Documento"
+
+msgid "Table"
+msgstr "Mesa"
+
+msgid "file(s)"
+msgstr "archivo ( s )"
+
+msgid "Residue"
+msgstr "Residuos"
+
+msgid "Result is empty"
+msgstr "El resultado está vacía"
+
+msgid "The total amount is %s for %s mo"
+msgstr "El importe total es de%s para%s mo"
+
+msgid "You have to deposit %s monthly to related account"
+msgstr "Usted tiene que depositar %s mensual a la cuenta relacionada"
+
+msgid "Start"
+msgstr "Empezar"
+
+msgid "finish"
+msgstr "acabado"
+
+msgid "Selected account is already in use for another goal"
+msgstr "Cuenta seleccionada ya está en uso por otro gol"
+
+msgid "Amount required"
+msgstr "cantidad necesaria"
+
+msgid "New goal"
+msgstr "Nueva meta"
+
+msgid "Goal"
+msgstr "Meta"
+
+msgid "Goal name"
+msgstr "nombre del Meta"
+
+msgid "Invalid date"
+msgstr "Fecha invalida"
+
+msgid "Necessary sum must be a positive number"
+msgstr "Suma necesaria debe ser un número positivo"
+
+msgid "Remain"
+msgstr "Permanecer"
+
+msgid "Last day"
+msgstr "Último día"
+
+msgid "Accumulated"
+msgstr "Acumulado"
+
+msgid "Put aside"
+msgstr "Poner a un lado"
+
+msgid "January"
+msgstr "enero"
+
+msgid "February"
+msgstr "febrero"
+
+msgid "March"
+msgstr "marcha"
+
+msgid "April"
+msgstr "abril"
+
+msgid "May"
+msgstr "Mayo"
+
+msgid "June"
+msgstr "junio"
+
+msgid "July"
+msgstr "julio"
+
+msgid "August"
+msgstr "agosto"
+
+msgid "September"
+msgstr "setiembre"
+
+msgid "October"
+msgstr "octubre"
+
+msgid "November"
+msgstr "de noviembre"
+
+msgid "December"
+msgstr "diciembre"
+
+msgid "Expenses projected/actual"
+msgstr "Los gastos proyectados / reales"
+
+msgid "Net Income projected/actual"
+msgstr "Ingreso neto proyectado / real"
+
+msgid "New budget"
+msgstr "Nuevo presupuesto"
+
+msgid "Revenue and Expenses Chart"
+msgstr "Ingresos y Gastos Gráfico"
+
+msgid "Budget with same pair of account and category already exists"
+msgstr "Presupuesto con mismo par de cuenta y la categoría ya existe"
+
+msgid "Budget is empty"
+msgstr "Presupuesto está vacío"
+
+msgid "Budget"
+msgstr "Presupuesto"
+
+msgid "plan"
+msgstr "plan"
+
+msgid "fact"
+msgstr "hecho"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "Show More"
+msgstr "Mostrar más"
+
+msgid "Cancel"
+msgstr "cancelar"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "My sales"
+msgstr "Mis ventas"
+
+msgid "Time spent"
+msgstr "Tiempo gastado"
+
+msgid "Total time spent"
+msgstr "Tiempo total consumido"
+
+msgid "Earnings per hour"
+msgstr "Las ganancias por hora"
+
+msgid "Total earnings"
+msgstr "Ganancias Totales"
+
+msgid "Call"
+msgstr "Llamada"
+
+msgid "Phone call"
+msgstr "Llamada telefónica"
+
+msgid "Telephone calls"
+msgstr "Llamadas telefónicas"
+
+msgid "Send email"
+msgstr "Enviar correo electrónico"
+
+msgid "Emails"
+msgstr "Los correos electrónicos"
+
+msgid "Meeting"
+msgstr "Cita"
+
+msgid "Meetings"
+msgstr "Reuniones"
+
+msgid "All events"
+msgstr "Todos los eventos"
+
+msgid "Task"
+msgstr "Tarea"
+
+msgid "Event"
+msgstr "Evento"
+
+msgid "Events"
+msgstr "Eventos"
+
+msgid "Time"
+msgstr "Hora"
+
+msgid "Events statistics"
+msgstr "Eventos estadísticas"
+
+msgid "days"
+msgstr "día"
+
+msgid "hours"
+msgstr "horas"
+
+msgid "minutes"
+msgstr "minutos"
+
+msgid "Income & expense"
+msgstr "Ingresos y gastos"
+
+msgid "Show chart"
+msgstr "Mostrar tabla"
+
+msgid "Hide chart"
+msgstr "Ocultar tabla"
+
+msgid "Add event"
+msgstr "Añadir evento"
+
+msgid "Add financial data"
+msgstr "Añadir datos financieros"
+
+msgid "Select contractor"
+msgstr "Seleccione contratista"
+
+msgid "Net Income"
+msgstr "Ingreso neto"
+
+msgid "Revenue"
+msgstr "ingresos"
+
+msgid "Taxes"
+msgstr "impuestos"
+
+msgid "Amount planned"
+msgstr "importe previsto"
+
+msgid "Amount"
+msgstr "Cantidad"
+
+msgid "Period"
+msgstr "periodo"
+
+msgid "Are you sure to close this task?"
+msgstr "¿Está seguro de cerrar esta tarea?"
+
+msgid "(Сlosed)"
+msgstr "( Сlosed )"
+
+msgid "All groups"
+msgstr "Todos los grupos"
+
+msgid "added from task"
+msgstr "añadida por tarea"
+
+msgid "Monthly repeat"
+msgstr "repita mensual"
+
+msgid "Select category"
+msgstr "Selecciona una categoría"
+
+msgid "Event type"
+msgstr "Tipo de evento"
+
+msgid "Margin"
+msgstr "Margen"
+
+msgid "Use finance project"
+msgstr "Utilice Project Finance"
+
+msgid "New investment project"
+msgstr "Nuevo proyecto de inversión"
+
+msgid "Investment project settings"
+msgstr "Configuración del proyecto de inversión"
+
+msgid "Picture, for the announcement project"
+msgstr "Imagen, para el proyecto de anuncio"
+
+msgid "Announcement project"
+msgstr "proyecto Anuncio"
+
+msgid "Video"
+msgstr "Vídeo"
+
+msgid "Photos or videos gallery"
+msgstr "Fotos o videos galeria"
+
+msgid "required amount"
+msgstr "cantidad requerida"
+
+msgid "Project duration (60 days maximum)"
+msgstr "Duración del proyecto ( 60 días máximo)"
+
+msgid "Project duration"
+msgstr "Duración del proyecto"
+
+msgid "Add reward"
+msgstr "Añadir recompensa"
+
+msgid "Delivery date"
+msgstr "Fecha de entrega"
+
+msgid "Payment systems"
+msgstr "Los sistemas de pago"
+
+msgid "Terms of service"
+msgstr "Términos de Servicio"
+
+msgid "Agreement"
+msgstr "Acuerdo"
+
+msgid "Payment"
+msgstr "Pago"
+
+msgid "My projects"
+msgstr "Mis proyectos"
+
+msgid "Search result"
+msgstr "Resultado de búsqueda"
+
+msgid "Nothing not found"
+msgstr "Nada que no se encuentra"
+
+msgid "The project has no sponsors"
+msgstr "El proyecto no tiene patrocinadores"
+
+msgid "Design"
+msgstr "Diseño"
+
+msgid "Food"
+msgstr "Alimentos"
+
+msgid "Journalism"
+msgstr "Periodismo"
+
+msgid "Games"
+msgstr "Juegos"
+
+msgid "Art"
+msgstr "Arte"
+
+msgid "Сomics"
+msgstr "Сomics"
+
+msgid "Music"
+msgstr "Música"
+
+msgid "Handicrafts"
+msgstr "Artesanías"
+
+msgid "Publishing"
+msgstr "Publishing"
+
+msgid "Theater"
+msgstr "Teatro"
+
+msgid "Technology"
+msgstr "Tecnología"
+
+msgid "Film/Video"
+msgstr "Cine / Video"
+
+msgid "Photo"
+msgstr "foto"
+
+msgid "Dance"
+msgstr "Baile"
+
+msgid "Invalid youtube video"
+msgstr "Inválido video de youtube"
+
+msgid "is required"
+msgstr "es requerido"
+
+msgid "User"
+msgstr "usuario"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Collected"
+msgstr "Recogido"
+
+msgid "Choose period"
+msgstr "Elija periodo"
+
+msgid "Choose region"
+msgstr "Elige una región"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Today"
+msgstr "Este Dia"
+
+msgid "Week"
+msgstr "Semana"
+
+msgid "Month"
+msgstr "Mes"
+
+msgid "Year"
+msgstr "Año"
+
+msgid "Free registration"
+msgstr "Registro gratis"
+
+msgid "Join"
+msgstr "Unirse"
+
+msgid "Log in using"
+msgstr "Entrar usando"
+
+msgid "Vacancies"
+msgstr "Oportunidades de empleo"
+
+msgid "About Us"
+msgstr "Acerca de nosotros"
+
+msgid "You will need email to log in"
+msgstr "Usted necesitará de correo electrónico para iniciar sesión"
+
+msgid "A combination of 6 digits and characters"
+msgstr "Una combinación de 6 dígitos y caracteres"
+
+msgid "Search users, groups, articles..."
+msgstr "Buscar usuarios , grupos , artículos ..."
+
+msgid "Cloud"
+msgstr "Nube"
+
+msgid "Sunday"
+msgstr "domingo"
+
+msgid "Monday"
+msgstr "lunes"
+
+msgid "Tuesday"
+msgstr "martes"
+
+msgid "Wednesday"
+msgstr "miércoles"
+
+msgid "Thursday"
+msgstr "jueves"
+
+msgid "Friday"
+msgstr "viernes"
+
+msgid "Saturday"
+msgstr "sábado"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Create group"
+msgstr "Crea un grupo"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "¿Seguro que quieres salir de esta página?"
+
+msgid "More"
+msgstr "Más"
+
+msgid "Less"
+msgstr "Menos"
+
+msgid "Pending"
+msgstr "Pendiente"
+
+msgid "Approved"
+msgstr "Aprobado"
+
+msgid "Rejected"
+msgstr "Rechazado"
+
+msgid "Subprojects"
+msgstr "Subproyectos"
+
+msgid "Group edit"
+msgstr "editar Grupo"
+
+msgid "Startup"
+msgstr "Puesta en marcha"
+
+msgid "Tattoo"
+msgstr "Tatuaje"
+
+msgid "Health"
+msgstr "Salud"
+
+msgid "Weapon"
+msgstr "Arma"
+
+msgid "Astronomy"
+msgstr "Astronomía"
+
+msgid "All articles"
+msgstr "Todos los artículos"
+
+msgid "Article editor"
+msgstr "editor de artículo"
+
+msgid "Document editor"
+msgstr "redactor del documento"
+
+msgid "Apply changes"
+msgstr "Aplicar cambios"
+
+msgid "Save changes?"
+msgstr "¿Guardar Cambios?"
+
+msgid "published an article"
+msgstr "publicó un artículo"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "Shared With Me"
+msgstr "Comparte conmigo"
+
+msgid "share"
+msgstr "compartir"
+
+msgid "Select Group Responsible"
+msgstr "Seleccione Grupo Responsable"
+
+msgid "Create folder"
+msgstr "Crear carpeta"
+
+msgid "Title must be at least 3 characters"
+msgstr "El título debe ser al menos de 3 caracteres"
+
+msgid "Free 10 GB, finance manager, invest module, and many other for free and forever"
+msgstr "Libre de 10 GB , gerente de finanzas , invertir módulo, y muchos otros de forma gratuita y para siempre"
+
+msgid "Best regards"
+msgstr "Atentamente"
+
+msgid "Updates in last 12 hours:"
+msgstr "Actualizaciones en últimas 12 horas :"
+
+msgid "expense"
+msgstr "gastos"
+
+msgid "Commentary on the event:"
+msgstr "Comentario sobre el evento :"
+
+msgid "Event place"
+msgstr "lugar del evento"
+
+msgid "Project was updated"
+msgstr "Proyecto fue actualizado"
+
+msgid "Project was created"
+msgstr "Proyecto fue creado"
+
+msgid "Project was closed"
+msgstr "Proyecto se cerró"
+
+msgid "account"
+msgstr "cuenta"
+
+msgid "removed task"
+msgstr "tarea eliminado"
+
+msgid "removed subproject"
+msgstr "subproyecto eliminado"
+
+msgid "Title can not be empty"
+msgstr "El título no puede estar vacío"
+
+msgid "Do not select the type of event"
+msgstr "No seleccione el tipo de evento"
+
+msgid "Error while saving comment"
+msgstr "Error al guardar comentario"
+
+msgid "Save error: access denied"
+msgstr "Ahorre error: acceso denegado"
+
+msgid "Remains"
+msgstr "Permanece"
+
+msgid "Time spent, h."
+msgstr "El tiempo dedicado , h ."
+
+msgid "Emails"
+msgstr "Los correos electrónicos"
+
+msgid "Meetings"
+msgstr "Reuniones"
+
+msgid "All users"
+msgstr "Todos los usuarios"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "Finance project"
+msgstr "Financiamiento de Proyectos"
+
+msgid "Investment project"
+msgstr "proyecto de inversión"
+
+msgid "Nature"
+msgstr "Naturaleza"
+
+msgid "Data is empty"
+msgstr "Datos está vacía"
+
+msgid "Visitors"
+msgstr "Visitantes"
+
+msgid "My profile"
+msgstr "Mi perfil"
+
+msgid "Sponsors"
+msgstr "patrocinadores"
+
+msgid "Prior to completion"
+msgstr "Antes de la finalización"
+
+msgid "Select"
+msgstr "Seleccionar"
+
+msgid "My groups"
+msgstr "Mis grupos"
+
+msgid "The invitation has been sent successfully"
+msgstr "La invitación ha sido enviada correctamente"
+
+msgid "Username has already been invited to this project"
+msgstr "Nombre de usuario ya ha sido invitado a este proyecto"
+
+msgid "The user is the creator of the project"
+msgstr "El usuario es el creador del proyecto"
+
+msgid "Provide full access"
+msgstr "Proporcionar acceso completo"
+
+msgid "Select elements to provide access"
+msgstr "Seleccionar elementos para facilitar el acceso"
+
+msgid "Select all"
+msgstr "Seleccionar todo"
+
+msgid "User E-mail"
+msgstr "Usuario E -mail"
+
+msgid "Click on the field to select a category"
+msgstr "Haga clic en el campo para seleccionar una categoría"
+
+msgid "Invitation was deleted"
+msgstr "Se suprimió la invitación"
+
+msgid "Permission denied"
+msgstr "Permiso denegado"
+
+msgid "Printed"
+msgstr "Impreso"
+
+msgid "Incorrect Contractor email"
+msgstr "Incorrecta de correo electrónico Contratista"
+
+msgid "Do you want to add project to finance manager?"
+msgstr "¿Quieres añadir proyecto para financiar gerente?"
+
+msgid "To complete the registration process please fill down your skills"
+msgstr "Para completar el proceso de registro por favor llene tus habilidades"
+
+msgid "An mail with further instructions was sent to your email address"
+msgstr "Un correo electrónico con más instrucciones fue enviada a su e-mail"
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "Cars"
+msgstr "Carros"
+
+msgid "Science"
+msgstr "Ciencia"
+
+msgid "Donation"
+msgstr "Donación"
+
+msgid "Interests"
+msgstr "Intereses"
+
+msgid "Driver"
+msgstr "Conductor"
+
+msgid "Sportsman"
+msgstr "Deportista"
+
+msgid "Businessman"
+msgstr "Empresario"
+
+msgid "Accountant"
+msgstr "Contador"
+
+msgid "Engineer"
+msgstr "Ingeniero"
+
+msgid "Soldier"
+msgstr "Soldado"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Hide group"
+msgstr "Ocultar grupo"
+
+msgid "groups created"
+msgstr "grupos creados"
+
+msgid "articles written"
+msgstr "artículos escritos"
+
+msgid "These groups may be interesting for you"
+msgstr "Estos grupos pueden ser de interés para usted"
+
+msgid "About Group"
+msgstr "Acerca de Grupo"
+
+msgid "view(s)"
+msgstr "vista (s )"
+
+msgid "Favorite users"
+msgstr "usuarios favoritos"
+
+msgid "No accounts"
+msgstr "No hay cuentas"
+
+msgid "Facebook authorization failed."
+msgstr "Autorización Facebook falló."
+
+msgid "Authorization Required"
+msgstr "Autorización requerida"
+
+msgid "You have to make a call:"
+msgstr "Usted tiene que hacer una llamada:"
+
+msgid "You have to send an email:"
+msgstr "Usted tiene que enviar un correo electrónico :"
+
+msgid "You have a meetup:"
+msgstr "Usted tiene un Meetup :"
+
+msgid "You event :"
+msgstr "Usted evento :"
+
+msgid "Participants:"
+msgstr "participantes:"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "News"
+msgstr "Noticias"
+
+msgid "Investments"
+msgstr "Inversiones"
+
+msgid "Back to Cloud"
+msgstr "Volver a la Nube"
+
+msgid "Documents"
+msgstr "Documentos"
+
+msgid "Planet"
+msgstr "Planeta"
+
+msgid "Group url"
+msgstr "url Grupo"
+
+msgid "Profile url"
+msgstr "Perfil url"
+
+msgid "Already taken"
+msgstr "Ya apartadas"
+
+msgid "At least 1 letter and 3 chars length required"
+msgstr "Al menos 1 letra y 3 caracteres longitud requerida"
+
+msgid "Digit can not be the first character"
+msgstr "Dígito no puede ser el primer carácter"
+
+msgid "Enter valid email address"
+msgstr "Introduzca la dirección de correo electrónico válida"
+
+msgid "Enter your skills"
+msgstr "Introduzca sus habilidades"
+
+msgid "Enter your first name"
+msgstr "Ingresa tu primer nombre"
+
+msgid "Enter your last name"
+msgstr "Ingrese su apellido"
+
+msgid "Enter your first name and last name"
+msgstr "Ingrese su nombre y apellido"
+
+msgid "Your first name?"
+msgstr "¿Su nombre?"
+
+msgid "Your last name?"
+msgstr "¿Tu apellido?"
+
+msgid "What are your proficiencies?"
+msgstr "¿Cuáles son sus competencias ?"
+
+msgid "Select country"
+msgstr "Selecciona el país"
+
+msgid "Select user"
+msgstr "Seleccionar usuario"
+
+msgid "Fulfill your dream! Create and Collaborate."
+msgstr "Cumple tu sueño! Crear y colaborar ."
+
+msgid "date moved from"
+msgstr "fecha se trasladó desde"
+
+msgid "work"
+msgstr "trabajo"
+
+msgid "Conference"
+msgstr "Conferencia"
+
+msgid "personal"
+msgstr "personal"
+
+msgid "Holiday"
+msgstr "Fiesta"
+
+msgid "Past"
+msgstr "Que han pasado"
+
+msgid "Future"
+msgstr "Futuros"
+
+msgid "Purchase"
+msgstr "La compra"
+
+msgid "Personal events"
+msgstr "Los acontecimientos personales"
+
+msgid "Conferences"
+msgstr "Las conferencias"
+
+msgid "Holidays"
+msgstr "Las fiestas"
+
+msgid "Sport events"
+msgstr "Los acontecimientos deportivos"
+
+msgid "Tasks"
+msgstr "Las tareas"
+
+msgid "Other events"
+msgstr "Otros acontecimientos"
+
+msgid "Set aside"
+msgstr "Aplazar"
+
+msgid "Set aside"
+msgstr "Aplazado"
+
+msgid "Time management"
+msgstr "El tiempo el management"
+
+msgid "Delayed events"
+msgstr "Los acontecimientos aplazados"
+
+msgid "Delayed"
+msgstr "Aplazado"
+
+msgid "Bind to"
+msgstr "Vincular con"
+
+msgid "answered your comment to"
+msgstr "Ha respondido a su comentario del artículo"
+
+msgid "commented your article"
+msgstr "Ha comentado su artículo"
+
+msgid "You\'ve answered on comment to"
+msgstr "Habéis respondido al comentario del artículo"
+
+msgid "You\'ve commented an article"
+msgstr "Habéis comentado el artículo"
+
+msgid "Terms and Conditions"
+msgstr "Por las condiciones del uso"
+
+msgid "Privacy Policy"
+msgstr "Por la política de la confidencialidad"
+
+msgid "By clicking on the \"Join\" button, you are accepting and agreeing with our and you are acknowledging that you have read"
+msgstr "Habiendo presionado el botón \"Juntar\", consentís con nuestros y confirmáis que se han puesto al corriente de nuestra"
+
+msgid "Join our community of creative individuals from all around the globe! You will receive: an investment toward your idea, an opportunity to organize your own team, a job in your group, a financial manager, an ability to manage your own time, 2 gigabytes worth of memory in your storage, and much more... All for free!"
+msgstr "¡Se junten a la comunidad de las personas creativas de todo el planeta! Reciban: las inversiones en sus ideas, la posibilidad de recoger la orden, el trabajo en el grupo, el manager financiero, la dirección del tiempo, 2 gigabytes en el depósito y mucho otro. ¡Y todo esto gratis!"
+
+msgid "Sorry, the page you are looking for does not exist. If you believe this problem is caused by us, please feel free to - send us a message."
+msgstr "Perdonen, pero la página, que buscáis, no existe. Si contáis que en todo somos culpables escriban"
+
+msgid "Return"
+msgstr "Volver atrás"
+
+msgid "COMMON"
+msgstr "General"
+
+msgid "My events"
+msgstr "Mis acontecimientos"
+
+msgid "Job opening"
+msgstr "Un nuevo vacante"
+
+msgid "Employment"
+msgstr "El tipo del empleo"
+
+msgid "Working hours"
+msgstr "El gráfico del trabajo"
+
+msgid "City"
+msgstr "La ciudad"
+
+msgid "Wages"
+msgstr "El salario"
+
+msgid "Currency"
+msgstr "La divisa"
+
+msgid "Experience"
+msgstr "La experiencia"
+
+msgid "Full-time"
+msgstr "El pleno empleo"
+
+msgid "Part-time"
+msgstr "El empleo parcial"
+
+msgid "Project employment"
+msgstr "De proyectos/trabajo temporal"
+
+msgid "Volunteer"
+msgstr "Voluntariado"
+
+msgid "Internship"
+msgstr "La pasantía"
+
+msgid "Full day"
+msgstr "El día completo"
+
+msgid "Shifts"
+msgstr "El gráfico de recambio"
+
+msgid "Flexible shifts"
+msgstr "El horario flexible"
+
+msgid "Remote work"
+msgstr "El trabajo alejado"
+
+msgid "Rotational basis"
+msgstr "El método de cambio"
+
+msgid "Do you really want to delete this comment?"
+msgstr "¿Queréis quitar realmente el comentario?"
+
+msgid "Do you really want to delete this task?"
+msgstr "¿Queréis quitar realmente esta tarea?"
+
+msgid "Do you really want to delete this subproject?"
+msgstr "¿Queréis quitar realmente este подпроект?"
+
+msgid "You applied to on the job. Please make sure your"
+msgstr "Habéis dado la demanda en la compañía al vacante. Se persuadan por favor que"
+
+msgid "Your request to for job has been rejected"
+msgstr "Su demanda en la compañía al vacante era declinada"
+
+msgid "Your request to for job has been accepted"
+msgstr "Su demanda en la compañía al vacante era aceptada"
+
+msgid "profile is completed"
+msgstr "Su perfil es rellenado"
+
+msgid "Use account"
+msgstr "Usar la cuenta"
+
+msgid "$/hr"
+msgstr "$ / la hora"
+
+msgid "Finance category"
+msgstr "La categoría financiera"
+
+msgid "No projects"
+msgstr "No hay proyectos"
+
+msgid "Bind to finances"
+msgstr "Vincular al proyecto financiero"
+
+msgid "Preview"
+msgstr "Ver"
+
+msgid "Download"
+msgstr "Bajar"
+
+msgid "Save to my cloud"
+msgstr "Copiar en el depósito"
+
+msgid "File successfully saved to your cloud"
+msgstr "El fichero es con éxito conservado en su depósito"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "¿Conservar este fichero en su depósito?"
+
+msgid "Do you want to save this file to your cloud?"
+msgstr "Escojan la categoría del artículo"
+
+msgid "Type something"
+msgstr "Escriban algo"
+
+msgid "Founded users"
+msgstr "Los usuarios encontrados"
+
+msgid "Founded articles"
+msgstr "Los artículos encontrados"
+
+msgid "Founded groups"
+msgstr "Los grupos encontrados"
+
+msgid "What are your skills?"
+msgstr "¿Que las prácticas a Ud?"
+
+msgid "Select at least 2 interests"
+msgstr "Escojan el mínimo 2 intereses"
+
+msgid "Need more interests"
+msgstr "Insuficientemente intereses escogidos"
+
+msgid "What are you interesting in?"
+msgstr "¿Que le es interesante?"
+
+msgid "You have no dialogs"
+msgstr "No tenéis diálogos"
+
+msgid "Usage Stats"
+msgstr "El estado"
+
+msgid "Founded files"
+msgstr "Los ficheros encontrados"
+
+msgid "Big tiles"
+msgstr "La baldosa grande"
+
+msgid "Small tiles"
+msgstr "La baldosa pequeña"
+
+msgid "Table view"
+msgstr "El tipo tabular"
+
+msgid "Root folder"
+msgstr "El catálogo radical"
+
+msgid "My files"
+msgstr "Mis ficheros"
+
+msgid "Save as draft"
+msgstr "Conservar como el borrador"
+
+msgid "Buy More Space"
+msgstr "Comprar es más grandes que el espacio"
+
+msgid "Buy"
+msgstr "Comprar"
+
+msgid "You have been invited to group as"
+msgstr "Le han invitado en el grupo en el papel"
+
+msgid "User wants to join your group"
+msgstr "El usuario desea entrar en su grupo"
+
+msgid "Section is coming soon!"
+msgstr "¡La sección en la elaboración!"
+
+msgid "Shared"
+msgstr "Usado en conjunción"
+
+msgid "Views in last 24 hours:"
+msgstr "De las presentaciones en últimas 24 horas:"
+
+msgid "Task was updated"
+msgstr "La tarea era renovada"
+
+msgid "Task was closed"
+msgstr "La tarea era cerrada"
+
+msgid "Task was created"
+msgstr "La tarea era creada"
+
+msgid "Current balance"
+msgstr "El equilibrio corriente"
+
+msgid "Add funds"
+msgstr "Completar"
+
+msgid "Pay"
+msgstr "Pagar"
+
+msgid "Too much login attempts. You are blocked for 15 minutes"
+msgstr "Es superada la cantidad de las tentativas de la entrada. Sois bloqueados para 15 minutos"
+
+msgid "Please confirm your e-mail. Confirmation email has been sent to your mailbox."
+msgstr "Confirmen por favor su e-mail. La carta le es enviada a los correos."
+
+msgid "Resend confirmation email"
+msgstr "Enviar la confirmación una vez más"
+
+msgid "Disk 2Gb Monthly"
+msgstr "El disco 2GB mensualmente"
+
+msgid "Disk 10Gb Monthly"
+msgstr "El disco 10GB anualmente"
+
+msgid "Disk 100Gb Yearly"
+msgstr "El disco 100GB anualmente"
+
+msgid "Disk 1Tb Monthly"
+msgstr "El disco 1GB mensualmente"
+
+msgid "Disk 1Tb Yearly"
+msgstr "El disco 1GB anualmente"
+
+msgid "Project members monthly"
+msgstr "De los participantes de los proyectos mensualmente"
+
+msgid "Project members yearly"
+msgstr "De los participantes de los proyectos anualmente"
+
+msgid "Member(s) yearly"
+msgstr "Los participantes anualmente"
+
+msgid "Member(s) monthly"
+msgstr "Los participantes mensualmente"
+
+msgid "Authorized"
+msgstr "Es autorizada"
+
+msgid "Authorization expired"
+msgstr "La autorización ha cumplido"
+
+msgid "Processor declined"
+msgstr "Es declinada процессиногвой por el sistema"
+
+msgid "Gateway rejected"
+msgstr "Es declinada por la esclusa de paga"
+
+msgid "Failed"
+msgstr "La falta"
+
+msgid "Voided"
+msgstr "Es anulada"
+
+msgid "Submitted for settlement"
+msgstr "Es enviada a la inscripción"
+
+msgid "Settlement declined"
+msgstr "La inscripción es declinada"
+
+msgid "Settlement pending"
+msgstr "Espera la inscripción"
+
+msgid "Verified"
+msgstr "Es comprobado"
+
+msgid "Pending"
+msgstr "Espera"
+
+msgid "Active"
+msgstr "Es activa"
+
+msgid "Past Due"
+msgstr "Es caducada"
+
+msgid "Expired"
+msgstr "Ha acabado"
+
+msgid "Marketer"
+msgstr "El especialista en marketing"
+
+msgid "India"
+msgstr "India"
+
+msgid "Malaysia"
+msgstr "Malasia"
+
+msgid "Thailand"
+msgstr "Tailandia"
+
+msgid "South Korea"
+msgstr "Corea del Sur"
+
+msgid "Kazakhstan"
+msgstr "Kazajistán"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Ukraine"
+msgstr "Ucrania"
+
+msgid "Belarus"
+msgstr "Belarús"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Turkey"
+msgstr "Turquía"
+
+msgid "Armenia"
+msgstr "Arménia"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Poland"
+msgstr "Polonia"
+
+msgid "Germany"
+msgstr "Alemania"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Netherlands"
+msgstr "Países Bajos"
+
+msgid "Ireland"
+msgstr "Irlanda"
+
+msgid "United Kingdom"
+msgstr "Gran Bretaña"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Norway"
+msgstr "Noruega"
+
+msgid "United States"
+msgstr "EE UU"
+
+msgid "Canada"
+msgstr "Canadá"
+
+msgid "Brazil"
+msgstr "Brasil"
+
+msgid "Saudi Arabia"
+msgstr "La Arabia Saudí"
+
+msgid "Canada"
+msgstr "Egipto"
+
+msgid "Russia"
+msgstr "Rusia"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "There was no any transactions yet."
+msgstr "En el momento actual no era ni una transacción"
+
+msgid "Fulfill your dream"
+msgstr "Cumplir su sueño"
+
+msgid "Join our community of creative individuals from all around the globe."
+msgstr "Únete a nuestra comunidad de personas creativas de todo el mundo."
+
+msgid "Create and Collaborate"
+msgstr "Crear y Colaborar"
+
+msgid "Fulfill your dream"
+msgstr "CUMPLIR EL SUEÑO CON EMPRESA"
+
+msgid "or"
+msgstr "o"
+
+msgid "Our mission:"
+msgstr "Nuestra misión:"
+
+msgid "To unite creative and active people to implement ideas from simple and in demand to incredible and fantastic, that can shape our future."
+msgstr "Para unir a las personas creativas y activas para poner en práctica las ideas de lo simple y en demanda increíble y fantástico, que puede dar forma a nuestro futuro."
+
+msgid "What is Konstruktor?"
+msgstr "¿Cuál es Konstruktor?"
+
+msgid "Konstruktor - is a part of our real life, which significantly facilitates and simplifies"
+msgstr "Konstruktor - es una parte de nuestra vida real, lo que facilita y simplifica significativamente"
+
+msgid "*business processes"
+msgstr "*Procesos de negocios"
+
+msgid "*materialization of creative ideas"
+msgstr "* materialización de ideas creativas"
+
+msgid "*constructive cooperation"
+msgstr "* cooperación constructiva"
+
+msgid "Make your dream!"
+msgstr "Haga su sueño!"
+
+msgid "Vlad Krishtop"
+msgstr "Vlad Krishtop"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Yuriy Chekalenko"
+msgstr "Yuriy Chekalenko"
+
+msgid "Special Advisor"
+msgstr "Asesor Especial"
+
+msgid "Yaroslav Eroshenko"
+msgstr "Yaroslav Eroshenko"
+
+msgid "Manager, Software Development"
+msgstr "Gerente de Desarrollo de Software"
+
+msgid "Svetlana Kamyshanskaya"
+msgstr "Svetlana Kamyshanskaya"
+
+msgid "Senior lawyer"
+msgstr "Abogado senior"
+
+msgid "Yuriy Himka"
+msgstr "Yuriy Himka"
+
+msgid "Designer"
+msgstr "Diseñador"
+
+msgid "By clicking on the \"Next\" button, you are accepting and agreeing with our Terms and Conditions, and you are acknowledging that you have read our Privacy Policy."
+msgstr "Al hacer clic en el botón \"Siguiente\", usted está aceptando y estando de acuerdo con nuestros términos y condiciones, y usted reconoce que ha leído nuestra política de privacidad."
+
+msgid "Incorrect login or password."
+msgstr "Usuario o contraseña incorrecta."
+
+msgid "Password must be at least 6 characters"
+msgstr "La contraseña debe tener al menos 6 caracteres"
+
+msgid "January"
+msgstr "enero"
+
+msgid "February"
+msgstr "febrero"
+
+msgid "March"
+msgstr "marzo"
+
+msgid "April"
+msgstr "abril"
+
+msgid "May"
+msgstr "Mayo"
+
+msgid "June"
+msgstr "junio"
+
+msgid "July"
+msgstr "julio"
+
+msgid "August"
+msgstr "agosto"
+
+msgid "September"
+msgstr "septiembre"
+
+msgid "October"
+msgstr "octubre"
+
+msgid "November"
+msgstr "noviembre"
+
+msgid "December"
+msgstr "diciembre"
+
+msgid "Chat"
+msgstr "Charla"
+
+msgid "Files"
+msgstr "Archivos"
+
+msgid "Statistic"
+msgstr "Estadística"
+
+msgid "Support"
+msgstr "Apoyo"
+
+msgid "Exit"
+msgstr "Salida"
+
+msgid "Brest"
+msgstr "Brest"
+
+msgid "Belarus"
+msgstr "Bielorrusia"
+
+msgid "Marketing specialist"
+msgstr "Especialista en marketing"
+
+msgid "Administrator"
+msgstr "Administrador"
+
+msgid "Shared with me"
+msgstr "Comparte conmigo"
+
+msgid "File Sharing"
+msgstr "Compartición de archivos"
+
+msgid "Provide access by link"
+msgstr "Proporcionar acceso de enlace"
+
+msgid "Provide Individual access"
+msgstr "Proporcionar acceso individual"
+
+msgid "Provide edit access"
+msgstr "Proporcionar acceso de edición"
+
+msgid "Share"
+msgstr "Compartir"
+
+msgid "Files will be available only for selected users"
+msgstr "Los archivos estarán disponibles sólo para los usuarios seleccionados"
+
+msgid "With this link everyone can access to the files"
+msgstr "Con este vincula todo el mundo puede acceder a los archivos"
+
+msgid "Search users, groups, articles..."
+msgstr "Buscar usuarios, grupos, artículos ..."
+
+msgid "My Group"
+msgstr "Mi grupo"
+
+msgid "Mo"
+msgstr "Mes"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "Nosotros"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "The file is not selected"
+msgstr "El archivo no se selecciona"
+
+msgid "Set aside"
+msgstr "Dejar de lado"
+
+msgid "Event time"
+msgstr "Hora del evento"
+
+msgid "Work"
+msgstr "Trabajo"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Time spent for work:"
+msgstr "El tiempo empleado para el trabajo:"
+
+msgid "Personal time spent:"
+msgstr "Tiempo personal consumido:"
+
+msgid "Present"
+msgstr "Presente"
+
+msgid "Common"
+msgstr "Común"
+
+msgid "Sport"
+msgstr "Deporte"
+
+msgid "Entertainment"
+msgstr "Entretenimiento"
+
+msgid "Select:"
+msgstr "Seleccionar:"
+
+msgid "Invalid username or password."
+msgstr "Usuario o contraseña invalido."
+
+msgid "Try again."
+msgstr "Inténtalo de nuevo."
+
+msgid "WHAT ARE YOU INTERESTED IN?"
+msgstr "¿EN QUE ESTAS INTERESADO?"
+
+msgid "Select at least 2 skills: remains 2"
+msgstr "Seleccione al menos 2 habilidades: permanece 2"
+
+msgid "Select at least 2 skills: remains 1"
+msgstr "Seleccione al menos 2 habilidades: queda 1"
+
+msgid "Select at least 2 skills: remains"
+msgstr "Seleccione al menos 2 habilidades: restos"
+
+msgid "Active life"
+msgstr "Vida activa"
+
+msgid "Arts and culture"
+msgstr "arte y Cultura"
+
+msgid "Business"
+msgstr "Negocio"
+
+msgid "Cinema"
+msgstr "Cine"
+
+msgid "Communications"
+msgstr "Comunicaciones"
+
+msgid "Construction and repair"
+msgstr "Construcción y reparación"
+
+msgid "Cooking"
+msgstr "Cocina"
+
+msgid "Education"
+msgstr "Educación"
+
+msgid "Electronics"
+msgstr "Electrónica"
+
+msgid "Finances"
+msgstr "Finanzas"
+
+msgid "Graphics and design"
+msgstr "Gráficos y diseño"
+
+msgid "Health"
+msgstr "Salud"
+
+msgid "Home and family"
+msgstr "Hogar y Familia"
+
+msgid "Humor"
+msgstr "Humor"
+
+msgid "IT"
+msgstr "ELLO"
+
+msgid "Industry"
+msgstr "Industria"
+
+msgid "Insurance"
+msgstr "Seguro"
+
+msgid "Literature"
+msgstr "Literatura"
+
+msgid "Mobile communications and internet"
+msgstr "Las comunicaciones móviles e Internet"
+
+msgid "News and Media"
+msgstr "Noticias y medios"
+
+msgid "Pets"
+msgstr "Mascotas"
+
+msgid "Products and service"
+msgstr "Productos y servicios"
+
+msgid "Real Estate"
+msgstr "Bienes raíces"
+
+msgid "Religion"
+msgstr "Religión"
+
+msgid "Science and techs"
+msgstr "Ciencia y técnicos"
+
+msgid "Security"
+msgstr "Seguridad"
+
+msgid "Society"
+msgstr "Sociedad"
+
+msgid "Television"
+msgstr "Televisión"
+
+msgid "Travel"
+msgstr "viajar"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Belarus"
+msgstr "Bielorrusia"
+
+msgid "Belgium"
+msgstr "Bélgica"
+
+msgid "Brazil"
+msgstr "Brasil"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Canada"
+msgstr "Canadá"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Denmark"
+msgstr "Dinamarca"
+
+msgid "France"
+msgstr "Francia"
+
+msgid "Germany"
+msgstr "Alemania"
+
+msgid "Greece"
+msgstr "Grecia"
+
+msgid "Hungary"
+msgstr "Hungría"
+
+msgid "Iceland"
+msgstr "Islandia"
+
+msgid "Ireland"
+msgstr "Irlanda"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Japan"
+msgstr "Japón"
+
+msgid "Mexico"
+msgstr "Méjico"
+
+msgid "Netherlands"
+msgstr "Países Bajos"
+
+msgid "New Zealand"
+msgstr "Nueva Zelanda"
+
+msgid "Norway"
+msgstr "Noruega"
+
+msgid "Poland"
+msgstr "Polonia"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Russia"
+msgstr "Rusia"
+
+msgid "Slovakia"
+msgstr "Eslovaquia"
+
+msgid "South Africa"
+msgstr "Sudáfrica"
+
+msgid "South Korea"
+msgstr "Corea del Sur"
+
+msgid "Spain"
+msgstr "España"
+
+msgid "Sweden"
+msgstr "Suecia"
+
+msgid "Switzerland"
+msgstr "Suiza"
+
+msgid "Turkey"
+msgstr "pavo"
+
+msgid "Ukraine"
+msgstr "Ucrania"
+
+msgid "United Arab Emirates"
+msgstr "Emiratos Árabes Unidos"
+
+msgid "United Kingdom"
+msgstr "Reino Unido"
+
+msgid "United States"
+msgstr "Estados Unidos"
+
+msgid "achievements"
+msgstr "logros"
+
+msgid "Investment management"
+msgstr "Gestión de inversiones"
+
+msgid "Select..."
+msgstr "Seleccionar..."
+
+msgid "INVESTMENT MANAGEMENT"
+msgstr "GESTIÓN DE INVERSIONES"
+
+msgid "Investors list"
+msgstr "Lista de inversores"
+
+msgid "My investments"
+msgstr "Mis inversiones"
+
+msgid "Create date"
+msgstr "Fecha de Creación"
+
+msgid "Author of the project"
+msgstr "Autor del proyecto"
+
+msgid "Date and time"
+msgstr "Fecha y hora"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "NEXT"
+msgstr "EL SIGUIENTE"
+
+msgid "Next"
+msgstr "próximo"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Kazakhstan"
+msgstr "Kazajstán"
+
+msgid "Almaty"
+msgstr "Almaty"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Science"
+msgstr "Ciencia"
+
+msgid "Architecture"
+msgstr "Arquitectura"
+
+msgid "Photography"
+msgstr "Fotografía"
+
+msgid "Designer"
+msgstr "Diseñador"
+
+msgid "IT specialist"
+msgstr "Especialista en TI"
+
+msgid "Agronomist"
+msgstr "Agrónomo"
+
+msgid "Architect"
+msgstr "Arquitecto"
+
+msgid "Lawyer"
+msgstr "Abogado"
+
+msgid "Writer"
+msgstr "Escritor"
+
+msgid "Doctor"
+msgstr "Doctor"
+
+msgid "Scientist"
+msgstr "Científico"
+
+msgid "Marketer"
+msgstr "Marketer"
+
+msgid "Teacher"
+msgstr "maestro"
+
+msgid "Cook"
+msgstr "cocinar"
+
+msgid "Artist"
+msgstr "Artista"
+
+msgid "Photographer"
+msgstr "Fotógrafo"
+
+msgid "Ecologist"
+msgstr "Ecologista"
+
+msgid "Economist"
+msgstr "Economista"
+
+msgid "Logistician"
+msgstr "Logistician"
+
+msgid "Journalist"
+msgstr "Periodista"
+
+msgid "Builder"
+msgstr "Constructor"
+
+msgid "These users may be interesting for you"
+msgstr "Estos usuarios pueden ser interesantes para usted"
+
+msgid "These articles may be interesting for you"
+msgstr "Estos artículos pueden ser interesantes para usted"
+
+msgid "You joined this group as Аdministrator"
+msgstr "Te uniste a este grupo como Аdministrator"
+
+msgid "articles written."
+msgstr "artículos escritos."
+
+msgid "groups created."
+msgstr "grupos creados."
+
+msgid "Creation"
+msgstr "Creación"
+
+msgid "Build a dream"
+msgstr "Construir un sueño"
+
+msgid "Read more interesting articles - go free registration"
+msgstr "Leer artículos más interesantes - ir inscripción gratuita"
+

@@ -1,0 +1,72 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-12-22 09:13+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Plugin/Form/Vendor/FieldTypes.php:20
+msgid "String"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:21
+msgid "Integer"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:22
+msgid "Float"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:23
+msgid "Date"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:24
+msgid "Datetime"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:25
+msgid "Textarea"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:26
+msgid "Checkbox"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:27
+msgid "Select"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:28
+msgid "Multi-select"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:29
+msgid "Email"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:30
+msgid "URL"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:31
+msgid "Upload file"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:32
+msgid "Editor"
+msgstr ""
+
+#: Plugin/Form/Vendor/FieldTypes.php:33
+msgid "Formula"
+msgstr ""
+

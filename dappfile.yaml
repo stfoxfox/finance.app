@@ -1,0 +1,106 @@
+{{ $_ := set . "AppPath" "/var/www" }}
+{{ $_ := set . "UserName" "www-data" }}
+---
+dimg: php
+from: ubuntu:16.04
+
+mount:
+  - from: build_dir
+    to: /var/cache/apt
+  - from: tmp_dir
+    to: /var/lib/apt/lists
+  - from: build_dir
+    to: /var/www/.composer
+
+git:
+- add: '/'
+  to: {{ .AppPath }}
+  owner: {{ .UserName }}
+  group: {{ .UserName }}
+  excludePaths:
+  - docker-compose.yml
+  - .dappfiles/
+  - dappfile.yaml
+  - .env
+  - .helm
+  - .vscode
+  stageDependencies:
+    install:
+    - "composer.json"
+    - "composer.lock"
+ansible:
+  beforeInstall:
+  - name: "Add repository for PHP 7.2."
+    apt_repository:
+      repo="ppa:ondrej/php"
+      codename="xenial"
+  - name: "Update apt"
+    apt: update_cache=yes
+{{- include "php install" . }}
+  install:
+  - name: "tst"
+    shell: ls -laht /var/www/
+  - name: "composer install"
+    shell: composer install
+    args:
+      chdir: {{ .AppPath }}
+  beforeSetup:
+  - name: ensure empty .env
+    copy:
+      content: ""
+      dest: {{ .AppPath }}/.env
+      force: yes
+      group: {{ .UserName }}
+      owner: {{ .UserName }}
+      mode: 0444
+  - name: "Setup php-fpm global config"
+    copy:
+      content: |
+{{ .Files.Get ".dappfiles/php-fpm.conf" | indent 8 }}
+      dest: /etc/php/7.2/fpm/php-fpm.conf
+  - name: "Setup php-cli conf"
+    copy:
+      content: |
+{{ .Files.Get ".dappfiles/php.ini.cli" | indent 8 }}
+      dest: /etc/php/7.2/cli/php.ini
+  - name: "Setup php-fpm ini"
+    copy:
+      content: |
+{{ .Files.Get ".dappfiles/php.ini.fpm" | indent 8 }}
+      dest: /etc/php/7.2/fpm/php.ini
+  - name: "Setup php-fpm pool conf"
+    copy:
+      content: |
+{{ .Files.Get ".dappfiles/www.conf" | indent 8 }}
+      dest: /etc/php/7.2/fpm/pool.d/www.conf
+---
+{{- define "php install" }}
+  - name: "Install php and other"
+    apt:
+      name: "{{`{{ item }}`}}"
+      force: yes
+    with_items:
+    - curl
+    - vim
+    - git
+    - nginx
+    - php7.2
+    - php7.2-bcmath
+    - php7.2-cli
+    - php7.2-common
+    - php7.2-curl
+    - php7.2-dev
+    - php7.2-fpm
+    - php7.2-gd
+    - php7.2-imap
+    - php7.2-intl
+    - php7.2-json
+    - php7.2-mbstring
+    - php7.2-pgsql
+    - php7.2-readline
+    - php7.2-xml
+    - php7.2-zip
+  - shell: |
+      curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
+{{- end }}
+

@@ -1,0 +1,287 @@
+/*
+global helper style classes
+*/
+@import "variables"; //color etc variables
+
+
+
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+/*global classes*/
+.nowrap{
+  white-space: nowrap;
+}
+//font-size global classes
+@for $i from 1 through 30 {
+  .font.s#{$i} { font-size: 1px * $i; }
+}
+
+//text align global classes
+.align-center {
+  text-align: center;
+}
+.align-left {
+  text-align: left;
+}
+.align-right {
+  text-align: right;
+}
+.nopadding {
+  padding: 0 !important;
+}
+
+//font style global classes
+.font.bold{
+  font-weight: bold;
+}
+.font.normal{
+  font-weight: normal;
+}
+
+.font.lighter{
+  font-weight: lighter;
+}
+
+.font.italic{
+  font-style: italic;
+}
+
+.underline{
+  text-decoration: underline;
+}
+.no-underline{
+  text-decoration: none;
+}
+
+//font color global classes
+.font.color-lightgrey{
+  color: $lightgrey;
+}
+.font.color-midgrey{
+  color: $midgrey;
+}
+.font.color-white{
+  color: #fff;
+}
+.font.color-black{
+  color: #000;
+}
+
+//float
+.float.left{
+  float: left;
+}
+.float.right{
+  float: right;
+}
+//titles & descriptions
+.main-title h1{
+  font-size: 30px;
+  font-weight: lighter;
+  text-align: center;
+}
+.main-title.black h1{
+  color: #000;
+}
+.main-title.white h1{
+  color: #fff;
+}
+.main-description{
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 20px;
+  text-align: center;
+}
+//margin global classes
+//margin-allsides
+@for $i from 1 through 100 {
+  .margin-a#{$i} { margin: 1px * $i; }
+}
+//old version classes
+$max: 100;
+$step: 5;
+
+@for $i from 0 through ceil($max/$step) {
+  $value: ($i - 0)*$step + 0;
+  .margin.a#{$value} {  margin:$value+px;}
+}
+//margin-top
+@for $i from 1 through 100 {
+  .margin-t#{$i} { margin-top: 1px * $i; }
+}
+//old version classes
+
+@for $i from 0 through ceil($max/$step) {
+  $value: ($i - 0)*$step + 0;
+  .margin.t#{$value} {  margin-top:$value+px;}
+}
+//margin-bottom
+@for $i from 1 through 100 {
+  .margin-b#{$i} { margin-bottom: 1px * $i; }
+}
+//old version classes
+@for $i from 0 through ceil($max/$step) {
+  $value: ($i - 0)*$step + 0;
+  .margin.b#{$value} {  margin-bottom:$value+px;}
+}
+//margin-left
+@for $i from 1 through 100 {
+  .margin-l#{$i} { margin-left: 1px * $i; }
+}
+//old version classes
+@for $i from 0 through ceil($max/$step) {
+  $value: ($i - 0)*$step + 0;
+  .margin.l#{$value} {  margin-left:$value+px;}
+}
+//margin-right
+@for $i from 1 through 100 {
+  .margin-r#{$i} { margin-right: 1px * $i; }
+}
+//old version classes
+@for $i from 0 through ceil($max/$step) {
+  $value: ($i - 0)*$step + 0;
+  .margin.r#{$value} {  margin-right:$value+px;}
+}
+//margin for child
+.element-margin.horizontal>a,
+.element-margin.horizontal>div{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.element-margin.vertical>a,
+.element-margin.vertical>div{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+//padding global classes
+
+//padding-allsides
+@for $i from 1 through 100 {
+  .padding#{$i} { padding: 1px * $i; }
+}
+//old version classes
+@for $i from 0 through ceil($max/$step) {
+  $value: ($i - 0)*$step + 0;
+  .padding#{$value} {  padding:$value+px;}
+}
+//padding-top
+@for $i from 1 through 100 {
+  .padding-t#{$i} { padding-top: 1px * $i; }
+}
+//old version classes
+@for $i from 0 through ceil($max/$step) {
+  $value: ($i - 0)*$step + 0;
+  .padding.t#{$value} {  padding-top:$value+px;}
+}
+//padding-bottom
+@for $i from 1 through 100 {
+  .padding-b#{$i} { padding-bottom: 1px * $i; }
+}
+//old version classes
+@for $i from 0 through ceil($max/$step) {
+  $value: ($i - 0)*$step + 0;
+  .padding.b#{$value} {  padding-bottom:$value+px;}
+}
+//padding-left
+@for $i from 1 through 100 {
+  .padding-l#{$i} { padding-left: 1px * $i; }
+}
+//old version classes
+@for $i from 0 through ceil($max/$step) {
+  $value: ($i - 0)*$step + 0;
+  .padding.l#{$value} {  padding-left:$value+px;}
+}
+//padding-right
+@for $i from 1 through 100 {
+  .padding-r#{$i} { padding-right: 1px * $i; }
+}
+//old version classes
+@for $i from 0 through ceil($max/$step) {
+  $value: ($i - 0)*$step + 0;
+  .padding.r#{$value} {  padding-right:$value+px;}
+}
+
+//borders global classes style
+.border.rounded{
+ border-radius: 8px;
+}
+.border.half-rounded{
+ border-radius: 4px;
+}
+.border.bottom{
+  border-bottom: 1px solid;
+}
+.border.top{
+  border-top: 1px solid;
+}
+.border.left{
+  border-left: 1px solid;
+}
+.border.right{
+  border-right: 1px solid;
+}
+.border-lgrey{
+  border-color: $lightgrey;
+}
+.border-white{
+  border:2px solid white;
+}
+.border-lightgrey{
+  border:2px solid $lightgrey;
+}
+
+//background color
+.bg-lightgrey{
+  background: $lightgrey;
+}
+.bg-transparent{
+  background: transparent;
+}
+
+//animation
+.animation {
+  -webkit-transition: background-color 0.7s, color 1s, opacity 0.5s;
+  -ms-transition: background-color 0.7s, color 1s, opacity 0.5s;
+  -o-transition: background-color 0.7s, color 1s, opacity 0.5s;
+  -moz-transition: background-color 0.7s, color 1s, opacity 0.5s;
+  transition: background-color 0.7s, color 1s, opacity 0.5s;
+}
+
+//dividers
+.divider-yellow:after{
+  content: '';
+  display: block;
+  height: 1px;
+  margin: 0 auto;
+  width: 100px;
+  margin-top: 25px;
+}
+.divider-black:after{
+  content: '';
+  display: block;
+  height: 1px;
+  margin: 0 auto;
+  width: 100px;
+  margin-top: 25px;
+  background-color: #000;
+}
+.divider-white:after{
+  content: '';
+  display: block;
+  height: 1px;
+  margin: 0 auto;
+  width: 100px;
+  margin-top: 25px;
+  background-color: #fff;
+}
+
+.origin-styles.box-shadow,
+.origin-styles .box-shadow{
+  -webkit-box-shadow: 0px 1px 2px -1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 1px 2px -1px rgba(0,0,0,0.75);
+  box-shadow: 0px 1px 2px -1px rgba(0,0,0,0.75);
+}
+/*end global classes*/
